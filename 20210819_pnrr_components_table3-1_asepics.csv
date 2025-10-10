@@ -1,0 +1,17 @@
+Mission,Epic Name,Summary,IssueType,ComponentCost
+Mission1,M1C1,"M1C1 Digitalisation, innovation and security in the PA",Epic,9722
+Mission1,M1C2,"M1C2 Digitalisation, innovation and competitiveness in the production system",Epic,23895
+Mission1,M1C3,M1C3 Tourism and culture 4.0,Epic,6675
+Mission2,M2C1,M2C1 Circular economy and sustainable agriculture,Epic,5265
+Mission2,M2C2,"M2C2 Renewable energy, hydrogen, grid and sustainable mobility",Epic,23778
+Mission2,M2C3,M2C3 Energy efficiency and renovation of buildings,Epic,15362
+Mission2,M2C4,M2C4 Protection of land and water resources,Epic,15054
+Mission3,M3C1,M3C1 Investments in the rail network,Epic,24767
+Mission3,M3C2,M3C2 Intermodality and integrated logistics,Epic,630
+Mission4,M4C1,M4C1 Strengthening the provision of education services: from crèches to universities,Epic,19436
+Mission4,M4C2,M4C2 From research to business,Epic,11440
+Mission5,M5C1,M5C1 Employment policies,Epic,6660
+Mission5,M5C2,"M5C2 Social infrastructure, households, the community and the third sector",Epic,11216
+Mission5,M5C3,M5C3 Special interventions for territorial cohesion,Epic,1975
+Mission6,M6C1,"M6C1 Local networks, facilities and telemedicine for local health care",Epic,7000
+Mission6,M6C2,"M6C2 Innovation, research and digitalisation of the national health service",Epic,8626

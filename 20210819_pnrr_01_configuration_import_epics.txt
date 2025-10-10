@@ -1,0 +1,47 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.file.id" : "9c0e6ebc-0ab3-40ec-96bf-5a715f9f8ca3",
+  "config.email.suffix" : "@",
+  "config.file.name" : "components_table3-1_asepics.csv",
+  "config.field.mappings" : {
+    "Summary" : {
+      "jira.field" : "summary",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Mission" : {
+      "jira.field" : "labels",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Epic Name" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10011"
+    },
+    "IssueType" : {
+      "jira.field" : "issuetype",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "ComponentCost" : {
+      "jira.field" : "description",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    }
+  },
+  "config.csv.file.id" : null,
+  "config.value.mappings" : { },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.type" : null,
+    "project.key" : "PR",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "PNRR reference",
+    "project.lead" : "ug:09621a3b-e8a1-4bab-8ef4-2879e147e226"
+  },
+  "config.date.format" : "dd/MMM/yy h:mm a"
+}

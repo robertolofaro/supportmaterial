@@ -1,0 +1,67 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.file.id" : "63c1b640-5f83-4c62-800c-1c41a8891967",
+  "config.email.suffix" : "@",
+  "config.file.name" : "taggingtable_annex_asissues.csv",
+  "config.field.mappings" : {
+    "DigitalPcnt" : {
+      "jira.field" : "labels",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "ClimateField" : {
+      "jira.field" : "labels",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "BudgetEURmln" : {
+      "jira.field" : "description",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "ClimatePcnt" : {
+      "jira.field" : "labels",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "DigitalField" : {
+      "jira.field" : "labels",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "IssueType" : {
+      "jira.field" : "issuetype",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Summary" : {
+      "jira.field" : "summary",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Mission" : {
+      "jira.field" : "labels",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Epic Name" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10014"
+    }
+  },
+  "config.csv.file.id" : null,
+  "config.value.mappings" : { },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.type" : null,
+    "project.key" : "PR",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "PNRR reference",
+    "project.lead" : "ug:09621a3b-e8a1-4bab-8ef4-2879e147e226"
+  },
+  "config.date.format" : "dd/MMM/yy h:mm a"
+}

@@ -1,0 +1,165 @@
+Mission,Epic Name,Summary,IssueType,BudgetEURmln,ClimateField,ClimatePcnt,DigitalField,DigitalPcnt
+Mission1,M1C1,"M1C1-I1.1-1 Digital infrastructure",Story,900,,,Digital_IntField_055,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.2-2 Cloud enablement for local PA",Story,1000,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.3-3 National Digital Data Platform",Story,556,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.3-4 Single Digital Gateway",Story,90,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.4-5 Citizen experience - Improvement of the quality and the usability of digital public services",Story,613,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.4-6 Citizen inclusion - Accessibility improvement of digital public services",Story,80,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.4-7 Adoption scale up of PagoPA platform services and the 'IO' app",Story,750,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.4-8 Adoption scale up of the National Digital Identity platforms (SPID, CIE) and the national registry (ANPR)",Story,285,,,Digital_IntField_011ter,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.4-9 Digitization of public notices",Story,245,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.4-10 Mobility as a Service for Italy",Story,40,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.5-11 Cybersecurity",Story,623,,,Digital_IntField_021quinquies,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.6-12 Digitization of the Ministry of the Interior",Story,107,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.6-13 Digitization of the Ministry of Justice",Story,133,,,Digital_IntField_011quater,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.6-14 Digitization of National Social Security Institute (INPS) and National Institute for Insurance against Accidents at work (INAIL)",Story,296,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.6-15 Digitization of the Ministry of Defense",Story,43,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.6-16 Digitization of the Council of State",Story,8,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.6-17 Digitization of the Finance Police",Story,25,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.7-18 Digital Civic Service",Story,60,,,Digital_IntField_108,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I1.7-19 Network of digital facilitation services",Story,135,,,Digital_IntField_108,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-R1.2-21 Transformation support",Story,155,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C1,"M1C1-I3.1-34 Organisational Innovation of Justice - Sub-measure - Hiring of human capital to strengthen the Judicial Office and overcome the disparities between the different judicial offices",Story,907,,,Digital_IntField_011quater,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I1-36 Tax credit for tangible 4.0 capital goods (Annex A)",Story,8868,,,Digital_IntField_010,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I1-37 Tax credit for intangible 4.0 capital goods (Annex B)",Story,1914,,,Digital_IntField_010,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I1-40 Tax credit for training activities",Story,300,,,Digital_IntField_108,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I2-41 Innovation and technology of microelectronics",Story,340,,,Digital_IntField_021quater,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I3-42 Plan Italia 1 Gbps",Story,3864,,,Digital_IntField_051,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I3-43 Italia 5G",Story,2020,,,Digital_IntField_051,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I3-44 Connected Schools",Story,261,,,Digital_IntField_051,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I3-45 Connected Helth care facilities",Story,502,,,Digital_IntField_051,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I3-46 Connected smaller islands",Story,61,,,Digital_IntField_051,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I4-47 SatCom Initiative",Story,385,,,Digital_IntField_055bis,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I4-48 Earth Observation",Story,417,,,Digital_IntField_055bis,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I4-49 Space Factory",Story,235,,,Digital_IntField_009bis,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I4-50 In-Orbit Economy",Story,450,,,Digital_IntField_009bis,Digital_CoeffPcnt_100
+Mission1,M1C2,"M1C2-I5-51 Refinancing and remodelling of Fund 394/81 managed by SIMEST",Story,1200,,,Digital_IntField_015,Digital_CoeffPcnt_40
+Mission1,M1C2,"M1C2-I5-52 Competitiveness and resilience of supply chains",Story,750,,,Digital_IntField_015,Digital_CoeffPcnt_40
+Mission1,M1C3,"M1C3-I1.1-54 Digital Strategy and Platforms of Culture Heritage",Story,500,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C3,"M1C3-I1.3-56 Improve energy efficiency in cinema, theatres and museums",Story,210,Climate_IntField_026,Climate_CoeffPcnt_40,,
+Mission1,M1C3,"M1C3-I2.1-57a Attractiveness of Small Historic Towns_energy efficiency of public buildings",Story,560,Climate_IntField_026,Climate_CoeffPcnt_40,,
+Mission1,M1C3,"M1C3-I2.1-57b Attractiveness of Small Historic Towns_energy efficiency of SME",Story,100,Climate_IntField_024,Climate_CoeffPcnt_40,,
+Mission1,M1C3,"M1C3-I2.3-59 Programs to enhance the identity of places: parks and historic gardens",Story,300,Climate_IntField_050,Climate_CoeffPcnt_40,,
+Mission1,M1C3,"M1C3-I3.2-62a Development of the film industry (Cinecittà project)_digital component",Story,61,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission1,M1C3,"M1C3-I3.2-62b Development of the film industry (Cinecittà project)_construction of energy efficient studios",Story,165,Climate_IntField_025ter,Climate_CoeffPcnt_40,,
+Mission1,M1C3,"M1C3-I3.2-62c Development of the film industry (Cinecittà project)_energy efficiency renovations",Story,65,Climate_IntField_026,Climate_CoeffPcnt_40,,
+Mission1,M1C3,"M1C3-I3.3-63 Capacity building for culture operators to manage the digital and green transition.",Story,155,,,Digital_IntField_021bis,Digital_CoeffPcnt_100
+Mission1,M1C3,"M1C3-I4.1-64 Digital Tourism Hub",Story,114,,,Digital_IntField_011bis,Digital_CoeffPcnt_100
+Mission1,M1C3,"M1C3-I4.2-65 Funds for the competitiveness of tourism enterprises - Improvement of the infrastructure of receptivity",Story,893,Climate_IntField_025,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I1.1-71 Implementation of new waste management plants and modernization of existing plants",Story,1500,Climate_IntField_042,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I1.2-72 Circular economy 'flagship' projects",Story,600,Climate_IntField_042,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I2.1-73a Logistics plan for the agri-food, fishing and aquaculture, forestry, floriculture and plant nursery sectors_innovative technologies in agro-industrial production",Story,324,Climate_IntField_047,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I2.1-73b Logistics plan for the agri-food, fishing and aquaculture, forestry, floriculture and plant nursery sectors_digital solutions for logistics",Story,216,,,Digital_IntField_010,Digital_CoeffPcnt_100
+Mission2,M2C1,"M2C1-I2.1-73c Logistics plan for the agri-food, fishing and aquaculture, forestry, floriculture and plant nursery sectors_zero emission transport solutions",Story,180,Climate_IntField_079,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I2.1-73d Logistics plan for the agri-food, fishing and aquaculture, forestry, floriculture and plant nursery sectors_reduction of waste",Story,40,Climate_IntField_047,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I2.1-73e Logistics plan for the agri-food, fishing and aquaculture, forestry, floriculture and plant nursery sectors_renewable energy production",Story,40,Climate_IntField_029,Climate_CoeffPcnt_100,,
+Mission2,M2C1,"M2C1-I2.2-74a Agri-solar Park_energy efficient renovations",Story,750,Climate_IntField_029,Climate_CoeffPcnt_100,,
+Mission2,M2C1,"M2C1-I2.2-74b Agri-solar Park_energy efficient renovations_energy efficient cooling systems",Story,525,Climate_IntField_024,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I2.2-74c Agri-solar Park_solar panels",Story,225,Climate_IntField_024,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I2.3-76b Innovation and mechanization in the agricultural and food sectors_precision farming",Story,200,,,Digital_IntField_084,Digital_CoeffPcnt_100
+Mission2,M2C1,"M2C1-I2.3-77 Innovation and mechanization in the agricultural and food sectors_oil sector",Story,100,Climate_IntField_047,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I3.1-78a Green islands_energy efficiency",Story,34,Climate_IntField_026,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I3.1-78b Green islands_zero emission",Story,6,Climate_IntField_072bis,Climate_CoeffPcnt_100,,
+Mission2,M2C1,"M2C1-I3.1-78c Green islands_waste management",Story,10,Climate_IntField_042,Climate_CoeffPcnt_40,,
+Mission2,M2C1,"M2C1-I3.1-78d Green islands_solar energy",Story,50,Climate_IntField_029,Climate_CoeffPcnt_100,,
+Mission2,M2C1,"M2C1-I3.3-80 Circular Economy and Sustainable Agriculture - Investment 3.3: Culture and awareness on environmental topics and challenges",Story,30,Climate_IntField_027,Climate_CoeffPcnt_100,Digital_IntField_021bis,Digital_CoeffPcnt_100
+Mission2,M2C2,"M2C2-I1.1-86 Development of agri-voltaic systems",Story,1099,Climate_IntField_029,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I1.2-88 Promotion of RES for energy communities and jointly acting renewables self-consumers",Story,2200,Climate_IntField_029,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I1.3-89 Promotion of innovative systems (including off-shore)",Story,675,Climate_IntField_028,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I1.4-90 Development of biomethane, according to criteria for promoting the circular economy",Story,1908,Climate_IntField_030bis,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I2.1-92 Strengthening smart grids",Story,3610,Climate_IntField_033,Climate_CoeffPcnt_100,Digital_IntField_033,Digital_CoeffPcnt_40
+Mission2,M2C2,"M2C2-I2.2-93 Interventions to increase the resilience of power grid",Story,500,Climate_IntField_037,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I3.1-94 Production of Hydrogen in brownfield sites (Hydrogen Valleys)_production",Story,350,Climate_IntField_032,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I3.1-95 Production of Hydrogen in brownfield sites (Hydrogen Valleys)_R&D",Story,150,Climate_IntField_022,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I3.2-97 Hydrogen Use in hard-to-abate industry",Story,400,Climate_IntField_027,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I3.3-98 Hydrogen testing for road transport",Story,230,Climate_IntField_077,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I3.4-99 Hydrogen testing for railway mobility",Story,300,Climate_IntField_077,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I3.5-101 Hydrogen Research and Development",Story,160,Climate_IntField_022,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I4.1-102 Investment in soft mobility (National Plan of Cycle Path)",Story,600,Climate_IntField_075,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I4.2-103 Development of Rapid Mass Transport systems (metro, streetcar, BRT)",Story,3600,Climate_IntField_073,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I4.3104 Charging infrastructures",Story,741,Climate_IntField_077,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I4.4-105 Renewal of the regional public transport bus fleet with clean fuels vehicles",Story,1650,Climate_IntField_074,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I4.4-105b Renewal of the regional public transport bus fleet with clean fuels vehicles",Story,765,Climate_IntField_073,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I4.4-106 Renewal of the regional public transport railway fleet with clean fuels trains and universal service",Story,800,Climate_IntField_072bis,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I4.4-107 Renewal fleet for the National fire brigade command_vehicles",Story,123,Climate_IntField_NA see staff report,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I4.4-109 Renewal fleet for the National fire brigade command_recharging",Story,18,Climate_IntField_077,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I5.1-110 PV technology",Story,400,Climate_IntField_029,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I5.1-111 Wind industry",Story,100,Climate_IntField_028,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I5.1-112 Battery industry",Story,500,Climate_IntField_022,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I5.2-113 Hydrogen",Story,450,Climate_IntField_022,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I5.3-115 Electric buses",Story,300,Climate_IntField_027,Climate_CoeffPcnt_100,,
+Mission2,M2C2,"M2C2-I5.4-116 Support to start-ups and venture capital active in the ecological transition",Story,250,Climate_IntField_022,Climate_CoeffPcnt_100,,
+Mission2,M2C3,"M2C3-I1.1-117 Construction of new schools through building replacement - School building replacement and energy upgrading plan",Story,800,Climate_IntField_025ter,Climate_CoeffPcnt_40,,
+Mission2,M2C3,"M2C3-I1.2-118 Efficiency of judicial sites: Construction of buildings, requalification and strengthening of real estate assets of the administration of justice in an ecological vein",Story,114,Climate_IntField_026,Climate_CoeffPcnt_40,,
+Mission2,M2C3,"M2C3-I2.1-121 Strengthening of the Ecobonus and Sismabonus until 110% for energy efficiency and building safety",Story,12053,Climate_IntField_025bis,Climate_CoeffPcnt_100,,
+Mission2,M2C3,"M2C3-I3.1-123 Promotion of efficient district heating",Story,200,Climate_IntField_034bis,Climate_CoeffPcnt_100,,
+Mission2,M2C4,"M2C4-I1.1-124 Implementation of an advanced and integrated monitoring and forecasting system",Story,500,Climate_IntField_035,Climate_CoeffPcnt_100,,
+Mission2,M2C4,"M2C4-I2.1-125 Measures for flood and hydrogeological risk reduction",Story,1287,Climate_IntField_035,Climate_CoeffPcnt_100,,
+Mission2,M2C4,"M2C4-I2.1-126 Measures for flood and hydrogeological risk reduction",Story,1200,Climate_IntField_035,Climate_CoeffPcnt_100,,
+Mission2,M2C4,"M2C4-I2.2-127 Interventions for the resilience, the enhancement of the territory and the energy efficiency of the Municipalities_climate change",Story,3000,Climate_IntField_035,Climate_CoeffPcnt_100,,
+Mission2,M2C4,"M2C4-I2.2-128 Interventions for the resilience, the enhancement of the territory and the energy efficiency of the Municipalities_energy efficiency",Story,3000,Climate_IntField_026,Climate_CoeffPcnt_40,,
+Mission2,M2C4,"M2C4-I3.1-129 Protection and enhancement of urban and peri-urban forests",Story,330,Climate_IntField_050,Climate_CoeffPcnt_40,,
+Mission2,M2C4,"M2C4-I3.2-130 Digitization of national parks. Nature conservation - monitoring of pressures and threats on species and habitats and climate change",Story,82,Climate_IntField_050,Climate_CoeffPcnt_40,,
+Mission2,M2C4,"M2C4-I3.2-131 Digitization of national parks. Digital services to visitors to national parks and marine protected areas",Story,14,,,Digital_IntField_054ter,Digital_CoeffPcnt_100
+Mission2,M2C4,"M2C4-I3.2-132 Digitization of national parks. Administrative simplification - Digitisation and simplification of procedures for services provided by Parks and Marine Protected Areas",Story,4,,,Digital_IntField_011,Digital_CoeffPcnt_100
+Mission2,M2C4,"M2C4-I3.3- 133 Re-naturification of Po area",Story,357,Climate_IntField_050,Climate_CoeffPcnt_40,,
+Mission2,M2C4,"M2C4-I3.5-135 Restoration and protection of the seabed and marine habitats",Story,400,Climate_IntField_049,Climate_CoeffPcnt_40,,
+Mission2,M2C4,"M2C4-I4.1-136 Investments in primary water infrastructures for the security of water supply",Story,2000,Climate_IntField_040,Climate_CoeffPcnt_40,,
+Mission2,M2C4,"M2C4-I4.2-137 Reduction of losses in water distribution networks, including digitization and monitoring of networks",Story,900,Climate_IntField_039bis,Climate_CoeffPcnt_40,,
+Mission2,M2C4,"M2C4-I4.3-138 Investments in the resilience of the irrigation agrosystem for better management of water resources",Story,880,Climate_IntField_040,Climate_CoeffPcnt_40,,
+Mission2,M2C4,"M2C4-I4.4-139 Investments in sewerage and purification",Story,600,Climate_IntField_041bis,Climate_CoeffPcnt_40,,
+Mission3,M3C1,"M3C1-I1.1-140 High-speed railway connections to the South for passengers and freight (Napoli - Bari)",Story,1400,Climate_IntField_064,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.1-141 High-speed railway connections to the South for passengers and freight (Palermo-Catania)",Story,1440,Climate_IntField_064,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.1-142 High-speed railway connections to the South for passengers and freight (Salerno-Reggio Calabria)",Story,1800,Climate_IntField_064,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.2-143 High-speed lines in the North connecting to Europe (Brescia-Verona-Padova)",Story,3670,Climate_IntField_064,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.2-144 High-speed lines in the North connecting to Europe (Liguria-Alpi)",Story,3970,Climate_IntField_064,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.2-145 High-speed lines in the North connecting to Europe (Verona-Brennero - opere di adduzione)",Story,930,Climate_IntField_065,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.3-146 Diagonal connections (Roma-Pescara)",Story,620,Climate_IntField_068,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.3-147 Diagonal connections (Orte-Falconara)",Story,510,Climate_IntField_068,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.3-148 Diagonal connections (Taranto-Metaponto-Potenza-Battipaglia)",Story,450,Climate_IntField_065,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.4-149 Introducing the European Rail Transport Management System (ERTMS)",Story,2970,Climate_IntField_071,Climate_CoeffPcnt_40,Digital_IntField_071,Digital_CoeffPcnt_100
+Mission3,M3C1,"M3C1-I1.5-150 Strengthening metropolitan nodes and key national links",Story,2970,Climate_IntField_068,Climate_CoeffPcnt_100,,
+Mission3,M3C1,"M3C1-I1.6-151 Strengthening regional lines - Upgrading of regional railways (management RFI)",Story,936,Climate_IntField_069,Climate_CoeffPcnt_40,,
+Mission3,M3C1,"M3C1-I1.7-152 Upgrading, electrification and resilience of railways South",Story,2400,Climate_IntField_069,Climate_CoeffPcnt_40,,
+Mission3,M3C1,"M3C1-I1.8-153 Upgrading railway stations (RFI management; in South)",Story,700,Climate_IntField_069,Climate_CoeffPcnt_40,,
+Mission3,M3C2,"M3C2-I1.1-154a Green ports: renewable energy and energy efficiency interventions at ports_energy efficiency",Story,68,Climate_IntField_026,Climate_CoeffPcnt_40,,
+Mission3,M3C2,"M3C2-I1.1-154b Green ports: renewable energy and energy efficiency interventions at ports_solar energy",Story,124,Climate_IntField_029,Climate_CoeffPcnt_100,,
+Mission3,M3C2,"M3C2-I1.1-154c Green ports: renewable energy and energy efficiency interventions at ports_pollution reduction",Story,27,Climate_IntField_048,Climate_CoeffPcnt_40,,
+Mission3,M3C2,"M3C2-I1.1-154d Green ports: renewable energy and energy efficiency interventions at ports_clean transport",Story,30,Climate_IntField_074,Climate_CoeffPcnt_100,,
+Mission3,M3C2,"M3C2-I1.1-154e Green ports: renewable energy and energy efficiency interventions at ports_recharging stations",Story,22,Climate_IntField_077,Climate_CoeffPcnt_100,,
+Mission3,M3C2,"M3C2-I2.1-155 The digitalization of the logistic chain_LogIN Center",Story,30,,,Digital_IntField_084,Digital_CoeffPcnt_100
+Mission3,M3C2,"M3C2-I2.1-156 The digitalization of the logistic chain_Network of ports and freight terminals",Story,45,,,Digital_IntField_084,Digital_CoeffPcnt_100
+Mission3,M3C2,"M3C2-I2.1-157 The digitalization of the logistic chain_LogIN Business",Story,175,,,Digital_IntField_084,Digital_CoeffPcnt_100
+Mission3,M3C2,"M3C2-I2.2-159a The digitalization of air traffic management_optimization",Story,80,,,Digital_IntField_084,Digital_CoeffPcnt_100
+Mission3,M3C2,"M3C2-I2.2-158b The digitalization of air traffic management_digitisation",Story,30,,,Digital_IntField_084,Digital_CoeffPcnt_100
+Mission4,M4C1,"M4C1-R1.7-166 Reform of student housing regulation and investment in student housing",Story,960,Climate_IntField_025,Climate_CoeffPcnt_40,,
+Mission4,M4C1,"M4C1-R1.7-166 2nd line page 101 Reform of student housing regulation and investment in student housing",Story,780,Climate_IntField_026,Climate_CoeffPcnt_40,,
+Mission4,M4C1,"M4C1-R2.1-174 Integrated digital teaching and training on the digital transformation for school staff",Story,800,,,Digital_IntField_108,Digital_CoeffPcnt_100
+Mission4,M4C1,"M4C1-I3.2-178 School 4.0: innovative schools, wiring, new classrooms and workshops",Story,2100,,,Digital_IntField_012,Digital_CoeffPcnt_100
+Mission4,M4C1,"M4C1-I3.4-180 Teaching and advanced university skills",Story,500,,,Digital_IntField_108,Digital_CoeffPcnt_100
+Mission4,M4C1,"M4C1-I4.1-182 Extension in number and career opportunities of PhDs (Research-oriented, Public Administration and Cultural Heritage)",Story,432,,,Digital_IntField_016,Digital_CoeffPcnt_40
+Mission4,M4C2,"M4C2-I1.3-186a Partnerships extended to universities, research centers, companies and funding of basic research projects",Story,483,Climate_IntField_023,Climate_CoeffPcnt_40,,
+Mission4,M4C2,"M4C2-I1.3-186b Partnerships extended to universities, research centers, companies and funding of basic research projects",Story,483,Climate_IntField_022,Climate_CoeffPcnt_100,,
+Mission4,M4C2,"M4C2-I1.4-187 Strengthening research structures and supporting the creation of 'national R&D leaders' on some Key Enabling Technologies",Story,480,Climate_IntField_022,Climate_CoeffPcnt_100,,
+Mission4,M4C2,"M4C2-I1.4-187 Strengthening research structures and supporting the creation of 'national R&D leaders' on some Key Enabling Technologies",Story,240,Climate_IntField_023,Climate_CoeffPcnt_40,,
+Mission4,M4C2,"M4C2-I1.4-187 Strengthening research structures and supporting the creation of 'national R&D leaders' on some Key Enabling Technologies",Story,240,,,Digital_IntField_009bis,Digital_CoeffPcnt_100
+Mission4,M4C2,"M4C2-I1.5-188 Establishing and strengthening of 'innovation ecosystems for sustainability', building 'territorial leaders of R&D'",Story,1300,,,Digital_IntField_019,Digital_CoeffPcnt_40
+Mission4,M4C2,"M4C2-I2.1-189a IPCEI_digital",Story,900,,,Digital_IntField_021quater,Digital_CoeffPcnt_100
+Mission4,M4C2,"M4C2-I2.1-189b IPCEI_green",Story,600,Climate_IntField_022,Climate_CoeffPcnt_100,,
+Mission4,M4C2,"M4C2-I2.2-190a Partnerships in research and innovation – Horizon Europe_green",Story,120,Climate_IntField_022,Climate_CoeffPcnt_100,,
+Mission4,M4C2,"M4C2-I2.2-190b Partnerships in research and innovation – Horizon Europe_digital",Story,80,,,Digital_IntField_009bis,Digital_CoeffPcnt_100
+Mission4,M4C2,"M4C2-I2.3-191 Strengthening and sectorial/territorial extension of technology transfer centres by industry segments",Story,350,,,Digital_IntField_010,Digital_CoeffPcnt_100
+Mission4,M4C2,"M4C2-I3.1-192 Fund for construction of an integrated system of research and innovation infrastructures",Story,1580,,,Digital_IntField_055,Digital_CoeffPcnt_100
+Mission4,M4C2,"M4C2-I3.3-194 Introduction of innovative doctorates that respond to the needs of innovation by enterprises and promote the hiring of researchers by companies",Story,600,,,Digital_IntField_016,Digital_CoeffPcnt_40
+Mission5,M5C1,"M5C1-I1.1-198 Active Labour Market Policies (ALMPs) and Vocational Training",Story,4400,,,Digital_IntField_016,Digital_CoeffPcnt_40
+Mission5,M5C1,"M5C1-I1.2-199 Creation of women's enterprises",Story,400,,,Digital_IntField_100,Digital_CoeffPcnt_40
+Mission5,M5C1,"M5C1-I1.4-201 Strengthening the dual system",Story,600,,,Digital_IntField_016,Digital_CoeffPcnt_40
+Mission5,M5C1,"M5C1-I2.1-202 Universal Civil Service",Story,650,,,Digital_IntField_099,Digital_CoeffPcnt_40
+Mission5,M5C2,"M5C2-I1.2-207 Autonomy patterns for people with disabilities",Story,275,,,Digital_IntField_012,Digital_CoeffPcnt_100
+Mission5,M5C2,"M5C2-I3.1-215 The Sport and Social Inclusion project",Story,350,Climate_IntField_026,Climate_CoeffPcnt_40,,
+Mission5,M5C2,"M5C2-I3.1-215b The Sport and Social Inclusion project",Story,350,Climate_IntField_025ter,Climate_CoeffPcnt_40,,
+Mission5,M5C3,"M5C3-I4-220 Infrastructural investments for the Special Economic Zone",Story,630,Climate_IntField_078,Climate_CoeffPcnt_40,,
+Mission6,M6C1,"M6C1-I1.1-221 Proximity networks, facilities and telemedicine for territorial healthcare assistance - Community Health House to improve territorial health assistance",Story,1600,Climate_IntField_025ter,Climate_CoeffPcnt_40,,
+Mission6,M6C1,"M6C1-I1.2-223 Home as the first place of care and telemedicine",Story,1280,,,Digital_IntField_013,Digital_CoeffPcnt_100
+Mission6,M6C2,"M6C2-I1.1-224 Digital update of hospitals’ technological equipment",Story,1450,,,Digital_IntField_095,Digital_CoeffPcnt_100
+Mission6,M6C2,"M6C2-I1.3-227 Strengthening of the technological infrastructure and of the tools for data collection, data processing, data analysis and simulation",Story,1673,,,Digital_IntField_095,Digital_CoeffPcnt_100
