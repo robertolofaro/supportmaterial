@@ -12,12 +12,27 @@ For 2., a benefit is that, if you create directories by domain or theme (called 
 For 3., this allows to "compartmentalize" chats, as those confidential or using confidential data are within GPT4All (2.)
 For 3., use Ollama plus either open-webui or other similar (including custom)
 
-The script in this directory was one of the versions that developed incrementally with Google Gemini based upon my specs, testing each increment locally.
+The script in this directory was one of the versions that developed incrementally with Google Gemini based upon my specs, testing each increment locally, and releasing after the latest increment covered all the initial requirements plus those that included while testing increments.
+Analysis and developement and testing and release time (end-to-end, including research to develop the initial "mini-project charter"): a couple of hours.
 
 The aim: allow to use GPT4All, with its flexibility in adding models also from HuggingFace, but having just one model file shared by both GPT4All and ollama
 
 Platform: Ubuntu 24.05
 
-The script is of course CC-BY-SA
-  
+The script "ollama_sideload_sanitized.py" in the main directory is of course CC-BY-SA
+
+Rationale of the script:
+
+1. It was one of the "increments" from the initial specifications
+2. it reads the directory "models" in my local GPT4All installation, and
+2.1. on the "shell" side, clears the "manifests" registry of ollama
+2.2. the scripts for each GPT4All GGUF model defines a name under the ollama conventions
+2.3. in a different increment, added also draft "templates" for chat specific for each model
+2.4. the script creates symbolic links and manifests under ollama
+2.5. once done, "ollama list" correctly shows the list of GPT4All GGUF models
+2.6. the last step is to give back ownership to the user ollama (as the script is executed by sudo)
+
+The txt files in this directory are actually showing the information known by ollama for each model, including the first draft of the chat templates that is associated to the specific characteristics of the model.
+
+For example, for Llama 3.2 selected a text-oriented model that has been abliterated/uncensored, as most of my uses are about challening my drafts or summarizing material but using the MOE and reasoning characteristics of the models whenever neeeded.
   
