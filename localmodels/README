@@ -1,0 +1,23 @@
+This directory contains information about the local LLM (and other) models that use locally
+
+Generally, three different "pools" of activities
+* 1 those using online AI platforms- if I use online platforms, I prefer to actually ask the same prompt and "agent" to different engines separately, then collect and process locally the answers
+* 2 those using offline AI models- mainly via GPT4All and using "localdocs" where I post the PDF or txt version of reference material and data (including what should not go online- e.g. confidential data or WIP about concepts, ideas, projects)
+° 3 those using offline AI models but including online access.
+
+For 1., depends in which stage and for what purpose- e.g. for software I prefer to prepare a "mini-project charter" and then interact while proposing incremental changes, also to keep it simple (AIs often make excessively complex proposals)
+
+For 2., a benefit is that, if you create directories by domain or theme (called "localdocs" within GPT4All), whenever a new document is added automatically the engine does all the tokenization and embedding process, to add the new document(s) to those already available
+
+For 3., this allows to "compartmentalize" chats, as those confidential or using confidential data are within GPT4All (2.)
+For 3., use Ollama plus either open-webui or other similar (including custom)
+
+The script in this directory was one of the versions that developed incrementally with Google Gemini based upon my specs, testing each increment locally.
+
+The aim: allow to use GPT4All, with its flexibility in adding models also from HuggingFace, but having just one model file shared by both GPT4All and ollama
+
+Platform: Ubuntu 24.05
+
+The script is of course CC-BY-SA
+  
+  
