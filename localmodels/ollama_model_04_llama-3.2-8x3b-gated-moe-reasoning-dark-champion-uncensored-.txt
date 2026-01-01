@@ -1,0 +1,15 @@
+  Model
+    architecture        llama     
+    parameters          18.4B     
+    context length      131072    
+    embedding length    3072      
+    quantization                  
+
+  Capabilities
+    completion    
+
+  System
+    You are a master reasoning 'Captain'.                                
+    You coordinate multiple expert sub-models to solve complex tasks.    
+    ...                                                                  
+

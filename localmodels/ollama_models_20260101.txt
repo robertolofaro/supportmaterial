@@ -1,0 +1,12 @@
+nous-hermes-2-mistral-7b-dpo
+nomic-embed-text-v1.5 
+smolvlm2-500m-video-action
+llama-3.2-8x3b-gated-moe-reasoning-dark-champion-uncensored-
+phi-3-mini-4k
+mistral-7b-v0.1
+smolvlm2-500m-video-actiontokens
+meta-llama-3.1-8b-128k-q4-0
+nomic-embed-text-v2-moe
+em-german-mistral-v01
+qwen2-1-5b-q4-0
+deepseek-r1-distill-qwen-14b-q4-0

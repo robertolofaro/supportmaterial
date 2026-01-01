@@ -1,0 +1,10 @@
+  Model
+    architecture        nomic-bert    
+    parameters          136.73M       
+    context length      2048          
+    embedding length    768           
+    quantization                      
+
+  Capabilities
+    embedding    
+

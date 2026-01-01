@@ -1,0 +1,13 @@
+  Model
+    architecture        llama    
+    parameters          7.2B     
+    context length      32768    
+    embedding length    4096     
+    quantization                 
+
+  Capabilities
+    completion    
+
+  System
+    You are a helpful AI assistant.    
+

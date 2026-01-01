@@ -1,0 +1,13 @@
+  Model
+    architecture        qwen2    
+    parameters          1.5B     
+    context length      32768    
+    embedding length    1536     
+    quantization                 
+
+  Capabilities
+    completion    
+
+  System
+    You are a helpful AI assistant.    
+
