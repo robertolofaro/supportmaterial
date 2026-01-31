@@ -1,0 +1,80 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/thinkingsystemically_20200901_article.png)</center>
+
+I was undecided on how to develop the title: better an article, or another video on [my YouTube channel on change](https://robertolofaro.com/ctr-channel)? Or even a new mini-book?
+Eventually, decided a bit of all the above would be useful.
+Let's start with a chart from a speech on 2020-08-27 on "The pandemic emergency: the three challenges for the ECB Speech by Philip R. Lane, Member of the Executive Board of the ECB, at the Jackson Hole Economic Policy Symposium, Federal Reserve Bank of Kansas City Navigating the Decade Ahead: Implications for Monetary Policy ([you can look here for further 2020 communication from the ECB about the pandemic](ECBSpeech_index.php?tag=pandemic)).
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/thinkingsystemically_20200827_ecb-covid.png" width="75%"></center>
+As you can see, at least concerning the potential impacts on the economic side, we are in for somewhat longer than the usual "small flu", as few leaders worldwide called COVID-19 as late as March-April 2020.
+Now, the aim of this article is actually to share some questions that, while transitioning from the first part of  article on [Going smart or going postal? smartwork, smartcities, smartvehicles- the Turin and Italy case](index.php?page=424) toward the second that I had initially scheduled for this week, I derived from both thinking, reading, and observations.
+The focus? I frankly did not have time since the beginning of the lockdown in Italy (March 2020) to keep up on a daily basis with news as reported by local newspapers in a few countries, as I routinely did in the past.
+Why? Because I focused on few lines: first, keeping up-to-date about Italy by (while in lockdown) getting almost on a daily basis across a handful of Italian newspapers, including regional editions.
+Flip-side: Italy isn't an island- beside being part of the European Union, it is an exporting country with limited natural resources- hence, it is exporting in no small quantities what then transforms into products that are then exported.
+Therefore, while skipping most of the internal news of other countries, kept looking at global trends. 
+Obviously, I had other, more business (and languages) related elements I worked on, elements I wrote about in previous articles since March, as well as on posts on [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro), including as commentary to news items- all roughly summarized in a few paragraphs [within this page](index.php?page=423).
+The weaknesses I saw within the "sistema Italia" in the past since the late 1980s by working across the country, generated side-effects even since late January 2020, when the first official initiatives to cope with COVID-19 and its potential impacts were taken by the Italian Government.
+"Italy as a system", as we say in Italy- albeit then to immediately remark that we lack the cohesion- usually when another "tribe" doesn't support an initiative decided by our own "tribe".
+As I wrote above, I could now go on toward a standard article (albeit a little bit longer, say 8,000 words), a mini-book (the usual 15-30,000 words), or a video presentation (3-10 minutes).
+Keeping it all short- and, therefore, visual: I am quite different that each simple picture might well elicit 1,000 words- but your 1,000 will not be my 1,000- and this is what it should be.
+Before, a small visual experiment.
+In Italy, as I saw, we always talk about "thinking systemically".
+Then, we proceed assuming that what we see, understand, consider can be generalized into a universal reality.
+It isn't just in Italy that I saw since the beginning of the COVID-19 crisis a cognitive dissonance.
+Think about it: we are talking as often about the economic impacts as well as about the health impacts.
+But there are few more dimensions of analysis:<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/thinkingsystemically_slides.png" width="50%"></center>
+I think that none of the four elements needs an explanation.
+As for the question mark... it is the key element in this discussion.
+Now, the easiest way to explain a concept is to create a shared framework of reference.
+In this case, I will use a visual, as a "framing" exercise.
+Do you know the story of the "Tabula Peutingeriana", a kind of unusual roadmap?
+You can read about it [here](http://www.mifami.org/eLibrary/PeutingerMapLectureNotes.htm) (this is where I picked up the picture).
+Let's say: imagine a streetmap covering potentially the whole European territory of the Roman Empire, converted into a "tapestry".
+I first read about it when I was 13 or 14, then went into the national library to see old books containing a replica, but I was thinking about it recently, for reasons that will be soon clear.
+Of course, all the roads would lead to Rome, as the saying goes.
+So, let's assume that anybody belonging to one of the four dimensions of analysis behaves as (s)he were in Rome:<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/thinkingsystemically_peutinger_rome_perception.png" width="50%"></center>
+The red border? The boundaries of your... ignorance.
+Actually, this is the real extension of the territory:
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/thinkingsystemically_peutinger_rome_reality.png" width="50%"></center>
+Whenever I read articles across one of those four dimensions, I see side references to the other dimensions, that anyway betray a "silo mentality"- a kind of "hic sunt leones/dracones", as in old maps.
+What is missing? A "bridging mentality".
+It is quite appropriate that if you are a specialist in domain, you perceive reality through your own dimension of analysis.
+Unfortunately, society is a composition of domains, and politics is supposed to be the bridging element.
+Therefore, a purely "specialist" approach is inadequate when, to stay on the four dimensions of analysis, you have to convert what is understood from the health or economic side into social impacts through political actions.
+Actually, as I discussed in past articles, my not-so-original view is that both society and politics are a continuum: whatever expression of whatever domain has a political and social element.
+You can pretend to ignore it, but that does not imply that the impact of your advice or choices will be devoid of political and social impacts.
+It takes some effort from decision-makers, at least in defining the composition of their inner circle so that they can deliver the "bridging" element (I find delusional anybody claiming to be the lone leader at the heml- in a grocery shop, maybe; in complex country, never).
+In our complex technologically advanced societies where everything is structured around data, the fifth element is, of course<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/thinkingsystemically_slides_time.png" width="50%"></center>
+I will now have to apologize if, in order to keep this article short, I will share pointers to material that I published in the past, before sharing articles from somebody else that could help in obtaining a "systemic" approach in assessing impacts.
+Talking about data and about [Assessing systemically: the data side of #European #Union #integration within #digital #transformation](http://robertolofaro.com/index.php?page=391) on 2019-12-30: "If you want to assess a system, you need perspective- i.e. need also to observe it from different viewpoints, and possibly from outside the system itself (or using an external framework of reference)."
+There, it was about open data, their meaning, and their use- e.g. using datasets that I already posted on [Kaggle.com/robertolofaro](https://kaggle.com/robertolofaro) (or was about to), and showing how as simple as three KPIs on Internet availability and the role of SMEs within the economy could actually assume a different meaning in different countries- where their socio-economic structure is different.
+Data and open data imply a third element- transparency: but on that point [you can read  few articles between 2018 and 2020 where I discussed the concept](http://robertolofaro.com/search.php?tag=transparency).
+The response to a potentially long-term crisis such as the COVID-19 pandemic (not directly, but through side-effects- more about this later) is as much about data as it is about planning.
+And, on the latter, I shared various material, but probably the shortest item outlining the key elements is [Wordbook: Asymptote vs. Osintot - the impact of ignorance on planning](http://robertolofaro.com/index.php?page=396 )
+As I shared in April 2020: <i>"Because now as in early March I think that, the way it is being socially managed this disease, and not just in Italy, we will have some structural impacts for a while.
+A blessing in disguise, as these temporary changes (e.g. quarantine, impromptu teleworking in schools, workplaces, and, yes, even for politicians, &agrave; la Judge Dredd) could help reassess priorities but, more importantly, allocation of resources and supply chains, as well the structure and deployment of the life-work balance, by highlighting tons of small details that technologists ignore.
+Just in time, as otherwise we will have technologists drive e.g. the design of smart cities, and discover only downstream how many "human sides" have been forgotten.
+As I wrote in the past, paraphrasing somebody else, technology is too critical for our future society to let technologists alone drive it."</i> ([Three centuries in a month and moving forward: #Italy, #EU, and #COVID19](index.php?page=400))
+If, shown by the initiatives takes from the ECB since the start of this crisis, the impacts will be long-term, and, as outlined within the "Next Generation / Recovery Plan" funding from the EU that actually is a "bridge" toward the implementation of the 2021-2027 EU lines of development, we should quit talking about crisis management.
+We should think in terms of sustainability- across all the five dimensions: across time, the balancing and dynamics of the interactions between the other four elements of analysis will evolve, and only thinking in terms of long-term sustainability can avoid short-sighted choices.
+Before moving onto the few articles from various sources that I would like to share as a common "framework of reference", a last reference- to an article that I shared at the end of June 2020: [contextualizing the impacts of COVID-19  the #dimensions of #sustainability and #COVID19 - cog in the wheel paradox](index.php?page=418).
+A last closing point that I shared both online and offline.
+At the beginning of the crisis, of course I followed what data from initially affected area (Asia) started to emerge, and read about cases of reported recurrence (i.e. the immunity achieved by having been infected and having recovered might be temporary and linked to specific individual conditions), as well as of potential chronic health impacts on various "human body subsystems", both in those who went into ICUs, and those who were asymptomatic.
+The two elements obviously affect the concept of a "vaccine": as we are shortening the traditional development  cycle of a vaccine (I shared a picture a while ago- years, not months), we do not know yet for how long and under which conditions a vaccine could "protect"- if it were just for few months, would become logistically impractical.
+But the second element could require considering a sharp increase in chronic diseases and, therefore, a restructuring of our national welfare systems (and work organization), an expansion of public health expenditure, and a revision of the concept of "work disabilities": if you feeling fatigue were to become common, we could not just use existing statutes, we should restructure work patterns.
+Which, incidentally, is what anyway automation was going to deliver, sooner or later.
+For now, just food for thought and policy-makers.
+And now, the shared references.
+<b>A shared multi-disciplinary framework of reference- in one hour or less</b>
+Take this section as a "suggested readings", with a paragraph or quote for each item, and links.
+You can read them as presented, chronologically, but remember: in reality, as some of the items derive from specific domains, often the authors had just a glimpse of was being done in other domains, and therefore the order isn't necessarily relevant.
+Yes, it is about sustainability- and, probably, blending our current choices with a look at the [ 2030 Agenda for Sustainable Development](https://sdgs.un.org/goals) (and our current positioning vs. them- e.g. both Italy and the EU have in Eurostat (the EU statistical office) [an harmonizing open data source](https://ec.europa.eu/eurostat/web/sdi) useful to benchmark progress (and also expenditure proposals from each Member Country toward the "Next Gen / Recovery Plan").
+I know that everybody and every country has a pet project to deliver its own dashboard- but, as I wrote before, I rather see shared open data that are made comparable, than having to navigate regional or national sites.
+Hence, I suggest referring to the [Johns Hopkins Coronavirus Resource Center](https://coronavirus.jhu.edu/) for continuous updates. 
+<b>2020-08-08</b> The Coronavirus Depression- an initial assessment of the geopolitical impacts of the current pandemic ([within the September-October issue of ForeignAffairs](https://www.foreignaffairs.com/articles/united-states/2020-08-06/coronavirus-depression-global-economy)) 
+<b>2020-08-17</b> Where are we within the pandemic? Probably, still in the early stage ([article from Imperial College](https://www.imperial.ac.uk/news/201953/world-still-early-stage-pandemic-neil/))
+<b>2020-08-18</b> Are there going to be long-term effects also on the health of those cured, with or without symptoms during the disease? ([article from Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351))
+Quote: <i>"Organs that may be affected by COVID-19 include:
+<b>Heart</b>. Imaging tests taken months after recovery from COVID-19 have shown lasting damage to the heart muscle, even in people who experienced only mild COVID-19 symptoms. This may increase the risk of heart failure or other heart complications in the future.<b>Lungs</b>. The type of pneumonia often associated with COVID-19 can cause long-standing damage to the tiny air sacs (alveoli) in the lungs. The resulting scar tissue can lead to long-term breathing problems.<b>Brain</b>. Even in young people, COVID-19 can cause strokes, seizures and Guillain-Barre syndrome - a condition that causes temporary paralysis. COVID-19 may also increase the risk of developing Parkinson's disease and Alzheimer's disease."</i>
+<b>2020-08-27</b> The speech from Philip R. Lane on "The pandemic emergency: the three challenges for the ECB" that I quoted at the beginning of this article, about what will happen next  ([on the ECB website](https://www.ecb.europa.eu/press/key/date/2020/html/ecb.sp200827~1957819fff.en.html))
+<b>2020-08-28</b> What we still do not know about COVID-19 ([article from Imperial College](https://www.imperial.ac.uk/news/203173/covid-19-immune-system-puzzles-tackled-scientists/))
+Quote: <i>"UK-CIC aims to answer five key questions that will help the global coronavirus response.
+<b>Why</b> do people experience different symptoms to COVID-19 and what role does the immune system play in this?<b>What</b> constitutes immunity to COVID-19 and how long does it last?<b>How</b> does the immune system respond to SARS-CoV-2 on a molecular and cellular level and what happens when the immune system overreacts?<b>Can</b> infection with other mild coronaviruses (which cause the common cold) protect you from catching COVID-19 or will it make you more ill?<b>How</b> does SARS-CoV-2 hide from the immune system?"</i>

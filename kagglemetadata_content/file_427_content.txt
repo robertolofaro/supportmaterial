@@ -1,0 +1,157 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20201001_article.png)</center>
+The first part of this article was posted online on 2020-08-24: five weeks ago (see it [here](index.php?page=424)).
+Since then, I posted two other articles, as a continuous stream of news suggested to wait until I collected more data and observations.
+<b>Data</b>- obviously the long awaited guidelines (and "price tags") for the Next Generation EU / Recovery Plan proposals from Italy.
+<b>Observations</b>- on the current state of the EU, Italy, and of course my birthplace, Turin.
+This last "segment" will be mainly visual, as I would like to share "pointers" to deeper material that I think would make sense to watch or read (it is free, and mainly I refer to slides derived from videos).
+Well, I had more than I was looking for, so, beside posts on [my Facebook](facebook.com/in/robertolofaro) and [my Linkedin](https://linkedin.com/in/robertolofaro) profiles, I decided to expand the article.
+Incidentally: "on my ... profile"- as there are still way too who to go on somebody else's profile, and use it for their own personal propaganda- I rather use my own profile to that end.
+Just a couple of examples of the posts (click to the image to follow the link- you can find more posts, links to news items, and commentaries on each profile):<center>[[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20200929_facebook.png)](https://www.facebook.com/robertolofaro/posts/10157175305917016)</center>
+Yes, a pre-emptive disclosure.
+<center>[[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20200929_linkedin.png)](https://www.linkedin.com/posts/robertolofaro_think-systemically-activity-6716324392344809472-6kXD)</center>
+So, I walked my own talk: the expansion was via articles following my routine approach to try to look at the overall picture, not just individual elements.
+So, the first one was on 2020-09-01: ["COVID-19 : systemic impacts and parochial thinking- moving toward long-term sustainability"](index.php?page=425).
+And the second one on 2020-09-12: [Seizing the industrial policy opportunity: competence centers and recovery plan in Italy - thinking systemically](index.php?page=426)
+As I wrote (tongue-in-cheek) in one of those three previous articles, I was undecided if I had to shift toward yet another mini-book, or try to release in easier to read and digest "pills"- and decided that, for now, the latter was a better course of action.
+<b>Smart implies being systemic</b>
+What is "smart"? In the first part, discussed the concept "going vs. becoming smart"
+My assumption is that digital transformation is also about shortening and automating decision times.
+September was a curious, "systemic update" month both by choice and by accident.
+Actually, I should say- Zeitgeist, the spirit of the times.
+Yes, because since when in late January WHO relaunched its warning I referred to in previous articles, we suddenly discovered what "systemic thinking" means.
+Example: yes, you can provide cash to companies to weather the storm- but unless somebody is still working, there is nobody to deliver, manufacture and package foodstuff and all those countless minutiae that we took for granted in our "civilized, urbanized world".
+Example: yes, you can shift more desk-bound people to work from home or "staff locations", "smart working"- but that affects a whole supply chain depending on them, from restaurants, caf&eacute;, to transportation and, as I was reminded today, sellers of business clothing as well as... perfumes and toiletries.
+Now, if you have a look at European Central Bank (henceforth ECB) speeches talking about [Euro](ECBSpeech_index.php?tag=euro) in 2020, you will see an increasing barrage of two elements.
+First, the ECB talking about what normally should be considered "political".
+Due to the lack of a politically elected government and governance of the European Union, the European Commission and the ECB uneasily took over that role, always watching over the shoulder to see if a country or two "sniped down" initiatives.
+Frankly, whenever this was the case, being a "technical" organization helped ECB more than the Commission in staying the reasonable course.
+Second, whatever the European Union component of the alphabet soup, they all overlapped in their speeches and press-releases in starting with what was their own "technical" domain, and then anyway adding references to other domains.
+And this is what "systemic" is, in a complex society.
+As I wrote in the first part of the article in late August, repeating what I wrote online countless times since 2003 (as it first appeared online within [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com)), if you are unable to think about the overall interactions, you end up building "buffers" at the boundaries of your ignorance to avoid your own operations affected by what you fail to comprehend.
+And any such buffer, of course, introduces delays and additional costs (and organizational overlaps, and overstaffing, and...).
+Now, this last part (as by now you probably understand that in reality "part 1" was followed by "part COVID-19" and "part industrial policy") is supposed to be about "smartwork, smartcities, smartvehicles- the Turin and Italy case".
+As so it will be- in due course, and in as short a "package" as feasible.
+But before, I would like to add another post from Linkedin:<center>[[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20200930_linkedin.png)](https://www.linkedin.com/posts/robertolofaro_esa-web-tv-activity-6716609548091719680-g2AG)</center>
+I could add another 4,000 words discussing the point, but this is the reality.
+A large chunk of the 750bln EUR planned for Next Generation EU / Recovery Plan has been announced that should be focused on digital transformation and a transition toward a green economy.
+Personally, I think that, also if you willingly ignore the potential in new products and services made accessible by the large number of constellations of micro-satellites (and traditional satellites) hovering in the sky, before embarking in digital transformation initiatives on Earth, it is worth considering few elements.
+Hence, if you have time, I suggest that you "sample" the recorded videos of those ESA conferences, because the themes discussed, in a closed environment (space and its integration) are the same that we will need for our smart whatever.
+Or: cooperation, interoperability, standards, long-term planning, coordinated operations to avoid interfering with each other, data privacy, etc.
+Instead, down on Earth, I still read routinely (and not just in Turin and Italy) initiatives that claim to be "smart", but frankly have next to nothing in terms of "systemic thinking".
+Say- somebody announced a wonderful new technical development to deliver easier access to smart vehicles in towns, even switching automatically hybrid cars from combustion to electrical "mode", thanks to cameras scattered across the town at "virtual gates", but then adds that citizens can complement that with videos that they themselves collect using their own smartphones and then upload, to complement what the official system has collected.
+I do not really care what the Italian privacy watchdog will say- as, recently, I wasn't the only one surprised about the cavalier attitude about potential future impacts of choices allowing collecting, storing, processing data way past the immediate use and reason to collect- invoke the "common good", and it seems that anything goes.
+I rather stay on the "soul" of GDPR and... technology (including security).
+On the latter: if you say that the vehicle gives an alert to the driver about the possibility to switch to electric to avoid paying an entrance fee, it is fine.
+Anyway, stating that an external source can automatically have the vehicle switch operation mode creates a potential quagmire in terms of security, liability, etc.
+On the privacy side: if you say that a certain number of cameras under the control of official security forces (police, local police, etc) collects videos and tracks vehicles, there are some issues already, notably if you then store "just in case"- stating that the only protection is that just security people will be able to watch them.
+In a less gossipy and data-leaky environment than Italy, a similar proposal raised a ruckus.
+If you add that citizens can add videos taken without constraints, you are legalizing stalking (and, if video-taking is done blatantly, mobbing).
+All these cases aren't examples of what I would call "smart cities"- but it a matter of choices, i.e. politics.
+<b>Politics in a "smart" world and the myth of competence</b>
+In the first article of this mini-series, I explicitly postponed discussing about data privacy in a world where everything is "smart"- i.e. produces and consumes data, altering behavior according to data or even just feed-back on actions.
+At the same time, once again I repeated that, in the XXI century, I think that there will be a "professional" element to politics (also due to the complexity of interactions, rules, regulations, etc)- but that does not imply that politics should be the "hunting reserve" of professionals.
+You can [read there](index.php?page=424) the concept of "shared socio-economic-technological infrastructure" (henceforth "shared SETI").
+In Italy, sometimes I heard talking about the "sherpas" in Parliament, i.e. those who know everything about the rituals and rules of everyday life of the Italian Parliament, and also those that are tasked with the real law-writing: or do you really believe that every page of everything that is released by a modern state Parliament is read by each and every Member of the Parliament?
+Sometimes, my fellow Italians talk about elected politicians as if they were expecting to have "political bureaucrats" that as if by magic, being experts in a domain, would be competent in everything else.
+Well, usually when somebody say "we should elect competent people" I reply (since decades ago, before the 1990s): "competent in what?".
+In Italy, if you want to get married in a church, Roman Catholics usually are expected to follow a "training" on what implies getting married.
+In the First Republic (roughly- late 1940s to early 1990s), major political parties had their own formal training "political schools"- anyway, some survived (also not linked directly to political parties), and I both read books from either and attended, few years ago, a similar school, while in the early 1980s followed routinely similar information and training sessions to understand the material coming from Brussels and Strasbourg.
+Now, when Italians ask for "competent" politicians, they usually describe somebody who is really a kind of civil servant of politics- yet another confusion.
+Say that you have a Ph.D. in Medicine- you are obviously "competent".
+But how does that turn you into "competent" about voting for or against major weapons systems procurement initiatives?
+Probably, "competence" could be more limited to the "rulebook" of Parliament and the Italian Constitution.
+Beyond that, you are just an elected politicians that probably has a framework of reference of what (s)he agrees or disagrees with, and a staff (personal, from the party, from the Parliament, or from society) that provides the expertise needed on a specific law.
+As I commented repeatedly online, sometimes frankly more than a matter of competence or expertise, some law making is a matter of logic- as when you provide temporary funds for a new permanent change.
+In August 2012 I published an article in Italian that was eventually part of the only book that I published (so far) in Italian, "Strumenti".
+The title? [Meta-politica](index.php?page=6), defined as: <i>""meta-politica", implica due possibili interpretazioni: "oltre la politica" (seguendo "metafisica"), o, come prassi post-Internet, "la politica della politica" (come in "metadati"- dati sui dati)."</i>
+Yes, the politics of doing politics (and it was funny to hear someone recently quote from the article and the concept almost verbatim but forgetting to quote the source- this is Italy).
+Frankly, I think that this is the only level of "competence" that should be expected by elected politicians: understanding the basic rules of democracy and, in Italy, the framework of the Italian Constitution as well as the "rulebook" of the Parliament.
+For everything else, no matter how many PhDs you obtained, you should have access to those with the appropriate expertise- even more so, if you were an expert in a domain where you are not active anymore, or if you are still "operational" (and therefore, more than expressing a political position, chances are that you are an expression of a conflict of interests).
+COVID-19 confirmed that, in a complex society, the expression of choices is politics.
+Have a look at this chart:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20200928_covid19consortium.png)</center>
+In 10 weeks, the ventilators usually produced in 10 years.
+Say what you want: but I call that a political choice, not a business choice.
+Actually, a "systemic political choice": a "common good" that influenced private businesses choices.
+And, in this case, yes, each one contributed a specific subset of competencies, complementing each other.
+Something similar happened also in Italy, Spain, Germany, etc: sometimes, frankly, it seemed as if society was taking political initiatives involving employees, employers, trades unions- and government and political decisions followed.
+Now, this is the "human side" of being smart, i.e. systemic: having the "shared SETI" I wrote about in detail [before](index.php?page=424).
+But "smart" usually means adding "artificial intelligence".
+<b>Integrating human and artificial intelligence within "smart"</b>
+There are already plenty of articles and books talking about the "COVID-19 economy", i.e. the changes to our society following the (hopefully temporary) restructuring of our individual and social habits to cope with the risks associated to potential and yet to be fully assessed long-term impacts of COVID-19.
+Now, just to share a simple recent chart from OECD:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20200919_oecd_consumerhabits.png)</center>.
+Anyway, COVID-19 is accelerating the transition toward a data-centric economy, as nowadays anybody reading a newspaper or watching news on social and traditional broadcast media is developing a basic understanding on "number crunching" that fairly exceeds what, until a mere ten months ago, was common even in many businesses.
+Trust me: since returning to work in Italy in 2012, I lost count of how many times, while working in Turin or visiting also Milan or Rome, I had to say to a clerk "sorry, you gave me too much"- numeracy has been replaced by an ability to be an expert on everything without reading anything...
+A couple of slides from the ESA virtual events that I attended between Monday and Wednesday:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20200929_vdl-dataeconomy.png)</center>
+All these data cannot be processed manually by humans- and at the event was said that now most research papers e.g. on Earth observation are published using not new information, but information extracted from archives.
+Actually, to "become smart", we would need more than just have better access to more recent data, moreover now that data are almost continuously updated.
+We would need something else: a cooperative effort to continuously leverage on work already done by others and improve it- something common in science (well, theoretically common, as in academia too "turf wars" have been a constant since forever), but that contradicts what is taught to most in business.
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20200929_issues-on-ml-unlocking-potential.png)</center>
+Stay tuned for "smart contracts at the Edge" and "blockchain" (search online, I will not make a digression here).
+Yes, the slide is about "Earth observation"- but, frankly, I consider Earth observation in our data-centric era, moreover when we have constellations of micro-satellites that are counted in the tens of thousands and can relay data updates every 15 minutes, and maybe even with direct access with 5G without using Earth-based intermediaries...
+...akin to stating that, before we will have "smart cities", we will have a "smart Earth".
+Therefore, the paradigms in terms of products, services, technological cooperation (such as bandwidth and frequencies allocation) that will be needed when the data producers and consumers will be in the millions (in smart cities), can be tested on a "controlled environment" (yes, PRoject IN a Controlled Environment - take 3).
+In such an environment, all those involved are "professionals", before extending the service to "professional but not technical" (e.g. access to data via 5G terminals integrating Earth Observation data within decision-making support models on your PC, such as forecasting the price of commodities based upon micro-climate evolutions), and eventually to "consumers".
+Before somebody starts "selling" yet another batch of snake oil, have anyway a look at the amounts currently involved:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20200930_commentary-on-business-satellites.jpg)</center>
+Significant amounts, but still peanuts within a trillion-sized worldwide economy.
+Anyway, consider the "enabling" factor: it is not the direct value in and by itself, but what could be enabled.
+Ditto for smart cities where data were to be turned into services- a fraction of a eurocent multiplied by millions of datapoints can generate a thriving data-fueled economy.
+In a "smart city", with the quantity of data involved, artificial intelligence should be both on the infrastructure side (the city itself- e.g. streets, buildings) and the data producer/consumer side.
+This would anyway require redesigning the processes- not simply automating human processes.
+And also in "smart working", there could be a kind of artificial intelligence "helper" (such as the funny robot shown years ago as a potential assistant on the International Space Station) to assist and complement the human side.
+If you are old enough, probably you read about the "Able Archer" 1983 exercise (I was 18 back then), when only a human judgement overriding all the training, rules, and regulations avoided a nuclear escalation- [this Rand article is a quite interesting "what if"](https://www.rand.org/blog/articles/2018/04/how-artificial-intelligence-could-increase-the-risk.html).
+Worth considering: if it is critical and its impacts aren't localized, maybe it isn't that "smart" to automate what we ourselves consider undefined.
+Where does this put e.g. self-driving vehicles? The level of uncertainty and potential impacts isn't comparable to a nuclear war.
+And, let's be frank: while those at "the button" of nuclear weapons are professionals that routinely tested their skills and procedures, most car drivers cannot claim the same level of professionalism in driving- which isn't just about moving, it is also about ensuring that you can do all that you are supposed to be able to do (how many times did you went through your car's "user manual"?)
+So, while we would like zero risk for human car drivers, the statistics about deaths and car accidents do not support that hope.
+Hence, we can expect an improvement by automating car driving (as the car itself will tirelessly do all the checks and sensors/dashboard monitoring that a car owner should do, and act accordingly), but it is doubtful that, unless we redesign our "car driving lanes" to avoid e.g. pedestrian crossings, traffic lights, and intersections or parallel lanes, we will get down to zero accident- a "six sigma" frequency of accidents (say- one every few million kms driven) would be a qualified success- and an improvement vs. human drivers.
+I hinted few sections ago to the privacy issues involved in implementing smart cities, and will probably add something more in the future.
+But there is another element that COVID-19 made visible: rich or not-so-rich country, we are all on the same boat- and with our level of mobility, what we first saw with the Tsunami has been turned by COVID-19 into probably a first herald of future potential global impacts.
+So, smart cities in a smart world should be... sustainable- globally sustainable.
+<b>Smart sustainability</b>
+This is the status recently reported of Italy re the UN SDGs:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_italy_unsdg_oecd_20200924.png)</center>
+Anyway, yesterday attended an OECD webinar discussing how finance could support going green, and the first point really discussed was about something that echoes what also the panelists at ESA said is a critical issue: different dimensions, that I could collect under the unifying (no pun intended) label "harmonization".
+As you probably know, I support integrated reporting, i.e. going past the mere adoption of Corporate Social Responsibility or Sustainability reporting- I think that, considering all the activities and products within their lifecycle, if we are to go "sustainable", we need to integrated into our number crunching also sustainability, as a structural element.
+Otherwise, you could claim that your product or service is "the greenest on Earth"- just by ignoring what happens upstream in your supply chain (or downstream at the end of the product lifecycle).
+Now, if companies, due to market demands, are to show how they rate on some criteria that are, per se, qualitative, how you convert the qualitative into quantitative matters.
+Look at this example given yesterday:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20200930_oecd-esg.jpg)</center>
+We are still a long way toward getting something as converging as financial ratings- in part this is to be expected, in part inherent into the qualitative definition of sustainability.
+The point should be: either the UN SDG we all measure against are shared with a shared measurement approach, or something is amiss- and we need probably a reality check.
+Now, my readers in Turin and Italy would say: but so far you wrote only about "smart", not about Turin and Italy.
+My reply is: re-read from the top but with an open mind, and you will find plenty of references to issues that aren't just potential or apply to others- but apply and are examples of what is happening here and now.
+On 2020-01-10 published an article whose title stated: ["#2020: three #twisted #reasons for a #positive #outlook for #Italy and #Turin"](index.php?page=394).
+Yes, it was before the COVID-19 crisis.
+As I wrote at least once a month on Facebook and Linkedin that Italy's (and Turin's) current status has been affected by COVID-19, but it would be delusional to state, as I heard and read many utter in Italy, that we were going to improve substantially before COVID-19 acted as a Tsunami.
+I shared in the past e.g. on Turin how the "Rapporto Rota" of 2019 had the title "Futuro Rinviato" (i.e. "future postponed"- you can read and download it [here](https://www.rapporto-rota.it/rapporti-su-torino/2019-futuro-rinviato.html)).
+What I shared in January was: <i>"Yesterday I was asked a question: a reason to be positive for 2020 (talking about Italy).
+I replied: I have at least three, on the macro-level (i.e. beyond my own personal case)."</i>
+Recently I was asked the same question, and I shared in previous posts my current three reasons to be positive- all impacted by and related to COVID-19 (and the Recovery Fund paradigm shift).
+Over the last few weeks, I read articles and followed webinars and interviews e.g. about the G20 leading role in 2021 for Italy, and what is going on now in Italy and Piedmont/Turin (including today).
+If you look at the local picture, and compare with what I recently heard in webinars and conferences ranging from OECD to ESA, it seems to me that a side-effect of the disintermediation of politics (elected or appointed officials that directly appeal to "silent majority" or "the Italian people", unwilligly echoings "Our Man in Havana" and "The Tailor of Panama") is that, seeing reality from the ground, the productive forces of Italy (industrialists and trades unions as well as employees and factory workers) are showing a higher-than-usual degree of conscience of the "common good".
+Then, commentators (both on traditional and new media) are most often sowing dissent and being more "partisan" than the bipartisanship shown by those actually working on the ground.
+The reasons I shared in January ([read the article](index.php?page=394)) included a point about our chronical environmental crisis.
+Frankly, when yesterday saw on "Il Sole 24 Ore" that 40bln will be allocated to digital transformation (including digital infrastructure) and just 20bln to infrastructure, saw that as a positive sign- because the idea of the Recovery Fund is to improve resilience and creating a level playing field, not to just to keep people busy.
+Actually, personally, I would say something else.
+Let's aim those 20bln on infrastructure that is an enabler- as I wrote in January, we have in Italy continuous landslides and other confirmations of the weakness of our environment.
+I think therefore that would make sense to clarify that "infrastructure" in the old meaning (roads, buildings, etc) will be co-financed with private-public initiatives done in a more mature way than our past privatizations (learn the lessons of Autostrade and the bridge of Genoa).
+Instead, "infrastructure" under the Recovery Fund should look toward enablers, and focus on fixing the territory.
+Even recently it was shown how easy is to have your new roads swept away from a landslide.
+As no private company would invest in fixing landslides, but no matter how many new, even "e-car ready" roads you build, if the territory still has routine landslides, floods, you will get again impacts fairly exceeding those investments.
+Recently, communication with a region (Liguria) where sources said that 40% of Italian trade transits through roads and harbors, was partially disrupted by what, due to climate change, will increasingly become more common.
+Recently somebody told me that they had as often as each decade floods that were supposed to happen each century.
+So, before again talking about the bridge between Sicily and Calabria (a wonderful votes attractor), let's think about current and future generations (and sustainability)- and invest in "enabling infrastructure", i.e. fixing the land.
+As I remembered in January, the 1980s produced the "Protezione Civile", i.e. a kind of FEMA.
+What we would need now is a "Prevenzione Civile", i.e. a territorial-based disaster preparedness <b>and</b> prevention that is routinely trained and tested to ensure that, beside monitoring and pre-empting, when needed will be able to cope with emergencies- and also act as "knowledge disseminators" (e.g. by helping to routinely carry out emergency exercises, to update knowledge and disseminate it: being "prepared" doesn't mean "having a proce).
+Be it landslides (hopefully in the future less common, after the "enabling infrastructure" investments), the next pandemic, or a sudden war or famine crisis elsewhere that results in an instantaneous and immediate influx of immigrants on Italy's shores.
+Because also if "non-refoulement" / Dublin / Schengen are revised, the first physical entry point will still be the shores of Mediterranean EU Member States, before redeployment across the whole of the EU.
+So, I will close... by sharing exactly the same paragraphs I shared in January:<i><b>conclusions: a blessing in disguise</b>
+The three reasons are actually three layers of cultural and organizational change, with increasing levels of complexity and systemic integration.
+Anyway, as you will read, each one is actually a negative situation that delivers potential positive value.
+Potential, i.e. requiring some effort and rolling-up-your-sleeves to actually turn into a blessing.
+The risk is always the same: these negative situations imply complexity, and tinkering unfortunately has less impacts within a relationship-based economy that lives along "tribal" boundaries than reforms.
+As discussed above, those three example actually show cases when, within the chaos, usually tribal boundaries are (temporarily) sidelined, and access to competences and resources becomes more important.
+Often, in Italy, this results into a "technical government"- as, if successful, it shines onto those who, in Parliament, gave a vote of confidence; and, if it fails, for a while the "technical" side can be... sidelines.
+Personally, and I wrote this often in the past, I think that the concept of a "technical government" an oxymoron: any government has to make choices, and therefore it is political.
+The real point? It is a short time window, as shown with the Clean Hands in the early 1990s, as then all the tribes prepare to absorb any reform through... partisan tinkering.
+Personally, as I am outside tribal boundaries, I shared already that I had enough of having to be crushed between tribes- and probably will have to look at the evolution from outside.
+I wish good luck to the fellow Italians who will be, hopefully, involved in, for once, avoidance of tribal boundaries.</i>
+Have a nice week-end!

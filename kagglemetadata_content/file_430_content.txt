@@ -1,0 +1,208 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20201119_article.png)</center>
+This is the second article in a series- [the introduction was here](index.php?page=429).
+Again, I will share doubts, but this time also some ideas.
+As today is Friday, I will share some pictures that are actually worth each one an article in and by itself- you can think about those that interest you over the week-end, if you really must.
+Seriously, the focus of this article? Cities- smart and larger cities, what in Italy became "citt&agrave; metropolitane" (we have 14 of them, at last count covering over 1/3 of the Italian population).
+Plus: related issues- albeit for finance and mobility there will be two further articles (also within the context of metropolitan areas).
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20201119_citta_metropolitane_italia.png)
+<i>full-size source: [Wikipedia](https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitane_d%27Italia)</i></center>
+In this article, I segmented the doubts and ideas into sections:_ investment on knowledge_ rethinking "small is beautiful"_ MITO: virtualizing a town_ putting the cart in front of the horses_ Turin: blue sky with some clouds_ systemic thinking for XXI century cities_ data-centric towns_ the physical and virtual town
+<b>Investment on knowledge</b>
+If you read my pre-COVID articles, whenever I was talking about urbanization, smart cities, etc I routinely quoted forecasts ranging from 50% to 70% for our "moving to the cities" (e.g. search for <i>"city"</i> [in articles on this website](search.php?tag=city) and [in books that I published since 2012, plus a reprint of my online e-zine on change from 2003-2005](searchbooks.php?tag=city)).
+Fast forward to COVID-19 Era: everybody and their dog talk about "moving back outside towns".
+Actually, in Italy, notably in Turin, local newspapers well before COVID-19 tried to find their own way out of the conundrum of a country where industrialization losed ground for a couple of decades, while people expanded their access to education.
+When I was serving my compulsory 12-months service in the Italian Army in 1985-1986, I remember that the average was said to be that 5% of the Italian population had a university degree (back then, generally it was either four or five years long)- now, even in the weakest areas, it is said to be four times that amount.
+But there is a curious side-effect of being a country where there are thousands of villages and towns (more than 8000), where "tribal" allegiance is still strong ("the commons" has still an appeal limited to flash mobs, not an everyday, lifelong habit), and companies are in most cases small (in a recent pre-COVID conference I had attended in Turin, the statistics talked about 95% being "small"- generally in Italy meaning less than 15 employees, i.e. tiny).
+Other countries are trying since decades to expand the array of skills of their own graduates, as they recognized the need e.g. for scientist and technologists (I consider anybody with an expertise a "technician"- including economists, lawyers, entertainers) to be able to communicate in a way that is understandable to its audience, and to have what recruiters call "helicopter view".
+I stick to "systemic"- as thinking systemically is embedded in our data-centric society, i.e. you need to be aware of the context, also if this implies integrating different bits of knowledge and technology, provided by those outside your "circle of knowledge".
+Just because in your circle is not considered e.g. relevant to assess the impacts of piracy on sealanes used for trade, this does not imply that your deliveries will not be affected if you let seelanes unguarded.
+Which, incidentally, it is a reason why watching over some critical sealanes is a shared, worldwide joint task taken over by naval forces of countries that otherwise are not considered to be on the same page.
+Added bonus: in conflict prevention, knowing your enemy (real or potential) is useful to avoid making mistakes- so, having to work jointly, helps both to learn "habits" (knowledge that might eventually be useful) and to develop "interoperability" (again, might be useful to understand e.g. biases in both your friends and potential foes).
+<b>Rethinking "small is always"</b>
+In Italy, the "small is beautiful" mentality implies that choices are made not by looking at the whole picture, but by looking at what those making choices, their circle of friends, and maybe their friends of friends know or at least understand.
+When somebody understood that their circle lacked a specific subset of domain knowledge or skills (two different things), I heard routinely not "who has it", but "where we can develop it".
+Sometimes not even bothering to understand how long would take it)- I also saw cases, decades ago, of employees leaving their company, going where the knowledge was availble, leaving their new job, and return to their original employer where they shared the "surface" of what they had learned.
+Which, obviously, lacked the underlying understanding that could enable to evolve, adopt, and then adapt- hence, I saw companies that had forms and processes that blatantly did not match their organizational size, complexity, and culture.
+An organizational culture patchwork is a wonderful way to generate overheads.
+As looking beyond those circles could involve crossing "tribal" boundaries, and you never know (or even understand) the motivation of other tribes.
+It is not a left-right progressive-conservative-liberal divide: in Italy, I heard suggestions that would be considered fascist or elitist in any other country- but in Italy what matters is the tribe you belong to, not what you say.
+So, both on the left and on the right of the political spectrum routinely heard concepts such as "studying something useful".
+Italy is still, when it comes to coping with complexity, a country where people think about a pre-industrial agricultural economy, i.e. where knowledge that mattered was passed from father to son, everything else was "technicalities".
+It is a matter of biases:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20201119_biasestaxonomy_small.png)
+<i>full-size source: [VisualCapitalist.com](https://www.visualcapitalist.com/wp-content/uploads/2017/09/cognitive-bias-infographic.html)</i></center>
+Actually, in modern agriculture, the knowledge content is on the same level of the most complex manufacturing operation.
+During the first long lockdown in Italy, from early March until early June 2020, I observed reality through the lenses of a wide array of national and regional newspapers, parsed almost every morning before beginning the day, and I saw how many described issues that were simply due to initiatives taken without considering the systemic impacts.
+Example: we take for granted processes or packaged food on our table- but we do not consider the journey ingredients have to do, and what is involved in keeping shelves filled up.
+So, with the lockdown, local shops in those villages at first had some issues- as people who used to e.g. buy in towns where they worked (Milan, Turin, etc) suddenly had to go to the local shop.
+In a small village (few thousands inhabitants, probably smaller than the smallest "quartiere" in Turin, barely slightly more than 10km away), a local supermarket said that they suddenly had to renegotiate deliveries, and what happened once a week, now was every one or two days.
+When it came to logistics for food distribution, it was quickly re-arranged.
+But if you make mistakes in considering which skills are needed not today, but to have a basis on which to build the unexpected, i.e. to have "resilience" and enable "emergence", the risk is that you stifle potential at inception.
+By simply trying to have more of the same that you know, you create a self-fulfilling prophecy: the concept of "useful" vs. "useless" university studies should be re-assessed toward a systemic, long-term perspective, not a short-term, desk-to-factory approach.
+And this applies also on the design of the future of towns.
+<b>MITO: virtualizing a town</b>
+I will now write explicitly about my birthplace, Turin, sharing in part what I already shared on my [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro) profile.
+Next year there will be the election for the new Mayor of Turin, and the incumbent Mayor is not for now planned to be again a candidate.
+She has been appointed to a sports body focused on tennis, and my five cents is that, probably, could end up being involved in following the yearly event of the [ATP Finals that will be hosted by Turin for few years, 2021-2025](https://www.oasport.it/2019/04/atp-finals-a-torino-quando-si-giocano-date-programma-e-calendario-come-funziona-il-masters-di-fine-anno/).
+Turin, as I wrote in previous articles, used to be a large company town (automotive and related), all revolving around a company, FIAT, getting up to almost 1.5mln inhabitants.
+I started officially working in the 1980s- my first software project was at FIAT Auto, the car-making side of the conglomerate, on automating the payment of suppliers' invoices based upon a scoring assigned based upon data: I was the developer assigned to write the "hub" software component, and therefore early on developed understanding of the underlying logic, and gradually the logic of the software component became a joint development between the analyst and me.
+I was coming from politics in a European advocacy, then PROLOG (a logic programming language, as a hobby and part of an association called GULP) and PASCAL (as required by the university) programming, and therefore mixing my past "perceptions of reality" with the down-to-Earth realities of what manufacturing implies.
+Now Turin it is down to a little bit more than 800k inhabitants.
+Since the 1980s its manufacturing side shrinked down, albeit the "knowledge supply chain" instead had more resilience (universities) and, thank in no small part to two banking foundations that were created in the 1990s during the privatization drive of Italy, higher education received significant investments in Turin.
+The Turin Polytechnic grew (e.g. expanding aeronautics, automotive, mechanical etc engineering with design), as well as the UniversitÃ  di Torino (by adding also a campus), and both expanded their quota of non-local students (I was told few years ago to 25% of the total enrolled).
+If you look at the [tourism website of Turin](https://www.turismotorino.org/it), you will see plenty of historical buildings, large squares, etc.
+Since the 1980s, whenever I brought foreign friends or colleagues in Turin or showed them images, they said that they did not expect such a beauty in what was known as an automotive company town, nicknamed at time "the Italian (or even European) Detroit":
+Last but not least: over the last few decades, Milan grew dramatically, expanding its role as financial capital of Italy (even the main banks of Turin, Istituto Bancario San Paolo Torino and Cassa di Risparmio Torino, are now part of Milan-based banks, where Intesa Sanpaolo and Unicredit are de facto based).
+Milan is just 120km from Turin, and eventually few years ago a high-speed train link was created- already in the early 1990s I was moved by my then employer to Milan, and shuttled to Turin only when needed, as I was working across the country (another good way to expand my perception of business in Italian towns).
+In 2018, briefly opened (and then closed) a small company to test the waters and see if I could resume doing my cultural and organizational change activities in Italy (received only offers to work for free for other consultants, or other unrelated activities where needed the experience, had the contracts, but were unwilling to share the budget).
+Part of my approach, used to shuttle around towns across country boundaries or, in Paris, having to travel 2 hours each way to work in satellite towns, was to consider a less than 1 hour high-speed train from Turin to Milan at a really low price something akin to the 45 mins public transport within Turin itself: feasible.
+Hence, I considered Milan and Turin as the same town- kept living in Turin, while spending few days a week in Milan.
+Funny that the locals considered that quixotical: a classical example of seeing reality through yesterdays' glasses.
+While travelling, I saw how, if compared with the 1980s and early 1990s (when I travelling across Italy), had greatly increased the number of people who shuttled between Turin and Milan on a daily basis.
+Now, considering this scenario, and what I wrote above about the local cultural biases, what would you expect as models proposed by local &eacute;lites, for the development of the town?
+<b>Putting the cart in front of the horses</b>
+I will first share some "models" that I heard routinely between 2015 and 2018 (when I was resident in Turin), and see now again on local news.
+In Turin, years ago attended few meetings where ideas for the new development plan for the town were presented to citizens.
+Eventually, it was announced that the idea was to "shrink down" the cubic meters.
+I will not get into details, but some recent announces presented models that were not unexpected.
+With statements ranging from longing for a new Middle Age (provided that you are a knight, probably, as a girl I knew in high school that wanted to live in a community living as in the Middle Age), where obviously the "sinecura people" would stay in town, all the others outside, admitted only to work for the former, to those proposing a new form of "garden cities", self-producing all that is needed to survive, i.e. a new form of "city-state".
+Well... I disagree with both.
+As I shared this morning on Facebook, in one of my routine NOTAMs (NOtice To AirMen- a tongue-in-cheek for some connections): <i>"#sustainable #development in #Turin without forgetting #citizens and long-term 
+just to remember... now everybody (sponsored also by newspapers and real estate agencies) is supposedly looking for houses outside town- see Corriere della Sera Torino today
+might well become a self-fulfilling prophecy, preparing for a gentrification again coupled with the planned reduction of the cubic meters in #Turin announced recently
+then... repurposing and moving higher up in price within what will remain of inner town
+which is what I saw in the early 1990s in Milan, where low-quality flats but in town, following redefinition, started having prices that, back then in Turin were for flats few notches up within the quality scale
+now, with 45-50min through high-speed trains, when the COVID-19 will pass (to say nothing about the dreams of hyperlooping Turin-Milan in 15mins), emptying the town, moving it up in quality its lodging is an attractive proposition for some
+it worked with some streets in the center, as I wrote in the past (since I was a kid, the routine shifting up was done with via Garibaldi, via Roma, Quadrilatero, via Lagrange, etc- once filled up an area, moving a little bit down, while moving up one nearby)
+this would just be a larger "project"
+is this sustainable development while repurposing a former industrial town and thinking about its inhabitants? 
+no- but it is good business...
+and citizens? beside students, visitors, locals can work in local cafÃ©s, restaurants, shops, hotels
+will bring in less than used to be with manufacturing, in salaries, but wonderful profits for some...
+we need a different #sustainable #development #model for the town - sustainable for its citizens...
+...the knowledge supply chain and manufacturing base is there: we need to complement that again with was is beside academia
+time to discuss models of the future town, not names..."</i>
+Or: instead of thinking systemically, it seems that we are at it again- trying to do what extract value for few, while contracting value for many.
+<b>Turin: blue sky with some clouds</b>
+Yes, you probably recognized one of the boring buzzword concepts "blue sky thinking".
+FIAT eventually became FIAT Chrysler Automobiles, then FCA, shed a few companies from the group, separated others, and now is gearing up to become Stellantis, part of the merger with - by de facto incorporating in- PSA, and also for other industrial assets (both within the group and within the manufacturing side of Turin) there have been on newspapers rumors of potential transfers to other industrial partners.
+In my view, locally there is a knowledge supply chain based both on academia and an increasing reduction of the local champion, to be replaced by other players (and this requires working on co-competition skills, currently missing in our Italian culture), along with a territory where potentially there is a higher quality of life than in other industrial-turned-into-XXI-century areas.
+It is an opportunity to increase resilience while recovering some lost ground, by developing a model that requires more investment in XXI century skills (no, I am not referring just to AI- I am referring to what makes AI and industry 4.0 and whatever is trendy feasible: systemic thinking)
+But we need to attract more companies that are attuned to this model.
+Or: spreading affluence by transitioning toward a model that includes, not one that excludes, citizens.
+Eventually, it might happen as happened elsewhere in Italy, in that story that I am not the only one to repeat: a relatively small company was a supplier to a German company that was a supplier to another German company.
+Due to delays in deliveries, the latter charged penalties to its supplier.
+Normal business reaction, if roles were reversed? Replace the first supplier with one more reliable.
+Instead, the German company decided that they liked the products, liked how they worked, but considered them unable to manage themselves (at least, in the way consistent with what a modern supply chain requires).
+So, they purchased their supplier. A win-win.
+Do not forget where Italy stands- I shared online in September 2020 a chart from OECD showing how did Italy fare with the UN SDGs:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/Italy_unsdg_oecd_20200924.png)</center>.
+More details: within the article [<i>"Going smart or going postal? smartwork, smartcities, smartvehicles- the Turin and Italy case - part 2"</i>](index.php?page=427)
+But, one year ago (on 2019-11-10) shared more details on the evolution of the size of Italian companies within an article on [<i>"An #industrial #policy ? Can be sustainable by the #local #business #culture ? #innovation #industry40 #Italy"</i>](index.php?page=379)
+And, as you can see by just looking at the charts within the latter article, there is room for improvement.
+<b>Systemic thinking for the XXI century cities</b>
+How could I summarize the systemic thinking needed in the XXI century?
+Whatever industry you are looking at, it is a matter of seeing it as a whole, not a collection of silos.
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20201119_yin_and_yang.png)
+<i>full-size source: [Wikipedia](https://en.wikipedia.org/wiki/Yin_and_yang)</i></center>
+Yes, there will be some shifting by attrition: many would not like to invest on skills that require both "hard" and "soft" knowledge blends (the mix varies).
+A recently announced Master joining tech and human did not attract small companies (that 95% of the local companies): a sign not to surrender, but to evolve, and try again finding how to involve- or how to replace who does not understand reality.
+So, we have still some work to do.
+In my view, local forces and local &eacute;lites are culturally ill equipped to do what the city deserves: they are too used to control along tribal boundaries, and having historically more resources than other territories did not help to wake up to reality- for decades.
+It reminds me a joke that I heard from few American friends and colleagues in the 1990s, when there was the big scare about a "takeover from Japan".
+The joke went this way: go in Japan's technical universities, kidnap 40,000 aspiring engineers, bring them back to the USA, train them as lawyers, and then re-insert them in Japan- few years, and the competitiveness issue on technology will be settled.
+When you have banking foundations with assets in the billion of EUR that dispense each years millions to whatever fancical talking shop is around, you generate a self-feeding, self-reassuring detachment from reality, including the mutual routine bestowing of honors and prizes for... 
+...local tenure on local sinecure.
+If you search online for "smart city" or "smart cities", you fill find hundreds of books, articles, videos, presentations.
+There is one element in common, that hasn't changes since the first workshop on IoT and its impacts I attended in Milan at IEEE many years ago: you can think in "silos" (transportation, real estate, shops, etc)- but in this case you just add overhead to your urban planning.
+Or you can think systemically, involving upfront all the parties within the definition of your "model of urban development", but not just simply by putting experts in a room.
+You need to put in that virtual room, that will last longer than the "paying lip service to systemically" routine of organizing few meetings, along with experts able to listen to what others say, and able to to communicate in a way understandable from those who do not share their domain expertise...
+...those who will live within and interact with your "model city".
+Between last week and this week followed few conferences from Wharton on behavioral sciences, from MetricsStream on risk and compliance, from Databricks on data and machine learning, from Sipri on security and migration.
+What was the common denominator? Data, AI, and their impacts.
+Earlier this week, Chris Anderson (of "long tail" fame) talked about how COVID-19 moved their "maker" approach to autonomous vehicles design (started with toys in mind) to the virtual space.
+As an example, yesterday morning started with a presentation from Virgin Hyperloop where they shared a simple point: Hyperloop assembles technologies that in large part are pre-existing and well known, but creates a new environment that we do not know yet, and design and data before you actually build- as making mistakes could be expensive- by using digital twins, they can move forward by reducing risk.
+In a data-centric world, you should not keep in mind the Middle Age type of towns as citadels, surrounded by villages.
+<b>Data-centric towns</b>
+In a city that uses data, every single interaction can generate information that, in turn, can generate a feed-back both on data producers, and on their "personal ecosystem" within the "city ecosystem".
+In Italy, as I repeated often in the past, we can say that we are used to that, with multiple layers.
+"Belonging to a tribe" is still deeply within our culture: so much, that even civil servants identified e.g. themselves with political or other forms of allegiance, even banks (decades ago most of the main banks were de facto nationalized, a left over from the early 1920s-early 1940s period, i.e. Mussolini and his own economic policy).
+So, while we need to import more open mindsets from abroad, we should also shed our "provincialism", our pretension of being more "modern", more "ordinary" by parroting what is done by other countries, countries where "commons" are a shared concept, and planning is routinely more "systemic" (and long-range when it has to be long-range, short- and medium-term where this is what is needed: many plans in Italy have some issues with timelines).
+We need to adapt before we adopt, but we still need new and fresh ideas- and accept that yes, they will be adapted, but we too will be adapted.
+If you want to keep a control-freak attitude based on tribal boundaries, go for those that propose a "Cicero pro domo sua" approach to development that they (and their friends) assume to be able to control.
+But then do not complain about social unrest: you are going to need to take lessons on politics from Mr. Orban.
+It was a routine in the 1980s-1990s to still call most banks "white" (Christian Democrats), one "red" (Communist Party), and another one "pink" (Socialist Party).
+Eventually the 1990s saw a wave of privatizations and the Second Republic, where the son of a former President was a key promoter of importing a different electoral model, based not on proportional representation.
+Something that gradually evolved into an electoral system that few years ago, after a string of tinkering, again seemed the 1920s Legge Acerbo I wrote about in the past.
+Or: with the excuse of "governability", instead of getting votes from the voters, it turned into gettings seats through alchemic formulas that assigned seats not by votes, but by quotas that gave a "bonus" based on other parameters.
+Which parameters? Well... since the 1990s, we had so many reforms, that I think we Italians could say that "Gerrymandering", that USA art of redesigning districts, is primitive- we keep tinkering, with gusto.
+Now, one of the tinkering rounds was to import in Italy "Metropolitan city" as an approach toward scaling up towns to lower the cost of delivering top rated services to most citizens, and scale up the level of knowledge within smaller administrations that could not cope with the complexity of our current regulatory environment.
+We have 14 of them, as I showed within the map at the beginning of this article.
+But we should start instead from some data.
+You can read online the [<i>"Rapporto sul territorio 2020. Ambiente, economia e societ&agrave;"</i>](https://www.istat.it/it/archivio/240989)- but I would like to share just two charts.
+This chart represents the trends in population 2009-2019 across the 14 "Citt&agrave; Metropolitane":<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20201119_population-citta-metropolitana-italy-2019.png)
+<i>full-size source: [ISTAT, page 69](https://www.istat.it/it/archivio/240989)</i></center>
+This chart represents the current distribution of the population, up to 15 years and over 65, within the main urban areas in Italy:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20201119_age-range-italy-2019.png)
+<i>full-size source: [ISTAT, page 70](https://www.istat.it/it/archivio/240989)</i></center>
+A [recent article on "Il Sole 24 Ore" talked about a research on what could happen "post-COVID", and what should be the priorities for our urban centers](https://www.facebook.com/robertolofaro/posts/10157272942302016?__tn__=%2CO*F).
+The source is a trade association- therefore, this should be taken with a grain of salt (you do not need to falsify data- it is enough to ask only options that represent your own model of reality), but it states that, if anything, we need to rethink at least office-bound work.
+But the article linked above is actually a good start for a debate, more open-ended than many of the proposals that I heard and read in and around the future of Turin over the last 12 months, and up to a couple of days ago, proposals that either try to rebuild a long-lost world, as if Turin (and Italy) were to be living in a bubble, or imagine a future that isn't anything better than a kind of "Rollerball" (the 1970s movie with James Caan, more "political" than its remake).
+This could actually result in less people going less often into an office, but, as I often repeat, COVID-19 has shown how, in our technological world, often we ignore how many people still are doing manual work to make our complex societies run.
+Within international statistics, there is often talk about "service" vs. "manufacturing", but I think that it would be more appropriate, now that we keep repeating that "advanced economies" have less people working in, say, agriculture and manifacture, to actually say how many of those "service" jobs are spread across a wide spectrum of knowledge domains, skills, and, yes, activities with more or less manual content.
+Because, as I shared in past articles commenting reports from an Italian foundation that issues an annual report also on Turin,["Rapporto Rota"](https://www.rapporto-rota.it/storia-del-rapporto.html) from the [Centro Einaudi](https://www.centroeinaudi.it/), in Turin the "services mix" shifted down- and the local knowledge-based economy cannot survive if its academic citadels are within an economy where "services" means "burger flipping", no matter how expensive and glorified their product is.
+Also food and agriculture can be knowledge-intensive, but requires thinking in a different way, not as an extension of past practices.
+As I often asked to my friends: yes, I too liked having a two hours lunch break, when I was going around with customers, but always asked myself- this "slow food restaurant" how affordable is to those working within it? Not just in monetary terms (that can be arranged), but in terms of allocation of time?
+I do not think that the solution is a form of communism, as many propose as the future.
+I think that we need to keep working on the continuous development of opportunities, and designing cities that are based on the opportunity of being inclusive, not "exclusive by design".
+And this implies also reconsidering what are our towns.
+<b>The physical and virtual town</b>
+As I wrote in the first article of this series <i>"Few short articles, this time focused on industry (automotive/mobility, insurance/banking/financial) and the element that will aggregate, in one form (physical) or another (virtual) most of the population in industrialized countries in the XXI century, smartcities."</i>
+I think that most of the current debate on "lessons learned about urbanization courtesy of COVID-19" is biased, not just by those with a vested interest (e.g. in Italy, purchasing abandoned villages, renovating for former city-dwellers up to a city-level standard, and sold with a huge premium, while converting inner towns into a kind of culture-based Disneyland for the affluent and "package" visitors), but also by many trying to use it as a Trojan horse for what in Italy is called "decrescita felice", i.e. the idea to contract GDP but being happy about it.
+The latter is curious: in no small part, started as a (correct, in my view) debate around the concept "GDP does not represent our current society".
+As it was said by an investor in a Yale course mainly on behavioral economics organized in 2009 and 2011 by the eventually Nobel laureate Professor Robert Shiller...
+...many of those who say that long-term shares grow, supported their assertion looking at the historical (pre-Internet) development of the US market, e.g. starting from the XIX country.
+Forgetting that they were using as a reference what was, in the end, a developing country that was building everything from scratch and having access to plenty of resources.
+If you move in our supposedly post-industrial era (we still wear physical clothes and eat physical food, also if we were to stay 100% at home), it is true that we have other factors to be considered as positive, not just rough GDP growth.
+But then, the concept was hijacked by various forms of opponents of our society as is now, and proponents not of a new model, but of the demise of the existing one, while frankly is still to reconcile the difference between talk and walk.
+I might be obsolete, but, as I said about "slow food restaurants", my model is different- I think in terms of opportunities, not grants or rights "bestowed".
+So, I think that we need to redesign also concepts such as "residency" and "citizenship".
+And, in towns, "taxation".
+There was years ago an interesting article about taxation for foreign companies in China, tailored to retain a share of the profits in China, whatever corporate taxation games were played worldwide.
+Imagine that the model proposed by the incumbent Mayor of Turin goes ahead, i.e that the town will "shrink", e.g. by shedding office space.
+Many years ago, thinking about my personal experience since the 1980s (working in different offices sometimes each day five days a week), and about what I observed in cultural and organizational change (most people need the human interaction element of office life), I proposed not really "working from home", but working from "hubs", what eventually evolved in co-working (which, at least in Italy, unfortunately often are regressing into temp offices: see my comment on "building co-competition mindset").
+If you look at the map of the 14 "citt&agrave; metropolitana" at the beginning, you can easily see that they stretch and extend beyond a single town, no matter how large.
+Turin is actually covering the whole province, i.e. a large number of towns and villages.
+Instead of converting into a "Blade Runner"-style 2mln inhabitants town, it could actually evolve into a multiple centres of reference structure, where Turin is both one of the centres, and the coordination centre.
+Anyway, if I compare with the current regulation- as I wrote in the past, Piedmont had an issue: Turin, its main city, is also the "citt&agrave; metropolitana", and the location of the regional government, and this often is lambasted as "a Turin-centric" approach that makes difficult to balance all the interests.
+If the bias is for Turin, often opportunities are lost simply because Turin does not see them.
+Personally, I would like to see a split- i.e. the "Mayor" of the "citt&agrave; metropolitana" not anymore overlapping with the Mayor of Turin.
+It is not a one-size-fits-all solution: in other cases, it might well keep working, but in Turin, I do not see it.
+Then, we could reason in terms that many years ago described borrowing a concept from science.
+When working on multi-party relationships in business, usually the "mass" (perceived or real) of parties is unbalanced, and this generates a natural attraction as "satellites" of some smaller parties- albeit this could apply on a subject-by-subject case.
+It is a kind of "distortion of space"<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20201119_newton-vs-einstein.jpg)
+<i>full-size source: [Forbes, 2018](https://www.forbes.com/sites/startswithabang/2018/08/11/ask-ethan-is-spacetime-really-a-fabric/?sh=1c2cbe9797fc)</i></center>
+Now, imagine a plane called "citt&agrave; metropolitana" where e.g. there are hundreds of villages and smaller or relatively larger towns, where at most the average town is smaller that the average "quartiere" in Turin, and you will get the picture.
+COVID-19 at least for few years probably will leave if not physical, at least behavioral impacts- so, beside vested interests in real estate, it is to be expected some "attrition": if, in a crisis, being in a large towns does not save you from being confined at home, without the ability to benefit from all those services and attractions that a large town supposedly delivers (from theatres to movie theatres to caf&eacute;s concerts squares etc), many would consider the risk of further crises as an indication that maybe living outside town is not so bad.
+A slide presented today by Seema Gahlaut at SIPRI's Stockholm Security Conference 2020 within the webinar <i>"International cooperation in a new era of techno-nationalism"</i> summarizes some of the business and social impacts of COVID-19 on supply chains:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20201119_sipri-supply-chain.png)
+<i>full-size source: [Registration will be released eventually here](https://www.youtube.com/channel/UCmrcWVGNnZSKKrZnzIiAhqw)</i></center>
+Personally, I consider anything within the "critical national infrastructure" to be a "common"- including schools, hospitals, public transport, food and critical supplies logistics.
+I am not talking about ownership or service agreements with private companies or private-public initiatives: those are both details and political or economic choices.
+What matters is that those elements are considered as part of a system, not as unpredictable balls bouncing around out of free will.
+Sometimes I heard talking about "virtual cities" more in technological terms, i.e. "digital twins" of our cities, enabling, as Chris Anderson said few days ago, to do a car race simulating the behavior of real ones when the latter wasn't possible, thanks to the prior experiences in reality (and affordable technology).
+But thinking systemically means considering the "digital twin" as a tool, not as a framework of reference.
+As I said often, and wrote few times in this article, Italy suffers from a "tribal mindset" that interferes with systemic thinking, and importing foreign cultural elements is fine, provided that you adapt before adopt, and that accept that it a two-way cultural change.
+Also for our foreign partners, including for decision-makers in Rome, it is easier to streamline choices, as shown by many adjustments ex-post done to the string of Government Decrees issued since March 2020 to cope with COVID-19 and its short-term impacts, than to have a dialogue that identifies what is to be adopted "as is" across the country, and what had to be adapted to local specific issues.
+I routinely disagree with those that state that the State should be managed as a company: it is not a company, and "shareholders" (citizens) do not have the power that shareholders (usually in coalitions) have vs. the board of a company.
+The State, and local authorities, have to have harmonized rules (and this is a lesson that I saw both in business and civil service, not just in Italy), but our "being small" and "tribal" cultural elements could be useful in implementing a structural change in the way a large "citt&agrave; metropolitana", whose population is not expected to grow &aacute; la science-fiction, can actually be large and small at the same time.
+It is funny: many of those extolling the virtues of Italian food and Italian culture forget that both are based on what I could call "a thousand cultural oases", not a monolith, as the one that some offer for Turin.
+There are activities that could evolve into fully remote working few days a week, others will eventually disappear when automation in office work or self-driving vehicles will be more advanced, but other activities will still require humans interacting with humans.
+For the next decade or two, from what I hear and see around, I do expect maybe a decentralization with an integration through less frequent human contacts and remote interaction, while still retaining centres of aggregation, but not anymore just in large towns.
+If Turin is successful in attracting people and companies to its new competence centres for manufacturing, aerospace, artificial intelligence, and integrate that into a knowledge supply chain that extends from pure R&amp;D down to market-testing and maybe, in some cases, even production, having in the background a culture of multiple "cultural pockets" could actually both develop higher-paying jobs and the tourism side not just in Turin.
+Which, in turn, could enable those competence centre, not limited just to manufacturing (as AI and aerospace or different forms of mobility could be useful also in agriculture and tourism), to interact with multiple "centres of experience", to use the territory also as large continuous experiments open-air laboratory.
+I wrote in the first article of this series, few days ago: <i>"Because I strongly disagree with those who say that COVID-19 will kill urbanization: but I will share my view on this subject later."</i>.
+Well, I rest my case (for now).
+As you can see, I shared doubts and some (rough) ideas- if times will allow, will develop many of the ideas that you saw on this website within a book that has been ongoing since 2015: and, since I was living in Brussels, I made the choice that I prefer to share ideas as they develop, so that others can reuse what they see fit and useful, than wait for the "perfect bullet".
+Including because, and this goes back to the "biases" theme, writing in my case is a process of collection through serendipity inspired by thinking and connecting the dots, followed by analysis and development of a narrative, but a narrative is necessarily selective.
+And what might be relevant and included in my narrative might be irrelevant to others, and viceversa what I left on the "cutting floor", as was said in old time movie making, might actually be relevant to somebody else's connecting-the-dots exercises.
+I think that change can benefit from technology, but technology (including any "techn&eacute;", expertise or art) must be an enabler, not a driver.
+Otherwise... you end up with the technocratic "if my only tool is a hammer, every problem looks like a nail".
+And banging on the head of a problem or of people never solved anything...
+Have a nice week-end!

@@ -1,0 +1,22 @@
+><i>Update 2023-12-05: moved this article within the "DataDemocracy" section, as increasingly anyway regulation and legislation, in Italy as well as within the EU, is almost following a cycle of draft_release - lobbying_for_change - amendments (which does not exclude that the initial draft is actually subject to pre-emptive more structured lobbying). 
+A further article will follow.</i>
+
+The title is about Italy, but actually this happens in any country.
+As I wrote often in the past, in Italy any first release of a law is a "testing the waters", to have then all the tribes "swarm" toward a consensus.
+So, if the USA has a TV series called "Law&amp;Order", we could have "Law&amp;Versioning".
+There are various platforms for document management but, in my experience in contract negotiations in few countries (including up to working with Legal to actually write it, or revising business-wise for my customers or partners what had been prepared by lawyers), often the key point is traceability.
+Now, you can reinvent tools, create platforms, but in this case I had a simple basic need.
+How do you keep track of a Government Decree released on May 19 2020 (<strong>Decreto Rilancio</strong>) whose impacts will probably stretch for few years?
+Moreover, when it is 263 pages long across 266 articles?
+Following the [DataDemocracy approach](index.php?page=392), released around May 20 2020 [a sample web application that uses my search by tag cloud framework to look around e.g. all the articles that contain the word "Euro"](decreto_index.php).
+To avoid crashing my website (when the Government Decree was released, the Gazzetta Ufficiale website crashed few times), I did not include the full text.
+Anyway, now that we are getting back toward a "new normal", there will be requests to revise or discuss specific elements.
+Therefore, also for my own articles, wanted to "itemize" the articles- and potentially track down changes.
+What did I do? I had saved the original text (without the minor changes introduced on May 20 2020), and decided to use, as an experiment, my Github profile.
+Decades ago, I got used to recycle software versioning concepts that I had learned in the early 1980s (before I started to officially work, on UNIX) to revise organizational designs, contracts, and other non-information technology documents.
+If there is a baseline composed of plenty of items (in this case, articles and lines- I did not split in commas because isn't needed for my purposes), instead of using my local Github decided to go online, so that others can "fork" (i.e. create derivative work), or just simply access.
+The most basic use could be that, once you use my [search application](decreto_index.php), you can go and read each individual article.
+A more "evolutionary" use could imply simply enabling different parties to develop "variants" of each article as proposals for change.
+And this is the concept within the title: "swarm-based democracy" (which isn't simply "direct democracy": implies reaching a consensus by joining forces, skills, capabilities to make a reasoned proposal).
+My use? As I wrote, more mundane: an experiment (Github for non-software versioning open sourcing of documents) within an experiment (enabling easier access to long and complex material).
+Stay tuned

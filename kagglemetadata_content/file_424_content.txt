@@ -1,0 +1,165 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20200824_article.png)</center>
+It seems as if "digital transformation" is about "going smart"- and viceversa.
+Well, it depends- as in many cases in the past, technology is neither positive nor negative "per se", it is only when contextualized that delivers impacts.
+Following my custom, I will use the title as an "agenda".
+This time, the article will be divided in two parts.
+This first part covers introductory ideas and the concept "going smart or going postal".
+Before, a couple of books that you can consider "suggested readings".
+Reason? I am one of those boring readers who still, whenever interested, looks at bibliographies and footnotes.
+Actually, before buying a book, often those (along with the table of contents and quickly browsing) is one of the things I check- also to understand the background material used by the author, and acknowledge shared sources.
+Sometimes, notably on digital transformation and its impacts, you can spot the Weltanschauung of an author just by browsing the books, having a look at footnotes, and checking bibliography and references.
+Then (and this is a major plus for physical bookstores), you can decide "maybe no".
+Well, sometimes, some books that I read over the last few years to be "exposed" to what is trendy and its perception from academia (including some "philosophers" that are quite "light"), actually the obsession to quote to be as relevant (and, if the book is loaded on Googlebooks, be returned in as many searches) as those who lead the trendy pack delivers more a library digest than footnotes or bibliographies.
+So, while the book that listed what you read could be just worth as a stepping stone toward a tenure track for the author (e.g. by showing all the relevant references to what is "academically correct"), some of those referenced are woth digging in.
+More than once, actually, a "trendy" book on digital transformation, new media, data-centric society, privacy ended up... being a good way to have bibliographical catalogue that delivered the real value.
+And while I am not looking toward either an academic or political role, maybe some of the bibliographical references that I share are more interesting than what I write (e.g. see [my selected bibliography](index.php?section=suggested-readings), or have a look at the "raw" [partial version of my digital library](https://librarything.com/profile/aleph123)).
+Two books that I suggest for the first part of this article are:1) ["Fact, fiction, and forecast"](https://en.wikipedia.org/wiki/Fact,_Fiction,_and_Forecast), by Nelson Goodman2) ["Silicon Germany: Wie wir die digitale Transformation schaffen"](index.php?page=298), by Christoph Keese.
+The second one is in German but easier to read- discussing examples of potential and actual impacts of digital transformation, the author anyway finds references to points where Germany could have done better, could have been nimbler, faster- and wonders how Germany could catch the innovation train.
+Look at this picture: it shows who is the first commercial partner of each EU Member State<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20200824_businesseu.jpg)</center>
+As you can see, we are all in the same boat... and Germany has its own vested interest in not letting Europe fall behind.
+The first book? Well, it is more "technical", but in a non-IT and non-technological perspective.
+Have you either considered how anything from contracts to laws is actually based on a string of consequences and inferences?
+Well, way too often, in business, I found logical "holes" in lines of reasoning- and, unfortunately, also in contracts and laws.
+So, thinking it through is advisable (I was involved in many direct or indirect negotiations to "fix" a badly written contract)- but having some thinking tools would make it more efficient.
+And the same applies for digital transformation: knowing where you really are before starting the journey, and having a perception of where you would like to go is equally advisable.
+<b>First idea: going vs becoming smart</b>
+GDPR and ISO standards as well as privacy and competition laws, along with human rights charters are still unconnected elements of what could evolve into the founding bricks of an ecosystem or, better, the glue that keeps it together.
+But the need to coordinate various "legislative" and "judicial" entities that have limited or no knowledge of the domains covered by others is a sign that we have still a long way to go. 
+Digital transformation implies shortening (and automating) decision times, hence we are back to Asimov's "Law of the robots": an embedded set of rules that are used to framework (and hence streamline- no need to reinvent/renegotiate the wheel every millisecond) any choice.
+The fictional Asimov's laws were actually assuming a shared set of values, and an associated "ecosystem" where autonomous machines coexisted with humans and "dumb" equipment.
+Also without autonomous robots, we lack for the time being a shared definition of "smart" and associated values.
+Everybody talks about "going smart", but, frankly, as I observed since I started working formally in the 1980s, any "trendy" keyword is routinely hijacked to "revamp" existing products and services.
+I will just ask you a question: "limiting" to the concept of a data-centric society, what is the meaning of "smart"?
+In plain English: assuming that our everyday activities will be generating, consuming, and sharing data continuously, and that keeping, processing, reusing those data is going to be accessible also to the smallest organizations, how do you define "smart"?
+No, I will not discuss data privacy- this will be within the second part of the article.
+In my case, I will here ignore all the wonderful books and announces about smart this and smart that, from devices (IoT, Internet of Things), to fridges talking with your shopkeeper to restock groceries, to cars talking with streets, to smart cities that behave as a virtual automated and permanent air traffic control, and where each citizen and all the devices are akin to "cogs in the wheel".
+Also because way too many proposals look a little bit too much as engineers re-inventing "Leviathan" without considering any of the social consequences, and generating a mix between "Metropolis" from Fritz Lang and a "Charlie Chaplin's Modern Times meets Orwell's 1984" dystopia.
+Actually: some of the emergency measures released for COVID-19 (and not just in Italy) sounded as if the assumption where that citizens would behave as perfect components in a perfect machine- from health personnel instantaneously being up to speed with procedures that probably had been gathering dust since SARS and Ebola, to individual citizens keeping track of a constantly growing list of prescriptions.
+Distortions happened both ways: from security forces (and even ordinary citizens) over-policing other citizens for perceived violations, to citizens simply misunderstanding the purpose of a mask, to others going way too far on the other extreme (I remember a case of a citizen going around as if dressed for biological warfare).
+I think that reality will become a data-centric society using what we are assembling now.
+Initially, it will be a non-hierarchical aggregation of "ecosystems", all sharing elements of "shared socio-economic-technological infrastructure" (henceforth "shared SETI"), and adding on top of them whatever their own "ecosystem bubble" needs to deliver the value added critical to attract and retain (or develop) membership to the ecosystem.
+As you can see I omitted in that "shared SETI" the "political" part.
+Such an omission wasn't by chance: in my view, a view that I shared often in the past, in the XXI century (and beyond) both individual citizens and any organization (including non-profit and state) will have a continuous political role through countless interactions.
+So, while there will be a "professional" element to politics (as in any other occupation, there is a series of "rituals" in anything going past the most elementary level of complexity), there will be a "citizenship" part- both individual and corporate citizenship.
+There is the obvious issue of transnational corporations: but, frankly, it is only if you really believe that, beside an interim phase such as the one we are living in now, a "shared SETI" could work within the boundaries of individual states and their jurisdictions.
+It is not political science-fiction: as you can glimpse from [my CV](index.php?page=402), I worked in down-to-earth industries since the 1980s, and in few countries.
+Do you think that your wire-transfers (SWIFT), air flights (Eurocontrol and its siblings worldwide), trade (WTO), cars and PCs and telecommunication networks (countless ISO standards) could work if each country were really to set its own rules and standards, as some Brexiters claim? 
+Do not forget that actually railways (another bit of infrastructure) were part of the reason why we had to develop a shared concept of "timezones" and "standard time"...
+...and nowadays we are talking about something much, much more integrated.
+But more about this in future writings: for now, the key concept is "systemic aggregation of ecosystems".
+The concept is quite simple: the whole works if its parts work as expected.
+If the parts are unreliable, the whole can still work, but then it requires developing "buffers" to cover for the unexpected- adding costs, delays, and maybe redundant infrastructure.
+What would be reason to "go smart"? Generally, to reduce costs and improve turnover, and possibly also to increase "resilience" (yes, it is trendy).
+Note that I wrote "go smart" not "become smart": as many existing organizations are actually doing the former and not the latter, despite what their PR claims.
+Interestingly, while businesses now understand that adding technology does not make your smart, it seems that states are still under some delusional spell cast by a technological evil spirit.
+It is feasible to create a "national shared SETI"- but, to obtain the benefits, would have to... follow shared rules set up at a supranational level (maybe via negotiations).
+Now, even more interesting is whenever I read about "ecosystems" as if they were proprietary environments- but I wrote about this "control-freak" attitude in the past.
+While a fictional country starting from zero could start systemically, it is more realistic to consider that we will have a gradual convergence, with some overlaps, some blind alleys (including due to commercial pressure to adopt one "miracle solution" and its associated technological architecture).
+Again, this is just the surface argument- there is much more to it, e.g. both on the development and operational phase of such a "globally shared SETI" (also if working as an aggregation of national or private "ecosystems"): but for future writings.
+Now, first, a cultural note: I do apologize with my foreign readers, but it is worth rehashing some of the local cultural assumptions, as will be both useful as future reference, and make shorter the following sections- i.e. the "smart" sections will be also "lean" (yes, I too play the tag cloud / reference game).
+Incidentally: due to the its socio-economic structure (each town is as if partitioned in villages, and anyway there are still the basic tenet of local life in many smaller villages, plus companies are on average much smaller than in other G7 countries), Italy could actually used as a "testing ground" for the future of business and society not just in Italy, i.e. by evolving some local (tribal) habits while integrating the XXI century "national shared SETI".
+Of course, if you think that the only way a data-centric society can work is with a kind of "data Gosplan" and gigantic bureaucracy (human or automated, doesn't matter) that considers each citizen and each interaction/transactions between humans and between humans and machines or even machines and machines as something to monitor, collect, process according to Bentham's "Panopticon", you can skip the next section: there is nothing that you will find interesting.
+My interest is in seeing how technology can be used to create a more "fluid" set of social relationships extending to those between citizens (private and corporate) and state, avoiding to venture into Orwellian or Hobbesian scenarios, and removing from the table the Panopticon option.
+<b>Second idea: going smart, going postal</b>
+As I wrote above- prepare for a long transformative journey.
+So, before "becoming" smart, there will be a "going smart".
+Pity that some pre-existing organizational Pavlovian reflexes, shared both from companies and states, are instead what could be better defined as "going postal".
+My American friends know what I mean by "going postal".
+Going Berserk is another definition (yes, I played both Warcraft and Starcraft- but not the online versions), while a less violent and more Italian version could be the short story "il treno ha fischiato" (Pirandello, I think), where an employee suddenly started once in a while shouting "the train has whistled".
+In the latter case, no harm, the fictional doctor within the tale said- the subject just has to release steam once in a while.
+Now, what has this to do with "going smart"?
+Well, "going smart" (smartworking, smartcities, smartvehicles) implies a collaborative effort, a blurring of distinctions between citizens or employees and states or companies.
+You could pepper every corner and every street with sensors, but we humans are quite adaptable- if you want you office, town, cars to be really "smart", you need the willing cooperation of those involved.
+As I often wrote in the past, in the XXI century we have to restructure our mindset, not just add more technology, technocrats, and regulations.
+Define frameworks so that there are boundaries of acceptability to ensure a society that is sustainable in the long-term, but drop the XIX century approach to over-regulation in every minimal details, so common in some countries.
+Also, you need to define ways to consider "adaptive patterns" that will emerge through interactions, unplanned.
+A control-freak society (a common inclination in Italy) cannot work in a movable society, where citizens have the four freedoms afforded that are the backbone of the EU "social contract":_Free movement of goods_Free movement of capital_Freedom to establish and provide services_Free movement of persons
+Actually, I would add some more.
+Anyway, to keep this article short, I would just say that over-regulating might have worked when our society was built around villages, as only rejects or merchants or few socially acceptable occupations or "statuses" were leaving the confines of their village.
+I keep writing XIX century, as this is the regulatory framework in Italy, but, frankly, often the attitude seems more pre-Renaissance, when we still had peasants literally "attached" to the land or village.
+In Italy, we still retain a "tribal element" I often complain about, but we are now running to recover lost time.
+The hidden risk within the tribal element is that, while we should focus on aggregating, instead each "tribe" will try to build its own rules, usually doing so via physical infrastructure, to create something that Sun Tzu would have recognized.
+Or: define the terrain where the competition will happen, restructure its features to better suit your own strengths and weaknesses, and then... invite others.
+If you find others gullible enough, it might work.
+Otherwise, you will simply see a fractioning of scarce resources across multiple completing subschemes, none with the critical mass and the "interoperability" (cooperation ability on a technical and organizational level) needed to have a "systemic approach", extended at least at the country level.
+Actually, within the European Union would make sense to have a "shared SETI" EU-wide (or at least Euroland- and Schengen-wide, albeit I hope that eventually the distinction between EU, Euroland, and Schengen will be dropped).
+We did the same with GSM, the mobile phone standard, but our current predicament is something more complex since inception- while the consequences of GSM were mainly side-effects.
+Culturally, in Italy we have centuries to recover, in the relationship between the Italian State and private or corporate citizens.
+Economically, we lost few decades- and, frankly, I see for the time being initiatives that are mere tinkering around our way to a "national shared SETI" financed also by the "recovery plan": we are still too tribal and short-sighted.
+Unfortunately our companies and citizens in Italy are way too often toying with XXI century technology but using XI century mindsets.
+Accordingly, whenever there is a "digital transformation push", read the details, and you will see old fashioned mindsets just around the corner.
+As an example, few governments ago (in Italy few lasted more than a couple of years, [see list here](https://it.wikipedia.org/wiki/Presidenti_del_Consiglio_dei_ministri_della_Repubblica_Italiana)) there was a law to promote "Industry 4.0", i.e. renovating the factory floor equipment thanks to massive tax credits and incentives.
+Now, anybody who purchases a computer for the first time and uses it discovers that there is a learning curve.
+In companies, any equipment requires at least re-training staff, and often hiring new staff.
+The "going postal" element was to give incentives to renovate machinery that should be connected systemically (not just in terms of information technology) to the company to deliver its value, but...
+...leaving outside minutiae such as the ensuing costs of technically connecting, or training, or hiring new specialist staff.
+In Italy, any legislation gets a second chance: and the "geniuses" behind the first had an encore- adding the missing element.
+But, as it is a legislative tradition in Italy, just for a short while: then, it was subject to annual revisionxs, removing previous elements, etc etc.
+You get the picture: reminded me of when, after a train crash in UK, it was discussed on local newspapers that the issue was with the signaling system, and was related to the quixotic practice of giving three years contracts and then demanding investments that could be recovered in ten years.
+Giving incentives that are renewed as if bestowed once a year is fine for those who want to pile up "shelfware", and maybe then resell everything after closing a company, but if you buy equipment you have to consider the whole lifecycle- or, at least, the lifecycle up to the point when it satisfies two elements.
+First: when you add something new within an existing organization, for a while you have both a "phase in" (for the new- equipment, staff, etc) and a "phase out" (for the old- ditto); moreover, often you have to juggle with transitioning some of the existing staff to the new mores, and consider that some of them will be unwilling or unable to change what they did for one or two decades.
+Second: if you produce physical objects, just because you convert your technology you are not excused from existing market constraints, e.g. customers who will still need spare parts of the "old" technology; hence, the "phase out" could be even longer, and maybe include licensing with a third party or smaller entity that will take over a production line (maybe physically, as years ago Renault did with a truck line that was sold to China).
+Going postal in the milder Italian version includes also things such as promises to solve issues generated by the lack of an industrial policy by adopting shortcuts that result in more taxpayers funding.
+This is something that increasingly since the early 2000s was to the benefit of some foreign companies coming in Italy with much fanfare, extracting whatever was their interest, and then leaving after having the Italian State or local authorities frantically look for a "replacement owner".
+Anyway, an old habit that was visible also in the last phases of the life of older national champions, such as Olivetti, that first shuttled products that failed on the market to State-related entities (railways, post offices, etc), then even employees.
+Only: at least, in that case, it was all within the same economy; since the 2000s, despite our increasing debt, Italy is generously subsidizing "visitors", as well, thanks to its distorted labour market, investing on brains that then develop in other countries.
+Also without a degree, since the 1980s, I worked both in Italy and abroad mainly with multinationals, and met often Italians who obtained their degrees in Italy, and then developed their career outside Italy, i.e. giving a subsidy to the economic system of another country, that could save the training costs.
+There is a third element about "going postal" Italian style: embracing whatever new technology, and thinking about consequences later.
+I will discuss this specifically under each one of the three "smart" elements within the title in the next article, but it is part of the urge to show to be trendy.
+As we live generally across tribal confines, if there isn't a chance to have within your tribe all the skills needed, we do not collaborate with other tribes ex-ante, as this could imply admitting a weakness, or reshuffling the balance of power.
+Instead, if there is a need (e.g. forthcoming elections- there is always one around the corner, in the multi-layer Italian political system where some could leave office for various reasons), you look at what is trendy, ask around your tribe, and set things in motion.
+Then, as you can expect from the discussion above, there will be "adjustments".
+It was fine while this was pre-technological: a bit of hammering here and there, and it is fixed.
+But when you play that game with XXI century technology, "going postal" implies "creating infrastructure"- and, once done that without considering the consequences, this will affect downstream anybody.
+Again, the "design the territory" I discussed above: declaring ex-post a "shared infrastructure" is a funny way to make an investment that best suits your organization, use it to define the territory where competition will happen, and then even share with your competitors the costs of your investment that delivered you a leadership.
+In Italy, we have a twist: over the last few days, you probably heard faint rumors about the national telco infrastructure to support our "digital transformation" nationwide.
+Now the management of the former monopolist is proposing to have control of a consolidated national infrastructure, while others are proposing to... transfer the infrastructure back to the State, but also transferring part of the debt generated to purchase the company.
+Frankly, sometimes the way privatizations worked in Italy made me think to the post-USSR privatizations, where managers became the real owners of companies: I am not referring to this specific case, but it is a pattern worth thinking about.
+The infrastructure could be technological- and this would be the first obvious consequence: if you create an infrastructure that isn't what, with more "thinking ahead", would have been chosen, you are stuck for a while with more than just "hardware".
+There will be probably contracts (direct- such as maintenance, service, etc- for, say, few years).
+And indirect consequences, e.g. the removal of existing infrastructure, the creation of new services assuming the constraints that you defined or ignored, etc.
+Again: you can switch on and off regulation once a year, but it could take much, much longer for society and the economic ecosystem to adjust.
+The paradox is: the closer to citizens' reality your political intervention, the higher the chance that you will have to be "down to Earth"- i.e. less talk, more walk.
+You can deliver wonderful speeches in Parliament- there are few hundred of your peer that would let your speech just dissolve into thin air and settle on written pages, but never turn into reality.
+But when you have a direct impact (be it in national, regional, local government), you have less room for mistakes- and the consequences of your choices (and associated costs) will be paid by others.
+Frankly, making announces followed by tinkering is a common habit in Italy, that expanded greatly since the 1990s, i.e. the "Second Republic".
+At the same time, another, more worrying, habit set firm ground: we Italians are assumed to be Kremlinologists, as laws often are shells, shells for political purposes but whose content is defined (if ever) by ministries' bureaucrats (sometimes after intensive bartering that filters also on newspapers).
+Generating entropy isn't necessarily what most would associate with "law&amp;order"- at least not with the first part.
+So, "going postal", and not just in COVID-19 times, seems to be part and parcel of the Italian legislative approach: instead of "going smart", and making leaner but immediately applicable laws, we have announces, followed by skeletons that are then filled according to adjustments.
+COVID-19 and the forthcoming need to fill-in the "boxes" for the "Next Generation / Recovery Plan" simply made visible what, frankly, I observed just as an oddity whenever I was in Italy since the late 1990s (when I first moved abroad- but worked/was abroad not for vacations partially also since early 1980s).
+My readers from Brussels and London probably remember when, while living in Brussels, did a review and translation of yet another Government Decree that run for almost 100 pages- but then, when the resulting law turned into around 300 pages, I dropped the ball.
+This time, I didn't- as currently I live in Italy, and already few years ago kept writing that we are at a turning point, almost a point of no return- and this well before COVID-19.
+With COVID-19, we unfortunately ended up following the adage "reaching the bottom- and then keep digging".
+It was a side-effect and not a choice, but that doesn't change the picture.
+Therefore, I think that the time I spend to get through the [Decreto Rilancio](decreto_index.php) in May, and the resulting law [Legge 77/2020](legge77_index.php) in July was well spent- as the side-effects will be structural also for some of the temporary measures.
+Or, at least, this is my perception considering how I saw Italian companies since the late 1980s, when I started working on management reporting in various industries (specifically: at first, on Decision Support Systems), and confirmed from what I saw since the beginning of the XXI century.
+Since 2012, when I worked and lived full-time in Italy, it was almost a daily routine to see and check how the Italian legislative approach had evolved in a divergent way, if compared with other countries where I either lived or worked since the early 1990s (because, before moving abroad, since 1990 I had also a network and prospects or customers abroad).
+And I wondered, at first: how do you plan long-term when nothing is ever I wouldn't say "final", but at least with a framework of reference that shows some continuity?
+Answer: well, it seems that our mini- and micro-companies (over 95% in some area of the country) are probably a side-effect, as they constantly re-aggregate, while companies that grow, except those that cannot relocate (State- or public-owned, utilities, service companies, etc), routinely pay to leave (yes, we have a kind of "exit tax").
+To settle where Italians say that those "migrating companies" pay less taxes- but that is part of the picture: in reality, the regulatory and bureaucratic stability or at least planned obsolescence of any law and regulation is, in my view, more important.
+A case I liked to remember pre-Brexit was that of a Japanese company that, while I was in London, due to the continuous swinging of the GBP, decided that, as its supply chain and customers were in Continental Europe, it was better to have a new operation in France, than keep it in UK- and this despite the higher payroll costs.
+After Brexit, I do not know- but few days ago read some sobering forecasts on unemployment in UK appeared, partially related to supply chains in UK and their relationship with companies within the EU.
+You can lower taxes as much as you want- but, except mini- and micro-companies that, anyway, would never leave and, most often, do not even have operations abroad except at most distributors, if you keep re-arranging bureaucracy and associated filing and compliance every few months, it is doubtful that you will attract more than opportunistic investors.
+So, "going smart" in legislative and regulatory affairs is more important than "going postal".
+Then, a parallel line is to create incentives (and disincentives).
+But I would rather discuss this with practical cases.
+A key element that is still missing in Italy: with our spoils system, we politicize also what elsewhere is called Civil Service.
+And with our tribal inclinations, often those co-opted politically, and that should "steer", are oblivious to complexity, so that, in the end, you can do as many pieces of legislative "smart"- but the bureaucracy is self-referential, self-steering, and following its own priorities: neither those of "continuity of the State", nor those of "implementation of political guidelines", but just, plain and simply, its own continuity oblivious to any supervision.
+Choosing to "go smart" in legislation would also imply reasserting the political duty and right to steer the action of the bureaucracy, while demanding that our Civil Service, at all levels, has the competencies and accountability needed to ensure a transparency that is still lacking.
+Political backing way too often acts as a safety net- oblivious of the impacts, and making Italy even less attractive.
+Separating the two roles could actually improve both political activity (that would not need to consider the allegiance of Civil Servants- who put them there) and administrative action.
+But, for the time being, since 2012 I did not see any real interest: in the end "having seats to distribute" and "lining up to the incumbent" seem to be still common.
+The second part of this article will discuss privacy and three areas of "smart", with a focus on digital transformation as well as cultural adjustments that I think could be useful to do something else.
+As I wrote often and repeated at the beginning, XXI century innovation isn't just about technology, requires a different culture and mindset- and a different, less passive, participation of citizens.
+The divide between a citizen/consumer and a State/provider blurs- and social roles (and control systems) should evolve accordingly.
+So, digital transformation, in my view, requires also gradually delegating to citizens a more active role, and therefore, gradually, phasing out rules that should be "common ground rules".
+I am not a "laissez-faire", but I think that nobody can deny that in Italy we have way too many laws and regulations tailored assuming that Italians are all natural born criminal, not citizens.
+We need to streamline the State? 
+Yes, but we need also to streamline the relationship between State (and local authorities) and citizens.
+Technology can help (e.g. by avoiding to ask again what is already available in another database), but there are so many minutiae in our laws, that I doubt that any legislator, despite what their ego (men and women) tells them, can tackle on this Sysyphean task without a willingness from citizens to help understand what can be removed without removing safeguards.
+So, "going smart" instead of "going postal" implies something more than fancy Powerpoint presentations, websites, YouTube videos: requires a cultural change that acknowledges that having been elected doesn't imply having been delivered a crystal ball.
+There might be emergencies: but, as I showed when I rechecked the [Legge 77/2020](legge77_timeframe.php), our current legislative process delivers structural changes also when working in a hurry and postponing "implementation details".
+Going smart would imply probably changing the legislative approach toward a multi-staged attempt at defining a "framework" for each new law, discuss and amend (involving also opposition- it is what a Parliament is for), crossing the Ts and dotting the Is to make it feasible, and then have a vote to release it.
+Would this take longer than issuing decrees by fiat? 
+Not necessarily, if you consider all the hidden costs (to the bureaucracy, to ex-post negotiations and tinkering, to private and corporate citizens, to local authorities, to the judicial system) that are currently pushed downstream.
+Another element that still hasn't fully entered the cultural framework in Italy: whenever budgeting, consider the full costs, direct and indirect- moreover, when the latter aren't an option, but a structural element.End of part 1

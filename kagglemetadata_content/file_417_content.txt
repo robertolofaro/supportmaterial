@@ -1,0 +1,87 @@
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20200620_article.png" width="75%"></center>
+First and foremost, have a look at a [shareable outline of what 'ecology' means](https://en.wikipedia.org/wiki/Ecology).
+You could find hundreds of books and tens of thousands of pages, and the longer you read, the more you will find contradictions (that are actually simply different positions).
+Anyway, within the scope of this article, consider it as just the plain, old: relationship between and individual (or associations thereof) and the environment (including both the physical and social environment: physical resources, social constraints, etc).
+So, back to the title: "information and work post-COVID19".
+This article will be short, not the recent standard hovering around 8,000 word that I had to adopt (as postponed the publication of few of my mini-books).
+Before, a short outline of where I stand, just in case there is any doubt.
+<b>Background outline</b>
+There are themes worth discussing and sharing now, while I am still postponing books and projects releasing pending the usual Italian Circus.
+You can see examples in everyday Italian news and, on a more personal level, what I reported on since at least 2007 while I was living in Brussels, and with more intensity since I had to re-register in Italy in 2012.
+In my view, Italy is still a tribal economy that operates in terms of a continuous rounds of negotiations between tribes, where no agreement is ever final if there is a potential of re-balancing...
+...and then, curiously, complains when foreigner and foreign entities learn all too well how to play the game.
+As if, by magic, foreigners coming to our "adaptable" environment where to live up to a higher standard.
+Reminds me of what I was told by Swedish classmates when I spent some time in summer 1994 in Gothenburg, studying "Intercultural Communication and Management".
+One of them told me that a German friend complained that, whenever I travelled to Italy, he rented an Italian car and drove it "the Italian way", but only he was singled out and given a fine.
+He said: how did they do it.
+My reply? In Italy we have many rules, probably way too many, but there are also, if not rules, customary ways to violate rules- something that most foreigners don't get Also if I met decades ago some who did, being actually more "flexible" with compliance than most locals.
+This of course creates somes issues that I shared already: Italians might be masters at provocation or manipulation.
+Also if at least since Napoleon times most consider that role assigned to UK, it is the Ancient Rome habit of dividing to rule- so, in our culture, it is deeper- and "played" continuously, at all levels, not just at those depicted in "Yes, Minister" or the BBC original "House of Cards".
+Anyway, delivering results requires a different mix of abilities over a different timeframe, and sense of the "common" that still eludes most of our tribes.
+Personally, I simply learned decades ago, in 1982, before I turned 18, through structured, organized political and political reseach activities (interacting mainly with material from Brussels and Strasbourg) that...
+... we live in a complex world, and learned how to blend cultures.
+<b>Data-centric societies and trust</b>
+Also in the 1980s, I learned to care about the long-term sustainability of the overall system: which, incidentally, is something we should get used to, in a data-centric economy.
+It isn't a matter of altruism, it is a matter of self-preservation in an environment where exchanges will be more frequent and could be initiated by anybody, and where the difference between "customer" and "supplier" will become a mere matter of perspective <i>on each individual transaction</i>.
+Getting a personal benefit (or avoiding a personal negative outcome), while generating negative externalities that fairly exceed any personal benefit or loss-avoidance is a short-sighted choice, as it affects the trust within the overall system, trust by both the other operators involved, and by observers of those who will receive, in "viral communication", the news.
+Something that could be more easily recovered in past times, when there were few operators controlling offer and demand, not when anybody is potentially a "multiplier".
+Over a decade ago, somebody published a book stating that happy customers tell three friends about their experience, while unhappy customers spread it as wide as possible- an exaggeration, but the author said that bad news travel to... 3,000-
+Before COVID-19, the discussion about information was mainly around the costs and impacts of GDPR ([you can see my position here](https://robertolofaro.com/gdpr)).
+In reality, what I shared years ago in a review of a book about [Silicon Germany](index.php?page=298), where the number of job losses due to digital transformation expected within the automotive and related industries were into the 200,000 just in Germany, has been a Damocle's Sword for a long time.
+Already in the 1980s and 1990s, I remember studying from my books on expert systems how software had replaced people making choices whenever the "logic" was easier to formalize or adapt from data.
+Back then, we had a fraction of the data that we have now.
+I still remember how, in the late 1990s, within the retail industry, the concept was to keep details on a daily basis, less details on a weekly basis, and even less detail on a monthly basis.
+Reason? The cost of storage and processing resources.
+Nowadays, anybody who carries around a smartphone has, in many countries, the ability to shuttle gigabytes of data monthly at almost no cost, and actually each smartphone is a collection of sensor that, as you can guess, potentially generate and "broadcast" plenty of details about the "human carrier" and the environment.
+All these exchanges are based on trust.
+As an example, has been announced that UK will switch from its own smartphone app to track individuals who had been in contact with people that are then revealed to have been tested positive to COVID-19, to adopt... Apple&Google platform.
+Nice market-oriented approach that should further "interoperability", e.g. a gradual sharing of data across countries, should an effective vaccine take the usual time to be developed, enabling people to cross borders without losing control within the pandemic potential second wave.
+Now, it seems that nobody is remembering that, actually, not too long ago before COVID-19 Google and Apple were discussed for the potential impact on privacy if they were to acquire companies that deliver "fitness devices", e.g. devices that report how much you sleep, how deeply, and how is spread activity along your life, 24/7.
+GDPR was just a framework, a beginning- but there is still a marked difference between the framework and its real-time enforcement in terms of compliance.
+Making data "anonymous" is fine- but if e.g. the numer of data points collected on any individual is large and across different dimensions, crossing datapoints you know with a list of "unknown profiles" can narrow down behavioral analysis to target a few, potentially... individuals.
+And this is still something even more cumbersome now, as we can have Machine Learning and other Artificial Intelligence applications vetting data from passersby directly on a combination of smartphones and cloud servers.
+The cost, size, and energy consumption of devices able to "digest" locally ("Edge computing") massive amounts of real-data, and then share information through e.g. a hierarchy of systems could now, thanks to all the devices that we carry around with us, enable a 24/7 monitoring of individuals without any authorization or explicit placement of data-collection devices.
+Anyway, will discuss these data-related themes in later articles.
+The key point is: transforming data into information can be done now cheaply and almost casually, a kind of "low-cost neighborhood NSA".
+Are we ready for it?
+<b>From information to work</b>
+I hinted above at the potential number of jobs reduction due to digital transformation, but the world-wide spread of long-term lockdown due to COVID-19 actually showed what, before, was an item that others and I shared and discussed, but apparently did not affect many decision-makers.
+Who is voting now, in most urban areas? Those living or providing services within urban areas for permanent and temporary individual and corporate urban dwellers, olf course along with local residents.
+While local residents who aren't e.g. shop keepers or "movers" (involved within the local supply chain providing for shops, etc) might identify with their own category on a higher level (e.g. factory workers with factory workers in other towns, in term of demands and expectations, a kind of "think globally, act locally"), local service providers are more probable to "think locally, act locally"- and therefore have a disproportionate political impact on local political evolutions.
+It is a paradox: we all talk and write a lot about "smart cities", but forget how "smart" implies, for a transition phase that seemed so distant into the future until COVID-19, the loss of economic power and jobs for many.
+So, when I listened on YouTube the Mayor of Milan (the financial centre of Italy), supposedly advocating for progress, stating that "smart working" was something worth trying, but now it is the time to get back to "real" work, I see two elements.
+Fear. And fear.
+Fear of change, as local politics in Italy is still centered on dealing with local power cliques, not the overall "common good"- despite all the show-off of national unity during the COVID-19 lockdown.
+And fear of inability to adapt to a different political environment, which implies managing a difficult transition.
+If tomorrow companies were to shift their office-based employees to 4/5 "work from home" (i.e. by leaving one day in office, four at home or in "co-working near home", as I proposed long ago to retain a social element), the list of businesses affected would not be short.
+Even after the stricter phase of the lockdown, when many could resume travel to and from their office, public transport in some town reported having well below 50% the passengers prior COVID-19, while many caf&eacute;, canteens, and other lunch-oriented places were either closed, or reported not having enough customers to justify staying open.
+Yes, it is partially due to social distancing measures (which, in Italy, are generally a business politically correct 1mt, not the 6ft/2mt suggested- and, in my walking around, I doubt that some places I saw open could even comply with 1mt).
+And partially, as I wrote in a previous article, to fear.
+But, from an informal poll, it is also due to the fact that, unless needed, some who started "smart working" during the lockdown, now that they are equipped with a portable PC, VPN connection, etc... would cost less if they were to keep working from home.
+Savings? Of course, the time and costs needed to travel to/from office.
+And also the time to have lunch there.
+And, in a still quite formal business culture, eventually business clothing and related services.
+And, last but not least, office space, its maintenance, and services ranging from cleaning to security to utilities.
+Until recently, "smart working" was done by exception, e.g. one day a week and on a rotation basis, and only for some roles.
+Major towns, such as Turin, Milan, Rome, Bologna, Florence, etc, due to costs, have a large number of desk-bound employees who shuttle each day in and out of town, and live outside the centre.
+As I said to my colleagues in Paris in the late 1990s who asked me why Italian companies in Paris were inclined to be in town, and not in one of the "satellites", as other companies were, in Italy companies are still used to have offices in city centres.
+There is still a contraction of work, but probably smarter companies already started using the lockdown to start monitoring the impacts of "smart working" on an almost universal basis for desk-bound employees (or those whose customers said that from now on meetings will be via devices, not face-to-face).
+Impacts? Redesign processes, discover how many "layers" and "roles" were actually adding no value-added, just stepping-stones toward further career levels, or even just paper-shuffling from desk to desk.
+And, reconsider how much space you really need, and where.
+I wrote already in the past how, due to costs, I saw in late 1980s/early 1990s in Milan an experiment from Andersen to have "shared desks", with only partners having a fixed office, managers having a "drawers cabinet on wheels" to be wheeled-in by secretaries after they reserved their own desk, while the others had to either stay on customers' sites, or reserve a seat to a shared desk.
+I do not know how it ended, as I left in mid-January 1990, but in major towns, due to direct (rent, services, etc) and indirect (employees' time and costs to travel, etc) economic impacts, probably there will be some redesign of work sooner than later.
+Yes, "the future of work" implies that, as automation will expand, more will work less hours and probably more will do what for me was a routine since the 1980s: report to a company, work for many during the week, join the office once in a while, etc.
+But, as automation will expand, "smart working" will probably first start removing the need for many "oversight" layers, replaced by workflows and "peer-to-peer" communication, with leadership assigned by task/competence/mission, not as a permanent roles.
+Personally, occasionally since the late 1980s, and routinely since the early 1990s, I was sometimes managing, sometimes managed, sometimes a peer, sometimes an advisor, sometimes a "temporary task delivery provider"- and often this happened (mainly for different customers) during a single week.
+For factory workers, probably automation will take the form of cobots, as I wrote in the past, e.g. one human at first supported by a robot doing the "heavy lifting" or dangerous parts, and eventually one human connecting multiple cobots, this human-robot mix working as a team.
+It is not science-fiction: in my workshops, conferences, training since 2016, this was already first discussed, then more often showed as a result, and the number of cases keeps expanding.
+<b>Conclusions</b>
+I promised to deliver a short article as a "signpost" before I can resume releasing something more structured- and this article is probably already way too long.
+So, I will close it now- more as a way to share some thoughts before spending some time being a tourist for a day, and identify some threads that I think would be worth discussing next week.
+What matters is: we have a new environment, a new post-COVID-19 (social, economic) ecosystem that will stay with us at least for few months more, and probably its impacts will last years.
+So, as I wrote few articles ago: get used to it, and get the best out of it.
+It will not be easy, it will not be pretty, but will be needed.
+Otherwise: try and struggle to pretend that nothing changed, e.g. by urging everybody to get back "to real work" and the old products and (public, private) services consumption habits of before.
+Then, see what could have been a painful but ordered transition turn into a chaotic series of crises.
+Your choice. Actually, our choice.
+For the time being... have a nice week-end.
