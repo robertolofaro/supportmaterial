@@ -1,0 +1,67 @@
+<strong>Most recent update: 2025-10-04</strong>
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/experience.jpg" alt="" /></center>
+
+Welcome- this is were I share articles, posts, book and workshop/conferences reviews, and the page with links to additional material for each business book that I published since 2013 ([more details on my business experience](cv)).
+
+<strong>Main focus of this website</strong>: cultural/organizational change and digital transformation, with articles, reviews of books and workshops/webinars/software, links to my own books.
+<br /><br />This is what you will find in each option contained within the menu:
+<br /><br />
+<dl>
+<dt><strong>HOME</strong></dt><dd>main page</dd>
+<dt>_</dt><dd></dd>
+
+<dt><strong>SITEMAP/ABOUT</strong></dt><dd>this page</dd>
+<dt>_</dt><dd></dd>
+
+<dt><strong>PORTFOLIO</strong></dt><dd>section about sample products and services delivered</dd>
+<dt>[_about: concept and samples](https://robertolofaro.wordpress.com)</dt><dd>the concept of this section, and what I mean with "portfolio"</dd>
+<dt>[_cv](cv)</dt><dd>CV, profiling information, sample customer lists, current activities, roles of interest</dd>
+<dt>[_books on change](https://leanpub.com/u/robertolofaro)</dt><dd>books on change published since 2012</dd>
+<dt>[_book writing blog](index.php?section=books-blog)</dt><dd>sharing my publishing development notes and a bit of planning</dd>
+<dt>[_century of the commons](index.php?section=expo2015diaries)</dt><dd>a book started in 2015 and linked to sustainability and SDG- completion due by 2030</dd>
+<dt>[_connectingTheDotsSeries](index.php?page=349)</em></dt><dd>a book series on change dimensions</dd>
+<dt>[_glossary: Common sense](index.php?section=connectingthedots-scrapbook)</em></dt><dd>a different form of "positions papers" (with links to multimedia whenever relevant)</dd>
+<dt>[_organizational support concepts](index.php?section=organizational-support)/tools</dt><dd>business and product concepts, both for research projects that I am working on, and shared as potential concepts, to allow all to use them (and nobody to patent, restrict, etc)</dd>
+<dt>[_sample cultural references](https://librarything.com/profile/aleph123)</dt><dd>link to my Librarything profile (partial library catalog, with book reviews)</dd>
+<dt>[_strumenti per la comunicazione e promozione di idee](strumenti)</dt><dd>a book published in 2012 on integrating social media within advocacy activities, from a conceptual perspective derived from political activities (in Italian)</dd>
+<dt>[_suggested readings/books reviews](index.php?section=suggested-readings)</dt><dd>sharing reviews of books that I deemed to be worth at least 3.5 out of 5</dd>
+<dt>_</dt><dd></dd>
+
+<dt><strong>SEARCH CONTENT</strong></dt><dd>section with the search functions of this website</dd>
+<dt>[_most read](index.php?section=most-read-articles)</dt><dd>articles on this website, ranked by number of readers</dd>
+<dt>[_latest read](index.php?section=latest-read)</dt><dd>latest 20 read articles on this website, ranked by time</dd>
+<dt>[_inside articles](search.php)</dt><dd>tag cloud to search within the articles</dd>
+<dt>[_inside books](searchbooks.php)</dt><dd>tag cloud to search within the published books</dd>
+<dt>[_multi-part articles (COMING SOON)]()</dt><dd>access point for the first part in each multi-part article, with additional navigation aid to get across all the parts of an article</dd>
+<dt>_</dt><dd></dd>
+
+<dt><strong>WEBAPPS/SITES</strong></dt><dd>links to webapps (generally knowledge searching) and additional websites focused on specific domains</dd>
+<dt>[_AI ethics primer search](searchkaggleaiethics.php)</dt><dd>since July 2023, to search within the content of a selected bibliography on AI ethics (updated monthly)</dd>
+<dt>[_ECB Speeches search](ECBSpeech_index.php)</dt><dd>since November 2019, to search within media released from the ECB (updated weekly)</dd>
+<dt>[_PRConsulting.com](prconsulting/website)</dt><dd>first online since 1993, domain registered in 1997, articles about the consulting business</dd>
+<dt>[_BusinessFitnessMagazine.com](businessfitnessmagazine)</dt><dd>first online since 2003, an e-zine on change ([reprint 2003-2005 here](bfm2013)), articles about business and organizational development</dd>
+<dt>[_ChangeRuleBook.com](https://youtube.com/@changerulebook)</dt><dd>multimedia about the different dimensions of change</dd>
+<dt>_</dt><dd></dd>
+
+<dt><strong>SECTIONS</strong></dt><dd>articles and material about cultures (real and fictional) and data democracy</dd>
+<dt>[_CULTURES](index.php?page=324)</dt><dd>the concept of cultures</dd>
+<dt>[_:UHF](index.php?page=387)</dt><dd>a fictional culture</dd>
+<dt>[_:Nlschap](https://nlschap.wordpress.com/)</dt><dd>a language learning experiment done while in Brussels over a decade ago</dd>
+<dt>[_:wodeshudian](https://wodeshudian.wordpress.com/)</dt><dd>a culture learning experiment</dd>
+<dt>[_:EU, Italy, Turin](index.php?section=diritto-di-voto/)</dt><dd>articles on the social and political side of change</dd>
+<dt>[_:Rethinking organizations](index.php?section=rethinking-organizations)</dt><dd>articles on the business side of change</dd>
+<dt>[_DATA DEMOCRACY](index.php?page=392)</dt><dd>the concept of data democracy</dd>
+<dt>[_:content](index.php?section=data-democracy)</dt><dd>a card for each key dataset (usually including also a search application)</dd>
+<dt>[_:citizen audit](index.php?section=citizen-audit)</dt><dd>a number crunching perspective on society, using public data</dd>
+<dt>[_:elections, elections](index.php?page=550)</dt><dd>data-driven articles about Italian and European elections</dd>
+<dt>[_:data since 2019](https://kaggle.com/robertolofaro)</dt><dd>curated datasets that released on Kaggle since 2019</dd>
+<dt>_</dt><dd></dd>
+
+<dt><strong>COMING SOON</strong></dt><dd>sections and webapps that will be released in the forthcoming months</dd>
+<dt>[_PRConsulting.com search]()</dt><dd></dd>
+<dt>[_BusinessFitnessMagazine.com search]()</dt><dd></dd>
+<dt>_</dt><dd></dd>
+
+</dl>
+
+If you want to contact me, please visit the [CV page](cv).

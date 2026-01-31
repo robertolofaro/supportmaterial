@@ -1,0 +1,51 @@
+Moving from #big #data to #shared #real #time #KPIs
+
+Completed reading today Alvin Roth's "Who gets what" (translated in Italian as "Matchmaking"- yes, we are trendy :D), on "market design"
+
+At the same time, quickly re-read Guido Cosenza's "La transizione. Analisi del processo di transizione a una societ&agrave; postindustriale ecocompatibile" (https://www.librarything.com/work/5565535/book/108887899 you can read my past review on LibraryThing).
+
+Why? Because reading the former made me think of other transitions, and therefore the latter (well, along with few other books on economic and social transition- from the obvious about the Roman Empire, to the Middle Age and Byzantium).
+
+Also without talking about blockchain as a way to "keep track" of everything (from physical objects, through e.g. "smart labels" set on each object, to intellectual property), and, in the future, maybe everybody (with the density of sensors around us, eventually we could have not just an email address or tax code assigned to every new born, but even a blockchain).
+
+Let's just talk about the concept that in our society we are increasingly sharing information as a "structural cost to be in play"- not just on GAFA (Google, Amazon, Facebook, Apple), but also in our interchanges with the state- e.g. with the extension worldwide of the "electronic invoicing" model from Brazil..
+
+Many years ago I suggested online that, in the end, to reduce the black economy, small companies could receive an incentive in the form of making their life simpler: get all your costs and revenues via electronic means, allow the State to provide a basic accounting service based upon the electronic flows, and only private-to-private exchanges will still be potentially based on cash.
+
+Now that electronic invoicing in EU will be soon an universal tool, we could introduce something else, that many years ago discussed with English colleagues while helping them to try to sell in Italy their risk management solution.
+
+Meaning: in Italy, as in many European countries, there is a centralized risk-management system.
+
+How does it work? Systemically.
+
+Or: you provide data because you know that you can extract data; and that, along with some structural penalties for non-compliance, creates further incentives to provide "good quality data".
+
+Now, this works only if everybody shares data in a form that can be stored centrally, and used and understood by everyone of the parties involved, and it overall evolved in a different beast... a PUMA (http://www.bankpedia.org/index.php/it/121-italian/p/21855-puma-2).
+
+In Italy, decades ago, I remember seeing also other initiatives to compare and benchmark banks based upon their cost structure, etc.
+
+Overall, when you move from a simple "after the fact checking", where data have to be transformed into something that has no direct relationship with what you do everyday, to something that requires a constant harmonization of information, you create new business opportunities.
+
+So, many today complain about GDPR, electronic invoicing, electronic procurement, as if they were talking about "standardizing strawberries".
+
+But they are missing the whole picture, and its potential.
+
+When you extend what worked for decades only for organizations with a large, structured set of information systems, and convert it into something that is "democratized", i.e. extended to everybody, you probably externalize the infrastructure- as you cannot expect that all the parties involved will have the same degree of sophistication.
+
+And because you need to do this in real-time (you cannot wait a month for an external "document processor"- it is an invoice), then you create de facto a central infrastructure.
+
+Now, I know that many would say that those data are released for other purposes, cannot be reused etc.
+
+Anyway, in Italy we have a different perspective- closer to the "boil the frog" story that my Anglo-American colleagues told me long go.
+
+Or: gradually, we assume that some processes are not set by us, but by external agents, in this case the State or the EU.
+
+We adapt and adopt, and eventually discover that we got rid of processes that added only overhead, no value added, and were useful only to create artificial buffers.
+
+Instead, a central data structure could allow, with current technologies, to easily track and disseminate information with varying degrees of detail, enabling a real-time national statistics by industry, by location, by other demographic factors, and, eventually, additional services that could link to that more detailed information.
+
+Example: imagine that, for compliance purposes, after electronic invoicing, the Guilds ("Albi Professionali") that are common in Italy beyond the usual lawyers, doctors, CPAs, auditors that are common also elsewhere, were to ask to their members to provide more information to ensure consistency with "ethical standards", best practices, etc.
+
+Beside the "national, standard" KPIs, you could now have also within each business category represented by a Guild additional KPIs that could help its members to understand if their cost structure is sound, or help disseminate best practices.
+But, again, in real-time.
+We are in for interesting times

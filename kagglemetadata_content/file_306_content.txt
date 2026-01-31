@@ -1,0 +1,95 @@
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/stories_20180705_180652_redux.jpg" alt="" width="500" height="375" />
+
+The picture that comes along with this post?
+
+A good way to start a really short post about the future of business.
+
+I should specify- the near future or the near past.
+
+In many cases we are already in the future most traditional businesses fear about: simply, we do not realize it.
+
+It is a communication issue: we are saturated with fancy statements about the future impacts of AI (artificial intelligence), so most simply shut all them off, until a frantic call for action will make the hamster wheels spin.
+
+There are two extremes, i.e. "do nothing and wait" and "let's do something, anything".
+
+Personally, I think that any "call to action" should be followed by clear headed action based on choices, not "seat of the pants actions for actions' sake".
+
+Sometimes, you make choices based upon assumptions yet to be proved.
+
+But, unless you lie to yourself, you are actually able to work by "emergence", as if you were sailing through waters that aren't yet mapped- potentially by acceptable trial-and-error.
+
+To adopt the same metaphor: those two extremes are roughly equivalent to those stating "well, let's wait until somebody else explores it first" and "let's go ahead as fast as we can before others will do it, then we will sort it out".
+
+In order to keep this post short, I will re-route you for details to four mini-books (100 pages or less) that I wrote between 2014 and 2018 (the first three can actually be read online for free, no need to buy a copy):
+<ul>
+<li>On future talent management: [http://robertolofaro.com/synspec](synspec)</li>
+<li>On decision-making using data: [http://robertolofaro.com/relevantdata](relevantdata)</li>
+<li>On integrating in your information systems devices outside your control (and associated information): [http://robertolofaro.com/byod](byod)</li>
+<li>On data privacy and the future of data-centric businesses: [http://robertolofaro.com/gdpr](gdpr)</li>
+</ul>
+
+Let's make the title and the picture converge.
+
+Over the last few weeks, I attended webinars online and events between Turin and Milan focused on the digital transformation of business.
+
+Specifically, the most recent event, a full-day held in Milan on July 5<sup>th</sup> and organized by Cerved, had various presentations delivered by and panels involving consultancies, customers, regulators, and of course Cerved itself (the event was called "Next", and its 2019 edition has already been scheduled).
+
+Actually, that event was the latest in a string of events that I attended in Italy since earlier this year, all focused on business 4.0 in its various elements (yes, including GDPR).
+
+The key points are not really details- you can certainly find more detailed material than this article online (and I too posted online some articles, since 2003, e.g. see the link on GDPR above).
+
+The issue I am focused on, as usual, is change- specifically the governance of change.
+
+The picture above was the cover for a presentation starting with a question: how confident are you that your own job couldn't possibly be replaced by an algorithm?
+
+Even on Linkedin, way too many posts and articles on these issues seem to have been written by those who consider as a starting point a technological, not a cultural and organizational change.
+
+Consider that technological changes that embed a cultural shift are not something that you can avoid, you can just procrastinate at your own risk.
+
+This generates obviously traction for, eventually, what I called within the title "the 'left behind' syndrome", i.e. the fear of missing the trend generates initiatives that lack a coherent roadmap.
+
+In many cases, experiences on the use of AI, its machine learning sub-division, and data-centric initiatives presented during the various events over the last few months sounded more like "trials" than derived from a roadmap, and in more than one case the more technical they were, the more awe generated within the audience- but seemingly few noted that there were some structural issues from a business perspective.
+
+The risk? From a change governance perspective, more than just wasting resources, you could actually build organizational resistance to change, resistance that will reveal itself when less convenient.
+
+As I wrote at the beginning, this is a short post about the near future and near past.
+
+Now, let's raise a little bit above all the minutiae, and let's think about some of the key "ingredients".
+
+We have:
+<ul>
+<li>Data collection facilities that are everywhere (yes, even your smartphone is one)</li>
+<li>Computing abilities that are distributed (i.e. processing does not require a central system)</li>
+<li>Information systems to be meaningful have to integrate more than traditional data sources</li>
+</ul>
+
+And this is only considering "standard" information systems.
+
+Now, if you add instead into the picture the ability of systems to "learn", you have to consider few more elements:
+<ul>
+<li>A learning system is actually guided by exploration: what might be relevant today, could be meaningless tomorrow</li>
+<li>Your integration of external data sources might need to evolve as well, to support new trends, and also your own contractual arrangements should evolve accordingly.</li>
+</ul>
+
+Moreover, we should consider that also regulation will probably change- both in content and design.
+
+GDPR leverages on the existing data privacy regulations and experience, but future evolutions might enforce an element that have been "softened" within GDPR itself, i.e. the complete and automatic integration across the supply chain, from suppliers to customers.
+
+Probably "smart contracts" (i.e. data flows with attached conditions for use and pricing) will become more the norm than the exception- generating the "unbundling" of every service, blurring the current distinction between B2B (Business-to-Business) and B2C (Business-to-Consumer).
+
+Further enhancements of services could actually enable in any transaction also C2B and C2C (respectively, Customer-to-Business and Customer-to-Customer) business models, potentially with marketplaces to enable demand and offer to meet.
+
+Now, think again about that picture and the question that Mr. Cukier asked: where do and will algorithms fit in your picture?
+
+Algorithms might actually enable introducing in more companies, even larger organizations that traditionally are considered to be less flexible, an ability for dynamic "scalability".
+
+Since the 1980s, I worked across many industries and many domains within each industry, in various countries (mainly in Europe).
+
+And, frankly, I see opportunities to actually introduce into the delivery of services and products the "leverage" that became the norm within the financial industry.
+
+Yes, algorithms could actually enable to "leverage on human capital".
+
+Just: do not fell prey of the "left behind syndrome" that compelled many in the past to buy what became just yet another study gathering dust or what, in the software industry, is called "shelfware" (i.e. software licensed but never used).
+
+I am quite confident that, if your organization is already structured at least by product or service line, you can find examples worth considering.
+More in the future.
