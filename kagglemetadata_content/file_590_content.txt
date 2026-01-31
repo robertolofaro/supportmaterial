@@ -1,0 +1,468 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250210_article.png)</center>.
+
+Let's just say that some already saw drafts of this article- but it was not really how it evolved now.
+
+It started as an article about some ideas and concepts, but then became long enough to justify adding a second article focused on discussing examples.
+
+So, you can read the first part, the second part, or one after the other, or both in parallel- it is up to you.
+
+One "trick": both parts will have the same agenda- so that any of the proposed reading approaches will become feasible.
+
+And now, the agenda:_ preamble_ learning and talent: of Is, Ts, and Pi_ organizational learning and Leviathan, XX and XXI century_ data is the new oil? the XXI century industry of industries_ conclusions and next steps.<b>Preamble</b>
+
+This article is a kind of interim signpost on a journey- sharing some information, ideas, concepts, and work-in-progress.
+
+The idea is quite simple: use some observation and preparation activities to pinpoint some scattered dots.
+
+And then let you, the reader, connect the dots as you see fit.
+
+An exercise in serendipity- but of course will have first to share the dots, and then present my own mapping exercise (which actually is one of the many scenarios I am considering, not yet in the "decision phase").
+
+As I wrote within the incipit of this article (shared between two articles), all the "practical" elements will be within the other article.
+
+The actual corollary is to share not just the above, but also the approach.
+
+As you probably know, whenever asked what I focus on I say: "change, with and without technology".
+
+A nicer and gentler way to summarize my attempts since forever I remember to complement the "human side" with the "data side".
+
+I prefer to say "data" and not "technical" side.
+
+As I shared in countless articles, "technical" in my view is related to "techn&eacute;", i.e. structured and formalized knowledge.
+
+And for all the pretense of not being "technical", in my concept actually most of all of those claiming otherwise end up being for me... "technical".
+
+Because also when they claim to create patterns, frankly, seen from a neutral eye at a distance, their "style" is visible.
+
+Like it or not, we are still using patterns that derived from our ancestors having to deal with wild animals long before they (the humans, not the animals) started developing agriculture.
+
+Which, in turn, expanded the already existing need to store and preserve materiel, food, tools, etc, from planting season to harvesting season, to it all again.
+
+So, also without any degree in engineering, we started building and transmitting knowledge about integrating within an overall system more and more elements, as well as creating supply chains and, as shown by tables from the "land between the two rivers" (Mesopotamia), keeping tab about what entered and left our warehouses.
+
+Actually, even if you look at the constitutional history of the USA, you can see how some quirks (for us) about the timing of events derived from pre-industrial, horse-riding times.
+
+Also representative democracy is actually linked, beyond the limited confines of a city-state, to the adoption of similar pre-industrial decision-making tools.
+
+And to those who highlight the virtues of the Athenian democracy, beside pointing to a long list of books dissecting "political folklore" that we pass as political science, I generally satisfy myself with a gentle invitation to have a look online at how it really worked, and, last but not least, at who was excluded.
+
+Or even just look at how the electoral system in Ancient Rome evolved during the Republic when Rome evolved from a city state, to when gradually extended across the whole Italian peninsula.
+
+I invite you (it is free) to have a look as some of the first minibooks that I published between 2012 and 2015 (e.g. [the 2013 updated reprint of my 2003-2005 e-zine on cultural and organizational change](bfm2013), or the [the one of few years later on integrating internal and external expertise](synspec)).
+
+Or even read articles on this website where discussed my concept of [generalist](search.php?tag=generalist).
+
+So, considering this framework of references, let's move onto the key concepts.
+
+
+<b>Learning and talent: of Is, Ts, and... Pi</b>
+
+The title of this section is for a funny element- part of our urge to ["pigeonhole"](https://en.wikipedia.org/wiki/Pigeonholing) everything and everybody within a pre-defined structure, as if otherwise we would feel unsafe.
+
+An example: when I was in my mid-20s, was promoted "cadre", after few months as Head of Training and Methodologies within the Italian branch of a French company.
+
+At the year end, had a dinner with some friends of a high school classmate, and there were others that I did not know along with them.
+
+One of them, when I answered to the question of what I was doing and after being told that I was a cadre at my age, said that I must be a genius.
+
+Frankly, whatever IQ tests say, that had nothing to do with it.
+
+My CEO at the time simply said that it was because, beside taking care of the business development of my business unit, I supported the development of others.
+
+So, it was more focus and attitude, than the abilities of an individual.
+
+As I had learned in politics was I was 17 and started interacting with foreigners for those activities, the more complex a structure, the more you need a palette of abilities, and moreover, as in a painters' palette, you need "focused" colors.
+
+Yes, you can blend colors to produce new colors- still, if all the colors were mixed up, how could you understand which "blend" you need?
+
+So, my view was that, as each business unit has its own specialty, and mine was focused on methodologies (and training, plus associated change services), my role could be to help integrate what was part of my business unit to "augment" what others were doing; actually, it was part of my mandate.
+
+At the same time, they could help me in providing a better positioning of our methodology and change services contextualized within a specific domain.
+
+And, frankly, this is the same approach that I had used also with the previous employer, when I became the "vertical specialist" on building decision support models on PCs using a tool provided by an Anglo-American partner, and then developing not just a training curriculum around it, and delivering management and specialist training, but also training other trainers and consultants, as well as audit models built by others, etc.
+
+In both companies (incidentally, both multinational), I had to use my "vertical" expertise across various industries.
+
+So, as I had done in political activities on each dossier to understand, in that case selecting material on a specific subject coming from Brussels or Strasbourg, in business I relied on the "domain" expertise of others.
+
+The point was: I was keeping my focus on my expertise to be useful to others, while also having to be able to blend some of those of others to fulfill demands from customers.
+
+Pigeonholing is a quixotic element that many associate to the needs of urbanized, industrialized societies, but actually have been part of our social landscape since forever.
+
+As a teenager, read about other cultures or even just about rituals in tribes as described by L&eacute;vy-Bruhl and others- and then kept reading (something that was useful when, in 1994, in Sweden decided to spend part of the summer by attending in Gothenburg a summer academy at the local university on Intercultural Management and Communication).
+
+Just to stay in Europe, "witch-hunts" were just part of that "pigeonholing drive".
+
+Just to shift "across the Pond" (as some British contacts still in the 1990s called half-jokingly the "former colonies" across the Atlantic), I think that anybody alive now heard about the McCarthy era (if not, have a look at ["Good night, and good luck"](https://www.imdb.com/title/tt0433383/)).
+
+If you read more recent documents about the future of work (e.g. World Economic Forum's [2016 "The Future of Jobs"](https://www3.weforum.org/docs/WEF_FOJ_Executive_Summary_Jobs.pdf)), you end up with a strong critique of our pigeonholing obsession, if we want our societies to be able to thrive and change.
+
+For those of you who advocate a "happy de-growth" or follow the 1972 Club of Rome call (I do not- neither of them, and explained why in previous articles), just consider that we are not talking about keeping up a geometric or even linear growth.
+
+It is about a constantly reshuffling of priorities, adapting before adopting.
+
+Something that apparently we humans are good at, also if we are able to do excessive ["terraforming"](https://en.wikipedia.org/wiki/Terraforming).
+
+Which, in my view, is when we fail to consider the capability of the source of resources (excuse for the alliteration).
+
+As a typical example, just to stay on my birthplace (Italy), look at the number of recent disasters: in Italy, we all like to link natural (and financial ones) disasters to exogenous sources.
+
+It is a quick way to absolve ourselves from our sins, as my Anglican friends quipped once in a while, when I was living in London.
+
+As an example, in natural disasters, we are neither forgiven nor forgotten: and in Italy we had a penchant for diverting rivers and torrents, as a quick fix to get a flatland to build on.
+
+So, we just need some significant rain (now hundred years events are getting more frequent) to get water takes back its rightful place.
+
+Talking about reshuffling and staying on the environment page, whenever such events occur and yet another location in Italy complains about flooding, I often remind to my fellow Italian contacts what I saw while living in UK.
+
+After a flood, it was carried out a study, and simply proposed to redesign a location, by having gardens and playing areas where water would probably return, while moving houses higher, and having the ground floor used as storage and car parking, so that, in case of even out-of-the-ordinary floods the human-dwelling areas would be untouched.
+
+Now that I hope you "visualized" some of the elements within the title of this section, I can move on disassembling its meaning.
+
+Since I started officially to work (mid-1980s), I saw a constant and dramatic increase in the number of certifications available.
+
+Or: more and more people getting more and more "I" shaped, i.e.getting more and more formal certifications in a single "vertical". 
+
+As I shared in the past, I think that the value of a certification, notably in a dynamic organizational structure where you converge and orchestrate talents if and when and for how long needed, not just as "9-to-5" permanents desk-bound roles, is to generate a common lingo and shared framework of reference.
+
+Then, to deliver something, you need to actually have to mix-and-match in the right proportions.
+
+It is interesting when this orchestration implies blending different "forma mentis", generated by degrees, certifications, specializations, etc.
+
+For historical reasons, in business I have often covered the role of a "bridge" between experts.
+
+What is the difference between a jack-of-all-trades that knows a bit of everything, is master at none, but carefully selects interactions, so that can always appear to be "expert", and a "bridge"?
+
+As a "bridge", you need to have your own continuous investment in your own "niche", to be "vertical" on something, so that you can understand, as I wrote in past articles, how to move from ideas to their implementation.
+
+And beyond- I dislike implementations of ideas that keep working only until their creators stick around.
+
+If you want, you can start with a point, move that point along to turn into a line, and have that become your own "vertical expertise".
+
+But then, if you want to connect, has to develop into a surface connecting with other lines, all contributing to closing that surface.
+
+Yes, I am misquoting a book that liked a lot when I read it decades ago, "Point, Line, Surface" from Kandinsky (that was the Italian title translated from Russian, [on archive.org you can find the English version "Point and Line to Plane"](https://dn720004.ca.archive.org/0/items/pointlinetoplane00kand/pointlinetoplane00kand.pdf)).
+
+In our complex society, in reality we need both those within a single "line", those within a single "plane", and those who can actually connect not just the single lines into a plane, but also different planes.
+
+I think that nobody who lived through the either 2008 financial crisis or the prior Tsunami or the side-effects on global business of a local event such as Fukushima, and of course even more the 2020 COVID crisis, can escape from that consideration.
+
+We can cocoon within our village, town, region, national boundaries, but what we built at least since the XIX century is something inherently more complex and therefore more subject to the ["butterfly effect"](https://en.wikipedia.org/wiki/Butterfly_effect).
+
+While in terms of efficiency doing something akin to the [1975 "Rollerball" movie](https://www.imdb.com/title/tt0073631) might work (specialized towns doing each just one thing, and consuming for what is needed from the production of other towns)...
+
+... in terms of efficacy this creates a structurally set of weaknesses, and, frankly, no company that has continuity issues or commitments should ever have just a single supplier for anything critical.
+
+If you read previous articles on this website, you know that one of my routine complaints is that in Italy, and even more in my birthplace Turin, we have this tribal obsession to try to take over any initiative by using exclusively resources in our own tribe.
+
+With obvious consequences.
+
+Personally, I do not belong to any tribe- and also in politics I am resolutely bipartisan, when it comes to "structural" needs.
+
+Since the early 1990s worked in Europe frankly exclusively via word-of-mouth (as you can see <a hreF="cv">on my chaotic list of activities and industries</a>)- and I look at each mission or potential role "per se", not in terms of "credits" acquired with this or that tribe.
+ 
+Now, somebody would say that my concept of "generalist", or "bridge", i.e. having a vertical expertise plus enough knowledge to be able to interact with other carriers of vertical expertise in different domains as "T-shaped".
+
+Personally, as I wrote above, I consider instead of having adopted, by selecting both "human" and "data" vertical expertise plus enough of each domain I had to interact, to have developed a &pi;-shaped expertise.
+
+For "human", I mean "change"- in all its form, as represented by e.g. articles on this website.
+
+For "data", I mean "relevant data" (yes, [part of the title of one of my minibooks](relevantdata)), not the technicalities associated with a specific tool. 
+
+Tools change evolve fast, and, while you have to keep up-to-date on trends, once you get enough to understand the overall concept (usually I do pilot projects to that end), you are better off scouting for experts to use as reference (and potentially involve if needed).
+
+In the 1980s and 1990s, when storage space was still relatively expensive, data were selected according to their relevance.
+
+And, frankly, I am not that much convinced that our current obsession with piling up data is necessarily useful for some time of mission-critical choices.
+
+Hence, my approach is focused on curating data that are relevant for the specific purpose, e.g. as I did on public datasets [released on my Kaggle profile](https://kaggle.com/robertolofaro).
+
+Anyway, I-shaped, T-shaped, &pi;-shaped the point within an organizational structure is to have the aggregate generate organic value, not just showing potential.
+
+And this requires not just collecting data and knowledge, but also continuously re-assessing.
+
+
+<b>Organizational learning and Leviathan, XX and XXI century</b>
+
+About the concept of "potential", would like to share a post that received earlier this week on Linkedin:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20250210_potential.png)</center>
+
+The concept? You have "potential", but eventuallya) should express it b) should find your way and follow it.In my case, blending what I had done and learned before (long before started officially to work, considering my interests), after my first employer I considered that actually cultural and organizational change, on one side, and data-driven decision-making, on the flip side of the coin, were "my way"- by 1990.
+
+In mid-1990s prepared for another shift building on that plus additional experience derived from working since the late 1980s with senior management and Cxx.
+
+Eventually decided that what I had planned would not work with the options I had (e.g. getting a master in finance not as executive but as residential, as would have implied pulling for at least one year from my market), and simply reallocated that expertise to add business and marketing planning as well as startup organizational development support (not necessarily for profit).
+
+Or, if you want, in reality shifted from &pi;-shaped to something akin to the hand-written T in Russian:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250210_t_to_m.png)</center>.
+
+What links the three legs? It can be summarized as a toolbox containing:_ ensuring business continuity_ focusing when needed on delivery_ adapting to change by prioritizing_ sticking with the resources and commitments_ optimizing the allocation of resources.Which is basically what project, program, portfolio, and service management are about.
+
+It helped that, before starting to work on cultural and organizational change, I had see that in place first in politics, then at the university.
+
+In both cases, I had chance to learn, test, and improve- from somebody with applied experience on advocacy, event management, setting up and delivering training curricula, etc.
+
+And working on developing my own projects and sales and other side activities while in high school helped to "test concepts" when potential damages were easier to control.
+
+Then also in the Army, where having both something to deliver as part of the planning side (field exercises, IT training, services) and some continuity (ditto) were assumed- and mistakes would have generated ripple effects.
+
+Obviously, it also helped that my first employer, in the 1980s, had a significant investment in processes, methodologies, and improving on that continuously: I was able to read those documents through the lenses of my pre-employment experience on projects, initiatives, events, logistics, services.
+
+I think T- or &pi;- or lower-russian-t-shaped all need to be based on sound foundations of project, program, portfolio, service management concepts if not practices.
+
+While I was in Brussels, somebody from Italy wrote that the first three were different disciplines with different approaches.
+
+Partially true- but I would rather say that they complement each other.
+
+If you look at the latest versions of PMI standards you will see how much the three should be considered as parts of a whole.
+
+You have to grasp the basics, even if you never esplicitly worked in any of those three (I did), if you have to work on orchestrating activities, and need to understand when to use what- notably to organize activities and roles accordingly.
+
+For example, a couple of decades ago was asked by a partner to help on some key accounts where they had a budget and multiple projects, services, initiatives.
+
+Having knowledge and experience of those disciplines helped in improving both internal processes and the relationship with the customer. 
+
+But will discuss this example (and other similar ones) within the next article.
+
+Anyway, learning is not enough, what matters is also to contextualize organizational learning within the organizational culture and organizational structure.
+
+It is not by adopting new-ageish training curricula that your organization will become "lean", "agile", "adaptive", "resilient".
+
+Many organizations frankly still smack of [The Organization Man](https://en.wikipedia.org/wiki/The_Organization_Man), a 1956 book.
+
+Which actually reminded a lot of the [Leviathan from Hobbes](https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)), a 1651 book.
+
+Our XX century organizational structures were a kind of "corporate Leviathan"- an approach that helped to switch gear on production during WWII, and other countries that followed a "war economy" approach, and be able to deliver large volumes of equipment in a short time by converting existing facilities, but is that approach still relevant to our times?
+
+Consider XXI century organizations as something that needs "unbundling" to differentiate between what is really worth [commoditization](https://en.wikipedia.org/wiki/Commoditization), and what is worth keeping unique.
+
+Whenever you are using a product or service that has to adhere to some compliance or standard, you are actually shifting part of your decision-making to external, shared decision-making approaches, following a standardization or harmonization.
+
+The interesting element is that, when you unbundle an organization, actually the only way to avoid weakening its positioning on the market is to reinforce its own internal governance and knowledge thesaurisation structures, to be able to assess what, strategically, makes sense to unbundle, and what should be kept inside.
+
+In Italy, the small size of companies implies that often there is a lack of organizational development culture and capabilities.
+
+We adopt before we adapt, and sometimes we over-engineer our organizations by mimicking larger ones, notably when within the supply chain of one of the few of the Italian large companies.
+
+Probably, as I wrote in the past, in similar context, it should be up to the organization representing companies (e.g. in UK CBI, in Italy Confindustria or API) to act as a "bridge" toward the XXI century organizational needs, and become advisors to their own members.
+
+I will share some concepts and examples in the next article, but then, if you read the agenda, there is another point that is relevant to our times: data and its strategic uses.
+
+
+<b>Data is the new oil? the XXI century industry of industries</b>
+
+Yes, I worked in the past (pre-GDPR) on data privacy as part of my projects, including to help partners set up a professional services in that domain- long before published in 2018 [a mini-book on GDPR from a business perspective](gdpr).
+
+The title of this section has two elements of reference:_ the traditional "data is the new oil"_ the concept of "industry of industries", which in the XX century was associated with automotive.I did discuss a bit of both incidentally also within the previous article [The constructive and destructive sides of biases: the confirmation bias example](index.php?page=589).
+
+In that article, actually as an example of confirmation bias side-effects discussed my birthplace, Turin, that since 2012 had the chance to watch with "foreign eyes", but almost full time.
+
+When it comes to the paradigm shift, from automotive to data, my birthplace is actually quite blatantly a poster child of the dualism of such transitions.
+
+Having smaller companies within a company town focused on a specific industry implied that, beside automotive per se and financial entities, most of the ecosystem was built really on externalization of activities.
+
+Moreover, while companies in production within that supply chain basically never had to develop real strategies, as they just contented themselves in working for the leading company of the town- moreover, as it was spreading around the globe.
+
+Decades ago automotive was defined "industry of industries"- in no small part because, if you just look at the lifecycle of a product (from concept down to removal), you will see how many industries it involves.
+
+Now, the sheer size of the "industry of industries" developed and intersected across the XX century with the development of data technologies.
+
+Already in 2012, a foreign automotive company said that around 20% of its business was coming from services, and shared in the past a 2017 German book about "Silicon Germany" which outlined how actually vehicles could evolve into a platform.
+
+I [quoted in the past the 1990s Womack book and 2010 Mitchell book updating on Womack](search.php?tag=womack), along with other books.
+
+In the 2020s, we are already seeing a different type of commercial war within the new industry of industries.
+
+As I shared with some friends few days ago via WhatsApp, the move of DeepSeek, showing the lower level of resources needed to achieve similar result, was in my view a kind of asymmetric technological warfare attack.
+
+It does not affect just the usual Big Tech based on data and Nvidia, but also, as it was for automotive, all the connected industries.
+
+Our current data-centric society requires more energy, more space, more connections, more people working on e.g. labeling data.
+
+A different approach would generate ripple effects across all the cottage industries that grew since the mid-1990s, when Internet was opened to commercial uses and WWW became a commonly known element.
+
+A further announce (you [can find links and commentary on my Linkedin profile](https://linkedin.com/in/robertolofaro)) was instead disclosing a concept to significantly reduce the need of more advanced GPUs, by extracting value from older ones, that are now almost a commodity and not subject anymore to trade embargoes.
+
+How do I get this information so early? Simple: I curate my list of Linkedin connections to add those that I think that can contribute.
+
+Those who just add click-bait to attract likes or become "the leading voice on <whatever>" by adding polls or posting minutiae might enter my list, but I then stop following them, as soon as they start just sharing senseless mumble-jumbo instead of considerations (theirs or from somebody else).
+
+And, in my view, this means adding not just Cxx, as even university students who show a specific niche interest (and have time to pursue it) might share a link that I myself would not have found, or give a remark linked to their lack of experience, availability of brains, and certainly lack of "investment in the past" about something that those of my age and/or experience do not see because we have too much past.
+
+We need to keep an open mind.
+
+The key element that many are forgetting is that building businesses around the production and data needs of automotive and in a specific location generated a confirmation bias- what was normal locally is considered universal.
+
+Which is actually a constant attitude of my birthplace, Turin, as in a company town this attitude usually is stronger (not just in Turin, but being automotive an "industry of industries", this has countless side-effects and "collateral damage" on innovation capabilities and associated risk taking).
+
+Trouble is, nobody really planned for the transition- and, frankly, as I wrote years ago, not even the European Union really, as a whole, planned for a transition from a model such as the one in Womack, i.e. vehicles as individual objects mainly for individuals, to the one in Mitchell, i.e. vehicles as part of an ecosystem built around smart cities, smart grids, and overall more "pay-per-use" than "ownership".
+
+Data is the new oil- but we still need to restructure the "industries of industries" that supports that.
+
+Sustainability forthcoming and existing compliance elements will just make that transition more urgent.
+
+As I already wrote and will wrote again in the last article of the [EP2024 article series](ep2024) (articles published before, during, after the 2024 European Parliament elections), the current "rethinking" of the "green transition" frankly is more political than technical.
+
+Realpolitik: get a confirmation with a different majority than the one that approved the renewed appointment implied a give-and-take.
+
+What is the difference between the "industry of industries" linked to automotive and the (much larger, frankly) one associated with "data is the new oil".
+
+First, automotive was well known for large, multi-year, "tenure track" initiatives.
+
+Hence, adapting to the automotive customer's "forma mentis" was expected (and was meaningful).
+
+Anyway, data-oriented activities under the new "data is the new oil" paradigm imply that even automotive-sourced data have to enter a larger ecosystem.
+
+An ecosystem where you actually adapt to processes that are cross-industry, cross-company, and not even the largest data-producing company can control the processes end-to-end.
+
+It is a matter of cultural and organizational change, and will discuss some concepts and examples in the next part of the article.
+
+Now, it is time for the conclusions and next steps- which, this time, will take on a different, more "programmatic" jist (or gist, if you want to be modern).
+
+
+<b>Conclusions and next steps</b>
+
+Let's start with a statement: it is a matter of [Quis Custodiet Ipsos Custodes](search.php?tag=custodes_custodiet)
+
+Yes, the link is to articles where used that concept.
+
+If you want to search for something else, look at the instructions on how to do it- is nothing really complex.
+
+Incidentally: if you are curious, [you can also have a look at the latest 20 articles that other visitors read](index.php?section=latest-read).
+
+I use it to look at trends and to help writing my own articles by referencing past ones (over 500 here, but have few hundreds more still offline- will enter the base of an AI model in the near future), but when I set it up years ago decided that all the search facilities of this website were to be "public".
+
+Now, this preamble just to move onto something that should be obvious:_ a data-centric economy requires a different mix of physical infrastructure_ therefore, also companies will have to reconsider their organizational structure_ therefore, also all the internal processes would need to be more "fluid".I will discuss examples in the next article and forthcoming one, but let's just hint that we should shift away from the Leviathan-style, structurally connected model.
+
+Consequence? For all the criticism you read in my articles about the role that took HR shifting from payroll to gatekeeping, that role, in my view, will have to evolve even more, but getting the hands dirty on becoming part of the decision-making at the board level.
+
+Or: in more dynamic structures, everybody will have to shift from being responsible to carry out some activities, to being accountable for the results (and externalities).
+
+One element that is still sorely missing in my country, Italy, is the ability to have information flow across tribal boundaries.
+
+Misinformation does, but information, even when prescribed by law, even when asking officially to officials, is touch-and-go.
+
+It was clearly shown when our Government years ago sent the National Recovery and Resiliency Plan (in Italy known as PNRR)- while other countries published also the attachments with the projects covered etc, to get the attachments to the Italian PNRR you should visit not the EU website associated with the Resilience and Recovery Facility, but... archive.org, to find a leaked copy of what had been sent to the Italian Parliament last minute.
+
+As I wrote in the past, I do not have a university degree and in late 1980s started working outside my birthplace (Turin) and region (Piedmont)- and 99% of my knowledge and experience and ideas were developed elsewhere, first in Italy then abroad.
+
+After a quarter of a century on each return here, since the late 1990s (before I first moved abroad) and also later, there is a consistent pattern.
+
+Elsewhere, for roles that might evolve, was anyway paid and acknowledged for my contribution at each step.
+
+Of course- except when was time to pay the last commissions, but that is almost a standard, and a reason why stopped almost twenty years ago to accept "success fee"-based, commission-based, deferred income/deferred equity, and all the funny names that basically imply that you finance the activity, take 100% of the risk, and potentially share the benefits (if any) later.
+
+In Turin and Piedmont, it was a different story- as if being called back to your birthplace that you had to leave decades before to be able to develop were to be enough.
+
+So, after having from 2012 few missions and countless "tremendous opportunities", in late 2024 decided that it was time to call it a day- as, anyway, I had already resettled in 2005 set my mind on resettling, and when was pushed back to return, I had actually found my corner in Brussels.
+
+For reasons to long to explain, eventually my search for a relocation was restricted to two countries where I already worked in the past, France and Switzerland.
+
+There is an interesting element between Italy and France (or, should say, between France and Italy), the [Quirinale Treaty](search.php?tag=quirinale_treaty).
+
+Frankly, on the State side its benefits are used less often from Italy than from France, while, on the citizens side, while looking at e.g. Internations Lyon (across the border from Italy and Turin, to be at least in two month directly reconnected by train), saw a relatively large number of people from Turin who are actually in Lyon.
+
+Lyon is more dynamic, despite having almost half the population of Turin.
+
+As an example, just look on GoogleMaps for "coworking": your map will light up, and if you walk in the centre it seems as if "digital nomads" working from the caf&eacute; with their computer plugged into the wall are as ordinary as napkins.
+
+A curious case is what I saw nearby one of the railway stations.
+
+Probably you read about the relaunch of investment in nuclear power plants, including the future "clean" ones.
+
+A company deriving from an investment fund set in Italy to support startups figures along the players in various European countries- European, because also UK is included, not just Italy and France.
+
+Recently, it was announced a potential 300mln EUR investment for the new Turin HQ of the company, [NewCleo](https://www.newcleo.com/about-us/)- a skyscraper in the centre of the town, nearby the railway station that connects with France, Porta Susa.
+
+So, I was a bit surprised to see in Lyon, nearby the other side of the Milan-Turin-Lyon-Paris line... a skyscraper already in place showing the NewCleo logo.
+
+Both Lyon and Turin are a bit "on the side", but in Lyon e.g. saw that there plans to actually connect the harbor on the Mediterranean sea to the town- by river, while in Turin I keep seeing announces about new "empty boxes" and de facto delocalizations.
+
+The small size of Italian companies implies that, as I wrote above, most do not have the corporate culture able to breed not just a succession line for themselves, but also a vibrant market in talent.
+
+Discard people my age, and let's just focus on managers in their 30s (few) and 40s (many).
+
+It is sad to see so many of those in their 30s and early 40s focusing on accelerating the "release" of people from universities, by asking to remove what would actually prepare them for the dynamic future described above.
+
+But it is even more critical that those in their late 40s to 60s, who should prepare succession plans and developing new future talent as part of a long-term strategy, seems to have the same "I am a new manager, let me shine by showing how much can save" attitude that you would expect from those newly promoted in their 30s (which actually in the Italian gerontocracy often have to wait in their 40s).
+
+As if "succession planning" were something that you do a couple of years before retirement, instead of building a pool of opportunities across a couple of decades , watching them grow, helping them develop, and choosing constantly who should get more challenges to be ready when needed.
+
+Incidentally: I think that also keeping on retainer head hunters as antennas to "scout" for potential talents on the market could become more and more useful in the future- you cannot just expect in a dynamic organizational structure that continously mutate to have in house all the potential talent that in 10, 20 years would be ready for what not even you know that would be needed.
+
+Call it "talent portfolio management".
+
+The alternative? Having some in house who expects to be there eventually, and meanwhile is more focused on internal politics and sidelining competitors than in delivering value to the organization.
+
+As I said decades ago to my English colleagues: in Italy, we have too many who, once promoted, think about the next promotion first, and about doing what they are promoted later- and we see the results: often, try to move before, as my American friends would say, "sh** hits the fan".
+
+Which is, incidentally, one of the reforms that I would like to see enacted also in the public sector in Italy: "immunity" (reasonable- you still have to clean up the mess) from what predecessors did and left behind as a "gift", not, as heard way too often in recent years, "immunity from what you did at the helm" before exiting.
+
+Using the previous section as a framework of reference (or, if you prefer "framing" the discussion that follows), there is an additional point.
+
+In the early 1990s, to sell methodologies and associated change services, in presentations and workshops used in Italy as a framework of reference the difference between our own investment in "continuous learning" vs. our partner and competitor, Germany.
+
+Even today, in other countries you can get sabbaticals to learn something new, while in Italy often your are suggested to use holidays to unofficially keep working, as anyway holidays are mandatory.
+
+Just recently, I was told that in France was removed the constraint that for some professions on State payroll you should stay in place for a while after receiving paid training.
+
+Comparison: in Italy, you would not even get the free training, and e.g. in medical professions all those I talked with since 2012 told me of the actual lack of time.
+
+In the past, I was asked to support in various industries- from defence to electronics to health to retail, to of course my key industries (see [here](cv)), automotive banking logistics outsourcing retail startups.
+
+Which implied that I had to continuously learn and, if a mission was after a while in the same industry, to unlearn and relearn- not to pretend to be an expert, but just for my "bridge" role.
+
+Organizational learning should be a continuous cycle, and allow a degree of serendipity to enable cross-contamination.
+
+If you follow [my stream on Linkedin](https://linkedin.com/in/robertolofaro), you saw some references to books I read recently, and to the debate in Italy about business-oriented training.
+
+Curious to see how books written from people who covered significant roles within the Italian Republic or universities, and now in their 70s or 80s, present ideas that are more aligned to our current reality than those pushed by much younger people who are actually influencing self-damaging reforms of the labour and educational market, who instead sound as if they were in the 1970s.
+
+We should have new managers in their 30s and 40s writing that, not those looking back at their past and advising about a future that they will not see.
+
+Anyway, better to have still few thinking as "builders of cathedrals" than having all focusing on "influencing today" or "flashmob politics" that does not survive the election cycle.
+
+To make a long story short: I think that the educational system should provide first and foremost the ability to learn, unlearn, relearn, and support continuous learning- as I wrote in the books above.
+
+Then, it should be part of corporate objectives to identify what is needed for the organization, what could be a shared interest, and what could be a "perk" to entice people to stay and learn sideways just for fun and to develop personal interests but also potentially new concepts.
+
+All of this would anyway require a continuous dialogue, not a catalogue.
+
+Also, there should be incentives to "contribute back" to the organizational learning "warehouse"- probably a kind of blending of "pay for contribution" and "pay per use", plus "maintenance contribution".
+
+Which becomes even more critical when your organization is "fluid", and few people are in full-time for the long-term, while most careers eventually will be across multiple companies, converting many "knowledge workers" into "shared workers" across multiple organizations, even across their whole career.
+
+As the CEO of a customer told me half-jokingly almost twenty years ago, I had been with their company (working interfacing directly with him) longer than many of his managers- and I was an external consultant working across multiple countries basically since the 1980s (also if at first my onsite activities abroad were occasional, my contacts with foreign colleagues and customers were continuous).
+
+In Italy, we have a chronical lack of investment in continuous learning, as our companies are often too small even to have the organizational culture that would enable them to introduce professional talent if and when needed.
+
+So, it should be no surprise that most companies are unable to even consider an approach as the one described few paragraphs ago, and at most content themselves with allowing access to off-the-shelf, catalogue-based pre-packaged training.
+
+Instead, read locally books from people who had significant roles within the Italian Republic after WWII- in their 70s and 80s, who describe as a key enabling factor an approach similar to the one that described above.
+
+Interesting to see recently even a book of a workshop integrating contributions discussing how one of those "fathers of the Republic" actually continuously "trespassed" knowledge boundaries: academia, State bureaucracy, private sector.
+
+As if it were a novelty- while instead is not so uncommon elsewhere, and contributes to the resilience of the State.
+
+Personally, setting up again as freelance in 2025 implies two things- either settling on a role, or, as a freelance, split my time between preparing for the future and working on missions.
+
+As also in the 1990s and 2000s was used to work on multiple project across multiple customers in different countries at the same time.
+
+Side-effect: as I wrote above, I see that in Italy we are not yet using all the potential offered by all the various EU initiatives, or even of those bilateral ones already in place (such as the "Quirinale Treaty").
+
+Hence, while looking at information that would be useful for my own activity (as a freelance, or within an organization), and my usual knowledge update, I added also some workshops and events where there is knowledge sharing on the Italian side that I think that could be useful to generate development within the territory.
+
+Those that I supported as startups decades ago know that once in a while was contacted also from abroad, and back then filtered out those who were attracted by funding and low cost, but did not really consider investing locally.
+
+Anyway, in Italy and Turin saw a constant, continuous decline that has become so routine, that the only request that appears continuously is not to "seed" new activities, but for grants to keep afloat companies that should instead focus on either repositioning or phase-out.
+
+While waiting for flexi-security in Italy, I think that for now even attracting investment justified by the provision locally of partial grants, services, facilities, would be enough, to reverse the tide, and start rebuilding a business future that is organically sustainable.
+
+Or: better to have a smaller slice of a larger pie, than to have a smaller, spoilt pie all for yourself.
+
+So, at least for a while, will be across a couple of countries (I do not know yet if Italy will be one of those), as I did already in the late 1990s to early 2000s.
+
+Albeit probably it is easier to consider, for now, that taxes and payment will arrive in Italy, and revenue from elsewhere- locals have still that habit of extracting value from investment that they did not do and call it "business".
+
+Long-term? Well, long term depends on the three dimensions I set as targets for 2025, when I was asked in December in French my five objectives for 2025- I had only three (business, personal, knowledge/publication/development), and still do.
+
+Stay tuned!

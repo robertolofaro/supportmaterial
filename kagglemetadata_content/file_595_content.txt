@@ -1,0 +1,219 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20250504_article.png)</center> 	
+
+Announced this article few days ago (and fewer more to some of my contact), but, frankly, from day 1 was still undecided about which section should this short article be positioned in.
+
+As it is about creative accounting => probably [CitizenAudit](index.php?section=citizen-audit) would be the right place.
+
+As it is related to an ongoing project about Italian companies, and local examples of what is not creative accounting => probably [DirittoDiVoto](index.php?section=diritto-di-voto)
+
+As eventually a publication will follow, I considered it as part of my [BookBlog](index.php?section=books-blog).
+
+In the end, decided that what this article is really about is all the above, plus sharing some concepts that could be useful also to others to support their own "organizational" needs.
+
+Therefore, it is within the [OrganizationalSupport](index.php?section=organizational-support) section, where I share information about projects that achieved a "prototype"/"MVP" level (i.e. already delivered some value within the domain that they were created for- includes physical, digital, and physical-digital products and concepts).
+
+From all the material and notes in my mind, I had to decide the "tone" and "audience" of this article, as it could quickly evolve into a something technical and boring that would be too short to replace books on the subject, too long to just have an overview.
+
+Hence, decided to keep it relatively short, and focused on discussing the general theme while giving examples and pointers, should readers be interested in digging deeper.
+
+When will have completed the data project that is related to this article, the one started in 2022 and that will be discussed repeatedly in this article, will probably enclose some more information within the appendices of the book documenting the data project.
+
+You can search for keywords contained in this article on various accounting and investment glossaries, such as [Investopedia](http://investopedia.com), and from there find case studies.
+
+This article has few (short) sections:
+_ introduction
+_ what is not
+_ creative accounting
+_ debatable levels of creativity
+
+
+<b>Introduction</b>
+
+So, why this article, and why now?
+
+My data projects, including those published online for free since 2019 ([see e.g. on Kaggle](https://kaggle.com/robertolofaro)), are part of my routine to keep alive, relearn, unlearn, expand skills and competences acquired through my activities- and experiment on concepts.
+
+Specifically, I routinely revisit what did but looking at what's new in that domain.
+
+Before I was made to return in Italy in 2012, my routine included also finding then "knowledge champions" on each "line", so that there could be a mutual interest: they would be those who kept focusing on each line, I would be as usual the "bridge" should they have a need of a sounding board and connect with others providing different "lines".
+
+Since 2012, after few years of preparation (as initially assumed that would return abroad in few months, then that could probably settle, then understood that had to find a third way), developed instead more information-based connections online, just to be able to monitor evolution across the various domains I either worked in, or consider that could be interesting.
+
+Of course: and added more experiments (which included also passing exams in a language that so far almost never used, or doing weekly conversations in another, or developing products, concepts, and more recently experimenting with the integration of GenAI and LLMs in my activities, blended with my experience and writings).
+
+Considering just technology, and just the theme of this article, if you [were to visit the "certifications" section of my Linkedin profile](https://linkedin.com/in/robertolofaro), you would find lists of training on subjects such as cost accounting, management accounting, lean portfolio management, six sigma, and those included using analytics and ML within accounting.
+
+About accounting, specifically controlling and what I would call "data credibility", my first interest was in political activities in the early 1980s, while routinely browsing piles of pages coming from Brussels- I was 17.
+
+Then my first two official business projects where in different industries, automotive and banking, but in both cases involved collating data from difference sources, and applying algorithms on them.
+
+The first one was a supplier invoices scoring system in automotive procurement (and it was also the first time I had to prepare a plan for thousands of man-days, using Andersen's methodology and the information that I had received- eventually, I was told that actuals matched the initial budget assessed, also if the negotiation had accepted a significant cut that- 99% perspiration/patience and 1% inspiration/method), the second one on the completion and release of a banking general ledger, with the integration of hundreds of branches.
+
+Then, had a string of projects where actually had to design, build, audit, review a number of number crunching models for managers- working e.g. with various financial controllers in different industries.
+
+Across all those projects, I learned a lot directly from those who had the specific role (and formal or informal training within the specific domain- sometimes, decades of experience).
+
+It was all useful then to further projects with different tools and different purposes, including to prepare or review contracts, proposals, invoices, revise processes or organization, etc.
+
+So, I learned "on the ground" the various degrees of "truth" embedded within data.
+
+Just because it is a string of numbers with a logical sequence, does not necessarily imply that makes sense.   
+
+I saw sometimes number crunching that was mixing apples and pears, and achieving an interesting number... in oranges.
+
+Until you started digging into the assumptions and discovered that apples and pears had been magically mashed up and presented as oranges.
+
+Moving forward with the project on annual reports, recently [released within the Kaggle dataset for the project data about the select items for 2021 across the 100+ companies that identified as target for further analysis](https://www.kaggle.com/datasets/robertolofaro/borsa-italiana-listino-as-of-20221119).
+
+If you visit that link, you will will the criteria that used to move from 500+ to 100+ companies.
+
+Anyway, what I reading data across multiple companies resurrected old memories.
+
+Hence, in preparation of the next phase, decided to get through a further couple of strings of courses (on evaluating companies and portfolio building), to better understand from a "data user" perspective, and embed that into my project- as in my career I had most often been on the side of either the company or startups presenting its data, not on the side of the audience using those data.
+
+Before discussing creative accounting, would like to start with few examples of what it is not.
+
+
+<b>What is not</b>
+
+It is unusual a long section on "what is not" when explaining a concept, but there are too many misconceptions about creative accounting, often blending outright fraud with what are instead its legitimate uses.
+
+As known to those who worked with me or attended my courses or presentations since the early 1980s (yes, I did my first clumsy presentations to a crowd of unknown at 18, for political advocacy on European integration), or in the Army while delivering training, I like to discuss concepts through examples.
+
+You can read many within the mini-books on change that published since 2012 [also for free](http://leanpub.com/u/robertolofaro).
+
+Coming to what is not creative accounting, one of the books at the link above contains more detailed examples of cases across time since my return as an Italian resident in 2012, but would like to share a couple here.
+
+Imagine that you issue an invoice, and then accept that that invoice should not have been issued, or is to be credited due to a recognition of other reasons.
+
+A creative accounting approach is how you report that invoice and the credit associated with it, e.g. shifting to the next year the registration and recognition of the credit note, so that you have revenue in year one, but then reverse it in the following year.
+
+It is also a practice used by some sales people to reach a quota so that they can get their bonus, and then giving in the following period a write-off or free services to the same customer.
+
+Actually, if you have a paper trail showing that the credit note was to be issued this year for an invoice issued in the same year, and you "ignore" the credit note, to conveniently increase your revenue, and produce plus register it in the following year, that too is not really creative accounting: a decent audit would find that evidence.
+
+Anyway, on to the examples. In Turin, twice with two different utilities for different reasons in different years, had to return on credit notes issued but then "forgotten": i.e. those invoices supposedly removed from the table returned with a request to pay invoice and penalties; and also with local authorities had to spend a long time after somehow someone decided repeatedly that I was to receive the tax bill of my neighbors.
+
+I shared in the past an older case, from when I was already living abroad, when I was asked to pay taxes that I had already paid while still in Italy.
+
+The rationale that the Turin branch of a national office expressed to an accounting friend who accepted to represent me was: a large request was made, unless let's say that at least the amount X is paid (almost 1/20th of the amount originally requested), will be sent to the next level, where a lawyer would be needed (that would have had a cost ten times as much as the "chip" proposed as a transaction).
+
+Why? Because, and this was the funnies part of the rationale, it would have been a loss of face to issue such a large demand, and then acknowledge that had been a mistake.
+
+So, I paid a penalty for taxes that had already paid, to avoid to have to pay at least an amount 50% of the original request just to pay a lawyer to get a confirmation that I was right and had already paid what was due: it would have been a Pyrrhic victory.
+
+Still, then for decades abroad shared that caveat with my foreign colleagues around Europe.
+
+But it could get worse: an American colleague was advised to join one of the routine "pay and be forgiven" ("condono"), also if his books were correct and taxes paid, as otherwise there would be a risk of long-term nuisance. 
+
+He paid, the USA IRS received the information that he had paid, and started doing their own side of investigation and in-dept checking, as their rationale was that, if you paid a penalty for unpaid taxes and formal mistakes, certainly that was the case.
+
+My American readers probably understand what a "nuisance" that could be- imagine then having the IRS coming times and again, not convinced.
+
+Things hopefully probably evolved over the last few decades- albeit, from 2018, more than once read (and in some cases had to be involved for others) that what had already been paid was being asked again- from local authorities as well as from others.
+
+Just a couple of days ago read about another case with a large number of citizens involved in a local newspaper- so, administrative traceability is still an issue.
+
+Back then as now, it is as if traceability were still an unknown art in Italy, and even the introduction of compulsory registered electronic mail for companies did not solve it.
+
+In 2018, I had to register a PEC, how it is called in Italy, to open a company): actually, from day one, I lost count how many times I was told (quixotically, I even received emails and PECs asking not to send PECs.
+
+Why? Because even an ordinary paper-based registered mail, once opened, does not necessarily confirm content or date of delivery (I am not the only one who in Italy received notes from the postman in Turin for missed deliveries while I was at home- but retrodated).
+
+Its electronic version does not allow any tinkering: confirms when it was send by you, when the system delivered it to the final system, when the final mailbox received it, and contains also a checksum on the content.
+
+When really have to answer to PECs, Italians often try to reply shifting the territory, i.e. not answering to the specific questions derived from bits of documentation provided, and instead writing something else- a useless waste of time, as they are replying to something that they accepted and was traced, and hence could be used to escalate if needed.
+
+So, now you can understand why sometimes reading annual reports "digested" on YahooFinance or Google or other sources, by looking just at the numbers, is not enough: you need to read the sometimes extensive notes supporting those numbers, sometimes to discover that they not explain- just shift the territory: it is a cultural element.
+
+In that case, do not expect that it is a case of creative accounting, but just something else, as shown few times even in the short time since I started the data project in 2022.
+
+Anyway, also legitimate creative accounting can generate issues, if done long enough, as some of its uses pile up, and when piled up sometimes inspire further creative accounting techniques to shift the results of the first application, etc.
+
+That 1993 book had a table at the end, showing how many different techniques were used across the years by companies: many used more than just one.
+
+Now, what is then creative accounting, beside the minimal hint I gave above?
+
+
+<b>Creative accounting</b>
+
+First, a quote: <em>"I am not suggesting that the practices analysed are illegal, or that they even contravene Generally Accepted Accounting Practice (also known as 'GAAP') or that the various companies and accountants mentioned did not have valid reasons for using these techniques. I am more interested in the impact of these practices upon the clarity of financial information than in whether or not they satisfy the letter of the law or regulation. I believe that it is in the pubilc interest for these issues to be discussed." </em> page VI, "Accounting for Growth - Stripping the Camouflage from Company Accounts", 1993 by Terry Smith (at the time he was the head of UK Company Research at UBS Phillips & Drew).
+
+I fully concur: creative accounting practices might be divergent from common sense and ordinary practices, are not outright illegal, despite what media often reports.
+
+Still, it depends on the purpose why numbers are published.
+
+In the late 1980s, while working on decision support systems, I was almost everyday in a different customer site and different town, so I had plenty of travel.
+
+At the time, there were no mobile phones, so I often found whenever I went to an office a message informing me about what was going to be the next mission: industry, customer, purpose, current status (notably in case somebody had already built or presented a model).
+
+My reaction? If I was able to pass through Turin, get into the company library of books and project reports, to understand better the context. Otherwise, or in any case to complement what I had found, get into bookshops and purchase relevant books for the forthcoming missions, to read during travels (in the late 1990s, started scanning books and buying a Toshiba Libretto, so that I could have a library in my pocket).
+
+Therefore, I had quite a few books about business number crunching in different industries- including sharing and publishing results.
+
+I had time to think it over, and see the evolution of regulations on annual reports across few decades, from European directives to the evolution of IFRS, non-financial, etc.
+
+And so continued to do since 2012.
+
+Anyway, that 1993 book above, along with others from the 1980s and 1990s on strings of "creative accounting results" showed also how, after each scandal (Enron, Worldcom, Parmalat) rules changed.
+
+I quoted from that book because it had an interesting history, as it derived from a report used for investment purposes, not just your typical "ex-post analysis of how we messed up".
+
+Creative accounting is not about violating accounting rules, but mainly adopting a rationale that generates a different perspective, ranging from just one of the many alternatives, to something that flips over common (accounting) sense.
+
+The issue is not really in using creative accounting techniques, it is the rationale and compounding of their uses, that can generate issues.
+
+
+<b>Debatable levels of creativity</b>
+
+In other books that I read and purchased over the last three decades were described additional cases and practices about e.g. managing assets, warehousing costs, considering sales what was just an allocation of products quota to distributors (dumping inventory on distributors as if were sales), or the ubiquitous consolidation issues, notably for what is classified under the label "off-balance sheet finance" (Enron used the device with gusto).
+
+That 1993 book is worth reading due to the way some of the companies went after they danced their numbers, changing the dance along with changes in what was allowed.
+
+So, the classes of techniques that listed were in some areas:
+_ acquisition and disposal (including pre-acquisition write-down and deferred consideration)
+_ extraordinary and exceptional items
+_ off-balance sheet finance 
+_ contingent liabilities
+_ capitalisation of costs
+_ brand accounting
+_ changes in depreciation policy
+_ convertibles with put options and AMPS
+_ pension fund accounting
+_ currency mismatching.
+
+Anyway, the "tinkering with the rules" to fix loopholes has been a constant across accounting history, and not just in Italy.
+
+It just accelerated in the late XX century, as the use of computer models already in the 1980s allowed to spot and identify new loopholes as soon as tax codes were changed.
+
+The "creativity" element is a matter of choice, but I think that, in our times, there is no excuse for not having something to really "harmonize" information so that it can be easier to compare.
+
+I do not think that there will be any regulation achieving that result, would only generate new loopholes: in that 1993 book, as well as across all the changes that I saw e.g. in risk management, banking anti-money laundering, and assorted laws, each time generated further revenue for those able to navigate through them- but did not solve the issue.
+
+Only, made it more complex to unravel.
+
+Probably, this is another area where analytics and AI can help expedite the process: define your rationale for reading the annual reports, and unleash a model mapping those items and what is found within the documentation, to "score" each item and overall each company, so that then the user can decide it is just creativity, a lapse of judgment, or outright fraud-in-waiting.
+
+Still, when I went through the data provided by companies and collected by Yahoo and Google, I found here and there practices that were not even that much creative, only a waste of time to unravel.
+
+Trouble is: there is a common sense place also for those practices, and this is the reason why are still allowed (along with many others).
+
+As I wrote above, the way you read annual reports is a function of your purpose.
+
+For my own data project, the purpose is not investing, but seeing the impact of COVID on companies listed on the Italian stock exchange, by comparing annual report 2019 vs annual reports 2021 (skipped 2020 for obvious reasons).
+
+Hence, of original 500+, only 200+ had all the information that I looked for with the level of detail that I was looking at.
+
+Then, on those 200+, went through the annual reports to cross-check, for each item, references within the explanatory notes.
+
+This brought the number of companies to be considered to 100+.
+
+I already discussed with others the criteria that I adopted- and, for some, they are too restrictive.
+
+Granted- so, if you were to visit the dataset [available on Kaggle](https://www.kaggle.com/datasets/robertolofaro/borsa-italiana-listino-as-of-20221119) to use the provided links and retrieve e.g. from YahooFinance the relevant data for your own evaluation approach, beware of going back in the selection criteria, retaining only those that match your approach.
+
+I hope that you will find the dataset useful for your own purposes, and (when published) my final dataset and associated [GitHub scorecard repository](https://github.com/robertolofaro/borsa-italiana-listino-as-of-20221119) interesting (and potentially useful, if you want to select companies that fulfill my criteria.
+
+Will keep posting articles and dataset updates whenever there will be progress in my project.
+
+So, for now, stay tuned on either [Facebook](https://facebook.com/robertolofaro), [Linkedin](https://linkedin.com/in/robertolofaro), [Twitter](https://twitter.com/robertolofaro), or [Instagram](https://instagram.com/robertolofaro).

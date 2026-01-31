@@ -1,0 +1,242 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250715_article.png)</center>
+
+Yes, again a "meta-article", i.e. an article about articles.
+
+Actually, in this case, a meta-publication.
+
+If you read this website, you know that in 2003-2005, as part of my plan to return in Italy, published an e-zine on change, called [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com)
+
+Right now it is just a placeholder, but plan to eventually resume the quarterly publication, in 2026- as usual, you can read (even for free) an updated reprint that published in 2013, [BFM2013](bfm2013).
+
+This article actually connects to the previous one in this series, published a couple of weeks ago, [BookBlog20250629 Long tail writing and consulting](index.php?page=602).
+
+If you are interested, that article contains also links to further material where I told the whole history of the e-zine initiative (from inception to delivery and publication) and the associated direct marketing initiative that designed, coordinated, and, of courses, funded.
+
+If you want a simple example of a program that was realised through a series of projects (including the project to design the concept and structure of the e-zine, as well as its software platform), and the resulted in a service- its discontinuation was not due to lack of interest or material, but due to lack of purpose to keep it alive.
+
+As this article is within the "book draft" section, decided to have as background a movie about books- and an entertaining choice is a movie that watched while living abroad, "The Ninth Gate" and, while revising it "Star Trek: Into the Darkness"- which, instead of books, is focused on reusing out of context past knowledge.
+
+Few sections in this article:
+_ the rationale
+_ what (I consider) consulting
+_ [cuius regio, eius religio](https://en.wikipedia.org/wiki/Cuius_regio,_eius_religio): [genius loci](https://en.wikipedia.org/wiki/Genius_loci)
+_ target audience(s).
+
+
+<b>The rationale</b>
+
+The title of this website states that it is a "knowledge portal", while its subtitle summarizes what all the 400+ articles are about: "change, with and without technology".
+
+There is a time when there is enough material to allow restructuring and focusing, as I did with the latest monthly release of my [AI ethics primer](aiethicsprimer)
+
+In that case, the search engine now lists within search results papers and when where published, and not anymore also the sections and chapters.
+
+Reason: with almost 700 papers and over 16,000 pages, search results could be excruciatingly long to read- so, better to just list relevant papers and their publication date.
+
+Personally, I think that ethics does not have an expiration date, but the intersection of AI and ethics often is contextualized and, yes, time-dependent.
+
+And it will be even more so in the future.
+
+The articles on this website instead are a mixed bag: some nominally with an expiration date (e.g. when talking about a potential M&A activity), but always sharing some ideas, concepts, principles that could be "reused".
+
+Considering the volume of articles now available (and I was planning to republish also some published between 2008 and 2011, currently offline), it makes sense to develop focused lines, as will discuss in the last section of this article.
+
+Since the industrial revolution, I think, if ever were separated before, that business/politics/society and associated change initiatives are straddling across those domains.
+
+Recently I shared my feed-back on attending a webinar on "dual use": in our times, I think that "dual use" is yet another concept that needs to be updated.
+
+Better: has to be rebuilt from scratch- when an exception becomes a continuum, any process, organization, approach designed on "exceptions" becomes a self-defeating bottleneck.
+
+It is easier to understand now, when e.g. if a private satellite company shuts down its service, a country suddenly is unable to provide services (or defend itself).
+
+Since I was made to return in Italy, specifically in Piedmont, I had the curious continuity of requests, in and between missions, to provide what I provided elsewhere- but either for free or as a "voluntary" option while doing something else.
+
+Obviously, unofficially and as if I had been bestowed an honor in being offered such a "tremendous opportunity".
+
+Entertaining, when I was even asked to coach others or develop processes/capabilities under similar arrangements.
+
+Obviously, declined with a smile, and instead kept publishing.
+
+As, whenever instead asked (paying) to complement my services on a mission by providing expertise, was not even offered a "partner discount"- the official excuse always being "there are other shareholders/managers".
+
+So, even declined offers to "pick up my brain" that received from Italy either in events I attended in Turin, fake interviews whose official purpose would have been satisfied by reading online material but were really to extract material to "repackage" for some appointed to roles but unable to fulfill them, or via messages on Linkedin.
+
+I just halted publishing the last part of a case study that started publishing in 2015, between August 2015 and February 2018, as I was in a mission where actually most of what had already published in that case study and prior articles and mini-books on change had been useful in the activity, but did not want what I was anyway going to publish to be construed as overlapping with the mission- as it was actually the other way around.
+
+Time flies, and it is already over 7 years since the end of that mission.
+
+Anyway, my involuntary return to work in Italy in 2012 had a positive side-effect: I finally visited Berlin in November 2012.
+
+Just by chance and by doing as usual a promise (in that case, that I would have published a new post in my Eastern European community if and when each post reached 50 readers), ended up sometimes publishing a couple of posts a day.
+
+So, when returned in Italy in late November 2012, I started preparing the first of a long line of mini-books.
+
+All focused on the different dimensions of change- and also one about potentially sorely needed in Italy, documenting about interactions with State and local authorities in Turin and Rome: interesting reading, if you are (as I am) used to "audit" suppliers, partners, projects, activities, negotiations, contracts, as part of your activities.
+
+Actually, <a hreF="https://leanpub.com/u/robertolofaro">you can read those mini-books also for free</a>.
+
+Therefore, the rationale is simple: having enough "critical mass" (published material and readership), evolving series into separate websites, but all under the same main website.
+
+Now, after discussing a bit about change, time to shift to the other element within the title.
+
+
+<b>What (I consider) consulting</b>
+
+In the previous article in this series, discussed the "billable hours" model of consulting.
+
+Personally, I am closer to using the "boutique" model when starting (feasibility, pilot), and then agree with the customer (easier when you interact with Cxx-level customers) on the objectives, perimeter of activities, and even third-parties to be involved- and even timeframe of revision of all these elements.
+
+To then shift to a different model, closer to what is now called "temporary management", and in the past "interim management"- which, anyway, requires working on the same parameters.
+
+I know that many consider that this last model is for those who cannot find a management role, but, frankly, whenever I had a mission officially focused on that model, it was not a "temp-to-perm".
+
+Or: both the customer and I understood fairly well that the need was limited in time yet renewable, but linked to objectives, not open-ended.
+
+Since the 1980s, I saw instead that de facto parts of organizational activities were permanently delegated to external consulting vendors.
+
+Actually, all the missions that I had in Turin since 2012, presented as "temp-to-perm", actually required more that "temporary management" model, but on a "body rental" budget- hence, the disguised terms, and hence, my resignation when the mission reached a point where that was feasible (e.g. activities recovered/stabilized).
+
+Already in the 1990s saw the side-effect of converting to a model where full internal processes were transferred to consultants-on-staff, i.e. consultants who, instead of providing a service, used the customer to develop their own people and teams, while introducing a natural consequence: standardization.
+
+In Turin, was told in the 1990s that this was considered a bargaining chip: lower rates, in exchange of using the local main industry (it was a company town) as a "grooming ground" to coach and train new consultants to then send out to other (better paying) customers.
+
+My first project in 1986 for a customer o.b.o. Andersen was the first "fixed price" project done by my employer, I was told- and, at the time, most of the consultants from other companies taht I met at the customer site (FIAT) were long-term individuals seconded by their company to work onside, almost as a permanent staff augmentation.
+
+I know that my British and Indian colleagues are fond of calling "bespoke" systems (notably IT, but also organizational) designed specifically for a customer, &agrave; la <a hreF="https://en.wikipedia.org/wiki/Savile_Row">Savile Row</a> "bespoke tailoring".
+
+Anyway, whenever I read "bespoke" within the consulting environment, my mind goes to that John Le Carr&eacute; follow-up on Graham Greene ["Our Man in Havana"](https://en.wikipedia.org/wiki/Our_Man_in_Havana).
+
+Within ["The Tailor of Panama"](https://en.wikipedia.org/wiki/The_Tailor_of_Panama), the tailor of the title calls about his Savile Row past, but then it is revealed something else- but will not spoil the pleasure of reading both books.
+
+Let's be frank: if you provide "volume", you need "scalability"- including in training.
+
+Hence, the more you standardize, the faster you can rotate people between different missions/customers, as their induction training will be limited to local specifics.
+
+If you were to really provide a fully customized service, your people would end up as in I saw some in the "body rental"- some who picked up a salary from their formal employer, but were actually more part of the customer corporate culture.
+
+So, the key concept, in my view, is to know the difference:
+_ consulting
+_ temp-to-perm
+_ temporary resource (as staff augmentation, in my view, should be temporary, not de facto permanent).
+
+As I shared recently on Linkedin, there is still too much confusion: when I had my own activity outside Italy, somebody I asked people to perform (paid) micro-missions to complement my own activities and capabilities.
+
+Anyway, it was my role to clearly define the boundaries of their intervention, and to minimize the level of investment from either side to "embed" within the structure.
+
+And did the same also when managed accounts or projects involving external resources for partners.
+
+The reason? Yes, in the future you might again involve the same provider of expertise, if delivers a satisfactory service in the specific mission.
+
+Nonetheless, it does not make sense to do with them the same level of onboarding that would be done for a full-time employee or temp-to-perm, notably to try, in complex structures, to get them across the internal bureaucracy knowledge that a standard employee would learn on-the-job across many years.
+
+If anything, for the simple reason that you got an external resource to complement your capabilities, and subtracting time from activities that have nothing to do with those capabilities is a waste of resources.
+
+So, I asked them just to focus on following some basics processes, and "shielded" them from all the complexity of bureaucracy or processes set up with customers (or internally), by having them work with somebody providing that integration with internal processes.
+
+It is fine to be a consulting company and then carry out service management with a team that may eventually spawn other teams for other customers providing the same type of service.
+
+Anyway, that is not management consulting, or even mission-/project-based consulting: it is closer to either staff augmentation, business process outsourcing, or externalization to a joint-venture or service provider.
+
+In my view, consulting should create value for the customer, not extract value- i.e. should help build/redefine capabilities, including to provide one-off capabilities boosting to allow to move through organizational development stages, while building internally what would be needed for ordinary activities- see [my mini-book #synspec](synspec) or the [the 2013 updated reprint of my 2003-2005 e-zine on change](bfm2013) for further information.
+
+Anyway, if you work in few countries, you end up seeing how much local historical market structure and local culture will impact. 
+
+
+<b>Cuius regio, eius religio: genius loci</b>
+
+Few days ago a foreign acquaintance said to me that locally pay little but, also if the hours are long, there is little demand: long business meetings where you can almost sleep, plenty of opportunity to think about something else.
+
+Then added that that's why is not the right environment for me.
+
+As I worked in and negotiated all of different service/consulting modes described above (and more), the perimeter should be clearly identified, to avoid a misalignment between how you attract talent, and what instead they will get.
+
+If you "sell" consulting as a role, and instead they end up for four years to do body rental, whatever investment you do on them will benefit your competitors when they switch company. 
+
+Notably (but since the 1990s this is something that has been difficult to make locals understand, in Turin), if you actually attracted talent from competitors: do not assume that they will stay if they will not see value- moved before to improve, will move again if opportunity arises.
+
+I was used to bill my customers by the hour- and, actually in the late 1980s, as on my decision support system activities for Andersen+Comshare in Italy had too many customers (as I was working with both companies under a shared operation), discussed and introduced a billing approach not by the hour, but by quartile of an hour: .25 .50 .75 1- and compositions thereof.
+
+So, both while travelling and in those few days in office (in Turin, Milan, Rome), I found a pile of requests or documents to review, and the customer (internal or external) knew that they would be billed in 15 minutes slots. 
+
+I followed anyway Andersen old audit rules- no double billing (if I logged in my fortnightly time report 1.25hrs, those 1.25hrs were just for that customer- and I had days when I logged up to 18hrs, across multiple accounts, trying to maximize also the billable value of my travel time, by working).
+
+Then, I saw that the same approach spread around, when companies started externalizing operational activities.
+
+With a gradual twist: from mid-2000s, companies asked for "days", meaning initially 8hrs, as it was easier to control the budget, but then those days extended.
+
+So, it was curious to see an arms race: the more the customers or employers asked to "extend" the 8hrs of a working day in Italy, the less productive they became.
+
+My foreign colleagues joked about the long coffee+cigarettes pauses (I drink mainly tea and do not smoke, so, was out of luck most of the time).
+
+I am still used to my 1980s approach, so I kept logging the actual hours, also if then could bill just 8hrs a day.
+
+And constantly found annoying, the "heroes" who played the game of expanding hours, but having plenty of gap fillers- up to the point that some recruiters even suggested, for remote work, that yes the rate offered was lower than the one I asked, but actually if I billed 5 days and worked less was fine.
+
+When I managed projects or activities for partners, since the early 2000s routinely asked team members to actually not to hide how much time they were spending on the activities, as otherwise would be impossible then to properly budget similar activities- notably when I was the account manager negotiating with CIOs.
+
+Moreover, if what was reported was below reality, the risk would be of generating ["burnout"](https://en.wikipedia.org/wiki/Occupational_burnout), as staff members could be allocated at the same time on other activities, now knowing how really busy they were- something that I learned to identify in my first role as PMO/QA/QC, in 1987.
+
+It is again the difference between creating value and extracting value.
+
+If you create value, it turns into a sustainable revenue stream.
+
+The title of this section refers to two bits of history: one concerns our shared European history- which is made of internecine wars until WWII.
+
+So, the idea was that each territory will follow the dictates from the local power points of reference.
+
+The second one is about the Ancient Rome concept that each location had its own "protecting" force- what in the Roman Catholic Italy became the ["Santo patrono"](https://it.wikipedia.org/wiki/Santo_patrono), e.g. for Turin St. John on June 24th.
+
+Within the context of my publications, I think that probably, if you read up to this point, you understand where I am heading to.
+
+The definition of "consulting" that I described above is operational, also if simplified (there are many small variants that convert also in different forms of contracts).
+
+That definition could be reused (as I did) in different countries, industries, etc.
+
+Instead, how it is implemented depends on the local market forces and local habits.
+
+I am used to work partially or completely remotely since the late 1980s, including by doing a continuous tour between customers, and touching base in the office once in a while.
+
+Anyway, it requires rules such as those that I read in 1986 within the "burgundy book" with the ethical standards that Andersen provided to colleagues working for the main company (I was working for the software development side, and therefore received just the "blue book" called personnel reference binder, but asked colleagues to lend me a copy to read).
+
+It was a funny cameo: I was in Turin, in Italy, and... the "blue book" was in English- with a page to return signed, as was considered as an add-on to the national contract.
+
+Personally, read it cover-to-cover, and implemented it verbatim (adding also the rules from the "burgundy book"- e.g. I never purchased stock in companies, as basically all those of interest had or had been customers of the audit side of Andersen, and therefore would be a conflict of interest; I could share cameos of what happened in other cases).
+
+While most of my colleagues sent the signed page without even reading the book (as we were not required to be able to read English), I simply refused to sign it.
+
+Anyway, applied it.
+
+So, it is not really the rules per se that matters, but what once upon a time was called "gentlemen agreement"- such I did when I left the company in January 1990 but, also if I had no written non-competition agreement, for 12 months routinely turned down requests from former customers I had worked for Andersen for services; and some waited for those 12 months to pass.
+
+To summarize: the "descriptive" side of my concept of consulting that I will share in the future could probably be of universal interest and use, but the "prescriptive" side would have to be adapted before is adopted.
+
+
+<b>Target audience(s)</b>
+
+Since the 1990s, I registered different Internet domains, also because I was used to register domains for a concept or a project, or even a startup, and shut it down when not needed.
+
+As I shared in my 2012 mini-book [Strumenti](strumenti) (the only one in Italian), you have to tailor message and channel to the audience, but while retaining a level of cohesion and coherence- your backbone, and, to be able to be timely in communication, need to build a store of scenarios and associated action briefs (yes, as in politics and military).
+
+This section will be really short, as simply wanted to close this article by stating something direct.
+
+The first domain that registered was [PRConsulting.com](https://prconsulting.com), after using that name for few years, as for few years was economically not feasible to register a domain in Italy- you can read a bit of its history online, but you can also look on archive.org "way back machine" for its prior online incarnations (e.g. on Geocities).
+
+Since Sunday 2025-07-13, but officially from Monday 2025-07-14 (as the 14th of July since 2008 for me has a special value), decided that the original purpose, to share concepts and material about change, could be better focused.
+
+The PR in PRConsulting did stand for two things: "panta rei" (roughly: everything changes), but also "public relations".
+
+The concept is simple: there is no change without communication, and no communication without change.
+
+Some consider that communication management is change management- but I beg to differ, as I see communication management (along with stakeholder management and audience governance) as an element within the "change" mix, but elements that make sense within the context of a purpose.
+
+Therefore the website will be focused on sharing my concept of consulting- both the "descriptive" and "prescriptive" side, and eventually also to support other consultants (for free if they just read my material, paid if they prefer a "tailored" approach) to do what I have been asked as a "freebie" to provide since 2012.
+
+This summer will start providing few articles, each one focused on a different element of the mix, within a conceptual order that will rearrange at the end of the summer into a coherent whole.
+
+A kind of "operational dictionary of consulting".
+
+I selected for this first phase to use a Wordpress framework, and to keep also a placeholder for a future "library" of that material, but will see in the future how will it evolve.
+
+I will follow a similar approach also for [BusinessFitnessMagazine](https://businessfitnessmagazine.com), while this website will keep being the "reference" and entry point for all the searches.
+
+So, stay tuned!

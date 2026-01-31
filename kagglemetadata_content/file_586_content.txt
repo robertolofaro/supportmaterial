@@ -1,0 +1,200 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250103_article.png)</center>
+
+Routinely, since I started writing for business purposes, first offline from the 1980s for customers and partners or my employers, then also for a wider audience, tested and adapted and/or adopted new processes, technologies, etc.
+
+Including cross-feeding between industries, as already after two projects in my first official job I had been lucky enough to see one of the most complex sides first of automotive (procurement, specifically the information involved in authorizing payments to suppliers), and then of banking (general ledger, including branch-level flows and ancillary flows).
+
+This article is to share yet another tool that will add to support my publications, and, potentially, also future activities.
+
+Anyway, few sections, to help you decide what and if to read...
+_ publishing concepts, publishing history
+_ reporting on learning journey(s)
+_ adding visual elements
+_ blending personal hobbies with business needs
+_ building pipelines and integrating on- and offline tools.
+
+Do not expect anything revolutionary- it is just a matter of adding new tools to a toolbox (old and getting older but still learning out of curiosity and willingness to "blend").
+
+Making as simple as possible, but not simpler.
+
+
+<b>Publishing concepts, publishing history</b>
+
+If you read other articles in this section about [book drafting](index.php?section=books-blog), you know that I really started publishing under my own name in 2008.
+
+Before that, in 2007, just by chance started to publish online under the pseudonym "aleph123"- to publish videos on stage6.divx.com, and then associated blog items.
+
+Before that, in 2003-2005, in preparation of my return to Italy (aborted in 2005), published a quarterly e-zine on change, but not under my own name, using instead [BusinessFitnessMagazine](https://businessfitnessmagazine.com) as name (you can [read 2013 updated reprint here](bfm2013)).
+
+And before that... mainly wrote as part of my business- from the routine business analyses, to business and marketing plans, to training material, to position papers and "Devil's Advocate" feed-back on proposals, to material supporting negotiations, to proposals and draft contracts to be revised with the support of lawyers.
+
+As I shared in Italian over a decade ago [within a book that you can read online](strumenti), writing implies considering a specific (real or fictional) audience.
+
+That you have access to a tool in your toolbox, does not imply that you use it in your written material "as is": if your aim is to reach your audience, it is acceptable to "tune" delivery on the perception of the audience.
+
+Also if this implies distorting the tool, as you are "selling" the message, not the tool.
+
+Incidentally: few days ago wrote on Facebook that hoped to keep writing an article a day as I had done since late December- and so I did, also if sometimes the "article" is in a different form on a different channel.
+
+As discussed in the next section.
+
+
+<b>Reporting on learning journey(s)</b>
+
+To recap: in 2018, when opened a company assuming that the local demand of my change services could turn into a restart of my activities, as part of my activities decided to start updating on AI and business intelligence tools, looking at what open source offered.
+
+Why? Because in the 1980s, after had toyed with Fortran IV on punched cards and on paper, and the BASIC (on a Sinclair ZX Spectrum) and PASCAL (at the university and on PCs), plus others (including various hues of assembler), had learned and used also PROLOG (on various platforms).
+
+You can look online at what each of that language was- just consider that, following my usual polymath approach, I did not just "use" them, I used concept about compiler design that had learned years before after toying with Fortran IV (my purpose was to use BNF for human language learning), down to the point of studying the BNF description of both PASCAL and PROLOG.
+
+The same approach of blending exogenous items came much later, and in the late 1980s to early 2000s actually worked supporting various business intelligence publishers.
+
+It was quite interesting, from 1990, to blend this "data side" with the "cultural and organizational change" side (which, in turn, was closer to my old interest in cultural anthropology, archeology, political science, and overall cultures).
+
+Blend it all, and you will see why in 2018 had that concept of updating the technical side of my experience by looking at open source: to see the "budget footprint" feasible now to achieve the same level of service.
+
+So, I started with R, as anyway my 1980s and 1990s activities were first on models built around linear regression on a multidimensional basis, and during COVID lockdowns added also Python and various AI frameworks.
+
+Over the last year, instead tested also GenAI pre-built models, starting with Flux and adding others (to generate or describe images and eventually videos), plus other models to generate and describe or summarize text.
+
+The idea? Let's see in the next section.
+
+
+<b>Adding visual elements</b>
+
+The title of this section says it all.
+
+It started with the occasional chart, generated in various forms.
+
+Actually, I already did so while still in Brussels, from 2008, to support and clarify articles (I was, anyway, used to sell and design methodologies and processes and organizational structures, not just software).
+
+Then, from 2018, added R elements and visualizations (all the webapps on this website, e.g. to search within article, books, the AI ethics primer, or the ECB publication material).
+
+Then, added also some video presentations on my [YouTube channel, https://www.youtube.com/@changerulebook](https://www.youtube.com/@changerulebook)- each one focused on another element of change, or discussing a specific case.
+
+Then, from 2020 added also some visualizations generated with Python and results of models.
+
+Then, from 2024 added also text generated with models after providing specific prompts "tuned" to elicit a response.
+
+So, it was just about time to add something more.
+
+
+<b>Blending personal hobbies with business needs</b>
+
+I always liked to take pictures- and as a teenager was actually also developing my own black&amp;white Kodak films shot with a camera (but for printing I went to a shop).
+
+In most of my pictures generally there were building, not people- and since the first digital cameras appeared (even the "credit card" sized ones that short just 640x480 pictures or less) and mobile phones (even the pre-Android ones), took pictures.
+
+So, since when I was made to return from Brussels to my birthplace Turin, took pictures around town and occasionally elsewhere in Italy or Europe.
+
+Since 2012, as I was working in Turin, whenever I had time, or opportunity, took pictures around town.
+
+By using GenAI models, online and offline (on my own computer), could generate pictures, but decided to do something different.
+
+If you look at my [Kaggle profile](https://kaggle.com/robertolofaro), you will see that, instead of posting models recycling what came from other models and courses, focused on adding something that I saw missing.
+
+There is plenty of open data available online, but in Italy the quality that much, at least between 2018 and 2021, when I started creating my own curated datasets to support articles and books I was working on.
+
+While learning by using open source resources online, I saw that there were really few "layers" focused on Italian towns- you can find LoRA (basically, a "layer" to instruct an underlying "monster" model such as Flux or SD with information specific to your own uses) about Asian towns, or about comics (including Italian comics)- but e.g. about Turin there was nothing that I found useful.
+
+So, decided to do some location scouting in Turin (I have been here in Piedmont and on/off in Turin for over a decade), and start sampling pictures.
+
+I used a smartphone, and different light settings (e.g. early in the morning, at sunrise, at sunset, during the day, etc), to test various sites.
+
+Then, went around with a proper digital camera (same pixel as my mobile phone, but more control and more latitude with lenses), and for a sample of sites took about 30-100 photos per site, and per light setting.
+
+It is still a work in progress, but I started with a reduced set of pictures and a specific location, a fountain representing the twelve months within the Valentino Park in Turin, to test the GenAI "almost free" tools.
+
+The concept? I saw already many advertisements embedding Turin locations with blatantly fake also if Turin-looking buildings, while would take a little bit of effort (even just an intern from the local arts schools) and little bit of cost and time, to have decent source material.
+
+I could have used local resources- but this would have implied technicalities, while instead wanted to do something that anybody who has a set of pictures can replicate.
+
+Hence, the next section.
+
+
+<b>Building pipelines and integrating on- and offline tools</b>
+
+A thing or two that learned on the ground first in the 1980s (after seeing it in my parents' small activity between the late 1960s and mid-1970s) is what now would call "pipelining", or, if you prefer, the "logistics of knowledge" (as I called it in previous articles).
+
+I will skip a long discussion, but let's just say: the idea is that you can do many things in parallel, notably if you have others (or, in my case, other computers) do it for you while you are focusing on something else.
+
+Still, you need to orchestrate and synchronize.
+
+Be it a political event, or a field exercise, you cannot deliver unless you prepare.
+
+And each preparation step has a sequence (trying setting the furniture at the fourth floor of a building... without having first at least defined the structure of the building, also if you pre-assemble each floor offsite).
+
+Again, will skip a long discussion here- in information technology, found again the same concept in my first two projects, between 1986 and 1988, as were done on computers called "mainframe", basically a single computer connected with multiple screens and keyboards.
+
+If you wanted to transform data from A to B via a series of transformations, resources were limited, but having everything in a single sequence would be silly (I remember some funny cases where then was helped by experts to convert a sequence into something that... could run in the few hours available each night).
+
+Shifting to the first experiment I did on the fountain, this is my "conceptual pipeline" (the first three steps repeated for many):
+_ scout for the location
+_ take preliminary pictures to compare and see viability
+_ build a narrative around the pictures
+_ go back and take the pictures that would fulfill your narrative
+_ get the supporting material needed to document your pictures.
+
+For the first prototype, I had a time constraint, so decided, instead of using local resources, to design a process to generate this and others with minimal intervention from my side, and trying to use intuitive online resources that were possibly cheap.
+
+So, might not be perfect but was "good enough" to add the following steps:
+_ decided to use CivitaAI, both for availability, intuitive interface, low cost, and ease of use also for the non-technical
+_ you can select the more expensive flux-style or the cheaper SD-style, for the first one selected the former (anyway, it is just approx 1EUR)
+_ prepared a ZIP file with all the pictures that wanted to use as "reference"
+_ selecting the flux-style allows to have the system generated tentative descriptions and keywords for each picture; look at the instructions if you select another type of model
+_ once the tentative descriptions are generated, frankly would be better to take them all, "normalize" descriptions (so that the same level of information is provided for each picture, albeit length might be different due to content), and update the tentative ones
+_ in my case, due to self-imposed time constraints, as I had selected just 33 pictures for this test, amended only blatant errors and did a bit of harmonization of the descriptions only for the statues representing the twelve months
+_ then, let the system do its magic, making no changes to generation parameters.
+
+It did not take long to get an email from the system informing me when it was ready.
+
+In reality, the system makes by default five rounds ("epoch"), and then suggested a recommended one.
+
+Again, I could done testing and trial on each one, but I just downloaded the five results, plus the sample pictures generated by the system.
+
+Then, as a first release, published the one recommended by the system (the fifth round results), and generated a couple of pictures to upload.
+
+To generate the pictures, again to save time and make it feasible with limited resources, simply used the CivitaAI "create" button and asked to generate images with a "prompt" that I provided, testing few cases; you can select one of the formats proposed, and then can also ask to improve the quality of the resulting image ("upscale"), by expanding on the number of pixels.
+
+Once you have the "epoch" files, you can actually do it locally (I tried later), but, for the sake of the process, really you need a computer only to upload the pictures, download the results from each round, and write a description page- probably, also a tablet would suffice.
+
+The real test therefore was on few dimensions:
+_ <b>ease of use</b>, to allow somebody just able to use a smartphone do it
+_ <b>speed</b>, as all that you saw above, after having selected the pictures took overall a couple of hours (could be much less, if you have already descriptions ready- next experiment will be using that)
+_ <b>cost</b>, as also generating more than half a dozen pictures took about 1.5 EUR
+
+I will use it to generate more LoRA for other locations both in Turin and from pictures I took in the past across Europe, but a serious use could be e.g. to take pictures of all your products to generate a "style", and then experiment either producing representation material or generating variants of products.
+
+Why the "ease of use"? As I saw since the 1980s with Decision Support Systems first, and then Business Intelligence, the real value added is when you "empower" those who understand the data, not some number cruncher who does not have the business savvy needed to experiment on the nuances.
+
+There are already too many products around that are design for the design sake.
+
+Obviously, the description of my sample above refers to the possibility of actually generating something "in the style of" (but really instead was able to generate using parts of the originals as "background" to scenes built on top of them).
+
+In my case, considering that the further examples that will generate are again based on real sites, the use is mainly as an experiment, or to generate "look alike" that are closer to the original than some pictures of humans with six fingers are close to the source humans.
+
+Again, the real value could be instead to be able to visualize options.
+
+I referred to products, but, if you consider thinking by pictures and representing complex sets of information visually, generating images would be akin to generating new potential configurations.
+
+Maybe starting from a set of pictures that you ask to some proper artist to generate on commission for you, akin to rendering of components, objects, etc.
+
+Then, you could provide your generated content/images to other models (or humans) to derive proper "instructions" to create a final visualization that matches your desiderata.
+
+In my case, those pictures generated will be useful to visualize concepts "in the style of", but also help to extract segments from the originals and assemble them in a different way.
+
+For now... [this is the link](https://civitai.com/models/1092456)- have fun in trying to position yourself or something else at the fountain. 
+
+Soon will deliver an updated version with properly "normalized" descriptions (and maybe additional pictures- I still have to revise the original ones).
+
+Incidentally: the pace of closing of this article was set by having in the background... Von Karajan's take on the "Pictures at an Exhibition".
+
+Why this choice? Because I remember attending in The Netherlands an IEEE event to celebrate the anniversary of the CD, and was told the story of how Von Karajan suggested this piece as a test of the potential of audio CDs to... Sony's founder.
+
+Or, as I said back then to other fellow IEEE members: an orchestra conductor gave engineering advice, as suggested something with enough latitude to test the boundaries.
+
+Something that we should get used to in the future, as AI advances and will allow further collaborations faster- but we will need a different set of business models.
+
+Because if you remove the source cost (e.g. the artists) and start feeding only generated material to further generate material, chances are that it will converge on a narrower and narrower set: imagine if all the buildings had just variations of the Parthenon because that had been decided to be the one and only source of architectural design.
+
+Stay tuned and have a nice week-end!

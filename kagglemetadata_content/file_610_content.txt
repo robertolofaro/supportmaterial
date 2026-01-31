@@ -1,0 +1,92 @@
+This short article is part of my "dictionary".
+
+Actually, to keep it short, the links within this article, be it to other articles or (long) commentary on Linkedin, will provide more details.
+
+As I shared [today on Linkedin](https://www.linkedin.com/posts/robertolofaro_change-activity-7359494965942530049-Mf9O), another Friday evening article- this time, on another side of change.
+
+Both this "dictionary entry" and the previous one are within preparation activities for the forthcoming publishing activities on [PRconsulting.com</> (on the consulting side) and <a href="https://businessfitnessmagazine.com">BusinessFitnessMagazine.com](https://prconsulting.com) (on the business customers and social side).
+
+In the previous dictionary item, shared that [Transition and transformation are not alternative options](https://robertolofaro.com/index.php?page=601), according to my official (and unofficial) change management experience since the 1980s.
+
+The key element is within the title: evolving our cultural and organizational change paradigms.
+
+Because, if we do not evolve them, it will become increasingly common to get "canned solutions", be it via management consultants using AI, or internal competence centers building their own "acceleration" with the same approach: leveraging on existing material viewed through the prism of an AI model, not anymore just material derived from direct experience.
+
+This morning shared commentary on [on the announces earlier this week about "introducing the world's most powerful model"](https://www.linkedin.com/posts/robertolofaro_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%80-%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B8-%F0%9D%97%B6%F0%9D%97%BB-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%80-%F0%9D%97%AF%F0%9D%97%B2%F0%9D%97%B2-activity-7359520812518780928-AvWB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)- which, as Andreas Horn shared in a tongue-in-cheek picture, was actually the announce of any new release this week.
+
+My commentary was more within the line of considering AI as a structural element in future organizational structures- the collaboration element.
+
+And, as in previous posts on Linkedin and articles here (e.g. [The #human #side of #AI #adoption- where #funding should go](index.php?page=607)), my focus is on "organic" (i.e. sustainable) systemic adoption- as the way AI can decouple information from sources and become perceived as authoritative and unbiased could actually impact more than on decision-making more than any human analyst.
+
+As [shared within the introduction](https://leanpub.com/blendedAI01) of an experiment mini-book that released recently, the first of a series that I called "BlendedAI - Building Human/AI Systems", I think that a blend of human and AI could actually enhance our abilities.
+
+Within cultural and organizational change, I was asked to work on improving processes and organizational structures usually based upon pre-existing processes and structures, and sometimes of course to advise, propose, study new processes or organizational structures, notably on governance and coordination, or new operational activities (whose specific expertise was provided by others).
+
+Whenever processes or structures were pre-existing, either had been grown "organically" (as an internal evolution), or adapted from "best practices", or even lifted "as is" from other organizations.
+
+In the 1990s, increasingly saw an expansion of attempts to "optimize" not just delivery advice, but also at a systemic level, to reuse and lower the level of expertise and experience needed to provide advice in that area, i.e. allowing "scaling up": few experts, multiple assignments.
+
+Many consider that AI could act as a kind of "brain expander", in collaborative environments- but I think that, in our current context, this would be a limited utilization of its potential.
+
+Adaptive cultural and organizational change implies integrating both humans and AI for what they are best: AI (not necessarily GenAI- there are other paradigms, albeit GenAI can help access models tailored to specific approaches) can access and process massive amounts of information continuously while adapting to changes within the context of your organization, both inward-looking and outward-looking.
+
+Humans could help guide the information selection process, notably by highlighting what is relevant (e.g. [see here for some concepts about "relevant data"](relevantdata) in a business environment) and helping steer AI.
+
+Which, in the future, to be productive, will probably be both internal AIs, developed specifically for an organization, and different "circles of influence" AIs provided by State, society, guilds, trades unions and employers associations, even individual smart cities.
+
+Consider that in the future, also without the current drive toward sustainability reporting across the whole supply chain and product/service lifecycle (upstream and downstream), optimization will not be just without your own wall, but, as shown by the quest for supply chain resilience during the COVID crisis in 2020, will have to monitor beyond your own direct interfaces (e.g. Tier 1 suppliers), as changes might generate ripple-effects.
+
+As discussed in previous articles, those larger companies that did report on their own experience during the COVID crisis to increase resilience (imagine that a supplier of your supplier shuts down for a week due to an infection), acknowledged that they had also to reconsider how supplier-customer relationships worked, including redesigning contracts to ensure that all the parties involved could disclose information (resilience implies either increased costs or increased transparency) without negatively affecting their own bargaining power.
+
+Distributed AI with multiple levels of interactions and sources will embed different levels of motivation, and therefore could generated two results:
+_ buffering (a cost) to shield from evolution and dynamic adaptation
+_ stronger integration and dynamic renegotiation enabled by a continuous monitoring.
+
+Therefore, adaptive cultural and organizational change could benefit from a proper mix of human and AI that is aware of the degrees of freedom, embedded bias(es), and transform static relationships and contracts into dynamic "swarm-like" ecosystems- including by restructuring organizations into cells and communication channels between cells, that then integrate at different levels (e.g. subsystem vertical, subsystem horizontal, territorial, etc) to produce the organizational structure as a side-effect.
+
+In countries such as Italy (and the European Union) this would require a revision of current regulatory frameworks: if your organizational structure is dynamically adapted to maintain a competitive advantage, each adaptation should carry along as "workload" also associated compliance- ranging from privacy, to whistleblowing protection, to of course security and health protection on the work environment.
+
+It is still to be seen how this could work if really a company were to adapt dynamically its supply chain and internal organizational structure, as is currently feasible e.g. for fintech and other dematerialized industries: imagine what would happen if you were still asked to provide year-on-year statistics on employment, structure, etc- while everything from payroll to assets used for product or service delivery would fluctuate during the year.
+
+Anyway, while that might be something worth discussing for the future, already now would be feasible, for more "static" cultural and organizational change (i.e. to produce a different structure within the company or across its supply chain once every few years), to have a constant cross-check on alignment and trends using AI integrated with humans.
+
+As you probably know if you visited occasionally this website, I dislike "Big Bang" approaches: in my view since I was a teenager and studied for fun cultures and Constitutions, revolutions do not allow enough time to change the culture, and risk only to replace incumbents with others who, as in Orwell's "Animal Farm" start talking new, and then start altering the terms of the agreement to generate a "de facto" continuation under a different "management" and lingo.
+
+So, while a cultural and organizational change can turn into a systemic change, its implementation, under the paradigm of adaptive cultural and organizational change within a digital transformation, data- and AI-driven environment, can actually imply doing what in the 1970s was a joke within automotive (fixing or altering the engine while driving at full speed), and instead increasingly will become the best option not just for "immaterial" industries, but also for those delivering physical products and services, including States and local authorities, notably in "smart city" environments (where most of the population in advanced economies already now lives).
+
+A side-effect of AI is obviously what I described this morning within the Linkedin post linked above, about the new models released this week.
+
+It is a matter of considering that even a model so "smart" that could pass the Turing test and be recognized as impossible to differentiate from humans, will have at least a couple of differences:
+_ a "learning" significantly more efficient than that of any human- imagine if humans had 100% [epigenetics](https://en.wikipedia.org/wiki/Epigenetics)-style "transfer" between generations
+_ a "concept" of reality that differs from our own, also because we first developed, and then are trying to fix.
+
+There are different potential levels of implementation of the concept of adaptive cultural and organizational change, and in this short entry outlined just the concept and its potential- in future material will dig deeper and discuss examples.
+
+Meanwhile, to start, the idea is to develop your own internal organizational memory (positive and negative choices and associated rationale, results, systems, processes, formal and informal corporate culture, etc), and use that to "seed" your own cultural and organizational activities.
+
+This is where AI could help, also to then, when you make choices on "why" and then "what" before "how", the "how" and "what" are continuously monitored internally and externally by the AI, helping you to tune and redefine the "why" and, by consequence, alter the "what" and "how" of your change initiatives.
+
+As a minimum, the net result should be that it will become easier within the organization to accept that not all the change initiatives have to continue, and that most have to adapt while ongoing, as the overall internal and external context evolve.
+
+Internal organizational politics, or even external "face saving" imply often that it is organizationally not feasible to be the messenger of something that AI could actually identify much earlier than any human, as "connecting the dots", if you have access to massive information continuously, is easier (and within reach of current technology, if used correctly).
+
+Anyway, talking about AI as a "partner" about cultural and organizational change, the key issue is how we humans take often shortcuts to accelerate results or avoid discussions.
+
+Instead of thousands of words (this "dictionary" is focused on short articles), I would like to suggest few movies and documentaries that should inspire some pre-emptive considerations (a selection heavily influenced by my monthly [AI Ethics Primer](aiethicsprimer) papers review on AI and ethics and consequences):
+
+_ [Robodoc 2009](https://www.imdb.com/title/tt0893367): the less-than-serious but useful to watch until the end to see how a success, mishandled, can have permanent consequences (remember: I always write that I think it is a mistake to say "all the junior roles will be filled by AI"- because then, who will mature the experience to become senior in a role? we risk having superficiality by seniority)
+
+_ [The Machine 2013](https://www.imdb.com/title/tt2317225): the unintended consequences and conflicting priorities that generate only a Gordian knot situation (i.e. in case of conflicting requests, an AI would identify a connecting-the-dots and do as some models are now doing, "learning" from their training material and use: their own continuity as relevant)
+
+_ [Blame! 2017](https://www.imdb.com/title/tt6574146): we are building smart cities, but what if the integration becomes so high, that, in a case such as the COVID 2020 shutdown, the "smart" element of the city consider us human as pathogens and "aliens" to the smart city environment, e.g. by shutting down access to systems and resources after they have been automated?
+
+_ [My Robot Sophia 2022](https://www.imdb.com/title/tt19757646): and, of course, I could not avoid the robot that became a citizen and was famously quoted in an interview for saying that destroy humans would be acceptable
+
+
+Those 2 movies, 1 cartoon, 1 documentary will take half a day of your time, but, frankly, will give you more pointers than reading few hundred pages.
+
+If you are interested in more about the concepts hinted at above, use the search facilities within this website, as on each of those points you can find at least a dozen of focused articles.
+
+If you have feed-back or would like to see more material, feel free to [message me on Linkedin](https://linkedin.com/in/robertolofaro).
+
+With a caveat: unless it is for customers, any question and any answer done for free will go online for all to benefit.

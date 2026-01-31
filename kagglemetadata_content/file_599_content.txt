@@ -1,0 +1,636 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_20250620_article.png)</center>
+
+The title of this article requires an explanation- and will share it in due course.
+
+In this article, will use as reference example from the European Union, Italy, and Turin, my birthplace, but I think that most of the material could have a wider interest.
+
+The references to my own experience will be only used to highlight or discuss some points.
+
+Actually, this article and some of the next few ones were supposed to be just one article, but decided to split the concept across multiple articles.
+
+This introductory and automotive article will be longer than others.
+
+Will also share posts and articles, part on [Facebook](https://facebook.com/robertolofaro), part on [Linkedin](https://linkedin.com/in/robertolofaro) and, depending on the subject and material, on other social media ([you can see at the bottom of this page on which other I have a professional profile](cv)).
+
+On this website, there are various search facilities- including one that lists the [latest 20 articles read](index.php?section=latest-read).
+
+This is the "picture" of the latest read articles on this website while I am producing the draft outline of this article:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_picture00_articles.png)</center>
+
+As you can see, a mix of subjects.
+
+Why start with automotive? Well, it is the first in the alphabetical order of the industries I worked in or for since the 1980s- I could quip.
+
+Anyway, it has both to do with my personal and professional history, and the pivotal role that, at least since WWII, the automotive industry played within the industrial development of Europe.
+
+Recently, I shared on <a hreF="https://linkedin.com/in/robertolofaro">my Linkedin profile</a> few posts about that industry, but as you can see on this website, [there are plenty of articles where I wrote about it](search.php?tag=automotive), even considering just those since 2012 (over 90 so far, excluding this article- there were other articles that wrote while in Brussels, now offline).
+
+So, the main reason to start this series with automotive? In Europe, automotive is really "an industry of industries"- it covers the role that in the USA covers the military-industrial complex, from R&D to infrastructure to academia and political influence on industrial policy, but with a level of fragmentation between EU Member States that still lingers on- what I could nickname "the national champion paradigm".
+
+Anyway, will discuss these points within later sections.
+
+So, the sections:
+_ perception vs. reality: the regulator side
+_ perception vs. reality: the stakeholders side
+_ what is "too big to fail"
+_ why automotive in Europe is so relevant
+_ what's next: transition or transformation?
+
+
+<b>Perception vs. reality: the regulator side</b>
+
+As you probably know if read other articles on this website, I side with Carl Schmitt on the concept of considering corporations as political actors in our complex societies.
+
+Frankly, this is something that started with the first modern corporations set in motion by our friends across the Channel, to control and develop their trade empire, centuries before Carl Schmitt.
+
+Since decades, I am a strong critic of the direction that increasingly assumed the European "paper mill complex".
+
+Not because they are regulating too much, but for the way they are regulating.
+
+Since the 1980s, European institutions became increasingly self-referential, as it happens with any bureaucracy built as an "helper" to maybe harmonize and integrate, that then becomes "self-aware" (and self-bestowing) of having a pivotal role.
+
+Then, becomes convinced that it is all-seeing all-knowing, and, despite formal integration of stakeholders, as we say in Italian "se la fa, se la suona, se la canta".
+
+So, for example, on the AI Act ("we are the first regulating AI"), there has been much criticism from industry (both providers and users) that regulations sometimes get old as soon as are issued.
+
+While the AI Act recent twist will be heralded as a "regulators listen to industry and users", personally I consider the announce that the European Commission is looking to set up a 60 members experts team to help with the implementation of the AI Act a kind of "project recovery"- something that, since the 1990s, I have been ofter asked to do:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_picture19_remedialactiononaiact.png)</center>
+
+Or: the European bureaucracy creates momentum way too often not by listening and observing, but as a continuity on its own previous actions and perception of needs.
+
+Including both Parliament and Commission.
+
+Due to the complexity not just of the "acquis", but also all the "rituals", it is in the end those who are permanently attached even to elected (and not just appointed) political representatives, that have almost exclusive knowledge of rituals involved in anything.
+
+So, we in the end, within the European Union, created a self-referential civil service that polices itself.
+
+Yes, I am a fan of "Yes, Minister" and "Yes, Prime Minister" (the latter being the sequel after the hack that ended up as Commissioner in Brussels then becomes Prime Minister of UK, and is constantly played by his top bureaucrat, while being given the illusion of being in control).
+
+Anyway, the UK civil service had a single point of reference, while our supranational civil service can regulate, dictate, punish juggling across a variable alliance of constituencies to convince.
+
+So, there is a continuity, even when maybe some regulations or directives started with a demand from citizens, governments, industry: once in place, evolution increasingly takes a (bureaucratic) life of its own.
+
+And, as I wrote in the past (e.g. [within the EP2024 article series](ep2024) on the 2024 European Parliament elections), the more those insiders regulate, the faster and more "productive" they become in both evolving existing and creating new regulations.
+
+It becomes a supply-side issue: piling up of churning or adjusting paper tape, seen from the outside, does not seem to consider the time needed to digest and implement.
+
+As I said repeatedly in few languages to customers before starting to write articles online: change implies phase-in (the new) and phase-out (the old), often using the same key people within the organization.
+
+In my view, too many lawyers and too many classical economists that still look at XIX century and early XX century theorists as their point of reference, and consider human behavior as a mechanical consequence of choices.
+
+Look also at regulations that assume that, when needed, humans as if by magic resurrect "on demand" complex skills that regulations did not require to keep drilling about.
+
+We saw that during the COVID crisis: how many EU Member States did dust procedures off the shelf, but their staff and supply chain were really ready to "hit the ground running"?
+
+Again: it is a matter of perception vs. reality: the perception in Brussels might be that they listened, then built up a perfect piece of harmonization and balancing of different interests- but, until they develop internal expertise, what they perceive is not necessarily covering all the nuances that what they produce based upon that understanding tries to corral together.
+
+Trouble is, that after another round of tinkering, the temptation is always to "crystallize" knowledge by importing a static team of "experts", even in a field where changes can happen within weeks- but described the issue in both articles and a couple of books, [#synspec](synspec) (a decade old) and [BFM2013](bfm2013), which is formally a dozen years old, but in reality is the updated reprint of material that published in 2003-2005.
+
+Because I found the same issue also in private bureaucracies for decades: is there something that you do not understand? Add to the team somebody who can be qualified as an expert, and it is solved, also if that "expert" is never used, never given activities to keep expertise up-to-date, and never confronted with experts in the same field presenting different perspectives.
+
+The European Union institutions have probably too many "classic" economists, who apparently still assume that issuing what they consider a well-designed regulation based on industry expertise solves the implementation issue, and, if issues arise, you can tinker a bit.
+
+As I said over a decade ago, when Italy heralded a new local law to support Industry 4.0 transition, you cannot tinker with the law and its supporting measures on a year-by-year basis: and many, to stay within the automotive industry, recently said that, while looking for support for the transition, reversing on green by altering the mix now could just generate more issues that need to be solved- all insisting on the same people.
+
+You can issue a new carefully crafted bit of regulation in days or weeks, and then restructure it over a mere week-end, but those who will need to comply with it cannot play a regulatory minuet- they need certainty for a while.
+
+Yes, I wrote this repeatedly in the past- and will repeat it again within this and future article and books: but sometimes a [Cato-style refrain is useful](https://en.wikipedia.org/wiki/Carthago_delenda_est)- albeit I am a reformer, not a revolutionary.
+
+And was so also when, as a teenager, all my classmates who were on my political side were instead aligned (late 1970s - early 1980s) with a "revolutionary instinct": as somebody told me decades later, being on the left of the political spectrum and being called "riformista" back then was an insult- but I did not care, and kept being on the left but bipartisan (what currently is defined as "liberale di sinistra" or "centre-left").
+
+I never liked extremists: Zealots are not my cup of tea, as they care too much about themselves and too little of what will be result.
+
+Certainty is not necessarily postive- could be an unpleasant certainty, but it is better than a constant back-and-forth.
+
+Yes, I am a fan of "Yes, Minister" and "Yes, Prime Minister" (the latter being the sequel after the hack that ended up as Commissioner in Brussels then becomes Prime Minister of UK, and is constantly played by his top bureaucrat, while being given the illusion of being in control).
+
+Anyway, there is another side.
+
+
+<b>Perception vs. reality: the stakeholders side</b>
+
+Who are stakeholders, within the context of this article? Citizens, but also local authorities, businesses within each territory, etc.
+
+Within the European Union, we talk a lot about "subsidiarity", but increasingly for the sake of harmonization rules are not considering the differences between states, locations, and socio-economic conditions, as well as the need, for each and any change, no matter how sensible, to be "phased in".
+
+You cannot just declare change- you have to consider the starting point, and, if you want all to converge to a profile, identify the "path" needed to generate that convergence.
+
+The post-COVID Recovery and Resilience Facility that was set in motion in 2020 was actually a tool that should have promoted EU-wide convergence, but, frankly, and not just in Italy, the piling up of priorities and "earmarks" made that lofty target something that will need to be assessed ex-post.
+
+Will those 700+ billion EUR of shared debt revenue streams large enough to cover the reimbursement costs and still leave a positive cash-flow? Will all those "projects" within the "missions" improve resilience (mainly- adaptability)?
+
+Time will say- but you can read on this website [my commentary on the Italian side, the PNRR](search.php?tag=pnrr), which anyway does not contain just references to Italy.
+
+You can also read online some key points on GitHub- I built a repository there using public material from the approval "itinerary" through the Italian Parliament [here](https://github.com/robertolofaro/pnrr) (note: my GitHub is not just software, data, visualization to support articles- contains also repositories with concepts to test "collaboration" ideas).
+
+In the next section, will discuss the "too big to fail" part of the title, before discussing how this affects the automotive industry.
+
+Focusing now on the difference between perception and reality from the stakeholders perspective, this is often linked to asymmetric access to information.
+
+Access to information is always selective, but you 
+
+1934 was the year when the [Stock Exchange Commission](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission) was founded- so, last week went looking for movies, cartoons, documentaries from that year.
+
+And found this curious cartoon, called "Funny Bunnies", which I had never seen before, that contained an interesting point when smileys were set on an egg:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_picture01_choicesonselectiveinformation.png)</center>
+
+Incidentally: on [my Facebook profile you can see the cartoon excerpt](https://www.facebook.com/robertolofaro/videos/1451858949632780/)- search online if you want to see it all- it is a funny Taylor-stile production line but with creativity; note: in some countries, you will not hear the sound as Meta does not have the rights.
+
+Few decades before the supposed first post-WWII use of the smiley by its inventor (who, incidentally, did not apply for IPR protection).
+
+In business, it is quite common to build a narrative to generate a different perception of reality, following one of the many "templates" that are across our common folklore (e.g. "rags to riches"), and generally presenting each time whatever you "sell" as a message as an original message.
+
+So, it is not just LLMs or GenAI that quote and rehash pre-existing material without disclosing the sources.
+
+My American friends often reference narrative patterns from the Bible, but long before that we had many more (e.g. [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh)).
+
+Jump to recent times, post-WWII, and you will see many supposedly explanatory patterns that really served to build a [lore, an oral tradition](https://en.wikipedia.org/wiki/Oral_tradition) that often outlives those it was built for.
+
+In business, across the decades, I heard often curious made-up descriptions of events, that were selective at best, bending reality into a different shape whenever convenient, to build a narrative resulting in a champion (usually either the one presenting, or, &agrave; la Machiavelli, his current or potential boss- yes, "his", as usually were men doing so).
+
+On the political side, often perception is reality to an even greater degree, as reality is left to bureaucrats, in most countries (see previous section).
+
+In my birthplace, Italy, even bureaucrats, in a tribal society, have to be "political" if they want to survive in their role and thrive.
+
+Less bloody that in the "Prince" of Machiavelli treatment of bureaucrats used by the leader as shields to deliver initiatives that were not really popular, only to then give to the crowd the bureaucrat, in a grand gesture to recover credibility and support.
+
+But all the examples above are about building or distorting perception- a manipulative practice that, in our times when we are obsessed with leaders and champions, from politics to business to sport and entertainment, is even more common than in the 1930 when Grete de Francesco wrote "The Power of the Charlatan" (you can read the English edition for free [here, on archive.org](https://archive.org/details/the-power-of-the-charlatan-1939)).
+
+Sometimes, audiences want to be fooled, or at least to hear and see what they would like to hear and see, now what is really being said or done.
+
+A flip side of our obsession with leaders is that we bestow on them more credibility on any assertion that they utter.
+
+So, yes, we listen to speeches, and beside taking them at face value, build up a mental roadmap of where that would lead- all positive results for us, the audience.
+
+In Italy, at a time when we had what I called the "two political churches" (the Christian Democrats and the Italian Communist Party), one promised paradise in the after life, the other the "sol dell'avvenire"- a radiant future where the sun would always shine on the communist masses.
+
+As my Latvian friends told me in the late 1990s: those coming from outside think that we all had caviar, but that really was only for some- and showed me also how there were varying degrees of ["nomenklatura"](https://en.wikipedia.org/wiki/Nomenklatura).
+
+Frankly, in my birthplace Turin, we had both a political and a social "nomenklatura"- more or less justified when it was a company town with the center of an industrial empire, much less so in a town whose past industrial infrastructure is increasingly becoming unsustainable, with the current demographic and socio-economic trends: again, look at numbers, and on this website you can find plenty of articles where I crunched those numbers.
+
+Not just bureaucrats (or even eurocrats) plan with increasing detachment from reality, to achieve a "beautiful plan"- even stakeholders gradually developed the same level of cognitive dissonance, a dissonance that thinks that the plan is what matters, as then resources will appear.
+
+Fine, if you live in a purely financial world of unlimited resources or derivatives, where you just need to write a line or press "enter" on your keyboard to alter instantaneously the balance.
+
+Not so fine if, to implement, you need a clear understanding of existing potential, needs, and differentiating between targets and starting point, while also connecting the dots in a sustainable and credible way.
+
+Talk and announces are cheap, quick, gratifying for both the audience and the speakers, but implementation is boring, with plenty of unknowns and unexpected twists and turns.
+
+So, many of our leaders focus on the "big picture" but without necessarily surrounding themselves with advisors who are used to cope with reality- they will be involved ex-post to "implement", as with that announce about the AI Act that shared above.
+
+I often quote that quip attributed to the late President and General Eisenhower, meaning that while plans do not survive the encounter with reality, it is the planning itself that is important, as prepares us to know strengths, weaknesses and match those with risks and opportunities (yes, I am blending Eisenhower's quip on planning with SWOT analysis).
+
+Anyway, that quip refers to a perception of reality, not a delusional state of self-reassurance.
+
+As discussed in past articles and will share again in another article (but already posted recently commentary on Linkedin), we must be realistic in our data-obsessed world.
+
+Cheap technology made us aware of data that in the past we would not have had the chance to see or retain- and AI plus other older technologies help us also to filter and process more or less automatically all that.
+
+Still, all our technology is "selective" on data and, therefore, on information derived from data.
+
+It is not just a matter of choices, but also simply of Weltanschauung, how we see and perceive the world, and the "cone of visibility" of what surrounds us that we built up.
+
+In business, I saw it happen already in the 1980s in my first data project, that some data were filtered on the way up.
+
+Not because there was a malevolent intent, but simply because those at the source did not understand what mattered in making choices above them- so, moved up what they assumed to be relevant.
+
+A matter of communication and incomplete analysis, but still more common than you can believe.
+
+I shared some cases within a previous book, on [relevant data](relevantdata).
+
+So, when designing decision support system models that went down to the data, bypassing layer upon layer of "digesting on the way up", in some cases a handful of data points was enough to spot behavioral patterns that had been missed by those on the frontline.
+
+In more recent years, since I was made to return to work in Turin in 2012, my birthplace, I routinely observed a similar pattern, notably from local political and social leaders.
+
+Or: narratives built about a perception of reality as a continuation of a glorious past, and announces of new initiatives that do not consider at least two elements:
+_ you are not the only one reading news, looking at yesterday's trends, and projecting them as your future
+_ unless you have some differentiating factor, your glorious past in a different domain does not count that much in the new context
+_ if there are already well-funded initiatives in the same domain, differentiating becomes even more critical.
+
+And that's why I nicknamed my birthplace "Macondo am Po"- as the Garcia Marquez village in his famous book.
+
+It is a case of "digesting on the way up"- as the signal on the ground are there, but are considered mere fluctuations or even, as I heard repeatedly from local authorities "issues common in a large town".
+
+Which brings to mind a question: why those issues were not there before? 
+
+You can read [past articles where shared some data](search.php?tag=turin) and reported on data analysis from others- about the past, and about future trends.
+
+There is still potential to reverse the tide, also if this would require some significant choices, not a continuous repetition of past choices hoping to achieve a different result while ignoring the differences between the current context, and the one that was there when those choices were originally made.
+
+This section and the previous one had a simple purpose: discuss different reasons why we need to consider each perspective and its associated characteristics (and motivation of those adopting that perspective).
+
+These two sections merely scratch the surface- but, again, you can search across this website for other articles focusing on one or more specific keywords or combinations of keywords, and see what is available.
+
+And now, a short section to discuss the "too big to fail" concept.
+
+
+<b>What is "too big to fail"</b>
+
+You probably heard of it right after the 2008 financial crisis, and it was referring to the key role of banks.
+
+There have been plenty of pages written on the subject, by professional and commentators, as well as politicians (who, in many cases, actually created the environment that made that crisis possible).
+
+There is an interesting book with the same title, "too big to fail"- but probably could be too much, for most readers.
+
+My interest in the subject? Well, along with automotive, banking is one of the industries I worked in and for since the late 1980s, and, again, the first project was on a "systemic" level, a banking general ledger for a major Italian bank, which is now part of Intesa Sanpaolo.
+
+I was tasked to the project toward its end, right before the project was completed, and the software relased.
+
+I started as a mainframe developer on that project, but then, again due to my pre-business past, was tasked also to monitor the progress of the project, and help prepare the release to the customer: QA, QC, PMO- call it what you want.
+
+Then, I was shuttled nearby Turin, where the data center of the customer was located, to act as "gatekeeper" (toward the development and analysis teams in Andersen) and "interface" (toward different entities within the customer's structure: chief accountant, organizational development, IT).
+
+Nowadays would be called "release management": frankly, beside the "technicalities (banking general ledger, mainframe, software), which were a kind of accelerated "on-the-job training", what helped was that in the Army part of my role had been to schedule activities on a daily basis to cover for services (so, I had to consider all the elements), and that I had been used to bring to my officer on a daily basis a book with elements to sign, and had to explain each one of them (a kind of informal "chief of staff" for my Lieutenant- as I needed to know chapter and verse of every page I asked to sign- be it an authorization for R&R, a procurement requisition, or other notifications), plus read requests that were coming through us from higher up within the hierarchy.
+
+The way I saw the banking general ledger, and then banking across different domains but different customers and in different countries, was similar to what I had done in automotive for that first project, i.e. had to pick up from experts dots to connect to have an overall picture.
+
+So, I learned a lot- from how branches communicated with each other via data, to daily closing activities, and other scheduled activities at various levels of granularity, to eventually also helping to design a model to staff new branches according to some concepts provided by the organizational development side of the bank.
+
+Years later, I added other areas of banking- from risk, to risk reporting to the central bank, to mortgages algorithms, to branch-level organizational and system design, to various bits of activities and associated processes, etc.
+
+I stopped working in banking in 2007, but then until few years ago had interviews or was candidate pre-selected for roles, also if my main way to keep up-to-date was to read material from Basel, the Bank of Italy, and of course the European Central Bank, as well as following workshops.
+
+Albeit, from 2019, decided to share part of my readings, and making it a continuous, by publishing what was eventually a weekly updated search engine on public material released by the European Central Bank.
+
+European Union institutions still have a perception of transparency that sounds so XIX century, but since 1997 at least the European Central Bank releases routinely a copy of any public statement issued.
+
+The "too big to fail" concept is really linked to an inherent issue in banking in our complex society: nothing would work fast enough if all businesses were to be cash-based.
+
+Believe it or not, something as cheese or ham, that require a long processing and seasoning time in some cases, cannot work on cash alone.
+
+So, some of the interesting banking activities and jobs I was described once were roles to receive ham that had to complete its production cycle, or cheese, and "validate" the value of the product, that was then kept in storage as collateral, allowing meanwhile the release of funding to producers to finance the next round of activities, while waiting to be able to sell what they had delivered as collateral.
+
+In Italy, with a twist: during the summer vacations, well-off people found safer to use their valuables as collateral to get cash, so that would be stored for free in a vault covered by insurance, and then payback upon return.
+
+I was told that was cheaper than setting up an alarm system or paying an insurance, during the peak of criminal activities decades ago.
+
+Going back to the main concept: when you buy food within a supermarket, behind that there is a complex supply chain- from the product itself, to its packaging, to its distribution.
+
+And all of that operates thanks to finance, as shown in 2008 after the financial crisis, and again during the COVID lockdowns.
+
+So, why save the banks in 2008? 
+
+The rationale was also that, at the time, no other entity would be able to inject cash into the economy fast enough, and, if banks were subject of a massive request from their customers to withdraw their deposits due to reduced confidence that the system would hold, they would fail, as obviously cash was not sitting in store, but was out as loans, investments, etc.
+
+Too big to fail, to oversimplify, was the concept that, if you have a tiny bank with few counterparts, it can go bankrupt, and usually there are already in place limited resources to protect at least in part those who deposited their cash (or cash equivalent) into the bank.
+
+As, for example the [Federal Deposit Insurance Corporation](https://en.wikipedia.org/wiki/Federal_Deposit_Insurance_Corporation) in the USA, providing a degree of coverage since 1933.
+
+Yes, along with SEC, another side-effect of the 1929 crisis, but unfortunately other elements, such as regulation on the segregation of banking activities, have been progressively dismantled.
+
+A confirmation of the concept that I shared online often in the past between 2018 and 2024 commenting ["Frankenlaws"](search.php?tag=frankenlaws), the Italian habit of creating laws &agrave; la Frankenstein.
+
+Shared the same concept for decades about the equally pervasive obsession in business and society to integrate "best practices"- looking just at the end result to qualify something as "best practice" to be adopted, but forgetting to look at the context where those results were generated.
+
+In banking and finance, including our current trends toward dematerialization and even decoupling from oversight and jurisdiction, this approach can generate disasters that, while trying to fix them, spiral out of control.
+
+If you have banks that are within a maze of mutual obligations, that part of the financial system is really a house of cards: you have to remove in a proper order, and if you remove some "cards", all the house of cards would fold.
+
+Jump to COVID, and at least some developed countries were instead able to directly inject cash into businesses, either by acquiring an interest (e.g. as it happened in the USA in automotive), or by injecting cash in proportion to turnover directly within the banking account (as I was told at the Unione Industriale in Turin that had happened in other countries- no need to file a request).
+
+Corollary: now you probably understand why the European Central Bank, when presenting its forthcoming "digital Euro" (call it "ECB's Bitcoin" or, better, stablecoin), went to quite an extent to reassure banks that, by having citizen potentially hold a digital wallet with the ECB, the ECB would not compete with banks (I shared on Linkedin in the past my commentary).
+
+Now, if you want to understand more, but are unwilling to either read the "Too Big To Fail" book, or shorter but more "technical" reports from initiative on that subject from Basel, that actually generated a whole industry of software, consultancies, experts...
+
+... I would suggest to watch
+_ either a documentary with plenty of interviews to actual players in the market [Inside Job (2010)](https://www.imdb.com/title/tt1645089/), narrated by Matt Damon
+_ or the movie [Too Big To Fail (2011)](https://www.imdb.com/title/tt1742683/) with James Wood.
+
+If you want to see how that flurry of post-2008 initiatives impacted the behavior of the industry, have a look at [Evaluation of the Effects of Too-Big-To-Fail Reforms](https://www.fsb.org/uploads/P010421-1.pdf) 
+
+Probably, now you start to understand how all the elements of the titles connect with each other.
+
+So, time to shift to the automotive industry.
+
+
+<b>Why automotive in Europe is so relevant</b>
+
+I shared in the past articles, links to news items etc, for almost two decades on my Facebook and Linkedin profile reporting news from the industry.
+
+I was born within an automotive company town, Turin, and I lived in the area full time between 1965 until late 1960s, and then from 1972 until mid-1980s, and then again from late 2015 until early 2019, when I was actually resident in Turin.
+
+The automotive industry was called decades ago "the industry of industries"- and nowhere more than in a company town in Europe this was the simple truth.
+
+At a time when Turin was the center of automotive production, the FIAT group was really a conglomerate, with production and services across multiple industries, including defense, and anything that moves or support what move- cars, trucks, bikes, airplanes, lubricants, spare parts, and also landmines jumping in the air when touched (the latter was eventually sold).
+
+As a side-effect, everybody in town knows that it generated a large development in banking (Istituto Bancario San Paolo di Torino- now part of Intesa Sanpaolo, based in Milan; Cassa di Risparmio di Torino, now part of Unicredit based in Milan) and logistics, along with all the other services, direct (e.g. suppliers working almost exclusively for the main company or other companies in the group, and in just-in-time times acting de facto as warehouses for spareparts and raw materials) and indirect (e.g. look at the number of caf&eacute;s and hotels still surrounding the areas where production was done).
+
+The externalization of many activities, as well as the development as a multinational (e.g. Latin America), generated a gradual detachment first from the town, then from Italy, but at the same time continued to absorb brands and companies.
+
+My first official project in 1986 was in automotive, and, moreover, in an area where I was able to see across the whole supply chain (basically, after working on the project initial budget, I was tasked on the "core" component, in COBOL, of what was really an expert system to assess if suppliers' invoices did get a "score" high enough, based on past relationship, to be advisable as potentially to be paid automatically).
+
+I wrote "first official"- because I had had others before officially starting to work- hence, how I developed planning, structuring, logistic skills- when I did not have the billable pressure but was focused on efficacy.
+
+Learned efficiency as a side-effect first, and then as a balancing of priorities that did not necessarily affect efficacy, in many cases, if you were well organized.
+
+Applied that approach first during my compulsory service in the Army, where I actually volunteered (never do that in any Army) for few roles and ended up covering them all at the same time.
+
+Long working days, but quite gratifying (not the pay- it was around 1eur/day, but anyway it was a 12-months compulsory service that I had elected to join, instead of doing alternative, non-armed service, so I wanted to do my best to make a difference), and it was funny how the more activities I received, the more learned, the more received positive feed-back from those affected, the more got motivated.
+
+Which is funny, as in my times, most of those serving for their 12 months started from day one to count how many days were left, and I collected, in one of my roles, countless of creative cameos on how many adopted a "teflon strategy" about work.
+
+If my first project in automotive was in FIAT in Turin on procurement in 1986, the second one was a project in Magneti Marelli in 1988 on a new management reporting platform for the companies reporting into Magneti Marelli, being build by Andersen on Comshare software.
+
+It was my training ground, and started with a summer spent developing the documentation of the model that had just been completed (around 800 pages, to be disseminated in over 60 copies), and some "pilot testing" training onsite in a couple of companies, to "tune" models and the process.
+
+So, if the first project gave me a view of what implies procurement (and payments to suppliers) in automotive, the second one exposed me to the concepts of consolidation in a multi-brand, multinational company where traditionally the CEO of each unit was somebody seconded from the main company few years before retiring.
+
+And the "social" dynamics within such a structure, as well as how, within the "industry of industries", being a competitor, before the fast rise of third parties such as Bosch, still required sometimes to join forces to develop platforms etc, as was well known in the industry.
+
+The reason? The hefty price tag of such investments.
+
+I learned by observation and interaction with those who actually did the job also about communicating data and sharing results, something that I was then to refine 1988-1990 by working with financial controllers and senior managers to build models to democratize a bit their own decision-making processes, and ease traceability of choices (and numbers).
+
+I had between 1986 and 2024 various projects in Turin within automotive, in different companies belonging to the same group, so I was able to see the evolution the industry.
+
+I think that probably my first "theory" book on the industry was one that purchased while in London in summer 1994 for a summer school on international political economy at London School of Economics (where I returned for an "encore" in 1995), with the title "States and Firms in the International Economy".
+
+The book? Womack's "the machine that changed the world" (and, along with its Mitchell virtual follow-up decades later, I quoted it repeatedly in articles within this website).
+
+Why International Political Economy? Because in the early 1980s my first formal, structured political activities were within a European integration advocacy (yes, I am a federalist), in Italian and French, and a bit of my then primitive (mainly self-taught) English, digging into documentation that we routinely received from Brussels and Strasbourg- where, then, courtesy of funding from the European Parliament, was able to visit along with other members of the local chapter in Turin.
+
+Therefore, selecting that subject helped me in carrying out tests to prepare for something else- but shared already in the past the point, so I will discuss here only how that was relevant to this article..
+
+So, as my customers on decisions support system model activities from 1988 for Andersen and Comshare saw, and, before that, customers in automotive and banking, I had (and still have) a "knack" for business numbers, but linked to resources and organizational cultures, not just "bean counting".
+
+As I wrote above, in Europe really the automotive industry covered the role that, with the massive initiatives of WWII first to supply England and Russia, then to cross "The Pond" and land in Africa before roaming through Sicily and France, gradually developed in the USA what President Eisenhower called within his farewell speech "the military-industrial complex".
+
+Highways, gas stations, logistics, banking, insurance, health facilities, shopping centers, steel production, utilities, supermarkets, etc- in Italy, all had an automotive investment side.
+
+Turin itself is an example of what happens when the "industry of industries" delocalizes or decays.
+
+Go around town (including the Metropolitan Area of Turin, which covers all the county of Turin- "provincia", in Italian), and you will see building sites, vacant buildings, and apartment buildings or shopping centers or even educational facilities that were the result of the vacated premises for automotive production.
+
+I remember in late 1990s working a couple a days a week in Turin for a while, on my way back from Zurich or Paris, and before returning home to London.
+
+It was nearby a logistics area called Pescarito, an industry which already back then showed some signs of detachment from Turin.
+
+I came again in the same area in 2015-2018, and then 2021-2022, for other missions.
+
+Once in a while, I was walking either in the morning or at lunch time to relax before or after lunch (frankly, I like walking to think and "draft" ideas, concepts, documents, proposals), and compared the past with what I was seeing.
+
+I was able to do a similar comparison on the car making side, as my 1986 project was in another area of Turin, and then in 2002 had had a part-time role as project manager and business analyst on an audit project, coming again in the same area in 2015-2018.
+
+I wrote already in past articles about how worked for decades also in the outsourcing industry, and there is an element that I saw both in automotive and banking, as well as other industries.
+
+It is fine, from a financial perspective, to externalize: as an example, you lower that ballast that is the stock of components and raw materials on your suppliers.
+
+Up to the point of having on your plants, as happened in some cases (but never worked there, only information from industry media) de facto part of the supply chain in your premises, also if formally each chunk of said supply chain was still with your supplier.
+
+Having them still on site allowed at least to retain the knowledge about product evolution.
+
+Since the 1980s, gradually companies such as Bosch became larger than some of their customers, customers who, due also to the investment needed and other constraints, had gradually adopted the practice not to develop in house, but jointly develop with a third-party something that really might, in slightly different shape, end up in their competitor's product, who, de facto, did the same for other components.
+
+I remember in the 1990s seeing a map of cross-ownership within the UK, France, German banking industry: relatively clean, easy to track, etc.
+
+Then, I looked at a similar map about the then Italian banking industry: it was a Gordian Knot.
+
+If you superimposed the cross-ownership of companies outside the banking industry with manufacturing, both e.g. the German and the Italian map looked similarly complex.
+
+The financial side of the automotive industry expanded so much that nowadays buying a car "cash" is almost unheard of: you enter into a financial contract through different layers.
+
+Instead, in the 1980s, was told of how, in an agricultural area, locals did not trust banks, and were known to buy cars with piles of cash.
+
+Shift to the XXI century.
+
+Already over a decade ago, a consulting company belonging to a German automotive group said in Milan at a workshop that a significant chunk of the mother company did not come from cars, but from services (and software).
+
+Going around Europe, I learned a lot about what makes us different yet still close, closer than, frankly, what I saw in the USA when attended the graduation ceremony in Michigan of an American friend that I had met at the London School of Economics, to then travel from Ann Arbor, Michigan, down to Phoenix, Arizona, going via Chicago, St Louis, and then across a part of the USA that most tourist do not see, up to Texas (where I was to return years later, again to visit my friend).
+
+We could say that Europe had been joined by the sword- all the wars that we fought between each others, and all the ensuing diplomacy, generated a continuous exchange even after the fall of the Western Roman Empire.
+
+In Europe, we still have the concept of "national champions": companies such as Airbus are still an exception, and when, to stay within automotive, those few still standing as larger and larger entities routinely absorbed others, it was always a political issue.
+
+Anyway, gradually there was a consolidation across the industry: look at the brands belonging to e.g. Volkswagen and Stellantis, and you will see a list of companies that were, for the European side, really created at a "national" level.
+
+The approach followed within the European Union to reduce pollution included reducing the level of emissions allowed by new vehicles, de facto reducing the viability of the used car market.
+
+I remember how, when I saw in 2012 that was going again to work in Italy within the automotive industry (in my view, anything that moves on wheels should be considered part of the industry- it is just a matter of segmentation by level of capabilities), went into local libraries to read books about the current status of the industry, as I had been out of the industry for a decade.
+
+Already in the late 2000s, I remember a marketing study discussing how the local market had changed- shifting from a pyramid with aspirations to go up through levels, toward the hourglass model.
+
+Or: those above the neck would be changing car more frequently, those below the neck would kept extending the life of the vehicle.
+
+Since mid-2010, I saw something else, both in Italy and other European countries: while many younger contacts still kept getting a driving license quite early, many would not even consider buying a car, if they lived in a major town.
+
+In the past, cars spent most of their usable life parked- some studies assessed, for city-dwellers, to 80% of more.
+
+Since smartphones became common, more and more younger people, who in the past probably would have started by buying a used car, got used to either car sharing, or pay-per-use.
+
+If you blend planned and forced obsolescence, that the industry complained about only when pollution limits became too restrictive (remember the [Volkswagen emissions scandal](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal)), with the new trend toward use instead of ownership, this could imply a different type of demand.
+
+I shared in the past commentary on this issue, but frankly the obsession with new models to me sounds so 1970s-1980s.
+
+When you had a market able to sustain planned obsolescence, having many new models could make sense.
+
+But when cars become almost a "common" that you pay-per-use, directly or indirectly, and the aim is to increase their use, you are shifting, at least for a part of the market, toward a model similar to that of airplanes.
+
+More durable cars that can be updated and "refreshed", and a smaller market of cars that instead could be changed frequently- still, also the latter would probably have to be more "circular" than current cars, as I wrote in the past.
+
+Currently some companies set up business units to have this "circular economy" as an activity that will absorb part of the staff that is not anymore needed for production, but, as many things in technology, I think now as when it was announced that this approach is short-sighted.
+
+Yes, for a while will be needed, but new cars eventually will be similar to computers: it is the software that matters, the components are off-the-shelf and will be easy to "upgrade".
+
+Therefore, cars soon will be probably designed to be able to be easily disassembled via automation, maybe even something akin to old car wash facilities.
+
+You bring the car, the "tunnel" knows the status and the potential upgrades, and offers a menu of options- you choose the options, the "tunnel" removes and replaces and upgrades (be it "core" hardware, spare parts, improved components, or just software), and you will receive in minutes, at the other end of the tunnel, a "refreshed" car.
+
+Also, if cars were designed for this approach, probably, as shared a decade ago, in urban center we could have 3D printing of the above, and resupply would be just of raw materials needed, not of spare parts.
+
+Just imagine the level of economic efficiency, if you were to remove the need for assortment planning and storing a vast array of spare parts.
+
+In Europe, notably in Italy, we are used to assign to megatrends and megaevents the responsibility for changes that we were unable to properly plan for.
+
+Sometimes it is true, but, frankly, as I kept repeating my colleagues abroad, we Italians assigned to the 2008 crisis or the 2002 release of the Euro the falling behind of Italy.
+
+Instead, as at the time was working across industries but also in banking and related, remember how already in 2000 said to a Swiss partner that he could get staff in a near-shoring mode in Turin, due to its depressed rates and availability of talent, instead of importing from the Americas or outsourcing to Asia.
+
+And even in 2004-2005, was told how formerly middle-class Italians were getting into keeping it up as it were before, but then having to scale down or even finance those activities- from the routine skiing weeks a couple of times a year, to having to cover for the last week of the month for groceries.
+
+Now most assign to the "green transition" the responsibility of the industry decline, but frankly what I heard way too often in Turin was a dual cognitive dissonance.
+
+From one side, trying to keep the volumes of the past in manufacturing as if the market were the same as before.
+
+From the other side, derogatory comments on the industry, and trying to pretend that entertainment and tourism could replace it.
+
+Only to then see in the numbers year after year how the revenue from the latter (down to salaries for employees) could not sustain services that were previously supporting an industrial town.
+
+I shared already these consideration in the past, but the key point is: people more inside the industry that me and at higher level already said over a decade ago that the industry will consolidate.
+
+A kind of "highlander" scenario (yes, the movie series "there will be only one"), albeit more toward an oligopoly than a monopoly.
+
+Now, how does a former company town that still has not accepted reality react?
+
+By reading in events more than it is there, as I wrote in the first two sections of this article.
+
+As I shared on linkedin, chasing your own tail is no solution:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_picture03_innovationpatterns.png)</center>
+
+Not too long ago, was told in Turin both in Italian and in French that the expectation was that the balance at Stellantis would shift toward Italy.
+
+Which, curiously, locally was read again as a return to the past: Turin at the center of the automotive universe, no need to change 1970s habits still lingering on, and fast resurrection first, and expansion then, of production facilities.
+
+To me, it all sounded quixotic and a juxtaposition of two diverse elements that not necessarily shared not causality, but even correlation.
+
+Then, FIAT announced that would sponsor the local Turin annual even, St John, on June 24th, with a massive show in one of the main squares.
+
+Again, this was taken as a confirmation.
+
+Then, Stellantis announced the new CEO after a long selection- but the first answer of the market was not that much positive, and therefore the company leadership had to do some spinning:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_picture14_transformationtimesarewereadyforchange.png)</center>
+
+According to media commentators, the market demanded transformation, instead got continuity.
+
+Frankly, it sounded a little again as the initial post-Marchionne announce, that eventually lead to the Stellantis agreement, as it is again Jeep called up as a stop gap.
+
+Still, in Turin the perception was: we have the company back in town, selecting an Italian and even subsidizing a major local even.
+
+Again, the same rounds of commentary, only to then hear that the new CEO is Italian, but announced that would be based in Detroit.
+
+Which makes sense: North America is the base of Jeep, Southern America already decades ago was market significant enough for FIAT to create models just for that market.
+
+So, not really a surprise (to me)- but probably those who complained in the past that Marchionne was based in Geneva (just around the corner from Turin- but, anyway, he was constantly traveling), now, after all the recent boasting about the Italian choice and therefore the expectation of a relaunch of Turin, will gradually wake up to the XXI century.
+
+Few days later, media reported that Exor had sold a chunk of Ferrari to release resources that would be used for new investment opportunities.
+
+I will let you look online for the commentary on that.
+
+It is true that, since few years ago, the trend seems to be, as I shared in the past, to get out of the automotive industry and diversify- extracting value from the group to be able to invest, something similar to a 1980s-1990s raiders approach.
+
+So, another announce, the shifting of the CEO of Renault to another industry recovery case, right after those two announces, created a "connecting-the-dots" moment:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_picture16_probablywearenot.png)</center>
+
+It is a matter of choices, but also it shows that, again, Turin is not able to groom the talent needed for the market demands, not because it is lacking talent, but because it is too tribal and therefore unable to accept that sometimes long-term tribal interests are better served by taking a step back for the good of the whole.
+
+We need to have better capacity planning, notably on talents- which is something that takes decades, and needs to be open to shifts from XIX-XX century practices, to a more "fluid" environment.
+
+Few days ago was lucky enough to synchronize this article with a workshop presenting a report on that side within a specific industry, air traffic control.
+
+Why lucky? Because I was spared the need to write 1,000s words more on the subject that would be a mere recollection of what I already shared in the past.
+
+Moreover, the source would be an authoritative source (I dislike being my own source):
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_picture18_capacityplanning.png)</center>
+
+So, I might be wrong, but the dots connected so far could bring about a further step into the consolidation of the European automotive industry.
+
+
+<b>What's next: transition or transformation?</b>
+
+I have been criticizing the "green transition" for the reasons exposed above and in previous articles, and, frankly, for the same reasons why over a decade ago criticized the "Industry 4.0" that then Minister Calenda promoted, and now his heralds again tout as a great success, forgetting the initial rounds of tinkering.
+
+That Italian law, that was supposed to help bring to modern times machinery in factories that was way older than in other European countries was designed with some typical Italian flaws, whenever it comes to incentives that should promote investments:
+1. year-by-year renewal: fine if you are a politician, but if you are a former manager, you should know that incentives should be aligned at least to the tax-wise life of the investment, not be a surprise each year
+2. lack of coverage for training: if you bring brand new "smart" equipment into factories used to mechanical machinery, training people is a cost- and, in some cases, you cannot even train them, but have to shift them to other activities, and get new people with a different mindset
+3. lack of coverage for interconnecting with information systems: most Italian companies are too small to have internal resources covering also the next generation of technology, they focus on production, not on research; if you do not finance interconnecting to reap the benefits of "smart" equipment, you obtain what I was reported by some- i.e. companies buying the new equipment because their old one was beyond the "tinkering-to-keep-it-alive" cycle, but then, due to lack of internal resources and funding, and unable to pull staff off production long enough to be trained on something completely different, used the new machinery as much as possible as they had used the old one.
+
+You can find online the commentary that shared back then, along with links to newspaper articles.
+
+In Italy, it is always a case of "much ado about nothing" (in the aftermath): one by one, [those issues were solved](https://www.mimit.gov.it/images/stories/documenti/investimenti_impresa_40_ita.pdf).
+
+Still, building a narrative out of the final stage make you think that, if even those who know in Italy think that tinkering before thinking is normal, we still have a long way to go, before becoming an ordinary country: tinkering is not a way to attract long-term investments.
+
+The EU green transition for automotive was something that frankly, seen from outside, discounted all the complexity of the "industry of industries"- and to a large extent ignored completely what would imply not just for car makers, but the overall context.
+
+Hence, on this point agree with Elkann and others industry insiders.
+
+As I wrote above about the AI Act: we need smarter regulation, more adaptive and able to consider not just those directly affected, but also the overall systemic impacts, and development of new regulations, notably directly and indirectly affecting a complete overhaul of our socio-economic structure, should be a collaborative effort since inception.
+
+Smart regulations, in my view, imply also adopting a systemic approach: just because you regulation affects A, does not imply that A operates in a vacuum, and it is just a matter of helicopter money for A, and the hell with the consequences.
+
+Otherwise, you risk having continuous rounds of tinkering- and nobody can plan multi-year investments based on rumors about how regulations will change.
+
+Which in Italy is a tradition.
+
+Long ago, explained to my foreign friends as, before the beginning of the XXI century, Italy already had multiple rounds of laws restricting smoking.
+
+Until when a new twist on the law charged the penalty not just on the offender, but also on the management of the public place where the smoking act was carried out.
+
+Therefore, I said my colleagues abroad already in the 1980s-1990s, in Italy a law used to be respected after few years: the first year was issued, the second what tinkered with, the third year was either withdrawn or enforced.
+
+In business, you need more stability, unless your business has a zero time training and no depreciation and no "barrel rolling downstream" effects.
+
+There is an old book that bought in Germany in 2017 or 2018 (it is from 2017), called ["Silicon Germany"](index.php?page=298), and about the automotive industry, from a journalist perspective, clearly outlined what would imply a transition within the automotive industry.
+
+Including some side-effects of digitalization.
+
+If you were to read that "encore" on Womack's book, the Mitchell one, ["Reinventing the Automobile"](index.php?page=233), you would see that if, in the XX century, the automotive industry was nicknamed "industry of industries", a leaner, lighter, greener automotive industry will be potentially even more so.
+
+Recently saw some videos on experiments in integrating electric and fuel cell cars within the energy distribution network.
+
+It is still fine for now to work on experiments, with the concept of car ownership still present for a large chunk of the population.
+
+Anyway, will be even more important in a future where probably car ownership could be the exception- maybe not just for the 1%, but also for that 10-20% which will still live outside urban areas and, due to the dispersion, with limited or no public transport, even on demand.
+
+Albeit self-driving vehicles could change that too: why should you buy a car even if you live outside town, need it once or twice a week, work remotely and in virtual reality, and can have one coming your way in minutes, without even the need of a driving license and its associated hurdles?
+
+So, demographic and urbanization trends, as well as the "workplace of the future" line of research, and infrastructural development roadmaps should probably be within the any conceptual design of the future of automotive, at least in Europe, where towns and villages are a continuum, not a scattered presence.
+
+I will probably share in the future further material if I will be able to- but for now, the answer to the question in the title of this section is both: automotive, as other industries, at least in advanced societies, will increasingly need to manage a transition and a transformation at the same time.
+
+The European Union was on the right track when, during the COVID crisis, created the "recovery and resilience facility".
+
+We had to recover the economy, that had been crashed by COVID lockdowns, and build a more adaptive society, better able to withstand further crises.
+
+On the recovery side, five years after, I think that more or less we are on track (and I am referring to the whole European Union, not just to Italy), while on the resilience, I think we actually potentially reduced pre-existing resilience.
+
+Because the massive injection of funding created an expectation of further helicopter money, embedded within the strategic thinking approach.
+
+So, the cost of the recovery in my view was to potentially undermine future sustainability- also due to the kind of investments, and the following piling up of further injections: about energy, about bringing back chip production on our shores, about other elements of the green transition revised, about continuous promises on the reconstruction of Ukraine, and, of course, about the continuous tinkering with EU directives and regulations.
+
+Look at how not just automotive, but also other industries seem getting used to integrate the expectations of subsidies within planning.
+
+I remember that the Recovery and Resilience approach was supposed to become the one that will be adopted also for future disbursements from the European Union.
+
+Fine- but should embed the lessons learned over the last few years.
+
+Let's see if, beside the recent tinkering on anything from CSRD and the green transition, there will be a strategic repositioning and assessment of a sustainable way forward.
+
+Otherwise, instead of opium for the masses, we will have helicopter money for the business- while that would still be feasible.
+
+For now, the key concept of this article is: until there is a transformation, for now the automotive industry for the European Union is "too big to fail".
+
+The European Central bank and its digital Euro might replace the weaker, less sophisticated layer of European banking by providing basic services, but getting into more advanced ones would create a huge conflict of interests.
+
+It would not be so easy to abruptly replace the automotive industry, due to its cascading effects on so many other industries.
+
+I saw it first hand when there was the Parmalat crisis.
+
+My historical customer in banking, was in the same location.
+
+You would say: what do milk and cheese share with banking outsourcing and BPO?
+
+At the time, I had made a proposal to a customer to set up a UK branch for banking services focused on risk, after doing a research with an English partner who was in the banking industry, and a check there about the current status of risk reporting.
+
+Anyway, they shared many suppliers with Parmalat, as were two large companies in a relatively small village.
+
+Hence, while Parmalat was frozen, they did something that I was used to see in banking when the Bank of Italy had a "moral nudging" power, and advised stronger banks to take over weaker ones.
+
+So, former currency issuing banks in Italy, going back to when Italy was not yet unified, were acquired by other banks.
+
+And banks that would have failed were absorbed by others.
+
+My customer passed me a message: as at the time nobody knew how long would last the Parmalat crisis (which was a financial, not an industrial crisis), they were going to sustain suppliers to avoid losing everything from logistics to other services.
+
+Hence, the proposal was turned down by the board, and the suppliers were supported.
+
+Did not like the result, but found reasonable the rationale.
+
+Luckily for them, it did not last long, as eventually an industrial partner was found for Parmalat.
+
+Now, within the automotive industry in Europe, transition (technology) and transformation (market) at the same time would require economies of scale that a contracting market while competing with each other by investing on new models would not support.
+
+Hence, while on a pure business consideration might make sense to "scale down" some, from a socio-economic perspective, would instead be better to encourage further consolidation, and support the probable resulting economies of scale and reductions in payroll via resources disbursed to those directly affected, not to the companies.
+
+Today was announced the the European Investment Bank will set up a 75bln EUR fund to support startups, which could "move" around 250bln in resources via the markets.
+
+Fine- and, probably, being automotive an industry of industries, some of those made redundant by either "scale down toward a niche" or "consolidated and removing overlaps" might release engineering, market, sales, research human resources used to cope with systemic and product complexities, increasing the "scale-up" skills pool.
+
+Because the European Union still invests a lot in research, but then is unable to reach the market and scale up.
+
+So, a combination of resources for startups and new initiatives, scale down, consolidation, welfare to phase into retirement could actually help manage this dual transition-transformation.
+
+As Europe has to reinvent not just automotive, but it own way into cohesion, not based on subsidies, but on catalysts for a different development model.
+
+Let's see how the evolution of automotive and all those affected will be played by Brussels and the industry- hoping that for once there will be more industrialist and behavioral economists, and less bureaucrats, lawyers, and classical economists.
+
+Stay tuned!

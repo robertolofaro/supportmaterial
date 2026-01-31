@@ -1,0 +1,93 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250509_article.png)</center>
+
+This article is within the book blog section, as I wanted to collate some pointers that shared online on [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro).
+
+It is actually a "meta-article", as I will reference future publications that I am currently working on.
+
+In posts on the two social media profiles listed above (generally: on both Linkedin and Facebook all my posts are public, and both profiles serve also as an "open notepad" to highlight themes that will include in forthcoming publications, while sharing material and concepts that might be of use to others), shared something more about elements that will contribute to publications that will release over the next two months.
+
+Yes, there will be more than a bit about AI and its uses- I did in the past from "from scratch" (decades ago), then studied during 2020-2021 (courtesy of COVID lockdowns etc) various courses and how to use existing algorithms or develop new ones using what wasn't available back in the 1980s (when I first played with AI to develop).
+
+Anyway, will also continue to write about cultural and organizational change in industries I worked in (there are few I did not have direct experience of- including the public sector), and, on the social change side, also about Turin (my birtplace were I was made to return in 2012), Piedmont (the region where Turin is located), Italy, the European Union.
+
+Because it is not just business that will have to change- I think that President Trump and his "reshaping" is not a cause, but a consequence of a convergence of changes that matured over the last few decades- also 1989 was just a tipping point, not a "win" or a "lose" case.
+
+Beside some minimal experiments, the focus of my recent AI activities was on looking how to embed what I could not reasonably expect to do from scratch (train massive models) and integrate them into a "pipeline" concept writ larger: as I did in the past with other approaches (not necessarily with technologies), e.g. when needed to "embed" expertise that would take decades to develop operationally.
+
+Yes, I am not suffering from the tribal "not invented here", which was actually something that always displeased in my country- as I wrote in the past, the small size of Italian companies creates risks, but also opportunities for "fail early, fail fast", as we could have multiple points.
+
+Instead, in Italy our tribal obsession means that whenever there is an opportunity, the attempt is to reinvent the wheel if your own tribe does not have it- not to converge forces to extract the best from all the parties.
+
+As I shared with a friend yesterday, actually my concept of pipeline derived first from seeing the "logistics of political events and advocacy" in the early 1908s (as a teenager), then seeing in the Army what was behind organizing some activities (shared in the past details- from logistics, to training, to daily services scheduling, and administration), including by designing and developing software in my spare time (sold for peanuts my first software in the mid-1980s), to my first large budget (few thousands man days), on the very first project where I work.
+
+I was basically told, as I had experience in planning (in the Army), and had just been hired (as many others), to use a pile of documents containing specifications, and reference documentation on Andersen's planning approach, based on outputs, to produce a budget.
+
+So, did a number crunching that was eventually confirmed by the project closing actuals.
+
+In the first two projects between 1986 and 1988, saw on a larger scale how infrastructure too might be a constraint (and not just due to economics: if your window for execution is say 5 hours during night, all your software pipelines running overnight have not to exceed that window), working on an IBM mainframe environment.
+
+Notably in the second project, as it was a new general ledger for a major bank, replacing existing systems while of course not being able to shut all down for few weeks for a transition, it had to be a series of steps resulting in confirmations that eventually allowed to do a rapid switch.
+
+Since the late 1980s followed patterns that used across the decades- the "change, with and without technology" should really be "with and without techn&eacute;", i.e. structured knowledge- such as learning laws just for a project, or learning about what was key information for a specific domain/customer, or understanding the key element for a technology that had to be used in a project (as usually others were the experts, but you need to understand their mindset and lingo, to avoid misunderstanding.
+
+So, the idea is that, once you have a mental roadmap, you need to understand and who and what are involved in each "component" of your roadmap (from a phase to a product to a checkpoint/milestone/etc).
+
+And then, decide which components are in, which are out, and which should be involved in a cooperative effort.
+
+Which will bring a theme (outsourcing and integration of talents on a "variable geometry" basis) that will discuss in one of the articles that I am preparing.
+
+As I wrote when I shared the book experiment on blended AI that called "Episode 01" (the one on the 36 stratagems- see [on Leanpub, where you can get the digital edition for free or a contribution to my research activities](https://leanpub.com/u/robertolofaro)), the idea in that case was to see if I could do over a week-end what would have required 
+a) much more time
+b) more people
+c) additional resources
+d) few iterations of a) b) c)
+if I had done it the traditional way.
+
+I did a similar experiment (without AI) in 2018 ([see here](change)- again on a bit of Chinese culture, iChing).
+
+In that case, was easier, as all the "capabilities" needed to do that mini-book were available to me.
+
+Anyway, based on my experience in preparing a dozen or so mini-books before, as well as countless reports or "position papers"/"organizational change suggestions"/process&amp;methods designs for customers and partners since the 1980s, I had in mind what a pipeline should contain.
+
+So, I did simply see which steps should be done by which party, and which step would require resources (including knowledge on how to use the tools, not just the usual time/money) to produce results within the identified timeframe.
+
+Half-jokingly, I told my friend that blended my old approach with something similar to what did a Chinese company when acquired a truck production line from Renault, and was laughed at when the acquiring company soon replaced robots with people.
+
+An article on the International Herald Tribune (if I am not wrong- should check one of my backup libraries) reported that instead what happened was:
+_ identified that the robots required too much tune and maintenance
+_ used people to replicate processes as they were
+_ identified potential improvements
+_ designed new processes and robots to align
+_ put in place the new robots and processes.
+
+In my case, simply saw that there is potential to automate some steps in my publishing pipeline, but for now was faster to emulate them manually.
+
+Then, the first episode production was followed by an ex-post check, that will complete before producing the second "episode" of the Blended AI mini-book series.
+
+The same applied to experiments with Large Language Models- but, again, more about this in another article.
+
+So, discussed the forthcoming articles on different dimensions (represented by different article sections on this site):
+_ <a hreF="index.php?section=rethinking-organizations">rethinking organizations</a>
+_ [the social and political side of change (which includes also <a href="index.php?page=550">reporting on elections in Italy and the EU Parliament](index.php?section=diritto-di-voto))
+_ [citizen audit, i.e. data citizenship](index.php?section=citizen-audit)
+_ [organizational support, i.e. sharing information about experiments and prototypes (physical and digital)](index.php?section=organizational-support).
+
+But there is another dimension that is across all those sections: sustainability.
+
+There was today an article about a revision of how sustainability is "scored" by some rating agencies, which [you can read attached to a post I published today on Facebook](https://www.facebook.com/robertolofaro/posts/pfbid02ufQC1dP5aQyYjX8s6t8hTJPShLjLFFY3pFLwHuX25cnhvd4M16RDZVEabG4n44Vrl).
+
+Frankly, as I wrote there, my rationale is simple: I stand with UN SDGs as they were represented before- already Thatcher showed how tinkering with numbers to alter reality does not alter reality- builds momentum for a political tipping point.
+
+A common theme across the forthcoming articles (and Episode 02 of Blended AI) is the one I hinted at above, and discussed over 20 years ago within my e-zine on change, called BusinessFitnessMagazine (published quarterly 2003-2005, [reprinted in 2013 in a minibook](bfm2013), but without the Q&A and other sections with additional material to support implementing what discussed in each issue).
+
+And discussed also within [#Synspec](synspec), a mini-book focused on a theme that is within the title of this article.
+
+The first article to be published by the end of next week, after my visit to the Turin book fair, will be about an evolution of organizational structures and organizational cultures that I observed since the late 1980s gradually evolve.
+
+The current availability of large language models that blend common knowledge (the "best practices" approach) and make it easier to access is showing the long-term side-effect, thanks to disintermediation.
+
+Anyway, the next article will be just a first step- as there is a string of interesting consequences, that currently are the object of jokes and gossip, but could restructure concepts such as "scalability".
+
+Ability to quickly reshape without losing efficiency and actually increasing efficacy will be critical, in the future- there will be no time to try to reinvent your own wheel just to avoid having to share proceeds with another tribe.
+
+So, stay tuned- and keep following a simple rule: delegate execution, but retain (or rebuild) organizational memory, as that is going to be your differentiating factor in the future.

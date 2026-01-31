@@ -1,0 +1,361 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_20250704_article.png)</center>
+
+Welcome back- this is the second article of the series "Too Big To Fail 2 In Europe".
+
+This article is going to be around 5,000 words, instead of the 10,000+ of the previous one.
+
+Two key reasons: the previous one included an introduction and discussed a specific industry, while this one, focused on data, will focus just on the "political" and "organizational" side of data within the context of the role of the European Union and its Member States.
+
+Future articles wiil be focused on specific elements (e.g. AI, privacy, compliance).
+
+The previous article (or "episode", as I prefer to call the articles in a series), published on 2025-06-20 ([Too Big To Fail 2 In Europe: 1- introduction and the industry of industries #automotive](index.php?page=599)) was using as an example of my birthplace, Turin, as a former (automotive) company town was a good point of reference.
+
+I explained the concept of the series within the "introduction" section of the previous article, so I will not repeat it here.
+
+Probably, some, [looking at my CV](cv), would have expected now a second article focused on the second-most frequent industry in my missions 1980s-2000s, banking.
+
+Well, the focus is not myself, and banking plays an important role in Europe since the Middle Age, and I am a follower of historical associations on that industry, but...
+
+... within the European Union and, while I am at that, Italy and my birthplace, Turin, are increasingly more data-driven, and finance (or even its latest incarnation, fintech) is being embedded in our data-intensive society- and the forthcoming "digital Euro" and associated "citizen's wallet" will require something more on the data side.
+
+Somebody say that the European Union is a self-driven bureaucracy (European Commission) jousting with a former paper mill (the European Parliament), both trying to assert a political role.
+
+There is an element of truth, that [shared e.g. within the #ep2024 article series](ep2024), in those assertions: but both are data-intensive.
+
+Also, in less than a couple of weeks will share online both a new version of the CV, and some other information that will help to better contextualize my experience- provide more elements to understand which direction the articles will head into.
+
+Meanwhile, if you had followed both [my Facebook](https://facebook.com/robertolofaro) and [my Linkedin](https://linkedin.com/in/robertolofaro) profiles, you probably saw that over the last few weeks intensified my publication activities.
+
+Whatever I post on those profiles, is mainly commentary on events or publications, commentary that actually represents a "scrapbook" for forthcoming publications, experiments, or event projects and products.
+
+And, let's admit it, over the last few months there has been a significant intensification of slicing and dicing of the impacts of AI- current, and potential.
+
+Actually, it is the usual cottage industry of experts whenever there is something trendy- personally, I claim to be an expert only in "change, with and without technology"- implementing, not just analysis.
+
+And this implies continuous learning.
+
+When I had my own company, I was used, as I did even in my latest two FTC missions in Italy, to give some "time free" before the beginning of the mission and even signing of the contract to ensure that I would "hit the ground running", i.e. be able to at least attend meetings (as e.g. since 2012 my roles formally were mainly in coordination or recovery+coordination of existing activities) understanding what was said.
+
+A more structure example: in the 1990s, when supported various business intelligence companies based outside Italy, before starting to work with them on supporting business development in Italy or elsewhere, I wanted to understand the "forma mentis" of the software but also the company and the people that would be involved.
+
+This pre-emptive assessment allowed to do a triaging on what I could reasonably learn or understand before starting, what would take a phase-in, and what would, at various degrees ("triage" is about sorting out and understanding differences, not partitioning in three parts), would require other types of experts- that, then, verified that would be available within a reasonable timeframe.
+
+This could be summarized into: I defined my own "service delivery organization" before starting- as I dislike meetings whose purpose is only to "buffer" when somebody knowledgeable is available- are not just a waste of time, but also a powerful generator of entropy and recriminations, as often those "buffering" start delivering what we would call now, if done by an AI chatbot, not just hallucinations, but even outright fabrications.
+
+In AI, despite what I did in the 1980s and 1990s, and what I did as learning and experiments first in 2018, and then from 2020, and what I continue to do, I like to spot and identify those who really know- or, at least, could act as a reasoned filter on material from those who know.
+
+Yes, I carry out my own "pilot project", or even design and build (as did already in the 1990s) my own software product (as I had learned from other companies their own approach and studied repeatedly somebody else's products, also for competitive analysis)- but for customer projects, involve somebody with an adequate level of depth.
+
+My approach is why both customers and partners (in Italy and abroad) used me to qualify prospects, vet existing or potential technology partners or new collaborators, and aksi as act as Devil's Advocate during negotiations, reviews of partners or teams or projects, etc: it is a matter of risk assessment, as even in movies "casting" is not just a matter of mixing expertise and experience, but also blending people (or otherwise suffer from day 1 until the last day of production).
+
+Not rocket science, but just 99% perspiration and 1% inspiration, as somebody said long ago (T.A. Edison, I think; and yes, I know that Edison sometimes reportedly did skip the 99% perspiration and took over what others had perspired on and for).
+
+Anyway, this article will be about data, as that is the foundational element, and its uses, but as I did for automotive, will have a specific "episode" on AI.
+
+I wrote in the past [various articles about digital transformation in Italy](search.php?tag=digital_transformation_italy): so, no need to repeat- follow the link, and sample the articles, book reviews, etc: here, will talk about the role of data in transformation from various perspectives. 
+
+If you prefer visual (and quicker) information, you can also have a look at my [YouTube channel, @changerulebook](ctr).
+
+So far, I told you what this article is not about, and its context.
+
+Now, some contextualization, and the structure of this article:
+_ bridging from episode 1- automotive and data
+_ why "urban" or "urbanized" environment
+_ why data is too big to fail
+
+
+<b>Bridging from episode 1- automotive and data</b>
+
+If automotive is an industry of industries that, as I wrote in the first "episode", in my view covers within the European Union the same pivotal role that covers in the USA what the late President Eisenhower called "military-industrial complex", we cannot deny that there are significant differences between 2020s automotive and 1950s automotive.
+
+Data-wise, it is just starting to use its potential.
+
+The "knowledge content" of each vehicle is staggering.
+
+Also if you were to replace (how? by magic?) each and every computer chip or semiconductor within a modern car with a mechanical equivalent, still cars and other vehicles would be part of a data environment.
+
+A regulated data environment built on shared standards, compliance, reporting.
+
+Moreover, interconnected (soon even more so): is not each "individual vehicle" that has to be considered, but the overall flow (and overlapping of flows) within a mainly urban or urbanized environment.
+
+<em>Incidentally</em>: I consider "automotive" all that is related to mobility.
+
+<em>Incidentally 2</em>: if you were to remove all that electronics from a vehicle but while keeping the same standards of security, comfort, etc, each vehicle probably would be prohibitively expensive, and with a taxation that will mirror the need to collect and report data manually (plus additional non productive work dumped on owners, as it happened in other domains where automation is not yet widespread, e.g. reporting on waste produced).
+
+So, this second "episode" is about data.
+
+In my view, the future of mobility is still misunderstood from those within the industry, as they still stick to a tunnel vision built on a over a century of business continuity (across the industry, not individual companies), and, as shown since the 1990s, constantly try to apply the same solutions that worked in the past.
+
+I think that history books focused on past wars are useful for at least two reasons:
+_ generations of historians keep getting through them to assess on different dimensions
+_ human nature changes slower than we think in our technological world (yes, Polibius and Thucydides are still both entertaining and useful readings).
+
+And we have a classical example of what happens when past lessons are applied to a different context: look at the [Maginot line](https://en.wikipedia.org/wiki/Maginot_Line), built on WWI lessons to cope for a potential new war- which simply mainly went around it.
+
+Since 2012 I have been an "accidental tourist" and observer in and around my birthplace, Turin.
+
+After giving few times the benefit of the doubt, I understood quite well that local promises are not worth the air they travel on.
+
+Therefore, since 2012 returning abroad was an option that kept exploring, and from 2025 frankly it is the main choice- probably even leaving the European Union, following its involution.
+
+Too many locally are focused on "value extraction", and few are focused on "value creation".
+
+Better to share material for free online, and then let other pick what they need- I will find a way to make the sharing permanent.
+
+For the time being, I removed all the restrictions from scraping: if you want to reuse, it is fine with me (preferably following the CC-BY-SA licensing model, i.e. including the source and the links to the source, so other can "spawn" their own evolution from the source).
+
+Caveat, that I keep repeating since the early 1990s to customers, partners, prospects in cultural and organizational change activities:
+_ just because you see a logic at face value, does not mean that you can implement it
+_ any plan has to adapt when meets reality- and knowing how is where expertise and experience come into play
+_ unless you are printing the 1,000,000th bolt, expect a need to evolve (and even in that case, do a degree of preventive/predictive maintenance).
+
+If you read the first episode, you saw how I described the pivotal role of the automotive industry.
+
+So, I was not surprised few days ago that the usual request of delaying the transition out of the combustion engine turned into the equally usual request of subsidies-00 [and I disagree that that is the solution](https://www.linkedin.com/posts/robertolofaro_automotive-eu-automotive-activity-7346091249747001344-NNqB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg), as I shared on Linkedin.
+
+Funding is part of the solution, but, in my view, the key concept is: it is not just the industry that is looking at its past to find patterns for the future.
+
+Within the European Union, first due to the COVID crisis, we resurrected and expanded the "sprinkler money" attitude that, frankly, was in the past the key "budget item", protecting the livelihood of those in agriculture not because they represented the largest part of the economy, but because they represented, within each Member State, a compact source of votes.
+
+It is a matter of joint design of the future of Europe, not of subsidizing the old way while ignoring a transformation of the context that made that old way feasible.
+
+Data, I wrote, is the backbone of this article.
+
+And you have to get data where they are, not where you would like them to be, and not look just at the data that are more vocally expressed.
+
+When, as an early teenager, in high school did volunteer to attend a course on "primo soccorso" (roughly, "first aid"- but we learned just the basics, as there wasn't the equipment to do what I then years later learned from books, but never used), there was one thing that we were taught.
+
+It was that, in case of an accident scene, we should look first at those who were silent, as could have internal bleeding or other potentially critical internal injuries, while those who were shouting and crying could be looked at later.
+
+We are currently in the same condition: since the COVID crisis the attitude of the European Commission has been to please anybody who cried wolf, not developing and building a coalition across priorities, and even, in many cases, not having considering all the impacts of these "appeasement" interventions (and the associated sprinkler money).
+
+When you have too many priorities, and spread resources thin, what you obtain is creating plenty of smaller bureaucracies, each one with its own tunnel vision, and gradually the systemic view gets lost- and then, you need to coordinate the coordinators... 
+
+Something that I observed long before in Italy: as piling up this type of structures was useful as an employment venue for "beached" politicians after they ended their term in office, but still retained clout.
+
+Now, again about data: I wrote above about "urban" environments
+
+
+<b>Why "urban" or "urbanized" environment</b>
+
+A [large chunk of the population in OECD countries is already living there in urban areas, a whopping 82%.](https://www.macrotrends.net/global-metrics/countries/oed/oecd-members/urban-population)
+
+Already a decade ago there were discussions on how to convert e.g. electrical vehicles at night into part of the electricity distribution network, using them as "storage".
+
+Social networks are relying on advertisement, and therefore a "tunnel vision" that focuses on a specific, limited mix of themes is useful, from a business perspective.
+
+I said repeatedly to many: if you start looking at conspiracy theories, gradually you Facebook or Linkedin "stream" will turn your world into a reservoir of conspiracies.
+
+Anyway, this "feature" can be useful- and, for example, routinely search and look for specific themes on Facebook and Linkedin until their algorithm kicks in, and my stream starts getting post upon post about those themes.
+
+On Linkedin, it is easy- my posts and connections, and commentary on their posts, are useful to generate a constant update across those few lines.
+
+On Facebook, it is even easier: you need few searches, and you get your restructured stream.
+
+Over the last few years, first for bitcoin "mining", then for AI ChatGPT and others, at last within the IT and AI research we realized that energy is a critical element within a data -intensive society.
+
+Within urban environments, we got used to data as a natural side-effect of life, but its collection, processing, storage (or storage and processing), all require energy.
+
+So, my Facebook stream "tuning" was actually to receive more news about engineering, and notably energy storage and productions- and now almost on a daily basis receive news items that I did not have access to before, and would not have reached.
+
+Also if your vehicle has a combustion engine, if it is a modern vehicle, it is a data- and energy-storage facility, albeit only few vehicles really contribute data and energy to the urban environment where they spend most of their usable life.
+
+I started working officially in mid-1980s, but had the chance since the early 1980s to see multiple countries (mainly in Western Europe).
+
+Sometimes even negative events can generate positive consequences.
+
+Since my Italian driving license was stolen in Brussels while I was resident in UK, and neither Italy nor UK would provide a duplicate (the former because I was not anymore resident, the latter because I had not converted it yet into a UK driving license), I did not have any issue to travel around offices and customers in various countries- public transport and the occasional taxi were enough.
+
+And saw the evolution of public transport in Europe since the 1980s, not just as a tourist, but also as a city dweller (and through the eyes of other citizens) in multiple countries.
+
+When I tried that in USA (e.g. using the overnight train between NY and Boston, or using public transport to return from Seaworld in San Diego to my hotel, or using a taxi to go from my hotel to a jazz club and return), the locals were puzzled.
+
+Even at 70% or more of the population living and working within urban areas, we still have, or are going to have, 20-30% who will be elsewhere.
+
+In Europe, this could mean not just suburbia, but also villages scattered around.
+
+While working in Switzerland I saw that train stations were akin to bus stops- every few hundred meters, a station- so, while working for a banking customer in Bern or Zurich, it was easy to shuttle between offices and meetings.
+
+In other countries, when you leave the main cities, it is not so easy- you have "clusters" in the middle of nowhere.
+
+While traveling in Germany with my then girlfriend in the early 1990s, I saw small villages with large roads, due to an old law (that was being changed, to cover also other uses, not just roads), but it was still feasible to go around.
+
+And, decades later, when in 2017 was in Frankfurt during the summer to study German at the Goethe Institut, both students and teachers did not use a car to get there- even when coming from Mannheim, it was easier, cheaper, faster, more convenient to take trains, and then connect with local transport.
+
+While living in Brussels from mid-2000s, I remember how even the Metro was aligned with users: so, if I went to the Kinepolis (the large multi-screen movie theater in what was supposed once to become the new parking space for the Heysel Stadium, nearby the Atomium), and attended the last show, the last metro left after the end of the last show.
+
+In Italy, if you are outside town, it is not yet so easy, notably if you travel outside working hours.
+
+As it would be prohibitively expensive to provide continuous public transport with human drivers where there is limited or occasional demand, there have been experiments to provide "on demand", and in some countries have been announced plans to potentially use self-driving vehicles: by removing the need of drivers, but still providing mobility within, say, 15 minutes from calling, actually this could further rearrange the need of private vehicles- even outside urban areas.
+
+The COVID crisis generated also a shift of population from outside urban centers, but this new population brought with them demand for having the same level of services that they were used to while living in major cities.
+
+I shared in the past how, when there had been a significant amount of snow in a small village in Tuscany, the mayor said that his village had attracted many former city-dwellers, who elected to live outside the village, but then, when snowed, expected to have the same level of timely road cleaning as they were used to see in major towns.
+
+His complaint: few hundred inhabitants scattered around a large territory, few hundred kms of roads, it is unsustainable to provide the same level of service that they were used to.
+
+Ditto many years ago, when a Member of a club I belonged to told me that they had been forced to take over the water distribution network of small villages around Turin.
+
+The issue: a single apartment block in Turin had more inhabitants that many of those villages, and therefore maintenance costs would be unsustainable.
+
+Now, with data and automation, and not just scheduled, preventive maintenance, but also predictive interventions (i.e. forecasting where and when issues would appear, and intervene before they do), and the evolution of self-driving vehicles and robotics, it could become feasible to provide the same level of service with low-cost, non-human, roaming fleets of maintenance equipment and "crews".
+
+If this sounds sci-fi, consider that the European Union, as part of the protection of our cultural heritage, since decades in various forms is funding a series of "keep alive remote villages" initiatives.
+
+This shows another issue: it is not what you do, but how you communicate it and make citizens aware, that generates perceived value- instead, on my Linkedin stream I keep receiving notices about USB-C, data roaming, Erasmus, etc- all laudable initiatives, but their target is a limited slice of the population.
+
+A data-intensive society needs therefore a different communication approach from the old top-down XIX century one.
+
+Data democratization does not imply converting every citizen into data scientist, as some seem to be proposing by inserting AI etc in school curricula.
+
+Means adding what, in our technocratic society, many try do remove in the name of "efficiency": all non-specialist training (history, philosophy, and anything that goes toward "critical thinking" and "learning to learn"), phased-out to be replaced by "ready to eat" pills of immediately usable knowledge.
+
+The distance between data and its meaning due to the lack of critical thinking skills already gave visible results during the Brexit campaign, as discussed in the past.
+
+And I already quoted in the past how a small village in UK used to receive a constant stream of funding as part of this "heritage protection", voted overwhelmingly in favor of Brexit- only to discover that, being small and of no political (i.e. votes) significance, would not anymore receive funding from UK- as had been really provided by the European Union that they voted to leave.
+
+The key element, within the context of this article about data, is to consider:
+_ where most data will be generated by citizens- in urban areas
+_ where most data will interact continuously with other data- in urban areas
+_ where most data will influence the delivery of services- in urban areas.
+
+So, you have it: energy production, storage, consumption, via equipment, vehicles, or data collection, processing, storage, access, etc will, in the end, most occur in urban areas.
+
+Which implies that, probably, there will be an efficiency drive, to avoid wasting resources- but this should consider also what changes within the definition of "critical" infrastructure.
+
+From e.g. as I wrote in the past generating onsite in urban areas via 3D printing spare parts and components, as well as what I could call "zero km circular economy", to striving to have equipment (in any form and shape) used as close as possible to 100%, instead of sitting idle for most of the time, the urban areas of the 2030-2050s could be starkly different to what we were used to just 20 years ago.
+
+Incidentally: as a connection reminded me yesterday, after 2025-07-02 were started being closer to 2050 than 2000.
+
+As in the ["Hudsucker Proxy"](https://en.wikipedia.org/wiki/The_Hudsucker_Proxy) 1994 movie, the motto should become: the future is now.
+
+
+<b>Why data is too big to fail</b>
+
+There is a keyword that we in Europe got used to hear often, over the last few years: transition.
+
+Obviously, the most talked about are the green and digital transitions.
+
+Each one of them generates a continuous stream of data, and needs that will gradually evolve into a dynamic allocation of scarce resources (e.g. for car roads, but also electricity distribution to avoid a blackout whenever there is a new heat wave, in the future also frequency of driver-less public transport to cope with traffic peaks, etc).
+
+And anybody (people, vehicles, mobile phone, assorted devices) can be expected to contribute their fair share of data, to enable tuning resources to predicted demand, and avoid waste such as keeping air conditioning at refrigerator levels when nobody is around.
+
+We actually had a status pre-European Parliament elections, and one after a different majority was needed to confirm the new European Commission, and To summarize it, [we have also a page called "Transition pathways"](https://single-market-economy.ec.europa.eu/industry/transition-pathways_en),
+
+Whatever the end result, other connected elements are those that I already discussed above, involving different industries (not just automotive).
+
+Anyway, also if political choices were to generate a relaxation of rules, the current heat wave (which just is an encore) should be a reminder of what needs to be done.
+
+For example, Turin and the Metropolitan Area of Turin are both served by the same formerly fully owned by local authorities called SMAT- and yesterday had, unannounced, from around 18 until 20:45 simply no water.
+
+Maybe just a coincidence- but used to be that issues with water during the summer occurred in other areas in Southern Italy, not in Northern Italy nearby a major industrial center.
+
+Instead, newspapers reported pictures from Rome showing melting asphalt, and in Turin there have been recently repeated blackouts that newspapers partially assigned to the heat, and in Milan for a day a skyscraper had some issues that probably you read on newspapers.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/toobigtofail_20250704_from2025-06-30-18-26-07.png)</center>
+
+The skyscraper belongs to an insurance company, and that article stated that they activated an insurance clause to have everybody work remotely.
+
+I do not know if the underwriter was a company belonging to the group, but still it is a good advertisement for the need, in our times, to consider also climate risk within operational costs and provisioning, even if you are in a location (such as the center of Milan, in a skyscraper, just over a Metro stop) where nobody would expect massive floods or other impacts.
+
+Anyway, if you have a couple of thousand of people working in that building block, and you have to send them all home for the day, that is a risk worth covering.
+
+Another element in the political choices is how all the initiatives adopted by the incumbent USA administration really will impact long-term, e.g. by undermining research and academic structures that are considered "not aligned" with the new political trend, and how much will transform the research landscape.
+
+Or: will researchers really move elsewhere? Or will flatten existing structures, to then replace them with others, following a different approach?
+
+Or will, as it seems, be an indirect way to force a weakening of rules within the European Union (already some proposed to water down regulations, to "attract" companies and researchers that would like to leave the USA to avoid the conundrum of trade tariffs, but are used to the USA regulatory framework, and find the European Union approach to "strict").
+
+Anyway, just to trace carbon footprint across the supply chain or, even better, the whole product lifecycle (from raw materials and components, to production, to warehouses, to distribution, to customers, to entering the "circular economy" side of aftersales, etc), you need not just to produce data, but also to retain traceability.
+
+Within the European Union, the supply chain crises derived from the COVID period and the wars around us have both generated a flurry of initiatives.
+
+I will share in future articles some ideas and concepts specifically on AI and technology (not just IT), but for this article, would like to focus on the European Union data-intensive environment.
+
+Yes, China is running faster, and investing more, and obtaining a better placement.
+
+Just today, on Linkedin saw yet another "top 10" list, where only one entity in Germany and Harvard in the USA were within the top 10 research universities- all the others, were in China.
+
+Anyway, due to its composition (of 27 countries, plus UK that is formally outside but for many elements still follow a similar set of rules and, directly or via NATO, is integrated more than many EU candidate countries), the European Union is a massive "continent-wide data lake".
+
+Chaotic at times, with overlapping and duplicated initiatives across countries, but this could actually generate more potential innovations.
+
+The issue then is one of scalability and support- and also some European Union institutions tried to complement the weak European venture capital environment with additional funding.
+
+The key point is that the European Union, with its maze of directives, regulations, etc, and new forthcoming bureaucracies focusing just on AI and its adoption and policing, still has a gap between regulations and their implementation, as well as in managing impacts on the organizations that have to implement all that.
+
+Not too long ago, was reminded that the number of pages covered by the ["acquis communautaire"](https://en.wikipedia.org/wiki/Acquis_communautaire) fairly exceeds 100,000 pages- most produced in recent decades.
+
+Hence, this creates an opportunity for new nimble organizations to support companies and organizations in integrating with this data ecosystem.
+
+Moreover, interoperable data across all the Member States (and more).
+
+I wrote a decade ago a mini-book whose title was [#relevantdata](relevantdata), based on 25 years of experience in data projects.
+
+Well, the quantity of data that each new initiative produces, including in the future more and more continuous data, will require, to make it all work, a strong, resilient, and interoperable data ecosystem that is linked to European Union needs and choices.
+
+And a different concept of Critical National Infrastructure, integrated and coordinated at the European Union level.
+
+Just look at the distress generated across European skies over a decade ago by a single volcano eruption in Iceland, or few days ago a single data transmission unit in Milan affecting most flights in Northern Italy across multiple airports, and you will see the potential for ripple effects.
+
+You do not need a global event such as a pandemic, or a Tsunami going across a continent, to generate impacts.
+
+The European Union, to work properly, needs data and data sharing.
+
+It is akin to the example I discussed above, about removing all the electronics from a modern car, while expecting that to have neutral impact on performance.
+
+It could be feasible, but would be prohibitively expensive: imagine having to comply with all those 100,000 pages by doing everything manually- and imagine the payroll needed.
+
+So, if in the previous article shared why I think that for the European Union the automotive industry has a pivotal role akin to the military-industrial complex in the USA, we have a further weakness: we need a level of resilience of our data integration that, in all the discussions about banking union, etc, seem to be taken for granted, but it is still incomplete on the interoperability level, generating unnecessary costs across Europe, e.g. to comply country-by-country with compliance that actually derives from a single Directive, implemented in a slightly different way.
+
+For my non-European readers: a Directive requires implementation measures "tailored" by each Member State, while a Regulation, such as the GDPR, theoretically is immediately applicable across the whole European Union.
+
+In reality, as I wrote in my [2018 mini-book on GDPR from a business perspective](gdpr), even regulations such as GDPR have similar "don't count on me".
+
+Denmark, that took the rotating presidency of the Council on July 1st, could set the example on convergence, also because a degree of regulatory cohesion is needed to negotiate trade agreements, and initially had some "differences".
+
+You can read a [summary of the expectations on what role Denmark will play in this Euronews report](https://www.euronews.com/my-europe/2025/07/01/denmark-takes-over-eu-presidency-in-stormy-times-heres-what-to-expect).
+
+How secure is our critical data infrastructure, what makes business continuity of the European Union feasible?
+
+Quoting "Jaws": "We probably need a bigger boat" to take care of that data shark.
+
+And what is the bigger boat? Reforms.
+
+I worked officially in cultural and organizational change first in 1990, but actually had activities before.
+
+What I found curious is how many considered back then (and many still do) that a "revolutionary" approach was more complex than a "reformist" approach, but then adopted a "Big Bang" approach.
+
+As shared in previous articles, I disagree- both on revolutions, and on adopting "Big Bang" to introduce cultural and organizational change.
+
+Reforming implies changing hearts and minds, something easier to do in aggregates than on an individual-by-individual basis.
+
+Revolutions often result in changing the conductors, supposedly following a different score, but often simply giving a different rhetorical cover to many of the same behavioral patterns that were supposed to be replaced.
+
+The USSR [Nomenklatura](https://en.wikipedia.org/wiki/Nomenklatura) was really that closer to the workers in a factory than nobles under the Romanov? 
+
+I remember what my Latvian friends joked about the misconceptions that we from the West had about what was normal for them under the USSR (from caviar to dachas), making a confusion between what the Nomenklatura had access to, and what ordinary citizens received.
+
+In this series of articles, you will see that toward the end will always come to the point where, to avoid the specific "Too Big To Fail" element, will advocate to have both a transition and a transformation- at the same time, often involving the same people, and having to juggle conflicting priorities.
+
+Anyway, that should be the art of politics, something that within the European Union we still mistakenly align with administration.
+
+There is a key difference between automotive and data.
+
+Automotive is still, for now, a question of corporate affairs: while two friends could design their own car in a garage and then build a prototype, to go into production they would need a structure, comply with plenty of regulations, and, last but not least, deep pockets.
+
+If even Elon Musk, for [Tesla](https://en.wikipedia.org/wiki/History_of_Tesla,_Inc.), involved investors- and he himself was an investor, and there is a curious history of how then the original founders, himself, and others were to be "co-founders".
+
+Data, instead, as I wrote in countless articles and few books (e.g. [BYOD2: You Are the Device](byod2)), in our current technological environment where sensors, smartphones, even AI, etc are really becoming commodities, requires a diffused democratization.
+
+So, the tools of the (data) trade are subject to the forces of "democratization": marginal price, high accessibility also with either low or graded training tuned to needs and interest in active participation, high availability at low cost-per-unit, and, as in a democracy, having the same rights does not necessarily imply to invest the same effort.
+
+With data, you can be a mere generator by carrying around a smartphone with sensors, or you can be an advanced consumer-and-producer, one who actively integrated data produced with data from the environment, and back.
+
+And I am talking only of users embedded within the context, ignoring all the professional whose presence in that same environment is associated with their business or social role.
+
+To make a long story short: if we want to avoid the data "Too Big To Fail", it is not enough to unleash another round of regulations, set up new offices with hundreds of people and the usual nice pyramid over them.
+
+We need to do what we are increasingly failing with the political side of democracy: make the data-citizen aware and included, and contributing, and part of the Critical National Infrastructure.
+
+See you at the next article.

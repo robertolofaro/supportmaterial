@@ -1,0 +1,144 @@
+December 24th, most in Western Europe are thinking about Xmas.
+
+Personally, I prefer to look forward to 2025.
+
+So, before resuming the ongoing article series while crossing from 2024 into 2025, this week and the next will go for short articles, each one around a single word.
+
+Will be shared all before 2024-12-31, and hopefully would generate further material in the future.
+
+Therefore, do not expect my usual structured articles divided into section: just some "pointers".
+
+Anyway, my focus will be to take a different perspective on each word.
+
+The overall rationale? four corners in a circle (yes, I like [the Apollo 13 take on fitting a square on a circle and viceversa](https://www.imdb.com/title/tt0112384)), but will disclose the full circle only within the last "episode".
+
+The obvious inspiration of selecting four is the four directions (North South East West) and, in business, the [PDCA cycle from Deming](https://www.lean.org/lexicon-terms/pdca/#:~:text=PDCA%20is%20an%20improvement%20cycle,or%20Deming%20Wheel%20after%20W.) (that studied over 30 years ago in preparation of other activities)
+
+And this preamble will appear in each article.
+
+So, let's start: <b>episode 3- sustain</b>.
+
+Yesterday's article in this short series, about [provisioning](index.php?page=582), was focused on the core of preparation and execution, plus the lifecycle.
+
+The first episode was about the "framing" (around the concept of sustainability).
+
+The second initially misguided stating that it was about preparation, but then presented the continuous cycle of dynamically provisioning to achieve the intended (or revised) goals.
+
+This and the last step instead are not anymore nouns, but action verbs.
+
+In the previous articles, actions were embedded within nouns, and mainly focused on what would have made viable choices for and about the specific project or initiative, whatever its scope or goals.
+
+Also sustainability and provisioning included consideration of the "big picture", but, being driven mainly from those with a specific vested interest, despite all the brouhaha about stakeholder management, gradually could build a tunnel vision focused just on the "now" and its immediate aftermath.
+
+If you remember the previous article, there was a concept, "skeleton" force, i.e the minimal required for the project, initiative, service.
+
+In reality, in this third phase, the concept is that the "skeleton force" in my approach takes a roles that goes beyond the "retrospective" that e.g. various agile methodologies require.
+
+In this third phase, I disagree with those that assume that it is a hierarchical sharing, e.g. that just the sponsor or leader of the project or initiative should be involved: to extract value, those able to represent a perspective should be those contributing.
+
+If you worked with me, you know that when I see someone within the team that is actually able to contribute a different perspective that could add value, I do not care about their seniority- I listen.
+
+Just a sideline: I walk the talk, and therefore... as I shared in the past, I am used at the end of each mission to spend some time "crossing the Ts and dotting the Is", including by following training on matter that I already know and used, from a different perspective and as a refresher.
+
+In this case, as I have received requests to potentially work on projects and initiatives using Microsoft's ERP latest evolution, instead of SAP, decided to follow a string of courses from Microsoft on program management that are based on PMI, OGC's MSP, and others- but at my speed and with my purpose.
+
+Meanwhile, also received from PMI the information that the 8th edition of their reference is available for review.
+
+Hence, decided that end December 2024 and early January 2025 will be focused on both.
+
+As part of the string of courses (today should complete the third of seven, while in January I have other refresher courses on agile methodologies and preparations for some tests), there is of course a series of tests etc.
+
+One of the questions I had to answer was about the four key characteristics I think that a project/program manager should have to be able to work in current dynamic environments.
+
+My answer?
+
+<i>reliability
+competence
+trustworthiness
+transparency
+
+<u>reliability</u>: by consistently communicating with transparency with the stakeholders, and actively listening before making or proposing choices
+
+<u>competence</u>: direct competence, or integrating those with competence, and relying on information and not on assumptions
+
+<u>trustworthiness</u>: never promising something that you already know cannot be delivered, and keeping the stakeholders in the loop, forewarning of potential issues and in that case proposing also alternative scenarios
+
+<u>transparency</u>: creating communication channels that are used as a routine, and not just in emergency or to alert of potential issues
+
+the plan should have two dimensions: a continuous schedule structured communication on status and next steps plus what was already achieved, plus ad hoc communication (potentially also one-to-one) should a block be identified, to allow define option to remove the block, and present proposals if needed</i>
+
+I think that those characteristics would be pivotal to generate value, notably when you have to recover activities (something that implies both doing what was planned, and what needs to be done to get back on track), and therefore potentially additional workload has to be coped with.
+
+In this "sustain" phase, actually become critical.
+
+In many methodological approaches, most of what is described in this article is within the framework of "lessons learned" or even the more ominous "post mortem" of a project or initiative.
+
+Personally, I prefer by experience since the 1980s to consider that lessons learned should be tracked and shared long before the end of the activities.
+
+Moreover, the traditional "summary" phase (or its siblings "retrospectives"), should have two layers:
+_ one, internal to those directly involved, from sponsors to project team members, to (with varying degrees) stalkeholders.
+_ one, trying to liaise with the overall context.
+
+As shared also in the previous article, I think that the real benefit of agile or lean approaches is when you increase the level of expertise.
+
+Not mere rituals and painting-by-numbers, but different perspectives that contribute, under a shared Weltanschauung, to the whole picture.
+
+And to achieve this result, and make it sustainable, you need to have each contribution considered as produced by somebody:
+_ with competence (or who accessed to competence before sharing the contribution)
+_ reliable (as the information is as complete as possible, not just an egotrip trying to make universal a personal experience or bit of knowledge)
+_ trustworthy (as is not inflating expectations and hiding risks)
+_ transparent (as the communication is not a one-off, but a continuous).
+
+Of course, each party contributing could have its own motivation, not necessarily aligned with that of others, but that is the point of the "sustain" phase.
+
+Having a starting point based on common ground rules eases moving forward and providing decision-makers (who could be also those contributing) what is needed for an informed decision.
+
+In some cases these elements could create issues, and therefore it happened in the past that, while applying this approach, the contributions were held confidential to those attending, and it was up to them to manage the communication on their own side, as it happens also in negotiations.
+
+Obviously, there are alternatives- but frankly since the early 1980s, when I was as a teenager in active politics and interacting in Turin with the youth town secretaries of main political political parties, and then in the Army and around the country until the late 1990s, when I left, and then back full-time from 2012, I saw the consequences.
+
+If you avoid those elements, everybody will eventually start considering what you really mean, and interpretation upon interpretation will not just enter the picture, but became the founding rationale of decision, each party with its own perception of what was really meant.
+
+I will skip writing a long explanation, but a tweet with a quote of what a General reportedly said to an Admiral should do: "General Sir Gerald Templer to Admiral Lord Mountbatten: 'Dickie, you're so crooked that if you swallowed a nail you'd shit a corkscrew!'" ([see here](https://x.com/johnkiszely/status/922951540608000002)).
+
+Somebody would say that those elements I listed above are obsolete and not realistic, despite being part of what e.g. PMI and the old OGC used to preach.
+
+I call those claiming so ill-adapted to a modern world that is increasingly data-centric: dinosaurs and charlatans that are stuck in a control-freak Middle Age where a village could be almost a bubble where knowledge was transferred from father to son untouched and unmodified for centuries.
+
+Personally, already a quarter of century ago renounced to significant (due) amounts following my activities simply because, as I said to a group of French friends in Turin slightly over a month ago, getting that while being resident in UK and dealing with France and another country would have probably been a time-consuming activity taking a decade or so, even if successful.
+
+And your own personal time does not come back, it is a scarce resource.
+
+Of course, when you meet charlatans, you consider depleted any trust you had in them- funny how often those who so behave eventually (usually within one year or two) since the 1980s come back asking for an encore.
+
+In our XXI century world it is delusional to have all done "in house", like one of those 1950s multinationals that end-to-end from mining to melting to building products and servicing them, and maybe even managing landfills.
+
+It takes a crowd of unknowns to do almost everything, each one focusing either on "interconnecting" (for me, a generalist is a connector who has expertise in something, to understand what means completing something, but is able to blend others' expertise into a systemic perspective leveraging on each contribution), or doing a "vertical" on a specific expertise.
+
+The only currency that can keep them together is trust: something that takes a long time to build, is quickly lost, and if misused just due to a temporary power position, takes forever to rebuild (if ever).
+
+You can "buy" your way back into trust, but, frankly, becomes for a while a mere transactional element (quid pro quo), and takes a long time to expand into something more adequate for our times, i.e. a pre-emptive trust so that each party becomes de facto a trusted "antenna" for a specific expertise or connecting ability.
+
+If anything, because keeping pace with innovation (and fostering innovation) implies also having antennas that you can use to see trends and potential sources of innovations.
+
+And if your antennas are misleading, you switch them off or, if useful as decoys for others, simply pretend to listen while ignore them, and minimizing the resources wasted on them.
+
+When an humble washing machine or a car contains electronics and software produced by a collective of companies working along multiple standards, and every nook and cranny of ordinary life revolves around regulations and integration across an endless array of suppliers, organizations, and structures...
+
+... you have to consider that it all works if each component is following those elements listed above.
+
+Otherwise, you start having to "buffer", "hedge", etc- in so many layers and rounds to avoid potential misalignment between reality and pretense, that you will end up allocating an inordinate amount of resources to... suspicions.
+
+I saw it already in the 1980s in Italy: lack of communication and willingness to follow through generated curious cases where instead of doing something rightly once, multiple variants were prepared just in case.
+
+An immediate consequence of the lack of due process and reliability across the whole knowledge pipeline (who does what- supposedly) is the declining productivity per hour worked- even counting only the officially reported hours, and not the whole total really worked (or wasted).
+
+So, going back to the point of few paragraphs ago: if you feel that, in order to do this step in a significant way, you need to have two layers of communication (one internally to the discussion team charged with this phase, and one before and after, with each contributing team), so be it.
+
+Compromising on the values within this phase is instead the best way to generate both negative externalities affecting even the direct stakeholders, and future ripple-effects absorbing resources.
+
+Undermining motivation and morale by discounting the reliability and trustworthiness of any communication (like the usual vision, mission, and all the other corporate and social paraphernalia).
+
+And even any effort at generating motivation through "nudging", "gamifications", and other behavioral techniques, such as micro-learning, etc, that became so common in OECD countries since the beginning of the XXI century.
+
+So, for now, have a nice evening, and hopefully see you tomorrow evening for the last article in this short series.

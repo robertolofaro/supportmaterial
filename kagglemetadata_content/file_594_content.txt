@@ -1,0 +1,323 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250429_article.png)</center>
+
+This article is about the future of business as I see it, an evolution of what I already shared 2003-2005 in my e-zine on change ([reprint here](bfm2013)), and, on talent management, in a couple of further books, [one initially "on commission" but evolved into something else](bsn2013), and one [specifically on integrating in a fluid organizational structure expertise that does not make sense to develop internally](synspec).
+
+I shared in previous articles commentary also on my birthplace, Turin, [as of today, 204 article in English since 2017 reference it](search.php?tag=turin), plus others in Italian from previous years (and there are others that published while in Brussels, from 2008).
+
+My approach to designing organizations or revising projects (something that I was asked to do officially before 2012, only unofficially after that year) is linked to purpose.
+
+Or: I remember how 20 years ago the founder of a startup that was supporting (business and marketing planning- won also a prize) criticize my lack of recognition of the "progettualit&agrave;" of Turin, by which he meant the ability to "think" projects.
+
+I replied that, in my book, "progettualit&agrave;" means not just "designing", but also delivering.
+
+The local commentary that get routinely even in-between missions that I accepted from 2012 in Turin is that I do not understand the local customs and approach, and should comply.
+
+Frankly, I look at results: you can create hundreds of quangos, empty "cathedrals in the desert"- and certainly Turin has the local resources to keep all of those already existing (and more) afloat- albeit resources to really deliver and create something self-sustainable are dwindling, as shown by the constant stream of announces over the last decade, immediately followed by requests for national or European funding.
+
+Moreover, just because I had a hint on the rationale of the territory, if you look at my CV, really after mid-1980s I was mainly outside Piedmont, and 99% of my experience was developed either in other Italian towns, or abroad, while locally, notably since the early 1990s, mainly was asked to reuse what I had invested on developing elsewhere.
+
+Pity, because it was not always so- I just visited an exhibition on the 1943-1945 civil war in Italy, what we call "resistenza", and the short interviews of those who joined back then showed a different sense of shared purpose, allocation of resources, and focus on results, not on obtaining a sinecure (what we call in Italian "strapuntino", i.e. something to lean on, if you cannot get a proper chair at the leading table).
+
+I shared within those 204 articles in the past also plenty of bibliographical references to number crunching and sociological studies about how did we get where we are now- so, I will let you go around and search.
+
+Of the two mini-books referenced above, [#synspec](synspec) implies a dynamic management of talent: as shown by Big Tech, what you can let develop as an external, ancillary "cottage industry" relying on your patronage and willingness to leave open doors, gradually can make sense to internalize- in the past, it was simple "cannibalization" of the customer base of independent innovators, later turned into the routine of tech M&A, albeit there are still some who do an 1980s-ish attempt at free-riding.
+
+As I explained a decade ago to a customer who said why a large a company should deal with a 20-people tiny outfit to develop a new business, sometimes actually larger companies know that their internal structure is not geared to foster innovation and the associated failures.
+
+So, from readings, but also personally from the 1990s in business, routinely saw either companies leaving a "back door" on purpose to let other experiment at their own risk but with 100% motivation, or seconded some of their managers to new ventures outside the corporate boundaries, albeit with service contracts using resources from the main company, with the gentlemen's agreement that, if the venture were to fail, they would return to the fold with new experience and get a re-assignment.
+
+It varies with cultures: in 1995, I remember a Japanese classmate from the financial industry telling me that he had got what an American colleague told me was an unusually good deal for a Japanese back then.
+
+Meaning: he was paid 50% of the costs to study and live in UK, to then stay there in a new outfit, but had to release all his portfolio in Japan before leaving.
+
+I was told back then that the standard was simply to be shuttled elsewhere, with just an initial phase-in, and lose all seniority if you were to ask to return.
+
+Across the years, I saw many combinations, from fostering new external outfits and then seconding management there as a phase-in before absorbing into the fold of the main company, to joint-venture, to joint initiative, etc.
+
+And also the reverse- acknowledging that something was not anymore strategic, or had become too used to access corporate resources to develop a market position without regards to the real return on the investment (so, basically, transferring its own marked development costs to the overall structure), or simply finding a business partner who was more focused and able to generate value from a culture and assets that were marginal to the main one.
+
+As you probably know, since 2012 [shared online mini-books on change](published) that ranged across different dimensions of my past experience, research, applied research, and ongoing observation, experiments, and "testing the ground".
+
+I am currently working on few data projects- and, how chaotic it might seem to my observers in Turin and Italy (and also some feed-back from abroad), there is a convergence.
+
+Trouble is, in Italy frankly had to cut too many dead branches- not only generating less than was used to, but also absorbing disproportionate resources without any reason: as an American friend called it, the "bang for the buck" is lopsided at best, here, if you do not belong to a tribe- and resume building for others is not really something that makes sense to subsidize. 
+
+I will be frank- a draft of this article has been seen my others yesterday, and promptly commented: it is how digital privacy works in Turin, my birthplace.
+
+Anyway, I had some hints in the early 2000s, when I was living in London and supported local companies and startups in preparation of my (then scuttled) return to Italy.
+
+So, when I was made to return from Brussels, over a decade ago, except applying a polarizer filter on my screen to at least act as a disincentive about "hovering" physically on my back, assumed that each and any bit of digital traffic in Italy, if there was enough interest, had no privacy.
+
+Yes, I worked as a consultant also on data privacy, and [a book on the business side of GDPR](gdpr), back in 2018.
+
+Still, it was under the assumption that that maybe applied to others.
+
+It is anyway somewhat entertaining when people try to elicit reactions by either reading verbatim your email in front of you (as did somebody in Brussels), or quoting what you said or wrote to somebody else on a non-business channel.
+
+Even funnier, when, a decade ago, somebody complained that I had used a phone number that they did not have (I do not know if it was a British number that I had reactivated, or a new Swiss number that temporarily had, as there was a potential to return working in German Switzerland).
+
+I shared in the past other funny "cameos"- as when locals, due to communication overload, get confused on which information passed through business or private channels, and quote either mistakenly.
+
+Probably, my fellow Italians, already "paranoid at the hedges" by culture (to quote a phrase from Henry Fonda within "Le Serpent"- funny movie), usually react by doing a kind of hilarious cloak-and-dagger to hope to keep confidential, as if they were in the XV century, and not in the XXI.
+
+Personally, I am more for a "saturation" approach- inspired also by "The Light of Other Days", a 2000 novel by Arthur C. Clarke and Stephen Baxter, but mainly from experience as a kid in Calabria, where saw how much a pervasive web of mutual obligations implies that private and public officers in Italy are more subservient to the demands of their own tribe than to their official role and payroll.
+
+So, while still in Turin, Piedmont, Italy, will keep going assuming that the local grown-up kids and gals like playing with their XXI century toys as if they were in the XI century with a village-based economy.
+
+Which, frankly, gives you a degree of freedom- only the paranoid would do a kind of "Orange Book" approach, cocooning in a false sense of security and privacy while allocating a disproportionate chunk of limited resources to pointless "protection".
+
+I am fine with just a bit to protect files, but assume that here anything that goes online or is shared is de facto handed over within tribes.
+
+Hence, I already wrote to American friends with whom in the past discussed also (pro-bono) confidential activities for their business activities to avoid using electronic channels: if and when will be useful to brainstorm together, will be elsewhere and without electronics.
+
+Unless, of course, their purpose is to spread rumors- then, Italy and Turin are the best location for ["astroturfing"](https://en.wikipedia.org/wiki/Astroturfing), to prop-up (or undermine) share value.
+
+Trouble is: locals are so much used to this approach, that get more easily duped.
+
+I shared in a previous article [From a palette of initiatives to an emerging convergence: industrial policy and the Turin case](https://robertolofaro.com/index.php?page=593) what AI told me about local initiatives since 2012.
+
+One week ago, [released a book that was one of my week-end experiments](https://leanpub.com/blendedAI01) (available also for free), experiments that historically covered different domains.
+
+In this article, after this long contextualization preamble, would like to discuss again what I think should be considered part of systemic sustainability, but integrating other concepts that I already discussed in the past (e.g. the "fluid" organizational structure, which is not simply "mission-based"), some bits about my ongoing experiments with AI from a cultural and organizational change perspective, and would like also to pave the way for further publications.
+
+Few sections:
+_ background
+_ embedding AI concepts
+_ moving forward.
+
+And now, a short section with some background information about my "experiment" approach.
+
+<b>Background</b>
+
+I wrote within the first paragraph of "week-end experiments".
+
+To be precise: since at least the 1990s (when first had my own VAT registration), in business for obvious reasons the execution is carried out over a week-end (generally, Friday to Sunday), but developing the idea into a concept that can be implemented might take much, much more time.
+
+Yes, I have again a VAT registration since January, and even registered for EU-wide activities (VIES)- but, so far, beside "free riding" requests, nothing was signed, hence at least for now I had no paperwork to file (no transactions, no filing- but year end will have to).
+
+It is funny: when I was billing 200EUR/h (150EUR/h to partners), some British colleagues in Switzerland said that I was "dumping", as they charged more than double, and in some cases were doing activities with reduced impact.
+
+Well, then accepted to reduce my 1600EUR/standard day to 600EUR+100EUR every eight hours to work on Italian Government projects as part-time project manager in Rome for a partner, and...
+
+... ended up paying to work (as I had promised to follow some activities, but in the end stayed in Rome also when unpaid), and having the new rate as the "ceiling".
+
+Funny when I am contacted and told that should do what I was doing at the older rate for even less than the current reduced rate or for free... to support somebody else's business (that charges its customers).
+
+Hence, shifted online what I was doing until then (such as business development, strategy, business and marketing planning, product/service concepts, audits, etc), and restricted my activities to what was only part of my previous activities (such as project/program/pmo/change management).
+
+Anyway, "occasionally" since 2012 in Turin and Italy was asked to propose organizational structures and processes, or follow organizational change initiatives, to review depreciation of assets, and other activities that were part of my roles in the past; roles, as usually worked on multiple accounts at the same time, even in different countries.
+
+Puzzling- but it happens in a tribal economy, when you do not belong to a tribe.
+
+Since I returned to Italy, I saw that local tribes showed more than an uncanny ability to generate countless initiatives supported first by local resources accumulated by past, more productive generations, initiatives that deliver nice containers but fail when compared with foreign initiatives focused on delivering impact.
+
+As an example, yesterday was told that a local facility was praised by somebody who had just visited Station F in Paris, as found that the facility in Turin was much better.
+
+Now, unless your aim is to win an architectural prize for interior design subsidized by banking foundations and bank-related entities, my question, if I had met that person, would have been: what do you think that still is missing to generate the same number of "unicorns"?
+
+According to a quick websearch, as of 2024 France had 20, Italy had 4- none of them in Turin, despite having seen since the early 2000s a flurry of initiatives (and I shared in the past a commentary I heard from visiting members of foreign ministries at a convention- they too found that the results achieved should have been achieved via "organic" results, and therefore did not understand the value delivered).
+
+So, I am looking forward for plans to achieve the real impact and purpose: wining and dining visiting guests can make sense to market a territory, but when you want to have scalability to be achieved, you need to attract more than "bon vivants- work-life balance yes, panem et circenses no.
+
+In Italy there are too many incubators, accelerators, startup support initiatives, generating an ecosystem of jobs supporting that apparently so far did not deliver the expected results- only jobs for those working into them.
+
+As for my ongoing experiments, you can find some examples within the section on [Organizational support](organizationalsupport).
+
+I know that, if you glanced at my [CV page](cv), you would expect only "experiments" involving business, IT, or the like.
+
+Actually, I have been carrying out experiments for as much as I remember- also as a kid, and sometimes the experiments had (literally) hilarious effects, as when, in elementary school, I tried to replicate wine by pressing grapes, filtering the juice, making it rest, and...
+
+... one day my parents came back home and I and my sister were tipsy.
+
+Or, more positively, again more or less the same age, when decided to test planting in a pot some vegetables- to naysayers, I managed to help seeds turn into Brussels sprout, cucumber, and other vegetables.
+
+As I was a kid, beside watering, my approach was to experiment... talking with plants (late 1970s, it was a big thing, communicating with plants).
+
+My teenager experiment mix was more variate- and included electronics and modifying clothing (the latter is something that frankly, in a simpllified way, kept doing- most of my clothing has some tiny modifications, from adding internal pockets, to replacing or reinforcing finishing elements, ditto for backpacks and boxes).
+
+And I wrote software. And sold computer games and used books. And did political activities also outside Italy.
+
+All activities that, frankly, helped in building up instincts that used then first in the Army, then in business (including pro-bono and startups).
+
+Yes, I did also print pictures (B&amp;W for cost reasons- as, anyway, my interest was mainly building- most of my pictures have no people visible), and my hobby lasted long enough that I remember, on a training exercise in Sardinia (the only field exercise that I attended while in the Army, Artillery Specialist) my Lieutenant said to me to take off the camera from my neck (no, no Robert Capa, as I used E6 color slides film, but apparently some of the pictures I took back then were... good enough to be removed by the development shop).
+
+Do not worry- within the [Organizational support](organizationalsupport) section there are more contemporary elements, as actually are my prototyping experiments on processes, designs, clothing, electronics, and, of course, software- from number crunching to AI to presentation and publishing approaches.
+
+And I plan to add more, once I achieve a "minimal viable product" stage for a working prototype.
+
+So, let's shift to the subject of this article, linked to the [BlendedAI](https://leanpub.com/blendedAI01) mini-book.
+
+<b>Embedding AI concepts</b>
+
+If you read the [first pages of the 36 Stratagems book that shared over the Easter week-end](https://leanpub.com/blendedAI01), you probably expect something akin to a production schedule.
+
+Frankly, would be:
+_ boring- minutiae
+_ pretentious- what worked for my specific needs, is not necessarily the best for you, or maybe you have even more advanced capabilities
+_ last but not least, a waste of both my and your time.
+
+In my "week-end experiments" approach, my aim is always to learn "mental patterns"- generally because I expect then to work with or coordinate or interact with people who have specific "vertical" expertise.
+
+Without claiming that my week-end experiments and their preliminary preparation phases have any universal value, at the same time do not expect such experiments to "build" a forma mentis- only to allow sampling some "signposts" that I would then use when interacting with those claiming expertise.
+
+Mainly, to assess their "depth" and "breadth".
+
+You probably know the old joke about getting a PhD:
+"To acquire a Ph.D, you need to learn more & more about less & less until you know everything about nothing" (see the [discussion on Quora](https://www.quora.com/How-much-truth-is-behind-the-old-joke-To-acquire-a-Ph-D-you-need-to-learn-more-more-about-less-less-until-you-know-everything-about-nothing)).
+
+The smaller your business, the less you have space for hyperspecialists- unless your business is selling hyperspecialists.
+
+And this applies in Italy as I saw it across the country since the 1980s: local companies often lack the organizational structure and organizational culture to grow "organically", and certainly, as I saw while selling training on methodologies in the early 1990s, but also now that there is continuous demand to have graduates "ready to eat" in business, it is still an unsolved issue.
+
+Since the 1980s in business, often ended up being asked formally or informally to interview candidates, for either employers, partners, customers; first in Italy, then abroad.
+
+In some cases, my role in interviewing, when they were "fresh" from school, was to assess their "corporate culture match"- and my prior experience in sales frankly helped in smoking out those who had been "prepared" by other employees- too many answers that were too perfect, and, when asked side questions to have a perception of their potential to mix-and-match, emerged often a "persona" that was inconsistent with the "canned" answers that they had given before.
+
+When, in the first decade of this century, helped a partner to revise, audit, prune, engage consultants, more often than not I was confirmed in my positive and negative choices.
+
+In the 2010s, I saw a proliferation of certifications, where often a 3-day course was planning to deliver what you will learn in decades of experience.
+
+So, instead of having to grow through needs and capabilities development via on-the-job training and the "stepping stone" confirmation courses to cross the Ts and dot the Is, as I saw in the 1980s and 1990s, it was a "learn the answers, do not ask the rationale, and paint by numbers".
+
+Which is good way to increase fast your workforce of "experts"- as all the right messages are there, all the right lingo is there, and if you mix-and-match them, they all sing as in a choir.
+
+Provided that reality complies with the tune that have been taught to sing.
+
+The 2020s started with a rethinking about the role of experts and certifications, but after COVID we had an explosion of remote activities and, at the same time, affordable AI.
+
+An explosive mix, as somebody with basics of the right lingo might ask models training with tons of pages of the same, and obtain answers that would have been taken weeks to deliver.
+
+With a caveat: the human answers were contextualized to the specific needs, the "canned" answers from AI, unless you have the expertise to tune it and rephrase answers, are not simply "harmonized"- end up being way too often a "one size fits all".
+
+Another joke that shared recently is how many students within specialist branches  (law, medicine, engineering) started to act almost as assistant to a selected AI tool, than the other way around, and how often "canned" answers have the typical structure of say a ChatGPT or other bots.
+
+The smartest students know how to rephrase (or ask to rephrase), the laziest... even copy the details that give away the source.
+
+Including that annoying habit of using emoticons within something that should be "business fare".
+
+This section is going to be the longest of the article- and for cause.
+
+The overall concept is not to use AI within your workflows, but to follow an approach similar to the one that I adopted whenever working just on cultural and organizational change involving just humans and... introducing new processes, technologies, or simply compliance approaches and their consequences.
+
+As I said to customers in the 1980s and then in the 1990s: no introduction of a "tool" (say a "techn&eacute;"- structured knowledge) is without organizational culture consequences.
+
+The wider the scope, the deeper the impact- visible and de facto.
+
+Jump back in time between the late 1980s and late 1990s.
+
+Back then, companies started adopting quite often "packaged" solutions, e.g. for CRM or ERP, even when they had resources to create their own resources.
+
+The rationale often was the potential of a quick deployment and lowering Total Cost of Ownership- which includes not just the initial development, but also operations, maintenance, and evolutions to align with the latest trends.
+
+The fly in the ointment was that, of course, while some software companies created "variants" for each market segment and industry (and some risked going belly up by having too many versions to maintain with diverging needs and limited resources, as diverging needs implied less reusability and more dedicated resources), most companies (those that are still around in busines software) adopted a "portfolio approach" to products development.
+
+Specifically, tailoring their solutions was shifted to system integrators or consultancies (including in-house), and their products had something closer to a Lego(tm) brick structure, with basic components providing core services, and an increasing array of "complements".
+
+So, they standardized their own offer, and, accordingly, customers had to learn how their business had to adapt to use those solutions, or otherwise trying to adapt solutions to their business.
+
+As some customers said in open talks in user groups over a decade ago, the latter path both removes the value of using an off-the-shelf solution (as each evolution of the basic product implies reviewing and potentially redesigning each adaptation), and was also hugely expensive- both initially, and both in evolutionary terms.
+
+Sounds familiar?
+
+Recently read some interesting results of "quick win" approaches to building corporate GPTs, by having a system integrator piggy-backing on a major model.
+
+On Linkedin, somebody posted the funny conversation with a "customer support" agent that, through skilled "prompting" by the user, ended up complaining, apologizing, and even criticizing the offer of the company that supposedly was representing.
+
+If any human support agent were to do any of that, would be fired on the spot.
+
+You can search [my Linkedin stream of likes and comments](https://linkedin.com/in/robertolofaro). to find that and other horror stories.
+
+I will let others to share solution (and consulting fees) on how to avoid that- it is not and is not going to be my business line.
+
+My interest, as shown in that [BlendedAI](https://leanpub.com/blendedAI01) mini-book, is to explore concepts and identify how to integrated them in business.
+
+It was Decision Support Systems (basically, models to crunch numbers across multiple dimensions to feed algorithms representing how the business worked, to produce a report, the mix of parameters to achieve a specific business goal, or scenarios on what would happen if current trends continued with limited variations)..
+
+Then it was methodologies.
+
+Then it was datawarehousing, business intelligence, and an assorted array of compliance initiatives.
+
+Then it was a long list of different approaches, processes, technologies- depended on the partner, the customer, or even just the "current buzz".
+
+In each case, e.g. as I shared in the past ISO9000 for quality, the worst choice is simply to add as a cherry on top whatever is new to what it is existing.
+
+Any new element will carry out, as I wrote above, it own "embedded culture", and "contextual expectations".
+
+Therefore, while it might be tempting to convert a pile of support document into a chatbot, first it makes sense to map the organizational culture and structure represented by those documents, including levels of service, product/service specificity, market specificity, audience specificity, or blend thereof.
+
+Once you have this map, you should get also similar information about your "AI addition" (before becomes "AI addiction").
+
+Then, identify your "target operating model", and "roadmap" to convergence.
+
+Remembering that, h&egrave;las, nowadays it is not a matter of years- sometimes updates are released impromptu in weeks, before you can even digest the previous one.
+
+Therefore, while in the past you could have external resources building up for you and then have a "return on the investment", nowadays, if you want to embed AI without investing in creating your own model, you have to think in terms of business continuity, not just project or program management- i.e. should be a portfolio of initiatives, but adopting as much as possible a "lean" mindset.
+
+About building your own model: training models might be expensive, and many will advise you to just "recycle" a huge behemoth and add on top your own layer.
+
+I do the same- but I do not expose the model to outsiders, and know the limitations of my scope.
+
+If you have narrow needs, it makes more sense, once you have mapped both your status, needs, and model as I wrote above, to consider in terms of risk management: if your scope is really narrow, maybe it is safer and not that prohibitively expensive to train your own model (or have consultants do it on your behalf).
+
+There is an interesting ongoing debate about the future of AI- but, frankly, the key element to consider is that AI feeds itself with other AIs and what human provide.
+
+Hence, our own communication distortions can have a disproportionate impact on model's performance- and, if you use external models as your reference layer, you would need a constant monitoring on evolution, something that probably is better left to "model experts" providing that continuous mapping and assessment as a service. along with integration/alignment services, under the coordination of your own internal "map" and "integration map" owners.
+
+Because, as it was for previous technologies, once released within the company, it is to be expected that there will be more demand for additional uses.
+
+And if your initial mapping was too narrow, you risk being overwhelmed by unintended consequences.
+
+Akin to what happed in the real world if you were to buy a city car (the typical dimension of a "pilot project"), but then started thinking using it to join the Paris-Dakar (the typical impact of a "high visibility" project).
+
+All of this is not built in a vacuum- and requires a different kind of organization.
+
+<b>Moving forward</b>
+
+As usual, this article is more about pointers that solutions- and the expectation is to have gradually other prototypes worth sharing, with associated discussion, examples, etc.
+
+Actually, I have few channels where I shared also in the past a bit of different forms and dimension of presentation:
+_ [YouTube](ctr-channel), for the visual side
+_ [Kaggle](https://kaggle.com/robertolofaro), for the data and data-based analysis
+_ this website, for more in-dept material
+_ [mini-books](published), to share 50-100 pages focused each time on a specific theme.
+
+There are also other channels, the main ones being the "stream" on both [Facebook](https://facebook.com/in/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro), to share links to news, posts, reports, and quick commentary and that and more.
+
+Anyway, if you read this article from the beginning, and glanced at the mini-books whose links shared across, you will see hints about "fluidity", i.e. a different way to design organizations.
+
+This article is within the section that is focused just on that- "Rethinking organizations", as it is a first step on presenting concepts about organizational design in our current times that evolve on what shared (and worked on) since the 1990s.
+
+In the 1990s for a large customer proposed first at the project/program/initiative level (my role was on designing and delivering a new methodology) a matrix-based approach with a twist.
+
+I know that if you followed "formal" training on change, project/program management, lean, you heard of different types of "matrix": and it is true.
+
+Anyway, you should not think about them "mechanically": you need to integrate any model within the specific corporate culture- and the "behavior" of your newly design "matrix" should be consistent with the corporate identity, both the one perceived within the company, and the one that projects outside.
+
+It would take a book to dig into these few lines, notably when talking about introducing processes and concepts that are not "static", or "manageable by design".
+
+The "learning abilities" of AI imply that actually it is not static.
+
+My quick suggestion is: do not think about AI models in terms of software, processes, organizational structure- but in terms of KPIs.
+
+Nobody with a decent grounding and experience on corporate Key Performance Indicators would design them and then cast them in stone: they will have to rely on a constant feed-back cycle that would "embed" also evolution, in terms of content, constraints, and, of course, strategic choices.
+
+Now, if you consider using external models, you will need somebody able to understand how that model is evolving, strenghts, weaknesses, etc- something better done by a "model priesthood" that does that on a daily basis, than somebody within your own structure.
+
+As I said to customers when implementing a matrix approach, to justify the concept: if you take an expert in A, and put that expert into a team where there is little demand, gradually will not only fade away, but will shift from being an asset to a liability.
+
+Because the past role as "expert" on A, not supported by continuous use and evolution, would turn that expert into a roadblock for any innovation concerting that specific area of expertise.
+
+Hence, better to think in terms of circles of expertise and, as I wrote in previous articles, [the structural elements of change: part 2 - #flow s #orchestration](index.php?page=592) orchestration of flows.
+
+Going back to the initial contextualization: probably, the first area where this design would be easier to apply is new startup companies, blending humans and AI from scratch, developing layers of stability build around two basic tenets:
+_ risk management
+_ scalability
+which are actually elements of structural, organizational sustainability.
+
+Anyway, again: this would require yet another book... 
+
+... so, for future writings.
+
+Well, I think that at over 5,300 words, this "introduction" to the concepts is already long enough.
+
+See you soon for another article on another theme.

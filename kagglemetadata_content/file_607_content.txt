@@ -1,0 +1,465 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250725_article.png)</center>
+
+A fair warning: this article is not that long "per se": half as long as the previous one.
+
+Still, it is built around posts and reports that commented online recently.
+
+The aim of this article is to be a kind of "summer reading": a kind of "Virgil" (to quote both [Dante's "Divine Comedy"](https://en.wikipedia.org/wiki/Divine_Comedy) and [Tom Clancy's "Net Force"](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Net_Force) series), with a narrative guiding through a pile of papers.
+
+You can then choose to look just at my comments or somebody else's comments (as in each case provided links either to the papers, or, if either I or others commented, the relevant Linkedin post), or dig deeper into papers.
+
+If you are interested in concepts about the social, business, and political side of digital transformation (not just AI), you can also follow [Linkedin profile](https://linkedin.com/in/robertolofaro).
+
+I do not have and do not plan to have mailing lists, as I already had an e-zine in early 2000s, and would like to avoid as many mailing lists, that start with a publishing plan, and then simply fill the gap: unless, as some my weekly/monthly updates, there is a consistent stream of news to report on, my Linkedin (or [Facebook](https://facebook.com/robertolofaro)) profiles are enough.
+
+Anyway, I do plan to resurrect after the summer two publications, as I shared on Linkedin over the past few days and months- first, will spend the summer to work on a proper "roadmap".
+
+As with any technology or compliance evolution that impacts business and society, I have a keen interest in AI, as I did e.g. with [GDPR](gdpr) after my prior activities involving data privacy on the business side, and business data overall for a quarter of a century.
+
+I do not claim to be an expert in AI, and do not plan to become a "technical expert"- simply, it is part natural inclination, part business tradition to assess, test, experiment, and then embed; yes, I know- as in any other business process, technology, etc my target as "non-expert" to be able to be conversant with and coordinate experts, while interfacing with others needing access (or results from) that expertise is somewhat "deeper" than a mere book-reading, but that comes with the "polymath" territory that was assigned by others.
+
+If I get into a subject, for the time needed, my target is to be able to connect with the top 20%, i.e. those actually able to deliver and coordinate delivery in their own field of expertise.
+
+Which means that, for AI, I will keep building and training my own simple models (as I did in the 1980s and also in the 2020s to pass some tests), LoRAs (to share what I saw while traveling around and taking pictures), and maybe eventually also "AI as a (free) service" models posted where will be free, perpetual, and easy to integrate with other models provided by others, or, as my mini-books, posts online, and articles, reused, recycled, repurposed at will.
+
+I am used to dig into laws, technologies, business processes, industries whenever needed- hence, why was able to work across multiple industries.
+
+In the end, as I said once in Brussels to an American who asked me why, with my background in various industries, accepted to work for government agencies project in parallel to other activities: a project is a project.
+
+As a project manager (or program manager, or change manager, or management consultant, or whatever title I was given on a mission) the point is to understand the context (with the help of experts- internal or external), understand/negotiate the purpose, and jointly identify how to proceed and what has to be delivered.
+
+Side-effect: I embed in my routines what I identify that could be useful in the future.
+
+Sometimes, I come back to the same domain every few years, to see how it evolved, and then use continuously for few years, before again having another round.
+
+Whatever the technology, business process, concept, etc: a key element is always making adoption sustainable- and this implies also considering the specific needs to ensure adoption.
+
+And, actually, since 2018 started embedding within my publications what I experimented with open source data analysis and AI tools, models, platforms- to compare with what I had used before but provided from software publishers (from the 1980s).
+
+Sometimes, what started as a personal experiment on which focused some time, keeps going on as a publication in its own right- including [datasets and notebooks](https://kaggle.com/robertolofaro), [results from various miniprojects, past and current](https://robertolofaro.wordpress.com), and, of course, [mini-books that then routinely used in my activities to give a shared starting discussion point](https://leanpub.com/u/robertolofaro) (which, actually, is something that was used to do since forever).
+
+As you probably know, by chance few years ago started publishing an [AI Ethics Primer](aiethicsprimer), initially as part of a Kaggle essay contest ([see here what I sent](https://www.kaggle.com/code/robertolofaro/a-primer-on-ai-ethics-via-arxiv-focus-2020-2023/notebook)).
+
+Well, by doing that simple research, I saw that there was actually a potential: spotting continuously (actually, monthly) which papers could help provide a non-technical overview of the evolution within that field.
+
+If you follow my stream on [my Linkedin profile](https://linkedin.com/in/robertolofaro), you see that I routinely share material, including posts from others with my commentary- the latter due to a suggestion by another non-Italian Linkedin connection that saw some of my comments around, and suggested, considering the extent, to convert them into a post.
+
+Something that now is quite common- but I see too many actually posting commentary that intuitively is generated by a GPT- hint: at least, add your ideas, not just a summary, and remove that ton of emoji.
+
+As I commented earlier this week:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_01.png)
+([link](https://www.linkedin.com/posts/robertolofaro_this-is-going-to-hurt-some-feelings-but-activity-7353561334254317568-uPX7))</center>
+
+What is this article about? The human side of AI deployment now and in the future.
+
+In technology and in business, if you forget the "why", it is easy to get carried away by a ton of minutiae and, eventually, to forget what was the purpose.
+
+With AI, this is even more critical, as it "hooks" users even more than the Internet or smartphone- considering the platitude that our observers and counselors and coaches society got us used to, I can understand why many started relying on AI "intelligence" to answer question or getting advice.
+
+It is better able to at least pretend to listen to you than most humans that, despite their training and routine cross-checks that they are still able to act as the above, from what I am reported and what I observe on media sound as "canned" and fake as many politicians.
+
+Actually, forgetting the "why" sometimes is fine, if you found a new one that makes sense- but you risk then getting driven by inertia, not by motivation.
+
+I prefer to think about something wider- and will never forget that, before using the first computer (actually, a punching card console for an IBM3xx in Fortran IV), actually I looked at history through archeology and cultures, before moving onto the way the brain worked while looking also a physics, learning to play piano, and then finally starting high school (yes, all that was before I was 14): the humans side arrived before the STEM side.
+
+So, this article will share links to documents (and my commentary after reading them) that could be useful for others to develop their own ideas (or challenge mine), but little about technology per se.
+
+The concept is closer to what I shared in a post reviewing a recent article:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_02.png)
+([link](https://www.linkedin.com/posts/robertolofaro_agust%C3%ADn-carstens-the-innovative-central-activity-7353434296658886656-oDHB))</center> 
+
+If you read my previous articles, you know that routinely share links to movies, as we are a visual society- and, frankly, sometimes even older movies have some "social" or "business" moments that remind us that we humans change slower than our technology.
+
+And that gap, as I will discuss in the next few sections, has some significant consequences.
+
+So, before digging into AI, innovation, and the human side of preparedness for AI, there is a small, old movie that summarizes why extracting value is a self-defeating proposition, and continuous innovation is needed to keep companies alive in the future- and what is innovation from the human side:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_03.png)
+([link](https://www.linkedin.com/posts/robertolofaro_executive-suite-1954-74-drama-romance-activity-7353401280813264897-L2fN))</center>
+
+Actually, the curious point is: if you consider how work environments and careers will evolve over the next few decades, it more relevant now than it was in the 1950s, as in the future keeping in the loop talent will be even more critical.
+
+Actually, already started- but we, in Italy and often also in Europe, still have to come to terms with reality, and evolve XIX-XX century business practices.
+
+Few sections in this article:
+_ lessons learned on (data) relevance
+_ lessons learned on communities of experts
+_ the geopolitics of contextualization
+_ listen before talking (and writing): the news
+_ seeding society for collaborative AI
+
+
+<b>Lessons learned on (data) relevance</b>
+
+I like testing new concepts, but this is consistent with my 1980s projects: building decision support systems models for others was a matter of grandiose schemes.
+
+For me, it was a matter of purpose, not of technical wizardry, or building new data cathedrals.
+
+Talking with senior managers and financial controllers to design their models what not that much different from what I did for a short while as youth secretary of the Turin branch of the Italian chapter of the Jeunesse Europ&eacute;enne F&eacute;d&eacute;raliste: interfacing with the corresponding youth secretaries of the Turin branches of main political parties (those within the ["arco costituzionale"](https://it.wikipedia.org/wiki/Arco_costituzionale), i.e. who were part of the creation of the Italian Constitution after WWII, specifically those who still had seats in Parliament; the alphabet soup generally covered PCI PSI PSDI PRI DC PLI).
+
+That role did not last that long: each one of us had also a political party we voted for (as neither the GFE, the Italian acronym, nor its "mother" organization, MFE, were political parties- just advocates for more European integration, and, eventually, a European federation).
+
+I was 18 and considered that Italy had an issue: the two main political parties (the Christian Democrats and the Communist Party) were so much into partitioning power between them, that we really lacked a voice of the opposition from the left.
+
+So, as I had seen the front- and back-office of political campaigns through my parents since early childhood, decided to help a leftist party that was more "intellectual" (teachers, professionals, "cadres" in manufacturing and in business) enter in Parliament en force.
+
+Hence, was told by my regional secretary that, as the party I was going to support in campaign was not one of those we interacted with, to choose- keeping the role, or keep working within the campaign.
+
+Ubi maior minor cessat- hence, resigned from my role- and continued the campaign for Democrazia Proletaria, which that year in Turin had a significant success.
+
+Up to working at the polls for them and, as some from more leftist parties that I met in high school joked, also working on organizing address lists and event security (imagine: a concert with the Righeira, and a Palestinian presentation at the former Turin Expo, where police showed us that searching for weapons is not that intuitive- I remember the stern face of a Palestinian that was not that much pleased at our failure).
+
+Still, along with my experience in selling computers, videogames, computer games, used books, and also "ghostwriting" at schools for others, plus what I did in my office activities while serving in the Army and reorganizing the filing system, that political experience within organized structures and in advocacy first, and then campaigning, taught me that the purpose has to guide the choice of tools and selection of data- and, moreover, the allocation of efforts.
+
+It is called risk management and prioritization: despite what many apparently think, you cannot manage (better- govern) risks without a clear definition of priorities, and you cannot define priorities unless you have assessed (and monitored) risks.
+
+I read with interest a 22-pages document on cybersecurity within AI that was released as a joint effort:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_04.png)
+([link](https://www.linkedin.com/posts/robertolofaro_ai-data-security-joint-cybersecurity-information-activity-7354035549172654080-Mnih))</center>
+
+For decision support systems, it happened that sometimes I received a proposed solution architecture that was a grandiose scheme, but ignored the purpose, the available information, and also, in some cases, that if your purpose is to identify existing patterns, having to request additional data on the operational side would result in altering the patterns.
+
+I wrote my commentary on that document on Linkedin (at the link provided), and you can see that actually the concept of data relevance is strongly linked to the context.
+
+If you consider AI (as many do) as a matter of a single model, you are going to ignore that, in an environment where most equipment will be "smart", including infrastructure, you have to consider also the interaction between models.
+
+Yes, you could do something akin to the old "orange book", i.e. having your own models operate disconnected from any external source: but in everyday life it would be next to impossible.
+
+Therefore, while the document is interesting, it is akin to a discussion on a two-dimensional chessboard while the world has a three-dimensional one: useful principles, but implementation has, again, to consider the operational context that will have to barter between the cost (economic but also operational) of safeguards, and the benefits that would derive from interaction.
+
+Which is something that learned decades ago: act as a bridge between the expertise (in that case, that I provided; in other cases, that the teams I represented or helped coordinate) and those representing the need.
+
+It will be interesting to read the next version.
+
+Anyway, this brings the next section: beside data (the [mini-book on relevant data that referenced within the post is here](relevantdata)), you have to consider the communities of experts involved in supporting your choices.
+
+
+<b>Lessons learned on communities of experts</b>
+
+My interest in AI was in part due to my first toying with it in the 1980s: and, actually, was the first time that joined a community of business experts, and saw it evolve.
+
+Actually, as it was for computers, coming from a prior interest in how our brain works- physiologically, not just conceptually.
+
+Why was I attracted by PROLOG? Its structure and the similarity of its syntax to BNF, that I had studied before for other purposes.
+
+Actually, beside reading different editions of "the" reference book, I was even a member of an Italian association in Turin called GULP- Gruppo Utenti Logic Programming.
+
+I dropped out only when the visibility and industry support that GULP was achieving thanks to his founder generated the typical Italian issue of when there is a success.
+
+GULP attracted industry interest, which comes usually with sponsorship, potential collaborations, and access directly or indirectly to funding.
+
+In Italy, notably in Turin, success cannot be independent- has to be linked to a tribe: and, in that case, what better than an academic tribe?
+
+So, when academic members joined, in a short while a new association was announced- as anything that grows from the ground up in Italy has to eventually have "credentials", to be acceptable.
+
+Therefore, the usual "guild thing" Italian style: set up leveraging on what existed, but whose membership had qualifications that only the academic members could fulfill (not even the originators of GULP could join the new association that was to be an umbrella under which GULP was de facto absorbed).
+
+By then, I had been already in political activities, and understood quite well what it meant in terms of organizational culture development.
+
+Since the 1980s, I saw routinely this happen in Italy in many cases.
+
+Even in grassroot political parties and the like, that started and developed into building up enough following to join the Parliament, became a bandwagon for those with "credentials", who then quickly proceeded to build their own loyalists and, eventually, stage a takeover.
+
+As I said during a polical event to a staff member of the then candidate for Turin Mayor (she won), as he was excited about the prospects that around 25% of the managers in the town bureaucracy were about to retire... 
+
+...yes, 25% will retire; if you have enough people you will fill that quota otherwise will "onboard" leftovers; another 25% will obviously jump on the chariot of the winner; but the remaining 50%, as they have been used to have the same political coalition for decades, will at best sit on the fence and wait for the term to end, at worst will get into the trenches.
+
+I was a good Cassandra: as there was no second term, and the previous coalition seized again the Mayor of Turin office.
+
+So, it is a cultural thing: if you build grassroots in Italy, already select your connectors with "credentials", so that at least you have time to vet them and work on governance, instead of waiting for a takeover.
+
+Back to AI and PROLOG
+
+The PROLOG language was associated with the [Japanese "5th generation" initiative](https://en.wikipedia.org/wiki/Fifth_Generation_Computer_Systems), hence there was back then some potential.
+
+So, dropped out from the association, but still kept being interested and experimenting with PROLOG (and a bit of LISP and others).
+
+Including in business, when, years later (1988-1990), worked on Decision Support Systems- which was nowhere close to your current neural networks, but frankly used something that, if you use AI for forecasting, predictive maintenance, what if, goal seeking, classification, and similar activities, is still current.
+
+My use of PROLOG back then? In my (limited) spare time worked on an "explanation" concept, to explain models formulas using PROLOG- basically, a small expert system, whose design was eased by having been able to reproduce the full syntax of acceptable models formulas into the BNF format (coming really from linguistics).
+
+Nothing goes wasted (better: sometimes luck needs a bit of serendipity), and was again, while living in London in the early 2000s, via another association that joined courtesy of the introduction of an American colleague, IEEE, to get back on doing experiments (which continued then while living in Brussels, few years later), after a presentation by engineers of Sony of the architecture of the Playstation 2.
+
+In 2018, due to other business changes, started again developing on that- and it was a lucky choice, as, by then, the cost of technology had strongly decreased, and, moreover, there were online resources (e.g. cloud, but also open communities) that further democratized access to resources- from data, to computing facilities.
+
+While decades ago had purchased a toolkit to simulate neural networks on a PC (as a concept, nothing really applicable), in 2018 was able to buy a "neural network on a USB stick" from Intel, and then carry out some small experiments.
+
+It was interesting to blend online and offline communities, and compare with other communities that I had been a (mainly informal) part of, e.g. while attending either startup or "data" or engineering events in BeNeLux, and also workshops in Brussels on various EU-related themes.
+
+When you are within multiple (business) communities at the same time, you can compare social dynamics and communication codes.
+
+On technology, business, social change (including political change and harmonization across EU countries), the key element is still missing.
+
+The conceptual framework used is too often still the same that was used in past innovation rounds, forgetting that, at least since smartphones put a computer constantly connected into any pocket, any further innovation will spread from the bottom up, not from the top down.
+
+Still, when attend virtual or in-person events (of course recently any event has at least a reference to AI), routinely the approach sounds "command and control", not "orchestration" or "governance".
+
+It is normal (a matter of trust and efficiency, between other reasons) that each community develops its own lingo and its own code of conduct.
+
+Anyway, way too many still seem written by somebody who assumes that there is no other "applicable legislator" than themselves, and that their own "rules" are both:
+_ universal
+_ of a higher degree.
+
+So, do not expect expert communities to produce anything cross-community: you need "bridging" people, and usually communities remove them as soon as possible- centuries ago were burned on the stake, nowadays simply in academia are sidelined, and in business or politics at most can be "sherpa"
+
+When a community is divided along parochial lines (as is the case in Italy and, between Member States, in the European Union), it takes an external threat to share all the tribes out of their complacency and sense of "it has always been this way".
+
+Which is funny, when said by the European Union (did not exist a century ago) or, in other fields, by those who claim blue blood or old money: and forget that there was a time when their ancestors too were not so "celestial".
+
+Obviously, the external push that is impacting tribal communities in Italy and within the European Union is the second term of President Trump, who now carried with him at the White House loyalists, and therefore has less buffering (or even outright "procrastinate until withdrawn") on decisions.
+
+
+<b>The geopolitics of contextualization</b>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_05.png)
+([link](https://www.linkedin.com/posts/robertolofaro_americas-ai-action-plan-activity-7354103582775820291-fnDw))</center>
+
+Reading the plan is interesting: as the author of the post that I shared before adding my own comments wrote, it is (as it was also the document on the trade tariffs) a plan for a new American century, not a Wilsonian "level playing field".
+
+If you had read the original document on tariffs when was published (I had read it as soon as was announced- you can find my comments on this website and on Linkedin), this document on AI is not a surprise.
+
+And, as I wrote in my comments above, it is consistent with that orientation.
+
+For example, as I wrote in the past, reshoring in the USA manufacturing while kicking out of the country all those accepting to work in services and in lower-paid manufacturing activities would make products prohibitively expensive, if compared with the price pre-trade tariffs of imported products.
+
+Unless... you introduce within the picture also a massive automation drive.
+
+Then, there is the issues of retraining those who will be pushed out as a consequence- a curious movie about that is [Subservience](https://www.imdb.com/title/tt24871974/), released last year.
+
+Since January, the new geopolitical trend resulted in a long list of announces, but between announces and their implementation there might be some difference.
+
+A nice summary of the ongoing evolutions is a table prepared by Walter Pasquarelli:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250725_02.png)
+([link](https://www.linkedin.com/posts/walter-m-pasquarelli_aipolicy-comparison-table-ugcPost-7353887507412910083-SHwH))</center>
+
+For example:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_06.png)
+([link](https://www.linkedin.com/posts/robertolofaro_exclusive-softbank-and-openais-500-billion-activity-7353695054063898624-XVt-))</center>
+
+That 500bln USD plan was supposed to be a pivotal element of the AI drive and associated energy initiative, so probably there will be some adjustment to get it back on track.
+
+Meanwhile, Uber announced (sorry, the linked article is in German- but GoogleTranslate can help) a massive investment (and roll-out) of self-driving cars:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_07.png)
+([link](https://www.linkedin.com/posts/robertolofaro_uber-will-20000-robotaxis-auf-die-stra%C3%9Fe-activity-7353695858997051393-wOCz))</center>
+
+Since I attended in 1994 a summer school at the London School of Economics, I am used to routinely read Foreign Affairs, as in that course I had to read some articles, and found interesting the mix.
+
+The key element is that contributions are not selected by mere alignment to a specific approach to reality, and therefore often is not just bipartisan, but also with non-USA contributions.
+
+Anyway, sometimes the contribution from authors based in the USA still seem to consider that what is good for America (meaning: USA, not the whole Americas) is good for the World.
+
+Which is not necessarily so- in reality, as I said to some Italian contacts, they did not complain about previous Presidents from the Democratic party, but I see a degree of continuity in various elements of President Trump choices.
+
+As an example, there was that famous quip from a President from the Democratic party, stating that European did not create problems, but did not help to solve any.
+
+Which was partially true: we joined efforts, but knew that we could initiate none (except in regulations- our paper mills have no rivals).
+
+And when we did initiate some due to connections linked to our colonial past- we were quickly rebuffed or remembered that we did not even have the infrastructure needed to take care of our interests.
+
+That AI policy statement is, again, an interesting reading, as it was the introductory part of the trade tariffs document- but suffers from the same limitation I described in this section and in previous articles: just because you select a position, does not imply that it has universal acceptance.
+
+Within AI, the quest for dominance probably will instead result in a community of communities, and as an example you can have a look at this chart, mapping which country has the most powerful computing facilities for AI:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_08.png)
+([link](https://www.linkedin.com/posts/robertolofaro_ranked-the-worlds-20-most-powerful-ai-supercomputers-activity-7353692623410200576-bg2z))</center>
+
+An inherent weakness of our advanced societies is that we are used to talk, write, publish, disseminate before we spend enough time to actually assess and design our position.
+
+Our leaders use often the concept of "posture", but really way too often are "reactive", not "proactive" (except in appearance).
+
+Because, to be "proactive" you need not just to launch an initiative, but also consider how to make it develop considering alternatives and potential resistance or competing initiatives.
+
+So, we end up (a common issue in Turin, Italy, and the European Union) piling up initiatives and continuously tinkering.
+
+The interesting element is that, if you read the initiatives launched so far from the President Trump administration since the beginning of his mandate, there is thin thread across them, as I wrote above, something that is missing on our side of the Atlantic.
+
+Therefore, while our media ridicule often President Trump as mercurial, unpredictable, whimsical, there is more consistency across his initiative than across our own.
+
+President Trump, hidden behind his usual wrestling-style rhetoric, is setting the territory we are called to fight in, and our reactive approach simply reinforces the control of the negotiating territory.
+
+Still, all that strategic consistency does not imply a capability to deliver.
+
+And also if the founder of the United States adopted a "Spartan" model, as shown in Vietnam and other conflicts eventually is not the away front (the formal enemies), but the home front (the public opinion) that halt initiatives.
+
+Therefore, it is yet to see if all the initiatives so far will over the next few months deliver initial real positive impact home, not just in accounting figures.
+
+It does not matter if 100 or 300bln USD are collected courtesy of trade tariffs, if customers used to low prices for imported low cost products from China (who are not the customers for e.g. Italian or French fashion or food) will find their shopping list suddenly out of reach, and, pending automation, products will increase their prices, as both tariffs and local production at local costs will temporarily increase consumer prices, while salaries will not necessarily increase at the same pace.
+
+Also because, just looking at the technology industry, some companies that are investing on their own AI offer actually cut down the payroll by removing highly paid jobs, not just entry-level positions. 
+
+
+<b>Listen before talking (and writing): the news</b>
+
+The title of this section is an obvious concept, for somebody used to advocacy roles- long before started working.
+
+It was only reinforced by my activities on cultural and organizational change: if you start preaching before listening, 
+
+Over the last few weeks, I attended webinars and read materials on how our social and business environments are evolving, and the potential impacts of AI.
+
+And there are few elements missing, in my view- I already shared part of that within the closing section of the previous article ([Change and communication: few lessons from the new #budget in #Brussels and #politics and #business in #Turin and #Italy](index.php?page=606)):
+"
+If we allocate scarce resources using a fictional baseline reality, probably we will subtract resources from other lines with more long-term potential, or at least will reduce our capacity to be flexible- akin to having emergency services in one town playing chess as they are overstaffed, while in the next town have to work double shifts.
+
+The key element is that Italy still does not have an industrial policy worth of that name.
+
+We pile up intervention upon intervention, and often without even considering direct ripple-effects and impacts.
+"Frankly, as discussed in the previous section, way too often found that discussions were within vertical "technocratic" silos: politicians and Trades Unions in their own ivory tower, ditto experts within the industry, ditto academics, ditto (it is a scourge of Linkedin) specialists that try to position as generalists by turning their focused knowledge into a universal truth.
+
+When it comes to introducing AI in our society, we started not from design, but the other way around:
+_ first opening the Pandora's box and tinkering
+_ then experimenting multiple directions
+_ then introducing ex-post regulations as if mattered
+_ then discussing how to make it all work.
+
+Also that 22-pages document that linked in a previous section is a result of that "ex-post" approach.
+
+The key difference is that AI is accessible to any citizen via smartphones and Internet, and currently models are being installed on mobile phone.
+
+I have an Android phone, and, beside those that I installed, Copilot (via Whatsapp) and Gemini self-installed, and routinely give unsolicited advice.
+
+I do not know if the newly announced updates to Apple's AI offer on iPhone will have a similar approach.
+
+Therefore, while it is interesting to discuss about how to design safer models, or how to ensure that models based on "foundation" models are secure, the cat is out of the sack.
+
+It is not just the design, it is the interaction between users and models (not necessarily trained, and often assigning to answers from AI models as much credibility as to human answers).
+
+In previous round of technological innovation, it was feasible to control dissemination and recall faulty technology- be it a TV set or a car or even an airplane.
+
+With AI models, they are already scattered on devices and are used to feed information into the models via chats that you would never tell to your bartender, so why should you share that information with a model online?
+
+Anyway, it is not just technology and security and IT experts that are not considering the democratization of access and its impacts, its consequences, and the consequences of other megatrends (e.g. demographic trends).
+
+Few days ago attended a webinar discussing the implementation of an Italian law to generate incentives to employees' participation in business- from consultative to holding shares, and a mix thereof.
+
+Those from various business organizations and trades unions, as well as politicians, seemed to be well aware of demographic trends.
+
+Italy is forecast to shrink by a few million people before the end of the century, all while getting older.
+
+Also AI potential and risks for the business environment, and geopolitical trends seemed quite well understood.
+
+Then, the discussion quickly shifted to a model of participation that was fine when people were hired out of school or university, and the aim was to keep them within the same company until retirement.
+
+If, as those presenting did, you understand that automation will remove many existing jobs and will create a different approach to work, working hours, and careers, then linking participation to a single company implies that you are focusing on those who will remain while automation still lacks capabilities, and ignore those that will still have a job even if all the clerical and manual activities were to be fully automated, and who will probably have more loyalty to their own skills and role, than to a specific company.
+
+Actually, could be foreseen that more of the latter (is already starting now) will work across multiple companies, albeit acting as if they were part of the staff: knowledge of the corporate culture, organizational structure, and processes, etc (shared something on this concepts both in 2003-2005 within [my e-zine on change that then reprinted, updated, in 2013](bfm2013), and within a 10-year old book, [#synspec](synspec)).
+
+As for the webinar, you can see the recording on YouTube ([La nuova legge sulla partecipazione del lavoro nell'Impresa- in Italian](https://www.youtube.com/watch?v=hIIa_up2sxY&pp=ygU7TGEgbnVvdmEgbGVnZ2Ugc3VsbGEgcGFydGVjaXBhemlvbmUgZGVsIGxhdm9ybyBuZWxsJ0ltcHJlc2E%3D)).
+
+Also coaching, training, educating about AI is still considered linked to "the job".
+
+The same applies to a recent report:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250725_03.png)
+([link](https://www.linkedin.com/posts/robertolofaro_cset-cyber-jobs-the-future-of-work-based-activity-7354384498614009857-CrP_))</center>
+
+The mini-book I was referring to within that post is [The business side of BYOD 2: you are the device & privacy at Edge 979-8539685225 2021-12-29](byod2).
+
+As for the Trojan horse reference: hinted within a reply that added to a comment from Claudio Bareato (who actually was my source for the document): 
+"we are in zero-coding times: actually, social engineering has been made easier by AI embedded in smartphones"- as will explain in the last section of this article. 
+
+Increasingly, "hire to retire" is not anymore a viable model- actually, a counterproductive model, as between the 1980s and 2010s it was the role of consulting companies and BPO/outsourcing to act as "knowledge bees", helping to share it around, increasingly in the 2020s even individuals can provide such a role, courtesy to the ease of access and integration to multiple communities not connected to a specific location or organization.
+
+A simple case to see that assertion is how many contributed at the beginning of the COVID crisis to the building and testing of models and tools to analyze and disseminate information.
+
+You can have still incentives to participation within a single organization- but built on different concepts.
+
+Actually, employees who will juggle between different employers, probably could be the more interesting to involve in participation, as they will be able to contribute different perspectives, useful to develop the future of a company, and just paying a task- or time-oriented rate would not generate an interest on the long-term success of the company or companies that they will work with.
+
+Yes, "with", not "for": because it will be a collaboration based on expertise, not a "command-and-control" affair.
+
+In my view, the key element is to consider that AI has a democratization component that requires to consider that all the potential workforce should have basic tools to critically use AI tools, not just those within a company or attending specific schools- as anybody can become that "Trojan horse" that alters the behavior even of the best trained model.
+
+This morning there was on a linkedin an interesting case concerning the Amazon AI, Q- a case of prompt injection exploiting a loophole within approach used to manage the updates: it is not the use of GitHub, but how that specific approach was defined and implemented: again, it is a governance issue.
+
+The point is not just to increase the potential pool of candidates, but to increase society resilience and avoid having thousands of critical issues generated by a crowd.
+
+If you want to use the "wisdom of the crowd" to accelerate innovation (and reduce costs: a single hackaton can involve more man hours than any pilot project could cover), you have to set up the proper organizational and knowledge safeguards: a web page listing the terms and condition and rules acceptance is not enough, even with identity confirmation, if those joining use tools that they themselves do not understand.
+
+
+<b>Seeding society for collaborative AI</b>
+
+It is worth repeating: the social engineering augmentation risk that I hinted at above is linked to the ease of access of AI tools, and their use of human-to-human "communication codes" that, frankly, too often remind the worse of the worse of "snake oil peddlers" or tarot/hand/tea leaves readers leveraging on needs to fulfill.
+
+Actually, as I wrote in my comment to a post from Heiko Holz on the training of models as akin to "training them to be expert bullshitters":
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250725_04.png)
+([link](https://www.linkedin.com/posts/robertolofaro_%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%81-%F0%9D%97%A7%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2-%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%81-%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-activity-7354422421904384000-1Hf6))</center>
+
+PMI recently launched a review period for a new standard, "The Standard for Artificial Intelligence in Portfolio, Program And Project Management.
+
+I did a preliminary review before doing the formal one:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_09.png)
+([link](https://www.linkedin.com/posts/robertolofaro_we-are-excited-to-announce-the-ansi-bsr-8-activity-7353527309586300928-72la))</center>
+
+It is an extensive document, but it is worth your time- the review period is until September 1st.
+
+Many of the points that have been discussed within the documents that shared above, released this week, were already considered and discussed in that new draft Standard.
+
+Still, it is worthwhile to provide your feed-back: you do not need to be certified, you can use also a free account.
+
+I think that a summary of all the flurry of activities was within this post, using the traditional "hype cycle" chart:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_10.png)
+([link](https://www.linkedin.com/posts/msukhareva_im-also-guilty-of-sharing-these-graphs-over-activity-7353918608877531137-1m7a))</center>
+
+Out of joke, a recent article from Foreign Affairs can be useful to seed a discussion:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250724_11.png)
+([link](https://www.linkedin.com/posts/robertolofaro_america-should-assume-the-worst-about-ai-activity-7353693852383215616-XamY))</center>
+
+Anyway, would add also this "playbook" from the MIT: 
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250724_humansideaiadoption_20250725_01.png)
+([link](https://www.linkedin.com/posts/andreashorn1_mit-a-playbook-for-crafting-ai-strategy-ugcPost-7354373306294165504-9ffq))</center>
+
+The article so far was both a digest and collection of pointers, as well as a way to share my remarks, and provide material that probably could be a good reading start to have a relatively comprehensive review.
+
+In closing this article, would like anyway to share some further consideration that have not yet shared on Linkedin, but only here and there within articles.
+
+What do we need to seed AI adoption? 
+
+Again: AI is different from any other technology adoption, as AI embeds a continuous and self-driven (models "learn") feed-back cycle.
+
+Yes, in the past too there was a feed-back cycle, but there were always "safeguards".
+
+This week followed also a webinar on the various "guardrails" approaches available: fine, but only if all those involved follow the same approach, and if there is no social engineering that influences models' behavior.
+
+Just imagine if users start asking questions about an ongoing crisis, and get an answer that is then misunderstood and spread around, generating a peak of further requests based on misleading information due to increased fears of users.
+
+Models would receive then millions of bits of what is de facto disinformation, which could turn into a "consensus", further shared.
+
+Until models will have "common wisdom", in my view the best safeguard is to increase understanding on the human side: there will still be willfully misleading users, but would be more than counterbalanced by a shared understanding of limitations.
+
+Now, whenever there is a risk or a "paradigm shift", we got used to funding massively injected and aiming to a specific purpose.
+
+Personally, while I consider potentially positive "taxation based on purpose", i.e. a tax to cover a specific need, my experience observing the way funding has been dispersed across the years in Italy and Europe, long before the 2020 COVID crisis), is that usually businesses eventually tailor interventions to funding available, not the other way around.
+
+The risk is that government will not simply create "AI infrastructure" to generate incentives to creating innovation, but instead will again provide funding to companies to become AI aware.
+
+In the past, the European Union was considering also the various elements of e-government, including the risk of having a knowledge gap between citizen, getting then onto e-participation, e-inclusion, etc.
+
+Just to list three documents from the European Union past (yes, I was part of the final workshop lead by RAND for the first one, in Brussels):
+_ [Towards a Digital Europe, Serving Its Citizens - The EUReGOV Synthesis Report (2010)](https://www.rand.org/content/dam/rand/pubs/technical_reports/2010/RAND_TR673.pdf)
+_ [Study on 'eGovernment scenarios for 2020 and the preparation of the2015 Action Plan' - Final report (D5) (2010)](https://www.rand.org/content/dam/rand/pubs/technical_reports/2010/RAND_TR888.pdf)
+_ [Potential and Challenges of e-participation in the European Union (2016)](https://www.europarl.europa.eu/RegData/etudes/STUD/2016/556949/IPOL_STU(2016)556949_EN.pdf)
+
+I think that AI awareness should be focused on citizens, influencing also the allocation of funding.
+
+To reiterate: you can recall a faulty car or fridge, but when you let around faulty AI, its results would have been already used to seed other models, and only a widespread degree of critical thinking and basic understanding of boundaries and risks can avoid a piling up of risks.
+
+We need to integrate what current and recent pushes toward "ready to use" go against in training, i.e. the obsession of removing history, philosophy, social studies, and anything deemed to be "excessive for the purpose of preparing a workforce".
+
+A simple case of misunderstanding of limitations is the 2024 movie "Subservience" that quoted above: a simple reset not explained removed safeguards, because, in the end, it was up to the user to decide.
+
+I will keep reading papers on safeguards, guardrails, testing, etc, as part of my monthly [AI Ethics Primer update](aiethicsprimer) (now approaching 700 papers).
+
+Anyway, I still see too much focus on having the models properly trained and without biases, ignoring the context where they will operate, an AI-rich context where models, including tiny models within physical objects you will interact with in your daily environment, will actually interact with each other and with humans.
+
+We have to accept a key risk: if you want to fully control models, you will kill innovation.
+
+Hence, we need to work on two levels:
+_ funding and supporting and generating incentives for shared AI infrastructure that is as safe as possible
+_ incentives and tax credits for companies investing in embedding transparently "smart" and "participative" technology in their products and services 
+_ funding and supporting and generating incentives for citizens to be aware, and not be afraid to act as "citizen AI auditors".
+
+We have to both provide education and, within that AI infrastructure, include a "user whistleblowing" element, to facilitate a kind of Dante's "(AI) Divine Comedy":
+_ paradise for models that behave well and are confirmed to behave well
+_ purgatory for those reported as having issues, until either amend and return in paradise or are finally sidelined
+_ hell for those that simply are impossible to safely integrate within the shared AI infrastructure.
+
+We need to shift from a ex-post to an ex-ante attitude.
+
+Last but not least: it does not matter how safe your technology (AI included) is safe, if the safeguards in place can be removed or are too complex for the final users to use them properly.

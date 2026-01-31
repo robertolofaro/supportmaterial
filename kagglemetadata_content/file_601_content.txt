@@ -1,0 +1,100 @@
+This short article is part of my "dictionary".
+
+Transition and transformation are not alternative options, according to my official (and unofficial) change management experience since the 1980s.
+
+You cannot have the latter without the former, even in cases of "green field", i.e. when you create a new entity, as both require a convergence on prioritization.
+
+Convergence of all those involved toward a shared objective, and prioritization both of the planned and unplanned.
+
+To support the discussion but limit the use of your time, I will share visual material that released since 2020 on the transition and transformation of Turin, as an example and structured case study.
+
+Being born in Turin, but having worked and lived mainly elsewhere since the late 1980s, and from the late 1990s outside Italy, helped to adopt a different perspective on my own birthplace, upon starting to see it again from a business perspective since 2012.
+
+Few days ago, after a long while, released an article of over 11k words- ([Too Big To Fail 2 In Europe: 1- introduction and the industry of industries #automotive](index.php?page=599)), which is actually the first part of a series.
+
+Most of the article was an introduction, and used an industry case study automotive, adding further references to the industry within the European Union and specifically Turin, that used to be a company town for the FIAT group, the then leading Italian automotive company and industrial group.
+
+I shared few years ago a [video presentation to summarize few articles preparing for the then-forthcoming TechWeek in Turin](https://www.youtube.com/watch?v=uDT_jkswxcg).
+
+It was a presentation based on data: positioning on UN SDGs, demographics trends, etc.
+
+Within Europe (but also elsewhere), we are transitioning toward something different from both the post-WWII industrialization style, and 1980s-1990s digital transformation.
+
+So, different times would require different attitudes and prioritization, not recycling 1970s approaches.
+
+Turin has been a living case study of transition and transformation since at least the 1980s.
+
+In this century, Turin's trends and status were observed and dissected for 20 years by a report issued each year from an independent research organization- you can see its evolutoin [through a video summary using a tag cloud](https://www.youtube.com/watch?v=neQkxm4cJHg&t=3s).
+
+You can still find online each one of the reports, as well as the associated data and... 
+
+... the annual ritual on local newspapers of all the political and business leaders admitting that they had failed, there was a lot to be done, were motivated by the report to at last kickoff change as a joint effort, and...
+
+... then move on. 
+
+In Italian, we say "passata la festa, gabbato lo santo"- i.e. we are well used to celebrate our forthcoming joint efforts, but then prefer to procrastinate efforts to a move convenient time; hence, we had many ["Monnet Moments"](search.php?tag=italy_monnet) (crises used to push through change after failing to generate consensus) since post-WWII.
+
+Transition and transformation both imply changes- and choices, including unpalatable ones (for the incumbents).
+
+Within the last section of the "Too Big To Fail" first article, outlined a modest proposal to implement the transition and transformation of existing European actors within the industry, due to overlapping transformation initiatives at the European Union level.
+
+The overlap between transition and transformation is really due to exogenous pressure to change- be it COVID, or one of the two (now turning into three) conflicts so close to the European Union neighborhood, or tensions on energy provisioning and supply chains business continuity related to either of them, "fortress Europe" is a delusional state of mind.
+
+Because we can prepare all the transformation blueprints we want, but then we lack the leverage to actually align all the world to our approach to transition (and associated costs).
+
+Akin to that of my own birthplace, Turin, that, upon returning in 2012 (not my choice), nicknamed "Macondo am Po" due to what I heard and read, a similar inability to consider that the world at large has its own dynamics- and if design your own according only to your own priority and discounting reality, reality bites back.
+
+The nickname of course comes from Garcia Marquez: as I had to warn yesterday about sharing interesting material, you cannot even attend a conference to then share it, without having in your audio a team of gossipers constantly sharing their "perspective".
+
+Even funnier when, in settings where the lights on discourage the continuous noise, the question&answers part turns into one of the locals raising and...
+
+...using the captive audience assembled by a different tribe to deliver a "shadow conference" mildly disguised as an introduction to a conference.
+
+Difficult to then build a consensus on transformation- hence, we keep going from workshop to workshop, from conference to conference, from event to event- each one stating de facto why all the other options are wrong, and their option is right.
+
+Too much preaching to the choir on tribal boundaries: and I collected also books on these attempts to transformation both in Turin and in Italy, since the 1990s, finding really few who were actually delivering an assessment and a proper [SWOT analysis of their own proposals](https://en.wikipedia.org/wiki/SWOT_analysis): identifying or at least assessing internal strengths and weaknesses, and external opportunities and threats (if needed, by [circle of influence](search.php?tag=circle_influence)). 
+
+A spirited debate is sorely needed- but, unfortunately, when the various tribes at last have shared events to discuss, it is a polite minuet between those who hear only their own voices, and see only their own data, each one often politely cheered by the joined supporters: a public show of unity is not a coalition of the willing.
+
+Transformation often is carried out by creating new entities, to cover for a new market or new technology or, anyway, a new context: a wise choice, if properly managed and integrated ex-ante.
+
+Example: let's say that you have a company whose processes and structure have been developed across decades of even centuries, and you want to add a paradigm shift, e.g. converting fashion into smart fashion embedding electronics, batteries, sensors that help to integrate garment with the environment and provide feed-back and advice to those wearing them (plus, why not, creating a new revenue stream by providing services via a freemium model).
+
+Few elements worth considering (you can search this website for "deeper" material):
+_ is your existing corporate culture able to integrate the bearers of a completely different work culture, or will bury them under bureaucracy and "not invented here" attitudes?
+_ how can you keep motivated the existing collaborators while working on retaining the new ones to bring the transformation about?
+_ when it comes to product and service design, do you have already in house the culture required to reap the benefits?
+_ how will power distributed within the organization after the transformation, and how do you plan to communicate and govern the rebalancing?
+_ last but not least: if there are differences, will they be temporary or permanent?
+
+The latter point is something that since the 1990s explosion of consulting activities many companies in my view got wrong:  if you start with the last point, you assume that everybody has 100% trust in your communication and that therefore everybody will take for granted that what you define as "temporary" is so.
+
+Better to follow the list as given above, as sometimes answering those questions might shift the transformation type- e.g. in a case converted a merger into an acquisition, and in other cases led instead to unbundle joint operations and create a temporary joint entity, to be dissolved one the objectives were achieved.
+
+As I wrote in at least a couple of mini-books ([#synspec](synspec), and a dozen years before into my e-zine on cultural and organizational change that was then reprinted in 2013 [within BFM2013](bfm2013)), externalizing execution or relying on external expertise to complement your own core expertise is fine, but externalizing core knowledge is not.
+
+In order to ensure adaptability of customer organizations, it has to be factored in since inception- actually, should be part of the negotiation.
+
+As an example, when I was selling services for a partner and negotiating with a CIO the outsourcing of a first-level helpdesk, designed an approach to ensure that knowledge would be shared with the customer- not just the usual pre-digested KPIs, as this would be critical to see emerging trends, of even just to find relevant information when planning an evolution of the service consistent with new business objectives.
+
+So, may suggestion: you have to do a ["triage"](https://en.wikipedia.org/wiki/Triage) of what is needed to retain, evolve, and monitor according to different timelines, short- medium- long, and align your own internal resources accordingly (yes, 3x3=9, but "tri" comes from the French "trier", to sort, not from "three").
+
+Also: assess then the level of risk and potential impact of each option- all before finalizing the initial roadmap and "rules of engagement".
+
+If you externalize core knowledge, you lose the capability to evolve your own internal processes, and risk having to take what are really "off-the-shelf" with minimal adaptation from external suppliers.
+
+External suppliers, in order to obtain scalability and lower the knowledge intensity of activities (i.e. to shorten the training cycle of new staff while either expanding services or reshuffling staff), are naturally inclined to standardize.
+
+So, also transition and transformation could follow the usual differentiation between "pr&ecircum;t-&agrave;-porter", adapted, and custom: but if you budget for the first and pretend the latter, you risk getting plenty of "canned" advice presented as "best practice", but not aligned to your own context.
+
+Another element worth remembering: in both transition and transformation, also if you create separate business units focused just on the latter, those with [organizational memory](index.php?page=383) should be involved, again to avoid getting and approving "canned" organizational development advice that then you will have to spend intensively for a long time to tinker and align with your needs and constraints that were not considered at first.
+
+Another risk: if you develop a separate business unit that serves both your organization and the external market, retain at least the internal audit and financial controlling on your side, as otherwise the risk is that you will end up subsidizing the market positioning (i.e. you will overpay products/services, directly or indirectly, while customers will get "dumping" price levels, courtesy of your subsidies, as a purely independent new business unit with its own business expansion objectives might be tempted to adopt that "differential transfer pricing" approach, while the main company assumes that they would pay a lower price then the general market.
+
+Not feasible? Then design proper service contracts and associated service level agreements and pricing references- something that partially discussed in past articles and mini-books, but that will focus on in forthcoming articles in the first half of July 2025.
+
+If you are interested in more about the concepts hinted at above, use the search facilities within this website, as on each of those points you can find at least a dozen of focused articles.
+
+If you have feed-back or would like to see more material, [feel free to message me on Linkedin](https://linkedin.com/in/robertolofaro).
+
+With a caveat: unless it is for customers, any question and any answer done for free will go online for all to benefit.

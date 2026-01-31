@@ -1,0 +1,317 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250629_article.png)</center>
+
+This article is within the book blog section, as I wanted to collate some pointers that shared online on [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro).
+
+It is actually a "meta-article", as I will reference future publications that I am currently working on.
+
+Anyway, will start first with a short discussion about how design articles and mini-books on change, and why it is fine for me to have a couple of dozen of readers as soon as each article is published, and then having numbers going up into three, four, sometimes five digits across time.
+
+Few short sections:
+_ structuring content
+_ defining the territory: background
+_ spreading across time: genius loci
+_ and finally: forthcoming publications.
+
+
+<b>Structuring content</b>
+
+If you read some of the articles across this website, or <a href=https://leanpub.com/u/robertolofaro">some of the mini-books on change that published since 2012</a>, you probably saw the structure of the content of each article.
+
+Yes, the specific structure of each article is dictated by the section it appears in, as well as the aim of that individual article.
+
+At the same time, I embed in each article cameos from my experience.
+
+Even for articles linked to a specific set of current events, e.g. [the EP2024 series on the 2024 European Parliament elections](ep2024), or [series associated with a specific "round" of either national or local elections in Italy](index.php?page=550).
+
+The reason is simple: I have been writing position papers, methodologies, concepts, feasibility studies, business and "contextual" analysis since the 1980s- but, generally, for a well-defined audience, be it customers, colleagues, prospects, or even commercial presentations or demos.
+
+Instead, when I decided to halt my return to Italy, and in 2005 accepted an invitation to share an apartment in Brussels, my only online publication for an unknown audience had been an online e-zine on change that had published between 2003 and 2005.
+
+That publication, reprinted updated within [a mini-book called #BFM2013](bfm2013), part of my plan to return to Italy, was anyway the result of full marketing campaign, that started with designing concept, format, publishing plan, and using my past experience in direct marketing campaigns for either software products or consulting services on change sold to managers.
+
+So, hired somebody who could cover what it is my weakest point in sales (cold calling- not my cup of tea), provide a structured script anticipating potential objections, and drive through barriers up to the sign-off for the free quarterly e-zine.
+
+Preparation? Did a research to identify the companies and people I would like to enroll, provided that database culled from public sources.
+
+Results? For a very limited cost, plus my own time, ended up in a short while with 800+ managers from 500+ companies large enough to have potential interest in change services (mainly Italians, but also foreign).
+
+When I moved to Brussels, I was still within the "phase out" step of my prior activities.
+
+I had done a terminal mistake, when I had planned to return to Italy: phased out all my foreign business contacts, as I had planned to settle, and work with startups, integrating my UK company with an Italian one, work also on public sector projects to "reimport" my experience abroad, and, eventually settle in a larger company where I could work again at the same level as I had worked in before.
+
+Shared in past articles what happened in Italy, so will avoid a digression not relevant here.
+
+When in Brussels, the plan was to settle, and starting from a lower level than before, i.e. project manager instead of program/portfolio/change manager or management consultant, as I did not know the market.
+
+Phasing out activities elsewhere took a while, as I accepted to negotiate and managed accounts part-time for a partner that had some health issues, to avoid that the company went adrift: hence, until 2008 was not "free".
+
+Hence, my first publications online for an unknown audience, in early 2007, started really to share videos from a dinner in Italy, using stage6.divx.com (where you could host for free DivX videos).
+
+The nickname? Aleph123.
+
+In 2008 started writing articles under my own name, mainly to keep alive skills by doing analysis and reporting on public information, as eventually would have liked to either return to the same level, if I was good enough, or simply using my old skills for publications, while working just as project/PMO manager, if I was not considered good enough in the local market.
+
+With my business and political plus business research background since the 1980s, I was used to produce not just articles about "now" or "the past", but also material that could be used in the future to revise past choices while adapting to new events.
+
+The title of this article refers to "long tail": basically, I adopted this approach since I started published in 2008, expecting each article to get few readers immediately, but then, courtesy of its content, to collect more and more readers, and, with each article, to attract also to previous ones.
+
+You need a continuous publication and a quantity of material: hence, I pulled most articles published while in Brussels, as soon as I had enough material and mini-books.
+
+Incidentally: you can read the whole history and process followed for the e-zine on change [within the mini-book #BerlinDiaries](https://www.slideshare.net/slideshow/berlindiaries-a-personal-journey-through-the-new-nervous-centre-of-europe-v20-downloadable-book/93427582), that wrote as a daily blog while staying in Berlin for a couple of weeks in late 2012.
+
+Now, how does that related to the last part of the title, consulting?
+
+Time to move to the next section.
+
+
+<b>Defining the territory: background</b>
+
+When I started working in 1986, frankly did not plan to get into consulting- just to expand my computing skills and seeing for few years how was on the business side, and then shift to someething that blended my political science and cultural anthropology interests with technology and business number crunching.
+
+Because my political activities in the early 1980s and digesting routinely piles of documentations from Brussels etc implied that already before officially starting to work, I had found corroborating evidence for my natural instinct for reforms and bipartisanship.
+
+Or: politics is not just administration and economics, but in our complex societies, where people are used to infrastructure and services that require a convergence of interests, we should at least try to get the three elements in sync.
+
+Hence, I was quite far away from the continued (still today) Italian obsession for "leaders alone at the helm", melodrama and flash mobs replacing a Weltanschauung.
+
+For us Italians it is almost an acquired genetic mutations: we had so many invaders, that culturally we are inclined to join the winners' side.
+
+Or those we do assume that are or will soon be the winners.
+
+In business, I saw that routinely in Italy, more often than in any other country where I worked.
+
+Anyway, in the late 1980s, after a project in automotive procurement and one on banking general ledger, came a project on group-level management reporting, which was to prepare for ensuing activities on decision support systems.
+
+For the latter, I worked almost on a different industry on a daily basis, and therefore was a typical "long tail": multiple projects in multiple industries, each time starting small, and each one generating experience and demand that would generate further projects.
+
+Since 1990, [you can see on the sample customer list](cv) that did not change that much.
+
+Hence, when, in 2012, saw already in the first project in Italy that was hired with the same positioning I had applied initially in Brussels, but then was asked both in each mission and between missions to provide the same services I had provided before- unpaid and unofficially.
+
+Therefore, since then kept publishing and, from 2018, started first to try to use open source solutions to carry out model building activities that in the 1980s and 1990s did using commercial software and, courtesy of online free services such as [Kaggle](https://kaggle.com/robertolofaro), [GitHub](https://github.com/robertolofaro) added more material online, while since 2022 added further more, and eventually also on the GenAI side, courtesy e.g. of [HuggingFace](huggingface.co/robertolofaro), [CivitaAI](https://civitai.com/search/models?sortBy=models_v9&query=robertolofaro), and many others.
+
+While worked in consulting since the late 1980s for large companies, it was really a continuation of the activities I had done in my short stint as Turin secretary of the youth component of a federalist association in the early 1980s, interacting with the Turin secretaries of the youth components of what were called then "partiti dell'arco costituzionale", i.e. political parties that were part of the design and writing of the Italian Constitution.
+
+Then, that experience was augmented by a similar outfit- as, in the Army, I was in an artillery specialist group whose purpose was to support the other "heavy duty" artillery components, by giving specialist services (you can see on my CV- I did not simply sit idle for 12 months, tried to make those months of compulsory service worth doing, by volunteering for roles, and even inventing some).
+
+Therefore, when in 1986-1987 was asked in my first project to cover more roles, and again in 1987-1988 in the second project, it was just a training exercise to resurrect what I had done before, with a different knowledge mix.
+
+And, admittedly, I had turned down an offer right after ended my service in the Army, in 1986, that would have a better paid and higher-ranking role elsewhere because, as a bookworm, a glimpse at the company project library of Andersen was enough to understand that, also if I was just on the programming side, there would be plenty of opportunities to learn.
+
+It was not just a matter of money and status (the offer derived from what I had done while at the university in information technology within the laboratory, before starting the service in the Army.
+
+It was a matter of accepting to take a risk (as I had to attend and pass a two month course in Milan to learn COBOL), knowing that, then as now, if you start in Italy something in May, and then in July you have again to look around... skip directly to September.
+
+In 1990s looked around to settle within a company (I was offered roles in project and IT management), to work on developing a structure for a while, but in the end was instead to develop a business line, but within a consulting company.
+
+Shift to 2025: there are many that are currently saying that consulting is dying.
+
+I beg to differ: it is the industrial, "billable hours" models made of many with little knowledge yet billing, and few with most knowledge using them to "leverage" on billable (e.g. one billable hour of a partner is just one hour, but if that feeds thousands of hours of juniors and seniors, and hundreds of hours of managers on each account, that is "scalability" in consulting).
+
+I remember once a manager at a customer site telling me, that, while designing a methodology for them, I was sometimes creating something new.
+
+My reply? You are paying for a tailored methodology tuned to your needs, not just to have a copy of a book.
+
+Let's be frank: boutique consultancies have limited scalability due to the size of their structure, and therefore have principles and references- but tailor for each customer.
+
+For them, AI could be useful to achieve a scalability that larger one achieved with grunt hours.
+
+Some of the big ones have a similar approach, but scaled up and leveraging on their massive store of knowledge distilled from projects and initiatives.
+
+For them, AI could help to smoothen delivery pipelines, while contracting payroll, as they have an unique, and continuously maintained, stock of knowledge that is their differentiating factor: being able to tackle with large activities with both people and knowledge.
+
+Usually, you can spot them by their hefty prices- you pay not just the service, as boutique ones, but also the "licensing" and "customization" of their continuously evolving base of reference, embedded within their fees.
+
+Instead, many consulting companies are in the limbo between these two extremes, as try to industrialize advice but while keeping R&D investment down- and it is where you risk getting "canned" advice, and it is where AI might actually generate a watershed.
+
+Please, do not tell me that the annual report shows that there is 10, 20, 30% of R&D: it is an accounting reclassification, not real investment.
+
+Anyway, boutique, top league massive, and "limbo" have each one their own role in transition and transformation.
+
+In the future, pitting two or three large ones against each other assuming that they will control each other (a mistake I saw repeatedly since the late 1980s in many countries and environments- they instead are naturally inclined to expand their billable territory) will give more headaches than before.
+
+Instead, it will be up to customer companies to repatriate in house some core abilities to choose and blend the boutique, the top league massive, and the "limbo" according to needs.
+
+The only key issue: too many are tempted of using AI as replacement for grunts doing repeatable work.
+
+Instead, should redesign processes to remove those activities when not needed (e.g. having an intern do 100 times a Powerpoint presentation tells more about the lack of focus of the manager asking for it, than about the intern), and integrated tools (including AI) as a partnership across the whole career.
+
+Otherwise, nobody will ever learn the basics.
+
+So, do not think in terms of cutting costs now- think in terms of developing organizational resilience and attracting and retaining talents.
+
+In July will start sharing a series of articles on different aspects of consulting, creating a new section on this website, and eventually a different way to access it.
+
+Time to switch to the next section, to share a bit of background on the environment- a kind of Monty Python ["And Now for Something Completely Different"](https://en.wikipedia.org/wiki/And_Now_for_Something_Completely_Different).
+
+
+<b>Spreading across time: genius loci</b>
+
+As I keep repeating across my articles, upon my return in Turin, eventually nicknamed it "Macondo", taking a page from Garcia Marquez- but, sometimes, frankly it is bit closer to Monty Python or Woody Allen "logic".
+
+Anyway, sometimes,positive outcomes derive from annoying origins.
+
+So, my update on AI that started in 2017-2018 to see what I could do using open source that used to do with commercial software on decision support systems was really taking depth only "courtesy" of the 2020 COVID lockdowns- the first time where I had at least one month and probably more of foreseeable stop lasting even longer.
+
+Anyway, as I had done since the 1980s, always keep updating, studying, relearning, unlearning, and experimenting- and the evolution of technology and free online computing and hosting facilities made that even easier.
+
+There is anyway a curious element, since I was made to return to work again in Italy (first Italian mission started in late February 2012).
+
+I have been routinely turned down elsewhere for roles doing what I was doing as a consultant before, but in each and every mission in Italy that eventually received was anyway asked to carry out activities that were within those that e.g. provided to customers at the Cxx level, be it to help design and negotiate an outsourced service, revise an architecture, work on requirements, review depreciation plans, organizational integration, etc.
+
+And also contacts for potential projects, startups, initiatives did not require my "official" roles since 2012, but what I had done before.
+
+Funny to read job descriptions for PMO roles (senior, junior, portfolio, manager- does not matter), and then instead being asked to do what in the past did with CEOs, CFOs, CIOs, HR, organizational development, or financial controllers. 
+
+Look at my [CV](cv), and you will find that, even with the "sampling" nature of the CV (to stay within four pages), my activities before 2012 included that and much more.
+
+Frankly, I shared in the past the rumors about why somebody would like to keep me in Turin and in Italy, positive and negative, but sometimes the leaky Turin environment took some quixotic twists.
+
+As when in 2012 I had somebody from the office waiting for me at the bus to basically just ask profiling questions, or when eventually I did a "game" with the owners of a couple of venues where I was going after my long office days (sometimes started the day with meeting in Australia and China or India, and ended up with the end of the day in Brazil).
+
+The game was that about attracting customers, in one case I set a specific quota of at least five people before I left.
+
+Had also other curious events, as few years later when a team discussing meters away in an office while was working there (I have a negotiators' hearing and memory), after a travel abroad for personal reasons, complained with colleagues that I had called somebody else (none of them) using a phone number that they did not have.
+
+It is not just Turin: it is the ordinary evolution of a company town in the XXI century: gossipville, as somebody local told me once, years ago.
+
+I would add: augmented by modern XXI century technology.
+
+Years later, was contacted for local missions that were presented as if they were something really long-term and that, elsewhere, would be temp-to-perm (as I was told e.g. abroad in my first mission in Belgium, before Italian interference made me choose, to protect the customer, to resign)...
+
+... each time, when I had started a negotiation for roles abroad- e.g. in Russia for a German company (a role similar to the one I had had in the early 1990s for the Italian branch of a French company), and in Germany for a startup, plus other contacts.
+
+Obviously, as it had happened with each mission where I was called back in Turin from the late 1990s, as soon as there was a degree of normalization, there was a new team coming through.
+
+It is interesting how, since I resigned from my latest mission before the end of the trial period, the rate of answers from my applications skyrocketed- I receive (negative) answers more often than usual, but often after having been notified by Linkedin or other boards that my CV has been downloaded (and in some cases first receive a quick negative answer, then my CV is downloaded- unusual).
+
+I call Turin a "leaky" data environment (reminding "loose lips sink ships"), but an Englishman said to me right before leaving: Turin sounded a bit as a Stasi-style environment.
+
+My routine advice to foreigners, including some who complained with me that apparently others received information on who they were meeting with, is simple: there is nothing you can do about it while in Turin, just decide which people you would allow in your inner circle, and, if needed, use this compulsive gossip and snooping attitude as a communication channel.
+
+As I was told also by locals once in a while: there are people that you know are the best to share information with, so that they spread it
+
+Which, in the Italian culture, sometimes is quite convenient.
+
+In Italy, we have something akin to the Chinese Mianzi/Guanxi couple, and "saving face" and "keeping the relationship" implies that sometimes, when there is an opportunity but would be a nuisance to receive a negative answer after making an offer, my fellow Italians go to some convoluted extent to test the ground via third parties.
+
+So, it was funny how, since 2012, often found myself e.g. in workshops in courses with people that I did not know, but who did have real business assignments to carry out, not the "fake" that other teams had.
+
+I stopped staying for the practical session: if you receive an assignment and are unable or unwilling to do, can offer a fixed price feasibility study, as did in the past with Cxx-level customers, who then used either other suppliers or their own staff to implement.
+
+I was also offered to join "business hackatons" (i.e. covering my old management consulting role for free, while others would cover more "technical" roles), or being offered to help set up startups for products or services, but always with similar "tremendous opportunities" arrangements.
+
+As once, when I was first asked to be for 40 days a PMO, then that evolved into being a PMO 1-2 day a week, but also designing the specs of a new software product within the automotive industry: how to keep "locked" with an exclusive contract for 12 months while paying for at most 40 days of work, and, as icing on the cake, obtain also the specifications for a new product.
+
+I politely declined.
+
+Thanks, in Turin I had already enough startups and companies that were quite "creative" on revenue recognition (and few suppliers that were equally creative: in Italian, we say "braccino corto e mano lunga").
+
+Another element worth always keeping in mind: in Italy, just because you get a salary from A (be it private or public), does not imply that information will stay just with A.
+
+As somebody in UK said when for an operation from Italy there was a complaint that they had not shared information (it appeared on foreign newspapers), they had not shared the information because they did not know who would then receive it.
+
+Since the beginning of the XXI century, smartphones brought routinely scandals about phone and message tapping- up to the ludicrous case of those that were to carry out the activities for official purposes, and set up a separate revenue stream by selling to third parties.
+
+Welcome to Italian tribal privacy in the XXI century.
+
+
+<b>And finally: forthcoming publications</b>.
+
+Now, this final section is both a plan and proposition- no, not a "tremendous opportunity".
+
+I stand with what I wrote above about my birthplace, Turin, as, after de facto stopping living and working there since the late 1980s (albeit in the early 1990s considered settling there, then I had to work elsewhere due to some local antics to keep me in the loop, that resulted in many positive interviews followed by ghosting as soon as checked references, up to the point that eventually I was called in for a second interview just to tell me that they did believe that I was fine but was too early, but wanted to meet me to dispel rumors that were then spread- those rumors were the Turin way of "retaining talent").
+
+You can read on this website many articles where discussed Turin past and future, and quite often added the disclaimer "there is still potential".
+
+I said so also to any foreign contacts I had since the 1990s while living and working abroad, both European, American (North, Meso, and South), Asian, and also Pacific.
+
+Locals in Macondo (my nickname for Turin), that saw the local car maker as the centre of the universe, have this myth that Turin was a kind of Athens focused on culture and philosophy and science before the car makers turned it into a kind of Charlie Chaplin "Modern Times".
+
+Frankly, you do not need to read the 9,000+ pages of an history of Turin that a bank sponsored long ago, to see that that is just a myth.
+
+The reason for the industrial, Tayloresque, control-freak company town is that all the basic "cultural Lego bricks" required were already in place.
+
+Akin to when a manager at a customer told me decades ago that the reason why banks that were shareholders set their location there was that they were coming from a specific culture where you intervened when needed and if needed, not because it was because it was your shift.
+
+At the time, 1990s, where was working there on cultural and organizational change, the issue was that, growing fast, had to "import" graduates from elsewhere in Italy, up to the point of providing lodging, but there was one thing that I had to share with them: the new employees looked for a job, so their motivation of feeling the company as their own did not work with them- had to build a different approach, and gradually develop from that.
+
+Why this digression? Because Turin, following its own myth, tried repeatedly (even before 2012) to use its significant resources to reinvent itself (courtesy also of a 1990s banking reform that created cash- and asset-rich banking foundations and, due to its company town past, Turin has two of the largest ones)-
+
+Reinvent, but always lingering on the myth of being, as I wrote long ago, akin to the Trantor of Asimov's Empire and Foundation: and over the last few years, this "center of the universe" attitude assumed the quixotic face of presenting itself as the "natural location" for whatever new quango or multinational bureaucracy is proposed worldwide, including spending money to attract events that generate profits, but whose workforce has nowhere close to the salaries and stability that the old industrial town provided.
+
+That industrial past, beside financial assets (firmly invested elsewhere) and physical assets (decaying, and subject to a routine of stellar announces for new development, that just generate short-term work for the many local architects, real estate, and of course brick-and-mortar industry), left behind a significant knowledge stock.
+
+So, following its own mythology, Turin instead of creating campuses outside to generate exchanges, as that would have implied having more academics not linked to the territory but teaching here (and viceversa), something that would have generated the most feared consequence, a loss of control, there was another solution.
+
+If you believe that you are the best location for whatever, you can believe that, if you pay students from Asia giants to come and study in Turin, they will go back and become your ambassadors.
+
+Instead, in my informal polling through language groups and meeting them around town, those students understood that they had an opportunity to enter Fortress Europe and get decent salaries and potential interesting careers- but not in Turin, and not in Italy: so, I saw some go to Switzerland, others to Germany, others elsewhere- including returning home to share what they had learned.
+
+In French, there are two concepts: "savoir faire" and "savoir &ecirc;tre"- roughly know how to do and know how to be.
+
+The still lingering knowledge stock potential is now acknowledged outside Italy, hence a recent mission from the Middle East that was announced here by giving information about the Sovereign Investment Fund of the country (i.e. hinting at investments), was then revealed as an expression of interest of having our local companies and universities to invest there to transfer knowledge, up to setting up a campus focused on their own local students.
+
+Decades ago, I told Italian colleagues of how, after the period of the trade licenses in China to generate e.g. revenue to sustain salaries within the army, we had in Italy cases such as those I was told while doing a pilot in e-commerce, i.e. Chinese sweatshops in the garment industry based nearby Naples that were able to deliver denim jeans and underwear at a price cheaper than the raw material, gradually then expanding elsewhere, and gradually climbing up the supply chain.
+
+If you want to absorb the Italian perception of art and fashion, being born in a location where every corner includes a bit of art helps.
+
+Flip side of the coin: Chinese born and raised in Italy are more Italian than Chinese, also if recently, as I share in a previous article, started seeing Chinese elementary school children learning Italian at school, but Chinese at home, to blend both and retain their culture.
+
+In the past, also Chinese were the "target" of that "we pay you to study here so then you go back and act as ambassadors of Trantor" attitude: and some of them told me that they had different plans, while some instead decided to stay in Italy.
+
+Recently, it was announced another twist: after one in Milan, another Chinese leading university will set up a campus in Turin.
+
+With a twist: they announced that will be residential, and the Italian tasked with location hunting shared that both students and professors will come from China, and will be augmented by university professors from a joint university-polytechnic initiative in Turin.
+
+Again confirming what I wrote in the past: if we do not open the minds and accept to lose control but in exchange of an increase of our potential, we have a couple of decades to be net provided of intellectual property, before decay will settle in.
+
+A litmus test will be having more non-Italian and visiting professors in Turin: instead, when I asked foreign PhD students I met here (and who do not plan to stay), they told me that yes, some of the courses are in English, but all their professors are locals.
+
+Potential is still there, but we will risk doing in academia what we already did in bits of the fashion and accessories industry, as I was told decades ago e.g. in Valenza about the externationalization to China of whole segments of the silver industry: started assuming that would be a way to reduce the costs while keeping prices up as they assumed that would never learn the processes, ended up grooming competitors.
+
+Solution: a first starting point could be to ship some of our academics abroad with a grant conditioned on returning back, to refresh our knowledge stock and build a network of exchanges, not just to subsidize the ego of few.
+
+IF you have a knowledge stock, and lose the industry that kept it afresh, either you find different ways to keep it relevant (e.g. integrate with the R&D of companies by providing facilities in exchange of projects and revenue to keep it going), or the current real estate frenzy of creating lodging for students will result, in a couple of decades, due to academic irrelevance, into as many empty boxes as Turin has now from its manufacturing and logistics past.
+
+And those who worked with me or for me in various activities around Europe know that I walk the talk: in the 1990s and early 2000s was quite expensive (a significant part of my revenue ended up in training and associated material, but then at the time customers elsewhere acknowledged that), in the 2010s and 2020s luckily most of those activities can be done remotely- pity for the networking (which really happens only face-to-face: you would not believe how many consulting and other opportunities started around a caf&eacute; or a pint, including invitations to join associations in various countries), but there will be time in the future.
+
+Recently received few "procrastination" or "budget freeze" notices, including for few missions that were close to the planned starting date: learned the hard way over the last decade that external pressures can kill any "sure thing", and frankly even signed agreements, so kept open until signed- but if many go on hold in few weeks, the net result is the same. 
+
+While was working with and for Cxx, July and August in Italy were the ideal time to brainstorm, as most people were on vacation, and those left as skeleton force did not need to remind their bosses that they existed.
+
+Obviously,since 2012 those are not my official roles, so I had to do what I did during the COVID lockdowns: see what study, research, writing I had procrastinated because needed a couple of months to produce results, and schedule it in this period. 
+
+Let's say that June did not go as planned, as did not have the continuity I needed, but late June and (hopefully) July for now seem to go well (despite the scorching heat).
+
+There are publication activities (not just articles and mini-books) that will disclose only when completed- if interested, monitor <a hreF="https://leanpub.com/u/robertolofaro">my digital publication profile online</a> (you can get the digital version of each mini-book also for free, but otherwise the printed version is available via Amazon).
+
+As a service to the community, as I think that in the future there will be a different concept of employment and organizational structure, will start next week to publish articles focused on themes that, frankly, I think that should be part of induction training in consulting, at first as an overview akin to when you study for a certification.
+
+Then, after some experience has been build up, each element should be repeated: as, by then, those attending the training would be able to understand also the depth, and not just take each point at face value, as many of those who certify on this or that and then seem to be able to repeat "chapter and verse", but understanding none.
+
+Considering the recent feed-back and speed and frequency of answers, apparently there is still interest in keeping me in Turin and Italy but without the possibility of building anything- so, I already turned down some activities that were an encore of past local initiatives.
+
+Probably, I will still be in Piedmont in 2026, when there will be local elections, while there could be other events and elections across Italy worth reporting on.
+
+So, beside the articles within this "mini-curriculum" (and maybe other material in the future on the same domain), will probably be local enough to Italy long enough to be able to report and pre-empt on events: as, frankly, I got so much used to observing the local antics, that it has become a pastime to share with few my commentary, and then see that my crystal ball worked.
+
+The more announces are made, the more public material to dissect becomes available- let's say will share as a kind of informal schooling on reading events. 
+
+No crystal ball or precognition &agrave; la Spielberg in "Minority Report"- it is just a bit of extended observation and instinctive non-manipulative empathy.
+
+Humans live and work mainly via patterns, and human organizations are even less able than individuals to really alter patterns fast.
+
+Actually, now as when I was 14, I think (and observed repeatedly, first in books then in reality) that, if you compress the time of change, there is even lesser chance that patterns will change: I could suggest a handful of funny movies about revolutionaries replacing dictators and turning themselves into their own enemy, but I think that this can be summarized with just a paragraph.
+
+Change takes time and meets resistance in those associated with the previous status quo; but cultural change (i.e. altering patterns) takes even longer and requires a significant effort to phase-out the old, phase-in the new, and integrate proactive action to subdue resistance to change: if you do a big bang overnight, you are stating "trust me, I know better", but then, to keep it together, you have to use what is available- which is basically old patterns covered with an Orwellian "new speak".
+
+If you understand what makes a group tick, you can also understand where it is heading to, and how would react to specific scenarios (you do not need to be an Asimov's [Hari Seldon](https://en.wikipedia.org/wiki/Hari_Seldon), just a thinking human that looks at reality systemically).
+
+So far, neither Italy nor the European Union disappointed: beside talks talks talks, the practical side of choices is consistent with the patterns followed in the past.
+
+Let's see it they will evolve: other publication opportunities.
+
+The new section on this website will host those articles, and will be akin to the ["glossary: common sense"](index.php?section=connectingthedots-scrapbook) wordbook series of articles, but focused on specific themes within the lifecycle of consulting activities.
+
+Stay tuned!

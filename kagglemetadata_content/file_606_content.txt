@@ -1,0 +1,784 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250721_communicationeuturin_20250721_article.png)</center>
+
+There is an interesting element that saw constantly since the 1980s, and which generated my choice to use PRConsulting as a name for my first freelance activity on cultural and organizational change. 
+
+Which is: small details can eventually count more than massive, structured communication efforts, in building communication channels.
+
+Well, over 11k words to discuss that concept about the impact of small details is quite an oxymoron.
+
+Over the last few months started having once in a while articles that are really a draft mini-book (as an ordinary minibook is between 17k and 20k words, plus supporting material- [you can find other mini-books on change here](https://leanpub.com/u/robertolofaro)).
+
+As you can see on my (summary) CV [at the bottom of this page](cv), worked across multiple industries, but my two main industries were the industries of my first two projects for Andersen, automotive (1986-1987, and then until 2024) and banking (1987-1988, and then until 2008, also if in reality from 2019 started again sharing online material).
+
+Interesting, because actually blending with prior experience in political activities also involving a foreign element, and office (and training) activities in the Army, eased interacting with further industries from 1988-2025.
+
+Working across multiple industries was each time a learning experience (learning to rely on industry experts to "hit the ground running"), I was then to work initially across them 1988-1992, first again for Andersen plus Comshare on Decision Support Systems, then for the Italian branch of Compagnie G&eacute;n&eacute;rale Informatique, to develop the market in methodologies (to localize MERISE and Yourdon, but also to develop custom methodologies).
+
+Incidentally, as I had done a bit 1988-1990 on Decision Support Systems, extracting from Andersen's predominantly "waterfall" methodology Method/1 elements of iterative and post-production product support that were more aligned to the needs of project supporting senior management in decision support, my experience in business and before that in the Army and and politics inclined more toward a kind of "hybrid" methodologies.
+
+Small details can have [tipping point](https://en.wikipedia.org/wiki/Tipping_point) impacts, notably when it is a matter of joint effort by independent structures that might have conflicting purposes: communication channels build trust beyond any formal commitment, specifically tailored to each customer.
+
+And those communication channels are useful when actual communication (or negotiation, or even crisis management) is needed.
+
+As I explained to my partners since I was called in the late 1990s first back in Turin to support (part-time, as usual- I was considered too expensive, back then) as project manager and the like, communication should be set since inception.
+
+Those who start spinning emails only to cover their back when some issues as developing but have not yet been disclosed are, in my view, less mature for their job than their should be- whatever their titles or age.
+
+And I remember more than once being called a "paranoid" for my approach to communication, only to be thanked later, when actually we needed to show a paper trail.
+
+The key element: too many consider communicating with the customer a nuisance and withdrawing time from operational activities, while instead, if you are in a coordination role, communication internally and externally should be part of your role.
+
+Otherwise, you get surprises- and, generally, this happens when it is too late to avoid impacts.
+
+At the macro-level, consider the negative history of the Zimmerman Telegram, and the positive one of the conclusion of the Missile Crisis in Cuba.
+
+I am quite confident that you know about the latter, but probably not about the former- the [book by Barbara Tuchman is worth reading](https://www.librarything.com/work/43143/book/236798688).
+
+The key concept: a misuse by Germany of communication channels provided by the USA as part of its formal neutrality during WWI was instrumental in pushing the balance in the USA for an intervention in Europe.
+
+Actually, while living in London, I found in one of usual remainder/used books bookshops Charing Cross a 1919 book on German spying activities in the USA in violation of diplomatic immunity, using commercial activities as a cover, and relying on the large community of USA citizens with German ancestry- I think that should be available also on archive.org- interesting reading, if complemented by the book linked above.
+
+Before the core of the article, I had prepared a section about my unusual project management career.
+
+Will postpone that to the new volume of the [QuPlan](quplan) series on project management.  
+
+Just a key concept: in the XXI century, a project manager (under whatever title) should be also a talent spotter and developer- otherwise, AI and computers can be much better, efficient, and precise bureaucrats.
+
+Why it is relevant to this article? The obvious usual quip- trust and confidence take a long time to build, but all that buildup can be wiped away quite fast.
+
+Last week was presented the new budget proposal from the European Commission for the next round, up to well into the 2030s (2028-2034).
+
+So, for reasons that will explain within the relevant section, decided that the new proposed budget should become the core of a new article (this one), on my path to producing the second volume of the [#QuPlan](quplan) book on project management and the associated study.
+
+Anyway, added two more cases, both linked to my birthplace, Turin, a former company town, as are more intuitive and of general interest- but focusing just on the communication side, the specific "business" side will be discussed in future articles (and, anyway, you can find prior articles about [automotive](search.php?tag=automotive) and [Turin](search.php?tag=turin) that are still online, respectively 107 and 241 as of today).
+
+All of them are about communication and change.
+
+Hence, the title of this article.
+
+So, few sections:
+_ presenting a budget: ringisho or pyramid?
+_ presenting the EU budget 2028-2034
+_ communication and reality: a political case about Turin</b>
+_ communication and reality: a business case about Turin</b>
+_ conclusions
+
+
+<b>Presenting a budget: ringisho or pyramid?</b>
+
+I know- a Japanese friend told me that the [ringisho](https://en.wikipedia.org/wiki/Japanese_management_culture) approach is slow.
+
+Anyway, six years ago this video presented the previous budget, whose proposal was presented in 2018, [EU budget behind the figures](https://www.youtube.com/watch?v=12mOzDatMvs), and, to quote then-President of the Commission Juncker, "proposed an ambitious but balanced budget: one that is fair for all".
+
+The budget then was at 1,279 billion EUR, contained (as the latest one presented few days ago- which instead goes to 2trn EUR), a "multiplier table", i.e. the increase vs. the previous budget:
+_ Research, Innovation & Digital: x1.6
+_ Youth: x2.2
+_ LIFE Climate & Environment: x1.7
+_ Migration & Borders: x2.6
+_ Security: x1.8
+_ External Action: x1.3
+
+In terms of amounts:
+_ I. Single Market, Innovation and Digital: 187 bln EUR
+_ II. Cohesion and Values: 442 bln EUR
+_ III. Natural Resources and Environment: 376 bln EUR
+_ IV. Migration and Border Management: 34 bln EUR
+_ V. Security and Defence: 27 bln EUR
+_ VI. Neighbourhood and the World: 123 bln EUR
+_ VII. European Public Administration: 85 bln EUR
+
+It was ambitious, if compared with 14 years ago, where the previous one was at 140 bln EUR / year.
+
+Back then, the presentation actually was just 2 minutes [An overview of the EU budget](https://www.youtube.com/watch?v=PxTnTIJ_YnU), but still found time to remember that represented 1% of the EU turnover, and, out of that budget, 6% was on operational expenses, all the other funding was allocated to projects, initiatives, etc.
+
+Moreover, those two minutes included also a summary of the budget definition process, and how Member States, European Commission, Council of the EU, European Parliament each one has a role to play.
+
+Yes, call it the "European Union ringisho"- but, in my view, it is needed- because we need to have each component fully involved, notably when the request is for what I will describe later- a significant degree of flexibility.
+
+And anyway, [over the years eventually a degree of transparency about the beneficiaries of its funding](http://ec.europa.eu/contracts_grants_beneficiaries_en.htm) was developed.
+
+Well, a degree of- that previous link does not work anymore, but [the current one (at the time of writing) is here](https://commission.europa.eu/about/service-standards-and-principles/transparency/funding-recipients_en).
+
+You know, there is a difference between a simple, a complicated, a complex, and a chaotic environment or set of activities.
+
+Let me give you an example in a bureaucratic, considering an activity from the beginning to the end.
+
+So, in a "simple" context, you have a single, co-located team doing step A B C, with shared organization, shared rules, shared purposes, shared focus.
+
+Step it up to "complicated", and might have the same- except that:
+_ the single team members belong to different organizations
+_ they still have shared rules
+_ they still have shared purpose for the specific activity, but also have their own organizational purposes.
+
+Why complicated? Because, frankly, "different organizations" does not necessarily imply different companies- also within the same company if, say, team members are from two or three different parts of the organization, it is more complicated to obtain shared focus. 
+
+Next, when it becomes "complex"? Add multiple agenda, along with the shared one- I will let you search online for examples, e.g. within PMI rules.
+
+An example? If your initiative implies building infrastructure, and one of the partners is stretched resource-wise, if new business that could represent a significant jump forward comes through the door of that partner, there are different options, each one resulting in a different situation:
+_ keeping it at the current level of complexity- turning down the new new opportunity (yes, I did this few times- I had already commitments)
+_ keeping it at the current level of complexity- helping the customer to find another supplier, while offering to help select and coordinate (did this too, in the past)
+
+Then, there is an option that can either retain the current level of complexity, if your partner has a structure to manage such situations (e.g. it is expanding and has processes in place to manage this kind of development).
+
+Otherwise, there are multiple ways that it could get into complex to keep under control, or even become chaotic, if it spins out of control.
+
+Generally, before it gets chaotic, starts the blame game: each party pointing the finger to another party- in that case, an intervention with a significant latitude and adequate mandate can help to reduce complexity a bit, to avoid the chaotic territory.
+
+If the parties were scared enough, actually such a borderline situation could generate positive outcomes, e.g. an overall renegotiation (the approach to be used depends on the specific context) that would move from complexity to complicated (yes, did this too, more than once, since the 1980s).
+
+Key element: if you act as the facilitator, you should focus on impacts and "catalyst" opportunities, not on visibility: the more solutions are owner by those directly and continuously involved, the better.
+
+I think that you can use a "pyramid" (vertical) approach to budget when it is "static"- and, as said during the presentation by the President of the Commission few days ago, this was the past- with most of the budget allocated to fixed lines- does not matter if it is 80% or 90% of 100%, it is still "fixed" (on that, I concur).
+
+Usually, a 20% is ordinary flexibility (e.g. in Italy, on some Government Agencies projects, was told that actually that "6th fifth" was embedded in the contract- could extend the budget by 1/5 if there was reasonable cause approved by the customer, without getting into a negotiation from scratch).
+
+In the early 1990s, actually proposed to customers a "scale of unknowns", i.e. the percentage of estimate flexibility associated with the level of information imperfection- but, again, will discuss another time.
+
+Anyway, if you assume to have more dynamic times, you can do what I did with a customer whose account was asked by a partner to manage (as usual in these cases and all the missions in Italy from the 1990s, until my return to work in 2012, all part-time, i.e. shuttling through multiple countries and customers).
+
+Or: as the customer asked more flexibility due to expected organizational development, proposed to convert the budget that they were used to "refill" monthly into an annual portfolio, with different degrees of flexibility, to verify monthly or quarterly with the CIO.
+
+Anyway, this required a significant level of mutual understanding and negotiation on what was within that "budget portfolio": if you do a superficial design of budget and budget lines, it will never work- and you will result in a chaotic situation.
+
+Or: it matters not just the intent (flexibility), but also the process (how you achieve a convergence and mutual understanding of all the parties involved on what flexibility means, boundaries, and process to apply that flexibility).
+
+Now, let's move to the European Commission recent budget proposal presentation.
+
+
+<b>Presenting the EU budget 2028-2034</b>
+
+Initially, I did not have time to watch the full presentation live, so watched only few minutes of the presentation on Linkedin, and assumed that will get more depth- more about this expectation later.
+
+Then, read a summary article published by an Italian newspaper, La Stampa, and this was my first feed-back:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250721_communicationeuturin_20250717_00.png)</center>
+
+Yes, this article is about that presentation (that watched in full, and whose transcript read, this morning), but actually as one of the three examples on communication (or lack thereof) that would like to discuss, as part of the preparation activities for another mini-book.
+
+This is the split of the budget during the presentation: 
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250721_communicationeuturin_20250717_04.png)</center>
+
+There was a further element, the "additional revenue generated by the new Own Resources Decision":
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250721_communicationeuturin_20250717_05.png)</center>
+
+The [YouTube presentation went on for almost 22 minutes](https://www.youtube.com/watch?v=7bDMLNlfZ2M) ([the transcript is here](https://ec.europa.eu/commission/presscorner/detail/en/statement_25_1851)).
+
+Interesting element: the view of the history of the commentary (i.e. the chat as was during the live session) had been disabled- not really that much of transparency, but, if it was on the tune of part of the commentary that I saw on Linkedin, it was not really that much supportive.
+
+It was almost an executive summary- so, I expected that the European Parliament had been given more information, and decided to watch also that video.
+
+The EP Parliament YouTube recording of the live session, [EU long-term budget: what is the European Commission proposing](https://www.youtube.com/watch?v=c3lVajQkAHY) instead has live commentary.
+
+It is quite long, but it is worth watching: as most of the commentary from Member of the European Parliament was aligned with what I had glimpsed on Linkedin.
+
+After 15min of presentation from the Commissioner Serafin, it was immediately commented by Members of the Parliament that communication had been poor and transparency on decisions was missing, beside few budgetary lines.
+
+Moreover, during the video was referenced the presentation from the President of the European Commission as yet to be done, and a shared complaint by those intervening was that they got more information from leaks to the press, than from the material that they had received from the European Commission.
+
+Also, from the material that the European Parliament had received, they saw no provisioning for inflation and repayment of next generation EU, despite the significant jump in resources.
+
+Closing commentary from J. Van Overtveldt: "this was not a good start, neither on content, nor on process". 
+
+And, frankly, in any budget proposal discussion I was part of (not in politics, of course- just in business), I never saw so limited information provided by those who are supposedly a party to the decision-making process.
+
+Moreover, if you consider that the President of the European Commission, in her presentation, asked to switch from the current constraints to three elements:
+_ flexibility to reallocate (promising shared decision-making, but, frankly, jumping the gun has been repeated criticism for this Commission)
+_ own resources, i.e. not from states, but levied from what would amount to federal "sin" taxes without a federal state
+_ instead of European solidarity, a nationalization of plans, which would obviously generate bilateral (Government-Commission) alignments
+
+In any budget management activities, flexibility is a risk if unchecked, as it requires a preventive "blank check" approval of budget lines, but then the rerouting, notably when claiming the need for rapid intervention, does not necessarily keeps checks and balances in place.
+
+Yesterday night received on Linkedin from the European Parliament stream a video that found funny.
+
+It is worth watching- and lasts less than any of the others above.
+
+Actually, is akin to an adaptation to Monty Python's famous political quiz cameo, blended with panels as in the Wall Street Rap from the movie Bob Roberts, but using the keywords repeated as the sole material to explain the budget.
+
+It disappeared during the day, but eventually saw it again on my Linkedin stream- you can [watch it here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Feuropean-parliament_lets-make-sure-the-next-eu-budget-is-more-activity-7344033245778358273-q1Zu%3Futm_source%3Dshare%26utm_medium%3Dmember_android%26rcm%3DACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExNlBZVkx3NEkxYTQxUEMxaQEeiPXQ6I413KUmTMwIB6RR42Y3HJPKCmmIJ53WFwWNJmO7zVVhH8MRroE1ljY_aem_OdKKkGxlqGkRonQYgI8rfQ&h=AT2Di6it42g9RW73vFil_bVMclT7w6Xhk4FU9gdzWMW6c1oGDlBBHUP9Ciy6qn26lfmbXdfp7K1PGqT3we_biiZyjDneeakBEgqyatpZhoovVPw5mwhR03p-K40RFlb2WmnRsA&__tn__=-UK-R&c[0]=AT1lVjvN3yraxNh1BgmfOxvW-dElWBhC9_B3Mahj3bMf0tH2al8YMhp4XE9qFxldkZMybg-iVdaJp34zBJy23lPFGSpjys2m5luVDc0wQnOztKR2gMdG7MDGqgrqRPPfKpw9wzhoZ5_SECzHl1JuCir6aZ-6IIAxIz2aWCwwa_OFkirTaCi5uBI4kynRP5_CwCC8KI1hzNI)
+
+Let's just say that if I had presented a budget by sharing that level of information for any startup or initiative, the presentation would not have started at all: after the attendees received the slide, I would have been told that the meeting has been postponed- something that, of course, was not feasible in this case.
+
+As for the motion of censorship: as I had expected, yesterday was announced basically that those who signed it were Russian stooges.
+
+My feed-back is simple: I do not care who are the signatories, I care about the content.
+
+On a process and mutual respect between institutions, that motion was anyway presented following the procedures.
+
+Considering how much time the investigation on Pfizer is taking to ensure proper balancing, an investigation on Members of Parliament would require the same level of scrutiny and balancing, not a quick public reference to a confirmation by undisclosed independent fact-checking: that's lynching.
+
+Moreover, in business, "independent fact-checking" makes you think to the movie "Thank You For Smoking".
+
+The European Union has proper channels to launch an investigation.
+
+What makes our European Union democracy different is (or should be) that we have more transparency and more ability to solve our issues by transparently discussing and keeping accountability paramount.
+
+If we are getting into the mindset that any criticism or request for clarification of the incumbent European Commission is tantamount to treason as could be of interest to our enemies, and deserves immediate ostracism, we are leaving the territory of a complex, multi-State democracy, and entering that of the old Soviet Union (or similar XX century entities)- [as shared yesterday in Italian on Facebook](https://www.facebook.com/robertolofaro/posts/pfbid0gHBEGs2rkjTpkvwiQZXtDWJnPyGWruHJeHpTxvrxxJ8kDA1GeqPxdaFhhsr9PNVql).
+
+Let's see how the checks and balances will evolve- "us vs. them" is not a good start, as was explained long ago within the BBC documentary [Five Steps to Tyranny](https://www.youtube.com/watch?v=bcse7w87TVw).
+
+The way the European Union makes choices now might be complex, not just complicated- still, it is a matter of democratic check and balances.
+
+Yes, it has to be streamlined- but cum grano salis: if we add more flexibility, we have to retain a degree of oversight, not assume that it is better to give a blank cheque of 2trn EUR to the European Commission.
+
+
+<b>Communication and reality: a political case about Turin</b>
+
+Now shifting from the European level to a more limited territory, Turin, but considered as a lab and test case.
+
+A caveat: this section is about Turin, about automotive (my extended definition: closer to "mobility, private and public"), and about change.
+
+Within change, communication has to be tailored to both audiences and the structural elements of the culture of the organization.
+
+I often tiny outfits, having been founded by people who left larger organizations, tried to replicate the processes of the source company.
+
+Few years ago, a local acquaintance showed me material from an offer she had received, to join a new automotive outfit, founded by former employees of an automotive company.
+
+The most curious element: it was small, do not know to which extent it was operation, but already seemed a company made only of director this, director that, senior managers...
+
+... as if they still were part of the 1970s company that de facto steered the direction of Turin and its surrounding areas, as if all were part of a large company town.
+
+Still, it is common, not just in Turin: when I had missions on cultural and organizational change, often found organizational charts that were the typical "off-the-shelf" result of reading too many of the "sacred management consulting books" (from Drucker to Kotler to Deming to others)- without understanding their context.
+
+It is almost normal if you are a small company to ask for advice from a consulting company working usually with large multinationals: also if their forma mentis is not aligned with the cultural and organizational capabilities of a small company.
+
+Whenever I had a cultural and organizational mission, or even negotiated one, I asked why they wanted to assign the mission, and the usual answer was either that they expected to grow, or that they were already growing.
+
+Hence, their choice to mimic processes and organizational structures aligned with their target state- but without considering that they needed a cultural and organizational transformation plan aligned with their current cultural and organizational constraints.
+
+Yes, moving from A to B might seem simple, but the less information and communication channels you have, the more it can move across the complexity scale, and become complicated, complex, even chaotic,
+
+In many cases, when I saw that the organizational structure had most of the managerial roles covered by family members selected by their inclination to cover that role, not by competence or even coached competence ("building up into the role" by flanking them with non-managers that had what they lacked)...
+
+... frankly either turned down the opportunity, or the potential customer understood that such a mission would not be feasible.
+
+In any case, without a mandate from a decision level adequate for the scope of the mission, I never accepted a mission.
+
+All this within a culture that tries to escape accountability and complexity not through governance, but through the search of yet another Alexander cutting the Gordian knot of reality, as if that simple choice would solve issues.
+
+Well, Alexander's "blitz empire" did not survive its founder, really.
+
+It is a typical issue, not just in Italy- albeit in Italy, as wrote repeatedly (e.g. [see the most read articles on this website](index.php?section=most-read-articles)), in Italy apparently we have the a constant craving for "lone leaders" guiding us toward the future.
+
+As if a culture complicated as the one in Italy, with all its "subcultures" ("campanilismo"- literally "bell tower culture") and fake/true memories of a glorious past, be it in Ancient Rome, the "Comuni", or Renaissance, blended with a blend of agricultural, industrial, post-industrial "best practices" and "historical habits", generating a really complex and, sometimes, chaotic society, could be really steered by just one person.
+
+Net result? We routinely have our own "Lone ranger" at the top, just to have him (as usually are men) falling down fast and being piled up with ridicule on the way down.
+
+As our collective (mobbing) courage is at its best when somebody is falling down.
+
+Old habit: this way, we can shift the blame to the fallen leader, select a new one, and move on- without any need to fix or amend anything about ourselves.
+
+I wrote in the past articles about "best practices" and the damages that they can generate, as well as the Italian habit of trying to skip steps and cut corners, looking forward to become "an ordinary country" in zero time and, possibly, zero effort.
+
+The usual tool? Building what I called [Frankenlaws](search.php?tag=frankenlaws): a bit of France, a bit of Germany, a bit of USA, a bit of UK, of whatever</a>, and we have our new law
+
+Except, then, of course, leaving the complexity of implementing that complicated mixed bag to bureaucrats within ministries (subject also to the "mermaids" of lobbying, what in Italian politics is called "la manina"- the small hand adding a comma here, a qualifier there, etc).
+
+The net result? If the implementation part is completed (we have hundreds of laws that were never implemented, but are still on the books), often we have a first chaotic period, when the consequences of half-baked structurally unbalanced laws and their impacts have to be managed- and the circus of negotiations begins.
+
+Which is the reason why already in the 1980s ago I told my foreign connections that in Italy, often we take a law at face value only after two-three years, if it is still there and implemented plus enforced.
+
+As it is a tradition that in Italy laws come with both carrot and stick- also when just one of them is needed; we Italians are prodigiously creative, when it comes to creating crime classifications (Cesare Lombroso, who died in Turin, was Italian).
+
+My example? The long history of laws about smoking in public places- which only in 2005 started to be really enforced- for the simple reason that shopkeepers suddenly had a strong incentive, i.e. not just their customers, but also the shop would be fined.
+
+It might seem a digression- but, actually, it was a quick way to summarize few hundred years of Italian social and legal history, and organizational habits I saw routinely since the 1980s.
+
+There are other element, linked to the "tribal" structure of Italian society, which is quite interesting, as you can find the same element that in other European countries you find only in closed communities: villages, military groups, etc- the allegiance to the tribe trumps over allegiance to the State.
+
+When you are part of a complex society, that attitude creates some obvious conflicts of interest that make even more complex carrying out what processes demand, notably those derived from "Frankenlaws".
+
+I posted already on Facebook and Linkedin over the last few weeks my commentary on both sides of the local evolution of my birthplace, Turin, a company town.
+
+So, no point in repeating it- except, to share that since 2012 (actually, since the late 1990s, while, as I was living elsewhere, kept being called back in Turin for missions), I have been an observer.
+
+Being a foreigner in your own birthplace in your 50s that you left in your early 20s, if you discount all the gossip and all the interviews or investigations and absurd proposals from the territory, is an interesting experience.
+
+I had planned in the past to write my own "7 years in Macondo" (akin to "7 years in Tibet"), but eventually time did extend.
+
+So, as you can see on [here](https://leanpub.org/u/robertolofaro), decided that it was potentially more useful to others (and to myself, to fix and develop ideas) to focus on writing about the two main lines of my business activities since the 1980s:
+_ data for decision support
+_ cultural and organizational change.
+
+Both of which, in my view, cannot be done unless you keep considering communication, audiences, etc- what I described over a decade ago in a mini-book, [strumenti](strumenti) (it old, I know- but about concepts and "framing", not really about technologies- so, still had to share its concepts across all my missions since 2012- hence, the choice to publish it in Italian).
+
+Turin has had some issues with communication since a long time.
+
+Whenever, since the mid-1980s, brought somebody in town from abroad, they liked the architecture and the food.
+
+Actually, some foreign friends already knew the former- as centuries ago, in their aspiration to become kings, the local leading noble family, beside the usual marriages, sent around architects.
+
+Shift to the XXI century.
+
+Since 2012, I saw more twists and turns in communicating the town than anywhere I lived or worked across Europe.
+
+Moreover, more than once these initiatives were an overlapping cacophony.
+
+The symbol? For a town that in each conference, workshop, event I attended kept praising itself for its own "understatement", it was a "modest" infinite.
+
+So much, eventually, that for a while the new motto became "so much of everything":
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250721_communicationeuturin_20250717_08_turinsomuch.png)</center>
+
+Then it changed, and with ATP Finals, hoping to keep them permanently in Turin, that infinite became two tennis balls.
+
+Actually, about "keeping permanent" temporary events: frankly, lost counts of how many events (or even international bureaucracies) Turin stated to be the natural location for whenever there was an opening for- as if attracting "whatever" brought business to hotels and restaurants, and generally to the hospitality industry, were the new industrial policy of Turin.
+
+Forgetting that that industry, also if this choice were to develop a continuity (and not just "peaks" spread across the year), generates "gig-based" jobs generally with lower salaries than the old manufacturing, and certainly with lower long-term benefits.
+
+When then FCA CEO Marchionne reactivated the company kindergarten (eventually closed under Stellantis), some local politicians and some Trades Unions used the old Italian Communist Party claim that he was "paternalistic": I disagree, as those are benefits common with talent retention in all the larger companies- actually, even the London School of Economics had its own internal kindergarten, I was told in 1994 by a professor, while attending there classes during the summer.
+
+Look at the retail and hospitality industry in Italy: how many offer a kindergarten (or similar benefits) to their employees?
+
+Sometimes, this "megaevent-orientation" verged on the ridicule, as when for the Eurovision Song Contest, that was held in Turin in 2022, some media (and some locals) vented the idea that should be become permanently hosted in Turin: the structural element of Eurovision (held in the country that had won the previous year) notwithstanding.
+
+Because, while the manufacturing side (and associated services) contracted, Turin tried to reinvent itself as the town of culture, of megaevents, of innovation, of... whatever.
+
+With a catch: all these twists and turns over the last few decades happened also because, courtesy of the 1990s law creating banking foundations ([you can read more about that here](index.php?page=415)), there was minimal funding spread around to sustain any "policy cul-de-sac" that a tribe vented- minimal, but with at least seven zeros each year, spread across.
+
+To make a long story short: the assets of these new entities were deriving from the privatization of Italian banks, and these entities were supposed to invest on culture, social development, etc- locally.
+
+Well, in Italy, anything turns into politics- and political sinecure.
+
+So, gradually the acceptable society oversight of these entities became control of said entities- with the obvious Italian results: sprinkler money across political (and business) local tribes.
+
+Turin, due to its manufacturing past, ended up having two of the largest banking foundations, Compagnia di San Paolo and Fondazione CRT, along with other smaller ones in Piedmont.
+
+The first time I had worked (actually, supported pro bono) somebody asking funding from these banking foundations was in the late 1990s, through local connections and also some startups I supported at the time.
+
+It was interesting to see how a sprinkler money system works: no real focus, just keeping everybody happy, and creating a cottage "culture" industry that lived of those meager funds, but built this way a career that, later on, opened the doors for more interesting roles.
+
+If you had been a "one-trick-pony" for over a decade with fancy titles, eventually, when a position with real depth opened, you could claim that over the last ten years you had covered increasingly complex roles within that line of business- i.e. you were an expert.
+
+Since 2012, I saw once in a while attempts to get more on the original purpose of banking foundations- but did not really work.
+
+And eventually some banks created or expanded their own "charitable" side to do what actually was within the original purpose of banking foundations that are still their shareholders.
+
+In this way, without political interference, the bank could use using banking assets to promote the leadership of the bank for its social role, courtesy also of laws that were created for other purposes, to generate incentives for social development.
+
+If it sounds confusing, it is not (for us Italians): it is the Italian way of using company or public assets to support local tribes, and one of the most entertaining events is whenever there is the routine change in the board composition, in part due to political (national or local) elections, in part due to term limits (which, in Turin, do not really mean that much- exceptions have been made by changing rules ex-post, as I shared via media articles in the past on Facebook).
+
+And this is part of the issue about communication: inflated expectations imply that communication has to keep being positively upbeat, and that any negative issue should be minimized, at least in communication terms.
+
+Next year there will be local elections, and there is a key issue: the perception of the local Mayor, despite trying in the past to look new (also if he was in politics for over a decade with prior Mayors from the same party) and positive even by joining concerts on stage to play (not joking), and being constantly on media, did not really improve.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250721_communicationeuturin_20250717_07.png)</center>
+
+Actually- there was a sharp decline.
+
+The old Italian Communist approach in the past, after since the 1970s at last was allowed to take the lead locally (it was not until decades later that we had the first former communist Prime Minister and President of the Italian Republic), whenever there were issues, was to "sell" a wonderful future and state that we ignore temporary minutiae.
+
+For those that complain about external influences on European politics by either Russia or the American MAGA movement: please, dig into some history books.
+
+If you have no time, have a look at [Who paid the piper](index.php?page=147)- which is a description of how was managed the "hearts and minds" side of the Cold War in Europe.
+
+Or, if you read Italian, there is a funny book recently reprinted about the history of how "Il Gattopardo", the book by Tomasi di Lampedusa, became a movie- and how the Italian Communist Party and also the USSR played a role.
+
+Well, this meddling and "Mains Sales" attitude (the Sartre pi&egrave;ce describing how a transition in choices resulted in a loyal communist being considered not aligned with the new times- or also you can read in the funnier "Animal Farm" by George Orwell similar twist-and-turns)...
+
+... in the Second Italian Republic (since the 1990s) actually spread around as Ebola, in terms of "success rate" in Italian political communication- and it is now endemic.
+
+So, as expected, you can summarize the reaction to the 2025 numbers (much worse than 57th) as "there are more important things".
+
+Anyway, we live in modern times, results-oriented, and therefore there have been various announces about a wonderful future.
+
+From a banking foundation that will subsidize road maintenance and repair in Turin for a while (a curious way to subsidize structural expenses of local authorities)...
+
+... to announcing that various events will be held or will stay here- just to then read few days later that a decision has not yet been taken.
+
+The latter is another typical local habit that observed repeatedly since 2012: deciding that Turin should be the natural destination for something, and starting to communicate as if it were already a close case.
+
+You can find on this website past articles that commented on that more than once: from stating that Turin was the natural destination for the 2026 Winter Olympics as it had the 2006 ones, to what I wrote above, to countless others.
+
+Including involving the political perception (or understanding) of business choices.
+
+From asking to have the national AI competence centre in Turin, using as an attraction rationale that already IBM, Google, Microsoft, and other major companies as here...
+
+... to claiming to be "the" place where a gigafactory for batteries should be based (forgetting that the area identified, former computer manufacturing, currently lacked the infrastructure and would take a couple of years, as reported by media)...
+
+... to having various startup accelerators, incubators, etc- but unable to develop "unicorns"...
+
+... to misunderstanding most of the announces within the automotive industry since Stellantis was founded from the M&A operation blending FCA and PSA.
+
+And actually this cognitive dissonance in communication went in various concepts about why anybody, from local banking foundations (acceptable) to European institutions, to foreign foundations (including the Bloomberg Foundation), and various foreign entities should invest in Turin.
+
+Zilch empathy (except fake one to better achieve marketing objectives), a lot of arrogance: communication in (foreign, but also national) direct investment attraction should be done looking at what motivates those attracted, in order to retain them long-term, not mounting a charming campaign that is akin to a Potemkin Village, to announce a success and...
+
+... a while later, once the initial funding or initial reasons passed, have to look around for somebody willing to take over the leftover (as it happened with Motorola and others).
+
+Another favorite is to have announces on local media one day about what meant e.g. a visit from a foreign team, in terms of investment, and then, the following day, find on the same media statements from members of the visiting party stating that actually they would like us to invest in their home country, to develop their own business ecosystem.
+
+
+<b>Communication and reality: a business case about Turin</b>
+
+This misalignment between expectations and reality extended to reading into events something more than what was actually formally announced.
+
+Notably when events concerned the former leading company, the FIAT car maker and its associated companies- from Magneti Marelli, to Iveco, to others.
+
+As Turin still has not accepted market reality that generated changes already visible when I had my first official project in automotive, in 1986.
+
+The issue was already there again in the late 1990s, from what I was told decades ago by local partners, simply starting to impact on the financial side.
+
+So, when few years later then-CEO Marchionne leveraged on the exit money from General Motors to relaunch the FIAT group, I heard the jokes in Rome (I was in a meeting when the "ticker tape" announced the choice by GM), but then saw how that funding was used as a springboard, along with asset disposals (e.g. buildings), managerial staff flattening, other restructuring etc.
+
+Later, FIAT acquired Chrysler, turning the company into FCA.
+
+Again, everybody locally told me that they expected to be leading.
+
+And I told them the usual thing I say whenever there is some ongoing M&A: beware, just because you buy does not imply that you will control.
+
+As, in reality, the entity with the stronger, more cohesive, more structured corporate culture often takes control.
+
+Eventually, the same people who had expected that all the offices and management would be moved to Turin, told me that, with FCA, you would need to be in the USA to go up.
+
+And the same happened again with any announce, including when FCA merged with PSA and became Stellantis: local media hinted at the potential benefits, expansion, and when sharing a cocktail or a pint, people were not shy about talking about the leading role that Turin will get.
+
+Only to then complain that Americans and French had a more significant role.
+
+Ditto recently, when the new CEO, announced to be an Italian, generated expectations that Turin would again take control.
+
+Only to be then stunned when it was announced that he would be based in the USA and, anyway, would still retain also the USA roles (something that, in other M&A cases, was considered a sign that that would be a fallback position).
+
+Turin both in politics and business has apparently a curious mindset when selecting his leaders, apt to small entities: say 50-100 people or even less, the level of size where the divisional manager or CEO or COO can take employees to lunch or dinner once in a while, and, as a team leader would do, know a bit about everybody.
+
+Turin within the latest [plan (256 pages)](https://risorse.comune.torino.it/bilancio/pdf/2025/DEL-775-2024-All_1-DUP_2025-2027_Vol._I_TESTO_COORDINATO.pdf) expects a "turnover" of 2bln EUR: so, if politics is not just administration, anyway administration of the baseline and its long-term sustainability matters.
+
+Is the differentiation between political guidance and administrative action clear, while selecting the leaders? Frankly, from the communication that I observes since 2012 in Turin, there is still the expectation of having know-it-all Mayor as if the Turin (and Metropolitan Area of Turin) organization were a grocery shop or small company around the corner.
+
+So, while I expressed my doubts about the succession of Mayors that observed since I was first called for a "part-time" mission in Turin in the late 1990s, personally I think that the issue is not just the Mayor selected and her/his personal experience and qualities: it is the whole concept of "recruitment" of the local political class that as to evolve.
+
+Italians since the beginning of the Second Republic in the 1990s developed an obsession for "competent leaders"- e.g. having a doctor leading the Ministry of Health.
+
+Well, anybody who worked with doctors in business knows that no single person could claim to know everything across that domain.
+
+So, when I hear "competent", I ask: in what?
+
+I do not care if a Mayor is a university professor, a former trade unionist, a full-time politician, an expert in annual reports: it is not their role.
+
+What matters is which team they build, and if they suffer from the megalomania way too common in Italy over the last few decades, to try to reduce complexity to what the temporary holder of the office understands.
+
+Forgetting that, if you, say, are an expert in A, and tailor the institution to your own expertise, then what you are leaving behind, when eventually will leave office, is not necessarily sustainable (if it ever was during your mandate- and the feed-back from citizens on incumbent Mayors in Turin is not really a vote of confidence).
+
+Shifting to automotive (meaning, in my case, mobility- i.e. not just private vehicles, but anything that moves, plus all the supporting industries, from automation in factories, to logistics, to spare parts, and even all the catering and building maintenance services, as well as, of course, bankassurance and other financial services).
+
+After Magneti Marelli, now it is the turn of Iveco, yesterday announced to be a target of potential interest for Tata.
+
+Tata actually has been a long-term partner of FIAT- and, frankly, since 2012, repeatedly received contacts via recruiters to work in Italy, within the former FIAT group, for TCS.
+
+Iveco has an interesting history, and the first project I had with them was a part-time facilitation role on a portfolio, a role that started in the late 1990s for a partner, a couple of days a week, when it was still part of the main company, and then the partner transferred the customer on that specific role to my UK company.
+
+In 2002, was, again part-time for a (different) partner, the round of FIAT Auto, on an audit project about knowledge management and retention.
+
+First large projects in the industry I had joined? 1986-1987 FIAT Auto (from budgeting to system test), and 1988 Magneti Marelli (completion, documentation, and pilot sites management training).
+
+Long ago, many larger Italian companies started setting their HQ formally in The Netherlands.
+
+Each time, said to my Italian contacts who worried about having to move to, say, Amsterdam, that, considering the salary levels in Turin (and processes and supply chain in place) vs. say Amsterdam, would make no sense to transfer backoffice activities there.
+
+Actually, some companies did set formal HQ there, but tax-wise kept being resident in Italy, as anyway all the flows were managed via Italy, and the main interest was about governance, not taxation.
+
+When I returned to work in Italy in 2012, my first project was in CNH, which in 2013 became CNH Industrial, blending both CNH and Iveco.
+
+So, my second project in the group, 2015-2018, was with CNH Industrial, covering both CNH and Iveco, as well as FTP, and with some service and (software) assets shared with FIAT/FCA.
+
+But in 2021, what started as a project with CNH Industrial, turned in January 2022 into an Iveco project with support from CNH Industrial, after the spin-off of Iveco.
+
+Therefore, I can say that saw between 1986 and 2024 the different phases of both FIAT and Iveco.
+
+Why the spin-off? When the then-CEO of FCA Marchionne was looking for a successor, the CEO of CNH Industrial made a public announce about spinning off Iveco, and looking toward shifting to FCA.
+
+A choice that, from my perspective as a former management consultant, sounded a lot as in the line of Marchionne choice to extract Ferrari from FIAT, i.e. a copycat.
+
+Anyway, Ferrari was a completely different situation.
+
+Media reported that Marchionne said that the CEO of CNH Industrial was fine where he was, and the latter resigned.
+
+Still, the spin-off dance took few years, but kept moving, and in 2022 was done.
+
+The only issue: as newspapers reported, an expression of interest arrived from China, but was not acceptable- as Iveco delivers also military vehicles.
+
+News reports over the week-end included the point that, were Tata to acquire Iveco, this would exclude the military vehicles.
+
+Again, both for Stellantis and Iveco is a communication issue, compounded by the general woes of the ["industry of industries", as I wrote in a recent article](index.php?page=599).
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250721_communicationeuturin_20250717_06.png)</center>
+
+There have been other news items over the last few weeks about Stellantis up-and-downs in Milan, and the one above is actually about a moderate ripple-effect of an announce about Renault.
+
+When the new CEO of Stellantis was announced, news reports stated that the impact on the stock exchange was because he was considered not the "transformative CEO" that was needed.
+
+How do you react from the company side to such remarks? Obviously, with communication.
+
+Actually, would have expected something more than a "reactive" approach- the choice was announced but without really "paving the way" to the choice: again, as if the decision-making team had been thinking in "small company terms", not systemically.
+
+You can choose what you want (it is your money), but then, before presenting the choice, should start, long before making the choice, to "build the signposts" on the rationale of choices, to phase-out the old rationale, and phase-in the new.
+
+Just dropping a choice into the void generates a conflict between expectations and reality, expectations that could have been managed with communication before.
+
+Albeit, frankly, I was puzzled even by the content of the reactive communication campaign.
+
+It, seemed more as if the communication was about positioning the new CEO as an individual (again the "leader" issue in Italy), than positioning his role and potential strategy.
+
+Again, fine if you are presenting a unique leader of a small company, but building a "mystique" of a sole leader is dangerous, for a large multinational.
+
+More confusing, further communication was often indirect, not from the leader himself, contradicting that approach: from the announce that the plug was pulled from the joint-venture in China, to the communication about some product issues.
+
+Also because, after taking the helm less than a month ago, what we are seeing, as in the old joke about the three envelopes, is the time of the first one- i.e. the results of the predecessor.
+
+If you build the perception of the "leader", both in business and politics, in Italy is always difficult to have people understand that in complex systems it takes time, to alter course, and that it is not a matter of a single individual.
+
+Still, in terms of communication, announces about the new CEO being empathic, even a note on a newspaper that was bringing pastries to employees, etc: it is a CEO, not a young team leader.
+
+Probably there is still an ongoing tuning on both strategy and communication, and maybe in the future, while building up a collective strategy, the new CEO will appear more to deliver news, due to the prior choice of adopting the "leader mystique" approach, but with a stronger coverage and "synchronized swimming communication" support also from the other members of the leadership team.
+
+As I often repeat here in Turin, when the late Marchionne arrived, said that he improved some working conditions because e.g. changing rooms were worth of Dickens.
+
+On the business side, he introduced WCM- which, in and by itself, implied further improvements.
+
+In Italy, notably in Turin, we have many companies that are not just small- also used to have basically one or few key customers who do their planning for them.
+
+Even when trying to select with local contributions leaders for either the town or local businesses, the mindset adopted seems to be tuned to local mindset, not a to a global supply chain with cultural differences.
+
+An acquaintance from Trieste told me in the 1980s during a travel from Turin to Milan that she moved from Trieste (at the time, around 40,000 inhabitants) to Turin (at the time, pushing around 1,000,000) to move into a larger town- but, at the level she was, she saw that the higher echelons of society in Turin behaved as in Trieste.
+
+Few years ago, in a "Turin Stratosferica" event, somebody from the podium said, as a provocation, that Turin used to be controlled first from the "Avvocato" (how Agnelli, nephew of the cofounder of FIAT, was called in Italy), then from 200 people, and more recently lacking a real leadership.
+
+I could say, to evolve what I wrote in the past, that now Turin is a town with an infrastructure for 2,000,000 people, looking downward to 800,000 inhabitants in few years, but managed as it were a town of 40,000, with an elite that thinks as if were a village of 4,000.
+
+Solution? Get rid of the local "control freak" attitude that continuously generates puzzling proposals presented as if they were tremendous opportunities, and outside are perceived as the usual "we founded something, we appoint all the key roles, you will provide the funding, but we will control as we are the founders".
+
+Yes, the proposal sounds a lot like the 1990s "get a smaller slice of a larger pie"- but the current status of local mindsets is what is really limiting Turin, not lack of resources.
+
+Just because you attract once in a while foreigners (marketing Potemkin Village style is a strong asset of Turin, frankly, notably between its &eacute;lites), does not imply that you will retain their interest.
+
+Also, the risk is that, once perception of the local communication habits is spread around (I shared in the past, also in Germany received jokes about some local antics in Turin- without saying anything), it will be abused by those equally interested in extracting value that they did not generate.
+
+As Turin is so generous (how many movie scenes have been shot in Turin, and within the dialogue are reported as Milan or Rome?) assuming that its "charm campaigns" generate attraction and sustainable (i.e. long-term) investments, it is to be expected that others will present "Potemkin Village" investment to extract value, and then move on, once the extraction is done. 
+
+Again, communication.
+
+I think that if it were really Tata to take over Iveco (for the military vehicles side, in the past newspapers rumored could end up with Leonardo), the potential is still there to do what was initially on the table when Magneti Marelli seemed to be heading toward an industrial partner.
+
+Or: the seller retaining a quota large enough to represent a dual commitment, a commitment from the seller to the buyer about the value; and a commitment toward shared interest in the future, e.g. 80% - 20%.
+
+The Italian Government and Trades Unions, as well as local companies within the supply chain that are not really used to have to develop their own business (happy to work here with different entities of the group), obviously immediately worried about the potential impact on the local economy.
+
+In Turin and Piedmont, as when it rains it pours, yesterday was rumored that also Carrefour might leave Piedmont (2,000+ jobs at risk), by looking for a third party to take over the shops that will not close, piling up on previous similar announces by other entities.
+
+
+<b>Conclusions</b>
+
+Prior experience with e.g. Magneti Marelli and Ilva should have taught more than a lesson about how to deal with changes as those that will be forthcoming in the future- and I am not referring just to Iveco.
+
+We should not just oversell our communication and then turn it into a new "baseline" reality, as then reality will quickly catch up with us.
+
+There is a difference between scenario setting and scenario planning- and a small old book on military exercises that purchased in Turin few years ago on a used book stand could be useful to understand the difference between reality and a conceptual exercise- realistic, but not real.
+
+In English, just watch the first 10 minutes of the 2004 HBO movie "Dirty War", set in London- that presents and discusses an exercise, and its limitations.
+
+In less critical conditions, anyway similar occurrences appear whenever you get into a "reactive governance" instead of "proactive governance" mode.
+
+It is a matter of risk management- and, as Italy discovered over the last few years, when you build your infrastructure (social, physical, technological) for your current assessment of risks, you have to continuously monitor those risks.
+
+If what was supposed to occur once every century occurs every other year, you have to reconsider whatever contingency plans you had prepared, and maybe even prepare plans to gradually evolve toward a new posture- as I saw in UK decades ago, while living there.
+
+In that movie, the first question by the minister about the size of the exercise (which is less than 3% of reality) generates an answer that found she puzzling how realistic it can be- the answer by the officer in charge? "It is manageable".
+
+Having an industrial policy does not imply what many think, i.e. having a wonderful business plan just on a larger scale.
+
+Actually, even with some business plans that implied developing a structure, beside the financial side, when I was developing business and marketing plans for startups and new initiatives had also a kind of "Bayeux tapestry" linking activities, financial, organizational structure.
+
+In business, many use the Gantt chart- but what many ignore, is that originally e.g. the "thickness" of each bar had a meaning, in terms of resources.
+
+It is like the famous visualization on the withdrawal of French troops from Russia after Napoleon's attempt ([explanation here](https://ageofrevolution.org/200-object/flow-map-of-napoleons-invasion-of-russia/)):
+
+a
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250721_communicationeuturin_20250717_minard.jpg" width="80%"></center>
+
+It is a matter of monitoring but also of orchestration, with an "orchestra", audience, and even theatre that continuously evolve.
+
+If we allocate scarce resources using a fictional baseline reality, probably we will subtract resources from other lines with more long-term potential, or at least will reduce our capacity to be flexible- akin to having emergency services in one town playing chess as they are overstaffed, while in the next town have to work double shifts.
+
+The key element is that Italy still does not have an industrial policy worth of that name.
+
+We pile up intervention upon intervention, and often without even considering direct ripple-effects and impacts.
+
+Look just at how was created and managed the 110% tax credit (search online for "110% Italy", and have fun), or how many of the lines coming from the National Recovery and Resilience Plan (PNRR) require from local authorities something that, with their current staff, they cannot simply cope with.
+
+Soon, the "placebo" effect of the National Recovery and Resilience Plan will turn into questions of how that funding was spent.
+
+In Italy (but, from what I read, also in other Member States) generated a large number of "earmarks" that do not really generate new revenue streams.
+
+The (in my view, correct) negative commentary from the European Parliament on the budget proposed by the European Commission includes a point about lack of funding and clarity of paying back what was dispensed by the various National Recovery and Resilience Plans.
+
+I tried already in 2020 to explain to my fellow Italians that both the "loans" and the "grants" part of the RRF had, anyway, to be paid back- the only benefit, for Italy, was that, if the country were able to allocate and properly invest all the funding provided, would become a "net beneficiary", i.e. get more than what will have to give back.
+
+I was skeptical then (as Italy has a "score" well below 50% in previous ability to spend), more worried now, as all the governments since 2020 had to "realign" due to the chronic inability to spend fast- so, I wonder how many of the original projects, even assuming that were all real investments able to generate future revenue streams, are still in place and will be completed on time.
+
+And, moreover, at the time when the National Recovery and Resilience Plan (PNRR) was being released to Brussels, transparency in Italy received in Parliament complaints similar to those that were uttered last week at the European Parliament: last minute information, not enough details, even, to have online what other countries released to Brussels to be posted on the website focused on the Recovery and Resilience Facility, the President of the lower chamber of the Italian Parliament had to release it on archive.org, once he received his copy (at least, it is were I found it- as it was not available on the "official" website). 
+
+Will be interesting to see how the new European Commission budget proposal will evolve, and where will be taken resources to pay back: will it be rescheduled, i.e. potentially shifting down a notch the rating of the EU debt? And, in that event, anyway who will pay what when? Will the flexibility become associated with something akin to a restricted Steering Committee jointly setup by Commission, Parliament, Council that has to authorize any realignment of budget lines?
+
+Also in Turin and Italy, negotiating with industrial partners or investors will have to change, and align with a timeframe that makes sense for both parties.
+
+And, probably, we should get closer to the [flexible security](https://en.wikipedia.org/wiki/Flexicurity) Danish approach: in Italy, and this long before COVID, whenever there is a crisis more money is dumped to procrastinate choices that, due to the weaknesses outlined above, generates an unbalanced set of commitments.
+
+Recently, instead of announcing just the usual procrastination of retirement terms, the head of the national pension agency in Italy, INPS, stated that maybe in the future we should consider not in terms of time spent, but of value added.
+
+Would be interested to see the mechanics- but, frankly, my interactions with that entity since 2018 [described here](https://leanpub.com/citizenaudit) do not justify a vote of confidence of a capability of managing a scheme that would be significantly more complex.
+
+If you are familiar with the sustainability and integrated reporting for companies, and concepts about product lifecycle, such an interesting concept will require a level of transparency from companies unheard of.
+
+Or, at least, an agreed algorithm to produce that unique number representing the value added- across different industries, products, technologies, etc, if you want to keep the source information internal and not disclosed.
+
+Why? Because Italian companies, in meeting I attended in Turin since 2012, already complained that some of the reporting requirements expose de facto internal information that represents a competitive advantage, and sustainability across the whole product lifecycle would further extend that.
+
+During the COVID crisis, I remember attending a workshop/webinar where a company presented how, due to the need to continuously monitor the status of the supply chain, had to ask suppliers to report not just their own information, but the information of their own suppliers, and specific contracts had to be negotiated, to ensure confidentiality.
+
+Computing value added for each employee or collaborator, notably when some people with specific skills will actually share their time across multiple employers/customers, would require getting and processing information "unbundling" internal business processes within each company across the whole economy- as a purely accounting approach to "value added" would not fly.
+
+As in sustainability reporting about e.g. carbon emissions across the whole supply chain and the whole product lifecycle (skipping technicalies: from raw materials, their processing, to all the "circular economy" lifecycle of a product- [see here for an introduction](https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview?gad_source=1&gad_campaignid=21028661931&gbraid=0AAAAACb4JAd1raTw3D-ywfDvTOTakwkhv&gclid=Cj0KCQjwyvfDBhDYARIsAItzbZEEDVgO54OJueMM0BTKrXF4TTGbNdb3qhwI3_WHzpu-WWrL_VZoe9kaAtWaEALw_wcB)), the quantity not just of data-points, but of point of collection of data and their interactions is staggering.
+
+I think that the concept, in an increasingly automated economy, coupled with a different concept of "citizenship salary", could be useful: it is not the number of hours you sit in the office, but your impact that makes a difference.
+
+Maybe I will write a paper on what, considering what I saw from the business side in business number crunching since 1988 on the "value added side" (not for taxation, but for internal purposes) could make sense.
+
+Hence, as not all the jobs will be equal, and many will be anyway automated, and not everybody will be interested in continuous learning (which is a pivotal element in generating value added), an inclusive system should adopt a different approach.
+
+I will follow the debate and, while this summer I have some other publishing projects ongoing, maybe in 2026 will try to develop and share potential models.
+
+The proposal I think should be shielded from easy criticism that is so common in Italy, and kills any idea before...
+
+... decades later, we Italian claims to have been the first- simply, did not let it develop (e.g. it happened with personal computers).
+
+Another boring element of Italian culture: each failure needs a scapegoat, not extracting lessons learned to avoid an encore.
+
+In all the projects and activities that had for customers and partners, notably those in for and around Turin since the late 1990s, I always tried to "shield" the potential culprits as they would actually be the only ones able to understand and share what happened, and help improve to avoid a recurrence.
+
+Obviously- unless they did not get the warnings and willfully continued to disrupt activities: in that case, in the late 1980s as well as in the early 2000s, I had no qualms in suggesting their expedited departure from the team.
+
+Italy is in a weak position: we invested massively in infrastructure after WWII (well, our cities and industrial infrastructure were bombed and attacked by both sides), but let it decay way too often- hence, we risks selling everything at a discount.
+
+Or: giving away our past investments in exchange of what amounts to renovation or maintenance costs, costs anyway financed in a short while by revenue.
+
+Revenue that, able to avoid the impact of all the investments that are considered as "sunk costs", would obviously generate interesting results.
+
+Results that, if the acquisition is from abroad, would probably end up being transferred elsewhere: or, we will finance value extraction, as we are currently doing with graduates trained in Italy with a significant contribution from taxpayers, end up generating value added in other countries.
+
+Typically, in Italy the State or local authorities provide funding and incentives (directly or indirectly), but are unable to "peg" them to results.
+
+So, instead of providing golden parachutes for companies, would make more sense to focus funding and incentives on the workforce that is going to be phased out, not on those promising to take over fading positions- as an incentive to retain the staff (i.e. the funding is linked to people within the operations, not to operations).
+
+If you drop the people, you lose the credits that could be turned into funding or "cover" from the State.
+
+Instead, in Italy we had also recently scandals of credits given for activities not yet done and, through a quixotic concept allowed by the Italian low, convert those credits not yet really awarded into cash.
+
+Call it securitization of potentials, not of assets or credits.
+
+Imagine if I were to get into a bank and state "I think that I can invoice 500,000 EUR to that customer by end 2026"... probably, they would call either the police or an ambulance.
+
+The past as shown that, if you cannot bite, it is useless to bark (no point in making agreements from which you cannot extract at least as much value from as your counterpart).
+
+Also because it is not just Exor that is phasing out different interests within the mobility industry in Italy, as often Italian politicians and Trade Unions seem to think, from their statements: as I described in previous articles, the issue is significantly larger, and implies managing a continent-wide phase-out and phase-in.
+
+Just shifting part of the former automotive factories to production for military uses will only partially replace the extent of pervasiveness of the "industry of industries" within the European Union economy.
+
+Let's see if communication will shift from the current boring routine of soundbites that allow everybody to sound resolute, direct, "managerial", while actually simply floating through time.
+
+I think that made enough enemies in the past with my articles since 2012, and even more in the latest three months- which is a dangerous proposition, in a tribal territory such as Turin, which is usually quite vindictive.
+
+Anyway, while I do not expect to get anybody take over at least the economic impacts of my forced return to Italy, or to have any role close to what I did in the past, frankly I think that, while looking to relocate again, it is worthwhile to share concepts that I am tired to get a feed-back on a person-to-person basis.
+
+In Turin, so far nobody with access to resources to catalyze change takes on the communication task: as I wrote above, an aspiring cosmopolitan city managed as a small village- where nobody does anything that could unleash retribution later on.
+
+Actually, I would say in German doch and in Russian daniet: in typical Italian way, they do join with gusto- but only when the target at least apparently has lost any power.
+
+It is normal in a gossip culture, to have that coupled with bullying- an interesting movie on that dynamics is [Gossip](https://www.imdb.com/title/tt0176783/) (I liked notably when, at each reverse of the tide, people stares at the current target with disgust- only to switch target later).
+
+In Turin, I had my routine of people trying to keep me locally by venting advice on why should stay here, or trying to keep here by sponsoring personal relationships.
+
+As the ordinary way (the "if you want people worth a damn, make the job worth a damn") does not fly here: the fear is that of losing control.
+
+In the past, was more than once told that the local logic, if you are not "embedded" in the territory, is at most to appoint officially on something that you have no title for, while asking you to do what you have competence for.
+
+This way, if you gain visibility and there is a risk of losing control, suddenly your lack of titles or experience in your official role generates a pulling of the plug and, by extension, this undermines also the credibility on what you have been doing unofficially.
+
+A curious concept of "talent retention"- as curious as procuring a wife or husband to keep in the territory.
+
+Anyway, while sipping a cappuccino or coffee around, I got used to funny stories as having somebody sitting beside you or at the table next to yours at a caf&eacute;, and shouting advice to somebody joining them, or over the phone.
+
+Actually, as shared in previous articles, while going out for dinner with one or more former classmates, with one of them we had a game: as soon as either of use spotted a team doing those games, we started a duet to elicit reactions- and, usually, eventually stopped pretending to be talking, and spent more time listening to what we said, or even reacting to it.
+
+Even funnier when the "unsolicited advisor" is alone, has nobody to call on the phone, but has the urge to release advice: and start talking pretending to talk with somebody just listening on the other side of the phone (even when the screen is actually showing that no call is ongoing).
+
+Which reminds me a guy in Turin who decades ago, before mobile phones, was roaming via Po in Turin, shouting commentary.
+
+Well, eventually, when mobiles arrived, he understood that could look less unusual if he had a phone and a earphone.
+
+Initially, he did not have the phone: so, simply got a cable, connected it to his earlobe, and went around talking as before, but now looking as many of the early users of GSM mobile phones in Turin and Milan, who had to look important by shouting whatever they were saying over the phone, so that everybody knew that they meant business.
+
+Jokes and cameos aside, I rather share my feed-back, hoping that others will pick up whatever is convenient to them, and use it in a positive way- for themselves, but potentially for others.
+
+Retirement? I ruled it out even before I started to work, and also when I was based in London and had customers around Europe, as I was billing the hours I worked, sometimes took hours off between meetings and negotiations to visit exhibitions, sit in a caf&eacute; with a book, or even just walking- albeit, actually, that apparently "idle" time included also keeping always at hand something to take notes on, and making mental notes, that would then use in my activities.
+
+As I was told repeatedly since the 1990s (even recently): yes, I am in permanent training- as even a travel or an accident is a learning opportunity, and you never know when that curious cameo that you observed could be worth replicating or writing about.
+
+It is the same approach that used in the late 1970s when, as a teenager, as there was a new law about what we called in Italy "servizio civile" (i.e. serving the then-compulsory service but not in the army), I went into a public library, studied the "Gazzetta Ufficiale", and then prepared a lesson for my high school class, answering question etc.
+
+Some of my classmates eventually, when they turned 18, applied for that alternative service.
+
+At the time when I had decided to prepare the presentation... I had already decided that was going to serve.
+
+Reason: to apply for the alternative service, I would have been required to lie- as I think that, while I would prefer to have no armies, until there are armies around, the State should have the exclusive of use of violence, but under the strictest oversight.
+
+Hence, serving in the Army for my compulsory 12 months (and making them worth doing- see [my cv](cv)) was politically consistent.
+
+I had already tried to see if I could eventually join the Italian airforce but, after reading within the material they sent me that, with my eyesight (bookworm!) I would at most park airplanes, went to study (again in a library) for the private pilot license, and when I was 18 applied to serve in a different service- the only student in my high school that retired from school before Xmas, spent a couple of days during the vacation in barracks in Montecassino, was turned down, and was again admitted in school after Xmas, to then eventually serve in artillery a couple of years later.
+
+Therefore, my research and study is not necessarily for my own personal interest- since forever, it is more a "political" choice (I have enough patience to be a bookworm and then consider the information from different perspectives and from the audience perspective, others don't, hence took over digesting information- I did not know, but was starting already then to act as an advisor or management consultant).
+
+Actually, even in data science, if you look at my [Kaggle profile](https://kaggle.com/robertolofaro), you will see that my focus since 2019 is to produce and upload curated datasets, i.e. taking real data from open sources, and converting them into datasets that can be used in real or portfolio projects by others.
+
+For business and other reasons, again since the 1980s had to study and review contracts, laws etc.
+
+While writing, usually I watch movies, documentaries, or listen to music.
+
+This morning, while working on closing this article, I decided to watch a French documentary with interviews directed in the 1990s by Bertrand Tavernier, interviewing some of those who served in Algeria from 1955 until 1962 (yes, in French).
+
+Interesting- because reminded me a lot about when spent a month in Sweden on intercultural communication and management, and some of the material was about oral history of American native tribes: I think that now that we have technology, we should do more to collect oral history, and keep it along in "time capsules".
+
+Sometimes, as in the case of wars, history is not necessarily all good and well, but, frankly, a thing that always disliked about my country is the attitude to hide past social history.
+
+As Churchill reportedly said, there were 45 million fascists before WWII, and 45 million anti-fascists after WWII, yet statistics did not report that there were 90 million of inhabitants in Italy.
+
+Since I was a teenager, along with Constitutions, liked to compare how countries treated people that had to spend time in jail- and in Italy, found that (late 1970s) there were plenty of books about jails from the perspective of prisoners, and none from the perspective of those working in jails.
+
+So, it was part of my choice of where I selected to volunteer for to serve my compulsory service in the Army (yes, that's why was in Montecassino)- writing a book about the perspective from the other side was a way to seed a discussion, because I never accepted the Italian attitude that is present in many that security forces, military, jails are only on one side of the political spectrum.
+
+In that French documentary, quite a few of those who were interviewed who were also members of the French communist party reported that, when they were called to serve, they asked to their party references what should they do, and the answer was that the proper place was to join the army (obviously, using the proper Leninist lexicon).
+
+While going around Europe, listened at and read what others said about their own country judicial system, as well as the relationship between citizens and security forces, and occasionally still watch documentaries on the subject- and about that and science, it is funny how, if properly used, FB algorithm allows me to receive frequently items about a variety of subjects that otherwise would never see.
+
+For historical and industry reasons, since the 1980s actually many of my foreign contacts in the banking or consulting industry were former professional military and related- hence, learned a lot about their approach as closed groups, not just from academic studies (as a teenager, I liked reading books about cultural anthropology and overall cultures).
+
+In Italy, it took 17 years and 70k EUR (if I remember correctly) to have the European side of law (as you have to get through all the national levels before) to acknowledge that during the G20 in Genoa in the early 2000s something went completely amiss, notably at the ["Diaz" school](https://www.repubblica.it/dossier/cultura/cinquanta-anni-di-repubblica/2025/07/21/news/g8_genova_blitz_diaz_2001_concita_de_gregorio_50_anni_repubblica-424742406/), that was turned into something acceptable only in Argentina under the military dictatorship.
+
+So, at last, Italy too had a law about torture- that anyway has been chipped at since was set in the books.
+
+Ditto for the disaster of Ustica, or one of the various terrorist bomb attacks.
+
+And this "forgetfulness" extends also to those serving in security forces, e.g. be it Carabinieri in Nasiriyah, or soldiers exposed to "depleted uranium" during the Balkan Wars.
+
+Italy has a routine of willingly forgetting the past- so it can be repeated times and again.
+
+Organizational memory is an important element of the cultural and organizational change mix in any type of organization, notably in policy setting, public or private.
+
+How do we want to implement reforms, if first we do not remove the "mental" (OK- and legal) "memory blocks" that shield part of the reality about how the State or tribal parts thereof behaved? Not to for retribution, but for acknowledgment, assessment, and to ease preparing a blueprint for the future that is not based on cognitive dissonance.
+
+As, anyway, implementing change is a negotiation: and if you share the material to support negotiations, and they share the territory, eventually hopefully conflicts of interest will generate a series of alternate potentially positive side-effects.
+
+Much, much slower than when having a clear, shared, inclusive, systemic strategic approach: but it is a matter of Real-Politik, or, as we say in Italian (another sign of our recent past as a pre-industrial country) "si fa il fuoco con la legna che si ha".
+
+I know that this section is not what some of my readers expected- but it is actually part of its rationale: do not look at your own turf in a vacuum, think systemically, if you want to make reforms or investments that are sustainable, i.e. long-term.
+
+Otherwise, keep tinkering until you will have no more assets to dispose of.
+
+So, stay tuned!

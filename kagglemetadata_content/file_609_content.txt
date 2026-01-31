@@ -1,0 +1,362 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250803_article.png)</center>
+
+This was supposed to be yet another Friday article, i.e. the day after the announce of the sale of Iveco to Tata, and IVD (Iveco Defence Vehicles) to Leonardo+Rheinmetall.
+
+Then, decided to wait a couple of days, and have this article ready and released by the first working day of the following week.
+
+The title says it all: it is about mobility, Iveco, and Turin.
+
+Why this mix? 
+
+Disclosure: if you visit my CV page, you will see that worked repeatedly in and around that company, in various missions, the latest one in 2022.
+
+Anyway, my commentary has nothing to do with the missions I had there.
+
+So, to keep this preamble short, here is the list of sections:
+_ introduction: it is a matter of culture
+_ the current context (no, not just trade tariffs)
+_ a glimpse of the future
+_ conclusions: it is a matter of culture
+
+
+<b>Introduction: it is a matter of culture</b>
+
+To talk about Turin, let's start with Basel early 2000s, and Trieste early 1990s.
+
+In the early 2000s, was living in London, with the main customer in Paris, the EMEA branch of an American business intelligence software company.
+
+I had been hired as a management consultant to help improve their sales and negotiation activities, as I had worked since the late 1980s also in that area (both as domain and as industry, [see my CV](cv)).
+
+Eventually, evolved also into coordinating solution design / "proof of concept" (POC) projects, with the project team composed mainly of American product or technology experts.
+
+Eventually delivered also sales presentation in events in France, to prospects in France and Spain, and events also in Germany, due to my late 1980s first training in London on pre-sales and solution design for senior management, and associated pre-sales and POCs in Italy. 
+
+While in Paris, met their agent/distributor in German Switzerland, who needed some support in the same area, and specifically on some key accounts.
+
+Hence, had a "test project" in banking, and one in pharma (but both really on financial controlling on initiatives).
+
+So, for the first meeting in Basel, I landed directly there, at what was called Europort.
+
+Well, one town, one airport, three borders (Switzerland, Germany, France), i.e. three exits.
+
+Of course, I did not get the right one, therefore had to re-enter and exit on the Swiss side.
+
+Anyway, it was interesting eventually to see how those three cultures blended.
+
+In each working day in German Switzerland, whatever industry, I had a blend of cultures and people.
+
+Ditto when, while working there and sleeping in Bern, Basel, Zurich, went out: again, a blend of cultures.
+
+In business activities, the funniest example was probably while working on a risk management project in Bern within a bank.
+
+One Friday, I heard a sound of metal, and saw what was basically equipment similar to a military field kitchen been brought in.
+
+Was told by the manager on the customer side a couple of things, both in Italian (as he spent his vacations in Venice):
+_ first, that I understood German more than I claimed (attended meetings, took notes and, when in the first day on the project, they dropped on my desk the specs in German, end of the day pinpointed elements on which, using my prior experience in banking risk management in English and Italian, asked for clarifications or highlighted potential adjustments)
+_ second, that they worked hard and played hard- and, being a multinational team, on Fridays (which were really casual Fridays) a team member cooked a national favorite dish- while I was there, it was Hungarian Goulash.
+
+Then, another couple of cultural examples from Trieste, which is in Northern Italy just on the opposite side of the country from Turin, close to Slovenia.
+
+In the early 1990s, I was selling methodologies, training, and associated change services for a French company.
+
+One of the customers I got for my "free methodology open days" was a large insurance company in Trieste.
+
+The idea of having open days was from the marketing director who had lifted that from a French car company, and I used my prior coordination of direct marketing and pre-sales experience to set up the repeating event and target potential customers- a routine that did few times between the late 1980s and the early 2000s for different targets, as I wrote in the past.
+
+Back in the early 1990s, to travel from Milan to Trieste by train was quite an ordeal- so, went overnight, and had a chance to visit the town at night and, courtesy of a friend who confirmed a prior suggestion, have a nice fish soup.
+
+In one of the main squares saw ropes all along the wall- and was told that actually were needed to hold on in case of windy days.
+
+Few years later, for a banking customer, was in another "extreme North" corner of Italy, Gorizia, exactly at the time when that side of Jugoslavia was dissolving: the first night, the local TV news reported that for the first time since WWII a pickpocket coming from outside town had tried to steal from somebody- immediately arrested by a mix of forces.
+
+As, at the time time, Gorizia probably had the highest per capita concentration of security and military forces of any major town in Italy.
+
+Then, during my stay, when we had just been told during a meeting that the next time we would be invited in a fish restaurant in Nova Gorica (the other side of the border), it was announced that actually they had bigger fish to fry.
+
+It went quite uneventful, if compared with the Balkan Wars before and after (while working for the French company, I saw also what happens in a multinational when one country levels sanctions, and another country where the company has a branch does not).
+
+All this digression on two major towns on the North-East of the Italian border to add more points to the famous dictum "culture eats strategy for breakfast.
+
+Italy is a united country since over a century, but it is still partitioned by cultures- and, locally, by what I call "tribes"- groups of interest often conflicting.
+
+To the point that, whenever there is a new initiative or technology or opportunity, it is a routine for Italy to miss the train just because each tribe tries to build "in house" the human capital or capabilities that lacks, rather than join forces with another tribe; and, actually, decades ago joked with foreign colleagues that a company would rather sell to a foreign company, than to the one on the other side of the street, if the owners belong to different tribes.
+
+I was in Trieste to deliver what had sold, a workshop not focused on a specific methodology, but on an overview of "house products" (MERISE and Yourdon), as well as other concepts derived from my experience in working on PASCAL and PROLOG first, and then Decision Support Systems as well as more traditional "waterfall" projects in automotive and banking.
+
+Actually, also in the first project, in automotive, recycled concepts of "developing incrementally" that had learned while studying for fun first archaeology and cultures, then... compiler design.
+
+Long before started university, and had applied the latter on my first software developed and sold, a graphic/symbolic solver of 2nd degree equations. 
+
+That's why for Andersen+Comshare, in late 1980s, selected from Andersen's methodology the "iterative development" as part of foundation of my use in Decision Support System models design and development.
+
+Really: it helps to come to software design from interests in archaeology, cultural anthropology, and applied political science in politics.
+
+You learn that, as President Eisenhower reportedly said, a plan does not survive contact with reality- but it is the planning activity that matters.
+
+Reason: the planning exercise allows you to better understand not just what you are dealing with, but also where you are starting from.
+
+In Trieste, on that workshop on methodologies, discussing characteristics of what offered, was told that they had a specific local issue. 
+
+Whenever came to consulting, back then, there was really a revolving door between few large companies and few local consulting/system integrator entities: to get fresh ideas, they had to get somebody from outside.
+
+As I was told directly, due to the costs, improbable that there would be the usual follow-up to build a methodology etc (as e.g. had, as a side-effect of a workshop, with a banking outsourcing company nearby Parma- over 15 years of missions that started with a similar workshop on methodologies and few days focused on expanding on that).
+
+Now, Turin in the early 1990s still claimed to be "the" manufacturing capital of Italy (at least, in Turin itself), and certainly still behaved as a full-time "company town".
+
+In Turin back then everybody apparently either worked in, for, or had somebody within the extended FIAT group.
+
+So, you could go out at dinner, and, the following day (actually, the same evening), news spread around.
+
+Actually, as I was told around a decade ago, it took less than an hour to have gossip about a coffee at a vending machine to spread across town, also if apparently nobody was there.
+
+A key business consequence of a company town is that, if you want to set up shop locally, you have to integrate with the company.
+
+In the late 1980s to late 1990s, some consulting colleagues in Turin complained that rates locally were lower than elsewhere because retired employees returned as consultants.
+
+So, they could compete, as anyway had retirement benefits.
+
+Turin, already back then, was a relatively short (couple of hours) train ride from Milan, and even less by car.
+
+Still, the "revolving door" that I was told about in Trieste generated a similar impact in Turin: "organic" to the main company in Turin.
+
+Side-effect: also small companies, and sometimes startups, are inclined to adopt approaches and decision-making processes that sound of "Ministry of Manufacturing" (as my UK colleagues in London told me of a bank that they nicknamed "Ministry of Banking")- way too complex for their structural size and development stage, as would require a much larger "back-office" staff.
+
+In the 1990s, I saw sometimes also abroad and in other towns in Italy companies that, in order to scale up, scouted for people coming from much larger companies.
+
+The first thing that they did when hired to cover administrative, coordination, control roles, tasked with the expansion? 
+
+Expand their own staff and revise processes- adding overhead to the operational side, who often had to do what they did before, but with additional bureaucratic layers.
+
+But, as you can expect, the key issue is becoming self-referential, and remaining self-referential also when the company town is not a company town anymore, i.e. has what I observed since the early 2010s.
+
+Again: culture eats strategy for breakfast- and culture can actually kill strategy.
+
+Hence, the current status of Turin, and its soul-searching that I saw discussed in workshops and book reviews meetings since 2012, and more in detail in 2015-2016.
+
+All discussing about parallel potential futures, as if each tribe had access to unlimited resources and had already done a perfect SWOT and identified opportunities that nobody else but Turin could seize.
+
+This long introductory section was to share some key elements related to the cultural side of Turin as a business environment, while more will be discussed in later sections.
+
+Anyway, as of today, on this website you [can find 136 articles discussing company+town+turin](search.php?tag=company_town_turin).
+
+
+<b>The current context (no, not just trade tariffs)</b>
+
+Courtesy of the plenty of articles that posted in the past on this website, this section and the others until the end of this article will be shorter than the previous one.
+
+I will also follow the Dutch concept that I first met as title of a book by Lee Iacocca, decades ago: talking straight.
+
+A bit below the belt, but this is the time to avoid seeing resources squandered following pipe dreams while ignoring reality.
+
+Everybody is talking and concerned about the trade tariffs but, as I wrote [in my latest article on this website](index.php?page=608), the more critical element is the  structural impacts that generates- including on investments on future capabilities and to increase competitiveness of the European Union.
+
+There is a wider context: demographics and ongoing transformations.
+
+Demographics: in Italy, people are getting older. In Turin, as shared before from official data, in most of the areas the average age is close to 50.
+
+There are multiple transformation (digital, EU further integration, etc)- but will use automation as an example.
+
+Automation is extending beyond the past boundaries- and [we still do not have considered the difference between AI-based automation and previous rounds](index.php?page=607).
+
+On the evolution of the former FIAT group, I will not share here what I wrote in previous articles, but I shared already years ago why I considered not a wise choice to sell Magneti Marelli and Iveco.
+
+The key element: both cover markets that will have future potential- also if both would have required a significant investment in human capital to align with times.
+
+Anyway, as I keep repeating since then, and even recently well before the spin-off of Iveco was completed and the potential new owners were discussed on newspapers, the issue is at a deeper level.
+
+As I repeated also today via whats app: for decades, while the "company town" concept was fading away, the attitude did not change, and continued by inertia.
+
+The territory stopped developing human capital adequate to the new structure of the group and a more global market, and turned inward-looking.
+
+Or: Turin fell in love with its own legend- and, since I returned to live and work in and around the town in 2012, routinely on both Linkedin and Facebook shared news items about a continuous stream of announces about why Turin would be the "natural destination" of whatever opening there is worldwide for...
+
+... a new potential source of "tenure" bureaucratic jobs.
+
+Typical side-effect in these cases, both in the private and public sector: bureaucracies and internal politics do expand, with an inclination of looking for reassurances from external sources of reference.
+
+As Gabetti said once in a presentation that attended not too many years ago: shareholders used to select managers, now it is HR.
+
+And, I must add, using a cottage industry of "filters" that never managed anything close to the complexity that they are claimed to filter, useful to assert that accountability is shared.
+
+If nobody is fully accountable, then the curious element is that it is not those who made the choices that have to reconsider their approaches, but those that have been chosen who become the "capro espiatorio", as we say in Italian, whenever things go wrong.	
+
+So, in this scenario, what would shareholders who do not have roots within the territory do, if they are not confident that they can have the right people to appoint for critical roles and steer into a new future to keep generating value?
+
+Extract value from existing organizations to generate resources to invest in what will have a future.
+
+Unable to implement a proper governance due to the too many Gordian knots that have been generated for decades, they simply follow the Alexander approach with the original Gordian knot: cut and move on.
+
+Years ago personally suggested that, if that is the case, then it makes sense to find an industrial partner able to develop, and retain a quota.
+
+Both to be "invested" in the future (reassuring the buyer), and to benefit from the potential upsides if the industrial partner is successful.
+
+Anyway, Exor already moved on and tested similar concepts: few years ago, tried to expand the publishing side, that traditionally was around La Stampa, by adding other regional newspapers, and then also the La Repubblica/L'Espresso group, and with an interest also in other publishing entities, including outside Italy.
+
+The potential was to become a media group across multiple media, able to become a data group spanning both Italy and other European markets- as "data is the new oil", go for the source.
+
+Apparently, did not work: eventually, sold L'Espresso, while retaining (for now) La Repubblica.
+
+Also the Magneti Marelli sale eventually did not turn into an industrial development, but, recently, into Chapter 11.
+
+Another recent asset devolution from the group is Comau, operating in automation, which anyway over the last few days instead announced the acquisition of another Italian company operating in automation.
+
+As I wrote in the past, I think that automation will extend into human-machine collaboration.
+
+E.g. already exoskeleton allow to design new processes and production/warehousing/logistics facilities enabling a different mix of activities.
+
+Hence, the future might be brighter for Comau.
+
+And what about Iveco? A mixed bag of potentials, for now.
+
+
+<b>A glimpse of the future</b>
+
+For Iveco, the recent past has been a succession of cultural and organizational changes.
+
+First the spin-off from CNH Industrial, then the split between Tata and Leonardo.
+
+When you sell a business unit, unless it was already almost self-contained, you will have to decide how to split what used to be shared- notably talent and services.
+
+The latter can be solved by service agreements while the newly separated unit will build up its own internal capabilities, but the former can have an impact on continuity, as the pre-existing organizational structures, processes, systems were structured around a specific staffing level.
+
+Splitting implies that at least one of the two will have some gaps to fill.
+
+On the product side e.g. newspapers in Italy reported that some components that currently are part of the Tata side of Iveco will be also needed for the Leonardo vehicles.
+
+Who knows, maybe there is place to either transfer them to another European company, or to set up a new Bosch-like entity focused on spare parts for trucks and other mobility vehicles (including drones and future individual flying vehicles).
+
+Something that, actually, looking at the future of military vehicles within the European Union, could allow a degree of standardization that could help in future provisioning.
+
+And also battlefield logistics: look at WWII history, and compare how many different platforms had Germany vs. USSR, and the impacts on the supply chain.
+
+I shared in the past articles about [change (notably cultural and organizational change) within both M&A and post-M&A integration](search.php?tag=change_merger_integration), derived from direct experience and shared knowledge with other colleagues both in Europe and elsewhere.
+
+Within the announce of the sale to Tata, there was a reference to a clause that for two years will ensure that both payroll and supply chain will be steady.
+
+Which is actually a double-edged sword.
+
+Instead, Leonardo explicitly linked the acquisition of IVD to its own strategic objectives, and integration within Leonardo's culture.
+
+In the future for Iveco, after the split, I see both positives and negatives.
+
+Until recently, the dual digital and green transitions, plus the initiative to produce again electronic chips in Europe, and the proposed investment in military equipment, opened up potential also for Iveco.
+
+On the positives: Turin is a territory that introduced some changes to enable also testing autonomous vehicles, and has a long history of suppliers within mobility.
+
+Beside that, the presence of Leonardo and its citadel for aerospace, and existing R&D facilities for Iveco, plus the university and startup support facilities of the Turin Polytechnic, could actually made the location attractive not just for Iveco/Tata, but also for startups and other companies.
+
+On the negatives: two years is the minimal time needed to introduce cultural and organizational change as part of post-M&A integration.
+
+So, you need to have the collaboration of insiders to be able to accelerate transformation/integration processes and maximize the value of the acquisition, avoiding as much as possible to lose talent by attrition.
+
+Some of the interviews that read on Italian newspapers talk about potential overlaps between Iveco and Tata products, while other interviews talk about differentiation.
+
+I will leave to industry analysts to actually do the usual market and product analysis.
+
+As I wrote above and in previous articles, I am not surprised, after the prior attempts to expand, that news on the industrial side from Exor since Marchionne passed away involved more sales than acquisitions.
+
+To have a a large complex industrial group as was the FIAT group requires having a pool of managerial talents that is available and aligned with the times, and constantly renovated.
+
+For the old times [Isvor](https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=prodente&Chiave=51745) (1978-2008) and related activities/entities were enough, but for the XXI century probably would make more sense to have managers with manufacturing expertise coming from different industries, competitors, bringing new ideas.
+
+Also Leonardo, at an event few years ago, said that they were helping some of their smaller suppliers to actually be able to work on tenders outside the group, potentially even competitors.
+
+The rationale? Generating new ideas requires to go outside the comfort zone.
+
+The key risk in the Iveco-Tata deal: that those two years will serve to do what some of the interviews highlighted as a potential consequence- taking over the distribution network and brands, while reducing production.
+
+To increase the potential of positives would require something more than talks.
+
+It requires a cultural change from both local and national authorities, as well as local &eacute;lites and the existing supply chain.
+
+
+<b>Conclusions: it is a matter of culture</b>
+
+In my view, the doubts about the Iveco-Tata deal derive more from our past experience, e.g. with Mittal for Ilva, than from what was announced by Tata.
+
+Historically, Tata has had long-term business links with the FIAT group- but links built with prior generations, and in a different market.
+
+As I said to some contacts over the last few weeks, since was discussed Tata as a potential partner, I did expect Leonardo to get the military vehicles side, but the acquisition by Tata was potentially different from other prior foreign acquisitions in Italy.
+
+For example, over the last decade, via UK recruiters that actually were based in India, routinely received contacts for potential missions for TCS, the system integrator and services side of Tata- to work in various parts of the former FIAT group.
+
+I did turn them down only because there were too many "invoicing layers", resulting in a significantly lower rate and higher risk (I already saw in the past what happens when your invoices jump around few countries and companies before being authorized for payment- some will never do).
+
+Still, it happened often enough to highlight how even suppliers of the group for services then outsourced to TCS delivery, or how TCS had directly service contracts.
+
+What is the interest of India and Indian companies?
+
+A 2025-07-30 reply to a previous essay on Foreign Affairs gave a description of what is the positioning of India on the geopolitical side:
+"A more nuanced critique would require understanding India not as a delusional power but as a liminal oneâa state standing on a geopolitical threshold, deliberately navigating ambiguity to preserve flexibility and autonomy in a global order that is not simply cleaving in two but fracturing in more complicated ways.
+<omissis>
+India is not a classic great power, but neither is it merely a regional actor. It is a titan in chrysalis, whose $4.1 trillion economy, rapidly expanding defense capacity, and influence among many countries of the so-called global South signal not delusion, but a conscious avoidance of rigid alignments. Tellis sees India's pursuit of multipolarity as a strategic liability. Instead, it is a form of adaptive realism, an intentional pivoting strategy necessitated by geography, history, and structural constraints in the international system.
+<omissis>
+Indeed, India's strength lies in its role as a bridge, not a battering ram; it pursues consensus-building and reform from within the system rather than forceful transformation
+<omissis>
+India is not trying to dominate the world orderâit is trying to reshape it from within by leading a coalition of middle and rising powers that are uncomfortable with both Chinese authoritarianism and Western paternalism. That strategy may be imperfect, but it is not incoherent."
+
+The author probably knows a bit more of most of the Italian columnists and analysts whose commentary on the Iveco deal(s) was published on Italian newspapers, as Nirupama Rao was "India's Foreign Secretary from 2009 to 2011. She also served as India's Ambassador to China and the United States"
+
+So, we really need to link whatever subsidies or interests are being considered now in Turin, Italy, EU, to something that we are not really used at.
+
+Or: should come with strings attached, and linking whatever financial or contractual commitment from our side to a bilateral set of equally measurable and enforceable commitments.
+
+To avoid doing again what was done with Mittal and Ilva.
+
+Also, we should consider the potential linkup with other wider interests.
+
+As an example, on 2025-07-14 France released a ["Revue nationale strat&ecute;gique : pr&eacute;parer la France &agrave; l'&eacute;ventualit&eacute; d'un conflit majeur en Europe"](https://www.info.gouv.fr/actualite/revue-nationale-strategique-preparer-la-france-a-leventualite-dune-conflit-majeur-en-europe)- in French, English, German.
+
+Because, while the recent [trade tariffs discussion](index.php?page=608) were really unbalanced in terms of commitments, we have to consider that Italy and the EU cannot keep subsidizing the past while undermining the future.
+
+We need to learn to hedge initiatives.
+
+And this implies a political will supported by industry knowledge, not just funding.
+
+How could the Iveco deal with Tata be hedged?
+
+I will share some examples:
+_ consider which components should be both for civilian and military uses, and decouple them but keep them within a European entity
+_ R&D and existing products imply patents etc, and for dual use purposes patents can legally be filtered in Italy and retained in Italy
+_ if there is a 2-years window also for the supply chain, a potential phase-out (and replacement with other customers) should be planned now
+_ those two years should be used also to make local capabilities within the territory more resilient and open to the market, not just "de facto" externalizations of Iveco activities
+_ all the above should be associated to a roadmap with milestones and KPIs that are measurable and can be monitored.
+
+With Ilva, routinely newspapers in Italy reported how raw material and production facilities were affected, but nothing happened until it was too late.
+
+Unfortunately, local and national &eacute;lites (respectively in Turin and Italy) apparently have not yet learned from past acquisitions from abroad (not just Ilva), and prefer to focus on and complain about how Exor is disposing of its industrial past, and how should be instead committed to keeping it alive "as is".
+
+Instead, should be doing a frank assessment of what have been the mistakes over the last few decades, when the "company town" started spawning other facilities elsewhere, with ensuing "de facto" delocalizations, and there were interventions that were politically sound short-term, but generated a long-term inability to adapt.
+
+Two years run fast- and that agreement should be considered as an asset to be used to prepare for the future, not sitting on our hands and then hope that will not turn into a liability.
+
+As I wrote above, it is easier to look for a "capro espiatorio" than to look into a mirror, for groups of decision-makers.
+
+Exor a while ago started an initiative to select and then potentially fund startups, and that gave a perspective on what would be needed now and in the future in terms of organizational culture- including in manufacturing- and capabilities, in different industries.
+
+An easy and cheap way to "fail early, fail fast" and experiments- something that, done within the original companies of the group, would generate massive overheads on the budget of each "experiment".
+
+So, that initiative could result into ability to learn and adapt- something that the companies within the group, used to their internal rituals, had partially lost.
+
+E.g. these are the current equivalences:
+_ automotive = cars
+_ commercial vehicles = trucks etc
+
+If we think about mobility, anything that moves counts- on land, sea, air (and eventually space).
+
+The lack of flexibility and ability to evaluate external ideas and products can have significant negative impacts, as shown also by cases of investments to integrate new technologies that apparently bypassed all the filters.
+
+I shared years ago a famous case that involved also other large partners- "groupthink" affects also multinationals, not just individuals- hence, if a peer approves an investment, others are more inclined to join, all assuming that somebody did a proper vetting.
+
+Let's see how things will evolve...
+
+... for now, it is yet another wake-up call..
+
+And a confirmation of what I wrote and said too many times also while discussing abroad with colleagues in the 1990s: 
+_ if Italy is unable to have an industrial policy, and 
+_ keeps working by tribal boundaries, instead of merging and scaling up our companies
+Italy and its industrial and physical infrastructure will become an acquisition target for asset stripping.
+
+Often by selling at a fraction of what, as an aggregate, had been invested on or sustained by Italian taxpayers.
+
+Stay tuned!

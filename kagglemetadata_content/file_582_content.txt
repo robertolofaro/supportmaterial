@@ -1,0 +1,119 @@
+December 24th, most in Western Europe are thinking about Xmas.
+
+Personally, I prefer to look forward to 2025.
+
+So, before resuming the ongoing article series while crossing from 2024 into 2025, this week and the next will go for short articles, each one around a single word.
+
+Will be shared all before 2024-12-31, and hopefully would generate further material in the future.
+
+Therefore, do not expect my usual structured articles divided into section: just some "pointers".
+
+Anyway, my focus will be to take a different perspective on each word.
+
+The overall rationale? four corners in a circle (yes, I like [the Apollo 13 take on fitting a square on a circle and viceversa](https://www.imdb.com/title/tt0112384)), but will disclose the full circle only within the last "episode".
+
+The obvious inspiration of selecting four is the four directions (North South East West) and, in business, the [PDCA cycle from Deming](https://www.lean.org/lexicon-terms/pdca/#:~:text=PDCA%20is%20an%20improvement%20cycle,or%20Deming%20Wheel%20after%20W.) (that studied over 30 years ago in preparation of other activities)
+
+And this preamble will appear in each article.
+
+So, let's start: <b>episode 2- provisioning</b>.
+
+When I utter "provisioning", many understand "procurement".
+
+Which is not what I mean.
+
+In the previous article in this short series, about [sustainability](index.php?page=581), referenced (as usual in most of my articles) the concept of "contextualization".
+
+And this is what I mean: after, in the first step, embedding sustainability and lifecycle within your planning (actually framing your planning within those concepts), before shifting to what would be the operational phase, you would need to line up the resources needed.
+
+Many in project management seem to focus just on financial, human, technological resources, but personally both as background and inclination I have a preference for considering also the overall context, including the internal and external political side.
+
+So, provisioning is really about blending practical preparation as well as structural, conceptual preparation, plus some other elements that will be clear by the end of this article.
+
+There is a further dimension: time. 
+
+The cycle represented in this article series is inspired also by the PDCA Deming cycle- but just inspired, as the real Leit Motiv was shared in the first article, "sustainability".
+
+And sustainability is something that transcends a single event, project, or initiative.
+
+As shared in past articles, I prefer to see in terms of three timeframe layers, short medium long.
+
+Which, in terms of projects or initiatives, could be considered the now, the side-effects and maintenance of now, and the bigger picture- or the systemic view, if you prefer.
+
+Quite often, the "now" is the one and only consideration- also on multi-year program activities.
+
+The difference? For example, how products or services are designed.
+
+It is really a matter of risk management: your timeframe of reference defines what makes sense in terms of tolerances, materials, durability, etc.
+
+Just to share again some considerations posted on this website in the past: if you build cars to be replaced every 2-3 years (e.g. those used by businesses as a company perk for some employees), and used at best 10-20% of the time each day, you would make some production choices.
+
+If you instead consider a car that has to be as durable as a commercial plane (decades), you would do different choices, and you would aim for as close as possible to 100% daily use.
+
+And if you add to those considerations also circular economy, this would push toward e.g. designing products that are easier and faster to keep usable with minimal repairs and waste of material (such as having "plug-in" and "plug-out" parts), and services that minimize consumption of resources, materials, and "leftovers".
+
+The same applies frankly also to business relationships: if you are selling used cars to non-repeat customers... you heard all the stories about being "creative" with the real conditions of the vehicle, or its ownership history.
+
+I remember once being asked by a customer decades ago why were we spending so much on a prototype when anyway they would not give us a huge project and would buy just a limited number of licenses.
+
+My reply? Do not worry, it is simply that we are still adjusting from megaprojects to selling boxes of software.
+
+Yes, also in delivering services provisioning without considering the lifecycle of the customer (notably the expected revenue) can generate costs that cannot be justified in term of ROI across the lifecycle.
+
+Anyway, just shifting timeframe is not enough, as you will need to start considering resources across all the three "layers" and, of course, for each layer in terms of costs-benefits weighted on risk-impact.
+
+As I wrote yesterday, this series is just about "pointers": hence, you can either wait for later material (e.g. the [the follow-up to the 2015 book #QuPlan](quplan)), or develop autonomously the pointers.
+
+If you start considering not just the "now", the current project or initiative, but also the medium-term and long-term side along with their provisioning needs and balance as described above, your own planning and monitoring inherit an additional level of complexity, akin to shifting from a 2-D chess board to a 3-D one ([yes, as in Star Trek](https://en.wikipedia.org/wiki/Three-dimensional_chess)).
+
+If you worked in program and portfolio management, so far what you read should be familiar- except maybe the representation and timeframe layers approach.
+
+Anyway, while on 3-D chessboard the context is static but the action dynamic, obviously in this representation approach also the context is dynamic.
+
+I was used to work on multiple projects and initiatives for different customers in different industries and, for few years, different countries.
+
+And not necessarily having the same role: I could be program manager in a location one day, and a business analyst or account manager in another location the same day or another day.
+
+In each one of those roles (and more- e.g. vendor manager, negotiator, contract auditor), I used the same approach across time and context to actually modulate allocation of time and resources across multiple activities.
+
+Whenever I was training or coaching/mentoring on-the-job project managers or managers tried to convey also those concepts but through practical activities relevant to what we were working on.
+
+In the end, it is nothing really complex, only a matter of mindset and focus.
+
+If you shift from procuring resources for your project or initiative, and move onto the provisioning concept described above, also for a single project, those three "time layers" and the associated balance enable to adopt a prioritization approach and optimize allocation of resources.
+
+Provided, of course, that you do not work with "static" resource allocation.
+
+Also, the three "time layers" apply at different level of scale, and allow to remodulate within the confine of a project- provided that you follow all those time and balance threads, and monitor them.
+
+Which implies also that you need to learn to constantly remodulate and spread resources across activities whenever necessary, and monitor continuously not just the past, but also trends.
+
+It might seems that this is possible only if you work on a project basis, but actually this approach allows to identify also what is a "skeleton" (minimal required level) of resources that should be structurally linked to a project, initiative, service, and then allow to modulate, increasing flexibility.
+
+This approach anyway requires also structurally managing the phase-in and phase-out of each activity, to allow prioritization to extend from a single project or initiative, to the overall structure through orchestration.
+
+Which is the continuous element of this step: orchestration of resources.
+
+I used iterative and incremental approaches since the late 1980s, when "iterative development" and "post-production support" (and packaged products) were specific new elements of the methodology of the USA mother company of the company I worked for in Italy.
+
+I have still some skepticism when I see strict "ritualistic" application of one of the various agile flavors, but I think that even the most "structured" project can benefit from some flexibility that is reconciled with the overall objectives.
+
+The critical element that I saw missing in most activities that claimed to be following one agile approach or another is the consideration on the level maturity required in people, whenever a flexible approach is the best choice.
+
+You can easily follow orders without thinking and sequentially, but approaches that are less hierarchical and more collaborative require an understanding from all those involved of the overall dynamics, not just their own "tunnel vision" limited to their own specific tasks.
+
+Now that we are at the end of this quick sharing of concepts, I can disclose the final point: this "provisioning", as you probably now understand, is actually really the "action side" of the four steps, roughly equivalent to an iterative and incremental implementation of the "do" within the PDCA Deming Cycle that referred to in the previous article.
+
+The provisioning therefore is not really equivalent to procurement, but a phase that includes a continuous convergence toward the target.
+
+A phases that starts with the initial procurement of resources that were identified in the previous "sustainability" phase, while building the business case.
+
+My Italian readers would probably expect that, after Sustainability and Provisioning, the next step should start with a Q, so to get eventually the [SPQR](https://en.wikipedia.org/wiki/SPQR).
+
+I must confess that was tempting, but then remembered that within the Italian version of Asterix, SPQR does not stand for Senatvs PopvlvsQve Romanvs, but...
+
+... Sono Pazzi Questi Romani.
+
+So, while this step covers the overall operational and implementation phase, then next one is something that avoids what I wrote about yesterday on Facebook, [the Italian attitude to start with "Sturm und Drang", and then losing steam](https://www.facebook.com/robertolofaro/posts/pfbid0RFEmJP4AY41STWojBcTpDrGpyDPNb4MBXzHCA4MQ5eJFWMJFJkxU9tTbvJHYaBqsl?__cft__[0]=AZU10NNN9Ncp6VRiRU4pkrp3oiAStSG2E593VI-Js2e1jZvk3vDoxHhbOtGHLcweeXHzoaFJUvJi1jd6bjN6e2_XWHXJJ8nhSzj1rGhur9A3SNerKIbKByAk4ymjugb9MbSjawBJCPohl_i3CZxj0DpseGHVDMHhr_gftjvEfxE0Pw&__tn__=%2CO%2CP-R).
+
+Stay tuned and see you tomorrow for the third article.

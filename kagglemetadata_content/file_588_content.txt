@@ -1,0 +1,466 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250112_article.png)</center>
+
+Few days ago shared a short article (for my standards) about an overall concept that should be clear but apparently is not (yet) at the European Union level.
+
+It is not just banking that should involve market players (and market makers) whenever setting up roadmaps.
+
+As increasingly our regulations and laws are shifting toward what years ago wrote about, i.e. "pre-emptive" legislation to define the territory, not just ex-post regulations.
+
+Anyway, while the approach is shifting, the required mindset change is not yet done- i.e. our legislative development process is still smacking too much of an ex-post attitude, i.e. (de/out)regulating what already happened.
+
+In Italy we have a (formal) obsession with "competence"- which is really about titles and ignoring that, even in a single industry, nobody is "competent" in everything.
+
+At least, not anymore.
+
+Because our complex society has been shifting from "moral principles"- and "socially acceptable"-based legislative and regulatory activities to ["techn&eacute;"](https://en.wikipedia.org/wiki/Techne)- and data-based.
+
+So, I found frankly ludicrous when in Italy my fellow Italians claim that electing a doctor or a lawyer to office makes them "competent"- it implies that there are at least two layers of ignorance.
+
+The first, obviously, is that no individual doctor or individual lawyer can be a specialist in everything in his own domain.
+
+The second, which should be equally obvious, is that those voting according to that rationale want to cocoon and escape from a complex reality to enter a self-delusional realm where they surrender accountability to a single all-knowing all-seeing all-powerful person.
+
+It is what I already criticized quite often in the past- e.g. in one of the most-read articles on this website, here from 2017 ([Il Paese dei leader](index.php?page=125), in Italian), and its 2019 follow-up ([l paese dei leader / The leaders' country takes a page from Vichy](index.php?page=369), in English and Italian).
+
+Anyway, as I saw in Brussels in mid-2000s, and then in Italy repeatedly from 2012, even our leadership recruitment processes are still doing what already in 2008 said was a cardinal sin in the XXI century.
+
+Or: gaming and scheming (as I was told in Brussels over the phone: "do you agree to a 360?") which unleashes a curious approach to gate-keeping who should lead, an approach that fills time with tests that, as I said in Brussels, result in two potential outcomes.
+
+First, you find those who do not get the point, and pass or fail but without understanding that those were (a bit sadistic) tests.
+
+Second, you find those who get the point, but pretend not to so that they can pass.
+
+In Italy, the latter are considered "those who know how the world is going"- it is a game, they play the game.
+
+Akin to the mafia game of "I know that you know that I know that you know... but nobody says anything"- and everybody keeps a job doing a game.
+
+In Brussels, my more down-to-earth answer, as I was somebody who had teams involving either results of this selection approach was:
+_ those who do not get it, are gullible, at best
+_ those who get it and pretend not to, beware of when they will play crook.
+
+Well, there have been enough scandals in Brussels (up to having a whole Commission resign so that a single commissioner would be taken off the roster), and also in my own country, to confirm my assessment.
+
+In the XXI century, accept that also those approaches are not "how the world goes", but just obsolete and even potentially detrimental to your own organization.
+
+You can talk about "wellness", "agile", "lean"- but they all depend on trust and respect, not mutual games of pretending.
+
+I shared already while in Brussels a long list of ludicrous tests, but let's say that those were closer to the British light-touch but deeper tests, than to some quixotic (and even repetitive) ones from Turin and Rome.
+
+The Italian tests could actually add another couple of layers to that "I know that you know..." etc.
+
+And mistaking compliance with the gaming and scheming with managerial competence already over the last decade generated in Italy enough disasters worth billions both in the private and in the public sector.
+
+Personally, whenever received a team or, to manage accounts, got acquainted with those who covered managerial roles, I did my own assessment, to understand if they got the gullible, the crook, or just decent people with varying degrees of competence.
+
+Yes, a bit of "Cicero pro domo sua"- as [you can read in my CV page](cv) (scroll to the bottom), worked across multiple industries, but I have no degree whatsoever (albeit kept studying political science and management since I was first in structured politics in 1982, at 17, and before that for fun studied a bit of cultural anthropology and compared Constitutions- to the point that, in high school, prepared and delivered two lessons to my classmates about two different bits of laws.
+
+How did I do it? First, since I was 17 in that political activity, I "attached" to people who had much more experience, or even academics, then, thanks in no small part to that attitude, as a kid faced early 20s, I was to work with senior management in different industries- to extract their decision-making processes, understand their rationale (and here cultural anthropology was used, ditto comparing Constitutions and their developmental history).
+
+Then, both before, during, and after said activities, I kept scouting for information preparing for and complementing what I was going to do.
+
+Because "orchestration", "governance", "coordination" require understanding at least the rationale of those involved, notably when they provide domain-specific expertise and you have to "bridge" between them.
+
+Yes, the whole is greater of the sum of its parts- but really only if each part can contribute its full potential to the overall aggregate, and there is "conceptual plumbing" in place to allow the flow of information between the parts.
+
+I know- it sounds a bit like a kind of Leviathan 2.0, but really is not that complex, if you get the attitude that you have first and foremost to listen and convey, not assert.
+
+Many "knowledge management" initiatives, in my view that shared often in the past, did not deliver their value simply because, instead of listening and conveying, some "knowledge priesthood" went into "control freak mode".
+
+Or: asking everybody and everything to transfer ownership according to some conceptual framework defined on the receiving end.
+
+A conceptual framework that, for the sake of supposed "harmonization", instead went into "extreme pigeonholing", i.e. restructuring, reclassifying, redesigning, up to the point that the source of that knowledge would have been unable to understand what went where.
+
+Net result? Instead of increasing reuse and communication, casting in stone what was understood by the "knowledge priesthood", and making quite cumbersome (at best- saw even worse cases) to provide any update.
+
+So, another bit of "Cicero pro domo sua" is that, in a complex society, we need more connectors (and I met many around Europe, albeit in most cases just considered an "organizational pain" and laughed at rather than involved- so, my first of point of order was to get them positively involved).
+
+Then, to constantly have them allocate part of the time to knowledge discovery, integration, and... serendipity.
+
+My past experience was in large part on automotive and banking plus a lot of looking at impacts of new laws and regulations or business/social/technological trends potential impacts across industries (that's why my colleagues and contacts called me in the 1990s and 2000s).
+
+Just for the sake of completeness, adding also contributions from others, by experience length and intensity: outsourcing/BPO, logistics, retail, startups.
+
+While the previous article ([European Industrial policy by crash-landing](index.php?page=587)) was an overall concept, this equally short article will deal more with "operational strategy" covering two areas:
+_ automotive
+_ banking
+
+I will write in the future about our post-RRF European institutions.
+
+I also added a section to close the circle and discuss the potential next steps not just about these three domains, but also... on a personal level- call it a "service announce": 
+_ conclusions and next steps.
+
+Being just few thousands words, I will share mainly concepts and doubts/ideas, that will develop later if and when I will have time (but maybe others will do first).
+
+I will skip platitudes and diplomacy.
+
+I know that some colleagues abroad told me that I was quite direct- a side-effect of being coached on-the-job in my early 20s by people in senior management with a "short fuse": you appreciate the time saved, and identify how to avoid ruffling feathers.
+
+Because nobody likes to be a ["whipping boy"](https://en.wikipedia.org/wiki/Whipping_boy).
+
+And, in business and society, nobody should be asked to do so- something that our politicians (but also some high-ranking leaders) should remember, to avoid unleashing bias undertones that then take their own life, and cannot be called back.
+
+I saw that first hand- once the genie is out of the bottle, you do not necessarily know how to put it into the bottle, or claim that never left it.
+
+Why did I single out those two and the future one? Not just because I worked a lot in two and, as European citizen and past consultant on cultural and organizational change, often had to deal (also in business, for e.g. compliance implementation purposes) with the third.
+
+It is also because all three are about flows and transcend a single, specific organization or industry.
+
+Look at the 2008 crisis, which started really few years earlier: by affecting not just banking, but also bankassurance (as was called first in the late 1980s to early 1990s), in reality affected any business.
+
+Why? Just look at how many businesses are based on compliance, and how often compliance requires having insurance policies- make those toilet paper, and all the market crashes as a castle of cards.
+
+In most industries, in the past, whenever a project or initiative involved compliance, it was generally something limited to the specific organization.
+
+Shift the perspective on compliance: each one of the three industries within this article is, to some degree, impacted by sustainability and ESGs.
+
+The difference? Previous compliance was focused on the specific industry.
+
+Sustainability and ESGs imply moving eventually both upstream and downstream- into businesses (and associated compliance and regulation) that you are not necessarily directly involved with, so that they will have to provide confirmation that they too upstream and downstream are compliant with whatever applies to them.
+
+As discussed yesterday on some Italian newspapers (e.g. Il Sole 24 Ore), referring to the announce by yet another financial institution that will drop from the association called Net zero asset management.
+
+Key element? Sustainability and ESGs are getting more and more political- not just technical.
+
+Get used to it: in each one of the cases discussed in this article, the political dimension is a representation of part of what Carl Schmitt wrote about the role of non-State entities, e.g. corporations (see a review of a book in French that shared few years ago [here](index.php?page=158)).
+
+Obviously, when considering the three examples as "based on flows", the actual specifics is what differentiates between them.
+
+I will discuss some consequences within the "conclusions".
+
+And now, let's start with automotive.
+
+
+<b>Automotive</b>
+
+Yes, if you look at my [CV page](cv), you will see that really, between 1986 and 2024, my listed experience in the industry was across a single group, under different units, roles, etc- and never as an employee, always as an external resource.
+
+In reality, as described above, I kept looking around, e.g. attending conferences while living or visiting or working abroad (e.g. London, Paris, Germany, Switzerland, Belgium, but also Italy) where I attended presentations of other companies or "niche" consultancies or industry associations.
+
+Also, had in the past contacts and offers from the industry, but eventually when as if by magic at the same time an offer from my birthplace arrived that supposedly was long-term, since 2012 accepted them (albeit it was never really as planned, and never knew how they knew that I had been negotiating with somebody else- also if in Turin routinely got local feed-back on information that I had not shared with anybody).
+
+What I saw in my first two projects for Andersen between 1986 and 1988 was actually dovetailing with my prior political experience, when I was reading and number crunching for fun.
+
+Yes, twisted fun- my peers went playing football or dancing in discos, I went in libraries or attended conferences or watched movies also as a kid, to expand on my readings.
+
+Anyway, I was interested on both a personal and professional level on long-term, so those short-term diversions of my fellow teenagers and 20-something did not really matter- it was a choice for something, not renouncing to anything.
+
+Meaning: if at 17 you have a self-designed background looking at societies, science, culture as a whole, and then receive documentation from Brussels that shows how all is interconnected, you develop a different mindset.
+
+My first project in automotive in 1986 was really "systemic"- as it was basically a supplier payment recommendation system, and I was the developer selected for the "core" piece of software that connected with everything else, and received from everything else, in procurement, to justify the "proposal" that issued.
+
+Actually, having started to work in COBOL on mainframe just in that project (I had a training right after ended my service in the Army), after having been part of a logic programming association and studied and used both PROLOG and PASCAL while at the university in 1984 and 1985, gave me a different perspective on requirements, and software development.
+
+It was eventually a monster piece of software, I think over 10k lines, but I developed and tested incrementally and iteratively, e.g. asked the business analyst to "fill analysis holes" as soon as feasible, and meanwhile developed and tested the overall structure and what was already conceptually available- no need to wait.
+
+I still remember how at first the piece of software looked as a "structure" (we were using the in-house "pre-factored" tool that eventually became a CASE tool to generate software): you could read it as a narrative, as I transcribed the text of the analysis (we used an approach called <a href="https://en.wikipedia.org/wiki/Warnier/Orr_diagram"Z>Warnier diagram</a> to show conceptual hierarchy) into comments, and then filled the gaps by developing code "units" that made sense on each part.
+
+Now, why this walk down memory lane (and obviously there will be a similar one for banking)?
+
+To say that in reality that automotive was an "industry of industries" was blatant even to a junior software developer in 1986, a developer who could see how it all required balancing and considering contributions and constraints (ok, coming from politics and delivering organizational and teaching activities in the Army, but still was 21).
+
+As you probably know, the CEO of Stellantis, the French-Italian merger of PSA and FCA (formerly FIAT, but then FIAT-Chrysler), stepped down.
+
+I am in Turin, so I liked to test local reactions, to see the potential for future conceptual developments.
+
+The challenge, to state that the one stepping down had de facto "downsized" the company.
+
+At the time, most of the outcry that I heard in town was focused on the severance package announced.
+
+It was interesting to note the reactions, as it made blatant, as described in previous articles, a cognitive dissonance.
+
+Turin used to be a company town, where directly and indirectly the former local champion of the automotive industry was the first employer both in Piedmont and, I was told, Lombardy- the financial and industrial engine of Italy.
+
+As in Piedmont almost everything was Turin-centric, the local champion generated various [externalities](https://en.wikipedia.org/wiki/Externality), including benefits.
+
+Think about it: an "industry of industries" generates needs to manage suppliers, cashflow, financing to suppliers/company/customers/dealers, physical stock movements, associated local staff and coming/going temporary and visiting staff.
+
+In Turin and Piedmont, this was scaling up in the hundreds of thousands, notably when you consider that the model post-WWII was to "vertically integrate" companies, i.e. to produce your own steel and go down to distribution, after sales services, financing, spare parts, etc.
+
+Hence, two local banks, Istituto Bancario San Paolo and Cassa di Risparmio di Torino, became quite large, ditto many local utilities (to provide services not just to citizens but also to all the supply chain), and of course logistics companies.
+
+And what to say about all the ancillary services needed also to support those working across all of that? Shops, restaurants, hotels, local public transportation, etc. 
+
+When I started working in the industry, it had already started to unwind, through multiple rounds of externalization, joint-ventures, but also shared development of spare parts and components used also by competitors, where those that used to provide product engineering services gradually became even larger than some of their customers.
+
+Now, shift back to 2024, when I "tested" the reactions, with former colleagues and other contacts not connected to my missions.
+
+What I got is that locals still do not get the message: automotive now is not automotive in the 1970s.
+
+Whenever there is a merger between two large companies, the post-M&amp;A integration activities include also extracting value from the aggregate.
+
+As the industry is shifting toward a different model (already in 2012 a German competitors was stating that they had 20% of their revenue in services, and expecting that to increase), keeping the existing mindset is a self-defeatist attitude.
+
+One that already in the early 2000s brought the then FIAT close to having significant financial issues, as was reported when then an Italian from Canada, Sergio Marchionne, was appointed to lead.
+
+Instead, the current obsession in 2024-2025 in Turin and Italy is about "keeping up volumes"- as nobody is ready for (or worked on) a "soft landing" of the industry.
+
+There are capabilities, both physical and intellectual, that, as will discuss also for banking, are worth retaining and developing- but volume is not one of them, as would be unsustainable unless there is a significant market and technological mix change.
+
+Hence, as neither the national nor the European Union authorities governed the transition so far, it is up to the private sector to do it.
+
+In a merger, "shrinking to size" can either be done by those buying or by those selling.
+
+In this case, de facto was done by those buying (like it or not, Italy did not exercise its "national interest" before, and it is quixotic to do it after having transferred control to France).
+
+Should it have been done in a different way? 
+
+Probably- but that would have required a systemic governance from the political level at the European Union level, while instead current regulations made simply impossible to have a self-managed repositioning by a joint effort of all the major European automotive players.
+
+Just look at the flak that the banking industry is getting from political elements close to the new USA administration, for its joint initiative about net zero due to climate concerns.
+
+Antitrust regulations are fine, but carry the implicit risk of becoming political weapons.
+
+So, be it Stellantis or Volkswagen, downsizing is just "plans meet reality".
+
+Let's just leave aside the infrastructure maintenance issue- what is more critical, in my view, is keeping alive the human side, not just in terms of jobs, but in terms of a century of aggregated experience across industries.
+
+You can rebuild infrastructure in few years- actually, more modern and efficient infrastructure, but it would take decades to rebuild the whole "knowledge infrastructure" with the same level of depth.
+
+So, as usual (e.g. on climate) we are late as making choices would have been politically untenable, if had been done when needed.
+
+Imagine somebody saying even just in 2012 "we need to consider phasing out mass-production"- in 2025, we are still on the "subsidies to keep afloat" phase.
+
+My viewpoint is: the more subsidies you spend on keeping alive what is phasing out by stretching time, the less resources you have to support shifting and developing to a new model of society, infrastructure, and, yes, consumption.
+
+We need a joint initiative across the industry, but involving also the other actors.
+
+Subsidies should become a component of phasing out from current business models, but will have to be components of a much larger picture- not just restructuring, but repositioning.
+
+Which implies that, as advocated in the past, and how has been done by some of the (really too few) large companies in Italy, you have to invest on building conceptual capabilities also in your "opponent", e.g. trade unions in Italy are frankly still out-of-touch with reality and risk generating political consensus for more wastes in subsidies to keep afloat, instead of investments in repositioning.
+
+Admittedly, the "industry of industries" automotive has an issue (it is physical) that banking and finance should not have.
+
+And this is partially true.
+
+So, let's shift to banking.
+
+
+<b>Banking</b>
+
+My first project in banking was yet another "systemic" project: general ledger- one of the few ways to see a bank all across.
+
+And I was 22 when I started- being bumped up to do both development, analysis, and marking progress and quality control (what is now part of senior roles in PMO).
+
+Then, was sent to be "resident" at the bank's data centre nearby Turin, to interface with both business and IT.
+
+What was interesting was the number of elements that had to be in synch for it to work, and then act as a "filter" toward changes (it was release management, anyway), as well as being selected to work just before the night run with the Chief Accountant to revise the transactions from the branches to the centre, and finally... 
+
+... the "big bang" rollout in all the branches, acting as second-level functional support to those from the bank who had delivered training and were then to deliver initial support.
+
+I remember once being asked by somebody from IT: which shift do you work? I was here in another shift and you were there, and now we have again the same shift- a different one.
+
+Actually, for few months I arrived at little after 8am, and left around 2am, leaving my parents' house at 6am, and arriving home with a taxi around 3am.
+
+So, I was able to see the full cycle and different mix of people involved.
+
+Yes, I interfaced also with the organizational development office- and eventually was to do a small decision-support model to optimize the human resources mix allocation whenever creating a new branch: again, as in automotive, just a matter of... scoring and advising.
+
+As you can see from my CV page, in banking worked across countries and companies (and banking cultures- the list is just a sample, it is much longer).
+
+Actually, in mid-1990s, my two summer schools at LSE in 1994 and 1995, and the intercultural management and communication in 1994 in Sweden were to be stepping stones to get admitted to a Master in Finance, so that then could shift to investment banking.
+
+Eventually, was offered in London just a residential role, and did not take it.
+
+Reason: I wanted the non-residential, as if I were to pull the plug from my customers for over a year I would have to start from scratch- not really feasible, in my case.
+
+Still, it is the reason why in the late 1990s I went into business and marketing planning and helping partners to restructure and reposition, but mainly as a sideline to keep skills alive and mind busy.
+
+In Italy, beside retail banking and outsourcing/BPO, for the latter was also involved in some other banking "domains"- from mortgages, to organizational and branch design, to commercial and feasibility on corporate banking, while for private saw it both in Italy and Switzerland, and for risk both in UK, Italy, Switzerland.
+
+And also in other countries on specific projects/initiatives.
+
+By working in different countries, had a chance to see similarities and differences- and, as you would expect, to spend a bit of time and money to learn more and more.
+
+And sometimes it was funny how even my customers found surprising that invested time and money on learning to be able to better understand, and covered without telling me at least part of the latter, e.g. when attended in Rome a workshop on XBRL at the Italian Bankers' Association and, going to pay, was told that had already been paid.
+
+Something similar albeit on a smaller scale happened also in other countries (France and The Netherlands).
+
+If you started (like me) to work in banking as a consultant in the late 1980s (but actually my political European integration advocacy was supported by the research entity of a local bank in Turin), and then up to the late 2000s, you could see quite an evolution, in regulations, organizations, and, yes, also technology.
+
+As I wrote already while in Brussels from 2008, anyway the concept of "branch" evolved.
+
+I remember few years ago when, as a customer, set up a small "investment portfolio" (an excessive definition for what was just to set aside money I would then withdraw to do what I did in 2017, attend in Germany my first official German language course at the Goethe Institut, when I was ready to attend at B1 level, despite having used German passively in business since the 1990s).
+
+It was a time when some banks in Italy tried to be a "catch all"- so, their employees received plenty of micro-training on new products, as if they were computers able to switch context by picking up a keyword from what the customer was saying.
+
+Well... if you are offered an additional health insurance that requires a premium that exceeds the reimbursements that you would get, and you, the potential customer, after being given a two minutes "plug", have to explain it to the employee trying to sell it to you...
+
+... Houston, we have a problem.
+
+To be honest, frankly the same happened repeatedly in Italy with all kind of utilities you could think about: botched attempts to generate new revenue streams without properly designing products and their distribution.
+
+Better (from the supplier perspective) than Sam Altman's recent post stating that OpenAI is losing money on "pro" licenses because... 
+
+...they did not consider that customers would use the new version of ChatGPT so often.
+
+Still, a market is a match of demand and offer.
+
+And banking too is undergoing a massive realignment.
+
+It is not just due to fintech or virtual currencies- it is also associated to demography and service model.
+
+Just consider: in 2008, after the crisis, the reason uttered for giving money to banks was that the State did not have capabilities to disperse funds fast enough- and, in reality, many banks did not spread fast enough.
+
+Jump forward to COVID 2020, and later, at online and offline workshops and presentations by industrialists' associations, heard repeatedly how States had released directly into the banking account of companies funding without any need for a formal request, to keep them afloat.
+
+Moreover, recently repeatedly the European Central Bank issued material that sounded as reassuring banks that, even when the digital euro will be there, they still will have a role.
+
+As I shared many years ago, I think that in reality banking will go beyond the "branch-based", and not just due to competition.
+
+Many of the banking processes and structures frankly pre-date the industrial revolution, notably in retail banking, and the European institutions e.g. made to drop fees that made sense when some activities were done manually, or "cleared" with manual interventions.
+
+Let's just see an example that shared already in the past.
+
+Once, while being based in London, I had a customer in Italy and had a kick-off for a project.
+
+My approach back then was to "give credit" to the customer only if already had exchanges with them: otherwise, there was an advance on any activity that was between 25% and 50% of the budget, and then anyway the balance was linked to milestones.
+
+I adopted the "feasibility study" approach, followed by a "turnkey", i.e. fixed price, project based on milestones: sounds complex, but it is not.
+
+Moreover, it is transparent, traceable, and, if the customer wanted, could, after the feasibility study, take on board a different consulting provider.
+
+Why this approach? I was tired of cheapskates who asked proposals because they knew I wrote detailed preliminary assessments that they then transferred to their existing suppliers who did lack the skills to do the feasibility.
+
+Or even asked projects, tried to do an "upfront loading" of all the complex sides (e.g. strategy, analysis, architecture, organizational architecture, process improvement), and then pull the plug and "continue internally".
+
+So, unless I received an advance, the project did not start.
+
+For a customer, over twenty years ago, they kept saying "yes, it is coming" and then "it is in process", but on the day of the kick-off nothing had been received.
+
+I called the customer and, after was explained that in reality had not yet been sent, simply told that, as I had never visited their location, would be a tourist for the day, but then did not know when I could be again back in Italy, would have to reschedule.
+
+I was told to wait a bit but stay in town.
+
+Few minutes later, I was called by my bank in London and asked if I was waiting for a wire-transfer, because they had received a wire-transfer from Japan with a procedure that they had never seen in that branch.
+
+The rationale? At the time, Italian banks took days to process a wire-transfer.
+
+Instead, the Japan branch of my customer used a local bank that used the wire-transfer system as should be done- electronically.
+
+So, over 20 years ago got an "instantaneous wire-transfer".
+
+Then, of course, about one hour later than planned, we had our kick-off meeting.
+
+Many of the banking activities that are people-intensive will eventually have to phase-out due to lack of demand (e.g. most new younger customers are used to never visit a branch), leaving behind systems automatically processing most of the requests (as did my Amex decades ago with its own expert system based on usage history).
+
+Which are actually repetitive activities that either have low-knowledge intensity (e.g. allow to replace staff quickly and train new staff quickly), or require too many bits of updates to be processed proficiently by a mere human (such as the "new product" thing I wrote above), and where instead few AI-assisted clerks properly trained in "prompting" could dispose of both branch- and service-centre-level armies.
+
+What will still be needed instead is the expertise to creatively structure and manage relationships.
+
+I found laughable when I was told that if my investment portfolio were to reach 50k EUR I would be assigned to a "private banker".
+
+Considering margins and costs to properly, actively manage a real private banking customer, 50k as a threshold tells more about the bank than the products.
+
+I still see routinely in Italy protests about shutting down of post offices and bank branches.
+
+Frankly, it is something conceptually unsustainable, to keep all the existing ones open.
+
+If you change the knowledge content often to stay competitive, you need to have a revenue stream large enough to justify both the initial investment and the continuity- at the branch level.
+
+Including something often missing in Italy- continuous learning within practical application, not just "quick-and-dirty" piling up of knowledge bits that we saw during COVID how much matter- humans are not robots, processes and knowledge have to be used to be operational when needed.
+
+I think that you get the Weltanschauung of the argument- so, I can switch to the conclusions.
+
+
+<b>Conclusions and next steps</b>
+
+It is quite annoying when I am asked to send a CV focused only on my experience in a specific industry or domain, and then, while on the mission, somebody wonders how could I know that much about other industries or domains.
+
+Pigeonholing following a XIX century concept of "vertical knowledge" in a complex society generates some curious structured paranoid responses, in business and society, when your CV does not match your knowledge- notably, when it exceeds the knowledge represented within the CV.
+
+I see anyway the opposite risk routinely, in people in their 20s and 30s who never had a chance of develop a "vertical", and have a series of "schemes" about everything.
+
+Just "digest-level learning"- never having time to understand the rationale behind e.g. a contract clause or a legislation, because their mindset has been built by quickly delivering pre-digested bits that contain just answers, no questions and no rationale.
+
+Fine, if you have just to replicate verbatim- not so, if you have to adapt before you adopt, as it will be increasingly so in the future.
+
+Adapting before adopting implies something more than "painting-by-numbers" change management knowledge: you need at least to:
+_ "detach" from either (the source and the adoption) culture as a mental exercise
+_ then, you have to "contextualize" both the culture that generated what you are trying to adapt and adopt
+_ then, do the same for the "target" culture
+_ then, do not forget to understand the "why".
+
+If you are assigned this role, personally I think that it is better to first do the two assessments, then the "why", as otherwise the risk is that maybe not you, but those that you support will get into a mindset that will affect the quality of the assessment (yes, including a form of "confirmation bias").
+
+My original intent for this article was to have, after automotive and banking, a section about the European Union after the RRF- but we are already getting close to 6,000 words, and that would require too many additional words.
+
+Living in a "techn&eacute;"- and data-based society implies being able to pick-and-mix what is needed, but if you do not know the inherent constraints of what you are using, you risk "stretching" components beyond their intended ability to adapt, and adding systemic weaknesses.
+
+Or: if you integrate exogenous elements, and remove the checks and balances associated with them in their source, you risk piling up weaknesses, and creating an inherently unstable system.
+
+As wrote at the beginning, this article, as some other recent articles, is focused on sharing pointers, not solutions.
+
+In operational terms, this requires integrating multiple mindsets- something that implies having organizational capabilities to make it all work together.
+
+In my country, Italy, it is a routine set of issues: 
+_ companies too small to develop and nurture managerial capabilities, and even when scale up in terms of turnover, organizational remain scaled up dwarfs
+_ "best practices" taken at face value, assuming that you can create a Frankenculture of the best of the best, while keeping your existing culture
+_ routine ensuing tinkering that actually builds additional resistance to change.
+
+Both in automotive and banking, as well as other "flow" industries (physical and virtual), Italy has a long history that, being built around few champions but countless small entities, could actually generate additional layers of structural resilience and innovation.
+
+I shared this point in detail in past articles, will maybe return to it in the future: having many small entities is a weakness, if you need volume.
+
+But if you need resilience, having multiple potential points of activity allows to "fail early and fail fast" with a minimal impact, and then absorb the impact (in Italy, we still lack this last part).
+
+It is curious: look at the beginning of the XX century, and you will see a long list of automotive companies.
+
+Look at the end of the 1980s, and you will find a long list of banks.
+
+Then, we decided that to consolidate, to align with other countries, would be better- but we did not "scale up" accordingly our organizational culture.
+
+Which is still tribal, built around small companies that keep going on simply to retain ownership, not competence, and not markets.
+
+So, we can have a company making furniture that turns into a cookies company.
+
+And a company making sweaters moving into infrastructure.
+
+Which is not an issue per se- if you bring aboard relevant cultures.
+
+The case of the bridge collapse in Genoa few years ago showed at least two things:
+_ the Italian State externalized not just execution, but also the capabilities to control
+_ we keep importing concepts that we do not even try to adapt, just take them at face value.
+
+Then, we try to anyway make them work by tinkering around.
+
+I disagree with those who say that the solution, in automotive, banking, and, yes, infrastructure is to get back to nationalized companies.
+
+As I was told by customers decades ago, it takes just few years, once you externalize whole activities, to lose completely the ability to evolve those activities- but I wrote extensively on that subject already in the early 2000s.
+
+I shared earlier this week on Facebook a rare "friends-only" post to summarize my way forward in 2025.
+
+For a simple reason: those who saw me in London, Paris, Zurich, Brussels, know a bit of context about my relationship with my country and its companies.
+
+So, let's just summarize here.
+
+It has been over a decade since I was made to return to work and live in Italy from Brussels, specifically in Turin.
+
+Jokingly or not, due to past experience in working in support to senior management (for few decades), once in a while was told CEO, President, or other roles.
+
+Well, the first time that half-jokingly somebody told me "when you will be President", it was my Lt in the Army, in 1985 or 1986- quite funny, said to a 21 year old.
+
+As for the Cxx roles... worked interacting at that level since the late 1980s, but probably could make sense in a different market (a mission that I had in 2008 outside Italy actually started as a stepping stone toward that role, but had to leave due to Italian interventions supporting the idea that should be checked which information accessed, as I knew too much about a different industry, for somebody with a banking experience CV- which actually was what had been asked by a recruiter to provide).
+
+Let's just say that since the 1990s I had repeated requests to return to Turin to work on this or that, but, frankly, it was always about promises in exchange on experience developed elsewhere, at a fraction of what I got elsewhere.
+
+Do not worry: it was never to be formally CEO or President- in a tribal country, this implies that, if you then want to settle, have to join a tribe, and support it, also if the tribe is out of touch with reality.
+
+And, anyway, when I moved e.g. to Belgium did not look for Cxx roles, but applied initially for senior project management roles, as I assumed that to be a partner or Cxx in Belgium I should know that market- which was not the case at that time.
+
+It was almost twenty years ago- back then, my assumption was that if I were to be good enough would get at the level where I had been or even better, if not, enjoyed anyway the international environment in Brussels, and would have used my skills to support startups and publish.
+
+I think that a quarter of a century of attempts that resulted just in value extraction is enough to justify calling it a day, and let the locals continue in their self-imposed structural decay while squandering the resources accumulated in their industrial past.
+
+I think that locally there is still potential- but I cannot wait another 25 years to restart from scratch- and the best I got locally recently is to do potentially in few years what was beginning to the elsewhere almost twenty years ago: and the same happened in the late 1980s, when I was told that could do in few years officially what I had been doing for a couple of years, while... few months down the road I was hired immediately few levels up, based on that same experience.
+
+So, the way forward in 2025 for me is simple: I am studying yet another tax system- I did it with UK and Belgium, after learning about the Italian system, so no sweat.
+
+For my contacts still in Belgium: yes, I recently started again thinking both in English and French, as it was in Brussels
+
+For now, will be again a freelance based in Italy but looking for missions mainly outside Italy, or roles elsewhere.
+
+Which type of missions? See on [Linkedin](https://linkedin.com/in/robertolofaro) or [my CV page](cv) for evolutions (and contacts, if you have missions or potential permanent roles matching my search or where my experience/capabilities could be useful).
+
+So, stay tuned- will keep anyway sharing further material as opportunity will arise.
+
+And have a nice week!

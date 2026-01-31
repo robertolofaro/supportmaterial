@@ -1,0 +1,427 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250521_article.png)</center>
+
+This article started really on Thursday evening, but then waited to collect few more pointers.
+
+And finally on Monday and Tuesday got my closing pointers, with some additional elements this morning.
+
+Anyway, will discuss it in the first section:
+_ preamble: we need more thinkers and thinking time
+_ projection and reality: the Turin case
+_ factoring technology impacts and demographics
+_ continuing on "rebuilding"
+
+
+<b>Preamble: we need more thinkers and thinking time</b>
+
+The concept of this article is what you can (partially) see within the title: there is a cognitive dissonance linked to just one issue- looking at individual changes while ignoring the overall systemic interactions.
+
+Then, building a whole narrative out of your self-imposed tunnel vision, as if it were an universal truth, or, for those inclined, a "philosophy" (as even a "Weltanschauung" is not universal enough to guarantee your leadership of a new trend). 
+
+Corollary: adding then a narrative that justifies that as a logical consequence of a selective choice of information.
+
+There is a curious dichotomy within the Western business culture: the more we utter "philosophy" as differentiating from "technical", the more we really develop "techn&eacute", structured knowledge, into an endless list of "formulas" or "quotes".
+
+Personally: I always say that my personal "mix" is change, data, and implementing/recovering/completing activities, as I shared also on my [projectmanagement.com](https://projectmanagement.com/profile/aleph123) (now part of PMI- it is the only social network where my userid is not robertolofaro but the nickname that used when first published multimedia online via stage6.divx.com, aleph123).
+
+And, as I shared this morning as a "repost with comments" on Linkedin, I have learned the hard way how, in a society where companies externalize talent (as I wrote already in [2003-2005, reprint 2013](bfm2013) and a decade ago [in #synspec](synspec)), eventually the emergence of standard approaches to managing project and initiatives is useful- not if you just pile up certifications, as those tests imply understanding of what means each answer, which in turn is the result of collective intelligence, but if you use that as a communication and interoperability layer to enable temporary integration in a purpose of talents from the best sources ([see the post here](https://www.linkedin.com/posts/robertolofaro_millions-of-projects-not-enough-people-to-activity-7330838126044536833-QS5l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)), avoiding the delusional concept that all that matters happens or is created within your own tribe or organization.
+
+So, on each mission that is not just an "encore" of a previous one, I do something that ended up being contacted by other polymaths: I dig into material from multiple sources into the specific domain and subject, up to the point when I can understand the mindset of those focused on that domain, and be integrated in their discourse (generally implies getting into the top 20% of that domain): not just "one book expert", but multiple sources (cross-checking that are not circular, i.e. each one referencing the other).
+
+It is not just for information gathering and analysis that this approach matters, it is also to avoid something I saw already in the 1990s, when some customers used as Vendor Evaluation Model... a checklist made by a supplier that actually highlighted its own strengths and glossed over its own weaknesses: what I call the "bells and whistles comparison".
+
+And when a mission ends or switch role... I will have already identified somebody to keep in touch with to have a mutual benefit: I keep posting and sharing as a roving agent or whatever is my domain focus at the time, and sharing what could resonate with other domains of expertise, and get updated on the evolution within the specific domain that was the focus of the mission.
+
+As I have been told in English, French, Italian... "you are constantly in training"- was so when I was an early teenager (using my early beard at 14 to have access to libraries I would not be allowed to get a membership card for until I turned 18), and I am so now at 60.
+
+And, considering my roles in the past and plans for the future (also if I were not to work again interacting or working at Cxx level), I will keep doing so.
+
+As I said in the 1980s, when designing training courses and training tools for the first time, first in school, university, Army, then in business: if you know something, the act of packaging what you know in such a way that becomes transmissible increases your own understanding, and spawns other potential lines of evolution.
+
+Therefore, whenever training other consultants, there was always a time when I asked them to train others- but described in the past in my mini-books and other articles the approach that I used for "train the trainer" and developing talent (not my own, somebody else's).
+
+I remember a colleague who decades ago, in 1988, upon completing a degree in philosophy, when I asked what had graduated in, replied "I am a philosopher".
+
+To which I replied "no, you have a degree in philosophy".
+
+The difference? You can study what others did, or, as university professors did, spend all your academic life telling to generation after generation of students all the minutiae about a past philosopher- but that does not imply that you are a thinker, just that you read about other thinkers (as I did and keep doing- in various domains- it is useful to avoid reinventing the wheel, but it is not enough to parrot-and-blend).
+
+Nowadays, I already saw some doing their "research" on ChatGPT- and not even checking the sources (also when, as DeepSeek or others, you are provided with both the line of reasoning, the sources, the proposed solution).
+
+And even strategies.
+
+And even plans.
+
+And, of course, even "philosophy".
+
+The net result? Recent speeches often sound as a collection of mildly reshaped quotes from somebody else's material- tons of "d&eacute;j&agrave;-vu", or... "parrot-and-blend".
+
+Obviously this "parrot-and-blend" approach generates a familiarity and resonates with the audience- you just have to add into the blend a description of the specific audience you want to target, and many models will be able to use the same input material to generate either a speech worth of Dante's Divine Comedy (e.g. the one from Ulysses that we in Italy in the past studied in high school), or its transposition for elementary school children passionate about the latest cartoon.
+
+I use GenAI alongside the usual books, papers, webinars, research- actually, a positive side-effect of COVID has been that I kept being invited to webinars and workshops online that used to be only onsite- a side-effect of my registration in the early 1990s with "ReInventing the Government" with DoD (and I still remember, it was pre-9/11 times, how surprised I was to received as a gift a copy of the BPR-CD containing tools and a library for business process re-engineering and organizational analysis, along with a whole library, plus a subscription to a magazine called CrossTalk, which really was about technology from a systemic perspective, and resonated with my prior experience in political activities for an advocacy, where many of the "elders" were in political science and business).
+
+So, I see the different between canned and recycled vs. discussed and developed.
+
+And I concur with a paper that was shared today by one of my connections on Linkedin, Claudio Bareato, about side-effects and risks of the current approach to AI ([see and download here](https://www.linkedin.com/posts/activity-7330819647241338881-ONAi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)).
+
+Personally: my first forays in what was then AI was in the 1980s-1990s with PROLOG, and my first conceptual application was to design (but then did not implement, as I left the company) an "explanation expert system" to explain the decision support system models I was designing for non-technical senior managers, so the source and content was carefully curated (it started with writing the BNF description of the syntax of model-building formulas, for those between you who are curious about the technical details, and then converting it into PROLOG- [have a look for free at the 2003 edition](https://github.com/VanHakobyan/SWI-Prolog/tree/master/Books) of the famous Clocksin & Mellish book- I liked it so much, that purchased in the 1980s-1990s different editions).
+
+As I wrote in previous articles, I am used to blend different disciplines, and I am always highly skeptical of teams composed from just one background, just one discipline, all claiming to know-it-all.
+
+The risk of such a team? Having just hammers as tools, everything looks suspiciously as a nail- and hammering down with what they know is their way of "solving".
+
+So, computer programmers try to convert anything into a software development task for a universal software, and others will design processes that have so many twists and turns for potential evolutions, that takes a support army to make the few involved in the process to do what they are supposed to do.
+
+If both examples seem extreme- are not, and saw both cases repeatedly across my career- call it "scope creep supreme", i.e. starting with a goal, and then trying to make it the solution of everything.
+
+The issue is not who does that, but, as we say in Italian, "il problema &egrave; nel manico"- the issue is who coordinates allows such a tunnel vision detached from reality and priorities to develop and thrive.
+
+In my case, started decades ago being cross-discipline before started to officially work, by blending human and "exact" sciences, and study also how both liaise with politics and governance- in State first, then in organizations: a side-effect of my interest in cultural differences.
+
+To work, had to be a "specialist" in something (it changed across time), while also keeping an eye to the whole: a bit a result of natural inclination, a bit of hitting the proverbial ground "face first" few times.
+
+Politics in my case implied first to do what other teenagers did in the late 1970s and early 1980s in Italy (march, protests, pickets, etc)- then, in 1982, started instead adding to my readings about cultural anthropology, history, science, Constitutions... material coming from European institutions, and in 1983 was instead working on a political campaign, on the bureaucratic and event side.
+
+And also in the Army in 1985-1986, as I was in artillery but within a group of specialists, read material that was not the usual- and included reading tables and guidelines prepared by scientific staff somewhere higher up, and, then, for other reasons, going into libraries to complement that "pre-digested" with an understanding of the underlying science- helped also by my prior interest in climatology (derived from when I studied for the private pilot license- theoretically, not in practice).
+
+Serving in the Army as I did opened a completely different perspective on how the State works, bureaucracies, and prioritization, as well as brought me to interact with people with different social and cultural background, people I would not have interacted with otherwise.
+
+Before serving in the Army, I had interacted in politics with Italians and foreigners- but either we were in same "fish barrel" (Weltanschauung, in our case on advocating for European political integration), or, when I was town secretary of the youth organization in Turin interacting with the youth components of political parties, we were anyway in a different domain knowledge from some of those that I met in the Army.
+
+And also in business, when I started, I did not share the background of many of my colleagues, so I did not talk about my past political or Army activities.
+
+Albeit... that line of experience was repeatedly useful to look at the same data and events, but from a systemic perspective, and looking for different "angles".
+
+In change, I think that there are at least three dynamics to consider:
+_ internal
+_ external
+_ the interaction between the two.
+
+The first one is obvious: it is about knowing where you are, where you want to go, and how this will impact on all those involved.
+
+The second is something that is often mishandled- as you can ignore it. overextend, or get into a tunnel vision focused only on what is assumed to immediately impact you.
+
+The third one is more interesting, as, even when the first two dynamics are considered, it is more often than not ignored a further element: the motivation and "internal/external" of those involved, which might not be perfectly overlapping with those of the organization planning the change.
+
+As the point is cognitive dissonance, will start with a first case.
+
+
+<b>Projection and reality: the Turin case</b>
+
+Saturday, on  my way back, on a bus heard "c'est pas serieux"- in French.
+
+I concur, but not for the same (probable) reason: I always wonder why tourists think that seats reserved for potential users with disabilities should be used by tourist, despite being clearly marked as reserved.
+
+The rationale should be: use the unmarked seats until available, then if you really need take on the others, ready to release them as soon as somebody entitled appears.
+
+Not to start occupying what you like.
+
+Anyway, also my fellow Italians took a long while to get used to the idea that in movie theaters you sit on the assigned sit- instead, many were used to seat where they preferred, and then asked anybody coming to move around: I will let you imagine the ensuing chaos.
+
+Just a small example of cognitive dissonance: you consider that what for you is normal is normal for everybody, and that reality will follow accordingly, ignoring what would happen if all were to follow the same approach.
+
+Another case that I saw at the Fiera del Libro of Turin last week: a teacher with a microphone with associated loudspeaker guiding his elementary school children.
+
+Probably assumed to be smart- until entered the building and saw that, beside the obvious issue if all the other teacher were to do the same, the background noise was so strong that that tool was useless, unless she wanted to start a shouting contest with other groups...
+
+As I shared since 2012 other examples, in this article will just share links to posts over the last few days, each one prefixed by a keyword.
+
+Some bits that shared on Facebook (the social side) over the last few days:
+_ [capacit&agrave; progettuale vs capacit&agrave; di far progetti](https://www.facebook.com/robertolofaro/posts/pfbid0LgvH2Z3BUegV6sFPSM73y63ujKmRGPGJyUpkNnjG1NS3btvXA1HrKXQswR7Y5Va7l)
+_ [EU in sedicesimo](https://www.facebook.com/robertolofaro/posts/pfbid02Ws6BfnNCnpoKV8K1c8xnB8VB7KsKn25pPdXDxxAQ1jiXiRAsJh3youRm8HVrev7Jl)
+_ [cognitive dissonance within 24 hours](https://www.facebook.com/robertolofaro/posts/pfbid037KXTcQG72WttmeW4weRoxEkWDy3ERkUJM5LbCD4dx4NR5bRsiMRHpWcr4K9u3yjKl)
+_ [one trick pony](https://www.facebook.com/robertolofaro/posts/pfbid02Zh8A5Rco3Zh3wSzGa6MP2SNFsueC5wsYmXLp4PPRT2cXyxKK5Nof4ugwtQXfWNEil)
+
+and on Linkedin (the business side)
+_ [Saudi investment](https://www.linkedin.com/posts/robertolofaro_ai-humain-saudiarabia-activity-7330119794806935552-n8k2/)
+_ [FIT attendance](https://www.linkedin.com/posts/robertolofaro_interesting-and-worth-attending-and-while-activity-7328485899082555392-I20z/)
+_ [NOTAM on business side of what shared on Facebook](https://www.linkedin.com/posts/robertolofaro_on-facebook-share-my-traditional-notam-activity-7329018213885808640-gynB/)
+_ [compliance and prioritization](https://www.linkedin.com/feed/update/urn:li:activity:7330167487222706176/)
+
+The key element: if instead of assessing reality, you project your perception of what would be a convenient reality to keep going on, you end up with what I saw few days ago.
+
+Attended at the Fiera del Libro on Thursday 15th a conference that was supposed to present a report on "Segni particolari: citt&agrave; d'impresa e di cultura", i.e. blending the two dimensions of business (specifically, mainly manufacturing) and culture (specifically, the business of culture but also leveraging on cultural heritage).
+
+What did I get, after few minutes?
+
+A d&eacute;j&agrave;-vu: as of the three panelists, the real host (representing Unione Industriale of Turin) was the rational side, while the Mayor of Turin and the President of the Egyptian Museum of Turin (who announced that had just been confirmed for a further four years- hence, a fifteen years tenure on an initial statutory mandate of five years) basically praised themselves and their own results and foresight.
+
+Exactly the same communication dynamics that I heard in 2016 at the event to celebrate a decade since the 2006 Turin Olympics, as I reported back then in one of the most read articles on this website, whose title is a direct quote of the opening phrase that, in that case, uttered the then Mayor of Turin, when it was his round to talk, after his two predecessors (from the same political coalition- [Amministrative 2016-03 "io sono quello che ha pagato i conti"](index.php?page=75)).
+
+On Thursday, I soldiered on staying on for the whole one hour ordeal to listen if it improved, but some people that I had already seen in other events (older than me) left after the first couple of minutes with a disgusted face.
+
+As I said on Saturday 17th at lunch to some friends, when asked if I had attended the presentation of Yasmina Reza, I did not, as it was at the same time.
+
+And this is probably where those leaving went.
+
+Unfortunately, after attending other events in Turin about Turin's future, I had to listen to the counterbalance, to see if the opportunity to change was seized.
+
+Anyway, it is a matter of choices: all legitimate, all with different side-effects- what you choose is a function of your priorities, and how you relate your own priorities with those of the context where your activities are carried out, present and future.
+
+So, time to share some pointers to the future (albeit, if you read the posts linked above, you will have access to their components), looking at the three dynamics that I referred to within the introduction of this article.
+
+
+<b>Factoring technology impacts and demographics</b>
+
+The future does not just appear out of the blue sky, it is built day after day- and each choice (or non-choice) is yet another step.
+
+There might be unexpected events, but preparedness to cope with them (what we like now to call "resilience") is built by past choices.
+
+Referencing again Turin, my birthplace, when I started working in the 1980s there were already discussions about a "decline"- but the town had still a larger population than today, just look at this ([from Wikipedia](https://en.wikipedia.org/wiki/Turin)):
+
+<table>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>1971</td><td>1,167,968</td><td>+13.9%</td></tr>
+<tr><td>1981</td><td>1,117,154</td><td>-4.4%</td></tr>
+<tr><td>1991</td><td>962,507</td><td>-13.8%</td></tr>
+<tr><td>2021</td><td>848,748</td><td>-2.7%</td></tr>
+</table>
+
+Anyway, was not really all "lost" population, as it shifted also to other towns and villages belonging to the same Metropolitan Area, which, since it was set up, covers the full territory of the former "provincia" (county) of Turin.
+
+As I shared within an old article [The human side of sustainability: looking at the demographic trends of Turin](index.php?page=529), the expectation is for Turin to shrink down by a further 350,000 inhabitants within this century.
+
+The overall metropolitan area, between 1980 and 2021, roughly stayed the same- approximately a little bit less than 1,900,000 inhabitants- including those of Turin.
+
+I will let you read that previous article for more information, as here would like to use Turin as a case study of an aging town whose population is declining, while being surrounded by an area that, so far, has kept the balance.
+
+The curious element of Metropolitan Areas in Italy is that the main town, in the case of Turin, provides the de facto Mayor of the aggregation- which implies, sets also the priorities.
+
+Turin is undergoing a massive gentrification and conversion of a former industrial town where most of its inhabitants either worked for the main local company group (FIAT), or worked in related services and suppliers, or the State and local authorities- there were few local opportunities outside that closed circle, but this is normal for a company town.
+
+Now, before and after the 2006 Winter Olympic Games held in Turin, the town tried to reinvent itself, but the 2006 Games made somebody think that an industrial town with an industrial infrastructure and related salaries can turn into an "event-driven" town living on tourism, hotels, restaurants and related (low, unsteady, jig-based) salaries, plus retain all the universities that made sense in its previous "life", plus innovate in industry while having left locally mainly smaller companies that lack both the structure and organizational complexity to support what a major multinational could (e.g. in-house competence centers not focused just on today, or career development path including formal structure training curricula, etc).
+
+If you visit the Metropolitan  Area of Turin, you will see that, while renovating the inner city, up to converting the center into a pedestrian area, in other areas of the Metropolitan Area instead, as locals often complain, there is not the same level of attention- from road maintenance, to services availability.
+
+If the "inner town" (as will call Turin) will really lose 350,000 inhabitants, the issue is not the end- but when the ["tipping point"](https://en.wikipedia.org/wiki/The_Tipping_Point) will happen, i.e. when infrastructure, services, academic institutions will cease to be sustainable by a dwindling, aging population and lower salaries of people that will not anyway be resident locally.
+
+It is nice to boast that the town attracted 4 and 5 star hotel chains: but they mainly extract value from locals or those choosing to be based in Turin while e.g. working in Milan (as many of the new hotels are within easy reach of railway stations), as their corporate headquarters (and main value added taxation) are elsewhere- their investment is in renovation and maintenance to enable extracting value.
+
+Increasingly, technology is getting closer to what [Arthur C. Clarke wrote](https://en.wikipedia.org/wiki/Clarke%27s_three_laws): <em>Any sufficiently advanced technology is indistinguishable from magic.</em>.
+
+Which, in this demographic context, is a blessing in disguise- because it allows to increase the level of technological support and maintenance, while lowering the need for the aging population to keep retraining (and, frankly, locally also people in their 30s often, if I compare with what I saw elsewhere in Europe, are less inclined to keep learning: lost count of how many times I was told "I studied that at the university", as if that did not imply that knowledge had to be kept alive, or "since graduating, I do not have time to read").
+
+Still, this technological environment will create a dependency: losing locally the ability to innovate and understand the components of the technology, an industrial territory used to think to be innovative, able to convert R&D into products, etc, will instead become a target market for products and services whose innovation is done elsewhere.
+
+While the territory still has resources from past industrial activities (e.g the assets of local banking foundations, and other private organizations, as well as infrastructure and academic institutions), it can still alter the scenario- instead of being a target of predatory practices to extract funding for seed activities that will scale up elsewhere.
+
+The issue is: for how long it will still be able to alter course?
+
+Having the whole Metropolitan Area of Turin de facto subsidize the inner city gentrification, both directly (proceeds of services and taxation, e.g. from partially owned utilities that cover the whole territory) and indirectly (e.g. as source of labor that increasingly will be unable to live within the inner city) will probably eventually generate a realignment of priorities.
+
+Decades ago, wrote that technology (specifically, digital transformation) allowed to eventually make viable also smaller States- which of course is true only if you ignore security and labor-intensive services, and the ability to attract talent that already went through the "talent development" process where there was the ability to transfer knowledge.
+
+While living in Brussels, I remember meeting in pubs nearby the European District people working for larger countries, who were discussing, at the end of their mission, to become employees of smaller states that lacked the experience and skilled staff needed to integrate in Brussels with the European institutions.
+
+Actually, when there was the usual "handing over" to another country the lead (it happens every six months), local newspapers, when the round went to smaller new Member States, routinely reported which country did "lend" staff.
+
+So, technology is not enough: the phrase in French sounds better- you need both "savoir faire" and "savoir &ecirc;tre", i.e. being able to do (something that in part can increasingly be delegated to technology) and being able to live, think, act as required (something that still requires long training paths).
+
+And this brings about the next section: if you consider the potential of technology blended with demography, what are the risks and caveats?
+
+
+<b>Continuing on "rebuilding" for sustainability</b>
+
+There are few more posts that would like to share:
+_ [what happens when you think about tweaking rules but ignoring potential long-term consequences](https://www.facebook.com/robertolofaro/posts/pfbid02svPPaDZrkVi6jBhkzW88MsTQ58hEMWRGKtz2BeyKSrsM8pNQ3ZCarWQZKYajAMJBl)
+_ [what happens when you keep using a tool that did not deliver results](https://www.linkedin.com/posts/robertolofaro_seventeen-times-maybe-the-tool-is-activity-7328438182759305218-JTd1/)
+_ [a WSJ article about why Target was "punished" by its customers more than other retail chains, after lowering the tone on DEI (inclusion, diversity, etc)- you have to consider the expectations that you built](https://www.wsj.com/podcasts/whats-news/boycotting-target-part-1-how-it-doubled-down-on-dei-then-backed-off/dc61ecc7-f764-42c0-a7de-a56472c8be98)
+_ [side-effects of a tornado impacting on a 5-years old solar generation facility with an expected 25-years life, extending considerations to sustainability](https://www.linkedin.com/posts/robertolofaro_solarfarm-solarrecycling-tornados-activity-7330466213128491009-VKbU).
+
+If you look at my CV page, you will see a link to PMI's [ProjectManagement.com](https://projectmanagement.com) website.
+
+As wrote at the beginning of this article, I am not certified, but last year decided to join it to access the standards, after following some training, as since 2012 most of my missions have been in an environment whose approaches were derived mainly from PMI.
+
+Moreover, I wanted to contribute to the community, by participating to the revision of the Standards for Program, Project, Portfolio Management- something that concluded few weeks ago.
+
+I will stay within the ProjectManagement.Com (as I was there before PMI acquired the community), but for now it was interesting, beside what I wrote above, also to look around at webinars, to see how the professions involved (project, program, portfolio management, PMO) were impacted also by AI.
+
+As I wrote in one of the posts linked at the beginning of this article, too many locals in Turin are still used to spend the whole life within a single company- and even after the company developed elsewhere, still retained the same mindset.
+
+And turned quickly into a "one trick pony": which does not imply just what usually is assumed, but also that cannot understand that you have not just to update and learn, but also unlearn and cross-learn.
+
+Or: what was your expertise, an asset, can turn into a liability, if you use it as a filter toward a different reality.
+
+A large company town can cocoon you from that, as you will do what you are told when you are told, and the organization will take care of shielding from external influences and realities- but in a more dynamic environment, where evolution cannot be controlled from a single source, you just risk structural obsolescence with no way to learn new tricks.
+
+Yes, adults learn by extension of already known patterns- probably, why we need less neurons than smaller kids before they shift from learning at an accelerate pace whatever crosses their cone of visibility, to getting into our educational system.
+
+We more than compensate by having more connections- still, those connections allows us to find patterns that we assume have a causative effect where there are just correlations, and viceversa, when we discount unfamiliar potential causative effects, dismissing them as correlations.
+
+So, whenever in the past had to "deep dive" into a subject, local commentary was that I was just focused on that- and then were surprised when switched to another deep dive on a different subject, while the previous element started appearing here and there, integrated into what previously did not contain it.
+
+Obviously, the point is now AI, specifically GenAI.
+
+Which, frankly, along with prompt engineering (until models will be able to better dissect human requests instead of getting lost), for me is akin to learning Lotus 1-2-3 in the late 1980s to work in my first PMO/QA/QC assignment, or Excel years later, or any other tool or process or law (yes, laws, too) I had to learn for one of my missions.
+
+A tool, but in this case also a potentially misleading one.
+
+In the 2020s, considering that computing resources are now relatively cheap, not having on your PC and smartphone tools to access models is akin to refusing to use email in the mid-1990s.
+
+I use them respectively offline and online, avoiding to use the online part for brainstorming or anything else in idea development that might disclose information.
+
+And, as I did in the late 1980s with Decision Support Systems, and saw back then, there is a significant improvement if you give access to data with known lineage and quality directly to those able to understand their value and see decision-making, vs. giving it to assistants and interns who, paraphrasing what I was told decades ago by a CFO about juniors in auditing, are able to sum apple with pears to get oranges- because do not understand the difference between the three.
+
+Sometimes, when I hear economists talking about measures to generate impacts on society, apparently they end up assuming that is just a matter of numbers and that human organizations react in zero time or, as shown during the COVID crisis, assume that you need to design processes, rules, charts, and then, as if by magic, those trained years earlier will "switch on" and immediately become productive.
+
+In a company with hundreds of thousands of employees, you cannot have just roving agents or senior managers that do what others and I did routinely since decades- you need a significant quota of people focused on one role, or even one task.
+
+Which is fine- but not if that mindset goes up through the feeding chain, as it becomes a structural organizational straitjacket that makes any change into a melodrama.
+
+Side-effect when you build such a structure? 
+
+When you have to prepare for change, the temptation is to create a crisis to actually become able to justify a reshuffling beyond what would be needed, e.g. by removing roles and activities (and the associated staff), and to justify shuffling sideways those who could lead a blockage- by simply removing them from their "old" structure, and into a new one that has no allegiance to them.
+
+Anyway, it is a tradition, similar to the one adopted in merger&acquisition: in some cases, those selling downsize and cleanup before selling, in other cases (e.g. when political relationships are to be kept alive) it is up to the buyer to do the cleanup, often with information provided by the seller.
+
+Now, all that you read in this section so far is actually a "bridge" with the potential positives of digital transformation, and specifically AI, in a society that is getting older and older (e.g. in many areas of the Turin "inner city", as described above, the average age is closer to 50 than 40).
+
+To see the flip side of the coin.
+
+Yes, I had the opportunity in this section to repeat again that I think that continuous learning (and unlearning, and relearning) are paramount, notably, as I wrote in the past, considering the new way and shape that companies will take, built around purposes that might evolve across time.
+
+What used to be a "pivot" for startups, will become common across companies that will find that, as did Amazon, what they built for internal purposes could actually be leveraged as a tool to generate new revenue streams.
+
+As I was told in Holland over a decade ago, while still living in Brussels, during a mildly disguised interview for a significant role, even a bank might actually generate more revenue from services, real estate, facilities management than via its banking retail activities.
+
+The key element? Having a clear understanding of what is needed, and capabilities aligned to your corporate culture to convert that opportunity into a revenue stream, instead of generating a huge set of potential bottomless liabilities.
+
+The linkage to corporate culture is quite significant: as I said decades ago and repeated recently, when you do a phase-in during a change, there might be some phase-out that includes people who are unable or unwilling to adapt- and they way you manage this attrition should be consistent with your corporate culture, as otherwise you risk losing talent that you would like to retain, as they will consider that might be next in line for removal, and therefore decide to jump ship before it is too late.
+
+Implementation is the key, not just the outline or theory- as, the less details you show, the more a plan is just almost "canned common wisdom" (built on repeated experience, but still an abstraction).
+
+That's why, when asked few weeks ago for a case study to propose a plan for a new program, I did not do what I expected other candidates had done (talk platitudes and generic, avoiding to give a structured plan- it is the old way of consultants to avoid being skimmed for free), and instead did what I had been done for few decades whenever a customer or prospect asked to propose a roadmap.
+
+I think through pictures, and in the early 1990s actually during a training for a banking customer, as remembered in past articles, did some exercises to help others recover the same "spatial intelligence" that in our business environments few retain.
+
+So, it takes few questions and minutes to visualize key points, and then, once in place, add the "connecting dots" (milestones, products, etc), and identify in my mind potential further questions and caveats, that usually end up into the initial activities after the contract is agreed.
+
+I was told that the roadmap and milestones and products, etc were my IPR- but, frankly, if I scribbled that on a keyboard and then let a picture be taken, would have been a waste of time and non-sensical to bother to delete it to avoid leaving it behind.
+
+Also because, obviously, those further questions and caveats would came later, and, as I keep saying in Turin, having a plan does not imply being able to implement it.
+
+Look at how many products ended up into the ["Google Graveyard"](https://killedbygoogle.com/), a website of products launched as MVPs, attracting also significant corporate investments, architectural and service design, only to...
+
+... be informed that, what the customer and their advisors expected to produce a return by staying on, was not considered economically viable few years since the pilot started, and therefore discontinued.
+
+Shifting to AI, look at various startups that are just "repackaging" API calls to one of the major players, or look at how much money OpenAI continuously need to raise to subsidize its own money-losing services, and you will understand why my focus, for my own purposes, is to work offline and go open source with models that allow commercial reuse.
+
+As, if the provider were to decide to discontinue the access online, or even the model, or create (as it happens often) a new one that changes some guidelines and makes applications developed on that incompatible, would keep going on, and shift to another one or a new version only if and when relevant for my own purposes.
+
+Now, I wrote in the previous section a reference to Arthur C. Clarke and his concept of technology so advanced that look like magic.
+
+Yes, many say that this accelerates access and diffusion (look at charts online of how fast new technologies or concepts spread around since the 1980s, if compared with innovations few decades before).
+
+Anyway, if we get older, probably tuning learning approaches to "fail fast, fail early" continuously, this will not work- for now, it is not how the aging human mind works.
+
+And, as I wrote above, I was puzzled to see how people in their 20s or 30s had an approach to continuous learning that to me sounded as people in their 50s twenty years ago.
+
+In an environment where most will be used to continuous learning as described above since childhood, might work: but will require adopting that attitude early on, not just a "pass the exam, get the grade, move on" attitude as I heard too often since 2012.
+
+For the next 40-50 years, those who have 20-35 years now frankly in most cases do not have that attitude- aim to "settle" and live off what they invest in now.
+
+And, probably, will "settle" as fast as they can into routines, patterns, etc.
+
+Implying that, probably, will do as I saw many do: take shortcuts to learning about how to learn, and shift directly into transferring that "capability" into smarter and smarter tools.
+
+Also as employers: why should you spend six months to two years to coach somebody or train them on-the-job, when all those entry-level activities can be done my models, from formatting data, to summarizing information, to preparing simpler material? With the added "bonus": a software or model or robot (in the future) that you will train, will not leave the company and bring what has learned elsewhere.
+
+Ten years ago, if you wanted to see one hundred versions of your Powerpoint presentations, it took weeks- but it was inexpensive internship time.
+
+Nowadays, to obtain the same result, you can simply tinker with few prompts during the same day- no need to waste time to review what interns who do not have a clue about the business meaning of what they are writing would do.
+
+I remember how, when I was asked in my first job to prepare a presentation of how a system worked, I was quite precise, and used a graphical tool (mid-1980s, was I think Paint something on a PC, to generate a GIF): I think about that product of a working day once in a while- it was what the French call "usine &agrave; gaz".
+
+Too complex but really precise, and missing totally the point, because I did not ask my boss who was the audience, so I assumed a technical precision.
+
+Really German in its detail and precision- but totally useless for the sake of a presentation to senior management about the key concept and information flow.
+
+Yet, it was a learning experience- did not take that long, but was useful, and helped to remind me what I had seen in politics and the Army, but was forgetting after a mere couple of years in a business environment working only with people who were focused on technical delivery: tune to your audience ([more about that, albeit in Italian, in a mini-book that released more than ten years ago](strumenti)).
+
+Now, if you get pre-digested relatively high-quality material in minutes, do you expect that juniors will be given then hours to understand and dissect?
+
+Probably not- there will be less juniors, churning out presentations each hour using a blend of AI tools, and without the time to learn lessons, just executing what software and models cannot do autonomously (for now).
+
+As I said often at least since 1990, when I had my first assignment on cultural and organizational change management, whenever you add in a specialist team a new person, will absorb probably 25% of the time of one of the others, before becomes productive.
+
+Anyway, if you remove that "learning curve", and think that "learning rate" is something useful only for AI models, then you are accelerating the present and undermining the future.
+
+Some people never get through a learning curve, replacing it with certifications that allow them to learn answers, while being unable to make questions.
+
+In business, you have to ask questions, and then look for tools to help produce answers- not look at your catalog of answers, and see the best fit, as this would result in missing the opportunity to innovate, instead of being just a superficial copycat years later.
+
+It is akin to when, to accelerate entry in a market, a company coming from a different industry tries to snatch assistants to managers of branches from their competitors, and appoints them as manager of its own branches.
+
+Yes, they were "gatekeepers" and supporting, but few of them had already developed the ability to replace their manager, when it came to decision-making.
+
+And, more important, they are probably carriers of the culture they worked in, which implies that, if you are building a new company, you risk getting a cacophony: as your customers will get pre-digested behavioral answers different from each interaction with a different branch, something that larger customers, working with different branches, will immediately spot.
+
+So, whatever tools you use, whatever talent (human, AI) you "import" in your organization, have it "embedded" within your organization, if you need to ensure consistency.
+
+The risk then turn into losing the benefit of that "imported" talent by killing it with an excessive control-freak and "Not Invented Here" blockade: but that is the art of human resources management in the XXI century, when you will have to get used to have people that do not work exclusively for you, and are not expecting a "cradle-to-grave" employment.
+
+Over the last month published two articles that dance around these themes:
+_ <a hreF="index.php?page=594">(re)building companies in our AI- and data-driven times: a contextualization and an introduction</a>
+_ <a hreF="index.php?page=596">BookBlog20250509 Unbundling organizations while retaining differentiation</a>
+
+In Europe, we are accelerating not just initiatives, but also churning out new structures, regulations, etc at a faster pace
+
+The aim? To catch up with whatever: bringing back production of electronics critical for our manufacturing (from cars to washing machines), after neglecting for decades; developing alternative energy sources, after relying on Russia (and now gas from USA) way too long; etc etc.
+
+We are losing touch with reality: announces beget announces- faster and faster.
+
+Anyway, as I shared few days ago, those producing announces increase their efficiency in producing new structured announces the more they do announces.
+
+Pretty much as, having prepared proposals and plans, or revised them, for decades, I was able to produce that roadmap in minutes, or quickly revise the program, portfolio, etc standards, quickly pinpointing to areas where I think could be useful to add further elements.
+
+Or, as it happened over a decade ago, was asked to prepare a plan for a program for a pocket multinational to cut down on utilities cost.
+
+The plan, as it involved travels around Europe, was actually quite detailed in terms of which workshop and analysis activity was done where and when, to optimize costs.
+
+But, obviously, did not contain details for implementation.
+
+Was then dropped from my partner, and eventually received a call probably from the customer, call that I declined: as it happened in the past, probably tried to implement, but discovered that having lines that say "workshop on X" do not imply that you know how to do that, build the KPIs, produce progress reports, do a financial analysis, etc. 
+
+Ditto when a startup that shifted assets to avoid releasing equity and pay deferred income (2 years of support) said basically "sue us", only to come back later and offering the double to help them sell the company, but... again with a "deferred equity" approach: obviously, declined the tremendous opportunity.
+
+Yes, to implement is something different: you need to know and understand why you want to do something, what, and how.
+
+All things that require not just a catalog of what to do when and how, but also an understanding of your context, and what needs to be done- something that is based on experience and integration with the specific context: that's why, also with my customers when I was delivering management consulting services for cultural and organizational change, there were always specific activities to understand their structure, culture, purposes, and transfer knowledge- as, in my view, the success is not just the completion, but the ability within the organization to keep going, using, etc.
+
+Albeit evolution might require again external talent- if you did your job correctly, others might be able to continue if they follow an adequate approach; if they mess up, anyway the customer will call you back, as it happened few times in the past.
+
+Hence, what will help our aging workforce to work less hours and retain productivity might negatively affect the resilience of our society, notably future generations' ability to adapt, as we will remove most of the entry points.
+
+I saw already in practice what happens when you deliver "digested knowledge" without explaining its rationale, and the positive and negative choices that produced that knowledge.
+
+You get people in their 20s-30s that talk as CEOs, cross the Ts and dot the Is of existing material, but then are unable to understand the logic of misleading information, as never went or were told about the paths that produce those results.
+
+Fine while they are starting, a potential danger if they are able to "fake it until you make it"- as they will never have any incentive to improve, just to keep moving.
+
+So, to continue on those two latest articles I quoted, published over the last month, we do not need to redesign just workplaces and jobs, but also career paths and learning patterns, if we want to avoid that increased efficiency today will undermine future sustainability.
+
+At the same time, it can be expected that, as robots and software and models will improve, and maybe in a decade we will start getting real "AI agents" (not just scripts that are a natural language sibling with access to the Internet of what did in the 1980s with less flexible systems that were all "in house" or connected with few curated external data services), we need to redesign our tax system.
+
+Currently, we tax labor, and, in Europe, each salary is subject to "fees" to provide for access to health and welfare.
+
+Yet, machines and software are not taxed in the same way.
+
+In the future, probably we will have more machines covering more of the bureaucratic or manual activities, and humans will have less working hours (or the same working hours but scattered across many employers, leaving many with nothing to do, until the population will shrink).
+
+So, a robot or a software will probably start being counted as a "worker", whose contributions to the health and welfare will be used to subsidize humans' health and welfare.
+
+Too far fetched? Frankly, not enough.
+
+Anyway, as usual, just pointers: the whole concept of this article is to look beyond the now and here, and keep thinking about the palette of choices that is (and will be) available.
+
+As I wrote at the beginning, integrating:
+_ internal
+_ external
+_ interactions of the two
+_ interactions not just of what the organization decides for the above, but also feed-back cycles associated to what stakeholders (internal, external) will bring to the table in terms of assumptions (of what is "normal") and expectations (of what should bring the future).
+
+And as a curiosity, I asked to DeepSeek (offline, using GPT4all "RAG" facility called "Localdocs") to summarize this article, and this is the answer:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250521_article_addendum.png)</center>
+
+Let's say that it did get few points right, and for others went a little bit off-track, but overall is interesting that it got some key points and tried to convert them into a guideline.
+
+Stay tuned!

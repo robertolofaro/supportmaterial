@@ -1,0 +1,89 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250424_article.png)</center>
+
+This really short article is within the CitizenAudit series, which implies two things:
+_ shorter than my standard articles
+_ based on data.
+
+In this case, with a twist: data collected and assembled not by myself, but from multiple sources following my own "suggestion" and request for a structured answer.
+
+As you probably know, formally since 1990 (when I had the first customer asking for those services) I worked on cultural and organizational change.
+
+Or, as I state on <a hreF="https://linkedin.com/in/robertolofaro">my Linkedin profile</a> and of course also <a hreF="cv">CV</a>: "change, with and without technology".
+
+Meaning: it started as political change in the early 1980s, in the Army in 1985-1986 was another kind of change (as designed and delivered an introductory ICT training), in my first roles in my first employer saw it on the ground across multiple industries and interacting with senior management on business number crunching for managerial decision support, and this all implied that "change" never was a one-dimensional affair.
+
+Even before the Internet, technology was an expanding element of any organizational change initiative, and increasingly an element of the mix also in cultural change (e.g. even just to create a shared and accessible knowledgebase).
+
+With smartphones and mobile Internet, which grew even faster than the [ITU](https://www.itu.int/) expected over 20 years ago, that access to information became ubiquitous.
+
+So, as I did in the 1990s while customizing, designing, deploying methodologies and processes or decision support system models (and then business intelligence- less "intelligent", but larger volumes and more "democratized" across the organizational structure), in the early 2000s it was a routine to add to any change initiative an Intranet or Internet element not just for knowledge sharing, but also as a component of change, a component integrated within processes that were being implemented.
+
+Shift to 2025, and I have been testing for a while GenAI models both online, offline, and, of course, as Android apps.
+
+Historically, my approach includes looking at the same question from multiple perspectives- usually human experts, in this case instead did a further test with multiple AI boths.
+
+And, actually, used the following:
+_ OpenAI's ChatGPT
+_ Alphabet's Gemini
+_ Microsoft's Copilot
+_ DeepSeek
+
+Specifically, I used each one on an Android mobile phone.
+
+I will spare you the details, I will share as an example of the resources [the conversation that I had with ChatGPT](https://chatgpt.com/share/680aa749-7384-8012-96e7-61b97f9792b6) (as the mobile version is anyway synchronized with the online profile, so that you can have all your conversations accessible).
+
+The question?
+
+"Could you kindly list all the initiatives for new R&D, startup accelerator/incubator, foreign direct investment attraction, competence centers business development announced in Turin Italy and Piedmont Italy since January 2012, and their current status?"
+
+As you can see, ChatGPT in its answer stated explicitly that the status it reported about is as of April 2025.
+
+Anyway, each one of the other engines reported also other initiatives, and one (I will not say which one) started the answer with a curious statement:
+"It's a significant undertaking to comprehensively list <em>all</em> initiatives in R&D, startup acceleration/incubation, foreign direct investment (FDI) attraction, and competence center business development announced in Turin and Piedmont since January 2012, along with their current status. Publicly available, consolidated information covering this entire period and all these categories in detail is not readily available in a single source.
+"
+
+The <em>all</em> is not my choice: it was the tool itself that decided to highlight the point, and close the introduction to a really long answer with "is not readily available in a single source".
+
+It is curious that the previous article of this series was with the title [Rocking the EU ship: contributing to change within the European Union](https://robertolofaro.com/index.php?page=585).
+
+Why curious? Because just today on Linkedin receive a "share" of an article from a leading Italian politician stating that the American political choices will represent a much needed jolt of energy to shake up the European Union.
+
+Which is what was shared by me (and wasn't alone, I think) on December 31 2024- almost four months before.
+
+So, I am not that much surprised about that statement from a mere AI ChatBot about the lack of a single source- it represents a common issue both in Italy and within the EU, but in this case notably in my birthplace, Turin.
+
+Everybody is routinely talking about "industrial policy", but then, when it comes to assembling one...
+
+... nobody wants to give the lead to a different tribe, but at the same time nobody wants to be the first to say that "Houston, we have a problem".
+
+What's the point of having so many "think tanks", policy research, etc, if the basic instinct is positioning and avoiding mistakes? 
+
+If you want to have an impact, you have to present information and analysis when can still influence choices: 20/20 hindsight is not what is useful to support decision making, only to collect "likes".
+
+So, for good measure, each has its own analysis, its own initiative, as if the main purpose were to then not to generate a critical mass, but to the leading party.
+
+Routinely in the past wrote about the need to learn that old concept of having a smaller slice of a larger pie as a sign of success, instead of focusing on having full control on something within your grasp.
+
+You can search on this website about "development" or "industrial_policy", but the concept in these cases is the always the same.
+
+If you want to build a critical mass, you first need to understand what is already in place, and how you can create synergies- and be ready to tell inconvenient truths.
+
+Synergies often require some phasing out, to better prioritize resources.
+
+As an example: you can build 20 different initiatives, but if then you want a single bureaucracy to support all of them, you have to find a way to make that feasible, as you cannot expect to have the same results if its works on priorities, or if simply splits limited human resources across those 20.
+
+So, tomorrow in Italy is a national holiday, to celebrate the end of WWII- it is called ["Festa della Liberazione"](https://it.wikipedia.org/wiki/Anniversario_della_liberazione_d%27Italia).
+
+And, as usual, each one wants to "pull" it to score political points.
+
+Frankly, the key value that I think should be remembered is that it was a joint effort (up to a point), an effort that allowed in a short while to create a new Italian Constitution for a new Republic.
+
+Then, we immediately started already in 1948 to get again "tribal".
+
+Therefore, let's see how it will evolve: but if we want an industrial policy, Turin is as good a place as anywhere else in Italy or Europe to see how that can evolve (or "emerge") from a structural rethinking of the myriad of initiatives- starting maybe with just a simple catalog with the same information that I asked to ChatBots to see how they would answer, and which information will access.
+
+In a future article will share some real summary (and will note if and when AI will be used, as I do whenever I use "human's" contributions- quotes, etc).
+
+And, hopefully, the summary will talk also about "emerging convergence and prioritization to increase impact".
+
+For now... have a nice week-end!
