@@ -1,0 +1,110 @@
+Digital Innovation. Digital Transformation. Disintermediation. Disruptive innovation.
+
+And I could continue on and on- I worked in the management consulting and business software industry too long to ignore that we are, collectively, masters in buzzword generation, with a Ph.D. in re-inventing new shining wheels.
+
+This is a 2,000 words post that is actually more an announce and a manifesto than an article.
+
+<strong>First and foremost</strong>, no- <u>I am not announcing that I am going to become a consultant only online</u>: there are already way too many "experts" online who never dealt with real business in real life, which doesn't exclude that they might be right most of the time- simply, that they are storytellers, not problem-solvers or creative innovator (as many claim to be).
+
+<strong>Then</strong>, <u>I am not announcing yet another business mini-book on cultural/organizational change and digital transformation</u>: as you can see, after I was offered four years ago to write a series of books for CIOs, I turned down the offer, but... ended up writing a series of books nonetheless, albeit with a wider target, Cxx, the same target that I had with my online magazine in 2003-2005 (800 subscribers from 500 companies, mainly in Italy, as that was my main target market).
+
+Anybody who worked with me since the 1980s knows that I do not see technology as something that should be the exclusive domain of technologist.
+
+Even when I was much more "techie" than I am know on some activities, I had no qualms in sharing knowledge or privately pinpointing a potential/current competitor "slippery of wisdom".
+
+It wasn't because I was or am too good- that is a misunderstanding.
+
+It is just that I think that while I do not like a market economy, we live in one and all the operators have to make it working: it is called self-regulation, and implies doing something better than your competitor, not back-stabbing when you can avoid it.
+
+Then, if we compete fairly, that's fine with me, otherwise &agrave; la guerre comme &agrave; la guerre.
+
+I think that you understand where I am heading to: the main publishing location of this post is [http://robertolofaro.com/rethinking-business](rethinking-business)
+
+It is now again the time to go cross-industry, cross-disciplinary, and therefore, beside updating on SAP and more recently on others bits (e.g. on Amazon AWS), and parts of Intel Edge and AI initiatives, I spent the last few months on "checking the market" while looking for contracts, by attending conferences on 4.0, digital transformation, data privacy, etc.
+
+Incidentally: I published (on purpose in early June, after May 25th) a book on GDPR from a business perspective (see [http://robertolofaro.com/gdpr](gdpr)) and another mini-book on innovation, using Italy and Turin as a business case on what can be done (it can be read online, check [http://robertolofaro.com/innovation-italy](innovation-italy)).
+
+Why SAP, Amazon, Intel?
+
+SAP has a strong cross-industry presence and also material for non-techies, within its open.sap.com MOOC platform, if you want to have an overview on digital transformation and cross-industry or industry-specific processes A-to-Z.
+
+As for AWS- amazing how much of my 1990s-2000s experience on outsourcing from the industry side now could be done with zilch upfront CAPEX, focusing just on service design, talent management, and business knowledge- but, frankly, since 1998 I outsourced all my personal websites infrastructure to Canada, and will stay there.
+
+AWS+Intel add services that would take weeks to just configure, to say nothing about the nightmare of procuring and keeping up-to-date the platform.
+
+And Intel? I wouldn't be surprised if, in the end, were to be absorbed by another star that can embed its hardware production abilities to enhance services.
+
+I have some ideas for the industries I have more experience on, but that it not the point.
+
+How often I saw joint-ventures or partnerships that actually had been converted into bureaucracies just because their reason to exist had disappeared after all that the founding partners needed to jointly do was done?
+
+And how many businesses are still structured for the 1950s-1960s supply chain?
+
+M&amp;A will still be with us- but we need, yes, to be more "creative"; less CAPEX, more OPEX.
+
+Too many try to design "new" business models just by sticking digital wizardry everywhere, also when it is akin to adding a combine to a Ferrari and calling it a crane (yes, three types of vehicles- with three different purposes, but that is the feeling that some start-ups and "visionaries" that never managed anything in their life seem intent on selling to investors).
+
+My cultural background belies my bias: self-studying cultural anthropology, archaeology, brain science, architectural and social history, compared constitutions as an early teenager; then moving into active politics and advocacy at 17, the same age where some apply to become volunteer- so, neither too early not too late, when you still have time!
+
+To that, for good measure, while still in high school, added experiences in sales and ghost-writing on various themes, and a bit of speech-writing and political campaign logistics and "delivery".
+
+My perspective is: there are many businesses where actually "ecosystem peddlers" suffer from tunnel vision, as there were to be just one ecosystem- this is not the case.
+
+Moreover, many are redesigning businesses without following Ford innuendo that you need a market with an income able to cover at least the running costs, living costs, and interest, if you want to sell- hence, his salary increases.
+
+And I think that the personal history of Ford doesn't say to anyone with a modicum of common sense that he was in any way or shape "soft"- many of his business practices (luckily) would be unacceptable today, but certainly that wasn't one of those- up to a point ([http://www.saturdayeveningpost.com/2014/01/03/history/post-perspective/ford-doubles-minimum-wage.html](http://www.saturdayeveningpost.com/2014/01/03/history/post-perspective/ford-doubles-minimum-wage.html) read the whole article, and see how the further increase from 5USD/day to 7USD/day didn't work- a catalyser needs something to work on- and the 1929 economy wasn't the right environment).
+
+I know that many start-upper in Italy talk about "work-and-life balance".
+
+Ask yourself: is this just a job, or do you believe that you can do something worth doing out of it?
+
+If the answer is yes, when it matters this isn't going to be a job, is going to be a trench, not a 9-to-5.
+
+If that "not just a job" routine then drains the life out of your personal life, maybe you should not question the job- but question yourself.
+
+In the future, what I wrote above about M&amp;A will be probably true also for workers, as I wrote few years back in one of the mini-books, the one on experts and talent management ([http://robertolofaro.com/synspec](synspec)).
+
+To be explicit: I think that in the end probably we will work on a continuous demand-and-supply, with two extreme choices- let others maximize, do your own maximization yourself.
+
+Which isn't necessarily to be considered in monetary terms: if I assume that what I like is doing A, I might in the future set a reference point of "costs+plus" (i.e. my costs plus what I wants as disposable income, as done routinely in some specific markets, e.g. in some defence contracts), and then let others negotiate dynamically, who cares if somebody else can make gazillions out of some bits of A delivered at the right time in the right place.
+
+If, instead, I were to be interested in maximizing my spare-time, that could create the unusual bargain that I have to keep shifting into what is trendier, so that I can maximize my ability to be first to meet demand.
+
+Scary? Well, it is just a scenario- if say 50% of clerical works were to disappear tomorrow, it is true that few companies delivering that via AI could make a bundle, but you would have to transition 50% of existing clerical workers, plus trainees, plus those in school aiming for that line of business, plus help re-motivate those willing to do that activity.
+
+And, frankly, this side of "sustainability" is often not taken care of (which doesn't imply "freezing" innovation or the deployment of new technologies: that's delusional).
+
+We are heading into a different way of working and a different, more dynamic, way of structuring work, companies, whole supply chains- as this is the unexploited potential of existing technologies, and the leverage introduced by companies such Amazon and Google that, as did with myself Microsoft UK in the late 1990s/early 2000s, allow those with ideas but just time to use their services and infrastructure for free while developing and kick-starting, increasing the pool of potential successes at a marginal cost of next to nihil.
+
+I would not be surprised if even employment agencies of the future were able to actually manage every employee on payroll as if (s)he were a Rockstar, depending on skills/abilities/attitudes, by filling the agenda of the hours that the employee is willing to give with multiple tasks to be worked on remotely.
+
+As, let's admit it, for most back-office work there is no reason why people should use a central office- again, as I wrote few years ago, it might make sense to have locations that can be used, so that the social element of work is retained, but not necessarily just for one company.
+
+Example: yes, you need financial controllers and their staff; but, beside peak time, how much of their work during the month is "gap filler" done just to keep them busy? How many of those reports, spreadsheets, models, etc. are really read or used by somebody?
+
+A different scenario instead implies something more- a company more as a trading centre for time, skill, goods than the traditional vertical unit, i.e. some companies might expand what others are already doing, with their continuous increase of "additional lifestyle services" (from gyms to agreements with suppliers), and turn a business into a "joint lifetime management".
+
+As somebody else wrote long, long ago: "There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy"- therefore, the idea is to share seeds and the let others develop models by picking on those seeds.
+
+<u>In August I will begin the "trial" phase of the new life of my e-zine, as I think that in the future, whatever your role, even as the most gung-ho Cxx, you will have to be used to listen across industries before introducing major changes</u>.
+
+But it will not be an "ordinary" e-zine, i.e. a publishing venue (to that end, I have already my own robertolofaro.com/portal).
+
+For the future of business, I think that many companies, also the smaller ones, will see business as something that spreads across life- and the other way around, not two parallel channels.
+
+How much will they mix-and-match, will depend on the relative negotiating power of the involved parties.
+
+Nonetheless, while the 2003-2005 edition (that, updated in 2013, you can read on [http://robertolofaro.com/bfm2013](bfm2013)) was focused on business and just indirectly dragging into the discussion cultural elements and cultural references, the new edition will be presenting a palette of choices with some fixed elements, and some "temporary guests"- including purely business segments; yes, I will quixotically choose the palette.
+
+How you will assemble... none of my business (available to help, maybe even to include your own preferences within your own palette).
+
+As for the name- still depends on the partnerships, and therefore I will announce it later (it might stay the same, or change).
+
+It will be something done in my spare-time: so, it will be routinely updated, but not as a quarterly magazine as it was before, as its sections will evolve with time.
+
+As I kept saying to consultants-in-training, when you share and explain, is when you can actually identify failures in your line of reasoning, moreover when you are trying to present as a general law what derives from limited observations and limited experiences.
+
+Just one theme: innovation in business, from an holistic perspective where life and business aren't two conflicting elements, but complement each other, constantly rebalancing depending on your priorities.
+
+In the future only tombstones will be static (until somebody replaces them with LED panels).
+Stay tuned- and, of course, stay foolish.

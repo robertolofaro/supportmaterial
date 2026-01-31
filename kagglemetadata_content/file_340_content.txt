@@ -1,0 +1,107 @@
+Digital transformation, business 4.0, whatever we will have next, all have something in common with any other cultural, organizational, technological change activity I was involved in since the 1980s.<br /><br />Few days ago a local "occasional" foreign contact said that change management is really just a concept that Americans invented to talk about HR.<br /><br />I beg to differ: change management isn't just about people. Or just about technology. Or even just about companies. It is about business and social systems, or, if your prefer to use current consultants' lingo, ecosystems.<br /><br />Change management, digital transformation, and all the future change-related lingo might... change every few years to make us consultants spin new business- that's true and what I saw since 1986, when I started working.<br /><br />But, at the same time, the concept is about systemic thinking- talk about people, process, technology, and the organization of their interactions, and you might be closer to what I mean.<br /><br />There is an obvious "contextual" element: each combination of time, society, technology, location delivers a specific "blend". <br /><br />For examples, nowadays, after the Millennium Goals and CSR, probably no company would be set up to deliberately run afoul of the 1990s OECDs Guidelines for Multinationals, and then assume to grow into a billion dollars company.<br /><br />But, in the mid-1990s, at the beginning of the "Internet open for business" era, that wasn't really taken for granted.<br /><br />I do not know if you remember, but back then, it was also the time when the push for e-government gained momentum- it is a matter of opportunity, motivation, ability.<br /><br />Just to avoid turning this post into a 20-pages essay, I searched and found a January 2018 article that from a first read covers and summarizes literature on most of the points worth considering ["Opportunity, motivation and ability to learn from failures and errors: Review, synthesis, and the way forward"](https://www.researchgate.net/publication/320531946_Opportunity_motivation_and_ability_to_learn_from_failures_and_errors_Review_synthesis_and_the_way_forward).<br /><br />Caveat: I am sharing, not endorsing, the article.<br /><br />To summarize: I will use 1997 as a point of reference to compare 2018 with, as 1997 was my first relocation abroad (also if I had worked occasionally abroad since 1988, and done political activities abroad in the early 1980s).<br /><br />In 2018, beside writing, I tried to see if I could settle again in Italy as a (paid) consultant, to support other future (software, physical product, service) projects.<br /><br />Since March 2018, after attending over since 2012 (when I re-registered locally) workshops, conferences, and webinars in Italy, I added other online and offline workshops, conferences, webinars also more local material, but focused on business development.<br /><br />Generally, organized by the Turin Chamber of Commerce or the local industrialists' association (Unione Industriale), but also from other economic actors.<br /><br />The reason is quite simple: Italy has a significant "legislative volatility", and the last time I had a VAT in Italy was... in the late 1990s, before I moved abroad.<br /><br />So, my interest was twofold: both updating, and "taking the pulse" of the local business environment in Turin and Milan.<br /><br />When you are joining a new business ecosystem or re-joining one that you had been part of before, it is customary to go both for the unknown and the known.<br /><br />Actually, what I did routinely as an "acclimatization" with people is to get the "hooks" in what they knew, so that they could use that as a "ladder" to step on while getting into the unknown.<br /><br />Or, also with newly hired, I think that it makes them to treat them as adults, not as a "tabula rasa".<br /><br />Therefore, I applied the rule to myself- by attending almost all the events organized by the local focal point of digital transformation, the [Punto Informazione Digitale](https://www.to.camcom.it/pid).<br /><br />No matter how much I already knew or had already done on digital transformation and introducing technologies in business processes since the 1980s, the point was to get to know the local variant of the digital transformation as it is now, and the local perception on digital transformation.<br /><br />My previous assessment of the local "pulse" on digital transformation, startups, newcos, digitalization of business models (or at least part of) existing businesses in Italy?<br /><br />In the early 2000s, both on an audit project for a multinational, then to support start-ups in Italy, and also to work, at the same time, on few projects for Government agencies and to reposition a system integrator.<br /><br />All of those at the same time, and all part-time, as at the time I was living abroad and, frankly, saw returning to Italy as an option, not a destiny- let's say a "call option" (here if you do not know what I am talking about: https://www.investopedia.com/terms/c/calloption.asp).<br /><br />You pay a price for an option (in my case, it was in the form of free services given to start-ups, a reduced rate and commission on results, and a reduced rate for the Government Agencies projects)- and then, you make up your mind.<br /><br />There is a time limit usually associated with that (otherwise, it wouldn't be called an "option", but ["Damocle's sword"](https://en.wikipedia.org/wiki/Damocles) ).<br /><br />Well, why updating now in detail?<br /><br />Let's just compare 1997 and 2018, by using something that everybody knows- the Fortune 500 (I have a 1997 copy that I had kept just as a "signpost through time").
+<table>
+<tbody>
+<tr>
+<td>Position</td>
+<td>2018</td>
+<td>1997</td>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Walmart</td>
+<td>General Motors</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Exxon Mobil</td>
+<td>Ford Motor</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Berkshire Hathaway</td>
+<td>Exxon</td>
+<td>Berkshire was 132</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Apple</td>
+<td>Walmart</td>
+<td>Apple was 150</td>
+</tr>
+<tr>
+<td>5</td>
+<td>United Health Group</td>
+<td>General Electric</td>
+<td>United Health was 140</td>
+</tr>
+<tr>
+<td>6</td>
+<td>McKesson</td>
+<td>IBM</td>
+<td>McKesson was 90</td>
+</tr>
+<tr>
+<td>7</td>
+<td>CVS Health</td>
+<td>AT&amp;T</td>
+<td>CVS was 178</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Amazon.com</td>
+<td>Mobil</td>
+<td>Amazon actually entered the stock market in 1997</td>
+</tr>
+<tr>
+<td>9</td>
+<td>AT&amp;T</td>
+<td>Chrysler</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>General Motors</td>
+<td>Philip Morris</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Ford Motor</td>
+<td>Texaco</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<br />As you can see, back then it was mainly about physical products, while instead now is mainly about services.<br /><br />Italy changed a lot, both in and by itself, and due to changes within the European Union.<br /><br />I will skip discussing the changes, as that would be out of line with the "rethinking business"(more appropriate for [another section of this website](index.php?section=diritto-di-voto), the political side of my blogging).<br /><br />What happened between 1997 and 2018, along with other things? Every business, like it or not, is also at least in part an Internet business.<br /><br />Actually, in this decade, we have already moved from having people using desktop computers to access the Internet, to having more users using smartphones, tablets, and other mobile devices.<br /><br />It is not just the "active"choice that matters, but also that, at home or in travel, we are continuously connected and broadcasting information.<br /><br />All this creates opportunities to revise business approaches and, at the same time, shrinks down the time between interactions, and how each one of them influences future interactions.<br /><br />Now, applying digitalization concepts in Italy requires, as I stated above, considering the specific Italian context.<br /><br />You probably know that within the ["The Digital Economy and Society Index (DESI)"](https://ec.europa.eu/digital-single-market/en/desi) Italy ended up being ranked 25th in European Union.
+
+<img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/stories_desi2018_correction.png" alt="" /><br /><br />As I wrote on Facebook within a post yesterday: "other EU countries need to transition to a different economy without stirring the pot, we Italians need to reinvent, reposition, and also transition".<br /><br />Italian newspapers, even today, routinely report on an approach to digitalization that actually is short-sighted: extracting bits and pieces, sidelining the rest.<br /><br />You barter a short-term advantage with dropping what is actually representing the backbone of your organization's resilience.<br /><br />In most traditional companies, knowledge is spread across the organization, moreover historical knowledge, i.e. what you need to evolve your product, services, and overall corporate culture and organization without tossing away what could affect your resilience.<br /><br />So, unless you transition your organization toward a different position before unbundling your organization, you risk tossing away your organizational competitive advantage for the future.<br /><br />Think about https://en.wikipedia.org/wiki/Kodak<br /><br />Or what I posted today on [linkedin.com/in/robertolofaro](https://www.linkedin.com/feed/update/urn:li:activity:6472400400594071552) about the evolution of the former Italian telecom monopolist, linking to an article published today.<br /><br />Or, again today on "Il Sole 24 Ore" a piece of number crunching: 68.5% (!) of the companies within the Italian automotive suppliers ecosystem have no ongoing development project on electrical, hybrid, hydrogen engines.<br /><br />But it could make for hundreds of pages, so instead I will move onto a fictional case study whose answer just by chance developed few days ago.<br /><br />On November 22nd, I attended workshop on "growth hacking" (the material is here https://syx.it/s/growth2211), organized by the Turin Chamber of Commerce along with an associations promoting digitalization awareness.<br /><br />The closing session contained a set of case studies, I was assigned to a desperate case:
+<ol>
+<li>a 30 year old family-owned PLC whose owner was about to retire, putting his recently graduated Management Engineer as CEO</li>
+<li>the company had zilch digitalization and computer technology</li>
+<li>its major current threat was that Chinese competitors beat it with 30% cheaper products</li>
+<li>markets: mainly the Middle East (ok, on this restriction we then got a reprieve), we assumed B2B</li>
+<li>products: just one... nails.</li>
+<li>identify just a KPI for each area of intervention</li>
+<li>bring on board a Digital Transformation Manager.</li>
+</ol>
+
+We had one hour, and the team I belonged to was composed by four people.<br /><br />Unfortunately, as shown recently in other events, the small size of Italian companies and limited availability of "push" for digitalization until few years ago acted as a filter toward innovation: why bother creating a structure, find talent whose lingo you do not understand, when you just can compete on price?<br /><br />Answer: because you compete on price today using today's technology, while your competitors are investing to stay in the market also tomorrow.<br /><br />So, my proposal was simply to work not just on price, but to do what I did whenever I had to work on a change initiative: look at the whole value chain and associated processes, organizations, products, and, of course, people.<br /><br />Basically, I looked at the costs across the value chain: reduce the cost in purchasing by optimizing purchases, reduce the quantity of material used per unit produced, reduce the quantity of finished product in our warehouse (or increase the number of rotations, if you want- i.e. https://en.wikipedia.org/wiki/Inventory_turnover, something I learned in the late 1980s while working on various Decision Support Systems).<br /><br />The easiest point of intervention was to look at 2. from the list above- i.e. use Industry 4.0 / Manufacturing 4.0 tax credits to invest into digitalization of processes, new machinery, and optimization- integrate upstream (with suppliers) and downstream (with customers).<br /><br />But this would cover just the "30% cheaper" challenge for today.<br /><br />Then, considering 1., it was supporting the new CEO into doing an assessment, and asking people inside the company what could be done- in each department, not just on internal processes, but also on products.<br /><br />Many small Italian companies have a huge store of knowledge, but, as I saw repeatedly over a decade ago while supporting start-ups, at heart they remain product companies, and at best some created a website pushing all their knowledge online.<br /><br />Fine, but nowadays that should evolve into something else: so, here it comes the joke of what I called "the nail ecosystem".<br /><br />A decade ago, for a pro-bono start-up, designed within the marketing plan something similar, the idea was to have events, local antennas to build and maintain awareness plus arranging local events, an online series of "circles" for different communities, etc (I might eventually post this online).<br /><br />In this case, the idea was to become "the nail knowledge" focal point, not just adding courses and material on how to use nails, but also building up services to share knowledge with smaller operators and help them (if you want, selling "nail knowledge engineering services").<br /><br />My team mates rightly suggested few further elements:
+<ul>
+<li>catering also for facilities management companies, e.g. by producing and delivering "kits", as it is done in manufacturing (as e.g. I saw in some conferences in Germany that in the past did few American tool companies for construction equipment or power stations- you do not buy anymore a power station or a tool, you buy the service and support)</li>
+<li>adding a social responsibility balance sheet</li>
+<li>inserting as soon as possible the digital transformation manager.</li>
+</ul>
+
+So, the final model had also all those elements, along with full lifecycle traceability from raw material to product disposal, again to link-up with CSR.<br /><br />Another bit that I proposed was to add also 3D printing so that we could have nails with sensors, and collecting data into our "ecosystem", to be shared with our customers in terms of lessons learned, e.g. on how best use nails under different conditions or construction requirements (and obviously offering digital and co-engineering services on that).<br /><br />I proposed and then dropped a more extreme proposal, linked to the initial definition of our market, i.e. remote markets and with no local presence for our company.<br /><br />The idea? As the metal used in our nails is a commodity widely available, have 3D printing (or 3D printing agreements) remotely, to produce on-demand, and cut down on both logistics and production.<br /><br />Blockchain? Was proposed, just to be trendy, but I think that there are areas where it makes sense to use blockchain, and areas where it doesn't make sense (or, at least, is an overkill).<br /><br />And we closed all this with a duet presentation of our team work: a team member pretending to be the CEO, and I pretending to be the new digital transformation/innovation manager- the CEO asking questions and giving suggestions, questions and suggestions that I would answer with more and more details.<br /><br />Now, this story isn't a digression: many of you probably will recognize one or more elements from a long list of cases I wrote about in the past, both related to my experience and cases from companies, cases reported in newspapers, industry magazines, and conferences.<br /><br />The reason why I shared it at the workshop, and briefly shared it here, is simple.<br /><br />You can visualize concepts more easily with a short story, a story that is focused on the lifecycle of whatever you are concerned about.<br /><br />I am a son of a theatre actor, and was used to dissect scripts and stories as a kid, well before I started doing political activities, did sell used books or videogames (in high school), or had to actually teach grown-up (in the Army and then in business), or sell business solutions.<br /><br />Anything has a lifecycle, and a "customer journey" is just part of what should be considered while designing a "lifecycle journey" about a product, organization, or culture.<br /><br />While designing new processes or organizational structures, my approach usually is to identify the boundaries, and then consider the "journey" end-to-end: old habit derived from my experience in merging and designing methodologies between the late 1980s and late 1990s, both "waterfall" and "iterative".<br /><br />Something closer to the current agile, but considering that you start first with a rough idea called "feasibility".<br /><br />I can make up a story as a joke or brainstorm without background preparation, as it happened during this workshop and another worshop few months ago in Milan, but, frankly, when I was called to deliver brainstorming-as-a-service, there was always a starting point.<br /><br />Sometimes the starting point was minimal, sometimes there was something as structured as "this what we did and its current status- let's find a way to recover it by the end of the day", or even "this is the current approach- ideas for fixing it?".<br /><br />Instead of discussing other examples or real case studies, I think that probably the easiest way is to suggest few books that might help you define your own approach:
+<ol>
+<li>to remember the elements involved in restructuring: Gouillart/Kelly "Business Transformation", 1995</li>
+<li>to consider all the steps needed: "Managing Successful Programmes" 2011, from www.best-management-practice.com</li>
+<li>to streamline processes that impact not just on finance: Parmenter "The Financial Controller and CFO's Toolkit", 2016</li>
+<li>to remember what digital transformation is about: Schrader "Transformationale Produkte", 2017</li>
+<li>to have a rapid prototyping approach that applies to both products and ideas: Knapp "Sprint", 2016</li>
+</ol>
+Last but not least, for my Italian contacts: will post something more detailed later this week, with references also in Italian.<br /><br />Also, in December will release the next issue of BusinessFitnessMagazine.com, covering these and related themes, with few conceptual case studies- but looking into the future.<br /><br />

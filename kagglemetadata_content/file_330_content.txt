@@ -1,0 +1,63 @@
+Look around you.
+
+If you have a smartphone, it is not just your device- it is part of an ecosystem.
+
+Even the dumbest phone, i.e. those few left without any kind or shape of mobile Internet services, useful only for text messages and phone calls.
+
+Because each "terminal" is continuously connecting with "cells", and exchanging a modicum of information
+
+If you have been on GSM since its introduction (1995, I think- I waited to have a mobile phone until it was available, my first one was an expensive and overheating Nokia 2110), you remember the time when moving from cell to cell implied often losing the connection.
+
+Or, with the first mobile Internet connections and bundles later on, ending up paying for each reconnection to a new cell while travelling by high-speed train.
+
+Now, with 4G, but moreover with 5G, we will at last have devices able to exchange large volumes of data continuously- but is that really needed? Or do we need to move from the old Internet model built in the Cold War, with few centres aligning (the DNS), to a model similar to the one that is often discussed while presenting blockchain approaches, which, in turn, is something closer to a "distributed/social memory"?
+
+Let's first make a detour to start with a framework of reference.
+
+The picture with this post? From Roland Berger (presented on Linkedin by [A. Banafa](https://www.linkedin.com/in/ahmedbanafa)), to summarize the concept of "stages" within the evolution of autonomous driving.
+
+Actually, I prefer to talk about "degrees of self-awareness of mobility devices".
+
+I know that this sounds a little bit sci-fi "&agrave; la Terminator" (well, we are around the "Blade Runner" timeframe, aren't we?), but bear with me for few minutes.
+
+This is a short post, as it is just part of my "visible drafting of future books", an activity that I started over a decade ago, first while living in London, then after moving to Brussels, and continued since 2012 upon my re-registration in Italy.
+
+Now, look at the picture:
+
+<img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/stories_autonomousdrivingstages_0fbe3fd6-6c38-41b2-81b4-63cdbbfe2a91-original.jpeg" width="300" />
+
+Yes, in consulting and ICT we are obsessed with the "five stages evolution"- as I "discovered" when, in the early 1990s, I had the first Italian customer who actually was willing to pay to have a SEI's CMM assessment done, so that they could understand were their "maturity level" was in how they managed projects, activities, initiatives- and where they wanted to be.
+
+My job? To work with the customer from 1993 to move from the starting point to a first interim destination toward a long journey, to help build a somewhat firmer ground upon which to lay further developments. We occupy but a speck of time within a long timeframe.
+
+I wrote often in the past about how many computers and sensors are on board of any modern car, and I had a quick reminder few days ago, when I received on my business Instagram account (hyperuranos, if you are curious) an offer for an Arduino-like board with a pack of over 40 sensors, for a low price.
+
+So, you could turn into an OEM in your own garage, just add a 3D printer to build up a nice container for your own concoction, and join forces with few people covering different sides of the integration, evangelization, and dissemination/marketing of your device or service. Then, part company, and join forces with others, if and when needed. Call it "swarm R&amp;D-to-market".
+
+<br />Autonomous vehicles and 5G will enable a parallel thread: how that "self-awareness" in vehicles could actually spawn a cottage industry of new data-based services.
+
+A moving vehicle (doesn't matter if individual, group, current bullet train and future hyperloop, or future luxury vehicle to be used outside towns for leasure) is a moving data collection and processing unit that is self-centered.
+
+Increasingly, that processing will expand and turn each vehicle into a dissemination center, i.e. vehicles that will be "contextually aware" will be able to "decide" where, how, when to interact and what, how, when to exchange information.
+
+Those using them?
+
+Probably, will have to digitally sign a "disclosure and reselling agreement" stating the boundaries of disclosure and "revenue recognition" parameters on each travel, either implicitly or explicitly (a future development of GDPR? Well, there are already signs of that within the need to explicitly give consent- see [here](gdpr) for more details and ideas).
+
+Moreover if integrating, using the same approach used by mobile phone cells, with "smarter cells" acting as "local interest processing centres" (call them "edge computing data centres distributed on the territory", if you like)
+
+it takes but a small step to move from an inward-looking, "functional" allocation of that "infrastructure", to something else...
+
+...and build a cottage industry of innovators that will be able to create exchanges and value added services "by interaction" between "moving processing centres" and "local signposts" (the "smarter cells").
+
+As an inspiration, you can read an old (unfinished?) book from Hemingway about the interaction of realities, "A Moveable Feast" https://www.librarything.com/work/11799/book/129799261
+
+Just consider: beside setting up communication and "revenue recognition" standards for all the parties involved, this could also solve another conundrum: what will you do with all those gas stations left behind by the combustion engine buildup since the early XX century? As I posted yesterday, extending the "hybrid transition" across a decade might ease the pain.
+
+Actually, this is not to be soft-hearted: but just to increase sustainability, by repurposing existing infrastructure and staff in the short run, as anyway in many locations staffers are "digital natives".
+
+It is part of the "unbundling" of industries enabled by data-centric innovations: next, rethink the concept of "data".
+
+But this will be for another post.
+
+For the time being, have a nice day!
