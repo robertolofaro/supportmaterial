@@ -1,0 +1,332 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20221008_article.png)</center>
+
+The nice point about plans is that planning helps to assess resources, constraints, and degrees of freedom, but then...
+
+...  you can, if it makes sense or reality demands, make a different plan.
+
+This article has been sitting on my chromebook waiting for completion for a while.
+
+But, being about measurement, it makes sense.
+
+And actually, it is a good opportunity to resume, after the [digression on the elections](index.php?page=484), sharing considerations on Italy and Europe- in preparation of something that will first need to see how the political situation will evolve.
+
+Why Europe in an article about measurements and KPIs in business and society?
+
+Because since the early 1980s, when I first was in a European integration advocacy, I saw that Europe had a technocratic element, that sometimes forgot the overall picture.
+
+First, as usual, the sections:_ reforming institutions in Europe_ KPIs in business_ KPIs in society_ KPIs in a data-centric ecosystem_ our starting point in Italy
+
+<b>Reforming institutions in Europe</b>
+
+I already shared in a past article [my considerations on why the Monnet Method](index.php?page=478): was a tool for its times, but not for our times- or into the future.
+
+I am not the only one saying that the events since 2020 showed that European governance should evolve.
+
+Many (myself included) in the past considered something close to an elected President of the Commission, i.e. an elected head of the executive branch.
+
+And, de facto, the current incumbent often behave as if she had been elected President of the European Union, choosing and committing resources and the whole European Union also to future commitments.
+
+To summarize, for my non-European readers, this is the institutional arrangement the European Union is operating with:_ the [European Parliament]() is elected by citizens basically on a proportional quota by Member State size_ the [Committee of the Regions](https://cor.europa.eu/en) is "the voice of regions and cities in the European Union (EU). It represents local and regional authorities across the European Union and advises on new laws that have an impact on regions and cities (70% of all EU legislation)", and is de facto akin to another chamber of the Parliament (e.g. its members are grouped by political groupings as in the European Parliament)_ the [Council of the European Union](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/council-european-union_en) is "voice of EU member governments, adopting EU laws and coordinating EU policies", and "each EU country holds the presidency on a 6-month rotating basis"_ the [European Commission](https://ec.europa.eu/info/index_en), "whose President is nominated by the Concil, and elected by the European Parliament for a five-year term" ([from Wikipedia](https://en.wikipedia.org/wiki/President_of_the_European_Commission#:~:text=Each%20new%20President%20is%20nominated,address%20to%20the%20European%20Parliament.)). The role? "When President Romano Prodi took office with the new powers of the Treaty of Amsterdam, he was dubbed by the press as Europe's first Prime Minister"
+
+Yes, three presidents- and, while Romano Prodi was called "Europe's first Prime Minister" when became the President of the European Commission, actually the distribution of powers is still complex, as shown by the various COVID-related initiatives.
+
+Probably the European Union is the more data-centric "continental state"- and often its measures range from the lawyer-delight to the economist-delight.
+
+A rebalancing of governance should inject what we are supposedly preaching others to do: more democracy.
+
+So, I think that the first step should be to really have both the COR and the European Parliament acting as two chambers of the parliament, with members elected by citizens.
+
+As for a directly elected president- could take time, but instead of the President of the Commission, I would prefer a French solution: a President of the Council elected by citizens; for the time being, a list of potential candidates presented by European Union Member States and a vote by both the European Parliament and COR.
+
+And, yes: this President should be the President of the European Council, for five years, that then, once elected, should select a "Prime Minister of Europe", who would set up a government- but not with 27 members as the current European Commission, only with those needed, and with the power to dismiss the ministers, while the President of the Council should have the power to dismiss the "Prime Minister of Europe".
+
+As for the Council: should retain only a consultative role, with a secretary and permanent staff, instead of the current six-months "gig" that I saw while living in Brussels what imply.
+
+I know that many would say that the current 6-month rotation enabled each country to have a cadre of bureacrats well-versed in European Union mechanics.
+
+But, frankly, it is not what I saw in Brussels: for larger countries, yes; for smaller countries, they took "loans" from other countries.
+
+And, obviously, would like to see that the all the legislative power, except for urgencies and with a follow-up confirmation by the European Parliament, belongs to the European Parliament and COR.
+
+This is a lesson from Italy, as way too often in Italy since the 1990s we had government decrees that were then pushed through conversion into law in Parliament.
+
+We should consider the impact on subsidiarity of having purely democratically elected institutions in Brussels having the legislative power, including the expanded role for the COR.
+
+Because [subsidiarity](https://en.wikipedia.org/wiki/Subsidiarity), the principle of dealing with issues at the level where a solution can be delivered, takes on a different value when you have both the vertical (e.g. town, region within a State, State, European Union) and horizontal (e.g. a "region" spanning few countries, not even necessarily physically contiguous) considerations- and decision-making.
+
+Incidentally: increasing as above the democratic legitimacy of European institutions would have ripple effects on the internal affairs of Member States, notably for countries like Italy that have a weak State that, North to South, exercises limited control on its own territory, both on the physical and digital side, as I saw since 2012 (and even as recently as this week), and struggles with cohesion (I lost count of how often, since 2012, I heard the usual bickering about North and South).
+
+And this brings back the first point I wrote above, about the 1980s: yes, the European Union is data-centric, but way too often this generates self-fulfilling prophecies, e.g. when a KPI is set focusing on a concept that is common ground in other Member States, but not in others.
+
+I shared something on this line [in early 2019](index.php?page=359), as the German 
+Federal Constitutional Court - Bundesverfassungsgericht many years ago wrote (as I found in a book that I purchased in German Switzerland while working there) that the depth and breadth of impacts from Brussels on each Member State legal framework is such that, as even our friends in UK are seeing, is not so easy to do a "cherry picking", or disentangle what you like from what you do not.
+
+Since 2020, we had a further acceleration of the data-intensive side of the European Union: just look at the [baseline KPIs of the Recovery and Resilience Facility](https://www.kaggle.com/datasets/robertolofaro/recovery-and-resilience-facility-baseline-kpis).
+
+But KPIs are not neutral, as will discuss in the next section.
+
+The risk is always that what starts as harmonization turns into homologation.
+
+The title of this article is about "measurement"- and therefore I will have to start with some concepts, and keep going toward sharing some ideas.
+
+<b>KPIs in business</b>
+
+My first experience on KPI in business was actually... in my first official project in 1986, as I was working on a COBOL software piece that was actually the core engine of a system that had to collect data and score data, in automotive procurement.
+
+But I had had previous experiences in seeing "scores" done, first in politics and then in the Army, including a training field experience in collecting data real-time from a balloon, punching into a hand-held BASIC language computer (yes, it was summer 1985, no GPUs, back then), giving a massaging to the number sputtered by the computer, share it back with the second lieutenant.
+
+When, just a couple of years later, was involved in a new business unit that operated jointly with an Anglo-American, many of the Decision Support System (DSS) models that I was first to document, then to realize and/or design and realize.
+
+And the first DSS project was actually to complete and document a set of models that collected information to generate KPIs and information to provide within group-level reporting, for over 60 companies.
+
+In the end, each model I built for each customer was across multiple dimensions of analysis, harmonized through some measure of target or success.
+
+Meaning: as each region, product, market segment, etc had some specifics (e.g. seasonality, overall size of turnover), comparing direct quantitative information would be not adequate, as would mean comparing apples with pears.
+
+As I wrote in past articles, often already back then had to convert into measurable data qualitative information, by agreeing with the customer a "value scale" that enable comparing, and associated measurement logic.
+
+In the end, also in the 1990s, 2000s, 2010s, and so far in the 2020s, KPIs in business implied a quest toward a convergence.
+
+Convergence that anyway implied a measure of harmonization, to ensure measurability.
+
+Harmonization should be a tool to an end (measuring against KPIs).
+
+And when overdone, usually it is because the KPIs design is ignoring business realities.
+
+Then, harmonization turns into homologation: you are not measuring reality, but converting reality into a set of measurements that conform to your perception of reality.
+
+Which, meanwhile, will keep evolving: I know that everybody quotes that example, when talking about digital transformation, but think about the fight between Kodak and Polaroid, and the associated choices- competing against the perceived competitors, while the market evolved into a different direction.
+
+Or: fighting yesterday's battles.
+
+Anyway, whatever the source of a misdirected harmonization, the net results are usually:_ ignoring what differentiates the components of the organization_ generating a behavioral change summarized by "run to the middle"_ reducing the change of any innovation that isn't merely incremental.
+
+The last point is worth an explanation.
+
+My experience-based line of reasoning goes as follows:_ if your KPI and associated harmonization promote convergence_ if this convergence is made easier if you remove differences_ if all the motivational system is in tune with this approachthen it is probable that any member of the organization gets the message that, no matter what is said, it is better to follow the Borg advice in Star Trek: "resistance is futile".
+
+Hence, also innovation, to stay within such as an overharmonization-based "run to the middle", plays second fiddle, as to stay within those parameters at most incremental innovation is acceptable.
+
+Just to stress the point again: those are not necessarily the side-effects (actually, "negative externalities") of KPIs within a corporate environment, but the risk has to be considered whenever any KPI initiative generates a bureaucracy and starts interfering with operational activities.
+
+It is something that it is common in other environments, too: when your thesis becomes the purpose to defend, not just an opportunity, data turn into "electives".
+
+The solution found in some cases is to externalize innovation, or take over a start-up or company built on a specific innovation that, due to the internal measurement system, would never get e.g. past the internal "business case evaluation" framework.
+
+Which is fine- but removes the possibility of fostering innovation from within, which, over time, would foster , also when there would be a possibility.
+
+Missed opportunities- that others could take on.
+
+<b>KPIs in society</b>
+
+Homologation in society is something that, often, we assume concerns others- not ourselves.
+
+Yet, also politicians behave as influencers, and as shown in the recent round of national elections in Italy, with the same level of "depth".
+
+There is a book that is actually about product design, "Hooked", from Nir Eyal, but is relevant in this context.
+
+As the concept, getting "hooked" applies also to KPIs in society.
+
+While in business you can change KPIs, at least when management shuffles away to other roles, in society it is more complex.
+
+Social KPIs are usually associated to a definition framwork that is embedded within the organizational structures managing the KPIs.
+
+Therefore, for both Millennium Goals and SDGs was obvious the choice to give a "time limit"- to avoid generating a permanent bureaucracy.
+
+As any bureaucracy eventually develops a kind of "self-awareness", i.e. assuming that its own existence is critical, even if that implies distorting the original purpose it was created for.
+
+And I know what I am referring to: decades ago, there was a non-profit set up to provide a decent living to those who fought with Giuseppe Garibaldi (XIX century), and this... almost at the end of the XX century.
+
+Then, in Turin we had the Olympic Games in 2006, and an organization was set up to take care of that, and... it was still alive and well when Italy proposed to have again the games (in 2026).
+
+I decided to start with the business side as it is probably easier to relate to.
+
+Also as customers we keep being pestered by KPIs about quality, performance, service delivery speed, etc.
+
+Not that we really are interested: what we care about, is the result- not that it is confirming to some self-referential concept of "performance".
+
+Otherwise, it ends up as in an episode that, as customer, saw decades ago.
+
+In 1990, as I was always around Italy for business meetings, and at the time email was not used (even the humble fax was not so widespread), and the office staff in my company used Mac Classic to type letters and documents, purchased out of my pocket a Powerbook 100, which was actually a Mac Classic turned by Sony into a portable computer on behalf of Apple, and eventually even added a fax/modem.
+
+In 1993, to work on a cultural and organizational change role in a customer who had instead PCs, eventually purchased a custom-made portable computer from UK- I do not remember how much memory and hard disk had, but the cost was approximately 6000 EUR.
+
+Well, talking about KPIs from a consumer perspective: the screen had a "blot" on one side, and the supplier asked me... to count the pixels that weren't working.
+
+As they were under 25, I was told that they would do nothing, as it was under the threshold KPI agreed in their ISO9000 certification- and I am not joking.
+
+Of course, I never used that supplier again.
+
+In society, as consumers (private and corporate), we are often on the receiving end of KPIs, also if we do not recognize them as such.
+
+Even more interesting, GDPR notwithstanding, we are measured against KPIs: good customer, service utilization within the range of his segment, etc.
+
+Also, while in organizations, at least in some, members are involved in the definition of KPIs, as consumers we are almost never involved.
+
+We are presented a menu of parameters within a portfolio of possible offers, and we "inherit" the associated KPIs.
+
+Again, we are looking for homologation, not harmonization.
+
+So, the first element is that, in society, KPIs that might concern customers are not negotiated with them.
+
+But as a side-effect of the e-government initiatives proposed since the late 1990s from the OECD, we citizens (again, both corporate and private) are measured against many KPIs.
+
+Media usually focus on what I could call the "citizens' social score" in China that e.g. restricts access to public transportation, but also in Western Europe access to e.g. health services, tax credits, etc is really linked to KPIs.
+
+Some would say that that is not the case of KPIs, as we are just measured against, say, income levels or other parameters.
+
+But, in effect, the mix of measurements to get access to services amounts to having KPIs to conform to in order to obtain access to services, benefits, etc.
+
+And also to access opportunities.
+
+In Italy, for example, for a long time small companies were required to harmonize toward a set of KPIs on costs, income, etc that were agreed with representative organizations.
+
+Which was a way to simplify checking by the authorities- also if this, as in the case of business KPIs discussed above, implied a convergence that was not necessarily conforming with the specific operational reality.
+
+The solution some business found not to "be outside the KPIs" was, of course, to either spend more to stay within parameters, or hide income, or a mix of both.
+
+The point is that, as current laws allow direct access by tax authorities to current accounts at anytime, and intra-EU data exchanges, we could actually, as I wrote years ago (before such access was granted), make life simpler.
+
+And allow more flexibility for evolving businesses.
+
+The point, as with business KPIs, is always the same: consider the purpose of those KPIs.
+
+If the purpose is to both spread tax loads fairly across the corporate and private population, and, at the same time, be able to tune the availability and provision of services to "customers" (as taxpayers are sometimes called), then there are other methods, than static KPIs changed once a year.
+
+<b>KPIs in a data-centric ecosystem</b>
+
+As discussed above, in both business and society, the risk of KPIs is not in KPIs per se, but in their design and use.
+
+The design, as discussed above, includes both the purpose and the means to achieve that purpose, including the identification of an acceptable policy toward harmonization.
+
+The missing elements in KPIs are, often:_ homogeneous data quality_ harmonized collection frequency_ compatible datapoint distribution_ continuous monitoring of relevance.
+
+The last point is really something linked to organizational choices, not to data per se.
+
+As an example: just because you decided to use a specific KPI, maybe after plenty of political negotiations, it does not imply that it retains its differentiation power forever.
+
+Moreover: often, in order to be able to assess the relevant, as the design phase included also Subject Matter Experts (SMEs) provided that specific field of experience and expertise, monitoring and improvement should be bottom up.
+
+Or: those with the operational "know how" are more able to spot signals before they become relevant enough to be visible to everybody else.
+
+In any organization, defining KPIs implies a set of choices, i.e. preferences or political/policy choices between alternatives- but those evolve along with the business context and the internal corporate balance.
+
+In a data-centric society certainly is not data that is missing. 
+
+Those first three issues with KPIs (homogeneous, harmonized, compatible) are still there also within big data, but, if compared with what I saw in the 1980s or even 1990s, both data sources and data quantity (and data storage) give now more latitude to choose.
+
+As for monitoring, we are now often shifting to assuming that we can delegate that to technology.
+
+While, actually, would make sense to have humans on the operational line assisted by technology in carrying out monitoring for relevance.
+
+Actually, again, it is a matter of decision-making.
+
+Solving those four issues requires a mix of choices, not just data sources or tools.
+
+In a data-centric society, data are not generated just top-down: every single "node" within the society is potentially a consumer, generator, and monitor on data.
+
+And aggregations of those nodes (from group of individuals, to communities or sub-communities, e.g. linked by location or by interests) could take over the same roles at a different level, as they "cone of perceptions" is expanded by the contribution of all the aggregated components.
+
+Some companies are still believing that they can create a data-centric ecosystem under their own exclusive control- but actually each "node" (including us, humans) is really part of multiple networks.
+
+But it is true that some mega-networks (such as Facebook, Apple, Amazon) have access to enough information to extract value from, to function as an "attractor" for those outside their network (if you have an iPhone, I guess that you have also other social networks accounts).
+
+Incidentally: I still see around too many interpretations that seems to outline a hierarchy.
+
+Instead, a characteristic of a data-centric society should be that relationships are dynamic, and that anybody can actually be integrated in multiple aggregations.
+
+Also with different roles.
+
+Therefore, KPIs in a data-centric environment where there are multiple actors, require a different organizational attitude.
+
+Which, incidentally, is an issue that matters both in the public sector and any corporate environment.
+
+The key difference is the relative weight of stakeholders.
+
+Aggregating interests was difficult and cumbersome, in pre-Internet times.
+
+In our times, building a pressure group is relatively easier, albeit competing "attention-seekers" could introduce an element of complexity.
+
+Whatever the point, the key element is (no pun intended): KPIs in a data-centric society should consider also the collaborative and potentially marginally structured integration of multiple and dynamic sources.
+
+Traditional KPIs are often considered part of a relatively static landscape: form, format, time, structure, content are akin to "painting by numbers".
+
+Instead, the real value in KPIs in our current environment is in their support to expand our understanding of our own environment, and expansions of its boundaries.
+
+So, as I saw already in the 1980s in DSS models, we should get used to dynamic concept of KPIs, with a faster cycle than those considered normal even in organizations that accept that KPIs are a matter of continuous improvement, not of crystallizing a behavioral model across the organization.
+
+Over a decade ago, in Brussels attended a workshop with RAND on government services- which of course was focusing on e-government [PEGS Pan-European Government Services](https://www.rand.org/content/dam/rand/pubs/technical_reports/2010/RAND_TR673.pdf)
+
+Shared in the past a dataset on [World Bank indicators](https://www.kaggle.com/robertolofaro/selected-indicators-from-world-bank-20002019) and a dataset on [the SDGs status in EU](https://www.kaggle.com/robertolofaro/sdgeu-datamart-sample).
+
+The point should really be to have a systemic view, i.e. considering all the parties involved, their degrees of freedom, and their constraints/weak points/key characteristics.
+
+Sometimes there is a confusion between "management" and "team leadership", i.e. assuming that, in the end, you can manage only what you could do.
+
+If that were true, we would not have multinationals, but only cornershops.
+
+A side-effect of a team leadership attitude while designing KPIs is reconciling everything within reality to the only dimension that you assume to fully understand: a tunnel vision.
+
+The usual choice to avoid the issue is to build an array of vertical expertises that do not talk with each other, but is reassuring- also if then you get a collective justaxposition of those represented.
+
+In reality, what is needed is something else: at least, probably somebody with an expertise in something, but with a mindset that is not forced into a tunnel vision by that expertise.
+
+And, of course, the tunnel vision has another name: homologation.
+
+If your only tool is the humble hammer, everything looks like a nail.
+
+And if it doesn't, you pretend it does.
+
+<b>Our starting point in Italy</b>
+
+In Italy we have had a long history of homologation, e.g. we retain the "guilds" mindset.
+
+So much that, since I started working officially in 1986, routinely read of this or that proposed "albo" whose membership would uniquely qualify to deliver a specific expertise.
+
+The most curious element: in all the proposals, what was presented as "to enhance quality and protect consumers" was really described in those proposals as:_ consolidation of an existing market positionining_ set of rules that would not have allowed the founders to become members_ closing of the market sold as opening/ensuring quality of the market
+
+So, it is no surprise that KPIs, e.g. tax compliance KPIs, in Italy were codesigned with a "run for the middle" approach, as described above.
+
+I was born in a company town, Turin, where the main industry was automotive.
+
+And I think that there is a value in "homologation"- for vehicles.
+
+Anyway, many forget that also with cars is was not always the case: look at the history of cards in the early XX century.
+
+In Italy, we have another issue: we see contracts as a negotiating step, not a closing.
+
+Also, in the last decade, since I returned to work and live here, I saw attitudes that at best I could define superficial.
+
+If you want to evolve something, you have to describe the choice made and the choices discarded- this is my experience that served me well few decades.
+
+Reason? The context evolves, and therefore something that was a sound choice before, might turn into pointless risk-taking.
+
+Instead, locally I saw many times communication made on assumptions, and so ambiguous that anybody could read anything they wanted.
+
+When, in the early 2000s, helped a partner reposition and restructure his customer and services portfolio, the first thing I did was to revise the contracts on any customer he asked me to take care of, and to talk with our staff or partners on each assignment.
+
+The Italian attitude, in Turin as well as in Rome back then (and, probably, also today, but at least then they said it to me directly) was "you are paranoid" or "you are a 'leguleio'" (derogative term for a lawyer).
+
+Then, eventually, discovered that that saved the skin: I do not enjoy Byzanthine contracts, but if that is the need, I am ready for it.
+
+Hence, I saw sometimes contracts with clauses including KPIs that were simply not feasible, e.g. having a 5% cost reduction every year vs. the previous year.
+
+In Italy, we should contextualize KPIs and reinforce monitoring both from the top and from the bottom, to avoid the usual maze of mutual obligations that, in the past, created compliance requirements to do a check on a specific object every ten year, but then there was no capacity in Italy to do that many checks.
+
+Italy is a complex country, as I wrote also within [the latest article on Italy](index.php?page=494).
+
+Hence, in our times, with a compound crisis going on, the temptation is to take care of the fire that we see, while ignoring the potential sources.
+
+As I wrote a while ago, is it a matter of [Political times and political timing](index.php?page=410).
+
+Italy still lacks an industrial policy ([see here](index.php?page=138))
+
+Today I attended a webinar [this 6-pages summary is in English](https://www.confindustria.it/home/centro-studi/prodotti/previsioni/rapporto/rapporto-previsione-economia-italiana-autunno-2022>presenting a 106 pages report</a> on Italy (<a href="https://www.confindustria.it/wcm/connect/9b3007ca-e688-45ae-803c-993f3704808e/Italian_economic_outlook_2022_2023_081022_Confindustria.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-9b3007ca-e688-45ae-803c-993f3704808e-oeT0LYp)).
+
+The point is: designing KPIs for Italy should be harmonized with KPIs for the whole European Union- but homologation would not be a wise choice.
+
+Moreover: in our times, we could both design in a collaborative way, and then monitor or identify potential for improvement in the same way- creating a communication feed-back cycle.
+
+A key element to overcome the usual shortcomings of our initiatives would be to enforce transparency to a degree that the Italian State, as shown during the PNRR presentation, is still ill-equipped for.
+
+But, again, this could be a learning experiment to, at last, have a positive impact of all the data collection initiatives that have been ongoing from the State on business since a long time, but still have failed to deliver that much value to corporate and private citizens, as we all still have to repeatedly give information that local or national authorities already have (at happened to me multiple times since returning in 2012- sometimes, even by extracting information from their systems to pinpoint that what was available).

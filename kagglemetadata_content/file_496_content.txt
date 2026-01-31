@@ -1,0 +1,119 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20221020_article.png)</center>
+
+This article is just due to a curious series of events involving number crunching.
+
+As this series is focused on data, will leave the rationale and "storytelling" to another forthcoming article- and will keep this article short.
+
+Let's just say that, since completing my latest mission in Turin (and probably also the last) in mid-July 2022, I did a fair assessment after a decade in Turin of my "local potential".
+
+Basically, I acknowledged that, while I retain the experience and kept up-to-date the skills that before returning to Italy in 2012 enabled me to work interacting at the Cxx level (from start-ups to pocket multinationals, but sometimes also in larger companies), I can at most expect in Italy to be asked almost as if I were bestowed an honor to do for free what I used to do for 200EUR/h, while officially doing something else (at much less).
+
+Even funnier when, since 2012, more than once, while working on something closer to my activities (albeit officially just a variety of PMO roles), was advised to reroute to something really more technical I had not the skills to be a Subject Matter Expert on.
+
+So, since mid-July I have been working on the same rationale that followed since I started relocating from London to Brussels, in mid-2000s, i.e. refresh, update, cross-check, prune knowledge and experiences, and share online whatever I do not have a business (i.e. paying) market for- if I cannot extract value from my "assets", I rather keep sharing it with anybody who can, instead of transferring to some local "value extractors"/"knowledge scavengers".
+
+Yes, I had contacts in the last decade over potential business uses of blockchain, and last year even about a potential role for a start-up, plus of course since mid-July added to other training followed in the past further training (and will release soon within the ["Organizational Support" section a potential use, as part of a training string that I am following](index.php?section=organizational-support)).
+
+But do we really need to use a blockchain? Transparency sometimes can accept a degree of inconsistency or "amendment", as also that is information useful to track evolutions of companies and associated risks
+
+I know that many would like to have a perfect "traceability", "immutability", and all the associated paraphernalia, those Holy Grail benefits associated with a blockchain.
+
+Frankly, in many cases, while "loading" the data requires a traceability, access to information requires a faster transactional access- decoupling the benefits of blockchains from the benefits of databases.
+
+Therefore, on financial data, also to track changes, probably for periodic reporting it might make sense to have a permissioned blockchain to have a "filter" and solve also "quis custodiet ipsos custodes" (oversight of the overseers), i.e. having e.g. the State collect the information but ensuring its immutability (I saw that this "chain of evidence" is still elusive with bureaucracies in Italy- I wrote about that in the past).
+
+But then access could be delivered by a traditional transactional database.
+
+And, yes, I do not consider worthwhile a "permissioned blockchain" where a market partecipant collects data from citizens that could generate a conflict of interest: again, "quis custodiet ipsos custodes?"
+
+It is the old concept of "pure player"- long ago was applied to publishers, then newspapers became part of multi-business entitities that way too often had overlapping duties: it is not necessarily a real conflict of interest, but, frankly, self-censorship is often more damaging that real censorship, and Chinese Walls turn into paper-thin Japanese Walls: the overall and primary duty can diverge due to balancing of needs and impacts.
+
+In a data-centric society, it is a continuous stream: therefore, probably data-centric operators (also without thinking to Metaverse and other self-contained communities that could generate alienation from reality) should be tested toward a higher standard, as their potential impacts, in terms of market-making, fairly exceeds what any traditional media ever did.
+
+Hence, blockchain or not, added transparency should be a basic building brick to support any data-centric economy development, and access should have a priority.
+
+To stay on the "knowledge-based" side of this section (what [Citizen Audit stands for](index.php?section=citizen-audit)), decided therefore to focus on few elements that I still see worthwhile: cultural/organizational change and development, business number crunching, and bridging the two.
+
+As my moniker goes on Linkedin: "change, with and without technology".
+
+Therefore, continuing on what I had the opportunity to do during the few COVID lockdowns from March 2020 (updating on my 1980s AI and 1980s-1990s-2000s data activities), expanding on machine learning, but blending the "change" with the "technology".
+
+Or: my first project management and PMO activities in business were really in 1987, for the release of a large banking general ledger, also if (as usual) officially I was anything but a PMO or project manager.
+
+In 1987 was a COBOL batch and CICS project with a large array of distributed data production and consumption points (i.e. the bank branches, including just one opened on Saturdays and that therefore messed up with our grandiose scheme- at the Turin fish market, if my memory does not fail me), plus of course various degrees of central consolidations, reassembling, restructuring, and even shuttling derived data back-and-forth between branches (virtually, as it was mainly still mainframe-based).
+
+The point was: as my previous (first official business project) in automotive procurement, it showed how technology and business meaning and the blend of both with data required having access to all those elements, if you wanted to have the "whole picture".
+
+We live in digital times, supposedly a data-centric society, and my latest experience in 2018 on opening and closing a company showed still some shortcomings on the way digital transformation and corporate/business data collection, transmission, processing, retention are done in Italy.
+
+E-government since the late 1990s OECD initiative was supposed to be about:_ transparency, to enable visibility of "what's going on" to all stakeholders_ a degree of disintermediation/democratization of access.
+
+In Italy, digital transformation resulted in countless data collection and data access (from the State) initiatives, but often apparently losing those two basic tenets of e-government.
+
+As befits the "Citizen Audit" series, I will spare you a discussion on "philosophy", and will focus on practical examples.
+
+Whenever I lived abroad, I embraced since the late 1990s any initiative to do something electronically.
+
+From being an early adopter of a "minipay" (as I wrote in the past) that was a kind of "digital wallet" available decades ago in Turin, to filing tax and other returns in UK online as soon as available, to being, in the mid-1990s, the first customer who tried to use the home banking from my bank on a laptop (was still MS-DOS, imagine), and designing and sharing with the bank a process to cover also for wire-transfers abroad, to then filing online while living in Belgium and, as I was given the opportunity, registering locally to vote in local elections by using electronic voting machines.
+
+Also with my customers, e.g. in German Switzerland, experimented in the late 1990s and early 2000s with SecureIDs, various forms of "digital wallets" to pay vending machines, and various encryption and secure transmission schemes, plus routinely accessed Companies House in UK electronically (both when you had to pay to access information, and when instead you could get some information for free).
+
+Jump forward to 2018, when I registered in Italy my company, and I saw that still was neither free nor so easy to work "electronically", or to access digital records of potential business partners to see at least basic information (e.g. a financial reports)- even reading that accessing those information implied that you accepted not to store, use, share the information.
+
+Which, frankly, could be understandable if the purpose were just to avoid a "copycat database", but not if you want to derive something that is not there, or build a picture of a specific subset to guide your organization (or steer away from doubtful partners).
+
+Data collection? With gusto, including a blanket authorization to access banking information.
+
+Data transparency? Still work in progress (if you deliver "skeleton" accounts, no real business-confidential information is visible to readers, except notice of your potential use of practices bordering on the "creative accounting" side, such as a the old habit of "upfront loading", either by having your customers financing you, or dumping warehousing costs on your distribution network).
+
+As an example, to update my skills, this summer followed also training in the USA using what each company on the stock market has to provide (10K) to compare companies, e.g. using Yahoo or Google finance pages that processs that information, and derive KPIs to compare/build a portfolio.
+
+In order to prepare some material on the impacts of COVID-19, I went online first checking for local companies (as not too long ago local newspapers published lists of "top X" companies), but could not find open data on that- I should first find the list of companies (I have still somewhere in my boxes those lists), and then visit company-by-company each website- provided that they consider sharing the information on their website.
+
+So, I did something else: went to look for the website of the Borsa Italiana, looking for something similar to the [EDGAR](https://www.sec.gov/edgar/search-and-access) system from the SEC.
+
+Now, follow my thread to obtain the same level of information for companies listed on the Italian stock market.
+
+You can access the [Listino Ufficiale of "Borsa Italiana" here](https://www.borsaitaliana.it/borsa/listino-ufficiale), but to access summary information on each company the easiest way is to go to the [alphabetical listing](https://www.borsaitaliana.it/borsa/azioni/listino-a-z.html?initial=A&lang=it).
+
+Then, click on the link of each company name to access (if available) to a page containing information on each society.
+
+To have a summary, if available, click on the "Profilo societ&agrave;" link, were you can see a summary and, again if available, also an Acrobat "cue card" on the company.
+
+Balance sheet etc? Well... try clicking on the website (if provided), and then look (if available) on the "investors" information page, and then search around (as few provide a clear list of documents).
+
+In some cases, even if present, the website link returns a "404" (just google around to find it) and, in other cases, what you get is more a kind of summary bordering on the advertisement- but to find the financial reports you need to google around.
+
+So, what started as something that I assumed would required just few hours, took few days- and I restricted my "field of search" to those companies that had, on the Borsa Italiana website, a "Profilo societ&agrave;" and associated acrobat, then googling only if the website was either missing or returned a 404, or the "landing page" was a business or e-commerce website, but you had to search elsewhere to access financial reports.
+
+Even when present, the "Profilo Societ&agrave;" sometimes is incomplete- but from a note at the bottom of the page, it seems that actually updating the page is up to the company, not to the market "Per supporto nell'aggiornamento del company profile: companyprofile@borsaitaliana.it".
+
+My original idea was just to have a look at some key financial information looking at the accounts covering 2021 vs 2020, but even if I had to spend a couple of long days to find and retrieve information (selecting, as I wrote above, only those companies with a "Profilo Societ&agrave;" page), it was interesting to see how different is the approach to transparency even between companies within the same industry.
+
+Therefore, while my original purpose still stand, and will result in further articles, I will add a thread on KPIs and level of information by industry.
+
+The overall feed-back on the way the information is made accessible to potential investors by companies listed on the Italian stock exchange is, frankly, still a mirror image of the Italian approach to stockholders, i.e. somebody that intermediaries dump stock on, as I saw since the late 1980s when I heard complaints from colleagues and personal connections who got "burned".
+
+Reminds me what I was told decades ago in Emilia Romagna from a bank director, i.e. that there was an active market in companies, but it was mainly through connections, and generally via banking managers, accountants, and the like, invisible to those from outside the network.
+
+As I was told back then by others, even those who came with money in Italy (as some multinationals did) to enter the market, just wasted money by buying the wrong company at the wrong time with the wrong assets and people, and then either absorbing the loss and staying in the market but with a different posture, or even selling assets at a discount and moving.
+
+In the 1980s and 1990s, while still living in Italy, heard often the concept of [Parco buoi](https://www.ilsole24ore.com/art/lo-zoo-finanzaparco-buoi-AEoUd6JH), assimilating the Italian stock market to a slaughterhouse where citizens-investors entered at the wrong time, for the wrong reasons, and usually following the wrong/interested advice to offload shares stuck on somebody else's books.
+
+As nowaydays everything is electronic, and any transaction with potential impacts on assets is traced, does it still make sense to have just annual reports that are still open to "creative accounting" and shuffling across jurisdictions?
+
+Anyway, also if it were just on an annual basis, information about companies should be disclosed as a "cost of staying in business", i.e. enforcing transparency, enabling not just investors, but also potential business partners, customers, suppliers to disintermediate access to information about risks while risks are evolving, not "frozen" at a certain moment in time.
+
+Already in the late 1990s, while helping a partner to negotiate with a potential customer in Italy for the integration with the Italian Centrale dei Rischi, a point identified as of potential interest was to allow monitoring some information that could actually have a different level of granularity as, e.g. the operational risks of a company building houses in an area with high housing demand would have a different mix from a similar company, with a similar balance sheet and exposure to the banking system than a company operating in an area of declining population and housing oversuppply.
+
+But monitoring those risks would be easier for those with specific, operational industry expertise- consider it a kind of "TripAdvisor" from suppliers and customers, not just investors- a "supply chain-based risk assessment".
+
+The data being collected since few years ago are there, what is missing is a balance between confidentiality and systemic needs.
+
+Short-term, it would be nice to have across the EU a level of shared access to basic information about any company, listed or not, obviously with more constraints for those listed, again to reduce systemic risk.
+
+Or, for somebody like me, a kind of possibility of googling as in [WolframAlpha](https://www.wolframalpha.com/), i.e. asking contextual questions based on knowledge (say "for all the companies on the Italian stock exchange, what was the information FY 2020 vs FY 2021 re this list of financial reporting items: LIST HERE").
+
+For the time being, will keep doing it manually.
+
+But look forward to the day when also small companies, before assessing a contract with a potential customer or supplier, could do something smoother than what has been done for centuries, before we had computers (the "terms of payment"), or even I did as a management consultant in Europe in the late 1990s to late 2000s (i.e. asking customers to pay 25% or 50% upfront and link every activity to a payment schedule, a kind of "catch and release" approach to avoid delivering services for free or financing the customer, while limiting the "financing the supplier side", and tuning ensuing activities to the evolution of the risk profile).

@@ -1,0 +1,163 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20220927_article.png)</center>
+
+Today first I was on the hands-on section of a quantum computing course (but I had already toyed with the IBM Qiskit months ago for another course), just to see some concepts in practice, and then the morning will be on an Italian AI experience sharing conference (via web), while the afternoon will be on both blockchain in finance and the evolution of (mainly EU) energy policy- before an evening chatting with other English speakers in Turin.
+
+Hence, this morning at least is the right time to share some ideas about the above, but moving away from automotive, banking, retail, and coming back/updating some concepts that I actually shared years ago.
+
+Few sections:_ a start and a disclosure_ Italian digital transformation and the missing link_ tribal digital transformation and missed opportunities_ the impacts of a tribal spoils system_ avoiding digital transformation overkilling and waste_ implementing digital transformation and resilience in a tribal society
+
+<b>A start and a disclosure</b>
+
+It started on the open web in 2003-2005 with my e-zine on change (you can find its history and reprint [here](https://robertolofaro.com/bfm2013)), and then first in my articles for the [fictional UHF](https://robertolofaro.com/index.php?page=324) under a nickname (aleph123) on stage6.divx.com, before becoming visible online with my name in 2008, after starting to try to settle in Brussels (where I had relocated to in 2005, after halting my return to Italy from UK).
+
+Returning to Italy in 2012, as I wrote in previous article, also if initially had hoped to stay just for few months or at most a couple of years, my first point of order, as I did not really care about integrating socially in the territory, was... to study it as if it were a market.
+
+Born in Turin, I was anyway almost always living elsewhere from 1985, and living outside Italy from the 1990s (also while living and working in Parma, actually had more customers and prospects abroad, notably in UK, then added also France and German Switzerland).
+
+Hence, I had a chance to compare the bureaucracies of few countries (including Belgium, where I was first applying to be registered in 2005- it took a while, despite having settled there and having still activities elsewhere that ensured that I would not be "a burden to the State", as some hinted at, to have an official approval).
+
+This article is about storytelling how I see that those technologies listed above and some other elements could actually help in moving forward a better relationship between (private and corporate) citizens and the State.
+
+Disclosure: I am not one of those Italians who claim something akin to a Leviathan (everybody as a section of a "shared body", obviously driven by an elitist brain), and then instead acts as what a late journalist, Scalfari, said of Italians "fundamentally with an inclination toward individualist anarchy" (in Italian "fondamentalmente anarcoidi"- yes, Italian too can be quite brief).
+
+And I think that the "tribal attitude" of the Italian population (first tribe, then family, then community, then, much farther down the road, State) requires detaching tribes from the State, to allow a rebalancing of the relationship between State and citizens.
+
+<b>Italian digital transformation and the missing link</b>
+
+The concept of "servant to the State" apparently in Italy works only at the top level, from what the media say- as at any other level it is still quite tribal: wade long enough in Italy, and eventually you will hear Italians, to solve some issues with bureaucracy "who do we know there?".
+
+It is an archaic concept of the State, and my observation of the digital transformation implementation in Italy is completely different from what I experienced anywhere else from 2000, when first countries in Europe started following the e-government advice of OECD from the late 1990s.
+
+Elsewhere, the point is: disintermediation, e.g. reducing the "degrees of separation" between citizens and State.
+
+As an example: yes, in UK I had an accountant, but for many tasks I could have direct access to online forms and online interactions with the various elements of the State.
+
+When I first had a VAT registration in Italy in 1990, and then 1993-1998, it was all paper-based.
+
+Anyway, as I wrote above I was a one-man band (working as cathalyst for other bands- call it "human capital leverage").
+
+In the 1990s, having just one customer was not really allowed, so I had other customers- but all abroad.
+
+Hence, I was told that following my accounting would be akin to follow a small multinational company.
+
+Therefore, ended up simply registering to a publication that sold an annual book plus weekly or fortnightly updates via post (!), and spent almost half a day a week (during the week-end) to update and check.
+
+Because updates to tax law and regulations were with that frequency.
+
+So much that, eventually, I was asked to share pointers about what would be applicable.
+
+When I moved taxwise to UK in late 1990s, those VAT experiences in Italy were useful, but immediately saw that in UK you could have layers of complexity, i.e. it was simpler for simpler companies, not as in Italy.
+
+Working first in IT in Italy in the second half of the 1980s, but coming from different fields (politics and sales to consumers) while in high school, obviously noticed how often "business analysis" and "functional analysis" were done not forward-looking, but as a way to convert into software what was the "we do it this way here".
+
+<b>Tribal digital transformation and missed opportunities</b>
+
+I know that I keep repeating this concept (and if you search for either ["tribe"](search.php?tag=tribe) or ["tribal"](search.php?tag=tribal) you will find dozens of articles on this website).
+
+But I will keep writing about it until Hell freezes over, or when we will start decoupling what is "commons" (shared interest long-term) from what is, in the end, a legitimate but short-sighted "tribal" approach to society.
+
+I have a practical side: and I think that the two options are at best 50/50... but I am an optimist.
+
+Monnet-style, in Italy we change only when we have a major crisis that allows us to take a leave of absence from mutual tribal obligations that maybe go back decades or even centuries.
+
+It is common in Italy to hear jokes or prejudices whose roots go back to the XIX century or even before, sometimes even those uttering them ignore the historical background of what they are uttering.
+
+As I saw since the 1980s in IT in Italy, also the State and local authorities frankly, from my tracked experience since 2012, notably from 2018 when I had to open a digital registered email (PEC) to open a company, keep doing what I saw in the 1980s within the private sector.
+
+Actually, the Italian way to digital transformation often created further barriers to entry.
+
+As an example: it was cumbersome in the 1990s, but feasible to manage directly your accounts, while in 2018 there were so many "digital" requirements using specific channels that, even for a simpler business (I had just costs and closed within the year), it was not feasible to self-manage.
+
+Moreover, while many years before I had shared in articles approaches to streamline some interactions between small businesses and the State (in part seen abroad but adapted to the Italian context, in part just tailored to what I observed in Italy), eventually I saw just one element introduced within the Italian framework.
+
+My concept is: if we go toward electronic payments, what is left over is cash-based, but eventually in large part will get through banking accounts.
+
+So, I did expect eventually to see the State having automated access to banking accounts, and, in return, removing the need to keep accounts and accountants.
+
+Instead, we did get the worst of both worlds: more one-sided transparency (as often public offices were the first asking not to use the digital registered email, as would be traceable and immutable), and more digital "gatekeepers" (and "gates" to eventually have access).
+
+So, instead of streamlining, both at the national and local level saw that digital transformation in Italy resulted in curious practices, e.g. for others seeing that the online system of a public entity allowed employees of the entity to enter messages as if they had been entered by the citizen, and then alter and remove, with not even a checksum.
+
+Or: you call to ask your question, they choose which question they would have liked to hear, and then answer what they selected as a question.
+
+And in some cases even asking themselves questions that then answered.
+
+Not really the expected increase in transparency and due process that digital transformation could deliver.
+
+<b>The impacts of a tribal spoils system</b>
+
+As I wrote in previous articles, there is another side-effect to a society where also the national and local bureaucracies are "tribalized", due also to the side-effects of the Italian approach to "spoils system".
+
+It is worth repeating: in other countries, it is normal that all the "guidelines/governance" management is replaced after each election- that is the "political level".
+
+In Italy, since well before I was born in 1965, it was common instead to see national and local authorities, or companies with a national/local authorities ownership/significant stake, or private companies with significant regulatory/beneficial impact from the State to turn an election into a parallel employment channel.
+
+Or: after the election, whenever an organizational opening happened, way too often the "tribal" approach prevailed.
+
+I remember a scandal long ago when a politician publicly stated that there had been an attempt at partinioning new organizational openings between political parties (I collect news articles, if interested).
+
+Eventually, some retorted that in reality he complained because he had asked more "seats at the table", and his request had been denied.
+
+This is the system that we will need to overcome if we want to use digital transformation as a "glue" to move past our tribal socio-economic structure, but without losing the opportunities offered by our tribal society.
+
+Let me explain.
+
+Being tribal, implies that each tribe, except when convenient an alliance, tries to replicate within itself whatever could have future potential, also if that implies delaying delivery, and also if that implies duplicating efforts.
+
+It is a structural weakness: look at how many e.g. incubators and accelerators we have in Italy, and look at how many "unicorns" (start-ups worth more than 1bln USD) we have.
+
+As was told in Turin from representatives of Ministries of other European Union Member States over a decade ago, if an incubator or accelerator does not generate more employment than what could be organically expected, then those structures are just generating their own reason to exist, not value added.
+
+<b>Avoiding digital transformation overkilling and waste</b>
+
+In a data-centric future (for Italy- for other, past / current / future), the Leviathan attitude of the Italian bureaucracies is good at forecasting the past and trying to replicate it, not to benefit from potential innovations, moreover if produced from other tribes.
+
+It is well represented in Italian laws: we over-regulated details of what we know, and try to fix the future so that it looks like the present that we know: "cocooning the future" so that we can control it.
+
+Unfortunately, digital transformation implies transformation, not "bitwashing", i.e. adding digital inflexibility to what so far worked only because, in the end, "tribal relationships" enables to introduce ad hoc workarounds.
+
+Incidentally: in Italy, when people talk of "corruption", or even "micro-corruption", they talk about money, quid pro quo.
+
+Personally, I stick to the "quid": whatever exchange, also non-monetary, also if just to get "social points" within the tribe for future recognition, is a form of corruption and distortion of the market opportunities.
+
+In Italy, we probably need to get back to "nudge" and "market design", but knowing the specifics of our tribal "neuroeconomics", before we end up having the usual technological bandwagon also with AI, blockchain, and, why not, the Italian national cloud.
+
+We need to start from our existing culture, not just trying to "clone" Silicon Valley in Italy.
+
+It is true that our tribal economy is anything but lean, and is ill-suited to scale up (e.g. to generate unicorns) because we keep looking at tribal boundaries while making choices.
+
+But it is part of the reason why Italy had centuries of structural resilience and survival despite having no central State.
+
+<b>Implementing digital transformation and resilience in a tribal society</b>
+
+It is a paradox: more centralized societies will risk becoming too much structured around a specific technology- optimized, yes; but less able to cope with change.
+
+Italy's digital transformation should instead leverage on the best of both worlds.
+
+I think that the State should focus on infrastructure as a "shared common", but let the application side to the "tribes"- including both local authorities who have the skills (e.g. towns over 800k inhabitants, as I saw in the early 2000s when designing a service to liaise Brussels info and local authorities) and the private sector, or even private-public initiatives at the local level.
+
+Having an industrial base that is built around small companies gives to large players (e.g. Leonardo) the duty to help the ecosystem grow, and understand what implies being part of larger supply chains, complementing their processes.
+
+But not turning them into subsidiaries following a rulebook designed for a ministry or a multinational behemoth (again the Leviathan approach that here and there heard).
+
+The new government probably will introduce an element of streamlining within legislation.
+
+I think that the opportunity could be to add a layer of transparency on bureaucracy by using a distributed blockchain using a national infrastructure, but not under the control of any authority (we keep spawning authorities that, frankly, often remind the comment about incubators I shared above: they justify their own continuity).
+
+On the other side, considering the level of infiltration in our economy of money laundering from organized crime, it makes sense to ask also citizens an additional layer of transparency (e.g. I know that account information from other European Union countries is shared with Italian authorities if you report that you are resident in Italy- I would extend that from "existing account" to "transactions on the account").
+
+To avoid the current habit of "sharing tribally" data (e.g. the scandal in the past on phone intercepts sold as if it were a mini-market), monitoring those data flows could be something where AI could be useful, to remove people from the process, add a level of explainability that currently often lacks the Italian State and local bureaucracy, and remove "data leaks".
+
+This would also allow to reroute national and local bureaucracies members (with an injection in training budgets and a continuous learning approach, not just "certification to get career points") toward activities where technology could augment bureaucrats' capabilities.
+
+While in Rome, I was involved indirectly in some tenders that attempted to introduce digital transformation in various areas of the State.
+
+But, frankly, often too just a quick review of the documentation to say "I am not interested": the approach was really Leviathan-style, and to create a kind of barrier to entry, while minimizing the level of transparency.
+
+I think that streamlining regulations and laws in Italy is feasible- but requires taking the opportunities offered also by the current funding from the European Union and the PNRR to generate something that would generate value for future generations, and create further opportunities.
+
+Hence, the idea of State infrastructure as a common, but private applications, and transparency to allow externalizing auditing and enable an expansion of involvement within policy-making of those who in the future will be able to develop new capabilities with minimal investment thanks to access to those shared resources.
+
+It is just a first step- but personally will keep adding more items to both [Organizational support](index.php?section=organizational-support) and [Citizen audit](index.php?section=citizen-audit), as well as more [curated data](index.php?page=440) (as part of [Data democracy](index.php?section=data-democracy)), as my bipartisan contribution.
+
+Stay tuned.

@@ -1,0 +1,379 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20221116_article.png)</center>
+
+Today at last Artemis I started its flight to the Moon, with an interesting [passenger](https://www.nasa.gov/feature/snoopy-to-fly-on-nasas-artemis-i-moon-mission).
+
+Note: the oldest member of the ["red crew"](https://www.wsj.com/livecoverage/nasa-artemis-launch-moon-updates/card/-red-team-heads-to-launch-pad-after-leak-emerges-oygONcrZc7jyJMRO0hkS) team that intervened to fix a valve hydrogen leak...
+
+...has been training for decades just in case, but never called up until today.
+
+And all that training was what allowed to intervene: call it [cathedral-builders skills](search.php?tag=cathedral): in a complex system, as the commentator remembered, nobody can have depth of knowledge of everything, but everybody within the "system" has to be trained and ready (which implies drilling) to deliver when needed.
+
+The point of this article is obviously data.
+
+The "motto" (actually, my "brand positioning") on [my Linkedin profile](https://linkedin.com/in/robertolofaro) is "change, with and without technology".
+
+In business, since the 1980s I met many who referred to data as an absolute, an "objective truth".
+
+Data have multiple dimensions, but, at least in human affairs, a key element is the context.
+
+The context? Always a social construct, that defines what is acceptable or not.
+
+And, of course, also what is relevant or not.
+
+The critical point to remember, if you really want to extract value from a data-centric society: nobody has or can have unique control on all the data and all the definitions of data.
+
+The democratization of electronics, which stretches from sensors to whole systems (yes, including your own smartphone), implies that those creating, processing, consuming data could have a social structure that is not as "vertical" or "structured" as we were used to.
+
+It is all part of what I described in a previous mini-book as [you are the device](index.php?page=465), and discussing privacy at the Edge.
+
+And after this preamble, the article, which this time will contain few personal digressions to share examples of how a result that sounds simple instead requires work- and will end with a discussion on dataset preparation activities for sharing on Kaggle.
+
+Few sections:_defining the context: not as easy as it seems_context and business data discovery/use_painting (data) by numbers_being there: it takes a pipeline_what's coming next: converging data
+
+<b>Defining the context: not as easy as it seems</b>
+
+Let's start with a funny example from my training time in the Army, in a Northern Italy seaside location called Diano Castello.
+
+We were supposed to spend there a month, to be then shuttled to our destination, where we would spend the next 11 months.
+
+In my case, those 11 month were to be mainly in barracks stuck in the middle of rice pads, in Vercelli: mosquitoes disliked me before then, but after extensive "training" by mosquitoes in Vercelli, whenever there is even a single mosquito around, I feel like a "mosquito restaurant" whenever there is one around- there must be a tripadvisor for them, too.
+
+Italy at the time had a conscription army- on a 12-months rotation, while of course NCOs and officers were instead professionals, along with few soldiers.
+
+Usually, around the end of the training it was scheduled a formal ceremony where the new batch of recruits would declare their loyalty to God State and army ("giuramento")- frankly, I do not remember in which order.
+
+Generally, it was almost a bureaucratic affair, but, instead, in our case, the barracks' commander decided to do what NCOs and officers called "giuramento solenne", which included a longer ceremony at the end of something more traditional in the past, including marches- I will spare the remarks from some NCOs and officers on why this more cumbersome setup was chosen.
+
+What matters: we were supposed to march in formation from point A to point B, passing through the canteen, make few twists and turns, to then arrive in front of the central stage where we, and others, would stop.
+
+Once every formation had arrived, then the final step would be done.
+
+It sounds easy- but consider that we had just learned how to dress and how to hold (not to use) our weapons.
+
+I had said my parents that I would find a way to get myself on duty for something, so that I could avoid the ordeal- I had already done two days in a row a kitchen service (it is where I learned to optimize my dish washing and potato peeling processes) as the first one went well, so nothing could be worse.
+
+But there was a catch: I had a full beard, despite regulations requiring to leave some place to potentially fix a gas mask on.
+
+I had convinced a doctor that a skin disease I had implied that i could not shave- actually, it was the other way around- hence, except occasionally in high school and in the Army, I never let my beard grow.
+
+So, we had some marching tests, and after doing some other services... my plan to hide in plain sight did not work as expected.
+
+As I was actually selected to be the "pivot" in part due to my beard, to stay in the front line of my formation, basically giving the beat to turn, keep the distance, so that the other lines behind would do the same.
+
+The first few times we tried it did not work: we ended up as a kind of Gordian knot with (unloaded) weapons.
+
+Gradually, we improved, and at last we were able to start, turn, go straight, turn again, etc and the arrive at the stage and stop, following the "tune" that in artillery we were supposed to follow to march (each different corp had a different march- funny that we were dressed for artillery, but trained by a bersagliere, i.e. taught to march running and stopping while running- what usually they did with a much lighter equipment).
+
+Training and drilling paid: in few days, our extended marching team was "tuned", and we were able to deliver a decent performance. 
+
+On the "big day", after we stopped there were some glitches (my waving gun was one of the glitches- I couldn't "fix" it steady on my trousers belt as those behind me did by extending the sight), but the march part was fine.
+
+Overall, it was an interesting way to see how a large team of people who never met before can converge on a process in a quick sequence, and what it takes.
+
+Something that was useful in the future, as in most of my projects, also as project manager, almost never had the same team twice in a row, so "blending" and "converging" were critical not just for ordinary activities, but to be able to act as a team whenever there was a critical issue.
+
+This starting digression to say that even something as simple as having few dozens 20-something walking in formation in straight line and turning while keeping the same speed and same distance from each other took a while.
+
+So, all the elements of our "marching team" had to get "in tune", as an orchestra.
+
+Business data that I had to use in projects? Were actually behaving as we untrained recruits behaved.
+
+<b>Context and business data discovery/use</b>-
+
+A similar pattern happened in business in each mission I had to work since 1986, in any country, industry, technology, etc.
+
+My first business project was in automotive procurement, and required integrating pre-existing data from various sources for a purpose they were not designed for.
+
+Actually, the aim was to build a scoring system that would reduce/replace .
+
+The point was not to adapt the data, but adapt to the data, create an alignment and balancing, so that a score could be delivered- a score to propose to human decision-makers which suppliers' invoices could be paid, based upon a neutral scoring system (something that is always an issue, in a tribal economy as Italy is now as it was then).
+
+I went up to the system testing, then had to shuttle to another project (but, in those time, actually all the test datasets needed for the various unit, integration, system, user acceptance testing had already been in place- so, then, after the final testing, it would be a matter of business policy to move the system into production, i.e. make it operational, or not).
+
+Incidentally: yes, the system was in COBOL (and I was the developer of the "core engine"), but actually applied concepts that I had learned for my pre-business interests in PASCAL and PROLOG- hence, the structure and documentation of the program was a bit unusual, for a 10,000+ lines program.
+
+Then, the next mission was on the release of the general ledger for a major Italian bank- again, a case of "connecting the dots".
+
+But, at least, this time the point was something that I saw often thereafter: the basic building bricks were there (i.e. data designed for a specific process), we were just to replace the existing interfaces with new interfaces, to have continuity on "core" processes, but hopefully providing some value added.
+
+And the "ensemble" of the processes and their deliverables (i.e. data and associated constraints) were already in place- the key change was actually that the new system had to introduce (it was 1987-1988) Y2K management (i.e. support four-digit years) and expand the number of branches that could be supported by a significant number.
+
+A short quip: anyway, since when, in the late 1990s, most systems that previously had been on mainframes (e.g. IBM3090) moved to other platforms, it became increasingly common to see choices challenging that "value added" mantra.
+
+Or: changing the user interface from old B&W (actually, Black&Green) screens to Microsoft Windows with menus etc, and then to web-based applications, often did not result in a real improvement in the value delivered to customers- just a prettier face for the same centuries old process, scattered across multiple windows.
+
+And I still see often "technological upgrades" that are just associated to something that became common in the XXI century: planned obsolescence, i.e. the software vendor telling customers until when they will support their database or operating system, with each new "improvement" requiring de facto a compulsory hardware investment (cloud included), but not necessarily linked to value added for the customer.
+
+In many data-based missions I was not necessarily the "pivot" being singled out to stay on the front line, but anyway the more you do it, e.g. sometimes being in half a dozen mission teams in a week (on Decision Support Systems, business development for business intelligence, or "just" management reporting), the more "tuning up fast" and helping others to do likewise as much as possible becomes a second nature.
+
+In 1992, was working part-time in my spare time and recovered overtime as a management consultant on business number crunching (basically, financial controlling), as a second job but with the authorization of the CEO of the company where I was working as Head of Training and Methodologies (a product and busines development role).
+
+Eventually, after supporting the CFO/COO of my customer for a while, I was offered a job as financial controller.
+
+The last interview, with the CEO/General Manager was interesting: the key element was being presented two management reports, and being asked "what do you think?"
+
+I will skip the details, but before looking at the numbers, I looked at the structure, and considered the context they were produced in (there are various elements to consider when you are looking at a budget- e.g. industry, market characteristics, product/service cycles including seasonality, costs structure, etc) and could used for, and if there were potential differences in "scope", "constraints", "degrees of freedom" definition.
+
+Then, gave my answer- which had two layers: a first one, on the structural side; a second one, confirmed by numbers, of how those involved would cope with the structural differences while reporting data with a level of detail different from the one they budgeted for.
+
+Now, it seemed improvisation, as those answers came out immediately (it really is a matter of few seconds to assess, and few more to compare and then formulate and utter a preliminary concept), but it was not.
+
+As I [shared few days ago on Facebook](https://www.facebook.com/robertolofaro/posts/pfbid0HNdHRNgPpHomvds1KhSVvSMvia7UQXPmThDwpRQtMYJj6yj1ie6W7eesMSbA5Wcal), it is still the old "99% perspiration, 1% inspiration".
+
+If you did not do the first, what you are going to do to get to the latter?
+
+What is perspiration? Contextualization.
+
+<b>Painting (data) by numbers</b>
+
+Many replace contextualization with a "painting by numbers" approach- but doubtful that that would turn them into a business data Picasso.
+
+You can take shortcuts, try to recycle "as is" a solution from another context, but then you would need buffers to absorb any potential need to amend, retrench, reconsider, etc.
+
+The key element, at least in my case, was that my expertise was a "bridging" expertise, i.e. the providers of the specific expertise related to the specific context were others.
+
+As I shared few days ago on Linkedin:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20221116_fb.jpg)</center>
+
+The point is really simple: a data-centric ecosystem implies that you have to get used to integrate not just those (and what) you know, to generate value, but also those that could make sense to integrate, but defining how far and how deep to integrate.
+
+My first PMO activities were in the late 1980s, ditto first (de facto, as it was not my title) first project scoping and project management- hence, when I left my first employer in January 1990, after six months as free lance management consultant on cultural and organizational change, was hired as senior project manager, then after a month in Paris shifted to a different role (head of a business unit, to develop the training and methodologies and associated change services), and after few months more promoted again.
+
+The funny part? On my CV, you will see that the official title was Head of Training and Methodologies, but my CEO at the time said simply that they had decided for a title wide enough as describing the role would have been too complex.
+
+So, my activities were wide-ranging: initially, I received some of the missions defined in terms of budget roughly as five to ten working days- whatever was the content.
+
+Imagine having something already sold to the customer under a certain mission title, but with content that would require a completely different budget or mix of activities than what was agreed.
+
+Luckily, I was able to blend what I had done in my previous activities, political activities before started officially working, what I had learned in further "office/service organization" and training delivery activities in the Army, plus unusual bits of my past attempts.
+
+A funny case was when I was told that a one-two week had been sold to a customer to... redesign the "who does what" organizational manual, plus an IT systems relocation plan, working with the CIO and one of his reports.
+
+For a large company.
+
+Well, the second part was planning: so, it was matter of "unbundling" with method, i.e. developing a structure and sequence considering constraints- having worked in political events, military, and business logistics (the latter also for financial models), helped a lot.
+
+For the second part... recycled my PROLOG and prior compiler design / language analysis / BNF interest.
+
+If you know PROLOG or [BNF](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form), or you were into computer language compiler design or natural languages analysis, you get used to "dismantle" any concept into its components, and to build up new syntaxes able to "produce" the set of all acceptable "phrases".
+
+When I was a kid, in school we were still taught "analisi logica", i.e. differentiating in a phrase between subject verb complement- PROLOG and BNF were basically the same on steroids.
+
+Plus, in elementary school, as an experiment, my class was selected to study the basics of set theory.
+
+And, for decision support systems, studied decision tables (basically, decision trees) and other concepts useful in planning (and sometimes also in organizational design: yes, multivariate linear regression can be useful there too, notably when you have to "weight" activities and distribute around).
+
+If you bundle that all together with prior experiences I described, it implies that I had had few decades overall of thinking and exercises on set definition, integrating and exchanging between different contexts, and seeing how the overall whole was coherent or not.
+
+Hence, my five days preliminary work for the customer organizational manual redesign started simply with that: convert "who does what" into a collection of (re)structured elements, and then looking at each set and its boundaries, to identify and document gaps, and identify the complement on assigned roles and activities.
+
+You are probably used to those tables called [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix). 
+
+Just extend a bit with the other elements that I listed above, and you can understand why it was feasible that first restructuring was delivered in few days, and then the customer asked for more information (to actually do the project without consultants, as I warned in my company- having been on the "project sales" side, I can see the tell-tale signs of a knowledge gap unmatched by budget availability to cover that gap).
+
+Now as in the late 1980s (when I first developed a variant of a methodology to support and structure my decision support systems models development activities for my employer, basically expanding on iterative development and product-based sales and support), or in the 1990s (when I was actually localizing MERISE and Yourdon for the Italian market, and developing new custom methodologies and then liaising with SEI-CMM and ISO9000 frameworks), I think that methodologies and certifications should deliver a forma mentis, not a catalogue of "solutions".
+
+While in 2019, after closing a company that I had tried to open in 2018 in Italy to assess the market for potentially delivering my old services, learned and used a bit of R to be able to visualize and process quantitative information in a more structured way, in 2020 due to the COVID lockdowns had time to dig more into modern Machine Learning, Deep Learning, and of course Python and all its ecosystem.
+
+It was interesting, and as you can see on [my Kaggle profile](https://kaggle.com/robertolofaro) focused on assembling and integrating open data, and releasing new datasets.
+
+The reason? Followed many courses on Python and Machine Learning, but, except CRISP-DM and few more, most of the training was what I saw already in the 1990s and 2000s with people with no or limited experience but a collection of certifications acquired at a steep price after spending few days in a classroom.
+
+Including some that I had followed personally in few countries for product or competitive analysis within the business intelligence and related domain.
+
+Aim: in that moment at that time, to become a kind of "top 20%" in terms of knowledge on that specific tool, so that could interact with those within higher level of expertise- and filter out all those who "padded" their CV.
+
+Then, moved on- if e.g. you were to ask me to do something in Brio or Microstrategy or Essbase or Cognos (to name a few) now, I would be highly inefficient: but you have already vertical experts working on just one of those tools day after day.
+
+If I really had to, would take a little bit to verify the delta (product evolutions) and get back to that point- again, prototyping solutions by interacting with business, and then handing it over to engineers with more depth and continuous interaction with the tools.
+
+Incidentally, for customers: as I already said in the early 2000s to those complaining that their "experts" were looking at Yahoo groups (nowadays to google or one of the various developer communities)- if you use a product that has 1,000+ pages of documentation, there is no point in re-inventing the wheel.
+
+In the 1980s, the level of expertise of an IBM Mainframe system expert was shown not by knowing by heart every nook and cranny, but by the speed with which was able to pinpoint to the area and solution... within tens of thousands of pages of a constantly evolving system.
+
+So, if you have in house experts, and they are beyond the "painting by numbers" (replicating only what they were told in courses), they will have probably a broad knowledge of everything within their domain, ability to understand what you say (business-wise), enough knowledge of the business context to differentiate apples and pears, and then...
+
+...be able to design a rough concept, and before engineering it from scratch would look elsewhere for some who have already had that specific issue, if they have not yet found it.
+
+Therefore, if your in house experts are able to define the boundaries, define the concept, define the solution, but then will look online for details or inspiration, do not worry- actually, rejoice because they are not those stubborn self-styled geniuses who spend one week to solve a bug that thousand others had, and they would know it if they had bothered, after decent attempts to identify and solve, had bothered to check online.
+
+It is collective intelligence- use it.
+
+When I was delivering methodology training, I always mixed the theoretical and the practical, but assessed either by myself or others "on the teaching side", or including what is now called "peer review", but only after those "peers" had had a kind of "terraforming experience", i.e. had already proved to have absorbed the mindset via the prior training steps.
+
+Otherwise, your peer review is akin to those "facebook experts" who read a single book or even just read other Facebook posts and suddenly dispense their advice on anything from technology to psychology just by lifting from their "sources".
+
+There were "awareness raising" trainings such as those I followed on SAP and Kaggle, but instead most of the "how to" books were frankly a waste of time: you study, you do all the exercises successfully, but then you can just replicate, not really apply to something else.
+
+Change just a bit- and it is not applicable.
+
+Reason: because you know how to replicate, but not why.
+
+Whenever I do a course or test online, I focus not on what I did right, but on what did wrong, and why- so, if you were to look at my way of following training, often it would seem that I go around- but, actually, try to dig into the "undestanding why".
+
+You can forget the "how", if you do not use it- but if you want to apply what you learned to a different context, you have to understand why.
+
+As an example, once a nephew had his homework to do, but I understood that he was into the "lazy mode"- i.e. find somebody who would it for him.
+
+So, I went along, we did all the steps, checked that he understood, and then teared apart the solutions and said: now that you understand it, you can do it.
+
+I met in my contacts in Italy since the early XXI century way too many people who, whenever asked about something said something on the line of "oh, yes, I passed an exam on that"- and that was all: they did not remember the logic (I would not dare to ask the application), just the title.
+
+Not what I consider in times when "continuous learning" should be a mantra.
+
+From my exploration online, once you deliver a dataset that is properly structured, explain the logic of what you would like to explore, and explain constraints and degrees of freedome, there is plenty of "vertical experts" who probably did hundred of models using few algorithms- and can therefore deliver a first rough model.
+
+In this case, "painting by numbers" is a positive: you do your "drills" often enough on a narrow enough field, that it turns into a Pavlovian reflex, as you immediately identify the "applicable patterns".
+
+As we did with that marching in formation and turning I wrote about in the first section.
+
+Risk: if you think only through a limited set of patterns that you can replicate, beware, as soon some software will have a higher degree of speed, precision, efficiency, and will replace you.
+
+In my case, decided to focus on the only area that I think that still requires some work: procuring those numbers for those who like "painting by numbers".
+
+Which, in and by itself, is a useful activity: I have to connect and analyze information, and do always some exploration (and, on data transformation, as I do it only once in a while, I am slowly creating my "patterns database"), and sometimes can solve it at the level I need (prototype or repeated sharing) without involving others.
+
+If you are a company, instead of paying a consulting company 100,000 EUR to do a project where probably they will recycle the few patterns that they are used to, if you have already the data available and structure, better to allocate those 100,000 EUR for a "challenge" on Kaggle or other similar communities, so that you can have hundreds or even thousands of "vertical specialists" designing models on your data, and then you can pick the top five across different "patterns".
+
+Which could, in turn, become part of your own "pattern database" for future uses.
+
+But, if you work in cultural and organizational change or business number crunching for decision making, often the first challenge is to find the right data, before you build a huge infrastructure to collect whatever and then hope that magically some value will be extracted.
+
+In my case, as my number crunching is to "connect the dots" in my publications, it makes more sense to focus on selecting information from reliable sources, and then see how to connect them, as I did in most projecs with my customers in the past: the details about technology could be useful later, to engineer the prototype, but first makes sense to have a rough assessment.
+
+Anyway, that you do it all by yourself, from data identification to model building and analysis, or by involving the "wisdom of the crowd", eventually, unless you are doing as I do (exploring different areas in a generic "change, with and without technology" scope), you will need to engineer it.
+
+So, I would like to share a small example where actually I had to engineer something, and keep using it as a pattern, across multiple datasets.
+
+<b>Being there: it takes a pipeline</b>
+
+Yes, the title of this section [summarizes the movie "Being There"](https://www.imdb.com/title/tt0078841/), with the gardener ending up at the White House.
+
+But in this section will talk about data, not about politics- for that, look at the next section.
+
+As I wrote above, it all started with R in 2018-2019 (I had followed other R training years before).
+
+I wanted to add a search facility by cloud to my articles and books, so in 2019 built something that applied a bit of my past cryptology knowledge that I had applied in the late 1990s to early 2000s on my websites (now offline, both a small community I created and my online e-zine on change did store information in Mysql as encrypted data, to test privacy and confidentiality concepts).
+
+The concept was easy: for each item, count the words (assuming just one language- more about that later).
+
+Then, build a "vertical" frequency analysis of those words, to create subsets of frequencies, from more frequent to less frequent.
+
+Then, build a hierarchy to aggregate.
+
+Then, complete a database containing all the above.
+
+Then, of course, build a presentation tool allowing to both search and present that as a cloud.
+
+For a while, during 2019, it was only accessible to few contacts, to get a feed-back.
+
+Then, big mistake, tried to build a single script doing it all- something that I would have never done for a customer: better to have steps with checks and balances, to both reduce the resources needed, and to be able to backtrack if needed.
+
+Or: without knowing, went back to how on my second project, on a banking general ledger, had done.
+
+Initially, the "batch" (i.e. overnight, unattended, all automated) was just one string, end-to-end.
+
+But, due to volumes, the scheduling specialist of my customer asked me, as I was the onsite interface for release management, what was "the degree of parallelization", i.e. which steps could work in parallel without interfering.
+
+So, we all went back to the drawing board, and changed to remove dependencies where no dependencies were needed- still a bit heavy, but at least would be able to fit the time available.
+
+If a single step failed, in some cases there were automatic "fall-back positions", e.g. dropping data to get back to the previous state, while the anomalies in data were fixes or removed, and before applying again.
+
+In the 1990s and early 2000s, in business intelligence and management reporting, with multiple data sources from multiple systems, we used tools called ETL, i.e. generally extract-transform-load, feeding into a "star schema" (i.e. a central table with all or most of the "facts" on each item, and multiple cross-reference tables containing explanatory information, e.g. country descriptions, measures, etc).
+
+Again, having "steps" allowed to then define "scheduled" with also a "logic" to bring all the spiderweb of flows together: orchestration of data flows toward the end purpose, feeding the data warehouse (or slices called "datamarts" that might have also additional yet local or specific data).
+
+After some test, my "tag cloud website tool" was ready, and applied as an experiment to my own website.
+
+I worked in banking since 1987, but actually also in my political activities in the early 1980s the organization I was in was sponsored by a local bank, and therefore had "absorbed" some number crunching and organizational concepts from that environment.
+
+Then, until 2007, banking was one of the main industries I worked in across few countries, sometimes "connecting" multiple countries together.
+
+So, when in 2019, after completing another R training session, saw that the European Central Bank had released a CSV dataset containing speeches, I tried to apply it to that.
+
+But then, I saw that the online communication was actually richer (there were e.g. interviews, press releases, press conferences, and eventually also a blog and podcast), decided to expand the dataset.
+
+So, first less frequently, and recently on a weekly basis, updated the dataset with the new information made available online.
+
+You can find [the tool and associated Kaggle dataset here](https://robertolofaro.com/ECBSpeech).
+
+Yes, because eventually added also a kaggle sharing.
+
+The pipeline is the same I described above, but there is a preliminary manual step to (weekly) see, extract, transform, load.
+
+Why manual? Because formats, structure, etc sometime change- and "web scraping" would take too much time to adapt.
+
+In the end, all that "manual scraping" takes few minutes.
+
+At a later stage, the same pipeline and components were actually useful also for other "tag cloud search" datasets.
+
+And, actually, had to add an additional step to include a "glossary-based" translation (really- transpilation, i.e. multiple words in Italian and English converging on simpler words, in English), to allow searching multilingual elements (e.g. articles: the search is in English, but retrieves also Italian articles).
+
+You can have a look by both using the [Search within articles](search.php) or [Search within books](searchbooks.php) options in this website, or also within the [Data items since 2019](index.php?page=440) section (each item that contains a "webapp" link points to an online search or presentation tool).
+
+The point being: I started with a tool to a (personal) end, i.e. to help myself look into my growing number of articles while I was outside home and writing articles, and evolved into something that used for both the website, ECB communications, but also to visually discuss laws and other documentation in Italy.
+
+For technical reasons, while I toyed with ways to publish online ML models, I did not release any online- I do not know what the resources impact would be.
+
+Hence, at most will eventually share online tools pointing to online resources elsewhere, but for the time being, except the various "tag clouds".
+
+If you create datasets from scratch, obviously you will eventually have a point of reference.
+
+But then, to convert that point of reference into something that can become a service, i.e. repeatable performance, you would need to build up a pipeline.
+
+My experience since the 1980s first on decision support systems and then business intelligence, management reporting, KPIs, including for risk and controlling or monitoring systems?
+
+Build that pipeline but embed also some "checkpoints", both internally within the pipeline, and on what is released by that pipeline.
+
+Then, get used to two simple concepts:_data begets data_knowledge alters choices.
+
+Meaning: you start with the data that you have or know, and then prune or expand based upon the insight that you derived from using your models/reporting/KPIs etc.
+
+At the same time, also if you were to keep those data unaltered in structure, the more you use your models/reporting/KPIs etc, the more you will identify that some "behavioral patterns" are worth further attention, or that some are becoming so "Pavlovian", that does not make sense to measure them anymore, if not occasionally to avoid "drifting".
+
+<b>What's coming next: converging data</b>
+
+We are already in 2022, and, due to COVID and the invasion of Ukraine, the UN SDGs and Climate Change agreements and targets are becoming a constant point of discussion.
+
+Hence, get ready for more data from more organizations to justify whatever choice will be made that alters prior commitments.
+
+The risk is always the same.
+
+Prior commitments are at best conservative about future impacts, as being bold would have required unpalatable political choices that would have been judged not by future generations, but current, older voters- as most of the younger voters seem able to aggregate politically only at the "flashmobbing" phase, delivering continuity of action only on media or quixotical "guerrilla".
+
+Reforms take time, and bold reforms take time and efforts- not just high-visibility flashes.
+
+And, actually, high visibility flashes, if repeated, generate only a heightening of the attention threshold, become part of the communication background.
+
+Let's say that I had almost no webinar or no conference over the last few months on themes with social impact or discussing future impacts of technologies where Greta Thunberg was not named.
+
+But then, it became just a rite: because, quite often, just few words before or after, what was said was exactly the opposite of what "Fridays for Future" attendants ask for.
+
+I think that change in this case is akin to reforms: they work only when individuals make individual choices for an extended period of time, for whatever reason, as those small changes eventually pile up and alter the "common wisdom".
+
+On the upside, at least in technology, now quantitative discussion on the consumption of resources by information technology activities is increaasingly considered within decision-making, as it should be not just for the sake of the future, but also because it makes good business sense.
+
+Mandatory actions such as requiring new or refurbished parking lots in France over a certain size to have a solar power generation add-on might seem quixotic, but, as with avoid food waste and water waste, can complement and push toward further systemic integration.
+
+Because, of course, solar and wind power generation require also a kind of "conveyor belt" stabilization, which implies developing new technologies, including e.g. having electric cars that, as discussed over a decade ago in Mitchell's book celebrating Womack, act as "storage facility" when not used (which is, also for shared cars, most of the time, during office hours).
+
+The interesting part is that my mailbox is increasingly getting more and more announces of more and more data from reliable sources, data that, for now, are still "vertical".
+
+Or: data that beg to be connected, but often that connection requires having bridging knowledge.
+
+And, once connected, those data could actually help to identify potential new areas of research- and intervention, if we really want to proactively reallocate resources while avoiding a dramatic reshuffling of our way of life.
+
+So, I see more opportunities for more "joint efforts"- albeit this would require something with long-term commitment, not just "we have a Friday meeting".
+
+Anyway, each part of society will probably contribute in its own way and from its own perception of reality- it is only convergence of interests that will generate convergence of data, which in turn will deliver convergence of information, and convergence of decisions.
+
+For the time being, in my smaller corner, will just keep sharing more datasets and try to identify potential questions to associated with each dataset.
+
+I tried to do likewise on Kaggle by adding the "tasks" option (now phased off), but, while many downloaded the datasets or even cloned my primitive Jupyter Notebook (except in one case, my notebooks are just "signposts"), as far as I know nobody tried to apply those "vertical" or "painting by numbers" model expertise to any of those tasks.
+
+Hence, will find a way to share those tasks within one of the forthcoming mini-books.
+
+Meanwhile...
+
+...stay tuned!

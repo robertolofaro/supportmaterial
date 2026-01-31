@@ -1,0 +1,16 @@
+As you probably know, Italy is in for an earlier-than-expected round of national elections.
+Disclosure: my vote traditionally is centre-left, i.e. PD, but stopped voting for national and local elections for reasons that I explained elsewhere.
+Anyway, I still firmly remain:
+_ centre-left (the Einaudi Foundation online test classified me as "liberale di sinistra") 
+_ bipartisan
+_ neither belonging nor interested in being coopted by any local tribe- I have just membership of few non-political associations, and, if you ignore some "causes" organizations in the past, the only political association I was ever a member of was a European federalist integration advocacy.
+This article is just a "stub" for a section that will start soon.
+Actually, as I did while living in Brussels, was planning to re-register dirittodivoto.com, and do something similar to what I did back then (collect and compare political platforms across the spectrum).
+Unfortunately, I saw that the domain has been taken over after I left it expire, and is currently owned by a "corporate website scavenger" (those who pick up expired websites and then put up a hefty pricetag): no, I am not going to spend 2888 USD to re-register that domain.
+Anyway, stay tuned: as I did follow the local elections in Turin in 2016 (and, as I previously wrote, the national elections while in Brussels), I will post routinely articles.
+While this stub is in English, those articles will be both in English and Italian,  and will start soon.
+Stay tuned!
+PS on August 16th released a (beta) mini-webapp that allows to search via tag cloud and compare the political platform of the two main coalition (centre-right and the one around the PD), plus the main political party from the previous national elections, M5S- [you can find it here](searchpolitiche2022.php), while the associated CSV dataset on Kaggle is [here](https://www.kaggle.com/datasets/robertolofaro/italian-national-elections-2022-political-cloud)
+Articles in this series:
+
+_2022-08-18 [politiche2022_01: Tre programmi ed un marziano a Roma #Italy #national #elections](index.php?page=485)_2022-09-02 [politiche2022_02: Costruttori di cattedrali o imbonitori? #Italy #national #elections](index.php?page=486)_2022-09-09 [politiche2022_03: elezioni tribali in Stato tribale #Italy #national #elections](index.php?page=488)_2022-09-17 [politiche2022_04: il dopo elezioni &egrave; gi&agrave; iniziato #Italy #national #elections](index.php?page=490)_2022-09-23 [politiche2022_05: una finestra di 34 interviste #Italy #national #elections](index.php?page=491)_2022-09-26 [politiche2022_06: ad urne chiuse #Italy #national #elections](index.php?page=493)

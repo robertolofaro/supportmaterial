@@ -1,0 +1,194 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20211101_article.png)</center>
+How long should this article be?
+Well, quite short, if you consider that initially the idea was to start again releasing book reviews (I read dozens, found few worth a review and fewer worth at least 3.5/5, i.e. the threshold for [the reviews posted here](index.php?section=suggested-readings)).
+Few volumes, if you consider that actually is "across" books that are still work-in-progress, e.g. the one I started to prepare in 2015 on "commons" ([Century of the Commons](index.php?section=expo2015diaries)).
+Between now and New Year Eve plan to do some further "knowledge expansion", but I have still to decide which of the books that I have been working on since the start of the original COVID19 lockdown in Italy (early March 2020) will be first completed and go online.
+As usual, will split into shorter sections:_invest in thy human capital_digital and green transformations_continuity across times_democracy and res publica_sizing up institutions to social reality_a new normal? terraforming societies
+<b>Invest in thy human capital</b>
+We are not yet in post-COVID19 times, as, beside the virus, there is also the "inflated expectations" addiction that too many cash-injection rounds generated in all the countries that could afford it.
+And this was coming on top of ongoing issues with digital and green transformation, both of which, just to remind, would require restructuring of workplaces but also work "habits", up to training and the whole concept of training delivery.
+I actually consider my birth country (Italy) and birthplace (Turin) as "de facto Guinea pigs" in the "laboratory of evolving democracies"- as I saw how we kept tinkering with digital transformation at least since the late 1980s, when I started officially to work, and the ensuing impacts in the relationship between State and citizens.
+Back then, in Italy we were introducing PCs on most desktops- while, in most cases, retaining XIX century processes and organizational approaches (and not just in State and local authorities bureaucracies).
+Adding more data while retaining processes designed for when you could at best assume to "sample" data, and then integrating technology that enables tracking all the data could be a realization of the old painting that the sleep of reason generates monsters.
+But adapting would imply diffusing knowledge on about not just the data and the technology to process them, but also the impacts, rights, and duties.
+Except few companies, large enough to afford a "vertical career path" (beside the obvious, i.e. banking), and therefore see the need of professional management development (yes, including some of my customers in the late 1980s and early 1990s training on methods etc), many companies in Italy were not only small, but relatively recent (i.e. after WWII).
+You can read my review of an Italian book, ["Ricchi per caso: la parabola dello sviluppo economico italiano"](index.php?page=178), but actually I would suggest to read the book and also others that I quoted within the book review, if you have time.
+The key point, within the scope of this article and, moreover, this section is much simpler.
+Beside being small, our companies in most cases did not really develop an "ecosystem" where skills were transferable and companies invested on their "human capital".
+Locally, the whole concept of training is still really related to "clear and present (business) danger", i.e. marginal costs within the overall production or service delivery costs related to a specific product or service line, not "enabling factors".
+Investing on enabling factors instead is what is needed to allow digital transformation, as the point is that, once those factors are in place, they are available also for initiatives that weren't planned.
+Enable, and you get emergence.
+Look at your nose, and you play catch up.
+I know that I am boring and repetitive: but when I was selling methodologies (and associated training services) in the early 1990s in Italy, one of my selling points was that, for cadres, in Italy the average number of training days per year was 2, while in Germany was ten times as much.
+If you consider that collective national labour contracts considered already back then "cadres" the "engine" of development of new intellectual property in companies...
+Well, I should know, as I too was a cadre back then, and had to negotiate with my company based on that point.
+But, in my case, I had plenty of training, as it was a French company: first I was sent to Paris for around a month (induction training and training on methodologies that I was then to work on), then I had other training sessions abroad.
+And also I had to coach and train other project managers (for customers and ourselves), as well as cadres who were to work along with me on the "selling methodologies and related services" business line.
+And the difference between those who were prepared for a role, and those who were just bestowed a role was enough to justify the investment in continuous training.
+But there was a further element: it is not just administration of training that matters (a "push"), but also enabling the selection from a menu- and, in some lines, also the proposal by those who had already received enough training (not just on skills, also on the corporate culture) to identify and propose further training that, while outside the "menu", might add value to it for the specific individual and role.
+In the early 1990s, it was complex and expensive just to reach the information about what was available.
+In the early 2020s, it is easy to find- but probably what is missing is guidance to select, as the offer is way too wide.
+The COVID19 lockdowns were actually a good test of our aggregate "social ecosystem"- also on training and self-training.
+It would be interesting to integrate some of those elements into a "new ordinary".
+<b>Digital and green transformations</b>
+Both digital and green transformation are supposed to have at least two major impacts:- on what you do- on how you do it.
+Implications? Endless.
+As I shared few years ago within the review of ["Silicon Germany"](index.php?page=298), it means reconsidering also your whole "industry ecosystem".
+If a company such as e.g. Siemens de facto enters the "data business", by selling digital twin services (to simplify: software operating as if it were the real machine, and monitored real-time as such) along with machines-as-a-service, what is the expected impact on maintenance management?
+And what is the impact on all the associated services?
+Yes, the selling point is pre-empting failure and the associated costs, but this implies also minimizing the cost of storing spare parts, and going beyond the mere scheduled prevention.
+What I mean with "scheduled prevention"? As the one that I designed over a decade ago as an add-on licensed to a partner to be used by a customer.
+Basically: look at maintenance history, learn the various "timing" for intervention, and schedule accordingly checks, to avoid having to check all continuously, replacing too early, or wait until machinery fails and you have to reorganize production- a kind of prevention based on basic statistics.
+Move to a larger perspective, and consider whole industries: how many roles, jobs, facilities would become irrelevant?
+And how many would require a completely different approach to work and data, and maybe would integrate bits of technology (e.g. what are known as "cobots", robots that "augment" human capabilities, both intellectual and physical).
+Automotive, banking, retail- just sticking only to the digital transformation side, only on the first one in this short list that 2017 book about Germany talked about 200,000 jobs just in Germany.
+Anyway, digital and green transformation frankly are not two separate transformations: do you really believe that e.g. you can use electric cars as temporary storage for electricity overnight unless you have a systemic approach to demand management and availability of resources?
+In reality, I think that digital transformation is what enables green transformation.
+Unfortunately, most states (Italy included) focus on infrastructure, various technologies, adding sensors and cameras...
+...and forget the people.
+As I wrote in the previous section, investing on human capital is the enabler.
+I remember, while still living in Brussels, the workshops on e.g. e-health and e-inclusion that attended in a nice building downtown, as well as others within the European district (Parliament, Commission, etc).
+Well, what was discussed back then (say- up to the late 2000s/early 2010s) echoed what was written about e-government in the late 1990s by the OECD, and still resonates.
+You can create all the "push" you want (as this is what infrastructure plus enforced digitalisation of everyday interactions between citizens and State and private bureaucracies are)...
+...but unless you create also "pull" (i.e. all the humans involved are able to use those digitalised processes), you are actually creating more, not less, detachment between theory and practice.
+And, incidentally, creating more resistance to change.
+In Italy, we are "leading the path" also in the absurd anti-science: it probably started to be visible outside Italy with famous cases such as the one on "virus spread" and the other on "earthquakes predictions", but politicizing science risks trying to create absolutes where none are possible.
+<b>Continuity across times</b>
+Yes, the title of this section is about continuity, but, in reality, it is about the continuously evolving concept of continuity.
+Recently read two books, one about continuity initiatives within the USA government, "Raven Rock", and the other about some patterns of continuity within Ancient Rome, specifically the Roman Republic times, up to when Augustus entered the scene, after the killing of Julius Caesar, "The Storm Before the Storm - The Beginning of the End of the Roman Republic".
+For the USA, what continuity meant as continuity of government evolved across times- from the XIX century up to late XX century.
+From keeping those in charge alive, almost a "saving the king", to keeping the institutions alive- acknowledging that the temporary inhoccupant of a role does not transcend the role.
+Well, in Ancient Rome had already set up something focused on the latter- also because in those times occasionally, say, niceties such as sanctity of the role was disregarded.
+Science is about doubt- there should be no "untouchables": and that is a form of "continuity".
+Actually, this is partially true: even in the XIX and XX century, we had times when former iconoclasts suddenly became defenders of the orthodoxy, against new... iconoclasts.
+So, we have now three types of continuity, so far. 
+Let's now see what this implies when you mix up science with politics in Italy.
+In Italy, politics dwells on "temporary absolutes", more than in other countries, notably since the end of the Cold War.
+Since the 1990s, it was not unusual to see politicians flip-flopping across political parties of the left and the right.
+And even for whole political parties to call for a "holy war" against anything done by or representing another political party, and then suddenly converging.
+In the latest elections we probably went a bridge too far, as the centre-left coalition went up to elect, in Naples (it was on newspapers) a... follower of Mussolini.
+Add to that COVID19 restrictions and injections of public funds to keep the economy humming, and you get something somewhat unusual.
+If you turn scientists into political tools, the risk is that they would do what politician often do: stretch, extend, assert- as this is the "political" role.
+And this is the fourth type of continuity: which, actually, is a different version of the first- continuity of the individual whatever the argument.
+Meaning: with a leap in reasoning, a politician in our current times assumes that (s)he is the reason, not the mean.
+Winning the argument is more important than giving a fair assessment or being consistent- no wonder that we have so many lawyers in Italian politics, and so few scientists.
+Result? You undermine credibility of both politics and science.
+Or: if you are a scientist operating on a politicians' concept of continuity, you might well get plenty of interviews and prime time, but at the cost of tampering with your own form of continuity. 
+And your credibility.
+<b>Democracy and res publica</b>
+I will start with a quote from another book: "Roman Republics", by Harriet Flower:<source>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20211031_respublica.png)</source>
+As I was reminded today by a book review on "Il Sole 24 Ore", in our times we are used to associate rule of law with modern states, but not just in Ancient Rome, also until few hundred years ago we were used to law as almost a side-effect of "common wisdom" or what was considered "reference customs to be perpetuated", with an additional layer (monarch, rules, whatever) settling and altering as consensus evolved.
+Now, at a time when we should have a frank discussion on the impacts of the dual digital and green transformation, we are doing what we are most used to since centuries: tinkering.
+Add to that the overlapping types of continuity, and the loss of credibility of some experts entangled in personality contests with each other, and you get rumors piling up on rumors.
+Which dovetails with another national sport I wrote about at least since 2007 (while in Brussels): conspiracy theories.
+Whenever you are introducing change that involves some specialty expertise, you need to have access to experts who either know or do not know, or tell you what is in between- without tinkering, and with a decent degree of credibility acknowledged by most of those involved.
+Then, negotiators can negotiate.
+But if you mix up the two roles... you get what we are seeing now everyday in Italy.
+The recent elections showed an increase in disaffection.
+And how do you solve it?
+In Italy, once in a while we talk about, just to stay on the Ancient Rome theme, "panem et circenses".
+Italy currently has around 60mln inhabitants, and Rome (city) has [slightly less than 3mln inhabitants](https://en.wikipedia.org/wiki/Rome).
+Imagine what meant to sustain, almost 2,000 years ago, 1mln inhabitants in a single town.
+In modern times, whenever there was a crisis, we had various forms of modern "panem et circenses", as I shared in past articles.
+Which, sometimes, even in recent days, reminded me the title of an old book about financing political influence in another country "the best democracy money can buy".
+In that case, it was about influencing politicians, in our case, about influencing citizens.
+Albeit... it is the same I saw decades ago in human resources: if the only motivation you give is the annual raise of X%, it contains an inflationary expectation.
+Or: also if you give the same percentage year after year, which implies adding more and more (as the previous increase adds up to the starting point), I saw how people considered e.g. receiving 3% on year one and then, after working harder, receiving again 3% as... a decrease in recognition.
+Dumping "helicopter money" in instalments to keep businesses and people afloat is maybe adding "entitlement", but not building up "commons".
+If you were to read the proposals from civil society that were presented to the Italian Parliament, you would frankly see little "shared interests" or proposals for the common good.
+Albeit maybe presented as such.
+There is a difference between helicopter or sprinkler money and investment.
+The former is "panem et circenses", the latter hopefully generates long-term benefits beyond the direct recipients.
+The Italian PNRR, national component of the NextGenerationEU initiative, is a mixed bag of objects- but I will defer to the assessment done in Brussels (read previous articles, or have a look [at the datasets I shared on Kaggle and GitHub](index.php?page=440).
+Italy has many issues, including the over 10% of GDP represented by organized crime and organized crime-influenced economy, and what I usually complain about- the "tribal" element that makes us Italians trump our own tribe's well being above the "common good".
+As I shared today on Facebook, paraphrasing what I was told in UK, we should learn to win and lose, and that the wheel eventually will turn, so that we all have a vested interest in keeping the wheel working. 
+What matters, is a key point, in my view: if we need to define a comprehensive new model of society, we have to move beyond the mere financial side of the NextGenerationEU and PNRR, and dare to move onto a little bit of social engineering.
+We cannot tinker our way out of this. 
+Well, for now, news this week reported a one-two that is so common: first, announce that for Mayors of main Metropolitan Areas (there is basically almost one per region), their salary would be aligned to the Regional "Governor" (not the official Italian title), scaled down according to population.
+My reading of the reason?
+As I wrote repeatedly, in our Second Republic traditional political parties in Italy expanded the role of elected Mayors while shrinking their own role, resulting more than once in Mayors that would seek re-election also when "the good of the party" would imply to step aside and fully support other candidates.
+And, in some regions, the Metropolitan Area actually has a disproportionate weight in both business and politics, as well as social roles.
+Considering the distance between national parties and citizens, as well as the current state of the Italian socio-economic environment, it was a puzzling yet understandable choice.
+Anyway, few days later was announced that had been expanded the number of job roles that could benefit from an "accelerated retiring benefit access" due to what we call "lavoro usurante" (i.e. that affects your health and potentially shortens your life expectancy- not the technical definition, but the general understanding thereof).
+My foreign contacts in Brussels remember maybe when I translated/summarized in English a pivotal Government Decree, while living in Brussels, which was over 90 pages long.
+Then, when converted into law, became over 300 pages long.
+Therefore, announces such as those above, as well as Government Decrees, usually are the first salvo of a long negotiation, albeit generally presented as the result of a negotiation.
+Hence, I will wait until all the bartering will have been done, before digging into details.
+My expectation? Physical jobs, but also jobs that will disappear or fade away soon, courtesy of the two transformations.
+Which reminds me an example of "lavoro usurante" seen from the inside.
+In the 1990s, a friend from high school times worked in building sites on restoration and finishing or painting walls.
+He also organized rave parties.
+Once, he fell from a scaffold, and had to stay home for a long time, until the leg recovered, so he asked me what could do, as he was going Berserk by just sitting home.
+Late 1990s, so I told him: why don't you learn web programming- and passed some info (eventually also supported a start-up he and another guy wanted to set up, working on business/marketing planning and negotiations).
+After he recovered, he was anyway so deep into the new activity that he continued.
+Eventually, one day told me: when I was working in building sites ("lavoro usurante", according to our definitions), I came back home tired, but after a shower my brain was still on, and went out partying.
+Then he added: since I started programming websites all the day, at the end of the day, my brain is depleted, and I want just to sit down on the couch...
+So, while transitioning, maybe we should reassess also our categories...
+Meanwhile, the redefinition of our political relationships in highly local (the Mayors' role) and macro (the various flashmobs) could be a guide in redesigning the representation at the national level.
+<b>Sizing up institutions to social reality</b>
+This section will start with analysis, and end with utopia.
+When, in the early 1980s, at 17, started working in organized political activity (the youth part of the Italian branch of the European Federalist Movement), I had the chance to work with and listed to professors in political science, researchers in the same field, and receive plus read a continuous stream of papers and documents on institutional reforms from the European institutions of the time.
+Actually, I had approached them because, in reality, I had had already, as I wrote in the past, interest in studying cultures, laws, and comparing Constitutions: the guilty party is few books I saw in my parents' library on political science and political philosophy (I actually had removed the wrapping to most of those I read, before I started my own library) .
+Over the years, I lost count of how many times read the Italian Constitution, and routinely, as part of my cultural and organizational change activities, ended up reading books about the subject in past and present times.
+So, I am quite puzzled when I hear elected Members of the Italian Parliament deliver statements that simply ignore what they supposedly promised to uphold, up to the point of not knowing at which age somebody is elegible to become President, or that there are some protections embedded on the freedom of expression and vote of elected representatives.
+Acceptable from citizens carried away by partisan tunnel vision, but from elected representatives? For 20,000 EUR a month, you would expect that at least they would know the "rulebook"...
+Well, a large part of this reading and re-reading was inspired by a continuous stream of proposals for reforms: from what was the mere Italian equivalent of Gerrymandering, to attempts to import in Italy this bit from UK, that bit from France, that from Germany, that from USA... 
+I wrote in the past an article about "Frankenlaws"- as a way to overcome our excessive tribalism, like "provincials" of long ago, "provincialismo" is still endemic in Italy.
+It is curious, when observed from outside (or from italians that lived and worked in other countries): extreme tribalism and "campanilismo" (each location trying to assert that the best is associated with their own location- "campanile" in Italian is the bell tower), blended with an attraction for anything that is (or claims to be) foreign.
+Often I heard politicians and ordinary citizens, and even journalists or those academics that should know better, not just "cherry picking" selectively this or that element from another country, but even... presenting as a reality or even steering the debate toward what was just a figment of their political imagination, or had simply misunderstood.
+Voters? Well, in a tribal country, of course they would never bother to check what their own "leaders" assert- and any criticism from others is assumed to be a side-effect of sniping along party lines.
+An exercise and a game: list the key characteristics of the electoral and presidential or prime minister of the main Western countries and...
+...I am quite confident that, at one time or another, it was proposed as a potential reform for Italy.
+Things change so fast in Italy, that read decades later, even the plan from Licio Gelli for reforms in Italy seems here and there as part of the current and recent political debate in Italy.
+In Italy, we used to have an almost perfect two-assemblies systems, the Camera dei Deputati and the Senato, with a slight difference in voting base due to age restrictions, but basically most laws etc required a passage in both- and sometimes even a back-and-forth.
+I remember that eventually one of the proposals was to have a "Senato delle Regioni", i.e. converting the upper chamber into a representation of the Regional Governments.
+Anyway, since 2000, we had various rounds of reforms- also because, unfortunately, lacking a "sense of the commons", the leading tribes each time do...
+...some tinkering.
+I think that we should consider few elements:- COVID19 showed how our half-backed federalism did not work- the distribution of powers is more dynamic than the letter of reforms- we still have a strong tribal element, and negotiations are worthwhile only if the balance of powers between the tribes is constant (which is not)- political parties are still unable to carve a new role for themselves, as each time they try to "structure", it turns into a top-down "parachuting".
+Or: political parties, in the Second Republic, increasingly behave as if a plebiscite can replace the lack of dialogue with their electors and party members.
+Looking at my political area, centre-left, since inception I saw the Partito Democratico as founded by former Communist Party bureaucrats and second-line former Christian Democrats.
+Neither of which really had an interest in keeping a lively debate within the territories- control, yes, but debate with members and voters? 
+For a long while, it seemed as if the key purpose was to be different from Berlusconi's Forza Italia: not really that much to debate on.
+Moreover: if you define yourself as "different from the other", you let the other set the territory and tone of the debate.
+And, eventually, if you are detached enough from reality, what matters is being there, not being.
+Up to the point where, actually, it starts to get difficult to understand the difference.
+And open up space for new political parties that, themselves, again are just claiming to be different.
+I remember that once Grillo, the former stand-up comic who founded M5S, said that after them there was just Golden Dawn and assorted neofascists.
+Well, it was said that after [Pandora's box](https://en.wikipedia.org/wiki/Pandora%27s_box) was opened, only hope was left inside.
+If you raise that hope, and then shatter it by starting playing musical chairs like all the others, you turn into the alternative meaning of what was left inside the jar: "deceptive expectation".
+Therefore, more than a prophecy, if it were ever to turn toward that direction, would have been a forecast of the results produced by actions.
+Even established parties, extending the plebiscite approach, invited not too long ago flashmobbers at their table- to get political insight or to show to be trendy while releasing zilch power?
+Moving back to the main theme of this section: I think that we should differentiate the law-making part by level of interest- an extension of the "subsidiarity" approach. 
+Consider that separation of powers in our times requires something different from what we are used to, as, at least in Italy, COVID19 showed how our institutional system is often based on the assumption that everything can be fixed later.
+We should get used to the concept that, sometimes, e.g. with the NextGenerationEU and PNRR, either you do or you don't, but cannot really fix pivotal choices, once done, even if you were to have unlimited resources (which is not the case).
+And, considering the current status of the work market in Italy, and the two transformations and their impacts, tinkering could be actually worse than doing nothing, in terms of impact.
+Just look at the debt added since the beginning of the COVID19 crisis, and how too much of that ended into "sprinkler money".
+Again, what is "sprinkler money"? 
+Enough to toss few drops here and there, but not enough to replace proper "watering", i.e. supporting businesses and society to keep them afloat and spur development. 
+Reading the documents presented by civil society for the Italian PNRR, frankly I saw that maybe there could be a different way, based on the concept that, as shown recently, Metropolitan areas could evolve, and Regional Governments probably could retrench and shrink down in role, as often are as detached from reality as the national level- and between Regions, Metropolitan Areas, leftovers from Province (counties)
+Better therefore to have a local level (including Regional and Metropolitan) and a national level.
+Recently, Italy cut down the size of both the Camera dei Deputati and the Senato.
+So, the lower chamber could represent territories by having just proportional voting on the local level- no national collection of "leftover votes" ("resti"- the votes collected locally that did not result into a seat).
+Routinely in the past we had discussion about "resti" as a symbol of democracy (make each vote count).
+Frankly, when you have Mayors even of larger Metropolitan Areas such as Turin, elected with less than 50% of the voters bothering to cast their vote, and the winner representing therefore a meager 24-25% of the voters, really those "resti" at the national level matter?
+Or it is just because they represent few more seats that could be spread around using political alchemy to win over a tribe or two?
+As for the upper chamber, removing all the restrictions related to age, and the current mix could instead be focused on national and international level themes (e.g. treaties).
+There is another element that in both cases would be needed: if you really want everybody to be entitled to become a member of either, their legislative staff should be able to provide the knowledge of the "machinery" that they lack.
+If you read recent Italian political history since the "portaborse" role was created, you would found here and there reports on misallocation of funds, underpayments, role assignments related to connection more than capacity, and so on and so forth.
+But, frankly, while I think that refocusing each chamber as I wrote above is utopia, the complexity of our political and social system, including the correlation with European Union, requires to develop a "cadre" of professional staff- and a complete redesign of the Italian spoils system, limiting jobs and roles allocated to winners only to those that come and go with the electoral cycle.
+Which is, frankly, an even bigger utopia than doing the above.
+<b>A new normal? terraforming societies</b>
+In a previous article, wrote that I think that the PNRR distribution at the local level should be under political oversight.
+And since NextGenerationEU was announced, wrote that I think that a higher level of transparency is needed.
+The reason really boils down to few elements:_the initiative is EU-wide and synchronized across the whole EU_each country will have specific issues to cope with, but all should be able to "benchmark" at the EU level_injecting so fast so much "project-based" funding will probably overburden Member States ability to oversee_the wide-ranging number of projects and areas that they cover require, for proper oversight, a blend of skills that transcends the ordinary_a misallocation of funding or misdirection of projects in this phase could distort the internal EU market for a long time, probably across generations_last but not least, at the EU level, we still have a dualism between what is national and what is shared at the EU, but that would be fine only if all the Member States had equal access to resources, equal access to markets, equal import/export intra- and extra-EU.
+Well, just the last point should be reason enough to consider that, instead of growing up bureaucracies, in this case we should identify how existing resources (citizens and corporations) can actually, due to their expertise and competing interestes, act as a kind of permanent counterbalance and monitoring, if given access to information beyond what is customary.
+Meaning: pre-emptive and ongoing access, not the usual gimmickry inspired by "FOIA", which is fine only after the fact to say (or pretend to say) "never again" or "we will improve on this or that next time".
+In Italy, some considered that that "political oversight" meant asserting control: hence, it is to be expected that Mayors, Regional Governors, etc will refrain from delegating to "technicians" the execution.
+And this what I proposed: it is too important to be delegated to those who do not answer to voters.
+But, for the reasons listed above, and in line with the proposed changes listed above, I think that Mayors, Governors, etc should have the "political oversight"- not the disbursement role.
+Otherwise, we risk creating what in Italian we call "clientele" and "sodalizi"- which, incidentally, derive directly from Ancient Rome habits, where generals and others had their own "clientes" and "sodales".
+No wonder then that we turned tribal...
+Anyway, while in the past Mayors and Governors were seen (or at least perceived) as "cog-in-the-wheel" of a political party, they are now, as I wrote above and in the past, de facto free political agents that might be inclined to turn an elective office into a de facto "tenure track".
+Term limitations are cumbersome, but giving control of the resources to ensure term continuation for generations is not what a democracy is about, it is a feudal system.
+So, as a closing point, as there will be time to expand at a later stage: do we want a XXI century democracy that is an encore of a feudal system just using technology to avoid a potential evolution, or do we want a XXI century democracy where the "technocratic" element is an enabler to ensure that all voices are considered and that improvements can expand, not contract, access?
+As I wrote above- Italy has many weaknesses, but probably those weaknesses are those that could be reduced faster than in other countries if a proper mix of reform and inclusion is enacted.

@@ -1,0 +1,261 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20220917_article.png)</center>
+
+This article is the fourth of a new series on the national elections 2022 in Italy
+
+It will be both in English and Italian, and the English version is at the bottom.
+
+Related items: [a mini-web app to search within the text of the political platform of the (for now) three main coalitions and political parties](searchpolitiche2022.php) and [the word-frequency part of the mini-webapp, as a Kaggle dataset, with the title "Italian National Elections 2022 - political cloud"](https://www.kaggle.com/datasets/robertolofaro/italian-national-elections-2022-political-cloud)
+
+This preamble will be repeated in each article.
+
+Siamo ad una settimana dalle elezioni, e potrei partire, sulla base dei webinar che ho seguito dalla settimana scorsa, di cosa tanto vale non parlare.
+
+Di politica estera- le posizioni sono risapute, ed ad un webinar mercoled&igrave; dello IAI le risposte erano praticamente a senso unico (mancava una voce, per&ograve;).
+
+Di politica sulla scuola- con buona pace di chi la pensa diversamente, francamente sui macrotemi c'&egrave; la stessa convergenza che &egrave; stata espressa progressivamente negli ultimi mesi da Commissioni ecc, anche se poi ci sono ricerche di differenziazione, in alcuni casi per gli elettori, in altri casi per i "grandi elettori" (ovvero pensando a dopo le elezioni ad ottenere un ruolo in qualunque governo, grazie agli sponsor).
+
+Di sondaggi, visto che &egrave; passato il 10 settembre, e quindi gli "esponenti politici" possono parlarne, e solo di quelli pubblicati prima di quella fatidica data.
+
+Di candidature e seggi: tanto, siamo ormai al posizionamento post-elezioni.
+
+E, mentre che ci sono, per chi nei giorni scorsi (ed oggi) ha commentato l'articolo in bozza (le gioie delle reti aperte)...
+
+... questa versione &egrave; diversa- le versioni bozza che avete letto erano solo per "testare i messaggi" con le audience locali a Torino, diciamo un "acid test" (viene sempre il dubbio se l'acido sia quello che esprimono nei commenti, o quello che assumono prima di prepararsi i commenti).
+
+Ed in questa settimana ho anche procurato materiale per vedere il "flusso dei commenti" sul territorio: si chiama "signal intelligence", che per&ograve; su Facebook normalmente commento come "hook, line, and sinker": costa poco e rende molto.
+
+Simile a quando, decenni fa, mi spiegarono come, nell'era delle macchine da scrivere e della carta carbone, fosse prassi per bozze riservate prepararne diverse versioni, con refusi o scritture leggermente diverse in ogni versione, prima di distribuirle, per poter prendere nota di chi spettegolasse con chi su cosa.
+
+La campagna, per come sta continuando, richiede un minimo di distanza per poterla seguire senza strapparsi i capelli, come ho scritto nei giorni scorsi ad un amico.
+
+Inciso: da inizio luglio 2014 a dire il vero io faccio barba e capelli- l'unica volta che li ho fatti ricrescere (corti) &egrave; stato per aggiornare la foto del mio profilo sui social media. 
+
+Curioso come la fedelt&agrave; alla Repubblica Italiana nata dalla Resistenza, con tutte le sue sfumature di appartenenza politica, nel momento in cui, stile Henry Ford (che la Ford modello T i clienti potevano sceglierla di qualunque colore purch&eacute; fosse nera), sembra quasi che i gruppi o partiti guida siano omologati ad una modalit&agrave; "o noi o il diluvio" che &egrave; tutto fuorch&eacute; democratica, venga richiesta come surrogato dell'azione politica di cantare "Bella Ciao"".
+
+Fa il paio con chi, a sinistra, molti anni fa dichiarava la propria "fede" di sinistra, ma poi mand&ograve; gli analisti tempi e metodi a contare quanto tempo i dipendente passavano in bagno.
+
+Per me, l'accettazione del dibattito e delle differenze di opinione, del dissenso, &egrave; il vero test di "antifascismo": la richiesta di omologazione &egrave; la sua negazione: triste declino del livello di spessore del dibattito politico.
+
+La prima campagna elettorale che ricordo per aver visto dal "lato della bottega" (ovvero: di uno dei contendenti)?
+
+Ad inizio anni Settanta, quando i miei genitori decisero di trasferirsi da Torino in Calabria, portando la piccola attivit&agrave; di produzione e vendita articoli pubblicitari e di cancelleria che avevano, dato che mio padre era originario di quelle parti.
+
+Non dur&ograve; molto ma, all'et&agrave; di 5-7 anni ebbi modo di vivere in prima persona un pezzo di storia italiana (i moti di Reggio Calabria).
+
+Mio padre era dalla parte del Partito Comunista (ricordo cameo divertenti, tipo quando avvenne un comizio credo di Ciccio Franco, proprio vicino ad una sezione del Partito Comunista, e mio padre entr&ograve; nella sezione, si chiuse dentro, e mise "bandiera rossa" a tutto volume).
+
+Ovviamente ebbi modo anche di assistere alle prime cariche che ho osservato nella mia vita (non ricordo se allora lanciarono anche i lacrimogeni), chiuso in un bar in una piazza con mia madre e mia sorella insieme agli altri avventori ed ai proprietari che abbassarono le serrande, mentre fuori si sentiva il caos nella piazza.
+
+Ma, cosa che mi avrebbe incuriosito negli anni a venire, la parte pi&ugrave; interessante avvenne esattamente 50 anni fa, nel settembre 1972, al ritorno a Torino, quando, a scuola, scoprii che al Nord praticamente non si sapeva niente- farsi dare del mitomane in prima elementare per aver raccontato quello che hai visto in prima persona &egrave; certamente anomalo.
+
+E mi abitu&ograve; ad imparare ad esser scettico sulla libert&agrave; di stampa esercitata che diventa cinghia di trasmissione del potere di turno, quasi parte della corte del "principe" temporaneo, altro che "quarto potere".
+
+Per fortuna, gi&agrave; allora ero un "topo di biblioteca" (leggevo gi&agrave; correntemente in prima elementare), e quindi mi fu possibile trovare altre strade per informarmi.
+
+Negli anni, ne ho viste da dentro e da fuori, di campagne elettorali, sia a sinistra sia a destra, tramite la mia famiglia ed altri contatti, oltre che per le attivit&agrave; politiche di cui ho parlato nei precedenti articoli di questa serie.
+
+Forse, sia l'esperienza post ritorno a Torino, sia aver visto "come si cucina una campagna" a destra, sinistra, al centro, ben prima di aver compiuto i 18 anni mi portarono alla scelta di esser bipartisan.
+
+Perch&eacute; avevo visto quando beneficio avrebbe potuto portare una condivisione delle regole del dibattito politico: la casa comune della democrazia, sotto il "tetto" della Costituzione.
+
+Diciamo pure che l'ultima settimana di dibattiti politici francamente, visto da bipartisan, era un po' da avanspettacolo d'antan.
+
+I media se ne lamentano, ma, francamente, chi &egrave; senza peccato (di aver costruito e fatto sviluppare questo tipo di comunicazione), scagli il primo elzeviro.
+
+Divertenti come sempre i vari appelli al "voto utile": con questa legge elettorale, francamente, il punto &egrave; far appello al voto, non rivendicare patenti di utilit&agrave;, che fan pensare di pi&ugrave; (e svelo la mia &egrave;ta dicendolo) alla vecchia pubblicit&agrave; di formaggi ecc ("la fiducia &egrave; una cosa seria").
+
+Qualcuno ha citato "Cetto La Qualunque"- film che non ho visto perch&eacute; con buona approssimazione pensavo che il trailer dicesse tutto.
+
+Se proprio dobbiam andar su film comico-politici sulla politica italiana, forse "Benvenuto Presidente" (il primo) era pi&ugrave; divertente, per non citare il solito "vota Antonio La Trippa" di Tot&ograve;.
+
+Se siete arrivati fin qui, complementi: avete superato la prova "qualit&agrave; del dibattito politico in questa campagna": avete letto una dozzina di frasi prive di contenuto politico, dopo un breve affresco storico che riporta indietro di 50 anni, una stagione abbastanza burrascosa (come non dimenticare Piazza Fontana di poco tempo prima dei moti di Reggio Calabria) e non vi siete fermati davanti al vuoto assoluto: temerari...
+
+Passiamo allora ai contenuti.
+
+Francamente, nel primo articolo di questa serie dissi che non vedevo in giro nessun Mos&egrave; per traghettare gli italiani verso un futuro luminoso.
+
+Beh, sono stato smentito: gli aspiranti Mos&egrave; si sprecano- il solo problema che hanno &egrave; come differenziarsi e "definire" (per esser gentile) gli altri aspiranti Mos&egrave;-
+
+Difficile differenziarsi, se poi la richiesta &egrave; di omologazione di facciata, ed i metodi adottati suonano molto poco di necessit&agrave; di differenziarsi: chi sente di avere una missione e di aver l'unica verit&agrave; politica, non cerca n&eacute; dibattito n&eacute; divergenze di opinione.
+
+Come diceva quella canzone di Peter Gabriel che accennava agli esperimenti di Milgram "one voice, one truth".
+
+Speriamo che, chiunque vinca, dopo le elezioni si ritorni alla necessit&agrave; del dialogo maggioranza-opposizione.
+
+Comunque, i temi del primo articolo sulle riforme istituzionali sono passati ad una quasi convergenza sul metodo (s&igrave;, "questions de ,m&eacute;thode", di nuovo), una qualche forma di lavoro congiunto- quale forma dipender&agrave; in buona parte dalla differenziazione delle parti politiche, non dai contenuti.
+
+Per ora, i nostri aspiranti leader non hanno dato gran prova di quella che un libro di qualche anno fa chiamava [leadership under pressure](https://robertolofaro.com/index.php?page=185).
+
+Mentre non farebbe male, dopo il 25, rileggere [making democracy work](index.php?page=223).
+
+Perch&eacute; proprio quei due libri?
+
+Diciamo che... ogni tanto mi diverto a guardare gli articoli letti pi&ugrave; di recente sul sito, e spesso vedo che qualcuno ritorna su recensioni che scrissi di libri.
+
+Utile per farmi tornare in memoria, leggendo le poche righe di recensione e la "sponsorizzazione" del libro da Amazon che riporto su ogni recensione, il libro stesso ed a quali altri lo collegai a suo tempo.
+
+Quindi, tra ieri mattina e ieri dopo pranzo, ho preso quei due tra i diversi la cui recensione qualcuno ieri &egrave; andato a rileggersi.
+
+Curiosa scelta, probabilmente persone diverse.
+
+Il primo in realt&agrave; racconta le esperienze in buona parte frustranti di un ufficiale non italiano in Bosnia, traslate verso il business.
+
+Il secondo, di Putnam, &egrave; un libro che riguarda pi&ugrave; noi italiani che gli stranieri- ma &egrave; proprio legato ad aspetti che possono avere una valenza positiva ed anche negativa del modello di partecipazione civica in Italia.
+
+Francamente, non per fare la vecchia cariatide, ma decenni fa per un teenager italiano, diciamo a fine anni Settanta, "partecipazione" voleva dire qualcosa di pi&ugrave; continuativo ed intenso che partecipare a flash mob.
+
+E forse eravamo anche un po' pi&ugrave; zeloti: non mi sarei visto allora uno che parlava di ambiente non considerare gli aspetti legati ad uno smartphone (che allora non esistevano).
+
+Diciamo che, visto come i miei coetanei attualmente candidati si proiettano verso l'elettorato, forse un po' meno zeloti ed un po' pi&ugrave; pragmatici avremmo combinato qualcosa di meglio.
+
+Invece, chi dei miei coetanei (57, ma diciamo dai 45 ai 65) e compagni di viaggio della politica anni Ottanta &egrave; rimasto in politica ha perso l'occasione del passaggio dalla Prima alla Seconda Repubblica per trasformare spesso in satrapie dinastiche i seggi elettorali.
+
+Ieri sul giornale erano riportati 2770 miliardi di debito pubblico: se andate a guardarvi il debito pubblico diciamo nel 1983, forse quella del debito pubblico &egrave; stata, oltre alla "partecipazione" del crimine organizzato al PIL, la crescita pi&ugrave; rapida.
+
+Correlazione non vuol dire causalit&agrave;- ma vale comunque la considerazione che il nostro bizantinismo legislativo crea in continuazione ottime opportunit&agrave; di micro-corruzione, come denunciava gi&agrave; anni fa "L'Espresso", e che ad ogni contiguit&agrave; in corruttela si amplia il margine di manovra di ricattabilit&agrave;, che apre la porta ad una maggiore incisivit&agrave; nell'economia reale di quella sommersa o semplicemente illegale.
+
+Resta una settimana di campagna elettorale, anche meno, se si considerano gli eventi di questi giorni che hanno in parte giustamente reindirizzato l'attenzione verso l'ennesima situazione di criticit&agrave; nella gestione del territorio.
+
+Come scrissi gi&agrave; nel primo articolo di questa serie, per me chiunque "vinca" queste elezioni dovr&agrave; riconsiderare il proprio programma elettorale alla luce della realt&agrave; "operativa".
+
+Non mi piace il termine "vincere" applicato ad una elezione, ma tant'&egrave;: siamo in clima quasi da parodia dei reality show comico, ogni tanto, se si guarda allo spessore delle argomentazioni.
+
+E siamo in realt&agrave; gi&agrave; ai "posizionamenti" post-elettorali: a parte cercare di ridurre il margine di chi "vincer&agrave;", abbiamo chi si posiziona per il dopo come "ago della bilancia" per un governo di coalizione, o meglio come "foglia di fico" (qualcuno ha anche detto di esser la faccia democratica, di centro, della coalizione di centro-destra: triste declino di chi aveva la maggioranza relativa quasi tre decenni fa, raccogliendo il testimone della DC, testimone che, nei fatti, oggi sembra passare al PD, visti i trascorsi di buona parte della dirigenza).
+
+Ed altri, "hedging", pensano bene di seguire il motto "con la Francia o con la Spagna purch&eacute; se magna": chiunque vinca, alcuni sono pronti a sacrificarsi per un ministero con portafoglio (il ministero che deve elemosinare il budget da altri non &egrave; di moda, tra chi vuole assicurarsi un ruolo "stanziale" a Roma).
+
+Ieri sera il Presidente del Consiglio Draghi ha nuovamente detto di non esser disponibile per un secondo mandato a Palazzo Chigi- ma, in Italia, una-due settimane sono politicamente equivalenti ad almeno un lustro: "la Patria chiam&ograve;" vale sempre.
+
+La prossima settimana penso di concentrarmi, a meno di sorprese, su una rapida carrellata delle evoluzioni politiche sui media di queste settimane di campagna.
+
+Devo dire che la campagna e le sue possibili conseguenze in Italia ma anche in Europa e sulla posizione dell'Unione Europea stanno suscitando all'estero pi&ugrave; attenzione sui contenuti di quanto di solito ci venga riservato.
+
+Perch&eacute; bisogna dirlo: sar&agrave; anche vero che noi non facciamo niente per sfatare i pregiudizi sull'Italia e sugli italiani, ma spesso la lente di lettura e comunicazione all'estero della stampa estera punta a ci&ograve; che rende leggibili i contorcimenti bizantini della politica italiana- i nostri sofismi sono difficilmente digeribili e comprensibili, per esser pubblicati meglio lo "storytelling" delle solite cose da melodramma.
+
+Per quanto riguarda le forze politiche, non potendo parlare di sondaggi formali o meno, diciamo solo che sui quotidiani la visibilit&agrave; &egrave; selettiva.
+
+Anche questa settimana, nei webinar e negli articoli, la tentazione di far ridurre il peso dei soliti "cespugli" politici (i partiti minori) &egrave; palese nella selezione di notizie ed interviste.
+
+Curioso come la Seconda Repubblica, malgrado i tentativi di trapiantare in Italia un sistema elettorale bipolare, di nuovo sembra orientarsi verso avere in realt&agrave; tre poli che poi, ad assetto variabile, attraggono verso il proprio centro di gravit&agrave; (tutto fuorch&eacute; permanente- come diceva Battiato, siamo sempre alla ricerca) la galassia di micropartitini (o anche schegge degli altri poli).
+
+Si accettano scommesse: qualunque sia il risultato elettorale, riuscir&agrave; il 10% degli eletti a non cambiar sponda per i primi sei mesi?
+
+Alla prossima settimana
+
+[ENGLISH VERSION]
+
+The Italian national elections will be next week: hence, there will be just two more articles in this series: one next Saturday, and one on October 1st, after the main results will be known.
+
+This week I followed few webinars and read few articles directly and indirectly connected with the national elections, and the same will happen next week, and this helped to define the "scope" of this article, i.e. what I should and should not write about.
+
+Let's say that, except a limited subset, there is no point in talking about foreign policy: I followed e.g. a webinar from the IAI on Wednesday and (except a missing voice) there was an almost absolute convergence.
+
+Ditto for education policy: despite what some say, on an helicopter view basis nothing new, and way too much convergence; the only differentiation is to "preach to the choir" and to position toward "holders of the sceptre" (i.e. posturing to obtain a decent role after the elections, no matter who wins).
+
+Some of the statements sometime remind the first episodes of "Yes, Minister", when the candidate does not yet know if he will be selected to become a minister within the new government.
+
+As I reported last week, we had a "cutoff date" of September 10th: unless you are considered a political operator, you cannot disclose new opinion polls about elections, and also "esponenti politici" until September 25th can only disclose what has been made public before September 10th.
+
+Meaning: oh you Italians, you shall have made up your mind before September 10th (I know many who did not- but I will not share the previous opinion polls, you can search for them online).
+
+Ditto for candidates and seats: we are already at post-election posturing, a typical Italian sport.
+
+There was a cartoon from Bruno Bozzetto on why Italy is not in Europe, and one of the funniest bits was about elections.
+
+Abroad, you win or lose.
+
+In Italy, does not matter who wins- the following day, apparently almost nobody voted for the others.
+
+So, we are still at the famous Churchill quip, that there were before the end of WWII 45 millions of fascists in Italy, and then there were 45 millions of anti-fascists, yet... demographic data did not show that there were 90 millions of Italians.
+
+As usual: the Italian version of this article is slightly different- you can read it if you want to... read few more culturally-dependent quips.
+
+Now, this is not my first political campaign. And my first political campaign seen from the "kitchen " was not in 1983.
+
+Actually, the first one that I remember was in the early 1970s, and not in Turin, but in Southern Italy, in Calabria, where my parents decided to relocate their small business, as my father had moved to the North in the 1950s- it did not last long, and by 1972 we were back in Turin- yes, more or less 50 years ago, in September 1972.
+
+While down in Calabria, I was able to see my first political campaign from the "backoffice", as my father was within the Italian Communist Party, and at the time in Calabria there was a political uprising called "moti di Reggio Calabria", centered around some identity issues linked to bureaucratic choices, but hijacked from the extreme right.
+
+Within the Italian side of this article, added some cameos both in Calabria and on my return back to Turin with my family.
+
+Let's just say that, then and there, at the ripe age of 7, I started being disenchanted with "freedom of the press" in Italy.
+
+It is not censorship, more "self-censorship" and an almost innate attitude to turn way too often into a cog into the wheel of the incumbent "prince" (yes, I am referring to Machiavelli), recovering "freedom of the press" only when the incumbent is weakening.
+
+Luckily, I was already back then a "bookworm", and quickly found my way in libraries and additional sources to compare and make up my own mind.
+
+Across decades, I was able to be part or observe from the backoffice political campaigns from the left, centre, right, first through my family, then directly and via others.
+
+And this probably is the source of my "bipartisanship": I had seen first hand the social and political side-effects of a lack of transparency, and of a "mobbing approach" to politics, i.e., to quote "the king's speech", the doctrine that strength equal right.
+
+In Italy, we still have a fragile democracy, covered by the yet-to-be-fully-implemented Italian Constitution of post-WWII.
+
+And this latest week of political campaign debates sounded more like a Vaudeville or even P.T. Barnum Circus', than a mature democracy challenge between different options.
+
+Mass-media eventually started complaining about this sad state of affairs, but, frankly, they have been constantly part of those fueling this attitude.
+
+We had the usual curious speeches asking to cast your vote where it matters, i.e., unable to obtain consensus, declaring a kind of "us vs. them" and that anybody voting for anybody else would actually be supporting "them".
+
+I think that would make more sense to appeal to vote- period.
+
+Otherwise, the first political party will be represented by those that will choose not to vote.
+
+Within the first article of this series, I wrote that I saw no Moses around to escort Italians across the virtual Red Sea, i.e. a new future.
+
+Well... it seems that we have just Moseses within Italian politics, who have just one issue.
+
+If everybody is a kind of "us vs. them" politician, and everybody is promising a brilliant future but without getting too much into details, it is quite difficult to differentiate yourself from the others.
+
+Also because, frankly, this campaign has way too many talking if they are going to save the country from anybody else, usingovertones that sound a bit too much fascist-style for my taste: one voice, one truth- and curious how this attitude is both on the left, centre, right.
+
+Within the Italian version suggested two books that I reviewed years ago- once in a while, I have a look at those reviews that somebody reads (there is a menu option on this website listing the "most recently read" items), and, for some reasons, yesterday the mix included two books that actually are relevant to the current campaign:_ [leadership under pressure](https://robertolofaro.com/index.php?page=185)_ [making democracy work](index.php?page=223).
+
+The first one shares the experiences of a non-Italian officer in Bosnia, the second, by Putnam, is actually about democracy in Italy.
+
+Those in my age range who stayed in politics since the 1980s (say- between 45 and 65 now), as you can see from the speeches of candidates, unfortunately in my view did not use the chance of the transition in the 1990s from the First to the Second Italian Republic to introduce much overdue changes.
+
+Instead, often converted elective political offices into "tenure tracks": once elected, turned their seat into a satrapy, courtesy also of the continued revisions of our electoral law.
+
+Yesterday newspapers reminded that Italy got to 2770bln EUR in public debt.
+
+Look at the evolution of the national State debt in Italy since say 1983, and look at the growth of the integration of organized crime within Italy's GDP, i.e. its "participation" (few years ago assessed at around 11%, but before the COVID-19 crisis that obviously increased the buying power of those awash with cash).
+
+Correlation is not causation, but the complexity of Italian laws and regulations, continuously revised, and where more than once "simplify" turned into "creating new documentation requirements", created what in the past a leading weekly called opportunities for micro-corruption.
+
+Whenever you open the door to micro-corruption, you are actually opening the door to a potential for blackmail, and hence it becomes easier for organized crime to use that opening to expand its reach.
+
+Just one week is left in this campaign, albeit times and again during this campaign we had (even yesterday) a refocus on "natural" disasters that are really linked to mismanagement of our fragile land.
+
+As I wrote in the first article of this series, no matter who "wins" these elections, the political platform presented to voters will have to meet reality.
+
+I dislike using "win" or "losing" within the context of elections, but the current trend in Italy is that almost anything is treated as if it were a kind of political reality show hosted by Monty Python (you can find some examples from the latter on YouTube).
+
+Anyway, if you look at what, beside the two leading coalitions, all the others are doing and uttering, we are already seeing post-elections posturing.
+
+Yes, some are trying to expand by few percentage points their results, with last-minute calls.
+
+But in part this is to become then the "balancing act" that any winner will need to turn a plurality into a majority.
+
+In Italian, in past centuries, when we had invaders roaming the country, a funny saying was "con la Francia o con la Spagna purch&eacute; se magna"- i.e. France or Spain does not matter, what matters is who feeds us.
+
+So, second-line political parties and coalitions are already "hedging": they might have started their campaign on the left, shifting then to the centre-left, then to the centre, but now are trying to be just the one to be called by the winner.
+
+Funny to see political leaders ready to sacrifice themselves for a ministerial office with a budget (as currently is not trendy to ask just to become a minister, and then beg for budget).
+
+Yesterday evening President of the Council of Ministers Draghi again said that he is not available for a second round at Palazzo Chigi.
+
+Nonetheless, in Italy two weeks can deliver the same level of political activity that elsewhere would require at least five years: and, as the Italian anthem says, "la Patria chiam&ograve;" (Italy called) still is a card used.
+
+Unless there will be surprises, my plan for next week is to focus on reviewing what happened since the beginning of this campaign, as seen within media: I still have to decide the format, but will try to make it as light as possible.
+
+While I had and probably will have contacts from abroad, and I saw more interest into the content than the usual easygoing storytelling about Italian habits (easier to sell and easier to be published, than any attempt to explain our complex overlapping of innuendo), I think that the real observation should start after the main results will be known, i.e. from Monday 26th.
+
+Over this week and the last week, there has been again an increase of attempts at "social engineering", e.g. selective sharing of interviews focused on showing a trend toward increased appeal of the main coalitions, but this is not what I hear locally, or what I can read from other news indirectly.
+
+In the end, it is curious how the Second Republic, that started basically by trying to go a "Frankenlaws" way, i.e. importing bits from laws from other countries, in the end again resulted not in two, but in three main political groupings, plus the usual "splinter cells" that, after each election, split, join, merge, spawn other splinter cells...
+
+... then attracted by the force of gravity of the main actors.
+
+My closing joke is: whatever the end result, i.e. no matter who wins, I wonder if, coming April 2023, less than 10% of those elected will have switched side- that would be a change.
+
+Stay tuned.

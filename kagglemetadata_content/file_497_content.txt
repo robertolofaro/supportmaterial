@@ -1,0 +1,372 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20221028_article.png)</center>
+
+Say- this article was already seen, in a different format and content, yesterday morning, around 1pm, by few in Turin- who also shared their unsolicited remarks.
+
+Before lunch, it was 370 paragraphs long.
+
+And I actually went to lunch asking myself: should I write a closing section, or should I extend over few articles, and maybe even another mini-book, as I covered previous books about organizational change, data privacy, IoT, etc. 
+
+Well, after lunch my Chromebook had lost 250 paragraphs.
+
+So, I am afraid that this article will take a different track.
+
+Also because... after dinner, when I had finished rewriting it on another computer, I had again a connection glitch when it was almost completed, that resulted in Windows blue screen and... (you can guess) losing it again.
+
+As for the material of the earlier versions...
+
+...the second choice above is the one I had elected during my lunch, and was just reinforced by the sudden loss of 250 paragraphs (that I will anyway re-build for other publications)- so, after lunch, courtesy of the wonderful weather (for few hours, July, not late October), went in the park to restructure my material and identify the new roadmap.
+
+The book will be loosely following the structure of yesterday morning's article, i.e. starting from concepts about industrial policy and a broad historical review of Italy from WWII, and then discussing the components of the context, up to the linkage ebtween organizational memory, human capital development, and the role that could have individuals as citizens and individuals as part of corporations.
+
+This outline article is therefore now the first part of a two article series:_this first article, to share some background concepts and material, and discuss my rationale_a second article, focused not on the content, but on the process.
+
+As usual, this article is divided in few short paragraphs:_the Italian privateers' approach to industrial policy post-WWII_organizational memory and human capital development_data-centric impacts on individuals and organizations_moving forward by looking backward.
+
+<b>The Italian privateers' approach to industrial policy post-WWII</b>
+
+Whenever you are thinking about a new or evolved corporate policy, it is worthwhile to consider the context within which you operate.
+
+For multinational or large companies, this is second nature- those more structured have already in place what, when I was asked to help redesign the organization of a banking outsourcing company in the late 1990s, added to their marketing side: "antennas", i.e. observing and monitoring the context.
+
+For national or smaller entitities, it is a matter of ["sense and sensibility"](https://en.wikipedia.org/wiki/Sense_and_Sensibility), of perception of reality.
+
+In Italy, we have many "pocket multinationals", small in size but exposed to wider tidal waves than those that their local political connections often consider (or care about).
+
+Italy, as I often write, is a tribal economy- and my birthplace, Turin, it a tribal context within a tribal economy: tribe squared.
+
+But will explain the latest assertion in the last section of this article- let's just say that, if each tribe tries to solve by itself what lacks capabilities or competencies to solve, you end up compounding misleading choices on misleading choices, resulting in a divergence from reality that is difficulto to reconcile, unless you can overcome the tribal boundaries and accept to expose to potential consequences.
+
+The issue is that few of those small companies, the backbone of the Italian economy, seem to either leverage on their own "associative power" to extract that level of understanding e.g. from those representing them as an aggregate.
+
+Or, if the latter try (as e.g. often Confindustria at the national level does) to "render" the wider picture, the "receptors" to understand that wider picture are missing, and it is considered, as I heard at the local level more  than once, as a kind of Potemkin Village, as if reality were the "bubble" those small local entities live in, and those attempt to see the wider picture were just window dressing to show to be trendy.
+
+Until suddenly reality creeps in, and there is a demand for instant solutions, as often sounds the current debate on developing human capital, that is reduced to "having ready-to-use graduates", not blending that with "capability to evolve and innovate".
+
+Then, we shift to our usual habit: looking for an "enlightened leader", a "white knight" that will deliver us from our collective short-sightedness and, as if by magic, will land us on a different plane of reality.
+
+What was a [privateer](https://en.wikipedia.org/wiki/Privateer)? "A privateer is a private person or ship that engages in maritime warfare under a commission of war".
+
+Which is an adequate summary of our concept of leadership as I saw it since I started looking at our post-WWII history (but, frankly, also post-unification, i.e. since 1861).
+
+So, yesterday, beside trying to avoid remembering the March on Rome (that actually started on October 26 1922 elsewhere in Italy) that then resulted in having Mussolini at the helm under the king, it is also remembered Enrico Mattei ([shared in this post a newspaper article, plus a link to a previous article](https://www.linkedin.com/posts/robertolofaro_mattei-humancapital-industrial-activity-6991287185098334208-NerZ?utm_source=share&utm_medium=member_desktop)), generally recognized as the one who pushed Italy, up to his sudden death in 1962, toward a path of developing its own energy diplomacy.
+
+Incidentally: the attitude of many from my political side is akin to that with the final scene of a funny movie with two Italian actors of few decades ago, about the path to the March on Rome, [as shown in this scene](https://www.youtube.com/watch?v=Y9S8NzQLGyM): let's try for few months.
+
+Forgetting that before he was called, actually some of his representatives were co-opted in previous governments.
+
+Well, today, post-WWII Italy is a republic where the exercise of power by the Government is linked to a mandate from the Parliament, not directly from voters or appointment by a king.
+
+There are proposals to have direct vote- but I discussed in the past, and such proposals are outside the scope of this article, also if, if implemented, could reframe the context of industrial policy definition.
+
+Our current system in recent decades this has resulted more than once in the distortion of having governments supported by a coalition that had not won the elections.
+
+Personally: left, centre, right- I wish that eventually we will have a government that serves the citizens for a full term (5 years), not a revolving door set up by backdoor cabals that try as Penelope within the Odyssey to undo after the elections what the voters had chosen.
+
+In our times, actually, as the PNRR (the Italian side of the Recovery and Resilience Facility linked to the NextGenerationEU) will more or less run along this term of the recently elected Parliament, would be interesting to see a government able to bring that to its natural end, as would also imply enacting some reforms.
+
+Because many forget one element that discussed long ago in other articles: NextGenerationEU is not just "helicopter money"- it is both money that will eventually directly and indirectly return to the source, and is also the "testing ground" for new approaches.
+
+From shared EU debt, to new ways to assign and allocate resources, to an extended approach on monitoring their use, and incentives to avoid doing what we in Italy often turned into an art form: we receive allocations, and are unable to spend (actually, even to find suppliers to spend it with), so a specific rule had to be developed to "repatriate" unused funding.
+
+Well, if anything can be said, is that Enrico Mattei had a faster approach to intervention (I remember a funny scene from a 1972 movie about him, where was told the story of how he managed to overcome objections in laying down pipelines across Italian towns).
+
+Anyway, in the 1950s to early 1960s, what would eventually evolve into the European Union was still in its infancy, and, energy-wise, as the [UK-France expedition in Suez of few years before had shown](https://en.wikipedia.org/wiki/Suez_Crisis), there was more than a whiff of national choices (and a hint of neo-colonialism).
+
+Therefore, there was an underlying rationale that justified an energy policy dealt with at the national level, also for countries within the scope of the Treaty of Rome.
+
+Still, Mattei's role and actions often the 1950s are often quoted by our self-appointed leaders, who prefer preaching to the choir than building a consensus to lead.
+
+<b>Organizational memory and human capital development</b>
+
+It is not by chance that one of the most often read articles on this blog is just about our national obsession for "leaders", an [old article from 2017](index.php?page=125) (in Italian, but a later new article linked within the same article was also in English, referencing... Vichy and WWII).
+
+And, curiously, the readers of that article often find useful to blend that with another one on the development of an industrial policy for Italy able to stand more than just one electoral cycle ([see here](index.php?page=138)).
+
+Actually, on that theme, beside articles on this website, shared also a [mini-book on innovation](index.php?page=308).
+
+Anyway, the scope of this article is... on a different plane of reality.
+
+The first point about reality is... it is now.
+
+As within the speech from President Nixon before embarking on his trip to China, [you have to look forward, not just rehash the past](https://youtu.be/4cfsI4ZjTbU?t=99).
+
+So, we cannot try to redo what we did in the 1950s and 1960s, as it were applicable within our current context in the 2020s (and beyond).
+
+The Italy that delivered e.g. [a major new highway in few years](https://it.wikipedia.org/wiki/Autostrada_A1_(Italia)) (from 1955 when was set the legal framework, to 1958 when was opened the first segment, to 1964 when was completed, with an add-on in 1988) in more recent years has been showing a completely different approach to public works, as shown e.g. by the "number crunching" during [Mani Pulite](https://it.wikipedia.org/wiki/Mani_pulite) in the 1990s.
+
+Some commentators actually saw within the "cutting the corners" approaches of the 1950s-1960s economic expansion and fast-feeding industrialization the "seeding phase" of what was to be revealed in the 1990s.
+
+Whatever the "Urvater" of "Mani Pulite", the latter was 30 years ago, and what we are looking at in the present and the future is within a completely different socio-economic context, also if we were to ignore the recent tripartite crisis of COVID-Ukraine-energy.
+
+Anyway, as I often share on Facebook and Linkedin either as observations or by sharing articles and other media, since my return full-time in Italy in 2012 I saw that, frankly, if reality evolved, the socio-economic "customs" of Italy did not as much as would be needed.
+
+Hence, we keep signing up agreements and treaties that we are ill-equipped to benefit from, with our "tribal continuity" approach to reality, which is really change-resistant.
+
+It is akin to signing a contract where you commit to a specific price as associated to a specific level of consumption- then, you actually consume just a fraction of that.
+
+The net result? Obviously, that your "cost per unit of consumption" is not the one you assumed when you signed the agreement, but much higher.
+
+Within the book, will share more examples of what are the side-effects.
+
+But, anyway, there is a key element: developing humans capital requires a context that defines the target, the itinerary, and also the measurement system adopted to mark progression.
+
+This context is not just individual organizations, as it is meant now, but something more.
+
+What is an organization, once it exists?
+
+Not just its formal structure.
+
+And not just its informal structure.
+
+But its formal and informal organizational memory.
+
+Long ago I was asked by a customer if I accepted the challenge to change the way the were thinking and working, i.e. a cultural and organizational change assignment.
+
+I agreed to a concept, knowing that would take 2-3 years at least, to tune our commitment and portfolio of activities for each year.
+
+As I wrote above, in Italy often "human capital development" becomes "having ready-to-use graduates", not blending that with "capability to evolve and innovate".
+
+I discussed in previous articles how, before delivering training in business from late 1980s, before developed training approaches, first in politics, then at the university (while waiting to be called back into the Army, as I had already had few days there in Monte Cassino), then in the Army.
+
+Actually, in the latter developed approaches that would then use for decades.
+
+The issue? Out of boredom, despite various jobs that covered, proposed, designed, delivered, and also led (when other teachers where added) a hands-on training to develop basic programming skills- funny to be remembered decades later, in Brussels, and by a British, that I had been a "comandante" (my formal status outside the context of the course was just "Artigliere", within an artillery support specialist group, i.e. the lowest rank within artillery, equivalent to private).
+
+My "pupils" (over 90 of them, spread across few classes)? Soldiers-for-a-year like me, but also NCOs and officers, up to Lt Col.
+
+Except few, none of them had any prior knowledge of computers or programming, or even formal training in computer science or sciences (it was 1985-1986).
+
+So, my approach was to deliver theory wrapped within something that they could relate to, but on the practical side to split into steps.
+
+Each step would end with a cross-checking vs. the proposed solution with each individual (basically, wandered around the room while they were doing the exercise step), and then contextualize the difference between the one actually delivered by the student, before starting the next step from a "standard" status: no "trained monkey", I wanted them to understand and be able to individually contextualize, to be able to adapt what was learned to their own individual context.
+
+This approach, applied also in other training activities for few decades (so far), enabled each student to contextualize vs. experience, both as an individual and as a representative of the organizations belonged to.
+
+In corporate organizations, this implied being able then to "embed" any new learnings within the organizational memory, i.e. enable that "capability to evolve and innovate".
+
+I started using (and then delivering) Computer-based training (henceforth CBT) in the late 1980s and then 1990s, and I observed around Europe a risk.
+
+While my approach obviously was tailored to "classroom training", and potentially time-intensive, I had in the past also to deliver coaching or training remotely- which required some adaptation, or even to produce material that would then be used without any prior training, to deliver operational activities.
+
+E.g. imagine a 1-page cue card and 30sec to 3min video on how to do a specific marketing report that was done once a year assembling information from different sources and using a heuristic that required human intervention, in a high-turnover environment.
+
+With massive online courses, the approach has to be different, as there is no direct interaction with the students, but it is still feasible (albeit the concept of using "peers" to emulate a tutor should be frameworked to ensure that they have already absorbed relevant "forma mentis", e.g. by adding those peers test toward the end of a cycle, to ensure consistency).
+
+In business environments, the risk I saw with CBTs is the same you could see in any knowledge management initiative (and I was part of many since the early 1990s).
+
+Or: it starts with a concept, then a "tool priesthood" takes over (in training, often linked to quantifying HR), and starts compressing timelines, costs, etc.
+
+Up to the point where tutors supporting those using CBTs are the first to be removed by the process, even remotely.
+
+Then practical activities to apply on-the-job what was learned are removed, ditto for the ex-post debriefing to assess skills development.
+
+Then training becomes a form of "gamification": it does not really matter if you acquired new skills that are operational, or embedded in your "corporate modus operandi" new patterns, it matters that you completed all the boxes planned for the year, so that the "motivational system" of the organization can classify you as having done what was needed to move onto the "next level" of the corporate game.
+
+What is the missing element? I can follow (as I did often) online courses for informational purposes, or to do a cross-checking or update on competencies that I already developed on-the-job (e.g. [see my latest CV, updated earlier this week, and the lists of trainings](https://robertolofaro.com/cv)).
+
+Anyway, in my case, I already started with an "organizational memory" to relate to.
+
+When I delivered training curricula to organizations, this contextualization was part of my preliminary activities (to adapt the material), but also the ex-post integration and knowledge transfer to the customer (to ensure that those who were actually embedded within the formal and informal organizational memory could "connect the dots" and, if needed, identify when an evolution might be needed).
+
+A training curriculum cannot be static: it has to be tuned according to results, impacts, evolutions of the context.
+
+As a practical example, consider when, between the late 1980s and late 1990s, was delivering to customers decision support system models.
+
+Sometimes, the models I delivered were the first example of data-based decision models on PCs that their organization had seen.
+
+So, there was also a certain degree of knowledge transfer needed, to "frame" what I was transferring in something that they could relate to, as adding data-centric decision-making implied introducing some "static" patterns: computers are less flexible than humans (yes, even in the machine learning era).
+
+What was I delivering? Models that were based on variations of [linear regression](https://en.wikipedia.org/wiki/Linear_regression), generally identifying for products, distribution channels, regions, etc some parameters across time.
+
+Then, with managers (my customers) set a goal ("goal seeking"), e.g. how much should be the net profit of either a specific product line, or even multiple product lines with a different mix across regions etc, to tune the models and have something that could release time from those providing the heuristic to be converted into a model, and have the same decision-making capabilities available to others.
+
+Alternatively, explore different mixes of parameters (e.g. blend of products and channels and customers, to see which one could deliver the best results- "what if" or "scenario analysis").
+
+As an example, have a look at the most famous equation in the search for extra-terrastrial intelligence (SETI), the [Drake equation](https://en.wikipedia.org/wiki/Drake_equation):
+<i>
+N = R* times fp times ne times fl times fi times fc times L
+
+whereN = the number of civilizations in the Milky Way galaxy with which communication might
+be possible (i.e. which are on the current past light cone);andR* = the average rate of star formation in our Galaxyfp = the fraction of those stars that have planetsne = the average number of planets that can potentially support life per star that has
+planetsfl = the fraction of planets that could support life that actually develop life at some pointfi = the fraction of planets with life that actually go on to develop intelligent life (civilizations)fc = the fraction of civilizations that develop a technology that releases detectable signs of their existence into spaceL = the length of time for which such civilizations release detectable signals into space
+</i>
+
+Imagine changing a mix of those parameters, then imagine having multiple "layers", each one with the same equation, but different mixes of parameters.
+
+Then, imagine having a logic to aggregate them all, a logic that you designed so that it balances in different way different products or different regions or different customers.
+
+Welcome to my models.
+
+And welcome to the need to contextualize vs. the organizational memory.
+
+To keep this article short, just one example.
+
+In the early 1990s, I was asked by a customer to develop a model based upon a logic that had been designed by looking at data about past organizational investment choices on logistics costs (basically, where to position a warehouse considering routings, products, costs, various constraints, transportation means, etc).
+
+Well, I had in the late 1980s developed various models with similar concepts but in different industries, including to support organizational choices, so it took only some ingenuity (and expertise- I had dozens of models delivered) to convert that logic into something that the tool could process fast enough to be useful, and making easier enough to both enter/alter parameters and assess results.
+
+The "look of the model" was a kind of souped up multidimensional Excel- imagine having just one tab in Excel that actually can flip around as a pivot table, but delivering the result of dozens of combinations of tabs.
+
+Under the hood, were algorithms similar to the Drake equation, only sometimes with constraints applied to specific "intersections" between the dimensions of analysis, or combinations of "options".
+
+If you deliver new knowledge that is tuned with the organizational memory, the litmus test has two dimensions:
+_what you deliver can be understood and used (albeit not necessarily rebuilt from scratch- different depth of skills)
+_what you deliver can be compared with the [heuristic](https://en.wikipedia.org/wiki/Heuristic) used by the organization.
+
+The idea of a model was to increase the organization's ability to do something that before was either not feasible, or feasible just by few.
+
+In that specific case, I was given some parameters and what would be the expectation, and then gave back the answer from the model- and the senior manager saw that the model converged with the "traditional way".
+
+So, the organizational memory was represented by that senior manager.
+
+Anyway, organizational memory has another characteristic: has to be "owned" by those who generate and evolve it.
+
+In the 1990s and 2000s, when I was involved in knowledge management and methodology initiatives, one of the points was to have knowledge reside where it could be evolved (yes, subsidiarity- as in politics).
+
+As that was were innovation would be feasible, if you wanted to spot trends before others could see them (more about this in the next section).
+
+Instead, in way too many cases (in the 1990s with knowledge management, right now with big data), if you develop a "tool priesthood", eventually they start rationalizing their own needs as if they were relevant to the organization.
+
+My experience is that what is needed is to retain a "thread" connecting the source that generated the information, as otherwise eventually it will be turned into something that makes the priesthood life easier- and next to impossible for others to extract, including the source.
+
+What was relevant in the 1990s, 2000s, or even 2010s, might still be relevant now and in the future, but only if we keep contextualizing.
+
+Just to give you an example of the change, have a look at the top 10 companies within the Fortune 500 list, in 1990 vs. 2022:<i>
+19901 General Motors2 Ford Motor3 Exxon Mobil4 Intl. Business Machines5 General Electric6 Mobil7 Altria Group8 Chrysler9 DuPont10 Texaco20221 Walmart2 Amazon3 Apple4 CVS Health5 UnitedHealth Group6 Exxon Mobil7 Berkshire Hathaway8 Alphabet9 McKesson10 AmerisourceBergen
+</i>
+
+Can you spot the different mix of industries? Actually- can you see how many of the current top 10 are within data-centric industries?
+
+So, in our times, human capital and organizational memory development require considering a different perspective, and abandon the traditional "top down".
+
+Actually, there are many things worth reconsidering- but will be part of the forthcoming book, again to keep this article (relatively) short.
+
+<b>Data-centric impacts on individuals and organizations</b>
+
+What is an industrial policy? 
+
+In Italy, apparently a pipedream.
+
+We had routinely attempts to develop one, and ended up with a patchwork, as it happened when I returned in Italy in 2012, and then saw an "industry 4.0" set of subsidies... that had to be confirmed year after year, and initially covered neither the costs to connect with information systems (what is the point of having a data-generating machine and not extracting the data), nor training courses for operators and related (as if they could use the new equipment as if by magic).
+
+As I wrote back then, when some sang the praise of the new law, after a quick reading: which company would make investments that require say 5 years, having a confirmation year-by-year, and ignoring that a large chunk of the additional investment and operational costs generated by those investments has to be financed by other sources?
+
+Answer in many cases: companies that had old equipment, and saw an incentive in buying new equipment with plenty of capabilities, courtesy of taxpayers...
+
+...and then use it as a replacement of the old equipment, due to the lack of resources to either "connect" with information systems or train staff on the new capabilities.
+
+Akin to buying a Ferrari and then using it to work the fields instead of your oxen-powered equipment.
+
+Anyway, jokes aside, many still consider both human capital development and industrial policy as static policies belonging to two different domains.
+
+Static, as you cannot say that either policy is "in tune with the times" if you work from steady state to steady state, e.g. by renewing every five years.
+
+In a data-centric world, there are many concepts worth revising, but, as I wrote above, will keep this article short.
+
+First, individuals are going to be both data producers, data consumers, and feed-back generators.
+
+The most interesting part: in a data-centric world, where any device could generate information or be listening for information provided by those (human or devices) passing by, interactions are not necessarily by choice, albeit of course most processing is.
+
+So, we have to consider that our concept of privacy has evolve, probably as far as a variation of an old science-fiction book, "Light of the other days" from Arthur C. Clarke.
+
+Not by choice, from at least the late 1990s, when I first started working multiple countries, and from the early 2000s, when I first supported Italian start-ups and worked in Government projects in Italy, and then in 2005 when I relocate to Brussels, with an acceleration since my return in Italy in Turin in 2012, I saw in Italy and from Italy a different concept of (lack of) data privacy (and gossip, and lack of banking/bureaucratic confidentiality).
+
+Hence, I simply tuned up with the approach: if, as in the above mentioned science-fiction book, you have no privacy, you can either do as those funny nerds altering their patterns to rebuild a delusion of privacy, or simply factor that into your patterns.
+
+If you remove privacy, then the issue is that you have to reconsider also what is worth monitoring: living in a Truman Show (as the movie) and knowing it to be so was unnerving for movie and rockstars, who anyway balanced that with benefits.
+
+But if it is extended, courtesy of technology, to 100% of the population, we have to redesign also our legal framework and concepts of acceptability: unless you deem socially useful to count the number of times somebody scratches his earlobes or nose.
+
+Personally, I saw people with much less exposure than I had since the late 1990s going berserk only because somebody reported monitoring what they had said or done for a short while- imagine what those people would do after few years (I attribute my resilience and stamina for decades to... green tea that I drink in large quantities).
+
+Do not believe the "good Italians with a warm heart" story: it is just a Potemkin Village-style pretense to cover tribal opportunism turned into a system of life and Weltanschauung- the "heart of darkness" of Italy is structural and needs structural changes.
+
+I would advise lawmakers and those with a control freak attitude to read that book from Clarke.
+
+There is another element worth considering: the acceleration of interactions and feed-back cycles based on data.
+
+Decades ago, in 1990, while I was looking for a new job after leaving my first employer, one of my interviews was with a company that had a chain of brand stores where it sold fashion that was designed... by looking at trends.
+
+Actually, they hired people to go around in places where usually trends would develop, and then spot trends, that would be vetted centrally and, if interesting, would allow the company to be ready to deliver in its own shops clothes by when the new trends would start getting mainstream, potentially beating competition.
+
+It would still need lead time, but the concept, with a different timeline, could apply also in our data-centric world, if you content yourself of being ahead of others, but not necessarily the trend-setters.
+
+Yes, many are aiming to become "influencers"- but, in a data-centric world, it could be feasible instead to blend data and feed-back, to dynamically e.g. present a new collection in shops online, a collection that actually does not exist yet- it is just virtual, and waiting for demand to develop, as done routinely on kickstarter and other crowdfounding platforms, a kind of "testing the market".
+
+Therefore, willingly or not, anybody could be both influencer and influenced- just converging data, no need to have human expensive influencers (or even virtual AI replicas of humans pretending to be influencers).
+
+And, in human capital development, this implies also that we should move away from static curricula, once the basics are delivered.
+
+It should be up to individuals to build up demand via feed-back and convergence, as an aggregate- the next generation of "evidence-based" HR.
+
+If you blend that with organizational memory, i.e. what is consistent with the company continuity and evolution, it changes also that side, as adds an element of democratization within organizations.
+
+I am not referring to "Democracy at work", or Semler's "Maverick"- I am referring at extending the concepts embedded within Lean and the Japanese concept of removing "waste" from processes.
+
+Again to keep this article short: I wrote in the past about data privacy, integrating IoT within organizations, and the impact of pervasive computing on individuals (not just their privacy), and you can read online for free [some of the books for free](https://robertolofaro.com/published).
+
+Anyway, the key element to consider is simply that there is a different timeframe, if you consider that any individual or corporate actor is a datapoint or, better, a collection of datapoints.
+
+There is an old book from Tom Clancy called "Net Force" that talks about a fictional police force focused on digital crimes (you can find also a TV version).
+
+An interesting element within that data-centric scenario was a kind of "multiverse", a kind of virtual reality way off our computing (and networking) potential.
+
+The interesting part is not the virtual reality per se, but the social dynamics imagined, including the interaction between this "data world" and real life, including law enforcement.
+
+In the article I almost lost yesterday morning there was some other material- that I will obviously recover within the forthcoming book, but would like to share with you here a couple of elements.
+
+First, we are talking about data- massive amount of data continuously generated.
+
+That implies that no human could even be able to process that amount of that so fast.
+
+Imagine that for decades, before we started using Artificial Intelligence (henceforth, AI) to analyze images, we had so much information in pictures from satellites, that we were way behind in processing.
+
+Now, computing capabilities able to process data in real-time close to where the data are produced (the so-called "Edge") are becoming more and more affordable.
+
+Second, if in 2018, to buy a USB stick able to process images using what is called a "neural network" had a price of 80 EUR, recently was able to do some small experiments with (slow) AI using a computing device that costs 5 EUR or less.
+
+And, as I shared on my Linkedin profile, recently a computing device smaller than a grain of rice was shown.
+
+The point being made here is probably better represented by a bullet list (yes, I am repeating the same concept few times):_we are going to have plenty of data and interactions between our and external data, including bidirectional influencing_this will apply to both organizations, their own "human capital", and anybody/anything interacting with them_being able to connect the dots and prioritize the connections properly will deliver a competitive advantage_the resources needed to deliver that competitive advantage will gradually require more ingenuity that financial resources_instead of slow, static "influencing", a proper mix-and-match-and-feedback cycle could actually generate or evolve trends_all that data and all those computing resources at those price levels (or less) will lower the entry cost.
+
+Also because most of the AI building bricks are actually available open source: the concept being, as in security, that open sourcing your algorithms makes easier to find some (or many) who could pinpoint flaws, or evolve them, generating therefore a "conceptual feed-back" that actually could save also the original creators years of experiments and millions spent in hardware or payroll time.
+
+Delivering innovations in months or weeks- and I am considering that the future of AI, in my view, is for now (and probably a couple of decades) really in "augmenting humans", not in "replacing humans" (except for repetitive activities with little variations that, frankly, you should ask yourself why were done by humans in the first place, at least over the last decade).
+
+And all this will converge into potential impacts not just on industrial policy development- but also on the concept of industrial policy.
+
+<b>Moving forward by looking backward.</b>
+
+To close this article, and pave the way for the next one...
+
+In my personal library, I have books from the 1980s on about industrial policy, fostering innovation and creativity, etc- including the obvious ones about how, say, Singapore or Israel, small countries, developed their own competitive edge.
+
+In the past, a country like Ireland could say that every decade they planned for the next decade.
+
+I wrote in a previous section "what is industrial policy?".
+
+We have actually to consider "what is corporate policy?".
+
+Again a practical example of alignment from my past.
+
+My first decision support systems model experience, to develop my skills on the tool, was actually to help complete an ongoing project, and to create the documentation.
+
+Resulted in around 800 pages, printed for around 60 companies- imagine the amount of paper, but it was 1988: I remember a manager who arrived each morning, looked at the stacks of paper, and loudly stated "information technology ("informatica" in Italian) will remove paper", made a smile, and moved on.
+
+Corporate choice had been to deploy models in each company, so that data could be collected across the board in a consistent way, to be then processed for group reporting.
+
+But designing central corporate reporting needs in a diverse conglomerate might result in a lack of local capabilities to comply.
+
+The catch? In Italy, back then, often the top management roles of smaller companies belonging to groups was akin to what is still done within the State: for pension benefit purposes, the last few years of career were done at the top of one of the companies, as a kind of "central representative".
+
+So, in some cases, some of those managers complained that, being a couple of years from retiring, they would not be interested in living those years in the trenches just to feed some reports to some central bureaucrats.
+
+And, actually, I found similar issues in various countries- and, as I wrote in previous articles, I heard that concept also by local authorities in Italy when complaining about the complexity of reporting or implementation requirements coming from Brussels, developed by consensus by teams of multi-disciplinary experts, for implementation by... small local authorities (in Italy as of 2021, after some pruning, there was slightly more than 7900), authorities that often had a skeleton or even shared staff.
+
+In a data-centric world, corporate policies should be developed integrating a perception of competencies available, and technology could "augment humans"- I think that AI should more support and complement humans, than strive to replace them.
+
+In a data-centric world with pervasive computing and data-generation, we should get used to what in the past called "three layers of timeline", i.e. always thinking short-, medium-, and long-term, with a blend and a continuous evolution and adaptation.
+
+Another point that COVID made obvious (again) is that we should not only consider a different concept of privacy and also legal consequences of data and actions if privacy does not exist anymore, but also a different concept of "jurisdiction" and "legality", and therefore also a more dynamic approach to law as a social construct (and not just contract law).
+
+But more about this in the next article, where I will discuss also other related themes:_how AI and Edge computing might influence industrial and corporate policy interact with human capital development_the concept of sustainability at an individual, social, and organizational level (not just for communication)_which new tools and organizational structures could be useful, looking forwardAnd now... have a nice day.

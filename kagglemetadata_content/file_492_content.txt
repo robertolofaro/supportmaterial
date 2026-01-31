@@ -1,0 +1,292 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20220923_article.png)</center>
+
+First and foremost: to understand the rationale of why I am sharing a potential project, [have a look at the first article in this series](index.php?page=489)
+
+If you read some of my previous articles e.g. within the [Rethinking Organizations](index.php?section=rethinking-organizations) section, you probably found more than a few articles about the impacts of COVID-19.
+
+One the of obvious impacts was on the supply chain.
+
+And a large company said that they identified both an issue and a solution.
+
+The <b>issue</b> was that, while in the past the focus was on contracts and "boundaries" with the direct suppliers (first tier), in order to cope with what I could describe as "unplanned fluctuations" within the supply chain, something different was needed.
+
+The source of the fluctuations? E.g. the sudden shutting down of factories or part of logistics due to a recurring outbreak that, in turns, pushed toward a new lockdown, disrupting locally the supply chain.
+
+Or any other combination of factors: in a complex supply chain, the more redundancy is removed, the more impact a local disruption can have: akin to the old concept of "butterfly effect".
+
+Moreover, the disruption could actually work as a wave compounding with other waves, generating oscillations whose impact fairly exceed the "weight" of the initial stimulus, and might continue well after the original stimulus has been fixed.
+
+Before discussing the solution identified by that company, and then go back to the title of this article, I would like to share a bit of my personal background in (alphabetically) logistics, procurement, supply chain.
+
+But, in the end, would be too long a digression- if you are curious, go to the "appendix" at the bottom.
+
+Few sections in this article that will be really short: consider it, as I discussed in the first article of this series, as a first step- the article will get further updates as the concept of the project will evolve:_ a proposed organizational change and its consequences_ "translating" concepts across domains_ my concept of ecosystem in a data-centric society_ the overall concept: Weltanschuung, systems, processes_ damned if you do, damned if you don't: potential local applications_ appendix: a personal digression on my background in this domain
+
+<b>a proposed organizational change and its consequences</b>
+
+As I outlined above, and shared in previous articles, what happened is that, with the continuous instability of the supply chain due to instantaneous lockdowns and related impacts, the old approach based on contracts, penalties etc did not deliver the same results as before.
+
+In a pre-COVID world, if you had shrinked down your portfolio of suppliers to be more "lean" (generally, remove waste, redundancies, etc), if you saw that a supplier was routinely almost missing the targets or generating other issues, probably would look for a replacement.
+
+In a COVID scenario (as we are not really "post-COVID", as shown by recent announces from China about further lockdowns), you would need to constantly monitor potential fluctuations, to adjust dynamically.
+
+And this, of course, would imply having the possibility to adjust, i.e. alternatives already identified and with enough available capacity to fill-in for those temporarily unavailable.
+
+Hence, the concept of relying on an additional level of transparency, potentially across the whole supply chain, also to avoid that a miscalculation or ignored signal down the supply chain might disrupt the whole.
+
+Which, in turn, implies asking your suppliers to disclose information that usually they would not share, e.g. tracing back all the sources, costs, KPIs, delivery performances, stock and parameters associated available, etc, if you want to really build a predictive model.
+
+Decades ago some of my first contacts with retail were on assortment planning- that was often meant not as "across the whole supply chain" but as: "how much of product A we need across this timeframe to be able to satisfy demand", and have contracts with suppliers including penalties etc to avoid the risk of being unable to satisfy that demand.
+
+In a more "steady" world, this was feasible.
+
+During a pandemic, would require becoming a bit more "operational", i.e. "data-centric", with continuous streams from the operational side being "digested" to support decision-making.
+
+Having a contract or an insurance would not avert a disaster, and would not risk losing market share because you become unable to deliver your products due, say, to a sudden lack of a specific type of computer chip.
+
+You could of course build models to forecast if a lockdown is going to happen- but, as described above, that would require having already alternative potential supplier capacity elsewhere, and, moreover, knowing "from where" each product, component, whatever is sourced, if you want to predict potential disruptions and need to reroute.
+
+Back to the start of this section: you would need more and more transparency.
+
+Remember also that, sometimes, the "veil of ignorance" within a supply chain represented by shielding your company from the knowledge of what your supply chain members were doing to provide you with the agreed supplies was a most convenient arrangement.
+
+E.g. look at something that I started quoting decades ago- the [OECD Guidelines to Multinational Enterprises (this is the link to the 2011 edition, the latest)](https://www.oecd.org/daf/inv/mne/48004323.pdf)
+
+<b>"translating" concepts across domains</b>
+
+If you read other articles on this website recently, you know that my usual routine after completing a mission is to follow some training.
+
+It might be "fixing" something I saw on the mission, expanding on that, checking if something I knew before requires some update/pruning, or add something new.
+
+Or also, plainly, expanding on my continuous learning, inspired by various sources.
+
+As an example, since 2008, I kept doing my own parallel projects, to keep alive and updating skills developed in past activities that I deemed useful to keep alive.
+
+Which, actually, first paid off on non-profit activities for a start-up, then also for customers who hired me to do something else, in Italy, since 2012, but since the first project in 2012 then asked also to do something that, nominally, would not be within the portfolio of experiences of somebody fit for the official role.
+
+This article, as the first one in this series, is about a project/product/service concept that in an ordinary world would try to explore.
+
+While in Italy, I prefer to simply share online the inception as well as its evolutions. Of course, if you are outside Italy and interested in implementing, let's talk if you think that I could be useful in helping to evolve or implement the concepts in this article.
+
+Otherwise, as I wrote in the first article of this series, you are free to implement as you see fit, if you find something interesting.
+
+Now, since mid-July I followed, at a somewhat hectic pace if you ignore my prior approach to learning.
+
+Unless I am required to follow a more traditional listen-study-test-pass approach, I prefer to study as a machine learning algorithm.
+
+Meaning: try, fail fast, and converge through repetition, as my approach allows to understand enough to be able to apply the concept under even significantly different starting conditions, while most following e.g. certification courses under the traditional approach are focused on "passing"- but then can at most repeat the patterns as taught, not evolve them, or integrate them with other patterns, as they acquire surface (the "pass" element) knowledge.
+
+This summer I went through "cycles" and courses on scrum project/product management, AI product management, ESGs and materiality, financing for start-ups, quantum, blockchain- most actually based on something that I did from as long as the late 1980s, on a "recurring" (i.e. once in a while) basis (you can have a look at [my CV page for a link to the courses' certificates, and see for yourself if some of those courses matter to you, too](https://robertolofaro.com/cv)). 
+
+Fascinating how things evolve in just few years (as my latest intensive learning round lasting few months was really a decade ago, in 2012-2013, before started [publishing books on change](https://robertolofaro.com/published)).
+
+Specifically on blockchain, AI, quantum, I am actually following more training and learning while working on concepts and mini-projects to test them.
+
+On blockchain, of course part of the material was about risks and storytelling about past scams on the cryptocurrency side.
+
+The most interesting ones, considering my background in both business number crunching and applied political science, were actually storytelling about the misdirection of the system, e.g. exploiting decision-making processes' gaps to obtain an unfair advantage.
+
+Frankly, few hundred thousand or few hundred million dollars side-effect were merely a trifle, if compared with similar scams described in book that I quoted in the past, from "Accounting for Growth" to "For Whom The Bell Tolls" (the latter about Llyods), both roughly well before the concept of a blockchain was discussed in a paper in 1991, and [much much longer before that famous paper by Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) that brought the bitcoin concept to life.
+
+Applying concepts across domains requires systemic thinking, something that, having started officially to work as a mainframe programmer in 1986 (albeit I had sold my first computer software before that), before moving onto something else, let me say that, despite all the brouhaha and lip service, frankly most of us in IT completely lack systemic thinking, as we develop a "tunnel vision" where the tool is the solution, and expertise on the tool replaces the need to talk with those who could contribute a different "angle" (and maybe challenge some of our assumptions).
+
+<b>my concept of ecosystem in a data-centric society</b>
+
+What is, in my view, a data-centric society? It is something more than just the concept that "data are everywhere".
+
+It implies also distributed data ownership, unique and individual control on confidentiality, integrity, and availability.
+
+In business, also in the early 1990s, when in Italy became gradually common to have electronic databases where data were linked in relations (relational database) with each other following a specific approach (the SQL that became ubiquitous and replaced specific custom access languages), data were often considered an "internal affair".
+
+An interesting concept from the bibliography of a course on blockchain that I followed was within an [article on governance](https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4):<i>
+"Complete contracts are impossible to execute, while incomplete contracts are expensive. The blockchain, though smart contracts, lowers the information costs and transactions costs associated with many incomplete contracts and so expands the scale and scope of economic activity that can be undertaken. It allows markets to operate where before only large firms could operate, and it allows business and markets to operate where before only government could operate.
+
+The precise details of how and when this will occur is a challenge and a problem for entrepreneurs to resolve. Currently, oracles provide a link between the algorithmic world of the blockchain and the real world, trusted entities that convert information into data that can be processed by a smart contract.
+
+The real gains to be made in the blockchain revolution, we suggest, are in developing better and more powerful oracles â converting incomplete contracts to contracts that are sufficiently complete to be written algorithmically and executed on the blockchain.
+
+The merchant revolution of the middle ages was made possible by the development of merchant courts â effectively trusted oracles â that allowed traders to enforce agreements privately. For blockchain, that revolution seems yet to come
+"
+</i>
+
+Generally, in business, when I was called to take over either negotiations or managing existing projects/accounts, my first request, if I was the manager, was to see the contracts.
+
+The concept within a smart contract that attracts me is its "atomic" (i.e. when it gets through, if it fails in a step, reverts to the pre-contract status).
+
+In business, if you start e.g. a fixed price contract (defining a timeline and price for a specific product to deliver), once started, you cannot simply revert to the prior state.
+
+Beside the time spent by people, also resources involved in the contract execution have been spent.
+
+Since 2012, I often heard in workshops in Italy presentations about "ecosystems" that were actually initiated by the leading customer, involving its suppliers and potentially key customers, but there was always an element of detachment from reality, as if either suppliers or their customers were "captive".
+
+While in mainly digital (e.g. banking) industries, where most flows are immaterial, there could be relatively easy fixes, and some are already in place, in physical industries it is relatively more complex, notably when your supplier maybe is much larger than most of its OEM customers that use whatever your supplier delivers to assemble new products.
+
+A further element in a data-centric society is of course that any actor involved generates and consumes data, and often data consumption is used to alter patterns, and generate new data and potentially new patterns.
+
+In a data-centric society, any pattern of interaction creates and consumes data, but also generates structural flows by the parties involved, e.g. sustainability cannot be anymore just a matter of "product lifecycle", but also of "pattern of use", and feed-back on the latter, to influence the "data supply chain" upstream.
+
+More than creating a proprietary ecosystem, or even a centralized ecosystem, the issue is something closer to a "data-political system", as shown by few early scams on the cryptocurrency side.
+
+Or: you need fractional, diffused ownership with mutual interest in keeping the system working, and ways to ensure its representativity and ability to sustain not just the leading actors, but the system long-term viability in and by itself.
+
+A paradox: this implies that it is probably going to be eventually less competitive, not necessarily more fair, but looking at a long-term sustainability.
+
+A good test starting point could be of course introducing tracking of resources consumption and interactions.
+
+In one of the courses I followed with SAP, on product compliance evolutions, blockchain was used as a way to track the mix of say CO2 contained into products- akin to the "social score" adopted by few governments (also if every journalist seems to remember just China), but for physical products.
+
+The concept is interesting: you cannot really know 100% of the history of the materials, but you can keep a "score" from a certain point, a "blend score" that consider negative the lack of information, positive the availability of information, and then weights the mix.
+
+<b>the overall concept: Weltanschauung, systems, processes</b>
+
+My proposal: reducing supply chain risk and transparency in a competitive ecosystem
+
+I would start from the second part.
+
+The concept presented by that company that enforced transparency, from the information discussed within the public webinars I attended, seemed akin to the "cost plus" approach e.g. in some government contracts in the USA.
+
+E.g. to develop a new system while developing new technologies and maybe even adding basic R&D (think about the Apollo program), you do not have off-the-shelf components and materials, you have to start from scratch.
+
+Hence, if you were to be asked to give a price, you would probably be unable, except pricing the time of your people involved and the use of your facilities, but everything else should be costs plus a kind of "fee" for the use of your aggregate IPR, and a way to cost the unknown, and then be able to see that unknown also as a "seed" for new revenue streams.
+
+Also, sometimes, in the past you made agreements with suppliers that you understood would be "stretched", but they accepted the risk and went beyond the requirements of the contract, to acquire your business, and then counting on future repeat business.
+
+If you were to have full transparency, you would be remove their competitive advantage, remove their external "veil of ignorance" on their strategy (exposing potentially to competitore), and generally create less flexible "complete" contracts, as described above.
+
+An incomplete contract is a potential liability, but in a competitive economy allows for flexibility on both sides that enable both parties, if managed properly, to evolve thanks to the existing "incomplete" contract.
+
+I saw some "complete" contract e.g. applied to professional services or IT, but, frankly, in many cases were applications of the concept of "forecasting the past": fine if you want to repeat, not if you want to evolve.
+
+Therefore, enforcing full transparency on the supply chain, also if this were to be only a kind of mono-directional disclosure (i.e. only suppliers vs. the leading customer), could generate conflicts of interest that would affect the viability of a long-term mutual evolution, and risk creating the conditions that I saw often from the 1980s, i.e. the customer ending up having to acquire the supplier.
+
+Using smart contracts, it could actually be feasible instead to create automatic alert systems that would share the KPIs across, but without having to disclose all your sub-supply chain, as it is feasible to register in a contract and blockchain not just the raw, source information, but also the resulting unique keys, and design smart contracts that are associated to a logic based on specific data provided by sources ("oracles") that are external to the contract, but could be mutually acknowledged as being reliable.
+
+The point is that, of course, this would not be a single, fully decentralized ledger, but more a ledger of ledgers, each constrained by its own circle of trust (e.g. on an industrial district or industry association level), to have a balance of duties and rights that is enforceable.
+
+This would also reduce the risk, as then each component ledger could generate its own "rules of engagement".
+
+The most critical element is the one I discussed above, i.e. the one exploited by scams in the past: but, on that side, probably IT service management experts, and blockchain experts (not myself), should linkup with experts in forensic accounting and political science.
+
+As I shared days ago with few friends, in the 1990s I remember in some email-based SIGs discussions about the "perfect voting system" that were initiated by engineers in a solo flight, without involving any political scientist.
+
+The net result? An utopia that sounded more like Chaplin's "Modern Times" than Moore's "Utopia", and completely ignored the human and social side.
+
+It made me think to some "disaster preparedness" manuals I saw once in a while in the past, that assumed that, as if by magic, if disaster were to happen, magically all the staff would behave as per procedure that was set within the manual, courtesy of the training that had followed years before when the manual had been prepared.
+
+As shown also in Italy by the COVID-19 crisis, where retirees facilities that included staff that had worked recently in pandemics e.g. in Africa or Asia immediately set up measures that saved lives, while in other cases, either the procedures did not exist, were obsolete, or simply were not immediately implemented.
+
+The upside of a blockchain-based approach involving this kind of "chain of smart contracts" would be, as within the article quote from Australia shared above, that probably each component could be "as complete as possible", and follow patterns of completeness that would be a "network of smart contracts" depending on conditions.
+
+Transparency? Would be needed, but would be in "circles", having the aim to reduce risk across the supply chain, while sharing only the information really needed.
+
+Why a blockchain and not a database? Probably would need a mix of both- but the blockchain element would be there to ensure that it is tampering proof, and that the "chain of events" is visible to everyone.
+
+Incidentally: considering the network of potential elements to associate, more than a "static" blockchain, it could be a matter of market design, where actually the "discovery" and "pattern identification" elements of AI and ML could be useful both in the actual initiation of new networks of contracts (changing the way procurement is done), and helping to anticipate potential frauds (called it "predictive forensics", as in "minority report", the movie, but based on data and analysis from automated tools, not on mumbu-jumbo "precogs").
+
+Furthermore, each sub-component could add more elements for compliance, e.g. the CO2 or raw material contents, and their lifecycle across the whole supply chain, potentially up to disposal and return to the supplier to the final customer for refitting, disassembling, update, etc. 
+
+<b>damned if you do, damned if you don't: potential local applications</b>
+ 
+As you probably know, I am currently in Turin, Italy.
+
+It is a former company town, automotive, which, in turn, generated plenty of ancillary services needed to support what was, once upon a time, the largest private company in Italy.
+
+So, Turin has also two of the largest banking foundations in Italy, created in the 1990s, which in turn massively invested in social and cultural project in Turin.
+
+Actually, the ["tech week"](https://italiantechweek.com/en) next week in Turin is a direct result of some of those social investments, to foster potentially a new development.
+
+Anyway, since the early 2000s, the FIAT group (Fabbrica Italiana Automobili Torino, based in the town that was then called the "European Detroit"), had many mutations.
+
+First, a structural shrinking down (that actually had started well before), reducing the "local footprint" from at least the 1980s (when I started working, my first project was at FIAT Auto, on procurement, and already back then the development of new plants was ongoing elsewhere)- e.g. one of the largest shopping malls if a factory that was praised long, long ago also by Le Corbusier (or so I was told at a tour).
+
+Then, in the early 2000s, a contraction also of the office space used.
+
+All this resulted in some massive industrial areas that were vacant- something that I discussed in previous articles.
+
+To make a long story short: one of the areas that have been at least since 2012 (but also before, from the book I read to "catch up" with what had happened while I was away from the late 1980s) the target of many renovation attempts (actually, "repurposing attempts" would be more appropriate) is called "Mirafiori" (if you search online "Mirafiori Torino" you will find plenty of articles).
+
+Recently, afte first integrating with Chrysler into FIAT-Chrysler that eventually became FCA, FCA was merged along with PSA into Stellantis.
+
+If the balance of power had previously shifted partially to the USA, due to structural and organizational reasons, now seems to be instead in France.
+
+So, few days ago was announced that actually Mirafiori, beside other things, could become the focus of a new "automotive circular economy" pole around a new business unit.
+
+I will let you read on [this website](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview) about the concept of "circular economy"- but, if you have a look at [my profile on the sustainability section](https://robertolofaro.com/cv), you can find certificates of various courses on the sustainability theme, including links to the actual (free) courses, e.g. some from SAP that include also the concepts and explanations about lifecycle product management.
+
+The idea has been welcomed, but for now most of the commentary seems to be focused on who presented and not what was presented.
+
+If you have huge spaces that are going to be focused on dismantling and extracting value from vehicles, both to recondition and put back on the road, or to simply recover reusable parts, this could be considered an interesting business per se.
+
+But consider that nearby there is also the Turin Polytechnic area devoted to design, and that in Turin there is also a pole on new energy (e.g. hydrogen), plus of course the logistics areas that used to be functional to the company town, while the banking industry locally is still over-developed vs. the current needs of a post-industrial town, while still (for now) retaining the aggregated "knowledge capital".
+
+Supplying the new "automotive circular economy" would require probably set up new training approaches, and a demand for new professional roles (think e.g. on-the-job training to learn what affects the capability to turn a car into a "circular object").
+
+Anyway, beside working for Stellantis, if managed properly, could generate a new revenue stream (hence, I think, the new business unit).
+
+Many years ago I shared articles where I wrote that both in banking and automotive I saw that standardization might results in a decoupling between providing what only established players could provided in terms of knowledge and backoffice systems and processes, and what nimbler providers could assemble as products and services (in banking, what now is called "fintech").
+
+Adding some levels of compliance (e.g. the proposed tool from SAP to track the CO2 and raw material/their sources across the lifecycle) could add further revenue streams.
+
+Imagine that a car has a usable life of 10 years, but imagine now that a "car ready for a circular economy" (e.g. to be used "pay-per-use") might be designed and build to last as an airplane, 40 years, allowing a design that aligns with customers' trends (the external and internal design) and systems' evolution (e.g. shifting from hybrid to electrical to fuel cells).
+
+Even staying just on current needs, "unbundling a car" to recover spare parts if the chassis is not usable anymore could benefit from starting then on the blockchain to track components, to support both managing the lifecycle, and track potential issues.
+
+As an example, I remember that, using a proprietary system, in mid-1990s, while in the USA with a friend, we had a rock crashing the radiator of his Japanese car.
+
+We went into an authorized car shop, and they immediately showed us on a screen that the car had been repaired using non-original parts, highlighting on the engine what had been replaced.
+
+Nowadays probably could even be feasible to have a digital twin of the car as a system, but for individual parts at least tracking the lifecycle via blockchain would enable to immediately e.g. manage recalls, notify when to bring in the car for replacement of a specific part, and allow for remote compliance check to automatically renew a certificate of "safe for street circulation".
+
+The interesting part is that introducing this business unit focused on automotive circular economy within the existing environment, but using the above mentioned approach to avoid a "proprietary lock-in" could actually enable generating new nimbler operators that would create new services and products complementary to the automotive circular economy business unit, reducing time-to-market via the standardization and transparency.
+
+Why am I using this example?
+
+For at least three reasons.
+
+First, I am in Turin.
+
+Second, whenever I think about a platform-like framework, I look for application to test the concept's viability and identify a path toward a Minimal Viable Product/Service.
+
+Third, and last but not least: most of the reactions I read on local newspapers to the announce of the new business unit sounded to me quite short-sighted.
+
+In a data-centric world, we need to think systemically- and it is not just business who needs to do so (otherwise, it is not "systemic"- look at my concept of "ecosystem" outlined above), but also politicians and, in Italy, trades unions, that seem to be still stuck in a mass-producing, lifelong one-job, attitude.
+
+It will be a long journey.
+
+As for the concept: I will actually use it to test some ideas and the knowledge update on some analysis frameworks.
+
+And will see also potential concepts in other industries I worked in.
+
+Stay tuned
+
+<b>Appendix: a personal digression on my background in this domain</b>
+
+My first official project for a large business was in automotive, 1986, on procurement- the central COBOL software components that was to receive all the information from other flows and "propose" invoices to be paid automatically.
+
+Nice concept but, as far as I know, it was in the end shelfware: a large company in the 1980s still had some leverage with suppliers, and removing that levarage at a time when (it was pre-Internet) companies in Italy were doing mainly babysteps on digital transformation (e.g. introducting EDI), it was probably too early.
+
+Then, next was a banking general ledger release- apparently completely different world, but, frankly, it was always about flows, albeit in this case mainly internal flows (e.g. between branches and with the central organization), except for the reporting side, and, of course, the front-end that exposed the system to users in branches.
+
+Then, in 1988, started a string of parallel thread across multiple industries, including logistics and financial/business controlling in that and other industries, for decision support systems.
+
+Seen from the planning side, the complexity of shuffling boxes around were reduced with something akin to the "batch normalization" I am recurrently re-reading about since 2020, when I started my path Machine Learning, courtesy of COVID-19.
+
+So, the idea generally is: if you have apple and pears and boxes thereof, toward the customer of course they make a difference, you have to manage the mix, but when you are seeing the big picture (e.g. financial), you have to harmonize.
+
+With revenue and direct cots, it is easy: say, x kg of apples time their price or cost, ditto for apples, and then sum the results, maybe having indicators based on their relative "weight".
+
+For example, you might be interested in changing the mix of you revenue, from 60% apples and 40% pears, to 50/50: what would be the impact?
+
+But while moving from A to B apples and pears might have a similar cost per kg per km, this could be different for other material (e.g. those that require specific treatment as are classified as "dangerous materials").
+
+If you travel often by plane, you know the drill: it is not just the weight, but also the nature of the material that defines its "travel-abilities".
+
+And while in the late 1980s had had already some retail customers, it was in the 1990s that had my direct experience on something similar, called "assortment planning": if a manufacturing or professional services company has a limited "mix" to juggle, within both food and non-food a retailer might have thousands of products from a variety of suppliers with a variety of organizational characteristics.
+
+From a purely IT perspective, automotive, banking, retail are all about flows, but with a different "mix" of what you want to know, monitor, focus on.
+
+Also, if you are in manufacturing, finance, distribution of products to consumers, your supply chain has different degrees of freedom and "weak links"- in part due to regulatory issues, in part due to the nature of the market and products.
+
+I also worked in other industries, but let's keep in mind those three, and think, from your own perspective (as a customer, service provider, or insider to the industry) what would be you perception of "critical information".
+
+Now, back to that organizational change that was implemented by a company post-COVID.

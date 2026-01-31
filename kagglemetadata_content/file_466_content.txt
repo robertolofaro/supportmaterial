@@ -1,0 +1,149 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20220105_article.png)</center>
+Today is not a working day in Italy, January 6th is a (formerly) religious holiday.
+So, I will share some... ideas about ideas.
+Therefore, do not expect the usual "half a mini-book" article- this will be closer to a collection of Post-It(tm).
+If I were still living in London, if I had the same weather, would be a day to spend reading and writing in Kew Gardens.
+Being in Turin, Italy, I went instead for the Parco del Valentino, a riverside part extending few miles along the itinerary of the Po river within Turin and the surrounding areas.
+My idea of "a relaxing day" is to "unplug" and try to connect dots, as usually it inspires further ideas.
+And, incidentally, this is how most of my books came about- an initial idea connected with others, spawning an outline and few "signposts" that then will eventually be filled with a journey connecting the signposts.
+Which does not exclude, of course, that such an exercise actually might jumpstart parallel paths- so, more articles, more books, and more projects.
+Then, obviously, the funny part is to keep in mind all that, and, when occasion (or time, or a sabbatical between activity, or new ideas and experiences connecting dots) arises, complete.
+That's what actually you would find on my hard-disks, files, etc: plenty of "roadmaps", with more details here and there, that eventually find their "home" in some action or writing.
+Now, what you will find in this article, to use the same approach I used in all the other articles since a while ago?_writing on what I will not be writing today_a long journey starts with the first step_going nuclear and going green?_it is easier to be a fence-sitting maximalist..._...than being a desk-sitting or hand-dirtying pragmatist_sustainability as a systemic effort_the ritualistic side of sustainability_sustainability continuity_the sum of it all
+<b>Writing on what I will not be writing today</b>
+Presidential elections are forthcoming in both Italy and France.
+Therefore, it would just about the right time to write about that subject but...
+... well, not in my book.
+Another subject that would be worth writing about now is, obviously, the PNRR (Piano Nazionale di Ripresa e Resilienza, the Italian National Plan of Recovery and Resilience, part of the overall Recovery and Resilience Facility / NextGenerationEU).
+Why now? Because Italy converted into law a bit of the implementation measures.
+But, as you can guess... no, I will not write about that either.
+No twos without threes, hence... the third, obvious element, linking really the first with the second, is the treaty between France and Italy.
+As I wrote not too long ago- I will write about it, but from an organizational development standpoint.
+Therefore... this too is a theme I will not write about.
+<b>A long journey starts with the first step</b>
+Now, it is obvious from the title that, in 2022, you cannot write about sustainability unless you write about UN SDGs.
+And, as I shared in previous articles, if you bothered to read the "staff report" from Brussels on at least a handful of the national Recovery and Resilience Plans, you will see a section "benchmarking" the country vs. the progress in implementing the UN SDGs.
+A couple of years back, in support to a book that I have been drafting since 2015 ([first official section in 2016, latest in 2018](index.php?section=expo2015diaries)), I started releasing datasets about the UN SDGs and related themes.
+[You access the full list of the dataset that I published on Kaggle since 2019 here](https://www.kaggle.com/robertolofaro/datasets).
+Anyway, to stay on focus, these are those that I selected:_[UN SDG - EU 27 sample datamart (subset for 7 KPIs)](https://www.kaggle.com/robertolofaro/sdgeu-datamart-sample)_[Selected Indicators from World Bank 2000-2019](https://www.kaggle.com/robertolofaro/selected-indicators-from-world-bank-20002019)_[EU 27 Energy sources - consumption 1990-2018](https://www.kaggle.com/robertolofaro/eu-27-energy-sources-consumption-19902018).
+There can be no transition without rethinking also our way to produce and consume energy- just search "energy" and "blockchain", and you will read horror statistics about how "mining" some cryptocurrencies consumes as much energy how n+1 fully-equipped hospitals.
+<b>Going nuclear and going green?</b>
+Over the last few days, there has been a lot of discussion about the proposal to consider "green" nuclear energy.
+Personally, I think the same that I wrote in my final exam in high school, when the theme was "nuclear energy" (and many misunderstood the title, and went down on nuclear weapons).
+It went well- I was a little bit deep on "collateral waste" of nuclear power plants- and was "lucky" enough that the member of the exam commission on physics had a relevant degree- so, instead of being revised by an Italian language professor, my Italian essay was revised by somebody with a degree in physics.
+My position? Unusual maybe in 1984, but I went on and on about something that later would have called "externalities" and "lifecycle costs".
+I already complained that national recovery and resilience plans are a little bit too "light" on the "next generation" part of NextGenerationEU.
+But my point in 1984, in my view, still holds true: _it is not just the cost to extract, refine, process, use_it is not just the cost to build and dismantle the power station after its lifecycle ends_it is not just the cost to process waste in a way that is relatively safe (e.g. vitrification, my choice in 1984)...
+... it is also that none of our societies has been around long enough to retain technological capabilities to the level required to monitor and control waste for as long as needed.
+So, if you want, it is more an "organizational culture and development" critique than a political or "technical" perspective.
+Something worth writing about more in the future.
+<b>It is easier to be a fence-sitting maximalist...</b>
+I already wrote that too many politicians seem to look at 2050 as if it were so far in the future as to mean "next generation".
+Well, next generation of elected officials, for those in my age range (mid-to-late fifties), maybe.
+But those born in 2022 and their children at least will have to deal through their lifetime with the choices that we are making now.
+So, "sustainability" cannot just be about postponing choices to the future, while trying to retain what we have now in terms of consumption of resources.
+Few months ago, the IFRS Foundation presented an ESG reporting proposal that was criticized by many as lacking in courage, e.g. on the linkup with UN SDGs.
+It might well be true- but, as I say to many, it is easy to be grand-standing while keeping humming through your life as if nothing had happened and resources were not scarce, lecturing others to do choices that you are not doing in your own life.
+Personally, long ago made some "technical" choices that I will avoid enumerating as it would be... grand-standing.
+Just an example: I do not change my devices just because are not trendy anymore- e.g. my current Android smartphone is an LG G6 from 2017- and, courtesy of lockdown, recovered some skills and, as it was "dead", did a bit of "interventions": its memory, sensors, camera are currently considered "average", but are good enough for my purposes for few years more, and I just had to replace few parts (screen included).
+And it still serves its purpose.
+The point? In 2017, was offered various option from my telco provider, and the difference was a couple of EUR more or less a month.
+I did a bit of checking of how my previous mobiles had evolved, and how expected devices and their use as "computer-in-your-pocket" would evolve.
+Hence, made a choice to pay the paltry sum of 8 EUR a month for a couple a years, plus a minimal advance, plus a little bit of expansion of my monthly standing fee- and never regretted the choice.
+Therefore, I really never entered into the mindset of those who stand in line to get the latest iPhone before anybody else... once a year (or every few months), not more than I could be expected to enter into the mindset of novaxers nogreenpass as those that I see each Sunday in Turin as a human snake outside chemists to get the tested for COVID-19 once every couple of days, only to avoid getting vaccinated.
+Still, I find quite puzzling whenever I hear maximilalists on "going green" talking while obviously showing all the signs of being "trendy"- from their choices of mobile phone, to choice of clothing, to choice of water canteen to avoid plastic bottles (just reuse it), etc.
+The funny side? At least in Italy, left centre and right many of those "maximalists" (whatever that meant for them), when confronted with choices, turned into self-justifying pragmatists- up to a recent stalwart of political trendiness, organizing flash mobs around, who eventually...
+...was caught driving in the wrong direction... so much for "holier than thou" attitudes.
+Generally, a little bit more of quality and little bit of trendiness deliver something that lasts longer.
+With both machines and people...
+So, before complaining that a step toward accounting for lifecycle of consumption of resources and sustainability is "too little, too late", look at what at your consumption model.
+<b>...than being a desk-sitting or hand-dirtying pragmatist</b>
+Incidentally: I wrote this already in the past, but despite what some would think, I beg to differ from the 1972 Club of Rome proposals contained within ["The limits to growth"](https://www.clubofrome.org/publication/the-limits-to-growth/).
+They presented themselves as the ultimate pragmatists but, frankly, their report still smells of "protecting the incumbent", as when, a decade ago, was told in Turin that "who is in, is in- there is nothing left for the others"- as if that had been a justification to avoid trying to change.
+I think that it is a matter of changing the development model and redistribution of resources under the new model, resources that might be different from those we were used to, altering therefore the balance.
+Hence, the digital and green transformation are something more than just a mere replacement- are an opportunity to alter the balance, and shift from a zero-sum game, to a game where a different kind of resources can provide more for many, not subtract from the few (us in rich countries) to give little to the many (most of the rest of the world).
+Recently, following other datasets I had published on Kaggle around the NextGenerationEU and PNRR themes, I was asked about the cost-benefit analysis of the Italian side of projects covered within the PNRR by the "green transition".
+I think that, beside the "technical" answer I gave (that such an analysis would require a team with proper set of operational skills and "technical" knowledge- I could coordinate a team, but not replace one just by myself), the truth is on a different plane of analysis.
+The question should probably be not "cost-benefit analysis" but "selection criteria" and "cui prodest".
+Meaning: the first question should be "why" each project has been selected.
+But asking yourself "why" whenever proposed something is considered "talking too direct" in Italy, where our tribal attitudes resulted in tinkering our way toward 3,000 bln (i.e. three millions of millions) of EUR in national debt, without that resulting in significant improvement of our "systemic competitiveness".
+Actually, we managed to expand debt while increasing delocalizations...
+But those grand-standing from their couch (or keyboard), including myself whenever I go for the "soundbite" without context, forget that writing about something is easier than implementing something.
+When implementing, you have to at least cope with three elements that you can safely ignore in your writing or lecturing:_unless you have other sources, you will have access to limited resources that you will have to decide how to allocate_implementing implies interacting with other parties that might have different optimal choices from those that you selected_the balance of power between the different parties might evolve across time, forcing a reconsideration of distribution.
+Hence, also the concept of "cost-benefits" is a relational and evolving concept, in business as well as in society.
+In business, there is the potential to actually retain a certain degree of control to keep "static" this assessment- the provider of the resources as the controlling party.
+In society, also if it were possible, would not necessarily be advisable, as it would negate the potential of a better future balance.
+<b>Sustainability as a systemic effort</b>
+In Italy, notably in Turin, my "talking straights" scribblings can turn you at best into the target of gossip, some stalking and mobbing, and occasional reprimands as "this is not the way to be doing it" (or even being treated as the "Village fool").
+Well, Turin is a 800,000 inhabitants village, and today purchased yet another book discussing how brilliant a future is potentially around the corner 
+This time, 2030, the target date for UN SDGs.
+Why did I buy the book, as I did others, if my presence in my birthplace (Turin) is an accident of Italian interferences while in Brussels, and apparently is undesired both by me and the locals?
+Because, in a way, being a foreigner in my birthplace since 2012 generated a pastime- insider enough to understand what a true foreigner would not (I was also interacting in local politics at an early age, well before started officially working in 1986), with experience in various social and business cultures not just in Italy, and having worked and lived on all the sides involved (including working both in the private sector and for government projects or initiatives that were to involve local authorities).
+So, escape from boredom turned into a kind of recovery of some of the paradigms that I had studied e.g. in the late 1970s when I digged through a book by Lucien Levy-Bruhl on the role of nature and the supernatural within what back then were called "primitive mindsets".
+I do not know if you know, but from my outsider perspective, Turin has a real obsession with the occult- from reminding everybody of being, along with Paris and Prague, a "magic" town, to all the "masks" on buildings (I found a funny book this morning, a journey through the masks of buildings in Turin), to having also until pre-COVID times a night exoteric tourist tour (I am not joking), to many events or organizations that include the number 3 or the number 7 or the number 12 or other exoterical amenities with a little bit more focus than the usual ritual that is common in many cultures.
+It can be entertaining, but not when also political choices seem to dig into it.
+The flipside? These "rituals" have, in and by itself, a "systemic" element, e.g. could open the door for what is needed to reposition for sustainability.
+<b>The ritualistic side of sustainability</b>
+I remember once a discussion about when "faith" turns into "ritualistic"- you faith is not really there, and you exceed in rituals to replace it.
+I saw also in the USA, when visiting with local friends and attending local sermons, some members of the flock who were almost exhibitionists in their "wearing the rituals on their sleeve"- which did not match their "praxis" (both practice and application of accepted practice).
+Just to avoid any misunderstanding: I am agnostic, albeit when I meet those trying to convert me (it happens often, because I am anyway interested in cultures, and religion is part of all the cultures I have been touch with), I say "atheist"- except with atheist (who, in my view, as actually faithful in their own perception of reality, and often are as zealot as any Zealot lifted from the page of the Bible).
+When I meet reasonable people, whatever their religion or lack thereof, I simply state: I am agnostic, which does not mean that I made no choice- simply, "insufficient data".
+As a "leaning machine", already as a teenager joked that one of my grudges it is that there is a bit of experience that I will be unable to share, i.e. what happens after the end...
+Still, also an agnostic or an atheist or a believer in any religion (or even just a member of a tribe) has "rituals".
+In reality, communication in a complex society is by necessity based on rituals, with their "unknown".
+Do you know how the food you eat and the clothes you wear and the car you drive are "build", from the ground up? 
+You have probably a "functional" knowledge that extends as far as you need or want, but claiming universal, in depth knowledge of everything you take for granted in your everyday life in a complex society is more a sign of delusion than of intelligence (technological or not, does not matter).
+I read a lot, worked in many environments and industries (have a look at a sample on [my CV](cv)), speak or read few languages...
+...but while on some subjects I might appear as an "expert" to those from outside that domain, I know my limits, and I routinely identify those to rely on for details on a long list of social and business domains, albeit, temporarily or as a long-term choice, since forever I dig deeper into domains whenever needed.
+I am not alone- I met others who do as me.
+Do you want to understand better about something? You probably read a book.
+Those like me, start maybe with an article, or a quote within a movie, and then dig into dozens of sources around the same theme or domain, before start inserting their knowledge into their everyday communication and activities.
+Yes, there are also "learning rituals".
+When you get into a "ritualistic" element, it identifies a "structural" relationship with everything else- at least, that was, beside my readings long ago (not just anthropologists), my experience when dealing with corporate cultures.
+Including in negotiations: many forget that, unless you have already established a "cultural channel", any change involves at least two different parties (beside the "agents of change" or catalysts)- the original culture, and the one want to create.
+In many cases, multiple cultures are involved, and you have to identify a common understanding if you want to proceed.
+As I said in the past to many customers, not even buying up a company ensures that the acquiring company culture will be the one adopted.
+Jumping into history: look at how the Roman Empire, before it was even an empire, evolved through interaction with all the lands (and populations) absorbed.
+Sustainability is not an absolute but made of choices.
+And each set of choices so selected includes a vast array of rituals.
+In a complex society, there is bound to be a layering of knowledge about the rituals: you might know how the "switch the light" ritual works, but somebody else needs to know what makes what you do possible- e.g. by knowing how to ensure that electricity availability is continuous enough to allow you to "switch the light" at will.
+Call me a village fool, if you want, but it is not just Italy that needs to start talking straight- I do not know if I would go as far as President Macron said in an interview ("emmerder" those refusing vaccination), but probably, considering how deep in crisis our "tinkering to ensure 100% consensus" brought us, we have to learn again to "agree to disagree".
+Otherwise, we will get more "mob ruling" trumping reality and reason.
+When wars or social unrest happen, people suddenly discover how much what they took for granted was based upon a balance of components that was so easy to unsettle- but that does not need to be.
+<b>Sustainability continuity</b>
+Anybody who worked with me in projects or activities involving organizational change eventually heard me talk of "degrees of freedom" and "weak link of of the chain".
+Decades ago, in Italy we tried to import "lean" and "Just-in-time" approaches, as this would both avoid entagling resources long before their were needed, and allow even smaller organizations to compete with larger ones.
+In the end, in a country where historically we had limited natural resources (for the old "fossil fuels" energy model), the markets for capitals were usually really just associated with debt toward your bank.
+Undercapitalization was a chronic disease, also because owners, instead of reinvesting in their own activities, used dividends to diversify- including in small businesses.
+Introducing "just-in-time" reduced the need to e.g. keep spare parts or "inputs" to your production cycle for longer then needed.
+But this implied also having a "systemic" ability to sustain such a model- considering both providers of inputs (suppliers) and consumers of inputs (e.g. manufacturers of goods to be sold to final customers)- and all connecting them.
+It took only few transportation strikes here and there to see how, in Italy, we had superimposed a model ("just-in-time") without considering the constraints of our infrastructure.
+Few days, and some factories had to stop production.
+Nowadays, would probably take less than that- just look at what is happening post-Brexit with supply chains (including scarcely available skills that require years to develop, e.g. doctors and nurses).
+When talking about sustainability, many politicians sound like "Pollyanna meets the spinster": advertise sustainability, but while you would expect them to be light on specifics (it is up to the expert), unfortunately they are sometimes really detailed on minutiae, but lack the understanding of what you would expect from a politician, i.e. the overall context and picture, and a decent roadmap.
+I think that they should take back charge of the overall picture, and, if unable to understand it, at least steer the roadmap target model, to ensure that they look at sustainability from a systemic perspective affecting the overall context, not just what some peddlers of services and products propose.
+Unfortunately, this could mean some really short political careers.
+As I posted on Facebook few days ago:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20220105_image.jpg)</center>.
+Meaning: in Italy, many talks as if they were a Cincinnatus reborn- called to power, solved a crisis, and returned to the land.
+In reality, many I am currently reading of as potential candidates for the highest office in the country carry lot of baggage- and, frankly, except few, from most I would not be surprised if they were to be less than "super partes" (or able to forgive past issues with counterparts).
+Probably I am (as some said quite often) too "American"- but I think that the continuity of that office should be above the temporary holder.
+Or: you might have friends and foes before taking office, but now more than at anytime since the 1950s, you should turn into an unknown.
+In Italy, the holder of the office of President, once the term ends, becomes a "lifetime Member of the Senate"- but, frankly, that too, while it makes sense (to avoid dispersing the collective knowledge and experience acquired in those seven years in office), once in a while we should accept, you guess, somebody saying "term done, new times, a fresh start- do not want to shadow over my successor"- and see some of those resign to that too.
+Well, in a country where routinely end-of-career politicians get paid "sinecure" here or there (in my view, "paid" implies formally unpaid, but with an expense account, office, secretary, etc), a tough call.
+Initiators are not necessarily popular- actually, often they are quite unpopular, as "you need to break some eggs to make an omelette", and only those "selling the omelette", maybe just adding some spices or toppings, are those gaining popularity.
+Anyway, as I was told recently, "beggars cannot be choosers"- which, in Turin, actually was not true: I remember, when we still had the Italian Lira, how some beggars started refusing coins and wanted just paper...
+...jokes aside: if a politician is first aiming for a long-term career, and then for what (s)he wants to do with it, (s)he is necessarily confirming that "beggars cannot be choosers"- staying popular is more important that making an impact, and in time of crisis (as now), floating becomes more attractive than steering or even just describe options as they are.
+The continuity of sustainability should instead be a continuous cycle of adjustments and choices, sometimes even reverting prior choices that were optimal when made, and become even a roadblock when evolving the model of sustainability.
+Nothing that really "buys" popularity...
+<b>The sum of it all</b>
+So, what is all the above, what is described in the previous sections?
+A collection of Post-It around the theme "sustainability".
+I am afraid that probably my concept of "sustainability" is actually a meta-concept: the sustainability of the different dimensions of sustainability.
+It is not just the economy- it is also the social cohesion, as well as the interaction with other "systems".
+As I wrote in previous articles, this "contextual sustainability" of sustainability turns into a matter closer to the role of celestial bodies in altering the space they dwell in (or travel through).
+The "mass" of each dimension has impacts on the others.
+I will try to summarize What you read in the previous sections with a single word for each:_CONTEXT writing on what I will not be writing today_ACTION a long journey starts with the first step_COHERENCE going nuclear and going green?_FOCUS it is easier to be a fence-sitting maximalist..._BURROWING...than being a desk-sitting or hand-dirtying pragmatist_NETWORKING sustainability as a systemic effort_SKIN-DEEP the ritualistic side of sustainability_RESILIENCE sustainability continuity
+I think that this originally planned "short" collection of ideas is already getting too long- so, time to hand it all over to you.
+And, of course, think about it for the next steps.
+Meanwhile... you will probably read this article on Friday 2022-01-07 (or later): hence, for my first readers...
+...enjoy your week-end!

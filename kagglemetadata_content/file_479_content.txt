@@ -1,0 +1,106 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20220524_article.png)</center>
+Let's be serious about European Union integration and its future
+I know- few days ago wrote [<em>In preparation of my next article, let's relaunch one from December 2021</em>](index.php?page=463). 
+The title of that article? <em>"Moving ahead- the narrative of political change #Italy #France #EU #integration"</em>.
+I already expressed in previous articles my (more or less) reasoned criticism of the European obsession to keep using the "Monnet Method" also in the XXI century.
+In a way, this short article, is a continuation of [<em>"A #Monnet moment? Different times require different tools #NextGenerationEU #crises #war #energy #democracy"</em>](index.php?page=478).
+Each section of this article will start with "Let's be serious about":_data: a public service announce_the recovery and resilience facility_expanding the European Union_considering our strategic needs.
+But, as you can see, it is also an introduction to the next article: for the time being, what I had planned as a "simple" organizational overview of the treaties that France signed with Germany and Italy is taking on the shape of yet another mini-book- hence, will probably have to go the typical authors' way on some business magazines.
+Or: share an article that contains the key ideas of the book, and then release the book (that often has been prepared before the article).
+In that case, frankly, as a bookworm, I must say that often the article on, say, HBR, was much more interesting than the book- that contained too much "filler".
+<b>Let's be serious data: a public service announce</b>
+As you probably know, years ago as part of my routine update underwent some training in R offered on Coursera by Johns Hopkins (a series of courses), plus read few books in libraries and elsewhere, etc.
+Eventually, I applied that knowledge to release a first "data-based app": initially using the first release, in October 2019, of the ECB Speeches CSV, to compute a "search by tag cloud" that I had already shared since the previous summary with few contacts on this website (it is the one listed as "now offline").
+But also the [web app on ECB Speeches](https://robertolofaro.com/ECBSpeech), which eventually expanded also to interviews, press conferences, ECB Blog posts, ECB Podcasts, was, as other "search" facilities on this website, a tool developed for personal purposes (to support my writings and research) made publicly available.
+Gradually, shifted my publication cycle, up to making both the update and the release of the companion Kaggle word frequency dataset a weekly affair (the link is within the web app itself).
+Last week, instead of the Monday 16th publication, decided to focus on designing few changes to make the web app useful also for casual users, e.g. something similar to a weekly.
+It still retains the "search by cloud" feature, but the welcome page (and associated information pages) now include also a "panel" listing the items published since the latest weekly web app update- so, a quick entry across the various categories that you can find on the ECB Media web pages.
+Hope that it will be useful- will release again before the start of the working day on Monday (generally already on Sunday).
+Anyway, during the COVID-19 lockdowns, as I was stuck and anyway forced to find a way to occupy my time (no mission then), decided, beside my usual updates on SAP and related, and generally industry/business 4.0, to add a long list of courses and material on Machine Learning- a further update on my early 1980s - early 1990s dabbling with PROLOG, Decision Support Systems, Expert Systems, that then since the early 1990s applied in my projects to cover management reporting as well as business presentations (a bit of number crunching helps in making complex things look as simple as possible).
+I am still internalizing some concepts and doing some further experiments, but you probably perceived some of the side-effects on the various publications and datasets I released on UN SDGs (initially with R, then with Python), NextGenerationEU, its Italian counterpart PNRR, and some "law analysis" and other material (including charts on the evolution of the Italian national debt).
+I plan to roll-out during the summer some further changes to both the ECB Speeches and other web apps: you can see their list [here](https://robertolofaro.com/datasets), and have a hint of what is forthcoming [by browsing by past (business) publications](https://robertolofaro.com/published) (some of those mini-books can be read online, e.g. [the series on a fictional compliance programme and associated book #QuPlan - A Quantum of Planning](https://robertolofaro.com/quplan)).
+Talking about compliance, I plan to add further material on [GDPR-related publications](https://robertolofaro.com/gdpr) and UN SDGs and associated corporate reporting: stay tuned- in a data-based society, the concept of "data democracy" and "sustainability" are closely related.
+And now, back to the article.
+<b>Let's be serious about the recovery and resilience facility</b>
+I will start with a disclosure: I too, have political ideas and inclinations.
+And, as I wrote often in previous articles, I assume that in the XXI century boundaries between business and politics are even more blurred than were when the [East India Company](https://en.wikipedia.org/wiki/East_India_Company) was created, over 400 years ago. 
+Nonetheless, there are still specifically "political" and "business" purposes that collide more than converge.
+If you followed this site since late spring / early summer 2020, when first the NextGenerationEU was announced, you know that my focus is on how little the "next generation" (to say nothing about the EU) part is covered by many national recovery and resilience plans (in Italian, PNRR).
+Yes, EU Member States delivered their own proposed allocation approach for their quota of the EU funding.
+What many, notably in  Italy, forget is that, in reality, those funds are de facto a loan.
+And, for Italy, most of the "grant" part is also a loan- as each Member State has to contribute.
+The upside for Italy is that, due to the side-effects of the first round of the COVID epidemic and considerations about its pre-existing economic conditions (two decades of decline), my country moved from being a "net contributor" (i.e. giving to the EU more than receives from the EU), to becoming a "net receiver" (i.e. the other way around).
+With a catch: the release of those hundreds of billions of EUR is linked to missions, objectives, measures, etc.
+Therefore, some in Italy should remember that, before going creative about spending.
+There is also a political catch: each country had to propose a plan.
+So, whenever I hear politicians in Italy (including from the Government, or Italians in Brussels, such as former Presidente del Consiglio Gentiloni) utter the usual mantra "it is Brussels that asks/commands us", now complemented by "if we do not achieve the targets required by Brussels, we will lose the funds", I start laughing.
+It is an old habit: if you cannot get reforms done in Rome by Government and Parliament working in sync, get them diverted through Brussels, and then, suddenly, those that some asked for turn into a "mandate from Brussels".
+Another bit of PNRR folklore in Italy is that we have local politicians that, since the first "tranche" of funds  was released, are getting increasingly creative in proposing re-routing PNRR funds.
+Re-routing? Toward something that has nothing to do with_<b>recovery</b>, i.e. getting back the country on sound (economic, social) footing ([see a sample from the UN SDGs](https://www.kaggle.com/datasets/robertolofaro/sdgeu-datamart-sample))_<b>resilience</b>, i.e. improving the capability to adapt and evolve  (I know, it is a narrow definition, but allow me)_<b>next generation</b>, i.e. preparing  capabilities sustainable long-term.
+As an example, earlier this week read an article that found puzzling: a local (elected) politician in Turin stating that PNRR funding will be used to get back in town companies that previously had moved to Russia and Ukraine.
+Now, why would a company move from Italy to Russia or Ukraine?
+Maybe to develop the local market.
+And maybe to lower costs (even to produce there, and then  export back to the EU).
+Neither causes would make Turin, Italy more appealing (a strategic, long-term choice) just due to some PNRR funding (a one-off event).
+Also because in Italy we have higher labour, energy, compliance costs.
+And whatever business plan justified relocation to either Russia or Ukraine as a long-term choice would not be invalidated by a one-off injection of funds.
+Better to say, as I <a href"https://www.linkedin.com/posts/robertolofaro_non-c-%C3%A8-bisogno-di-dare-incentivi-alle-aziende-activity-6934470668054876161-V2gn?utm_source=linkedin_share&utm_medium=member_desktop_web">wrote yesterday on Linkedin</a> to those willing to invest, as a "nudge", but always thinking about long-term effects.
+Do you think that need to provide incentives to attract companies? 
+Then, think outside the usual box: this lack of creativity (except in creative accounting) is probably why one of the most read articles on this website is about... giving Italy an industrial policy that would last more than one electoral cycle: [<em>Per una politica industriale che veda oltre le prossime elezioni #industry40 #GDPR #cybersecurity / For an industrial policy that survives election cycles #industry40 #GDPR #cybersecurity</em>](index.php?page=138).
+So, instead of having a quick-but-short-lived-win by dumping money into corporate refugees from Russia and Ukraine that were before delocalizing there as they assumed that made more sense to be there than here, better to build a mix.
+Not "ad personam" funding, but "ad sistema": to build, sustain, perpetuate an ecosystem that is perceived attractive not by those within (as often happens in Turin or even Rome), but by those outside.
+Avoiding to create yet another cathedral in the desert, or further start-up accelerators, incubators, support structures, etc that are often completely staffed by locals.
+Despite what many said about "globalization in the COVID era", from the data I saw a potential for a different, even more integrated across model, not a return to the old sovereign state.
+The invasion of Ukraine, and its impacts on the Silkroad as well as potential tension in the Asia-Pacific region might require a further morphing into something different.
+Italian politicians since at least the beginning of this century unfortunately got the habit to attract with great fanfare with extravagant contracts and plenting of funding those who, in the end, disappear once the funding is gone.
+It is what in Italy we called "provincialismo"- e.g. being on the province of the Roman Empire might inspire those better off in the provinces and willing to be acknowledged as being part of the centre...
+... to overplay their hand to show-off and become "part of it".
+Ending up only looking as somebody overspending.
+Which, since the early XXI century, is what Italy repeatedly did while trying to attract foreign companies and convince them to invest in Italy.
+Often ending up presenting as "sustainable" (i.e. long-term) what was really short, short term (not even an electoral cycle, in many cases, before any deal went South, and the State, at the national or local level, was left picking up the debris).
+<b>Let's be serious about expanding the European Union</b>
+After the demise of the Soviet Union, gradually former COMECON countries became Members of the European Union.
+I remember those times, starting of course with 1989 and going on and on.
+And I remember reading in Prague and elsewhere, in the early 1990s, or talking about it in the late 1990s, how the expectations were different.
+Probably, the best was a quip in a short article: we from the West visited Eastern Europe, and were presented a kind of "shopping list" about rebuilding their economies and countries after decades in the Soviet Bloc.
+Our reaction? "We gave you freedom to choose". Their reaction? "You won the war".
+And, as any occupying winner, we were expected to rebuild.
+Well, obviously it did go another way.
+I remember when I visited Malta in late January 2007, and on the taxi ride from the airport to my hotel saw many building sites with cranes milling around.
+Asked the driver, and he told me: we are spending all the money that Europe gave us, before they change their mind.
+An attitude that heard more than once, around Europe.
+And also our American partner often acted as we were the rebuilders after being a "partner in  war"- in a string of wars since the Fall of the Berlin Wall: the Americans (or those that they support) flatten, we rebuild.
+Some wars were in Europe, some in the Middle East, and now in  Ukraine.
+I know that many are supporting the idea a fast-track European Union Membership for Ukraine, notably some across "The  Pond".
+But, frankly, I think that any expansion should learn from the previous rounds, including "massaging the numbers" (national statistics) that some did in order to formally comply.
+So, personally, while I am, as I was e.g. for Syria, all for giving humanitarian support and also asylum rights to expats from Ukraine while the invasion is going on...
+... I am closer to France's and Germany's position than the one so popular right now with  politicians in Rome, when it comes to giving full Member State status in either the European Union or NATO to Ukraine (and also to other countries in the area).
+As I wrote when the secretary of the Partito Democratico in Italy proposed to create a European confederation with 36 Member States, which was supposed to be an "external ring" including the 27 EU Member States plus other European states...
+... the decisional processes  within the European  Union are quite complex, with multiple rings of decision-making.
+And, having been the Dean of Sciences Po and the former President of the Council of Ministers of Italy, you would expect him to know better.
+So, introducing an external ring with looser rules where decision-makers are part also of the inner ring (were stricter rules apply) is the best way to generate chaos, or another Visegrad Group- i.e. what a UK diplomats, while I was living in Brussels, presented as the ("Yes, Minister"-style) strategic approach of UK within the EU.
+Or: generate multiple decision-making sub-groupings, each one focused on a specific theme, so that no single majority ever existed across the board.
+Then, be part of each one of them, so that UK could leverage and project more than its relative weight on the EU-wide decision-making on themes that really mattered to UKAnd this, of course, is reason enough to consider sustainability (i.e. long-term structural stability) as a higher-level priority.
+Long ago, I remember a then-future Member State complaining that there were over 200,000 pages of various forms of laws, regulations, etc  to converge on.
+After Brexit, after Vizegrad, after the voices from Hungary and Poland that contradicted what we considered "normal" within the EU, any further expansion should consider these elements.
+Otherwise...
+... we would just do what many outside the European Union looked forward to.
+<b>Let's be serious about considering our strategic needs</b>
+What does the European Union stand for?
+No, it is not a way to rephrase the famous joke by Kissinger about who would be answering the phone when he called Europe.
+And it is not to rephrase what former President Obama once reportedly said, that Europe created no issue, but helped him to solve none.
+It is something else.
+Outside Europe, we have friends, supposed friends, and competitors.
+But many of the former and the latter often converge on being interested in having the European Union and its highly interconnected infrastructure and single market evolving into something.
+Not as a political entity, but a nice, rich, continuous market and partner whenever there are investments to be done.
+As the European Union and its precursor institutions might have (and have had) a democratic deficit, but most certainly are (and were) good at joining efforts to fund basic research.
+Disclosure: since I lived in Brussels, I was part of e-practice, a social network created by the European Commission to connect those who had been involved, or would like be involved, in projects funded by European Union funding, to ensure knowledge retention, well before evolved into being part of a social network stretching beyond those boundaries.
+So, also if eventually I never worked on a project funded by the European Union, I still kept informed, in the past even attended workshops and events in Brussels, and keep reading material.
+I still remember decades ago how R&D initiatives such as Sematech in the USA were nowhere as open to non-local partners how instead we European elected (or were forced to elect) to open up to e.g. USA companies.
+If you look at smart cities and other ecosystems that could actually act as real-life, full-time incubators generating the motivation for new products and services attuned with a data-centric society, you will see how many are within the European Union.
+Hence, others outside the European Union might be interested in us keeping up our role as a kind of "living laboratory", but, as shown by recent issues even before the invasion of Ukraine, the European Union is a weak economic giants that might be easily affected by external pressures.
+Also, our economy is probably one of the most globally integrated (in different parts and form), but also one of the most "outsourced".
+From technology to natural resources, much of our collective well-being in Europe is a function of the willingness of external parties to let us go on.
+So, as I wrote at the beginning of this section, what does the European Union stand for?
+I will let you time to think for yourself, and discuss into the next article was I see in those two treaties: the letter, the potential, the risks, and, of course, the opportunities.
+Enjoy the week.

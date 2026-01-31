@@ -1,0 +1,235 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20220923_article.png)</center>
+
+This article is the fifth of a new series on the national elections 2022 in Italy
+
+It will be both in English and Italian, and the English version is at the bottom.
+
+Related items: [a mini-web app to search within the text of the political platform of the (for now) three main coalitions and political parties](searchpolitiche2022.php) and [the word-frequency part of the mini-webapp, as a Kaggle dataset, with the title "Italian National Elections 2022 - political cloud"](https://www.kaggle.com/datasets/robertolofaro/italian-national-elections-2022-political-cloud)
+
+This preamble will be repeated in each article.
+
+Come promesso durante la settimana trascorsa dal precedente articolo in questa serie, questo articolo di chiusura cerca di visualizzare le informazioni.
+
+Tanto per cominciare, diciamo che dall'inizio della campagna elettorale ho provato un esperimento.
+
+In passato, per precedenti elezioni, raccoglievo notizie dai quotidiani, ed interviste ovunque apparissero, per farmi un'idea (per scelta, tranne quando devo accompagnare qualcuno, dal mio rientro forzoso in Italia nel 2012 non partecipo ad eventi di partito, qualunque esso sia- solo eventi multi-partito).
+
+Ma, guardando al materiale, notavo una cosa alla McLuhan: il mezzo era il messaggio.
+
+Ovviamente: ogni quotidiano ha la sua audience.
+
+Dato che nel luglio 2021 ho dovuto tornare ad esser basato a Torino temporaneamente per vincoli contrattuali, in attesa o di tornarmene tra i monti se riuscissi ad avere una missione realmente in remoto e non "in reperibilit&agrave; fisica", o di spostarmi direttamente altrove, ho continuato a seguire gli eventi a e da Torino.
+
+Trasformazioni interessanti, soprattutto per chi, pur essendo nato qui, ci ha vissuto poco diciamo dal 1985 (quando iniziai il servizio di leva), ed &egrave; tornato "spot" per progetti ed altro, ben prima di spostarmi all'estero in alcuni paesi.
+
+L'ultima parte mi ha consentito ovviamente di astrarmi da alcuni elementi culturali del territorio, una "visione a tunnel" che tende a proiettare qualunque cosa nasca qui come se fosse nuova, universale, e, "a prescindere", come avrebbe detto Tot&ograve;, innovativa, anzi, "paradigm shifting".
+
+In queste elezioni ho quindi deciso di considerare Torino un "laboratorio delle idee", e concentrare la mia raccolta di notizie su due quotidiani nazionali ma anche locali, dello stesso editore che &egrave; associato alla "company town".
+
+In tal modo, ho potuto avere un "campione di notizie" visto sempre attraverso lo stesso prisma.
+
+I quotidiani? La Stampa di Torino e La Repubblica (sia nazionale, sia di Torino).
+
+In realt&agrave;, visto che le prime settimane di campagna elettorale erano di posizionamento e con il circo a tre piste delle alleanze, avevo deciso di concentrarmi sul periodo dall'8 settembre al 21 settembre.
+
+Riguardando per&ograve; con occhi "stranieri" i quotidiani, e non solo quelli "prescelti", ho notato che in Italia in realt&agrave; anche nel 2022 sono una parte politica, non un mero neutrale osservatore.
+
+Ho deciso quindi di concentrarmi solo sulle interviste, dato che probabilmente, pur con i vincoli della audience target, &egrave; pi&ugrave; probabile che i politici intervistati possano dire la loro.
+
+Nel primo articolo di questa serie avevo pubblicato la "tag cloud" dei programmi elettorali delle tre coalizioni principali: cinquestelle, centrodestra, centrosinistra.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220816_programmi_m5s-dx-pd.png)</center>
+
+Per le interviste nel periodo, ho quindi scelto di concentrare sull'evoluzione dei messaggi di queste tre parti in gioco.
+
+Le interviste pubblicate con questi "parametri"? Ben 34, [e ieri ho pubblicato su Kaggle un dataset che le elenca, ed indica la lunghezza di ognuna](https://www.kaggle.com/datasets/robertolofaro/politiche-2022-34-interviews-2022090820220921), in termini di "battute" (come si diceva quando c'erano le macchine da scrivere).
+
+La sintesi delle interviste &egrave; in questa tag cloud:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudinterviews.png)</center>
+
+Come potete vedere, il "convitato di pietra" di ogni intervista &egrave; Giorgia Meloni.
+
+La parte curiosa?
+
+Ho detto 34 interviste, ma non ho detto la distribuzione:_ 22 centro-sinistra_ 10 centro-destra_ 2 cinquestelle.
+
+Ho volutamente fermato la raccolta al 21 settembre, dato che mi aspettavo che ieri ed oggi ci sarebbe stato un "ribilanciamento".
+
+Per&ograve; se su due quotidiani hai un totale di 4 interviste in un giorno massimo, con una oscillazione tra zero e due-tre, i messaggi possono passare.
+
+Se invece "last minute" hai un catalogo di interviste, diventa un bazaar, con un impatto diverso.
+
+Viste le tre categorie, quali sono le "sintesi"?
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudcentrosx.png)Centro-sinistra, 22 interviste</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudcentrodx.png)Centro-destra, 10 interviste</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudm5s.png)Cinquestelle, 2 interviste</center>
+
+E se volete vedere l'evoluzione dei messaggi nel tempo, questo breve "film" vi mostra la rotazione:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudday.gif)</center>
+
+Ora, condivisi i dati, passiamo al resto di questo breve articolo.
+
+A cosa mi &egrave; servito fare ieri un tour de force per rileggermi tutte e 34 le interviste in un colpo solo?
+
+Come scritto spesso, sono in favore del proporzionale, soprattutto dopo la riduzione del numero di parlamentari.
+
+Si parla come al solito spesso di riforme: ma, francamente, se gi&agrave; nel passato la bicamerale ha prodotto poco, la campagna ha mostrato cosa potrebbe succedere dopo.
+
+In precedenti articoli avevo scritto che mi aspettavo che qualunque "vincitore" di queste elezioni sarebbe andato incontro ad evoluzioni sia interne alla propria coalizione, sia esterne, e tutto questo mentre avrebbe dovuto gestire crisi attuali (COVID, guerra, impatti su import/export/energia), sia le evoluzioni (PNRR, trasformazione digitale, trasformazione green, trasformazione di conseguenza dell'assetto istituzionale e "culturale").
+
+Altro che "leader solo al comando", concetto che francamente [trovo ridicolo da sempre](index.php?page=125): come dico spesso, lo Stato non &egrave; una drogheria con due garzoni, richiede processi diversi di gestione, ed ha tempi di reazione che male si adeguano all'avanspettacolo del decisore che, novello Cesare (ma senza le legioni), viene, guarda, vince.
+
+Per me, l'unico risultato di questa ultima rilettura, dopo aver letto i programmi elettorali, &egrave; stato, da bipartisan, convincermi di due cose:_ la chiamata alle urne &egrave; diventata una chiamata alle armi intrisa di partigianeria stile Montecchi e Capuleti- niente di razionale o idealistico, solo continuit&agrave; fine a se stessa (ed alle sedie)_ i vincoli operativi che chiunque vinca sono dettati non solo dalla spada di Damocle del nostro debito pubblico, ma anche dai vincoli strutturali_ un Parlamento eletto con questo livello di relazioni, che gi&agrave; in campagna erano intrise di personalismi francamente da liceali o da "guerra dei bottoni", non &egrave; da bicamerale.
+
+Se davvero si vorranno fare riforme istituzionali all'altezza delle sfide di cui sopra e di quelle attese, probabilmente serve una elezione monotematica, ovvero una nuova Costituente, concentrata su un solo obiettivo, e, per quanto umanamente possibile, "isolata" dalle tensione che ci saranno nel Parlamento con le sue maggioranze che, qualunque ne siano le dimensioni, avranno lotte interne ed esterne per il riposizionamento.
+
+In pratica, una nuova Costituente sarebbe un "disaccoppiamento" tra destini del Governo e destini del Paese, dato che il primo ha un orizzonte temporale definito (a chiunque vinca, auguro di restare a Palazzo Chigi cinque anni, ma pi&ugrave; probabile una frazione di quel tempo), mentre le riforme, dopo i continui e ripetuti "pateracchi" dell'ultimo ventennio, dovrebbero esser fatte pensando ad un orizzonte a lungo termine.
+
+Politicamente, io vengo da sinistra e sono formalmente a favore di un federalismo con sussidiariet&agrave; dal 1982, quando per la prima volta mi avvicinai al Movimento Federalista Europeo, da cui poi mi allontanai in seguito per vari motivi, pur restando "in area" (entrambe).
+
+Per&ograve; il federalismo basato sui mini-stati regionali che prontamente si son creati le loro burocrazie e dinastie politiche non sono l'espressione della "sussidiariet&agrave;" che cercavo (e non ero il solo).
+
+L'idea non dovrebbe esser quella di tornare al tempo dei ducati, principati, e staterelli che hanno caratterizzato la penisola italica per secoli- come quando, oltre un decennio fa, ci fu il ridicolo tentativo di creare delle Sviluppo Italia regionali, la cui utilit&agrave; principale fu di consentire ad imprese interessate ad investire da qualche parte di usare le nostre offerte per alzare il prezzo altrove, o attirare investimenti stile "passata la festa, gabbato lo santo"- che non han creato volano di sviluppo sui territori interessati.
+
+Senza andare all'estremo opposto, la divisione tripartita dell'Italia che propose Miglio, e che per&ograve; ogni tanto ritorna in forma diversa.
+
+Come elettore, restando bipartisan, ho visto dall'intervista di Veltroni che non sono il solo a vedere di nuovo queste elezioni come un ritorno al 1983 (lui parlava di "spirito del 1982")- posso esser d'accordo sulla diagnosi, ma non sulla cura, visti i risultati di quell' "inciucio" (e non parlo di spaghetti pecorino e parmigiano come faceva lui nell'intervista), che poi risult&ograve;, per me, nella stagione di [Chiesa](https://it.wikipedia.org/wiki/Mario_Chiesa_(politico)) e [Greganti](https://it.wikipedia.org/wiki/Primo_Greganti), per non parlare sempre e solo di DC.
+
+Resto sempre dell'idea che serva un'opposizione costruttiva ma vigile, per&ograve; in questa campagna, vista la legge elettorale e la riduzione del numero di parlamentari, l'impressione che se ne deriva &egrave; che la logica sia pi&ugrave; quella di una corsa alle scialuppe del Titanic, senza esclusione di colpi bassi per ridurre i voti degli avversari interni ed esterni: con il Rosatellum, anche questo aiuta a portar a casa il risultato, avendo meno "posti" da vincere.
+
+Di conseguenza, con buona pace di chi dice che fa scelte di continuit&agrave;, o di chi dice che sceglie il cambiamento, o di chi invita al voto utile, i voti che stanno raccogliendo tutti sono in prevalenza "di pancia": prova ne &egrave; anche il modo in cui le candidature sono state gestite e definite.
+
+Come se gli elettori non contassero.
+
+Resto quindi neutrale, non solo bipartisan, come altri che han rifiutato le candidature "saltando il turno", e spero che alle prossime elezioni (o a quelle per la nuova Costituente) vi siano candidati votabili per il loro percorso e volont&agrave; di fare (che poi si deve adeguare alle realt&agrave; della politica operativa, non di quella declamata), non per la loro voglia di apparire, riuscire, o tenersi attaccata la sedia.
+
+A risentirci alla prossima settimana, dopo i risultati.
+
+<b>ENGLISH VERSION</b>
+
+This time, the English version will be somewhat shorter and different from the Italian version, as I would like to focus on this side of the relevant elements.
+
+So, I will start from the end of the Italian version, as I assume that this is what my foreign readers would like to read first.
+
+I am firmly bipartisan and support a directly proportional representation within the Italian Parliament.
+
+In these elections, where the electoral law was designed for a completely different structural context (i.e. a larger Parliament), frankly seen from outside all the political parties seem to be "running for the safeboats", and nobody is stooping too low to undermine potential competitors.
+
+Italian way, after the elections, there will be only saints, and often we had in the past only winners.
+
+I already shared in the past a quip from Churchill related to the WWII side-effects (the 45 million fascists before, 45 million antifascist after, yet the statistical data did not show 90 million Italians around), but yesterday a friend reminded another good one.
+
+That we, Italians, lose wars as if they were soccer matches, and lose soccer matches as if they were wars.
+
+Elections are tribalized even more than anything else.
+
+Politically, since the early 1980s I am for a recognition of the natural inclination of Italians to stick to their territory, through a form of federalism focused on subsidiarity, not to create mini-states and mini-potentates and yet another layer of political dynasties.
+
+At the national level, I would like to see a perception of the "commons", the overall State- I am tired and sick of reading of politicians cattle-prodding elected Members of the Parliament to "extract value" for a specific location, damned be the overall general interest.
+
+Due to the energy crises, there is a lot of "Trojan horses" going around, e.g. interested parties advocating for coal- or nuclear-power stations, also pushing through media the usual round of "the people asks for it": funny, how when choices have to be made, usually technical and macroeconomic "reasons" are presented as reasons to refuse even to consider within the debate, while, instead, "the silent majority" is invoked whenever vested interests are pushing to reverse existing legislation.
+
+Reminds me of either Graham Greene's "Our Man in Havana" or Le Carr&eacute;'s "Tailor of Panama".
+
+I still believe that we need an opposition that is able to contribute, i.e. consider each initiative per se and for its impact on the overall well-being of the socio-economic structural stability, not just for partisan scoring points, as if it were... a soccer match.
+
+In previous elections, I had collected material from different newspapers: articles, interviews, etc.
+
+It is a side-effect of my background: born in Turin in 1965, frankly from 1985 almost never lived here, and lived in few countries, until I was forced to return in 2012.
+
+Hence, I am a "resident foreigner in my own land"- therefore, upon my return, did dig into local libraries to read about business, politics, social and organizational Italian history: the record is public (at least for books that I took home), so anybody can check it (maybe I will eventually share the main one online).
+
+Anyway, there are other dozens of books that I read directly into libraries, in between consulting missions on the territory, or during my spare time.
+
+Therefore, my perception of the local reality is somewhat different, and I am continuously puzzled by political operatives that make statements that show a really superficial understanding of what they are actually heading into.
+
+Do not worry: being bipartisan, talking straight, having lived too long abroad could make you useful to many, but tolerable to none, in Italy, and most certainly not eligible.
+
+Hence, while I turned down political contacts from both the right, left, centre in the past, I will still maybe join multi-party initiatives, as when a local organization proposed to hold a workshop on the Euro (stay in, change, go out), preparation that I abandoned when, eventually, it had become too one-sided.
+
+As I am not interested in being a fig-leaf to cover somebody else's choices.
+
+In these elections, frankly, as I wrote above, the only item I see left outside from decisions are voters: the way the candidates lists were built in many cases, as well as the kind of campaign assuming that it is a matter of Lego bricks shuffling with plenty of platitudes is alienating.
+
+Yes, many will vote for X as they always have voted X; others will vote Y as after voting for decades for X saw that X delivered only to its own "insiders", and are tired of parachuted candidates; others will even vote just to give one up the party that they assume betrayed them.
+
+Except few cases, I still have to hear positive reasons to vote from voters I heard, and, even when I hear them, it is akin to a "vote on faith"- funny when they criticize specific points proposed by another political party/coalition, ignoring that... is also within the political platform of their own.
+
+So, to complete this long preamble (that in the Italian version is spread across, but really at the bottom): I will skip this election as I did skip the previous one, looking forward next time to see candidates that ask to vote for something or using their past history as a reason to vote them.
+
+Knowing fairly well that, of course, a political platform is a declaration of intent: in a representative democracy, political platforms have then to cope with reality and consensus building within the Parliament, as well as evolution of reality- and that is the up side of representative democracies.
+
+Anyway, as promised last week, this article shares visual information.
+
+In previous elections, as hinted at above, collected information from various sources- but, frankly, both the politicians and the "medium" used altered the message.
+
+As I am in Turin, decided this time to identify:_ a timeframe within the electoral campaign (from September 8th to September 21st)_ newpapers to monitor to have an editorial continuity_ a specific format that could actually convey more or less unfiltered messages, i.e. interviews.
+
+The newspapers I selected are both national and local, and published from the same group, specifically selected La Stampa of Turin, and Repubblica (national and Turin edition).
+
+Then, extracted the interviews published within that range of dates, but within the framework of the three coalitions whose political platform had shared at the beginning of this series (Cinquestelle, Centre-right, Centre-left):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220816_programmi_m5s-dx-pd.png)</center>
+
+The results? 34 interviews, and [published yesterday on Kaggle a dataset listing who, what, when, where, and the number of characters of each interview](https://www.kaggle.com/datasets/robertolofaro/politiche-2022-34-interviews-2022090820220921).
+
+This is the overall tag cloud:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudinterviews.png)</center>
+
+As you can see, Giorgia Meloni, the de-facto leading candidate of the centre-right coalition, is really "Georgia on my mind"- also when none of her political partners are the subject of the interview, she is always quoted.
+
+The puzzling element?
+
+I wrote 34 interviews, but I did not share the distribution:_ 22 centre-left_ 10 centre-right_ 2 cinquestelle.
+
+The reason for selecting that timefram? [September 8th has a special value in Italy](https://it.wikipedia.org/wiki/Proclama_Badoglio_dell%278_settembre_1943), due to WWII, but I stopped at September 21st, as generally in Italy in the last few days it turns into a "rebalancing" of interviews.
+
+While reading a couple a day on each newspaper could still deliver a message, the value of an interview in a newspaper full of interviews is frankly much lower, in terms of impacts to potential voters.
+
+Considering the three coalitions, what are their own tag clouds?
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudcentrosx.png)Centre-left, 22 interviews</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudcentrodx.png)Centre-right, 10 interviews</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudm5s.png)Cinquestelle, 2 interviews</center>
+
+This is a short gif movie showing the evolution of key concepts across time (note: the number and spread across of the interviews in each day is different):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/politiche2022_20220922_cloudday.gif)</center>
+
+Personally, re-reading yesterday all the 34 interviews in a single day pushed my choice, but also reinforced some concepts: Italy will have to cope with current crises and three long-term transformation that require a cultural paradigm shift (digital transformation, green transformation, and associated socio-economic transformations).
+
+Our political campaign seems inspired by either Titanic (run for the safeboat- less seats in Parliament, jump over alternatives to get your seat) and Highlander (there will be only one).
+
+Well, all the current crises and those long-term transformations do not demand a single, demi-god leader, but something more.
+
+Remember the quip from Churchill about war and soccer in Italy: elections in Italy are war, but Italian style.
+
+After the "war", we will have to do something to make it all stick together (also ignoring the staggering debt, we have enough critical structural issues in our society and economy, and too many tribes vying for control to really have a concept of the "commons").
+
+Considering these elections, where some recovered messages apparently from the messages used by DC to fight the PCI (Italian Communist Party) in the late 1940s, I doubt that the resulting Parliament will have the "spirit" or at least ["entente cordiale"](https://en.wikipedia.org/wiki/Entente_Cordiale) needed to develop a consensus on reforms.
+
+Reason: the first quarrelous election after a shrinking of the number of seats within the Parliament implies that many of those elected will have a first duty: turn it into a "tenure track", by building an electoral base.
+
+Hence, for reforms a joint initiative would be needed, akin to the "spirit" (or even Weltanschauung) that we had at the end of WWII, i.e. having a Costituente elected with just one purpose: to build a shared boat.
+
+I think that "decoupling" the destiny of the next Government from those of the structural redefinition of the "social contract" of Italy would deliver better results.
+
+I wish that, no matter who wins, will stay on for a full term (5 years).
+
+But, frankly, any coalition right now seems ready for internecine battles after the elections, to decide who will be the next leader.
+
+Political scoring points are not the best way to achieve shared and sustainable consensus.
+
+So, let's see what happens.
+
+Personally, as an independent observer, I will keep having a bipartisan interest on the overall structure, not a specific tribe.
+
+Stay tuned!

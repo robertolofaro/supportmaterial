@@ -1,0 +1,267 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20220908_article.png)</center>
+
+Slightly more than one year ago (late August 2021), published an article on [End of a week of focus on #PNRR #NextGenerationEU and #transparency](index.php?page=457).
+
+I was supposed to deliver few weeks ago a dataset that instead released yesterday ([Recovery and Resilience Facility - Baseline KPIs](https://www.kaggle.com/datasets/robertolofaro/recovery-and-resilience-facility-baseline-kpis)), a dataset expanding on something already did in previous articles for Italy, Germany, France, Spain- i.e. comparing their national recovery and resilience plan, as seen from the staff in Brussels when revising national plans.
+
+So, why is this article within the "rethinking" side instead of "data democracy", as the article quoted above?
+
+First, the sections:_ why NextGenerationEU is an interesting organizational change case_ number crunching as a political act (even in corporations)_ why harmonization is better than assimilation, and "how to"_ spreading cultures, reforming organizations, and... Zen
+
+Will try (actually, struggle) to keep this article short- as will expand on these themes and others within a forthcoming book, the one on [commons](index.php?section=expo2015diaries) that has been ongoing since 2015 (and has been actually a prime motivator in my knowledge updates since 2012- refocused boredom for a lame duck, let's call it- something that already produce over [a dozen of minibooks, in large part available also for free onine](https://robertolofaro.com/published)).
+
+Incidentally: instead, tomorrow will publish another article in English and Italian within the [Politiche 2022](index.php?page=484) series, as the Italian national elections will be held on September 25th and, no matter who wins, will unleash a number of changes.
+
+<b>Why NextGenerationEU is an interesting organizational change case</b>
+
+First, a short personal digression.
+
+If you have a look at [my CV](https://robertolofaro.com/cv), you will see that is an a-typical consultant's CV.
+
+Most consultants are "linear", while instead I hopped around- basically, from 1990, whenever some former customer or former colleague or former partner contacted me with an opportunity, I only looked at its feasibility and, for those in business, if it made economic sense (and I was misled more than once- hiding data or withholding payments seems a national sport in Italy).
+
+The reason is simple: I went into business coming from kid's memories of a family business (production advertisement articles mainly for insurance companies and their agents), plus political activity number crunching information from Brussels etc.
+
+Being a bookworm, my idea was actually to start something in IT and consulting, and then decide where to settle- in a company, not as a consultant.
+
+And, as I wrote in the past, I had already sold (badly- did not know its value) my first computer program while I was still in high school, and discovered while at the university that I was decent also at creatig small products to support others' needs, giving advice and, before that, also selling and "finding the key that opens the wallet" for consumers (specifically on selling used books and selling computer games and associated)- all this before 1985.
+
+Then, in the Army, discoverd that my political and organizational instincts and experience could be useful also in large bureaucracies (would be too much of a digression here- wrote about that in the past), and that hierarchies are relative.
+
+While still in the Army, started sending letters for "the day after"- and while I was offered a substantial salary and first job few levels up what would be my first job, I actually was captured by the library and project library of Andersen in Turin, and their story about how many people were working on keeping that "knowledge fire" (my definition- they talked about something else) alive, nearby Chicago.
+
+So, I went in not for the best offer, but for the one that offered almost 50% less and, moreover, would actually turn into reality only if I passed a subsidized course in Milan for a couple of months on COBOL and Warnier, i.e. dropping a certainty for an opportunity: and all because of a library and the way the company was investing in what now would call "knowledge".
+
+The idea was to stay few years, maybe raise a bit, and then settle in a company: if I were good (there are few dimensions to that, not just technical skills), I would raise to a level were I could again crunch numbers at the level I saw in politics at 17 (as the political leaders were from a research center belonging to a bank, and mainly at the political science faculty in Turin)- meaning: senior management.
+
+Otherwise? Plenty of books to read and things to do, learn, share.
+
+Hence, in my first project, I spent up to 50% of my salary to take initially a taxi everyday back from work, as my overtime made it impossible to catch the last bus, and was living outside town with my parents- but the ensuing projects were at least taking care also of that side.
+
+Probably, it was that fire that brought me to actually working in so many industries interacting with senior management so early (at 22 first in banking, then 23 across a few)- I was a knowlege sponge and, despite my peaks of 18 hours a day, I spent spare and travel time to learn business-wise what could be useful on each assignment.
+
+Well, if you had access to my CV sending after this first four years, you would see that I mainly sent my CV to final companies, not to consultancies- also if then I had to settle within the latter- not that I did not try times and again, e.g. when relocating abroad first to London and then to Brussels, to settle in companies.
+
+So, when I work on an assignment, I was often told that (also if I knew that it was a short-term assignment) I did not behave as a consultant, and even suppliers more than once in various countries assumed that I were an employee or manager of my customer, not just on a temporary mission.
+
+And this implies that, whenever starting a mission, a first step is to understand the culture of the environment, to become "embedded"- also if many from 2012, when I had to return to Italy, many would complain that I do not "bond" locally- but I m not the one that removed te reason to even consider to settle in my birthplace.
+
+A second step, when I still worked interacting at the Cxx-level, undisclosed since 2012 but that was explicit before I relocated to Brussels, was to ask who should be "groomed into the role", or taking over the resulting products, services, organizational change, etc.
+
+And this both for corporate customers and start-ups (including non-profit).
+
+While I am quite strict in documenting my work, I think that in most cases you need "on-the-job" training, to convey the "rationale" (and build up Pavlovian reflexes): but I wrote about that approach in few of the books available at the link listed above.
+
+So, my perception of the NextGenerationEU, after reading the first draft proposal, was that it was akin to many systemic change initiatives (large and small, "with and without technology", as my Linkedin motto goes) I worked on for my customers since the late 1980s.
+
+While reviewing the 25 national plans to prepare that dataset (as for two countries, Hungary and Netherlands, the Staff review document was not linked to the [Recovery and Resilience table listing Member States](https://ec.europa.eu/info/business-economy-euro/recovery-coronavirus/recovery-and-resilience-facility_en), when I downloaded the files on 2022-09-06), the slight differences within the content of each document reminded me of something I saw, on the corporate side, since the late 1980s.
+
+As I wrote years ago, during the lockdown decided to do something that I had had on my "to do list" for a while, i.e. updating my 1980s-to-early-1990s AI knowledge (in turn started by my 1970s interest in how the brain works at the "electrical" and physiological level- a bored Panda approach to learning).
+
+Yes, in 2020 I had decades of experience on business number crunching ([as outlined in a book on "relevant data" that you can read online](https://robertolofaro.com/relevantdata), or even the one on [GDPR](https://robertolofaro.com/gdpr), the European Data Privacy Regulation</a> tha is becoming the de-facto "litmus test" for any data initiative).
+
+The issue was: beside public documents for part of the updates (e.g. timeseries using SEC reporting or the equivalent in European Stock and Securities Exchanges), to avoid interfering with my business activities or risking to discuss confidential information, looked for something that was across multiple "corporate cultures".
+
+It had started in 2019, when I used my newly acquired R skills (I wanted to see if I could replicate with R what in the late 1980s was doing with DSS and in the 1990s with business intelligence and similar platforms), and was lucky enough to have to make that choice at the time when the European Central Bank decided to release a CSV containing the speeches, that eventually they updated on a monthly basis ([I released back then a tag-cloud based search including anything published on the media website of the ECB, and kept updating, eventually on a weekly basis](https://robertolofaro.com/ECBSpeech)).
+
+During the lockdown, as I was more on Machine Learning and, of course, Python, after following a string of courses on Kaggle and then reading a bunch of books, a new initiative was announced that was "fit for purpose", i.e. asking all the EU Member States to propose a national recovery and resilience plan to apportion funding.
+
+The interesting element was a couple of issues that had found already in the 1980s and 1990s in management reporting initiatives.
+
+If you had been in Brussels when some of the more recent Member States had their "round" at the 6-month "head of Europe" seat, you would have seen that actually smaller countries either "imported" or "took on temporary loan" bureaucrats resident in Brussels that either worked or had worked for other countries.
+
+In some cases, this was publicly announced, in other cases, some of my pub connections in Brussels simply announced that they were about to take over a "gig" (or even starting a new "staying") for another Member State.
+
+So, decided that, as it will run untii 2026, while the side-effects (including altering decision-making processes) will last much longer, it would make sense to use the NextGenerationEU and specifically its Recovery and Resilience Facility as a kind of "virtual corporate budgeting process" to monitor, study, report.
+
+In Italian we say "far le nozze con i fichi secchi"- i.e. setting up a marriage celebration (quite an event in Italy) while lacking the budget.
+
+And as you can read on Italian newspapers, and articles I shared since 2007 (most now offline, but you can read here many from 2012 on, both articles and books), in Italy our attitude to change often reminds me that approach.
+
+In my view and experience, a change has some key issues:_ you need the budget for the change, but also for the "removal" of what pre-exists, plus to "keep the change alive" for a while after_ often you are adding workload to existing people, including those who know that will be replaced, to make the change_ unless you manage expectations and communicate, often the change that starts is not the one delivered_ in the latter case, frankly changes delivered risk turning into "face-saving" budget-wasting activities, that increase resistance toward further changes.
+
+Yes, I am politically a reformist, which implies that I never believed in "big bang" initiatives in either business or society or politics, unless you want purposedfully to disrupt.
+
+As an example, as I wrote in the past, in Italy I think that "pinpointed cuts" in staff often are simply not feasible, as the informal organizations is kept together by a web of mutual obligations- hence, in Italy, we often end up in "linear cuts" (e.g. cutting 10% 0r 20% or whole layers), and then... rebuild.
+
+NextGenerationEU initial presentation was frankly quite transparent about this being both a temporary measure and a "test case" of a "big bang" organizational change on the way the EU both shares resources and burdens, as well as "rules making".
+
+The dataset that I released has within the title "baseline": why?
+
+<b>Number crunching as a political act (even in corporations)</b>
+
+I always suggest to read a small book in French that I purchased and read (more than once) by chance years ago, ["Que faire de Carl Schmitt?"](index.php?page=158), and, while we are talking about books in French, skipping the usual ADT's "Democracy in America" (that you can find online in various versions), another one that I liked is Manin's ["Manin - Principes du gouvernement repr&eacute;sentatif"](index.php?page=299).
+
+If you are talking about using data generated by those that are close to the source, you are talking about [data democracy](index.php?section=data-democracy), and you better consider the same issues that have been discussed at least since the XVIII (sorry for those who think that technology and science can be "neutral").
+
+I know that those offering the dream of "Big Data" here and there hint that this would remove any bias in data selection leading to choices ignoring critical information.
+
+Well, a pile of trash might hide a diamond, but it is doubtful that that pile has been developed by chance.
+
+It is akin to the bias issue in AI models that use as reference data a set of information that is predominantly tailores to representing a specific social and demographic structure (the one of USA): choosing that one as your "baseline" to compare other countries and cultures would be quite risky.
+
+If you extend that to stretching across time, it is even worse: you use assumption on the past and project your current concept of "ordinary" on what worked under different assumptions.
+
+Caesar right now would spend most of his time at the International Crime Court: so, we study his successes, but not his methods to achieve those successes.
+
+In companies, since the 1980s, even in the most "technical" management reporting or KPI initiative, I saw often the sign of choices that were undisclosed.
+
+Personally, as I said whenever I was involved in number crunching for business customers aiming to introduce changes (does not matter at which level), my concept was always to keep track both of positive and negative choices.
+
+As the context could and should change.
+
+Another general said that plans do not survive the contact with the enemy/reality, and that it is the planning exercise that matters.
+
+So, the NextGenerationEU was based on the specific context at the time, and the documents I summarized (better, extracted data from) are not from 2022.
+
+What happened in 2022? The invasion of Ukraine, and the ensuing unleashing of various consequences:
+_ European Union countries "discovered" that, removing sourcing from Russia, they had to look on the Southern shore of the Mediterranean, despite its instability, to reconsider the interactions with Turkey, and to consider sourcing from the various -stan in former USSR
+_ the connection via land with China, that already started to work up to Spain and back for trade, becomes at best iffy (see e.g. [this article, just to quote a European source](https://link.springer.com/article/10.1057/s41291-022-00195-1))
+_ we discovered how our political integration dream was first and foremost an economic dream, not an ethical one (to lift a quote from "The West Wing"), and therefore showed some internal tensions that were tapered over during the Kohl's "drang nach Osten" that extended the EU without really working on culture change
+_ we discovered that we are still incapable of making our own strategic choices- if either our ally USA or China or Russia sneeze, we suddenly start doing what we do best, in absence of a structural integration: hold conferences, workshops, issue papers, etc.
+
+If wars were to be won with printed papers, the European Union would be the leading power by far: our lack of unity on strategic choices requires a large quantity of "integrative communication".
+
+The interesting part within Brussels' staff reviews of the national recovery and resilience plans is, by comparing them, to see how, in part, even the assessment evolved structurally a bit.
+
+If you consider the short list above, plus obviously the set of options that each one produces, with a different blend of interests between Member States in each option, the "integrative effort" of the NextGenerationEU and resulting measures is worth doing.
+
+If anything, to increase our structural resilience: yes, [the Monnet](index.php?page=478) side of European Union integration, again: give us a crisis, we jump forward.
+
+I will not repeat what I wrote in previous articles on the subject, but the point is the same: consider the organizational evolution of the European Union.
+
+As shown by the [Visegrad group](https://en.wikipedia.org/wiki/Visegr%C3%A1d_Group), the "Monnet solution" might push forward, but does it deliver a sustainable new steady state, i.e., in our times, universally also if grudgingly accepted?
+
+Selecting which "numbers" to consider while choosing to allocate the shared resources was certainly a political choice- as it is a political choice within organizations (also if many managers balk at hearing "political" when referring to corporate choices, then "corporate politics" is often visible e.g. in investment or succession choices).
+
+So, it is not the point about "number crunching" as a "neutral" stance: which number to crunch, and how to consider the mix of results in terms of structural preferences is a choice.
+
+Anyway, both in corporations and within the EU (and also internally in each Member State), there is a further element: the "how" is not neutral.
+
+<b>Why harmonization is better than assimilation, and "how to"</b>
+
+Post BREXIT, there were plenty of articles also in UK dissecting how e.g. some locations voted overwhelmingly for BREXIT- only to discover that, while they were politically insignificant in terms of national politics, the funding that they had been used to were actually provided via the various initiatives that try to keep "our European culture alive", and provides funding to small villages, be them on the beachside or in the mountains.
+
+I have to quality "politically insignificant": say- would you rather provide 20mln GBP to a small village with few hundred voters, or to a working class neighborhood in London with thousands of (potential) voters?
+
+With scarce resources, you make choices.
+
+In companies, this might imply that e.g. you choose (as I saw in the past- but you can read an old book about "creative accounting", "Accounting for Growth"- links within my review of [For Whom The Bell Tolls: The Scandalous Inside Story Of The Lloyd's Crisis](ndex.php?page=175)) to "prop up" branches or whole markets.
+
+In countries, you might e.g. reroute some public services toward areas with high unemployment, as it happened routinely in Italy (I remember decades ago an article about the itinerary across the country of a letter sent from town A to town B or even the same town).
+
+It seems a distortion of market economy, but think about it: it is actually something that, applied on other domains, might make sense.
+
+Imagine that you are a huge corporation with 10,000 employees at your central offices, and maybe a few hundreds focused just on designing and processing reporting to filter up for top management what happens on the ground across all the worldwide organization.
+
+The catch? Now less common than in the past, those few hundreds assume that the local capabilities are either an "average" or follow a specific model.
+
+Enter the matrix organization while cutting down costs.
+
+In some units, you could have one employee covering a dozen of roles- hence, the time per unit of reporting required might exceed the time available.
+
+As I wrote few lines above, in most business organizations, there are ways and means to overcome that (e.g. delegating to tools collection and pre-processing of information, equalizing by asking each unit just to approve, not to collect or enter the information).
+
+But that is possible in most organizations simply because you can define not just "reporting standards" (such as the templates provided by Brussels to fill in the information for NextGenerationEU and associated measures), but also the toolset that takes care of everything that can be delegated to tools.
+
+Shift to the European integration side, as I wrote in the past, in the early 2000s I checked the feasibility of a service to help local authorities under a continuous stream of Brussels-produced documents to actually use them, also if they did not have the mix of skills that was blatantly behind the teams producing those documents.
+
+There too there has been some evolution, but it is more difficult to apply the level of integration discussed for reporting in corporate organizations.
+
+And, actually, there is a basic question: in a data-centric society, does it even make sense (yes, I know, the first time in this article that I quote the concept that appears in almost every other article on this website)?
+
+<b>Why harmonization is better than assimilation, and "how to"</b>
+
+We talk about fostering a culture of innovation.
+
+But, as I discussed above, smaller Member States had routinely to get staffing help from other Member States whenever it was "their turn at the European helm".
+
+And, in the corporate world, since the 1980s I saw many initiatives "drowning in corporate forms".
+
+The reason? Even for small, incremental innovations delivered by internal staff who sees the opportunity while doing their daily business activities, in the past there was so much paperwork (just barely disguised in Excel spreadsheets with dozens of sheets to fill), that sometimes those having the idea shelved it, despite its potential that they clearly saw.
+
+This is even more complex when you assume innovations that instead extend beyond the mere incremental introduction of improvements.
+
+While having a look at the 25 staff reports, it was interesting (and, frankly, frustrating) to see how many hints here and there were of items that, just considering my limited experience of working and living in few European countries (not just European Union Member States), or discussing with contacts from other countries, cuold make sense to subject to something akin to what I saw in mid-1980s at Andersen as "spinned" from St Charles.
+
+No, I did not read and od not plan to read all the original national recovery and resilience plans- beside time, there is the obvious limitation of skills.
+
+Yes, I know that, following the bet I shared few articles ago that I did in Brussels, the month before each "semester" for a while I did get some basics on the language of the incoming "European helm holder", but let's be frank: beside greetings, and learning a bit about similarities and differences that I did not expect, do you really believe that that pastime delivered enough skills to be able to understand those Byzantine documents that are the national recovery and resilience plans (also if you ignore all the attachments- in some cases, well over 1,000 pages)?
+
+And, from my reading of those documents from the staff, I think that they had the same issues in Brussels, as there are some subtle and not-so-subtle differences.
+
+Still, it is an harmonization effort worth doing.
+
+And worth keeping alive.
+
+When I hear of "standards" my mind goes to [this video](https://www.youtube.com/watch?v=AyenRCJ_4Ww)
+
+Well, "assimilation" levels down differences- and removes the value added of those differences, as often, despite what Star Trek Borg's say in that video, "assimilation" implies removal and transformation in something that follows known, true and tried patterns.
+
+As, to assimilate, a reconciliation to existing patterns is done, not a neutral analysis: no structure within an organization that is focused on continuity willingly introduces elements that would potentially make it unstable, also this could produce a better future steady state.
+
+The lesson from those national plans (at least, from my quick initial reading of the staff documents) is that extracting information from those "integrated" requires a balance that is better represented by harmonization.
+
+As a business example, some local branch in some market might identify a potential innovation that would require contextualization in other markets.
+
+Anyway, if it were first pre-digested toward an existing standard, it would drown under paper/excel spreadsheets and teach a simple lesson: do not propose anything.
+
+So, in many large organizations, after e.g. purchasing start-ups and then seeing all its key staff leaving, other approaches have been tried.
+
+Such as: building an arm's length fund that spots and identifies, but then "shields" the new items from the potential stifling central experience, until it is ready to do so.
+
+But you can find plenty of articles since the beginning of the commercial use of Internet about how not invest in a start-up if you are a corporation.
+
+I read plenty of articles and books, but what I saw going around and listening more than talking is that, as usual, there is no "corporate one size fits all" when it comes to interact with smaller organizations: depends as much on the mix of people in the former and in the latter, as well as the relative cultures and their flexibility.
+
+Talking about harmonization, there is an added value: if it is done as a one-off exercise (as initially many assumed NextGenerationEU would be), it can be stretching your resources.
+
+But there can be another end result.
+
+<b>Spreading cultures, reforming organizations, and... Zen</b>
+
+As a kid, I remember that my first book on Zen meditation was actually a book that had purchased my mother, on the physiology of Zen, I think from a Japanese doctor.
+
+At the time, I was studying how the brain works, so I was interesting to read another perspective on "waves" within the brain as linked to physiologically states (as I was more recently to re-read in neuromarketing, few years ago).
+
+One interesting point was that some physiological responses cannot be consciously controlled, but could be indirectly controlled (e.g. slowing or accelerating the breeathing).
+
+And an interesting exercise was to do the usual in/out of your breath, but synchronize it with your walking speed, and see the side-effects on other responses.
+
+Do not worry, despite what some locals, following their own "phantasmes", assume, I am not into the mumbo-jumbo side: I just collect and cross-reference information with some processing in-between and before sharing it.
+
+Translating that example into corporate (or organizational) behavior, you can probably visualize how this could apply to smaller and larger organizations, and how "harmonization", increasing the ability to share information, does not necessarily imply "assimilation".
+
+As an example, in a project on data privacy in the public sector almost two decades ago, that started as an humble monthly reporting that implied to have a unique truth on customers, eventually there was a choice to be made.
+
+There are some informations that are relevant for all the organization, and others that instead are relevant only for some parts.
+
+Centralizing the "point of birth" would be cumbersome for all those involved (both the customers and the staff having to process what they would not be able to grasp).
+
+So, the solution was simply a kind of "internal federation": get the minimal information, check if it is already there, and then retain locally the additional, context-specific information; if the minimal information is not available centrally, just create it and mark the "originator", should others have to evolve it; if it is already there, add a kind of "used here too", to avoid others to removing it without involving you.
+
+Different parts of your organization or of the whole European Union will probably have different abilities to "process" that "organizatioal breathing", but still will all have to do it and share the status.
+
+If you build such a level of understanding, it could be useful in and by itself.
+
+But if you add to that element also the need to recontextualize whenever there is a change, this would speed up the process.
+
+I know that many criticize the idea that a new budget is based on a previous budget, as the risk is to replicate the mistakes of the past.
+
+Anyway, the main alternative, to restart from scratch, would also imply wiping any "shared understanding", and do what we are so used at in Italy, i.e. renegotiating anything anytime we see it convenient.
+
+To move forward, it is better instead reserve that "starting over" when it is really needed, as otherwise the risk is that no decision is ever final, and no "strategy implementation" really implements anything.
+
+It was a common joke decades ago that strategies were those this that you design and communicate but never implement, as a new strategy comes in before you have to assess the results of the previous one, and that therefore the game of the strategies was to spin the wheel fast enough to ever catch with reality.
+
+When you are dealing with the social and economic life of hundreds of millions of people, probably it is better to be sub-optimal, but at least consider that any change, in society and politics, implies spreading the change, and that no one had single and ultimate authority to impose any change, unless at least partial convergence of consensus large enough to represent a critical mass to cathalize the others is achieved.
+
+On the NextGenerationEU and associated measures, we are already at least in the third round of adjustments, and more will follow.
+
+Hence, a baseline (where we started, and what was the status of the context back then) is useful.
+
+It will be then up to the historians to discuss the "wrong turns" that we took.
+
+But, at least, we can start by sharing the starting point in a transparent way (ie those staff documents), and move one.
+
+Stay tuned, and have a nice week-end.

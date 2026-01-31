@@ -1,0 +1,179 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20220915_article.png)</center>
+
+As announced over the last few articles, until the Italian national elections will be held on September 25th, will keep alternating articles in English about my usual "change" themes, and articles in Italian and English about the forthcoming elections.
+
+This article is actually both an announce and a "sharing point" of some past, present, and hopefully future reflections.
+
+Few sections, as usual (skip around as you wish, they are say 80% self-contained):_ why checking AI product management matters now_ knowledge dissemination and model democratization_ walking the talk: a bit of background and past deliverables_ the first "organizational support" tool start
+
+<b>Why checking AI product management matters now</b>
+
+As I shared today on Linkedin:<i>
+well, another bit of my "post-project project" for this summer is done
+
+I know that have been digging at courses on ML since the first COVID lockdown in Italy, March 2020, and had a few (and few real and fake miniprojects using data and what I learned), to update what I learned decades ago
+
+but I wanted to follow a full cycle on the technology, the concepts, and the management of both to deliver something- at my pace
+
+which leverages on past experiences and uses a kind of "ML learning method" traditionally- i.e. multiple exposures to the same material from different angles but fast: fail fast, fix and learn by having a different source of information on the same domain
+
+instead of sharing my certificate, which of course added to the profile, I would like to share the most uneasy element: I had to record three videos with my voice- and added also a bit of "putting your face" at the beginning
+
+I am used to deliver speeches, training, sales, negotiations, etc since the 1980s, but it was the first time I did post a video on YouTube with my face
+
+so, now I have no excuses (yes, Alex- I will keep my promise) to gear up for a podcast- that will be on the same themes I follow on my website
+
+#cultural and #organizational #change, #digital #transformation #social #political #business #impact s, and associated themes
+
+#data ? it is the supporting tool... just added since 2018 a little bit more modern (and open source!) skills...
+
+stay tuned (and share a good laugh at my videos) !
+
+[AI Product Management Specialization Coursera - my proposed solutions](https://www.youtube.com/playlist?list=PLFM03iKFWPAcIm7kF9Kc7jPwojWSxgsMF)
+</i>
+
+If you had, out of curiousity or professional interest, [had a look at my official (i.e. really leaving a lot outside) CV](https://robertolofaro.com/cv), you saw few things, including that in 2018 started a company to see if it made sense to resume delivering in Italy my cultural/organizational change and decision support management consulting services, as done for few decades before.
+
+Reason? in both the 2012 and 2015-2018 missions for CNH, officially as PMO first at the business unit then at the portfolio level, I was more than once asked to use my prior experience and skills acquired in those activities (that, frankly, I never let go rusty- more about this later).
+
+Well, opened and closed in 2018: the contracts that were supposed to "seed" my activity vaporized as soon as I left my previous mission, and apparently the locals in Turin (and also contacts elsewhere) assumed that I would be glad to work for free on missions received by somebody else who could not deliver- doing exactly what I was supposed to do.
+
+Not really a viable business proposition.
+
+So, I went into learning mode while I was discussing for contracts (and again received some puzzling "business offers that you cannot refuse"- but I did)- and that's how I found the time to learn a bit of R, and started some data-based publications online, in 2018.
+
+Anyway, then COVID helped to "free more time"- and added Machine Learning and other bits.
+
+But as the title says, this article is about "sharing" and "expertise"- and while since first 2019 and then 2020 followed a certain number of courses, did exercises, tried some sample projects, and realized few models to test my knowledge (old, from 1980s-2000s, and new, since 2018) on AI and business number crunching, I am not claiming to be an "expert" on Machine Learning.
+
+I claim to be more like the "I had three weeks of training" said in Cuba by the mission companion of Daniel Craig in "No time to die"... courtesy of past "hands-on" activities since the 1980s.
+
+Becoming an ML hands-on expert was not my aim, but be it business or regulatory or IT "techn&eacute;", I am used to absorb enough to be conversant and be able to assess/filter others.
+
+Fast.
+
+If you looked at those videos connected on YouTube to the post on Linkedin that I copied above, you will see that I talk slooowly.
+
+Well, anybody who worked with me knows that I usually tune the speed to the audience (including mix of languages)- as generally I talk really fast in any language I dare to use to speak with somebody else.
+
+Therefore, I frankly enjoy more watching videos of courses than attending in person courses, as I can tune the speed to my prior knowledge of the subject, "I know where you are heading to", or just redundant material.
+
+My approach is anyway, as I wrote on Linkedin, multiple exposure, also when I read books: so, whenever e.g. I had a project to build a decision support system in the 1980s, often in a different industry, went into "learning mode" to acquire at least the lingo needed to interact with experts without wasting their time, i.e. the "ABC".
+
+And I do not really like those who read one book, and suddenly are "experts" repeating verbatim what they read (or heard in a single introductory course), and try to "outexpert the experts": those with that attitude usually can win arguments, but then derail projects.
+
+So, I read, exercise, study- but just because I want to understand mindsets. It takes a while to actually be of any usefulness in support of somebody who, say, did for a decade or two what you just read or learn about, and I know the difference.
+
+But we humans are learning machines, and the more you learn and experience, the more you can connect- faster and faster.
+
+As the amounts dumped on supposed AI initiatives has been following the usual "hype cycle" for a while, I had long ago decided to eventually do more than reading few books or attending a couple of courses.
+
+This post is the first one within the "organizational support" section, and there is a reason that I willl explain at the end of this article.
+
+<b>Knowledge dissemination and model democratization</b>
+
+I am used since the 1980s (first in political activities, then the Army, then business) to be both on the "receiving" and "broadcasting" end of knowledge transfer.
+
+The point about AI generally and Machine Learning specifically is that the advances of computing are making feasible sub-optimal "model democratization": it takes a little to make you conversant enough to make bad budget choices without involving the right people.
+
+Hence, my choice of project for those three courses on "AI Product Management".
+
+But the project has been something that I tried repeatedly few times since the 1980s, using various technologies: from trying to use PROLOG to build an "explain" application for Decision Support System models I was doing (it was funnier that using traditional languages, but I stopped after the first steps as I left the reason to build the model).
+
+Then did something similar in the early 1990s, but to build critical mass before having meeting, using Lotus Notes Workgroup to reduce the number of meetings that Subject Matter Experts in banking were dragged into.
+
+Then in mid-1990s built as an experiment a knowledge dissemination by subscription framework, that right now could probably be "augmented" with a recommendation system.
+
+So, I am back when I was in the late 1980s,when I was fast turning my prior PROLOG and PASCAL knowledge into an "entry key" to quick become a kind of walking reference to be involved in projects across the country using- I am not boasting, it was just the practical point: test project in Milan for a multinational, completing it and then developing 800+ pages of documentation, then few training sessions informally in Italy with local sales from UK, then in UK, then countless projects.
+
+That, plus plenty of self-learning to be able to work on models across multiple industries, required to develop a model to transfer knowledge.
+
+I will not repeat here again what I published between 2003 and 2005 (when I planned to return to Italy) on [BusinessFitnessMagazine](http://businessfitnessmagazine.com) (that you can find as [free 2013 reprint and update](https://robertolofaro.com/bfm2013)), or even what I shared on a book specifically on embedding experts in our organization, called [#SYNSPEC](https://robertolofaro.com/synspec), or a more recent one (2018) on [innovation with a focus on Italy](index.php?page=308).
+
+Moving back to the point about "model democratization", there is an element within the approach I had to develop to work across multiple technologies, industries, cultures since the 1980s: I have to get "embedded" within the specific project or initiative context fast (and got used to the routine "testing" after few months of knowledge that generally takes years to develop- but it is just an acquired "techn&eacute;", nothing magic).
+
+Then, as soon as the need be "fresh" on that context ceases, I retain only the key signposts of reference, and set everything else aside.
+
+Why? Because this way, if something elsewhere could benefit from those patterns, or if I see an evolution in that context that could be worth following up, I still have the "roadmap"-level knowledge.
+
+Then, in most cases, I used in the past to keep "linked" with those who would have to keep current on the whole context- and this is represented quite well by my retained connections on social networks.
+
+<b>Walking the talk: a bit of background and past deliverables</b>
+
+Before I did that first planning to return to Italy in the early 2000s (i.e. "Time Before my Facebook and Linkedin"), since the introduction of the GSM service in mid-1990s my connections were phone, email, and routine visits around Europe.
+
+Then, as part of my "resettlement to Italy" released most of those connections (it was quite cost- and time-intensive to keep them, and my plan was to settle), but anyway built an online "testing ground" community with 150+ members called "comsharenomore.com", were I tested some encryption, software design, group communication, dashboard/statistics, and other community building concepts.
+
+Some of the members said that it was "over-engineered", and they were right: if you need to explain how a community website online works, then the issue is that you are transferring to the users the complexities that should not be put in front of potentially occasional users- but I was trying to make transparent all the information.
+
+Eventually, with the advent of various social networks, shut it down, but those lessons, and those learned with the design and development of the BusinessFitnessMagazine website were useful e.g. when adding features to this website when I redesigned it in 2019, and also in actual projects for customers, including on the communication management side.
+
+Ditto for the methodology (basically, a communication and "pipeline/funnel management" approach), website, and tools (including business and marketing planning templates, organizational analysis and design tools, etc) that added to those developed in the 1990s for knowledge dissemination, to filter/qualify, select, support start-ups and partners.
+
+Actually, while in London in the early 2000s, I even had a contact with banks and a "gatekeeper" to business angels to seek funding for a startup focused initially on the knowledge dissemination and interests identification platform that I had developed.
+
+Unfortunately, my need was too small, and I was offered 5x of what I asked but, also without knowing the details on how angels etc compute your value, my background in finance and controlling told me (and I told him) that would have been silly to give as collateral a majority share in exchange of funding that was too large for my "cash burn rate", and with a time window too small to generate value.
+
+After the latest mission, completed in July 2022, as I was confirmed of what I saw in 2018, decided that it was useful to use my blend of past experiences and skills, see what to "prune", and update and expand
+
+Already went recently through some startup investment courses, and will have few more, as anyway my reason to attend London School Economics in 1994 and 1995 was to test and prepare before a Masters in Finance, to then move into investment- then I had to switch track, but, again, retained elements that have been repeatedly useful both for customers and some startup activities in the past.
+
+It is my summer project officially started on July 19th, after ending the latest mission, a project that will absorb most of my time until the end of September, and probably will be just a pastime for few months more (as the startup/project/entrepreneurial finance, quantum, AI parts will continue until summer 2023 in my spare time).
+
+<b>The first "organizational support" tool start</b>
+
+If you can read Italian, you can [read online for free the only book I published in Italian on communication](index.php?section=strumenti) for political and social advocacy</a> (concepts that actually really applied also with startups and initiatives, well before published the book in 2014).
+
+In my past activities since the 1980s both to deliver training, then cultural/organization change, and decision support, had to prepare visuals and eventually (from the 1990s) video recordings describing either technologies or processes, e.g. creating "cue cards" and their visual equivalent (30sec or little bit longer videos) to allow also occasional business users to be able to use tools and reporting models that could not be made simpler for technical reasons.
+
+But, anyway, be it sales or presales presentations, project presentations or workshops, generally my video deliver was for an intended audience.
+
+Hence, I never had a podcast, also if I followed some training and was attracted to the idea- the closer I got are the micro-video presentations (text and music, no voice, and certainly not my image) on [my YouTube channel](https://robertolofaro.com/ctr-channel), e.g. [Connecting the dots series - the video outline](https://robertolofaro.com/index.php?page=354).
+
+For those courses on AI Product Management provided by Duke University's Pratt School of Engineering on Coursera, I had to prepare three videos to submit to peer review.
+
+The first one was to explain a model built using one of the tools suggested, following the problem description and dataset provided by the course organizers.
+
+In my case, as it was described de facto as a potential good application of linear regression, selected Excel, as it is available in any corporate environment.
+
+The course was ["Machine Learning Foundations for Product Managers"](https://www.coursera.org/learn/machine-learning-foundations-for-product-managers/home/info), and my video-proposal is [available here]().
+
+Then, the series of courses continued with the methodology side, focusing on CRISP-DM but also design thinking, with the course [Managing Machine Learning Projects](https://www.coursera.org/learn/managing-machine-learning-projects?specialization=ai-product-management-duke)
+
+As I wrote in the past, in the 1980s to design and deliver decision support models for senior managers I saw that I had to understand the technology, but mainly set that aside initially, and instead understand the "why", "who", and "what".
+
+So, also for the courses, while I followed them sequentially, and the third one was on the ["Human Factors of AI"](https://www.coursera.org/learn/human-factors-in-artificial-intelligence?specialization=ai-product-management-duke), decided to follow the same approach.
+
+Hence, my second exercise was to design the human factors, following both the course, my past experience, and what I learned from some SAP courses on Design Thinking, and applying again the concepts from Jake Knapp's book "Sprint", while using the [build.me](https://build.me)
+
+I could have released the three videos at the same time- but decided, again, to do as if it were a real project.
+
+Hence, released first the human factors side and, after the peers approved it, completed a revised video about the architecture and all the CRISP-DM items.
+
+So, what's next? 
+
+Of course- will try to implement the application in a way, in my spare time- as a test case (I have already some material to provide and test on).
+
+But, as the "explain" model in the 1980s, and thte "reduce the meetings" in the early 1990s, the "disseminate knowledge" in mid-1990s, and other "testing the concept" systems and methods, it will evolve with time.
+
+Therefore, all the articles in this section will have a characteristic: will be listed in reverse chronological order, as whenever there will be an update, the original article will be updated.
+
+In some cases, I will eventually announce the availability of a new tool.
+
+In other cases, I will just keep evolving the specifications of tools, processes, methods- and share them here as I did in the past [e.g. on GDPR and data privacy](https://robertolofaro.com/gdpr).
+
+The concept is the same of this website: as 2018 was when I confirmed that I could not resume doing in Italy my prior activities unless I accepted to be invisible and probably paid to do something else, but not what was doing (e.g. I have almost no references for what you can see on my CV after 2012, when I returned to Italy), I had two choices.
+
+Put everything into a desk drawer (or its digital equivalent), or transfer it to somebody else as a "hiring gift".
+
+Well, being over 30 years of cross-industry and cross-technology experience, in 2018 did the same I did in 2008 when I tried to settle in Brussels: if I cannot extract value out of it, let's share it in the most visible way so that many could extract value, if there is any, or at least leverage on mistakes I identified, and... have a chance to do new mistakes (or reusing).
+
+Therefore, this applications, processes, methods sharing, as in the past, has a dual purpose: to make it "prior release" (and reduce therefore any "patentability"), and to enable both myself and others to "spawn" new ideas, by continuation or contrast or "blending".
+
+For my [datasets published online since 2019](index.php?page=440), I explicitly selected the CC-BY-SA/CC-BY form of the Creative Commons, i.e. do as you wish, provided that (hopefully) you deliver attribution, and, more importantly, share (SA); in some cases, as I do understand business realities, the "CC-BY" is enough, as those "recycling" can do with their derivative work, but, by having the "BY", it is possible for others to "spawn" different choices from the same material.
+
+Anybody who worked with me since the 1980s eventually heard the phrase "if Plato had had copyrights and licensing fees, most of the Western culture would not exist".
+
+I think that we need a balance between developing the "commons" and providing "revenue recognition"- but we still are at the "law of the bully".
+
+Stay tuned.

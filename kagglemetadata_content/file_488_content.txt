@@ -1,0 +1,199 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20220909_article.png)</center>
+
+This article is the third of a new series on the national elections 2022 in Italy
+
+It will be both in English and Italian, and the English version is at the bottom.
+
+Related items: [a mini-web app to search within the text of the political platform of the (for now) three main coalitions and political parties](searchpolitiche2022.php) and [the word-frequency part of the mini-webapp, as a Kaggle dataset, with the title "Italian National Elections 2022 - political cloud"](https://www.kaggle.com/datasets/robertolofaro/italian-national-elections-2022-political-cloud)
+
+This preamble will be repeated in each article.
+
+Come annunciato da AGCOM, per quest'anno ci sono aggiornamenti alle norme sulla diffusione dei sondaggi.
+
+Ovvero: nei quindici giorni precedenti le elezioni e sino alla chiusura delle votazioni, non sar&agrave; possibile pubblicare sondaggi.
+
+Non solo: un inciso &egrave; curioso: <i>"Per quanto riguarda i sondaggi politici ed elettorali, &egrave; vietata la pubblicazione o diffusione dei risultati degli stessi nei quindici giorni precedenti le consultazioni e fino alla chiusura delle operazioni di voto. E' fatto salvo il caso in cui un esponente politico riporti dichiarazioni concernenti i risultati di un sondaggio, purch&eacute; questi ultimi siano stati gi&agrave; resi noti nel periodo antecedente a quello del divieto"</i>.
+
+La cosa francamente non mi riguarda, dato che in generale non cito i sondaggi (ci sono troppi "Cicero pro domo sua"- incluse proiezioni stellari per sondaggi realizzati su commissione, ma lascio ad altri giudicare).
+
+Per&ograve; riservare solo a chi rivesta la qualifica di "esponente politico" la possibilit&agrave; di commentare sondaggi realizzati prima degli ultimi 15 giorni stride non poco con gli obiettivi di trasparenza e partecipazione attiva dei cittadini alla politica.
+
+Fa il paio con le scelte politiche delle candidature di queste elezioni. 
+
+Han un bel dire alcuni esponenti politici che loro hanno solo candidati del territorio, se per realizzare le candidature si sono spostati altrove altri candidati locali (prassi diffusa).
+
+La qualifica di "candidato/a paracadutato" non dipende solo dall'essere di altro territorio, ma anche dal metodo di scelta.
+
+Comunque, si conferma la natura "tribale" del nostro Stato, rafforzata dalla dinamica di comunicazione adottata da tutti i partiti principali (diciamo tutti quelli che aspirano ad almeno un 5%), che fa pensare di pi&ugrave; al film "Highlander" con Christopher Lambert e Sean Connery (solo uno resta in piedi), che ad una contesa elettorale combattuta ma in una democrazia matura.
+
+Io sono a Torino dal 2012, dopo, francamente, non averci vissuto davvero da quando iniziai il servizio di leva nel maggio 1985.
+
+E, dato che ad inizio anni Ottanta avevo seguito attivamente diverse campagne elettorali ed eventi politici, e per un periodo mi ero interfacciato con i segretari cittadini dei gruppi giovanili dei partiti dell'arco costituzionale (da PCI a sinistra a PLI a destra), posso esser tranquillamente qualificato come un "quasi nostalgico" di quella fase finale della Prima Repubblica in cui ancora si parlava di differenze di modello di stato ecc, non solo di sedie (anche se, viste con il senno di poi, alcune battute che sentivo in quella fase rappresentavano bene la corrente "poltronista" della politica italiana che non &egrave; mai mancata).
+
+Disclosure: come accennato negli articoli precedenti di questa seria, personalmente ritengo che il 2022 sia simile, almeno per me, al 1983, ovvero valga la pena votare chi non voterei per vari motivi, ma potrebbe esser funzionale ad un bilanciamento che porti a riforme condivise grazie una opposizione rafforzata ma non monolitica in Parlamento.
+
+Vero che nel 1983 non funzion&ograve;- fu la prima volta in cui vidi da elettore (avevo 18 anni) che, al di l&agrave; delle dichiarazioni elettorali sulle magnifiche sorti progressive, l'obiettivo prima di ogni eletto &egrave; trasformare la propria elezione in una prassi.
+
+Dal concetto di "eletto" al concetto di "elevato" il passo &egrave;: e chi si sente confermato nel proprio destino manifesto da una elezione, difficilmente considera quella una parentesi di servizio allo Stato- diventa una carriera (soprattutto visto il livello degli emolumenti e benefici associati anche dopo aver terminato la carriera politica elettiva, difficilmente ottenibili in altre occupazioni in Italia).
+
+Come in altri campi, personalmente differenzio tra analisi e scelte: l'analisi non pu&ograve; esser svolta con la "terza narice", quella che fa sentire puzza di bruciato (per esser gentili) ovunque tranne che nella parte politica che si &egrave; di supportare.
+
+Di conseguenza, le critiche che condivido nei prossimi paragrafi non implicano necessariamente che voter&ograve; per altri.
+
+Quanto alle riforme: mi riferisco ovviamente alle riforme della Costituzione, intese come riforme organiche per sistemare il "cerchiobottismo" delle riforme abbozzate negli ultimi decenni.
+
+Come scritto in precedenza, votai s&igrave; al referendum-convertito-in-plebiscito di Renzi, perch&eacute; almeno era un tentativo di riforma discutibile e migliorabile ma organica, e resto critico di chi, a Torino come altrove, disse che solo votando no si sarebbero poi potute fare (immediatemente? quella era la sensazione dai discorsi e scritti) le "vere" riforme.
+
+Raggiunto l'obiettivo di umiliare l'antipatico ed arrogante Renzi, riforme non pervenute.
+
+Resto quindi sempre dell'idea che serva una nuova Costituente- non possiamo continuare ad abbozzi di riforme incoerenti realizzate a colpi di voti di maggioranza.
+
+Ma se si guardano i nostri politici eletti, pochi fanno la scelta di Amato, che ha detto che &egrave; il momento di ritirarsi.
+
+Diciamo che qui a Torino, sia nel settore politico sia culturale sia in altri, la prassi di "puntare" su qualcuno espressione della trib&ugrave; la conoscevo gi&agrave; negli anni Ottanta, ma paradossalmente al ridursi del ruolo di "citt&agrave; dell'auto" praticamente di una sola azienda, si &egrave; accompagnata una riduzione della rosa di candidati per ogni ruolo (ovvero: quando si inizia a puntare, si continua): da un ventaglio di potenziali, alla scelta dell'unico cavallo.
+
+Per esempio, tra i candidati locali alle elezioni, vi &egrave; chi da alcuni cicli elettorali viene invocato per qualunque cosa: dalle elezioni per il Quirinale, a quelle per il Sindaco di Torino, ed ora alle politiche- con un rischio di sovraesposizione.
+
+Sovraesposizione che talvolta, francamente, sembra pi&u l'effetto di contese tra trib&ugrave; per "bruciare" potenziali candidati, che scelta di chi ha sponsorizzato inizialmente il candidato.
+
+Lo stesso vale per chi venne candidata come Sindaca in un periodo in cui chiunque fosse candidato dalla sua parte probabilmente sarebbe passato, ma ritiene di restare in politica. 
+
+Come detto, la politica come servizio non &egrave; prassi in Italia: anche Razzi, a parte il tour in Corea del Nord ed il rap dedicato alla sua famosa frase, non &egrave; che abbandon&ograve; la politica immediatamente- e tralasciando le "dinastie di famiglia": eleggi uno, e ti trovi generazioni di candidati.
+
+D'altro canto, lo stesso successe anni fa con altri partiti (solo un paio ancora esistenti) nella transizione tra la Prima e la Seconda Repubblica: chiunque avessero candidato sarebbe stato eletto.
+
+Il "proviamo pure questi" che era la frase finale fatta pronunciare da Vittorio Emanuele III nella scena finale del film "La Marcia su Roma" con Tognazzi e Gassman in realt&agrave; rappresenta bene lo spirito dell'elettorato italiano.
+
+Che sceglie, osanna, e poi cerca un caprio espiatorio prima di passare a scegliere altri- purtroppo, lo abbiamo ereditato dall'Antica Roma, ma lo spirito di piazzale Loreto resta una corrente di fondo della coscienza politica degli italiani: ottimo modo per auto-assolversi.
+
+Meno impegnativo che cercare di realizzare riforme e cambiamento, che richiedono scelte tra scale di priorit&agrave;.
+
+Personalmente, non ho alcun problema a dire che non solo nel 1983 scelsi di votare chi poi segu&igrave; una strada diversa da quella per cui l'avevo votato o votata.
+
+Malgrado ci&ograve; resto, a differenza di molti, un sostenitore della libert&agrave; di mandato sancita nella Costituzione (art. 67) ed anche la libert&agrave; di espressione nel mandato (art. 68)- non ci serve una nuova "camera del fascio", e non mi piacciono neanche i bizantinismi di chi propone di forzar la mano modificando i regolamenti di Camera e Senato per ottenere nei fatti una "ridotta mobilit&agrave;" degli eletti (lasciando per&ograve; sempre mano libera ai partiti di farsi eleggere per A e poi fare B).
+
+Su questo sito troverete diversi articoli (da fine 2018 solo in inglese) in cui cito la ripartizione "tribale" del nostro Paese- e sia le mie esperienze lavorative negli anni Ottanta, sia quanto visto prima a Roma e Torino ad inizio anni Duemila, e poi dal 2012 principalmente a Torino, continuo a non vedere il "Sistema Paese" di cui tutti parlano per cui nessuno lavora.
+
+Il titolo di questo breve articolo &agrave; "elezioni tribali in un paese tribale"- e la situazione attuale di crisi rende pi&ugrave; visibili i limiti della mancanza di una coesione nazionale che non sia espressione di un negoziato tra le varie trib&ugrave;, sia in termini di velocit&agrave; di risposta, sia in termini di condivisione degli obiettivi.
+
+Io conto nulla ma, come detto ieri ad un amico, pur essendo tradizionalmente elettore del centro-sinistra, concordo con la posizione di Salvini di chiedere adesso uno scostamento come "cura preventiva" per sostenere il sistema produttivo (che gi&agrave; prima scontava il costo dell'energia), piuttosto che andar per ritocchi contabilmente accettabili ma che ignorano la struttura del nostro sistema produttivo- e trovarsi dopo le elezioni con una potenziale vertiginosa espansione della cassa integrazione.
+
+D'altro canto, anche altri Stati Membri dell'Unione Europea stanno approntando misure straordinarie per rendere sostenibile il mantenimento della struttura produttiva europea (cfr. p.es. [questo articolo da FAZ](https://www.faz.net/aktuell/wirtschaft/notloesungen-fuer-energiekrise-treffen-der-eu-energieminister-18303566.html)).
+
+Ma il dibattito politico in buona parte &egrave; troppo polarizzato per accettare, prima delle elezioni del 25 settembre, qualunque soluzione che toglierebbe la possibilit&agrave; di differenziarsi di fronte agli elettori.
+
+Prepariamoci quindi pure ad ulteriori espressioni "tribali" durante questa campagna elettorale, con tentativi del Governo in carica per gli affari correnti di "tenere insieme i pezzi" in attesa delle elezioni, un gioco di equilibrismi che &egrave; triste ma difficilmente evitabile, considerando quello che dicono e mandano a dire i vari leader politici.
+
+Magari dopo le elezioni ci sar&agrave; spazio per trovare soluzioni condivise- tanto, la barca &egrave; la stessa: e se le elezioni le potrebbero vincere messaggi sopra le righe, poi l'azione di governo richieder&agrave; di confrontarsi con una realt&agrave; che aggiunge alle debolezze strutturali del Sistema Italia una inflazione importata ma che, grazie al nostro sistema distributivo, viene espansa, e potenziali rischi che, invece di esser gestiti politicamente dal Consiglio Europeo o dal Parlamento Europeo o dal Comitato del Regioni, la Commissione Europea e la Banca Centrale Europea stanno gestendo nei fatti politicamente ma senza mandato politico, solo con mandato "tecnico".
+
+Chiunque vinca le elezioni probabilmente dovr&agrave; anche considerare i limiti e vincoli dell'azione di governo in questo contesto, e convidere riforme istituzionali in Italia, ma anche parlare con i nostri partner europei di riforme della "casa comune europea".
+
+Buon fine settimana
+
+[ENGLISH VERSION]
+
+The campaign for the national political elections 2022 in Italy is taking over a quarreling element with mud slinging raised to a level where it is difficult to hear messages.
+
+Which, anyway, in the last month took over a communication level shifting from the traditional long winded arguments, to soundbites, to "telebubbies-style" communication.
+
+Over the last few days, the Italian AGCOM watchdog updated rules about the publication and sharing of political opinion polls.
+
+Therefore, in Italy will not be allowed to disclose or publish new political opinion polls within 15 days from the elections (to be held on September 25th).
+
+Moreover, there is a curious additional clause, stating that "political figures" could anyway keep quoting up to the elections political opinion polls that have been released before the cutoff date.
+
+Personally, I do not usually quote as reference political opinion polls in Italy, as there is way too often more than a whiff of "spinning", actually in some cases bordering on the astroturfing.
+
+Restricting who can quote already published opinion polls is frankly consistent with the instincts shown by our politicians during this campaign, and even before, while building up the candidatesâ lists: in case of doubt, close up potential non-aligned communication.
+
+So much for the routine invitations to build up a "national spirit" and "inclusive democracy" based on citizensâ participation.
+
+I will spare you the discussion about our permanent candidates, elected once (or even co-opted), often under the banner "on loan from civil society", and then staying on, and on, and on (you can read about it within the Italian version of this article).
+
+Why? Well, because routinely, at least since I was 18 and therefore entitled to vote, we had yet another round of "new" political forces that claimed to be representing the will of the land, and begging to be different from those who just converted political service into a (well paid) political career.
+
+Of course- then, being elected became a confirmation of their own unique value for the Nation, and therefore it was just natural for them to try to be re-elected.
+
+Of course I am applying some irony, here. It is a distortion of the perception of reality that occurs often between those elected: they forget that, as every couple of decades or so we look for "something new", often anybody who were to be a candidate for these "new kid on the block" political party or organization would get more than a fair chance to dislodge the incumbent.
+
+As we Italians inherited from Ancient Rome the habit of championing somebody, surrendering our critical abilities while choosing, and then wait for a difference.
+
+It is what an Italian writer decades ago called the "third nostril": we can "smell" the stink in other political parties and their candidates, but our own, oh no, they smell like roses.
+
+When the roses start stinking, we obviously follow another Ancient Rome tradition- and look for a scapegoat.
+
+Probably, the most famous one is the image of Mussolini and his lover hang upside down in piazzale Loreto in Milan, at the end of WWII- a way for Italians for self-absolve themselves of having supported the fascist government and regime for a couple of decades.
+
+As Churchill supposedly quipped, in Italy there were after WWII 45 millions of anti-fascists, while before the war there were 45 millions of fascists, yet demographic data did not show 90 million of Italians.
+
+Personally, from the level of debate in Italy, I think that what matters is the variety and strength of oppositions within the Italian Parliament- and I followed a similar line of reasoning in 1983.
+
+Meaning: I voted for a political party that normally I would not have voted for.
+
+Actually, in that case, had to resign from my role as town secretary of a European integration political advocacy, in order to work in the campaign for that political party, as it was not one of those "sanctioned" by the organization as "supportable".
+
+Anyway, I did not take on a party card (by choice, I never carried a card of any political party, and I am resolutely reformist and bipartisan).
+
+Did it work in 1983? 
+
+Well... it was the first time that, as an elector, saw the routine I wrote about above: once elected because there was a call for a change, those elected decided that they had been elected because that was their manifest destiny, and their political choice was... to do whatever needed to stay in office.
+
+In that case, I remember that, being middle-class, they did what Italian middle-class usually does: purchased with the political funding and reimbursements received by the State apartments, so that they could use that cashflow to fund... future campaigns.
+
+Eventually it merged with others, but neither that experience nor others thereafter changed my mind: probably I am one of a shrinking chunk of Italian voters who want to keep in place two articles of the Italian Constitution of post-WWIII (art. 67 and art. 68) that ensure that any elected representative to the Italian Parliament has freedom to choose and to speak.
+
+As, routinely, political parties get elected for A and the do B, but would like to enforce "party discipline", as in "Les Mains Sales" from Sartre: toe the party line.
+
+Whatever gets you elected then has to survive the political reality that generally in a representative democracy you need to negotiate and find common ground, you cannot be the Che Guevara of the case (who, anyway, despite becoming an icon for generations, did not deliver that much).
+
+But it is true that it is easier to get elected by rallying spirit, not enlightening them.
+
+I wrote that I am a reformist: well, I was so, despite being on the left, when I was 14 (at the time, being a "revolutionary" was a "mantra" in Italian politics), and still am now, at 57.
+
+And this implies a simple choice: when you do analysis, you apply the same "analysis framework" on friends and foes- no third nostril allowed.
+
+Then, you make choices- in some cases you can choose those that you would like to choose, and in other cases, e.g. in 1983 or in 2022, you choose what overall fits your greater hope.
+
+Then as now, and also recently (see the Italian side of this article and the previous ones in this series for details), I think that our Constitution, that I read countless times since I was a kid, and in the past compared with others but looking at their historical context, should be reformed.
+
+In part because we had decades of tinkering with the Constitution that, instead of implementing the existing one (there are plenty of bits that have still to be implemented since the 1950s, when we had the first post-Constitution Presidents and Governments), resulting in what in Italian we call "pateracchio".
+
+A mixed bag of half-botched reforms that created instability, and then routine tinkering either with the Constitution or laws and regulations to either make it workable, or simply to "push" for a different political agenda.
+
+Because our decades of tinkering with the Constitution actually included plenty of majority votes: while the Constitution itself was designed and written by a mini-Parliament elected on purpose, called "Costituente".
+
+If you read previous articles on this site since 2012 (or even those that I published in Brussels from 2008), you would know that often I refer, as in the title of this article, to the "tribal" element of Italian society and politics (and also business).
+
+Italy celebrate in 1961 the unification done in 1861- but still has to create a "national spirit".
+
+As in the centuries after the fall of the Western Roman Empire, we are divided by regional and local histories of quarrels for centuries, consorting with various invaders, and also local tribes.
+
+So, whatever proposal is made, is almost never considered at face value, but in terms of potential advantages for the tribe presenting it: we rather torpedo a sound proposal made by another tribe, than make it our own, as that would be considered acknowledging that another tribe proposed something that we should have proposed.
+
+The latest point in case was Salvini, Lega's leader (I never voted for him), who said that instead of tinkering accounting-wise with few billions, to keep up and running our industrial base we need probably dozens of billion of EUR (even to the cost of additional deficit) to help our companies, that already were used to pay energy costs way above our European partners, to stay afloat and keep production open.
+
+It is no small matter: few weeks ago, the leading Italian business newspaper (belonging to the Italian Industrialists' association) shared information about how some industries, e.g. paper and ceramic, high-intensity energy consumers, were already having issues in renewing annual energy supply contracts (e.g. for paper, generally in October), as energy companies either were unable to propose a price, or proposed too hight a price plus advance payments- forcing some to considering stopping production.
+
+Frankly, also during the past crises Lega's economic advisers more than once made proposals that seemed bombastic at the time, but actually had a better pulse on the industrial base of Italy than many of their critics.
+
+Anyway, also other European Union Member States are discussing and preparing measures to support their own industrial base, to avoid running into year end with massive stoppages or shutdowns during winter.
+
+E.g. see this [FAZ article](https://www.faz.net/aktuell/wirtschaft/notloesungen-fuer-energiekrise-treffen-der-eu-energieminister-18303566.html).
+
+I am skeptical: the political debate in Italy, as I wrote above, is heading toward a kind of "heroic" phase (as in "Highlander"- do you remember Christopher Lambert and Sean Connery "there will be only one"?)
+
+Therefore, until the September 25th elections I do expect that sitting government from Mr. Draghi, supposedly managing just current affairs during a crisis that would require something more and bolder, to try to keep it all together, as he is doing by routinely invoking "national spirit".
+
+Almost as Don Quijote, in the current socio-economic and political debate in Italy.
+
+After the elections, while I still hope for eventual structural reforms, i.e. a new Costituente, there will anyway other reforms to consider.
+
+The current crisis at the European Union level is de facto being managed, steered, and even shaped by two un-elected political institutions, the European Commission and the European Central Bank.
+
+The risk if of creating long-term institutional and organizational changes without any democratic mandate, and even without any attempt to build political consensus.
+
+Yet, after Lisbon, there are politically elected or politically structures at the European Union level that could deliver a political steering: the Council of Europe, the European Parliament, even the Committee of the Regions.
+
+So, does not really matter who wins the elections in Italy on September 25th: any winner will have to deal with national and European level reforms that avoid a technocratic detachment from reality, sharing the burden of choices with our European Union partners.
+
+Have a nice week-end!

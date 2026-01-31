@@ -1,0 +1,162 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20211217_article.png)</center>
+This article was started and stopped few times, as initially was supposed to be a commentary on the "social game" started when the last six months of the mandate of the current Italian President started.
+Anyway, I know that some pre-readers of drafts of this article might go berserk, as it evolved across times since at least late November.
+Today was an interesting day on both the personal and conceptual level- curiously, as tonight was to attend (virtually) a workshop on [Anticipating Rare Events of Major Significance: A Workshop Series](https://www.google.com/url?q=https://www.nationalacademies.org/our-work/anticipating-rare-events-of-major-significance-a-workshop&sa=D&source=calendar&usd=2&usg=AOvVaw0zM7pBchgJdn3uFKgIZCaQ) (a recording will be available soon).
+So, starting the day seeing how a bit of "disaster preparedness" that learned first in politics in the early 1980s (a once-only event can have many imperfections you have to cope with), then in the Army (imagine, when in 1986 Libya launched missiles toward Italy that made a hole in the water, having for few weeks each night to type the "loading lists" for each vehicle while having your Garand on your side, and then receiving each night the "this was just training" message- then people wonder how calm can I be when I had to do and redo staff countless times and show just boredom).
+In business? Well, my knowledge of PCs started because, while going around Italy in the late 1980s to build decision support system models for senior managers in various companies and industries, in a time when we had no mobile phones, no Internet, no Windows (just MS-DOS), it was faster to learn how to fix that pesky config.sys and autoexec.bat than sitting on your hands when you were supposed to deliver a model or pitch for a new project.
+Expand on that with my travels across Europe in the late 1990s, shuttling between projects and negotiations or presentations, and you can imagine yet another level of "better safe than sorry" pre-emptive expenditure to ensure that I was not stopped in a non-repeatable activity.
+So, today I read with deep interest two commentaries on a local newspaper, from a former member of the Italian equivalent of the Supreme Court (almost- different Constitution, difference Tocqueville-inspired balance) and from another commentator.
+Both, from different directions, converged on how the unusual, exceptional, series of shortcuts (both taking the legislative power de facto out of the Parliament hands) are becoming ordinary and generating a complex "quis custodied ipsos custodes"- e.g. when the Government shuttled a 1-article omnibus decree and stifle debate asking for a confidence vote (a kind of "Parliamentary plebiscite" that is getting disturbingly too frequent), or when the Corte Costituzionale (in my view, also others, such as the Corte dei Conti) intervene on political issues generating de facto the trend that should result in legislative initiatives of the Parliament that... those that initiated then are supposed to monitor.
+Rest assured: tonight is the night when I will finally release this article, as I have other things forthcoming.
+This article is about Italy, yes, but also about the general relationship between organizations, power, and people- and perceptions of reality.
+As routine, will split into smaller sections.
+_prelude: of power and numbers and... communication_introduction_a digression on data privacy in Covid19 times_the concept of presidency in a parliamentary republic_a constitution by the elites for the people yet still unfulfilled_weak leaders require strong crews: the agility of power_replacing a tribal mobbing democracy with swarming co-evolution
+Before starting the article, a prelude: of power and numbers.
+<b>Prelude: of power and numbers and... communication</b>
+There is something that makes in movies about politics that contain a number in their title a genre in itself- do not ask my why, but it seems consistent.
+Maybe it is just a matter of communication and marketing strategy.
+Say- Thirteen days in November (about the Cuban Missiles crisis), or Seven Days in May (about a golpe by some of misguided perception of their own role as "deep state"- turning from guardians to self-appointed delusional saviors of the State disposing of democracy), or even 55 Days in (sic) Peking and, for those more inclined to conspiracy theories XIII the conspiracy.
+A scene I like a lot is when, in Thirteen Days, Robert Mc Namara is overseeing the naval blockade, and the Admiral directs to launch flares.
+A row between him and the Admiral ensues, as the latter says that McNamara is tired and micro-managing, and ends up his tirade by saying that they have been doing so since John Paul Jones.
+Well, Mr. Secretary of Defense replies basically saying to the Admiral that the latter does not understand the new language of politics in a nuclear era: different timeframes, different response times, different communication tools.
+So, a blockade as a communication channel between the President of the USA and the Cremlin leader.
+It does not really matter if it is true or not- what matters is: different times require different approaches to communication, using all the channels currently available in a way that makes sense.
+If your communication turns into a ritual, there is an element of self-fulfilling prophecy that has been described in many books and documentaries on how we sleep-walked collectively into WWI.
+In business as well as in politics, also a plan is a communication tool.
+Actually, when I had organizational or cultural change assignments, I tried to devise (and enforce) a discipline of consistent communication across tools as different as a new process, an organization chart revision, beside the obvious business/marketing plan or even the humble program/initiative/project plan.
+Look at the first timeline that you can see on a newspaper: it tells you a lot about those presenting that timeline- as it is a selective act of communication.
+This article talks is about Italy, and therefore probably, as you can expect from a lifelong bookworm, it is useful to find a reference or a guiding light within an old book.
+In this case, for the joy of my local followers (I am joking), Polybius and his riposte to Aristotle and Plato about political systems: <i>"Our position, then, should be that there are six kinds of constitution- the three commonly recognized ones I have just mentioned, and three more which are congenital with them: tyranny, oligarchy, and ochlocracy or mob-rule. In the natural, spontaneous course of events, the first system to arise is monarchy, and this is followed by kingship, but it takes the deliberate correction of the defects of monarchy for it to develop into kingship. Kingship changes into its congenital vice - that is, into tyranny - and then it is the turn of aristocracy, after the dissolution of tyranny. Aristocracy necessarily degenerates into oligarchy, and when the general populace get impassioned enough to seek redress for the crimes committed by their leaders, democracy is born. And in due course of time, once democracy turns to violating and breaking the law, mob-rule arises and completes the series."
+Often, in Italy, it seems as if we were near the last bit of Polybius' circle..."</i>
+<b>Introduction</b>
+An election is due in early 2022- so, it is quite interesting that two countries that are in for a new President next year just signed an agreement concerning European integration on a bilateral level that in scope matches probably only [the one signed by President De Gaulle and  Chancellor Konrad Adenauer in 1963](https://en.wikipedia.org/wiki/%C3%89lys%C3%A9e_Treaty).
+I will discuss the organizational side of the new Treaty in a future article, along with other elements related to Europe's political and organizational evolution.
+Eventually, the debate in Italy evolved into the usual routine, with many potential candidates (including self-appointed) discussing about the profile of a desirable president.
+Well, at least some, as is traditional in Italy, actually describe themselves while denying that they can be eligible or a candidate that can get enough votes in the Parliament (in Italy, citizens do not elect a President, and not even an "electoral college" as in USA).
+So, what's new? That, at last, between those "offering" themselves we have both men and women.
+And, as an additional twist, when still all the tribes are unable to converge on somebody who is at least less displeased than the others or arises less fear of unsettling the tribal balance...
+...here we go again- polling on direct election of a President.
+I will share my five cent on why I think that, in Italy, neither a direct presidential election nor disposing of the concept that during the last six month the Italian President cannot dissolve the Parliament and call for an election are good ideas.
+Hint: it goes with my being bipartisan, reformist, and in favour of assigning seats in Parliament in direct proportion of votes cast. 
+As I wrote in the incipit, anyway in the end saw the article evolve, turning actually into a draft for a book, due to its length and overlapping themes.
+So, I decided to do what I usually do with my articles: extract some of the themes of potential projects or book projects, write an article, maybe initiate some data-digging, structuring, presentation, dissemination.
+Consider this article a kind of "interlude", as in 1960s movies.
+As it was a tradition then, there is a soundtrack- choose your pick, while reading.
+<b>a digression on data privacy in Covid19 times</b>
+Well, "privacy" has always been a balance of conflicting interests, and in our data-centric times we all surrender often more bits of our privacy to uncontrolled potentially rogue operators than we would accept in any formal relationship with our authorities.
+Disclosure: on Saturday December 11 had my third Covid19 vaccine shot (previous two were Pfizer, this one half a dose of Moderna).
+And, as a joke on my chronical loss of privacy at least since I worked in Government Projects part-time as PM and BA in Rome, I actually...
+...shared a picture of my new green pass certificate as soon as I received it on Sunday.
+Yes, in Italy too we can sometimes have systems that work better than expected- it is generally a matter of "try it again once more".
+Which, with Covid19 green pass certificates, happened already few times.
+There is a different between breach of privacy and transparency, a difference that, as a shortcut for this article, would like to associate with roles.
+If you are a private citizen with no public role, there is no reason to ask you to forfeit your privacy.
+But if you are a public figure, or an organization, there are varying degrees of transparency that should come with the role.
+Well, let's anyway say that privacy in Italy conflicts with tribal relationships: tribe comes first, then probably family, and finally...
+...office or role.
+So, conveying personal information collected through office is almost a national sport.
+Yes, there are some who do it for a pretty penny- such a tax office employee recently arrested in Piedmont, or the ring that years ago set up a kind of mini-market on phone wiretaps that they were doing for security forces and legal reasons.
+But most of the scandals on misuse of access to information were actually related to sharing information with others who had no title to that access- and not from just low-ranking clerks.
+Do not take my word for it, just go in any Italian bookstore and look for books reporting on current scandals.It has also been for a long time a routine in Italy to see on newspapers phone wiretaps transcripts.
+And it applies also to the private sector.
+Long ago, a friend asked me if, as I had worked for along time on banking projects and for banking customers, I could explain to him how came that, when asking for a credit report on a potential business partner from a private agency, they had been able to come with so precise information.
+Some background information: in Italy, for decades we had a central databank on risk exposure.
+My reply to my friend? I can tell you how they got the information, and also where worked the unfaithful banking employee.
+In Italian, we call it "arte di arrangiarsi", i.e. a kind of survival skill embedded in our culture through centuries of invaders roaming the country.<b>The concept of presidency in a parliamentary republic</b>
+How far those survival skills could go is still a joke that people older then me (I was born in 1965) routinely used to utter once in a while, about Italians who, at the end of WWII, "sold" monuments to GIs- from Naples, to Rome, to Florence...
+Back to current reality- difficult to enjoy the benefits of digital transformation and data-centric orientation when there is lack of transparency on the "chain of custody" of information: in Italy, quis custodiet ipsos custodes is not just a rethorical question.
+Within the Italian Constitution, the President is a super-partes that is answerable to the Parliament (and the nation), and is elected not by voters, but by elected Members of Parliament and others.
+Many in Italy write about the "flexible" office of Presidency, meaning that the temporary holder of the office (standard term is 7 years) shapes the role according to the times and consensus.
+In reality, that flexibility is what routinely many tried to remove by importing constitutional changes from other conceptual frameworks.
+I wrote often about our penchant in Italy for "Frankenlaws"- a bit from UK, a bit from France, a bit from Germany, even a bit from USA- this is how routinely our laws seem to be assembled.
+As you can expect, the Constitution, also if it more complex to amend it, could not escape that tradition.
+I wrote also above that I am a life-long believer in reforms and assigning seats as per votes cast, not using some alchemic formula that assigns additional seats to the winner of a plurality and not an outright absolute majority.
+The reason is simple: reforms imply adjustments, and, along with proportional apportion of seats, are more attuned to the Italian tribal orientation that continues at least since the founding of Rome.
+The Parliament represents the people, but routinely it becomes self-referential and almost strives to turn into a self-perpetuating entity: once in, many assume that that is their place, a kind of manifest destiny.
+Being a Member of the Parliament implies a term that lasts less than the office of the President, but is "renewable"- we do not have a limit on the number of terms (also if any "new kid on the block" political party/movement routinely promises something akin to the latter days of the USSR "Desiat Kruy" (probably spelled in a different way- the idea of introducing term limits not just for politician, but any office holder- maybe even bureaucrats, to avoid them turning office into a personal fiefdom).
+Being elected as a representative of the people, as I often remind my Italian contacts when they complain about the Members of the Parliament, means being selected between citizens: hence, if the citizens have no sense of commons, cannot expect anything different from those that they elect.
+In the past, both in Turin (to support start-ups and others) and in Rome (on those projects I referred to in the first section) I was involved as a returning Italian from abroad, to the tune of "torinesit&agrave;" (being born in Turin) and "italianit&agrave;" (being born in Italy).
+I was then to discover how those inside instead, unfortunately, treated local or national administration as "our thing", a family or tribal affair.
+I will skip repeating what I wrote in the past about the need to create real civil servants, at least a bit less tribalized.
+Instead, I will switch now to why I think that a direct presidential election and dropping the "semestre bianco" would be a mistake.
+<b>A constitution by the elites for the people yet still unfulfilled</b>
+I know that it is not just in Italy that people complain about "the deep state"- but, frankly I beg to differ.
+If our politicians look at best to the next term, we need somebody looking longer term, ensuring that those offices will still be there after the next election, as, notably in Italy, way too many behave as if it were feasible a "apr&grave;s moi, le d&acute;luge", Louis XV docet.
+Example: do you remember when President Trump, in his "Sturm und Drang" early phase, sent a fleet toward North Korea? 
+Well, not so fast- it made a detour elsewhere, so that some steam was released instead of bombs.
+A direct election, for either the Parliament or the office of President, implies that, in a democracy, anybody can be a candidate.
+And anybody can be elected (with some limitations- in some countries more than others).
+Now, if in Italy we had a bureaucracy that is not part of the "spoils system", a directly elected President could rely on a cadre of officials that, personal political choices aside, would look longer term, to the viability of the office after the current incumbent leaves.
+With our current routine of lining up to the new master, we generate the routine of having newcomers surround themselves with those that they trust- who are generally utterly inadequate for the interaction with complex organizational structures focused on self-perpetuation, not product or service delivery.
+Moreover, once a President is elected directly by citizens (and this does not happen even in the USA), it is normal to expand the powers of the office.
+In Italy, with our "flexibility of the office" embedded within the Constitution, and our "tribal" reality where even high-ranking "Mandarins" are often associated with their sponsors, all the above would create a dangerous mixture that would be just few steps away from another Mussolini.
+You cannot do structural reforms in a specific way only because you trust the current candidate or incumbent not to misuse lax rules or equally flexible "liquid" balances of power.In a complex system the structure itself supports refraining from excesses, hence, reforms (which include steering toward a new course) can be implemented also from partial outsiders such as President Einaudi, more than high-level "cog-in-the-wheel" members of the structure.
+Hence, also my adversity to the removal of the "semestre bianco"- that was not always an adversity cast in stone, but, as you can imagine, was reinforced by the observation that actually some of the presidents did a good use of those six months where, being disposed of the power to dissolve the Parliament, can actually talk straigth to the nation (and elected representatives), courtesy of more than six years in office that gave them a clear overview of what could be improved.
+Yes, Italian presidents as "influencers" ante-litteram in their last six months in office.
+The title of that article-that-evolved-into-a-book-yet-to-be-published? Presidenziagite, echoing "The Name of the Rose" from Umberto Eco (no pun intended): even reforms are not necessarily for those who avoid confrontation at all costs.
+Sometimes, the path toward reforms that do not satisfy just the incumbent tribes-in-power is a solitary path. 
+Why the title of this section?
+Because the Costituente that was elected to design the Italian Constitution acted as an &eacute; of tribes, building by design a construct of negotiation and political bartering (e.g. "repubblica fondata sul lavoro" instead of "sui lavoratori").
+<b>Weak leaders require strong crews: the agility of power</b>
+A balanced exchange results in a conflict of interest negotiation, as shown by many "filters" on what citizen might ask for, e.g. the paternalistic culture of the intermediary that even in a data-centric society resulted in many "middleman" in order to exercise right, as was reminded recently in a conference in Turin about the lack of vertical social permeability, when talking about the different approach in appealing to the Constitutional Court in Italy vs. Germany.
+About vertical social permeability: at that conference, a research was quoted stating that, in Italy, a "vertical social transition" requires five generations... in our current demographic potential (living a century), akin to say that the family of a servant of the Medicis in Florence could turn into a leader in the XXI century... not really the best way to integrate human capital potential, when we talk about ability to adapt society continuously, not twice in a millennium (yes, I know about the Enoch and "les enochiens"- but you got my point, permeability does not imply term limitations).
+The Italian Constitution is still unfulfilled not only because the balance over time changed repeatedly, but also because intermediation evolved across time, and a new status quo never lasted long enough to generate a sustainable convergence toward a unified model, and then the diffusion of this model across citizens.
+Actually, as the Italian implementation of a data-centric society evolved, curiously we removed early access to basic knowledge, e.g. on the Italian Constitution, or even, more recently, the National Plan of Recovery and Resilience (Piano Nazionale di Ripresa e Resilienza, PNRR), part of the NextGenerationEU initiative.
+On the PNRR, it would have been just ordinary to expect more transparency- instead, while there was some improvement in content in the transition from the Conte bis Government to the Draghi Government, there is still too much "digging into cabinets for what was already there", and too little NextGeneration.
+It is cheaper to bestow praise on Fridays for Future in speeches, than barter out of current projects money to fund what could generate something sustainable for the next generation- which, as I already wrote recently, will not be limited to 2050, but probably 2100.Fulfilling, again, is a matter of inclusion: an evolving continuum of data, people, relationships.
+In a data-centric democracy, the only way to extract value from society is by having society be part in value creation.
+And being part of value creation in a data-centric democracy implies accepting that knowledge and bartering will occur in society, and not just within the Parliament, also because, as I wrote above, anybody can be elected, but to extract value from data you need to be an insider on those data, even just to convey to outsiders (including elected representatives) where the value is, and what insiders suggest to do to benefit society.
+Then, it is up to politicians to understand that, of course, each party presenting value in data will have potentially a conflict of interests, and, again, it is up to politicians to mediate between the various conflicting interests.
+In Italy, despite our obsession with leaders, leadership, charismatic figures, etc, we often mistake the Piper of Hamelin for a leader.
+But when leaders can contribute only their own self-image and willingness to appear, they will not be inclined to make real choices that could displease some: tinkering until Hell freezes over becomes a second nature.
+Hence, these weak leaders need a society where citizens (including corporate citizens) are not afraid to share their voices and expertise, and power turns into a flexible definition that requires less structural levels, and more temporary chambers of compensation between interest that come and go according to need and consensus.
+<b>Replacing a tribal mobbing democracy with swarming co-evolution</b>
+Disclosure: I am not one of those disappointed by the way the President Draghi government turned, i.e less transparency and less inclusion that expected, and less reforms.
+Because, frankly, it is all related to what I wrote above: you cannot expect a caterpillar to turn into a butterfly overnight- unless it is the right time.
+And now it is not yet the right time: first, we need to reform; then, a person and a team could make a difference, instead of a different form of repetition.
+There is a risk in this model, notably in a tribal mobbing democracy.
+Way too many self-styled political reformers eventually talk about "ensuring continuity" or "ensuring government stability", and end up looking a way to remain permanent incumbents.
+Over the last few months, routinely appeared articles lambasting the slowness to react of the EU 27 to changes in the evolution of the COVID19 pandemic, and invoking structural shortcuts.
+Our society is still used to think and act as if we were in Pharaoh's times, a vertical pyramid of decision making.
+It is not inability to understand the need of a continuously mutating configuration in decision making as the only way to stay ahead of the continuous rebalancing of social structures, partially inspired by technology and economics, and partially due to the expansion of exposure to external influences linked to globalization.
+I am not really a critic of globalization- but I am a critic of trying to use pre-industrial decision making approaches at the State level in a post-industrial, knowledge- and data-intensive (not the same thing, two different items) as a straitjacket on reality.
+The only net result? Decisions already in the late XIX century and early XX century started to be taken elsewhere, and then presented by national authorities, instead of being a continuous mutual influence.
+Look at the routine bartering whenever there is a major merger discussed involving companies operating globally. 
+I think that we have shifting paradigms and evolving constituencies that even politicians should be answerable to, as no country (and no town) is an island.
+Agility in business implies ability to configure and reconfigure, but that, in turn, requires appropriate undestanding of roles, capabilities, and mutual perceptions, and creating an environment were multiple attempts with multiple configurations are encouraged, so that the most socially and economically sustainable can then emerge and be adopted even by those that tried other paths and failed.
+Before, as in science, it eveolves again.
+The idea should be to first form and inform, then devolve (power, resources, etc), not the other way around.
+There was a recent interesting speech by Lagarde on December 8th <"https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211208~e18612adce.en.html">"Macroprudential policy in Europe - the future depends on what we do today"</a>.
+Apparently about banking issues, but in reality talking about the wider picture.
+Future evolutions will require each element to be adaptable to ensure retaining ability to benefit from social, economic, technological, scientific innovations whenever they will arise.
+It is not this presidential election in 2022, or even the next, but eventually building one step at a time a different approach to controller and controlled.
+Quis custodiet ipsos custodes to be replaced by a timeframe-related approach: not who, but when; not how, but why. 
+Implication: why has to be negotiated first, a political action- and, really difficult, considering also those who do not vote yet.
+The paradox? Potentially, large corporations will have a vested interest in long-term social sustainability that exceed the one of politicians who can just recycle themselves each election in a completely different way.
+As an example: if you have 3,000 kms of pipelines distributing gas, your perspective is quite different from those who sell the mantra "everything is software".
+Search for "Google graveyard", and look at how many products and services they tried.
+Then, try to consider what happened to companies that maybe invested significant amounts of money to train their own people, and even arrange their structure about the new concepts supported by those services and softwares.
+A mistake? No, not really- a difference of perspective.
+My Linkedin motto is really simple "change, with and without technology": I prefer to deflate than inflate, and I see that on Linkedin there are too many with overinflated egos and titles.
+Personally, I invite to join most of those who visit my profile, if they are not within one of those categories that I do not consider adding (no, it has nothing to do with status, roles, experience, titles, power- I had other criteria, but I am not going to disclose them: in my view, even a university student could be an addition worth more than a self-styled CEO of her/himself who just piles up connections and then claims to be an influencer: different potential).
+Working across multiple industries in various countries, and often interacting with senior managers when I was so "business fresh" that I had not yet been "influenced", eventually you see that there are different planes of "ordinary", both in society, business, and politics.
+One size fits all might be worth for some textiles that adapt to the wearer, but reality requires a little bit more effort.
+Also, if you have the resources, everybody would like to pick just winners, but I think that you need also failures as learning opportunities- and it is a waste when a society praises just winners and forgets lessons learned by losers, as then the risk is to "influence" generation upon generation on taking less and less risk, until everybody is just floating (or coasting).
+So much for a country of poets, explorers, saints...
+When I was living in Brussels, the best compliment I received was that I was a Ferrari that somebody tried to convert into plough.
+And the best criticism was that, in reality, I was not cynical, but an idealist.
+Change with and without technology requires being cynical as a first layer, to mercilessly shun timewasters; then romantic, to be able to carry the message; but, in the end, you have to an idealist, as in any change there are plenty of times when you see a tunnel at the end of the tunnel.
+If you do not believe in the end you want to achieve, anything goes.
+And you get a society of supposed revolutionaries who actually are turning into flash-mob anything they can.
+Because, as Edison supposedly said, invention is 99% perspiration and 1% inspiration, and nobody sees a perception of value from society in that 99%- also when I supported start-ups in the late 1990s, I found curious how often in Italy, if compared with others, founders talked about their own personal exit strategy, not the investors'.
+Or: they acted as developers of a caf&eacute; in Italy, where some take over a property, develop for a couple of years, and then sell to somebody simply coasting along, and move to another one.
+Decades ago somebody said that we need to recover the spirit of cathedral builders, were those starting did not expect to see it completed.
+Without going to those extremes, we need to re-introduce the concept that well known to our ancestors.
+As many (not just Polybius) readers of Ancient Rome history know, after each failure there was a recovery and new lessons learned.
+We can be less sanguine and more rational, in our times, and pre-empt some failures, but we have to accept that few long-term development give instant gratification, while require instant (and even continuous) investment in human capital.
+And to be investment in human capital, cannot be just on individuals: lessons learned have to be nurtured, shared, communicated, and act as a social springboard, not just worth for academic studies that are the printed equivalent of the Google Graveyard.
+Without trying to become a new Athens as a nation, a little bit of thinking and studying and speculative research for research sake might generate gratifying habits- both for individuals, and for society.
+And thinking, studying, research might have different dimensions: for some could be almost the traditional academic, for others might be creating new objects or just interacting.
+That is the essence of swarming co-evolution: each one will evolve with others and eventually interact with other "evolutionary cohorts", and what is called "transfer learning" will require "learning translators" (i.e. ferrying across domains lessons learned), but there should not be a static relationship, or even an attempt at a balance of power.
+Hence, but this is for a future article, part of my interest in "smart contracts" in a data-centric society.
+Have a nice week-end!
