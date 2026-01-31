@@ -1,0 +1,123 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250817_article.png)</center>
+
+This article is divided in five short parts:
+_ part1- the context (<i>this article</i>)
+_ part2- the past and transition
+_ part3- impacts seen from the consultants' side
+_ part4- impacts seen from the customers' side
+_ part5- scenarios for the way forward.
+
+Each part will be published on a daily basis (the first one on Monday 2025-08-17).
+
+If you read my recent articles about forthcoming publications, you know that I am preparing the relaunch as publications of two websites, [PRConsulting.Com](https://prconsulting.com) (focusing on the consulting industry side), and [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com), focusing on the customer side.
+
+The general concept, as outlined in the title, is the relationship between external providers of expertise and customers.
+
+Why now and why this way? As hinted within the title, I do not subscribe to the concept of "demise", but I consider that, more than with any technology that I worked with since the 1980s, AI is diffused- and that we should look at the past to choose the future to build.
+
+And, as will explain in the next part, and already shared on Linkedin, I think that we should not aim for "the" technology or "the" solution.
+
+I will keep repeating "GenAI" within this article quite often, because, as I will discuss in the next part, this is what most companies are focused on, also if this does not necessarily imply that will be the paradigm that will bring us what most of the hype about AI promises.
+
+As within the case of any case where there is both a degree of uncertainty, and preliminary results influence the "roadmap", a portfolio approach is more productive: do not put all your eggs into a single basket.
+
+In the past discussed in mini-books the impact of private devices used within a business environment ([Book03. The business side of BYOD: cultural and organizational impacts ISBN 978-1494844264 2014-01-30](byod)), and, seven years later, its evolution once devices and sensors were ubiquitous ([Book12. The business side of BYOD 2: you are the device & privacy at Edge 979-8539685225 2021-12-29](byod2).
+
+With GenAI, it took just a couple of years to spread its use.
+
+The startup approach to deliver services for free (better- freemium: start free, pay if you need more) eases embedding in everyday life the use of AI.
+
+Anyway, all this is possible only thanks to at least three elements that most commentators (and way too many policy makers) forget:
+_ <i>cloud computing</i>, allowing even the smallest startup to access computing facilities with limited or no initial CAPEX investment
+_ <i>smartphones</i>, bringing a computing power exceeding most desktop PCs in the 2000s within reach of each pocket
+_ <i>data plans based on 4G</i>, allowing cheap data consumption at the end-user level, but with reduced latency, almost real-time.
+
+Without those enablers, I do not think that the current status of GenAI use and investment would have been possible.
+
+If only e.g. only few large companies had had access to computing facilities, and if people were to be using a desktop computer, and at data transfer prices such as those that saw while working on a negotiation in Paris for a customer in the late 1990s (USA: T1; same price, in France: 9.6kb guaranteed, 14.4kb peak), there would not have been a "consumer pull" (both private and companies) that in turn attracted investors.
+
+If you convert any technology into a consumer technology, you create a potential for really short purchasing cycles, something that e.g. converted gaming, from something limited to buildings containing gaming machines, to a machine potentially in every home.
+
+Nowadays, it is a routine to write that the gaming industry attracts more consumer money that movies and other entertainment industries combined: who would have banked on that in the 1970s?
+
+We often ignore the "enabling factors"- but, as customers that met in Turin since 2012 know, I routinely complain that losing the "capacity planning" concept is generating an "infinite capacity" attitude on both sides of the equation.
+
+Vendors and customers alike seem often to have forgotten that having a zero response time implies having resources available at zero time.
+
+If it is about AI models or automated facilities-it is expensive, but feasible to think in terms of "virtual infinite capacity" (albeit many startups discovered what happens when you think "conceptually" and forget to read information about the billing model from cloud facilities), if you design with the right architecture.
+
+If you need people along that, you have to consider that provisioning people can become a bottleneck, as expanding on people implies a preparation (e.g. training, release from other activities) time.
+
+Despite all the hype, and the democratization of access (and use) due to all the factors outlined above, we are still within an early phase of diffusion of AI.
+
+With GenAI, there are many "emergent" uses that some could have foreseen, but are generating changes in everyday activities faster than we can "metabolize" them.
+
+Yesterday released my monthly AI Ethics Primer update, and, [as you can read on Linkedin](https://www.linkedin.com/posts/robertolofaro_ai-ethics-primer-monthly-update-as-of-activity-7362548296688484352-Mhux), the database contains now over 700 papers for a total of more than 17k pages.
+
+This monthly exercise in reading and selecting, which implies reviewing over 100 papers a month just to select those to add within the database, plus another 100 or more papers, articles, etc that I read each month via Linkedin and mailing lists, highlighted what you would expect, from the technological and business side, something that will discuss in other parts of this article.
+
+More interesting, from a cultural and organizational change perspective, is the change in everyday activities that we were not really prepared for.
+
+This morning saw on this website that the first volume of QuPlan reached 20k viewers/readers (do not worry: it is not "plugging" for my books- as you can find online links to read them for free), [both the book and the associated 200+ pages case study](quplan).
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250817_image1_quplan20k.png)</center>
+
+I am working on a second volume, which of course will include some references also to AI.
+
+Even PMI, for few more weeks, has an online "review" of a proposed standard for both the use of AI within portfolio, program, project management- and management of AI projects and programs, as well as portfolios including AI components.
+
+There is another issue, which is not just end-user access via smartphones, but also the unsolicited integration by software vendors of AI within applications.
+
+On purpose, installed on my Android smartphone 9 different apps linked each one to a specific AI model, to compare and test when I have some spare time.
+
+Anyway Google Gemini installed itself, and, within Microsoft apps such as WhatsApp, Copilot introduced itself.
+
+Fine, because I use them only when I need- and, anyway, as most customers are either using the Google or Microsoft "office" platforms, I better keep an eye on both.
+
+Also if, for my own activities, I prefer to use offline other pre-existing models integrated with other material, or use directly algorithms for my model design experiments and research on data.
+
+Anyway, we are now in a phase of GenAI adoption that pushes software vendors to differentiate themselves not anymore really on features (a lead in features lasts at best few weeks), but on number of licenses and similar indicators of success and market leadership.
+
+I saw that since the 1980s, as I wrote recently on Linkedin while relaunching a post that questioned some numbers provided by Microsoft:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250817_image2_technologyhype.png)</center>
+
+As a side-effect of excessive hype not supported by results, we risk generating [yet another AI Winter](https://en.wikipedia.org/wiki/AI_winter), by generating unrealistic expectations and spawning too many ill-designed "pilot projects", just because it is cheap to start them.
+
+And each failure by an ill-designed "pilot" will generate its own "spin" cycle, further increasing pressure on showing credible results.
+
+Recently I saw projects announced that frankly were exactly what I had seen as sample case studies of free online courses I followed from DeepLearning and HuggingFace.
+
+And also a model that was touted as a new national model, as shared in past articles, if you asked the right question, disclosed that actually it was just a "layer" upon an open source model from China.
+
+If that is the level of research and expertise, we are a bit out of touch with reality, and there is too much "snake oil peddling", which is what contributed in the past to the generation of "AI Winters".
+
+As somebody who is currently working on AI development (not just using models, as most of us, private and business, do) for real business cases wrote on Linkedin, there are too many self-declared AI experts who claim that they are doing research, while at best they are using existing models.
+
+Despite my toying with AI in the 1980s (PROLOG, mainly; albeit my first COBOL project in 1986 was a "scoring" system that issued what now we would call recommendation, and was tasked with the core software component), and my current working on some models, I do not claim to be either an AI researcher or an AI expert.
+
+Simply, as in any technology or business process I had to work in since the 1980s, I like doing experiments, to understand before I am asked to work either on change or coordination with experts on that technology: my focus, as when I was involved in political activities on European integration as a teenager, and then proposed in the Army an introductory training on information technology for soldiers and officers (and delivered both that and the associated train-the-trainers), is on impact- billable is a (potential) consequence, not the other way around.
+
+And also over the last few decades, routinely did test for others technologies, architectures, conceptual designs.
+
+In the past, doing my experiments (or even mini-projects) required infrastructure, budget, etc.
+
+As an example, when decades ago a former customer in Paris proposed to validate a software interfacing with SAP to allow easier access to its datamodel, and therefore integrate with business intelligence and similar applications, I had to find a partner who had a SAP installation, and work with they SAP architects to install the software, before I was able to test and report results confirming that the solution was viable.
+
+Hence, my business analysis on the case study that I wanted to apply, and the selection of SD, MM, etc (modules of SAP focused on specific business domains) data to show within a business intelligence dashboard was just a fraction of the preparation time.
+
+This morning, following some reports on different levels of hallucinations from different models, before breakfast did a small experiment, and the design time was limited, the preparation time was nihil, and the execution time of the same battery of tests across multiple models was the longest- how should be.
+
+You can find a description of preliminary results [here, on Linkedin](https://www.linkedin.com/posts/robertolofaro_whatever-the-technology-since-the-1980s-activity-7362736144867897344-NzRg), if you are curious about which models were more reliable.
+
+To summarize, the concept of this first part is simple: the context we currently live in sees AI as the forefront, but implies different layers of technology and social integration that we take for granted.
+
+What differentiates the current access and type of AI, is disintermediation: private and business users can bypass all the filters and use it directly.
+
+Still, the market tries to replicate approaches that were designed for the 1980s-2000s expansion of externalization of expertise, in part due to the acceleration of technological innovation in IT and data, an acceleration that required continuous investment on skills and capabilities, something that customers found eventually a distraction from their core business, and externalized with gusto.
+
+And continued to externalize even after IT and data became business-critical, and would have made sense to develop internal capabilities at least on innovation and governance, and externalizing just execution under strict governance to ensure business alignment.
+
+The next part will be a more "personal" perspective on consulting and AI current trends, before moving onto looking at impacts from both customers' and consultants' perspective.
+
+See you for the next part.

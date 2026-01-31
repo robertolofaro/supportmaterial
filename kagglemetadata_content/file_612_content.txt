@@ -1,0 +1,169 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250818_article.png)</center>
+
+This article is divided in five short parts:
+_ part1- the context
+_ part2- the past and transition (<i>this article</i>)
+_ part3- impacts seen from the consultants' side
+_ part4- impacts seen from the customers' side
+_ part5- scenarios for the way forward.
+
+Each part will be published on a daily basis (the first one on Monday 2025-08-17).
+
+If you read my recent articles about forthcoming publications, you know that I am preparing the relaunch as publications of two websites, [PRConsulting.Com](https://prconsulting.com) (focusing on the consulting industry side), and [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com), focusing on the customer side.
+
+The general concept, as outlined in the title, is the relationship between external providers of expertise and customers.
+
+To have a common ground, will start with some of latest news about AI.
+
+I wrote in the first part of this article that I doubt that our current GenAI focus will reap the benefits: and that's why I keep doing my experiments on PyTorch and TensorFlow (I prefer the former, due to its syntax, but I am interested also in the latter), but I am also recovering older deterministic paradigms.
+
+Hint: while for my own uses I am doing a mix-and-match depending on domain, for real "artificial intelligence" mimicking (or going beyond) our human intelligence I look at what others are doing.
+
+For at least two reasons:
+_ my targets now do not require a "human-level artificial intelligence"
+_ I think that it is delusional for a single individual (or even, with deeper pockets, a single company) to be able to work in a vacuum and come up with "the" solution
+_ last but not least, even if I were a narcisistic megalomaniac &agrave; la Lex Luthor in the latest Superman movie (I share only a physical likeness), AI research can be quite expensive, if you, as I do, focus on the business application phase.
+
+Anyway, it is quite interesting how often discussions about our current AI assume a "deterministic" bent, notably in business- something that saw in IT business choices since the 1980s
+
+Reading two articles on the Hinton / LeCun exchange reminded how even a single exchange can be perceived in slightly different ways from different observers- which should highlight that not just LLMs are non-deterministic: we humans too, often change our mind (and not just because we get new information- choices are a social construct that cannot be static)
+
+With any technology hype cycle (and AI had few "winters" since I first toyed with it in the 1980s, as a student curious about applying to something much more simpler and deterministic, as I wrote in the first part), there is always a string of companies proposing "the" solution.
+
+As I wrote above, I consider this concept delusional, even more so now with AI as it was (already) in the 1990s when I was working, after my time with Andersen+Comshare, with various UK- and US-based business intelligence companies, both as a solution pre-sales engineer and on business development.
+
+Back then, I saw companies good at e.g. building the model storage side trying to position themselves as good at front-end, while their internal culture was software engineering, and had no clue about the business mindset- and viceversa.
+
+Eventually, most of that swarm of companies were absorbed by three major players: IBM, Oracle, Microsoft.
+
+In AI, the same attitude is emerging- but, courtesy of cloud-based applications, is being "pushed" on the existing customer base- I wrote already how Gemini and Copilot invited themselves respectively on Android and Windows 11 Professional (Microsoft, for good measure, did both: please- let me know how useful is to have Copilot interfering with Notepad, which actually I used as a quick shortcut before going into Word).
+
+This trend it is already affecting business choices, both on the forced use of software platforms (since the 1980s worked in multinational environments- and those currently are mainly either Google or Microsoft fiefdoms, on the "office productivity" side), and talent management (e.g. for companies, including consultancies selling advice to customers, claiming that are replacing entry-level roles with AI models).
+
+Probably it is worth reminding (notably to States considering investing) that it makes more sense to adopt a portfolio approach (yes, I wrote this concept in the first part, and also within Linkedin posts- but it is part of the overall concept of "sustainability", which implies ability to cope with the unpredictable, pre-empt as much as possible, and adapt when needed, as this was the line of my commentary whenever joined in reviewing PMI standards).
+
+Anyway, will let you watch online videos and read articles.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250817_image3_hilton-lecun.png)([on Linkedin here](https://www.linkedin.com/posts/robertolofaro_meta-chief-ai-scientist-yann-lecun-says-these-activity-7362512871844474882-Phjt))</center>
+
+The two "takes" on the exchange:
+_ [on Indian Express](https://indianexpress.com/article/technology/artificial-intelligence/why-godfather-of-ai-geoffrey-hinton-and-metas-yann-lecun-think-empathy-in-ai-matters-10192854/)
+_ [on Yahoo](https://www.yahoo.com/news/articles/meta-chief-ai-scientist-yann-211159667.html).
+
+Anyway, there are already interesting uses that are emerging, e.g.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250817_image4_gptdevilsadvocate.jpeg)</center>
+
+That post received a comment from [a Linkedin member](https://www.linkedin.com/in/md-shohanur-rahman-/), which highlighted a point worth reminding: <i>"challenging assumptions often leads to innovative outcomes"</i>.
+
+My reply? <i>and that's what in the late 1980s to early 2010s was usually asked to do by my customer and partners, as was part of my official role
+
+since I was made to return to Italy in 2012, generally I was asked *not* to challenge assumptions- but occasionally did nonetheless, when this could be useful to get out of a conundrum
+
+so, kept doing it in my publications and online posts/articles- and actually was useful more often than not
+
+anyway, an analyst or manager who waits to have 100% confidence in the information used for analysis is exercising 20/20 hindsight
+
+hence, I still believe that the "Devil's Advocate" role should be a rotating role that any company should bestow periodically to somebody in-house
+
+a full-time Devil's Advocate in-house risks turning into an inquisition trying to justify its own role, while a rotating role helps in keeping a critical thinking mindset also on our own ideas</i>.
+
+As discussed on a post that <a href="https://www.facebook.com/robertolofaro/posts/pfbid02isTuCygCz38ZoTZ4yeTmp9m3ThYY9Pq6QYVnTk5B8iPnUbieVN1Wy5nSW5RQZ9yHl
+">released over the week-end on Facebook</a>, that attitude not to  challenge is actually typical of a company town that lost its reference company, and cocoons into past glories by clinging to what worked in the past.
+
+Will AI impact on this environment? Certainly- and already local authorities (e.g. Regional Government) announced that are considering using AI to improve the service of the first-line response on reservations for some health services (meaning: instead of expanding on people at call centers, using AI).
+
+Demography (including local population getting older and older) will require considering which services will be in greater demand:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250817_image5_demographictrends.png)</center>
+
+In my view, probably the solution that will be adopted is to have fewer "first line", and shift the more experts ones to a "second line" watching over what AIs do: if for now will be limited to scheduling meetings between citizens and doctors, or scheduling exams, probably automation would make easier to access.
+
+If, instead, the purpose is to provide advice, frankly would think that humans as a first line would be better, and then using a blend of AI and humans to assess the answers (e.g. AI can easily transcript in real-time conversations, and then allow other AIs or humans to identify emerging patterns).
+
+Just a couple of examples, from my commentary online, on the risks: 
+_ using AI to support decision-making, but as a potential replacement for human advisors, assuming that, with an AI, there is less chance that your advisor has an agenda [e.g. a Prime Minister](https://www.linkedin.com/posts/robertolofaro_%F0%9D%97%9F%F0%9D%97%B2%F0%9D%98%81-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81-%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B8-%F0%9D%97%B6%F0%9D%97%BB-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2-activity-7358469911758680064-bTuO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)
+_ having AIs covering the role of a first line of control, but then setting (to cut cost) as "supervisors" those who never were in the first line, who would then become the "human source" for those above them in the feeding chain: i.e. the AI will be actually the filter on reality.
+
+As you can see, the risks about the AI that I see are not in the AI per se, but its organizational integration.
+
+Since the 1980s, I saw often how technological advances were used to reduce costs instead of creating a competitive advantage while, as a side-effect, usually those with the "organizational memory" that would be needed to evolve the organization where removed- again, to lower costs.
+
+When this implied processing data, it meant often that, courtesy of technological advances, the more data was processes, the less expertise was available to make sense of it all- and that more and more reliance was on the tool and the process, than to critical thinking.
+
+I shared a decade ago a mini-book on the concept of [relevant data](relevantdata) in decision-making.
+
+At least, back then, access to tools was limited and certainly required some acquired skills- skills delivered through formal training, that was a chance also to deliver some training in critical thinking applied to data- helping to reduce the above mentioned risks.
+
+There are many other risks, but one is worth sharing: feeding cognitive dissonance so far required a team effort- e.g. I saw it often in my birthplace, Turin, as it can be expected when information goes in circles, and each party eventually gets a "circular" confirmation.
+
+There was an example within a book that quoted in the past, ["Veil", by Bob Woodward](https://www.bobwoodward.com/books/veil), of what happen when information goes in circle- and perception is lost that actually any confirmation is self-referential.
+
+With AI models, notably as they "behave" as humans when it comes to communication, the risk is removing any human contribution at all- except that coming from the individual user that is actually using the AI for support.
+
+There have been recently various studies and papers about how models used in communication with humans are inclined to please to please too much their users.
+
+And, actually, as in the decision-making examples above, this could generate some further side-effects:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250817_image6_chatgptpsy.png)</center>
+
+Anyway, will discuss in the next two parts of this article specific impacts on both sides (customer and vendors) of consulting activities.
+
+Before that, would like to close this part with a short summary of my experience as a consultant.
+
+Let's say that started by chance, and was supposed to last few years, and in 1990 tried to already to settle on the customer side.
+
+Back then, in Italy was still common to cross-check with past employers and rumors (being a gossipville, as I wrote, is a key feature of any company town).
+
+Let's say that discovered back then, and was confirmed by potential employers, as I wrote in the past, that others had different ideas about my future in Turin, and therefore had plenty of first interviews that turned into "ghosting" when a second interview that was sometimes agreed was never scheduled.
+
+Anyway, as since 1987 actually I had always been tasked on missions around Italy, good riddance- through also the help of somebody vouching for me and denying the rumours, I ended up being hired again by a consulting company, this time focused on products, and found myself based in Milan.
+
+And, actually, after having been hired as senior project manager in 1990, with the official title of "Responsabile Formazione e Metodologie" (I recently found a business card that I still had from that time), few months later was promoted to "cadre".
+
+And then kept working as management consultant, also recruiting and coaching project managers, both for my employer and for customers, until the end of 1992, when I left and, eventually, got a continuation with a first role from January 1993 as program manager on cultural and organizational change.
+
+In both UK (from late 1990s) and Belgium (from mid-2000s) I had planned to resume my 1990 quest for settling within an organization to see evolving, but, eventually, was always asked to work as a consultant.
+
+Albeit, in the 1990s as well as in the 2000s and 2010s, it became a routine of being mistaken by other consultants that was asked to coordinate on behalf of customers, or third parties  for somebody who belonged to the customer structure.
+
+The key reason? Also as a consultant, probably as a consequence of being asked to recover or complete existing activities, from projects to negotiations, from 1990, when first registered as a freelance, was used to work on missions focused on developing or improving organizational capabilities, blended with technology.
+
+And also while in the Army, instead of biding my time for 12 months, covered multiple roles and also proposed, designed, delivered a training to develop an understanding of the potential of IT- at the time, 1985, it was teaching the basics of programming and architecture to non-technical people, and to follow them also on the practical sessions, while also training other trainers.
+
+From my political activities on European integration at the ripe age of 17, to this year at 60, there are three fears that learned (some quicker than others) to lose:
+_ fear of learning, which implies feeling stupid for a while
+_ fear to make mistakes, which is a structural part of learning for real
+_ fear to admit that I do not know, which implies you need a larger team than yourself.
+
+I promised to keep each part of this article relatively short, and, anyway, will have time to share in the future on [PRConsulting.com](https://prconsulting.com) more about the "consulting side"- including cameos from my past, lessons learned, etc.
+
+The key element in my experience is, even when I was delivering training, to listen as much as possible before I started talking, and to keep listening and adapting communication, but raising the bar as either training or activities went on.
+
+Some of my team members and partners remember how often shared books from my library, or even prepared informal papers to have a level playing field, and routinely had former customers reminding me of some "trick of the trade" used to improve learning or accelerate decisions.
+
+Another point is that, if [look at my CV](cv), you will see a sample of the industries and business domains I worked in (or for)- and each one was a continuous learning opportunity.
+
+As I had learned first in politics, then in the Army, then in Andersen while working in automotive and banking before moving onto cross-industry decision-support systems, including to design and build multiple models for internal controlling, what used to be called "the horse race" around billable hours, between late 1988 and January 1990, after my first projects for customers, in some cases started by setting aside wonderful business analysis done by others that did not consider which data were relevant and available.
+
+And also in each mission since 2012 (all within the former FIAT group- CNH, Iveco, a short one recently in Stellantis), I ended up leaving behind processes (e.g. how to recover a KPI project and go through the "pilot" phase and then rollout using a Pareto approach), tools (e.g. how to monitor phase-out/phase-in for a warehouse, as I had learned decades before first in Army logistics and then in business logistics), and even recording of a training that delivered on Jira, plus other assorted items.
+
+On one of my Twitter accounts, my motto was "Have you learned anything today? No? Then check your vitals- you are probably a zombie :D": and still holds true.
+
+If you do not identify yet another bit of your own personal ignorance everyday, you are not, in my view, a consultant, but just painting by numbers- which sometimes is what is needed, but for a consultant cannot be so all the time- in a couple of years, AI would be able to replace most of those adopting a "painting by numbers" approach, no matter how convoluted is made to justify their existence.
+
+I saw that consulting since the 1980s frankly evolved more into staff augmentation and de facto business process outsourcing mildly disguised as "project", "service", "application maintenance", than an advisory or "mission-by-mission" role to temporarily provide expertise missing on the customer side, or a new perspective.
+
+Better to say that consulting, in the late XX century, should have evolved in a different way, and that, if you still follow that "everything everywhere at all times", in the XXI century, you are onboarding risks and undermining business viability, while destroying talent.
+
+As I wrote about the Devil's Advocate concept, it is better to consider that some capabilities should be expanded horizontally, i.e. people should develop them across activities outside of their "comfort zone", and learning to be sometimes leader, sometimes facilitator, sometimes follower- depending on the domain, context, needs.
+
+Anyway, the old "pyramid" approach of organizations, that I saw developing in the 1980s within the consulting industry (mimicking the local main company), has to be reconsidered.
+
+Back then, an Andersen partner told me he had become so in 5 years, while in my time other Andersen colleagues- I was part of a subsidiary, not Andersen proper- told me that they expected to become managers in the same timeframe, and later was told that it took 10 years.
+
+Anyway, shared in past articles and also on Linkedin how differentiating between staff augmentation (i.e. embedded in processes and rituals) and consulting (i.e. working by mission) would improve efficacy and efficiency.
+
+And what about returning to the company town? As I shared repeatedly locally: for now, I think that only a mission-by-mission is feasible for me.
+
+Will share in a couple of days some considerations using the case of Turin and its company town role to measure and integrate the AI impacts.

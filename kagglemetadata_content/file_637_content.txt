@@ -1,0 +1,559 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260128_article-1.png)</center>.
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/index.php?section=rethinking-organizations) series.
+
+Why now? It is not really an article- it is more the introduction of a future book plus assorted excerpts that will be within that book, on redesigning processes considering AI as part of the landscape, but considering also the starting organizational culture and organizational memory, and the journey ahead.
+
+The key risk? Right now, I routinely attend online workshops, conferences, webinars- since the lockdowns of 2020, as at last could accept routine invitations from e.g. Washington that I had received for historical reasons from the times of "re-inventing the government" (1990s), as most of those events shifted to an online and hybrid mode of delivery.
+
+About AI, frankly there is a lot of FOMO (Fear Of Missing Out) and little strategic thinking, and even less transformation-orientation.
+
+The risk is piling up interventions while tossing away what differentiated the organizational culture, and adopting the usual approach to cut first the highest costs.
+
+Instead, my view (read more in previous articles and within this article) is that actually you have to consider two organizational layers as critical to the success of AI introduction initiatives: the one representing organizational culture and organizational memory, and the one representing the future.
+
+Yes, I see AI as an engine to shrink the middle, the bureaucracies, the supervisors of supervisors- not to support or automate part of their work, and certainly not to replace juniors interns etc that will instead become eventually those who, being AI native, could foster innovation, if properly guided by those above- who would need to have more business and data depth than that delivered by those just following procedures and processes.
+
+In this article, will focus on sharing reflections on some data- not just on redesigning processes with AI.
+
+As for the redesign of processes, will be in future material, within the book, where I will share a more structured version of this article, along with discussions on specific processes.
+
+The table of contents:
+_ the concept
+_ theme1: background 
+_ theme2: our times
+_ theme3: Italy vs. EU 
+_ theme4: we, humans
+_ theme5: AI engines and what's next
+
+
+<b>The concept</b>
+
+Today is "data protection day", in Europe:
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/screenshot-from-2026-01-28-08-35-47.png" width="50%"></center>
+
+If you talk about AI, you talk about data.
+
+If you talk about AI within an organization, you talk about data, organizational culture, and organizational memory.
+
+While in past rounds of digital transformation could be feasible to take "off-the-shelf" solutions, you would need to adapt before adopting.
+
+As I said to the buyer side of an automotive organization two decades ago, while attending a meeting with a system integrator partner to sell services on ERP, specifically SAP, any system that covers processes embeds a culture: you either understand that, or start tinkering and adjusting incurring increasing costs, or convert your own culture into the one embedded into the system.
+
+If you understand that, you can qualify and structure interventions, choosing what is best within your own objectives: introducing any system that "embeds" a culture is a matter of cultural and organizational change, not just a "plug-and-play".
+
+The reaction? My partner called me and said that the customer was interested in our services- specifically, would like me for a specific role, as they had already projects in that domain, and were interested to the approach.
+
+At the time, in Turin the customer had a joint-venture with another company that added a markup on top of lower rates, and were used to have local players that they squeezed hard as have nowhere else to go.
+
+I was not local (since decades, despite having born in Turin), and therefore simply declined- it is called BATNA- Better Alternative To A Negotiated Agreement: if a customer wants a Ferrari but is willing to pay for a second-hand Cinquecento, they would certainly find somebody matching their budget, and then trying to expand it gradually.
+
+My approach, back then, was what was represented within an e-zine on change that will quote here and there, as concepts such as "organizational memory" and "retaining knowledge" (not just the "know how", but also the "know why") were within e.g. that quarterly e-zine published in 2003-2005, and other mini-books- you can find most of them on [Leanpub](https://leanpub.com/u/robertolofaro), where you can either buy (thanks!) or simply select zero as price, and download the pdf- a paper version of each mini-book is available also on Amazon.
+
+In December 2025 and early January 2026 released the material of a mini-book via episodes, using a XIX century approach- [you can read the "starting point" and the follow at this link, as "2025-12-15 Pointers- 2025 and scenarios 2026"](index.php?page=627).
+
+The title? Because I hope to make that an annual tradition.
+
+Since I adopted this article format in October 2025, usually the discussion about my relevant background is limited to few paragraphs within the preamble section, plus few paragraph here and there to share cameos.
+
+In this article, as I wrote in the opening paragraphs, removed the preamble (and also the bullet list summary in each section) as in reality what you are reading is part of a book that will release later- on (re)designing processes considering AI (and eventually AI-natives) as part of the landscape, not just options.
+
+Incidentally, as shared a bit here and bit there in the past, this format is actually the result of a mini-project done with AIs, using both online and offline models:
+_ first, designed my intent, tested a bit with models, and then finalized a prompt to hand over to AIs giving a "project charter", which was really the structure, form, content of an assessment on my website- a SWOT of my website and its content, to be precise (somewhat structured)
+_ then, that prompt-project charter was handed over to different online and offline models
+_ then, looked at the different proposals, and assembled a project charter of the changes to be done
+_ finally, built a roadmap of changes.
+
+Then, of course started defining and rolling out "packages" of changes, using models whenever needed.
+
+Anyway, that approach is not really specific for AI- it is also the same approach that used e.g. to design training curricula.
+
+
+<b>Theme1: background</b>
+
+This is going to be the longest section of this article.
+
+Earlier this week received on Linkedin an interesting post about the three types of project manager currently required on the market, and used that reference to repackage my experience.
+
+Overall, I agree on the three broad categories of project management as a useful summary of the requests that received since at least 1990:
+_ firefighter
+_ process builder
+_ political operator.
+
+And, within that post, outlined my experience in that area- including when actually started coaching and training project managers:
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_1_background_01.png"  width="50%"></center>
+
+Specifically, it all started on a cultural and organizational change intervention to help round up the profile of technical team leaders and project managers by adding what had not been developed through their past technical experience, for a small system integrator.
+
+You can see the "talking point materials" on [my portfolio website](https://robertolofaro.wordpress.com).
+
+Talking points: because, coming from a non-technical background, I prefer since the 1980s to adapt the actual narrative to the audience and their reactions.
+
+Hence, also when localized material coming from other countries (e.g. 1988-1990 while "selling" Decision Support Systems, 1990-1992 while "selling" methodologies, 1992-2001 while "selling" business intelligence and vertical solutions, and generally 1990s-2000s while "selling" solutions and newly formed startups concepts), tried to avoid slides filled with gazillions of details- better few key points that help guide through the narrative, but whose "connecting the dots" you can adapt to the audience (even "live" adaptations, if you are delivering a pre-sales or business case selling presentation).
+
+Albeit, of course, prefer to profile the audience before starting, or to adjust continuously looking at reactions.
+
+In the 1990s, as at last had to deliver a training curriculum tailored to a specific customer within a multi-year cultural and organizational program that was leading, had a bit more time to invest, leveraging on over a decade of experience in designing and delivering training courses and training curricula.
+
+As shared in multiple previous articles, one of my habits includes, after the end of each mission, to have a kind of ex-post assessment, but, as I am used to work on multiple projects and initiatives at the same time, actually eventually this turned into a continuous update, at least around each milestone.
+
+Working on multiple projects or initiatives delivers also an additional bonus: you avoid tunnel vision, prioritize, and constantly re-assess, to pre-empt impacts.
+
+When in the late 1980s first designed and then delivered training courses (including one on the decision-making approach itself, not just the tools, delivered to senior managers of a customer to introduce data-centric/evidence-based decision-making), each delivery was useful to both reassess material and coach others, to allow "spawning" the potential of multiple training sessions at the same time.
+
+What I was significantly unsatisfied with, was how we measured training results and shared them, including when I had to simply localize material coming from USA, UK, France, or even Italy.
+
+Often it was just the "feed-back questionnaire" with those 5-levels scales and some open-ended feed-back collection boxes.
+
+Sometimes it was a requirements also to "measure" understanding.
+
+If you receive an assignment for a cultural and organizational change initiative that you have to start from scratch, and agree to an approach where each year with the CEO you will identify objectives for the next year, and each year you will have multiple checkpoints to adjusts, prioritize, etc, it is worth investing a bit of your time before starting to actually better contextualize.
+
+I had assessed at a 2-3 years, instead lasted 4, and then for a further ten years had focused missions, for nine years related mainly to post-M&A organizational integration.
+
+Hence, that initial investment had been a wise choice, to avoid being just another "reader of slides extracted from a book", and really tailor and tune to the customer organizational needs. 
+
+Yes, I was coming to that with over a decade of "savoir faire" acquired by delivering presentations also in political activities, conveying knowledge to classmates first in high school then in the university, training people with radically different academic backgrounds and levels of seniority in the Army, and delivering project- or product-specific presentations and training in business, internally and for customers or prospects.
+
+Still, lacked a formal framework, as also what I had received while working was a pre-digested series of concepts whose depth was not shared.
+
+What did I do was to dig a bit into theory and best practice of polling, to create instead courses that included not just the "feed-back questionnaire", but also ways to assess how much those answers were credible, and not just "padded" up or down.
+
+As a teenager, at 18 had been working at a voting station in my first national elections, and then few times more in ensuing elections, and remembered how was paramount to keep votes cast confidential: we actually met the afternoon before the vote casting started, and had each time a book with the rules and regulations to follow.
+
+When in the Army, due to my past experience, I was asked to be part of the local polls for the Army representative bodies, only for professional soldiers- and saw something different.
+
+A NCO came at the end of the counting asking only for votes cast that contained remarks, as was going to compare handwriting and then take a note.
+
+Hence, when delivering training in business, routinely turned down similar requests already in the late 1980s, as the concept was to provide feed-back and keep having feed-back that was useful to adjust, working also with HR on results.
+
+In the 1990s, as the feed-back and open-ended feed-back was to be used to propose to the CEO adjustments on the next rounds of training, obtained an agreement on confidentiality: I was to report aggregated data, but would not share the source questionnaires per se, as this could potentially affect future honesty within feed-back reporting.
+
+Also, generally removed the concept of "final exam"- it was better to have hands-on in each stage, then discussion on the results, and then providing to everybody for the next test stage, as starting point, not what they had produced, that they kept, but the discussed solution, as an equalizer- as, anyway, any deltas or doubts at the end of the previous stage had been discussed.
+
+Another point, that shared in previous articles: while when you build "off-the-shelf" training courses of course end up building "standard" test cases, whenever there was a commitment to more than a single run actually prepared domain-specific test cases.
+
+It does not really take that much- the example of last minute restructure was a course in business analysis to define the project charter, for project managers and business analysts, within banking.
+
+As it had been (early 1990s) just announced from Basel a new approach in anti-money laundering that involved accountability also at the clerk level, used an article from Il Sole 24 Ore as the source material to have those attending define business case, scope, risks, etc.
+
+If you deliver a speech or the lines from a script, your audience is probably better to be considered a whole, to avoid distraction from your pre-packaged communication dynamics: or, you want to bring them to your territory.
+
+If your aim is to convey, transfer, harmonize toward specific points, adjustment can sometimes be limited to a specific nudge toward a specific subset of the audience on a specific point, get them onboard, and then pull back toward audience as a whole.
+
+If training is the format, then usually also in proposals to customers shared the parameters (e.g. number of people per session, or how many "teachers" and assistants would be needed in specific sessions based on the class size)- which, in business, if they "purchased" the package, frankly was never an issue.
+
+Finally, if the training aim is to deliver change in "the way people are thinking and working" (as I had been asked), the idea is that anybody attending should leave classes confident enough and energized enough to be also a kind of "evangelist".
+
+Not all had the personal inclination to do so, but gradually worked: and when people in meetings that you are not attending start quoting you as a source (as was told), it becomes a common benchmark.
+
+What matters is not being personally acknowledged as the source, what matters is creating shared material that others could agreed on, creating a "shared lingo" that becomes a "common ground" also when the source is forgotten.
+
+If training is delivered as an organizational initiative, should actually deliver a bit of "terraforming" of the discourse.
+
+If you work in advocacy, what matters is that your agenda is implemented, not that you are the visible champion of the agenda: sometimes, it is better to fade into the background and have what you advocated be broadcast from those who can already leverage on their existing roles as influencers, adapting their delivery to their own individual audiences.
+
+Another point worth considering: whenever delivering that type of "cultural change" training, including when part of digital transformation, an incremental approach is better.
+
+Which is not our current "mini-modules, multiple answers questions, etc.
+
+Instead, included practical cases in each training session (which could be partitioned in modules across 2-5 days), followed by application, generally with no final exam.
+
+On the digital transformation, this included e.g. 1980s introducing Decision Support Systems and data-centric/evidence-based decision making replacing "seat of the pants", 1990s-2000s further democratizing by introducing business-intelligence-on-each-desk, etc.
+
+On the soft-skills and business skills, this could include tagging along in e.g. negotiating sessions, and having preparation (including reading material) before to align, and debriefing phases to cross the Ts and dot the Is, gradually delegating to the trainee first parts across multiple sessions/visits, then the whole of the activity, before assigning a fully autonomous initiative.
+
+In both cases, the aim was to change mindsets in a sustainable and continuous way, not just to deliver a certificate of attendance or test short-term memory with a certificate of testing.
+
+As the latter, often is unfortunately the domain of too many certifications (whatever the subject): people attend 1-5 days in class, pass an exam immediately after completing the training, and then are certificate holders- then, when working, try to replicate patters they studied, not to assess the specific context.
+
+In that post on Linkedin shared within the image above, shared how actually usually blend the specific role asked for with actually leaving then behind enough knowledge to "maintain" that level of knowledge.
+
+See what described in past mini-books, e.g. <a hrer="bfm2013">the 2013 updated reprint of my 2003-2005 quarterly e-zine on change</a> or a later book on [integrating expert (external and internal)](synspec).
+
+For example, since 2012 whenever I was offered a mission was told that had been already ongoing and the expectation was "firefighting".
+
+The "transition phase" that was supposedly to last for weeks or months was reduced at best in some cases in few formal sessions of few hours with structured material, in others a formal couple of weeks when there was never time and, therefore, overall it was just a dump of files and few hours across weeks.
+
+Then, the other two profiles often were needed, as often 2012-2022 there were multiple projects ongoing at the same time.
+
+The specific profile to be applied was related to the specific project/workstream/"wave".
+
+Another element that, specifically in training, carried out since the 1980s (yes, even in that Army training that proposed, designed, delivered) was train-the-trainer- which requires a lot of process building to allow replicability.
+
+In those cases, in later years when there were multiple ongoing sessions, to enable a level of harmonization, some of the material could be pre-recorded, so that the specific "teacher" could intervene to connect those elements, and to provide live Q&A, live Q&A that the "teacher" had been prepared for by delivering few layers more of material than what was supposed to deliver to those attending the training.
+
+No, currently I do not deliver formally training- as nobody is paying the rate that used to charge.
+
+Between 2012 and 2022 only supported or delivered training as supposedly my role was a stepping stone toward a longer-term role: which never arrived, as there was always somebody ready for when the key issues had been solved, be it in firefighting, process building, or "negotiation".
+
+Anyway, why 2012-2022 (and a bit also 2024) gave my contribution also in training coordination, in 2021-2022 did an exception: when asked to fill-in to deliver a training to a worldwide team on Jira on existing material, as it was my first official mission where used Jira and Confluence, did adapt the material, and, when asked if I would authorize recording for future reuse, I accepted- so, added that delivery on my CV.
+
+Delivering recorded material without providing also the underlying levels of information supporting what you said, was "fake depth", if you want, but based on real experience, and therefore usually structured enough to answer live Q&A sessions, enabling then to "escalate" or "will come back" for specifics not considered.
+
+I had done that since the 1990s, using different tools, from screen recording, to subtitles, etc- but from the late 2010s instead of commercial software, also because my main operating system is Linux, tried shifting to open source software, successfully.
+
+After trying to use Windows11 Pro and fighting repeatedly with the aftermath of its failed updates, frankly, dumped it, did not use anymore the licenses, and instead use only (with license) two virtual machines with Windows10 and a license of Office plus Visio plus Project, just in case customers or partners send or request files in that specific format.
+
+The same approach actually worked while coaching and training also pre-sales on solution-based selling (i.e. a form of consulting, more than selling), where key was to develop "listening skills" similar to those discussed in my reply to the post above.
+
+Now, how does all this relate to applying AI in process redesign?
+
+If you followed at least some basic training on prompting and interacting with LLMs such as ChatGPT and Claude, you know that the way that you provide the context can significantly alter the results- also if you do not add external material to complement the "knowledge" of the model, and also if you do not allow access to web search.
+
+In some specific cases you can do what I did with Claude and shared in the previous article (in that case, applying my [Devil's Advocate approach to President's Trump speech in Davos](index.php?page=636), obtaining more than a dozen pages of structured analysis as if had been delivered by a team of experts and then summarized by the team leader.
+
+Anyway, in most cases, it is better an iterative (to adjust until that interim result can be considered complete) and incremental (to expand step-by-step) approach.
+
+E.g. have a look at the end of this article to the Linkedin post where shared two days ago about how I interacted first with Claude and then with Gemini to obtain confirmation of a detail from a 1990s conversation that came up to mind, about the "spread" in banking in Italy vs. USA in the 1980s-1990s.
+
+On Linkedin, actually shared the link to the Gemini thread, so you can read both how interacted with Gemini, and the input I provided (which was a request to complement a conversation that I had had with Claude- I provided almost the whole conversation).
+
+And all that was done using only the "free tier" of both models.
+
+Incidentally: if you have limited needs, I saw earlier this week that, beside 30h/months of GPU and 20h/month of TPU, now you get 10USD/day of Google AI credits (up to 100USD/month)- so, beside hosting datasets, models, and notebooks (for larger ones, go to HuggingFace), you can also go past the free tier on Google, but still for free.
+
+If you are technically inclined: yes, also Kaggle has an MCP server.
+
+Now, this is the consulting and training background, as well (read the post) the project management and project manager recruitment and training experience.
+
+Anyway, as when dealing with models, it is worth considering the context.
+
+Hence, before talking of AI uses examples, will now shift to three levels of context: our times, Italy vs. EU, and the roles of us humans within an environment where AI is a structural element of the landscape, and not just one of many tools.
+
+
+<b>Theme2: our times</b>
+
+Right now I live in Italy, and you can read on this website plenty of articles about the Italian national debt, including some sharing actual data and its historical development.
+
+Anyway, many missed the recent quip/warning of President Trump directed toward allies, about dumping USA debt.
+
+Well, as shared again on Linkedin, commenting an article from an Italian newspaper, it is nothing really new.
+
+Long before winning the second term, the discussion about "selective default" was on the table, actually was part of the political platform.
+
+The idea? Defaulting selectively on debt, i.e. just on that held by selected categories and partners, was something akin to considering debt held by partners as a kind of "cost of staying within the business partnership".
+
+So, that warning is just a reminder:
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_2_our-times_01.png"  width="50%"></center>
+
+Recently, newspapers and media (and also politicians) often talked about the high concentration of chips production in Asia- as if it were not something that actually resulted, as the processing of some critical raw materials, from political choices.
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_2_our-times_02.png"  width="50%"></center>
+
+Or: the latecomers from China actually did benefit from jumping already on the latest technologies.
+
+The European Union launched an initiative to actually repatriate in Europe the production of advanced chips- but will take time.
+
+Meaning: seeing data is not enough, if you want to become data-centric- you have to consider the context.
+
+Why should you become data-centric (or "evidence-based", as it is trendy to say now)?
+
+First, because made sense in mid-1980s as in mid-2020s: in our complex times, "seat of the pants" is not enough.
+
+Second, because, despite what some people say, in my experience if you integrate evidence (which is not necessarily numeric) to interact with models, as part of the context, this could actually make the activity more productive and reduce the risk of hallucinations and other types of information distortion, while also steering conversations, exploration, and summarization.
+
+As an example, I asked different models to review some of my material- but, in some cases, prefixed my role description and structured prompt with a request to adopt a specific perspective- the results were obviously different.
+
+And once you get used to evidence, you need to do something else: understand it, and connect the dots.
+
+Otherwise, you risk making wrong choices.
+
+Examples: there are shifts worth considering, e.g. the European Union just celebrated its pivot toward India, announcing a 2bln people market, while today Reuters reported that UK is considering a pivot toward China.
+
+Misreading evidence is a routine in my birthplace, Turin, as discussed in previous articles about [automotive and Turin, notably since 2025](search.php?tag=turin_automotive), but also before, talking about [business development and Turin](earch.php?tag=turin_business_development).
+
+The latest turn is the discussed transition toward aerospace and defense for automotive suppliers, considering the shrinking production base of automotive in Turin, as [as discussed e.g in this article](index.php?page=628).
+
+As I saw in a workshop organized by a consulting company few weeks ago, most companies do not understand the industry they would like to transition to.
+
+Therefore actually not just consultants, but also other parties can see a significant potential market in this transition in Turin.
+
+Hence:
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_2_our-times_03.png"  width="50%"></center>
+
+Now, considering the changes that this shift could bring within the territory, it is worth considering this discussion also should future announces appear on the table.
+
+Anyway, while overall times are complex, Italy, beyond the debt, has some other issues- issues that deepened over the last few decades.
+
+
+<b>Theme3: Italy vs. EU</b> 
+
+I wrote above about becoming "data-centric" and getting used to "evidence-based decision-making".
+
+Well, this section will be really short: and will be just about evidence.
+
+Actually, would like to share three slides from a workshop in Turin hosted by Collegio Carlo Alberto that attended remotely few days ago.
+
+Here are three images that summarize a key element:
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_3_italyvseu_01.png"  width="50%"></center>
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_3_italyvseu_02.png"  width="50%"></center>
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_3_italyvseu_03.png"  width="50%"></center>
+
+I will let you think about it, and move onto the next section: about humans and AI.
+
+
+<b>Theme4: we, humans</b>
+
+Yes, everyday on any newspaper there is at least a couple of articles where AI is referenced.
+
+Anyway, as in many other cases, the risk is always that what is trendy becomes "the" choice- also when it does not make sense.
+
+As shared on Linkedin, 
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_4_we-humans_01.png"  width="50%"></center>
+
+How often really AI is "the" solution?
+
+Will discuss within the last section some examples of how using different versions of the same model could allow a tailored response to different specific uses.
+
+Last year started developing my own presence online courtesy of the budget set aside from the proceeds of my previous mission, as a program management long-term time-intensive mission that was to start in spring was first procrastinated a bit until the summer, and then became a case of "ghosting".
+
+The upside: as that mission was supposed to be long-term, I had already started the "learning path", to be able, also if it was a "process builder" type of role...
+
+... to hit the ground running because, as part of the interview process, I had a session on a "case study" that really was about developing a roadmap for the program for free- something that did in less than half an hour not as mumbo-jumbo, but as sequence of milestones and deliverables, with also the basic elements of a SWOT analysis.
+
+Or: all that was needed to help define the "charter" for both the main project and other additional delivery and process/service building projects.
+
+That learning path (studying regulations etc applicable should I be confirmed) and the roadmap that I had built and delivered as "case study" were actually useful to inspire my own roadmap to improve online presence.
+
+Moreover, courtesy of the connections that developed through online presence development, I had (and still have) a continuous stream of case studies pre-vetted by others more hands-on (both on the business and research side), saving me plenty of time vs. the alternative of searching.
+
+Yes, some people sometimes get obsessed with publishing on Linkedin on a daily basis, and end up with relaunching old case studies just for the publishing sake- but the cost is just filtering out people on a daily basis: a matter of seconds, not of the  hours that I save by having built a network of "filters".
+
+In the late 2000s, while in Brussels, was invited to write a book on integrating social networks within the corporate marketing mix, a book that was distributed to marketing directors of customers of a company.
+
+Eventually, in 2013 produced a different version that had a different audience- and you can see it on [Slideshare](index.php?page=85)- so far, has been read over 45,000 times.
+
+So often, that few years back I was offered to convert my 100-ish pages mini-book into a book twice that length, but, frankly, at the time when the offer was made worked on a time-intensive mission at portfolio level that started in the morning with Asia, and ended up in the evening with Latin America, while working just from an office in Turin.
+
+For that book, as before political advocacy as a teenager between other things was interested in cultural anthropology and comparing Constitutions plus studying cultures, went around studying research material- and still I think that, in our times, Prensky's material on "Digital Natives, Digital Immigrants" ([e.g. see here](https://cddoc.uc.cl/wp-content/uploads/2020/03/Digital_Natives_Digital_Inmigrants.pdf)) could be interesting and relevant, if you adapt before adopting.
+
+A recent post shared by a contact on Linkedin contained the results of a study on how AI is actually used by different generations.
+
+Going "AI first" is easier said than done, as discussed within [the previous article](index.php?page=636):
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_4_we-humans_02.png"  width="50%"></center>
+
+Actually, as it was with Prensky's material, in my experience it is not so clear cut a division- and also on AI routinely saw and read unexpected depths with limited breadth (and the opposite) in the most unexpected quarters.
+
+As an example: 
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_4_we-humans_03.png"  width="50%"></center>
+
+Yes, it is a nice announce and PR, but a bit jumping the gun.
+
+As shared recently about a test of a vending machine whose brain was Claude, the agentic side still needs some understanding from our side.
+
+Personally, while followed training on MCP, agents, and agentic AI, used the first only for local experiments and limited tests online (but have on the back burner something related to my publications), use and develop on a daily base agents, but on the agentic side...
+
+... for now, keep reading reports, books, following training, doing tests- but I have no plans to implement, as standard automation with a bit of "smarter" approach based on results is enough.
+
+On Monday attended an event/workshop in Turin at the Unione Industriale (the local branch of the Industrialists' Association), and this is my feed-back:
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_4_we-humans_04.png"  width="50%"></center>
+
+We still sound often as those WWII generals who had assumed that was worked in WWI would be usable in a more industrialized war- a ["Maginot Mentality"](https://www.historynet.com/the-maginot-mentality/).
+
+It is not technology that fails us, but our framework of analysis that, instead of reconsidering the toolset, strives to minimize change, and ignore the contextual specifics of the current environment.
+
+A "sunk costs" mindset: just because we invested years, even decades developing some approaches, does not imply that they should be considered cast in stone.
+
+Specifically, ignores that past technologies (as in the examples listed in my post above) involved in previous rounds of digital transformation of technology saw "democratization" as something working within the confines of organizations.
+
+Yes, PCs in the 1980s and Internet from the late 1990s or smartphones and handheld devices such as those that described in my mini-books on the business side of [BYOD](byod) and the hunan role in data-intensive and sensors-rich environments in [BYOD2](byod2) added a degree of democratization of technology, but still was and is relatively easy to control access to data or data leads.
+
+So, you can still think in terms of what described over a decade ago as [relevant data](relevantdata)- i.e. data you can select to include.
+
+Anyway, while we focus on [GDPR and privacy](gdpr), the new technology can be used from any device anywhere, and also the "free tier" allows to carry out complex, multi-step and multi-model tasks (as I show in the final section of this article).
+
+Hence, the novelty is that willingly or not you could have somebody, for example to "shine" during meetings the following day, to go home and develop an idea with Claude, Gemini, ChatGPT, etc using a smartphone while commuting, and, in the whole exchange, no trace is left, as it is "brain to smartphone and back to brain".
+
+Then, the following day, could be able to contribute to discussions but having a deeper level  of preliminary analysis.
+
+Yes, there could be some corporate policy that is violated- but most corporate policies focus on data confidentiality, NDAs, etc- not on "thinking".
+
+Also because you cannot forbid people to think.
+
+And, as in the late 1990s to early 2000s, those in their late teens or early 20s already working could use messaging also while working, currently it is more than probable that will use AI tools as a "helping hand" or to understand what did not get in a meeting, or to test soundness of some ideas before contributing in a meeting and risking saying something that would make them sound as fools.
+
+Yes, you might not know it, but probably the democratization embedded in current GenAI-based AI is already within your workforce- and also without sharing corporate sensitive information, might already be influencing your own corporate choices.
+
+As shared in my post, in July 2025 actually posted an article about this issue [The #human #side of #AI #adoption- where #funding should go](index.php?page=607).
+
+Unfortunately, both politicians, industrialists' associations, and companies talk about "ecosystems", but really think by organizational, not social boundaries- notably in Italy and other countries following a similar social and welfare model, which is public, but really linked to companies- including when talking about tax credits or incentives for AI adoption.
+
+The title of this section, "we, humans" is about this concept: the first processes that we should redesign are about humans, not about inserting AI.
+
+As, actually, AI has new announces so often and so fast, looking just at 2025, that trying to fix on specific technologies (or even models) could not be a useful approach.
+
+Interestingly, this imply that, while in recent years in Italy the focus has been in delivering quickly people to the labor market by cutting corners on training focus, e.g. reducing all skills and capabilities development that were not perceived as immediately productive- history, philosophy, critical thinking, what we urgently need is more of them.
+
+Those "AI native" will start joining the workforce in few years- as also before the release of ChatGPT in 2022, e.g. Alexa was released in 2014, and therefore those used to interact with AI are already here.
+
+Hence, already for internships some of those will start doing some high school "test into companies" in less than five years.
+
+Are we ready for this change? From what I heard on Monday and recently in different events in Italy, we are not.
+
+
+<b>Theme5: AI engines and what's next</b>
+
+I prefer to talk about "AI engines" than AI models or AI platforms- as an engine operates integrated with other elements within a vehicles- on land, air, water.
+
+So, if we want to talk about blending AI and humans in a seamless we must consider potentially AI as one of the driving forces- along with humans, not just a tool to be inserted and added.
+
+Redesigning processes then takes a different dimensions.
+
+Closer to [Hobbes Leviathan](https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)), a structural, "organic", systemic redesign, than a mere add-on. 
+
+When using AI, we consider online AI engines, smartphone mobile applications linking to the same, but, actually, in business environments we should get used to have offline AI engines.
+
+Moreover, while now we are focused on massive models, at best "cut down" in various ways, we should instead consider that, with the latest releases, smaller models can actually deliver the opportunity to augment the level of knowledge and "intelligence" across the whole organizational structure.
+
+And, also, that in some applications could be sense to have tiny, purpose-build models interacting with "higher intelligence" coordination models.
+
+Would you have each wheel of your car have a mind of its own and deciding how fast to go based on its own understanding of the environment, or would you prefer having wheels able to assess their own individual environment, and then have the vehicle, as a whole, decide the best path to action?
+
+While in the book that will contain process redesign examples will focus on specific processes, in this section would like to share concepts and experiments.
+
+Technology is not enough, you have to consider the context where it will be inserted.
+
+My birthplace, Turin, due to its industrial past, claims a willingness to become an innovation pole and a "smart city", and since I started working again here in 2012 saw many twists and turns.
+
+On Monday, spending the whole day in Turin, I had my usual Turin+Rome+others ragtag assembly of onsite followers and commentators- as I wrote in the evening on Facebook.
+
+In Brussels, non-Italians in Brussels while I was living there called that "scorched Earth" from Italians to force my return to Italy, starting in July 2008 as soon as started settling in a first role getting closer to my previous roles elsewhere.
+
+Over a dozen of years since I started my first mission in Turin in 2012 after becoming again resident in Italy, you would assume that would have learned that alternating between praise, gaslighting, and gossip is not the best way to make a location attractive, as was not enough, after forcing a return, to generate willingness to support local activities in either Turin or Rome.
+
+Moreover, when there is a strong tribal element, and you are bipartisan by life-long choice.
+
+In a location where still foreign professors are so rare that foreign students for Ph.D.-level courses told me that they had none, it is difficult to really make a credible call for being considered a cosmopolitan, innovative, foreign direct investment-friendly location.
+
+Yes, we can create an aerospace research and industrial town built by expanding the existing specialists to embrace structures, companies, and people left over from the fading automotive.
+
+Still, to make it globally (or, at least continent-wide) attractive, we need a change in mindsets, not a "control-freak" attitude from the locals.
+
+While I was based in Turin in 2015-2018 and then 2021-2022 during missions, this existing attitude was part of the reason why foreigners I talked with from e.g. China and India, despite having received a grant to study in Turin, to me told that, as soon as they were done, they had not plans to stay in Italy.
+
+Yes, you can still attract in Turin, cheaper and with nicer building in center than in Milan, foreigners interested in the tax credits for the rich, or in getting cheaper, subsidized infrastructure and a cheaper better quality of life than in other industrial locations within the European Union: but will stay only as long as opportunity commands, not develop local competitiveness.
+
+And this happened already in the past, e.g. the General Motors and Motorola in Turin, to quote a few.
+
+Individuals would come here to consume, avoid taxes elsewhere, and not to generate sustainable value- I met routinely a few over the last decade, via language speaking groups in Turin.
+
+Betting just on that to relaunch the territory would be akin to moving from mere gentrification to importing aristocracy and converting most locals into servants who cannot even afford to live in the territory where their gig-based or even permanent jobs do not pay enough, and would make them commute on daily basis.
+
+It would be an irony if, Turin that wanted to become the new HQ of inclusive society, were instead to turn into a kind of gated community with centuries old buildings.
+
+As what attracts most foreigners to the Italian way of life is based on small shops, locals living locally, etc.
+
+Remove that, and Turin would become, as wrote years ago, yet another Disneyland for the well-off with a crowd of low-paid servants but with real old buildings.
+
+A Potemkin village of reality.
+
+As shared above, shifting to an "AI native" workforce should consider the local context: as, otherwise, we will risk actually widening the gap between those in and out.
+
+Turin has an interesting element that already had to evolve: almost any day of the week, there is an open market somewhere.
+
+The mix of those selling changed across the years, but recently there was interest in relaunching those markets.
+
+In a "smart city", this could allow to actually experiment with integrating within the territory intelligence about availability and quality of products.
+
+If even smaller models are getting better at "viewing" objects, could help to integrate e.g. health and safety on products, as well as security services.
+
+The point is: experimenting with AI has been democratized- and this week for example did something that most of my more vocal local observers did not understand.
+
+While sipping a caffelatte and reading a book at Starbucks in Turin, and while attending the event at Unione Industriale, continued a small experiment on a model called Qwen3-VL, in different sizes (2B 4B 8B).
+
+If you have a modern smartphone, you might be busy doing something else, but you have more computing potential in your pocket than what was available on your desktop until recently.
+
+As shared above, using AI is not always the solution- and, in some cases, would just be enough an old fashioned use of machine learning such as classification or spotting trends, you would not really need a GenAI or even DeepLearning with vision capabilities.
+
+Anyway, to describe objects, images, environments, almost two decades ago was involved in perimeter security software to replace humans watching screens.
+
+Few years ago, using my old LG G6 smartphone, actually did some tests with an online AI platform: using the sensors within the smartphone to give "awareness" of my environment.
+
+In the last few days, while doing something else, beside using the usual smartphone apps for ChatGPT, Claude, Gemini, as got used for months while on public transport, to brainstorm on concepts, often mixing between models, did something else.
+
+On my computer, I have different "layers" of models: local, local+online, local but "thinking" online, etc.
+
+On my smartphone, installed an app called "termux" that really creates a linux environment within your Android, added ollama, and installed models.
+
+Yes, the response time is not what you get from apps, but the concept is different: assessing how each model would react to specific requests.
+
+I selected Qwen3-VL because has "vision" (can understand and describe visuals) and "thinking" (can describe through a narrative which patterns it follows to produce its answer).
+
+My tests? Really simple: 
+_ asking first "what are your capabilities? /thinking", and reads its "decision patterns".
+_ then, after each model replies that understand languages and, for some, that can translate, a simple "translate in German 'what are the plans for tomorrow?'"
+
+The first test is really to see how much the larger size influences the answer on a simple question.
+
+The second test is to see how each model would approach the task.
+
+I selected that phrase because there are different ways to translate it into German, and can generate actually elicit a more complex path- from the literal, to the formal, to the informal.
+
+On the first test, all the three variants (2B 4B 8b) investigate the "/thinking" part in different ways.
+
+On the second test, each variant has different issues:
+_ the smallest one start on the same path of others, but then loses track of its own "thinking" and goes around in circles before delivering the answer.
+_ the 8B one is actually an "overkill", as extends more than needed
+_ the 4B one would be my choice for an Alexa+ style of assistant: beside translating correctly (as all the three do), clearly and quickly finds and shares the different "registry" of the translation, sharing also the rationale.
+
+It depends on your uses- in my case, probably will use the 4B as it fits both my needs and (not on a smartphone- that was just the testing platform while going around) the resources that will use.
+
+Instead, in previous days, did another test: applying my framework to assess my own writings with different models, and then asking, as shared in a previous article, other models to rank their answers against a specific rubric.
+
+From a human perspective, there were differences that were not minimal, but this is what a model represented:
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_5_ai-uses_01.png"  width="50%"></center>.
+
+Incidentally: always on the "open source" side- you need to support models once in a while, but you can ask them to produce "Mermaid" diagrams, useful e.g. if you ask also to produce a system architecture, or a TOGAF set of results.
+
+A different case was the support to one of my data projects, the one about companies listed on the Italian stock exchange, comparing annual reports 2019 and 2021- but described that case in the previous article.
+
+Only a point worth repeating: Claude, given an annual report, was the only one that was able not only to extract the information I asked but, as I selected on purpose an insurance company (they have some specific elements within annual reports that relate to regulatory constraints), also to provide a rationale showing awareness of the specific industry.
+
+Another test that did while on my travel back was to integrate Claude and Gemini in cross-checking a memory from the 1990s that came to mind while discussing a point.
+
+It is a small detail, but was a useful test of that "iterate and increment" using just the free tier and the strengths of two models.
+
+So, what was the test? To ask a question about a specific data item comparing banking in Italy and the USA in the 1980s-to-mid-1990s, as was referencing a memory from a discussion around mid-1990s with an American colleague.
+
+Really, that discussion was about investment in IT and innovation by banks.
+
+At the time, he told me that the most innovative USA bank reportedly spent 5% of the "spread" between what they charged customers and paid depositors.
+
+In Italy? The most innovative bank reportedly spent 20%- but on a figure that was twice that in the USA.
+
+This is what I shared on Linkedin ([here is the Gemini link](https://gemini.google.com/share/5ddcc0e40c4f)):
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260127_5_ai-uses_02.png"  width="50%"></center>.
+
+And, while I still have to review the documents, on Linkedin shared also the Gemini link to the whole conversation, so that you can see how "iterate and increment" can be use to try, as much as possible, to get validated information.
+
+You will see that sometimes intervened within the conversation to "steer" models in the right direction- as would do with an assistant- using the approach that described in a previous section.
+
+There is a final element that would like to share, and that connects the concept of using a smartphone as a test platform for models while idle, IoT (as the experiment with my LG G6 had been, in preparation of other experiments that did with other material), and future uses.
+
+Since the 1990s, we are used to integrate Internet also when it is not really needed.
+
+In reality, in a future that is conscious about data confidentiality, privacy, and allocation of resources, there are already other options.
+
+As an example, to quote [Wikipedia](https://en.wikipedia.org/wiki/Bitchat): <i>"Bitchat is a peer-to-peer encrypted messaging app developed by Jack Dorsey, coâfounder of Twitter (now X) and Block, Inc. Announced in July 2025
+...
+Bitchat enables users to send messages via Bluetooth Low Energy (BLE) mesh networks without requiring internet connections, cellular service, user accounts, or central servers. Bitchat also uses the internet-based Nostr protocol for global reach."</i>.
+
+Or: blending smaller and focused models with the potential of a multi-tier architecture able to monitor itself also when no external communication network is available, redesigning processes within a landscape that includes both AI-native and diffused and democratized AI embedded in sensors, objects, buildings, vehicles, can actually create new potential processes and revise them based on results.
+
+The key element missing? Governance and shared governance concepts- as I have already dozens of documents from around the world, from both private entities and States or supra-national organizations, each one offering its own "solution" for governance.
+
+See you at the next article- or follow my posts on [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro).

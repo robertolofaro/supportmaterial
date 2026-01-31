@@ -1,0 +1,254 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251224_article.png)</center>
+
+This article inaugurates a new "Pointers" tradition.
+
+Specifically, this will be a multi-part article following this publication plan:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/pointersseries1_cover.png)</center>
+
+There will be more "pointers" multi-part articles in the future, but this one is the first experiment, focused on a specific set of themes.
+
+This first part will be repeated across all the parts of the article- as this is more a journey than an article, and therefore knowing your overall mission is useful to contextualize the details of each part.
+
+Key choice is that, while this first part and the last part are more about discussing the overall context and (in the last section) the potential developments, the other articles will be instead data-driven storytelling.
+
+To read (when available) the other parts of this article, navigate using the option at the top of article, that shows the previous and next (when available).
+
+To read all the parts starting from part one, visit the [multipart list section](multipart).
+
+The last part will contain also a list of all the published parts with associate links and the abstract of each part.
+
+Why now? This 2025 has been a year of plenty of flip-flopping, both at the national level (Italy), in Europe (and neighborhood), and the world at large.
+
+The key risk? In our current climate, acceleration generates what often described online and discussed again few days ago by showing how, in routine rounds of communication and "decisions" at the global level, it is akin to a fencing duel where all those involved operate on different planes of reality.
+
+Or: the reality that they themselves identify by looking at the mirror, and then assuming that the world at large will follow their own assumptions and will react as they would react, is not supported by any consensus on such an assessment from at least the key counterparts involved.
+
+A confusion between manipulation and "acting strategically": should refresh if not game theory, at least [the 36 stratagems](books/stratagems).
+
+Side-effect: 2026 is potentially going to be an encore, with the aggravating factor that what was apparently solved in 2025, will surface again but with vengeance in 2026, and with the "resistance to change" and loss of credibility and effectiveness built by the botched attempts of 2025.
+
+Yes, if you read the first part of the article, you already read these lines- as will be repeated in each article.
+
+While the first and last part will follow the new structure that adopted after "discussing" with different AIs (online and offline) how to evolve layout to ease access, i.e. preamble-themes-etc, this paragraph will instead be common to all the "central" parts of the article, those focused on a specific theme.
+
+The reason is simple: just one section- "data narrative".
+
+As the central parts of the article will be within the [CitizenAudit section](index.php?section=citizen-audit), will follow a "leaner" approach: a storytelling linking to all the data shared as potential resources.
+
+Of course, the storytelling will not be "neutral", as any data storytelling is based on a data choice, hence it is selective, not universal.
+
+Anyway, this approach will leave all the central parts of this article as a data-sharing with a short explanation of why the "data dots" are connected.
+
+The purpose is to share material and a limited degree of assessment, so that both readers and myself in the future can, if interested, develop further material, knowing that the sources are shared.
+
+Therefore, while the first and last part of the article are more focused on the ends, each section that is following the "data narrative" (or data storytelling) approach is focused on the means.
+
+Note: in my preparation activities, whenever I quote a paper, document, etc, routinely take notes and quotes.
+
+In this "Pointers" experiment, will share my "highlighted" parts on each paper etc on the GitHub repository, to keep "lighter" the articles, while providing segments that could actually be useful (and avoid that you have to spend time to redo what already did).
+
+After this multi-part article will be released in full, will fill the GitHub repository.
+
+Hence, future readers will have both:
+_ the "Western option"- narrative and then dig into supporting material
+<_ the "Asian option"- reading the supporting material before reading my "five cents".
+
+If you find further material that is publicly available (for data, open data) that you consider should be included in this section, please feel free to contact me [on Linkedin](https://linkedin.com/in/robertolofaro).
+
+Whenever I add material following a public suggestion, I quote the source, so that others can add it.
+
+In this sixth part, will focus on the my birthplace, the (formerly) automotive company town that used to be nicknamed "the Detroit of Europe" when hosted FIAT (Fabbrica Italiana Automobili Torino) and its group of companies, some created even by spinning off specific business units, and then merging with other companies whose control was acquired (e.g. Iveco, CNH, Magneti Marelli, Comau, etc- once, it extended to even landmines to airplanes).
+
+Enjoy the reading.
+
+
+<b>Data narrative</b>
+
+Now, if you read this website before this multi-part series, you probably know already my position about my birthplace- if not, have a look at [some articles](search.php?tag=turin), or also a [mini-book on innovation in Italy that published few years ago](https://leanpub.com/innovate-italy).
+
+In this part of the article, will focus on data and opportunities- and, as you can see from the title, I want to remind a concept: Turin should shake itself out of its own self-inflicted cocooning into a reality that probably never existed, and leverage on its real strengths.
+
+Which is not squandering the resources of two main Italian banking foundations by following whatever sinecure somebody wants to create to land beached politicians or those appointed but who could not get a role with the same visibility in the private sector- as, increasingly, what is left is either too small, or, being in the public sector, reports to Rome, or transferred to foreign owners who might be less inclined to have a quota of ballast in the higher floors just to keep peace with local tribes.
+
+The reason why, upon returning to live and work in Turin full-time in 2012, after not doing so since the late 1980s, nicknamed it "Macondo" (as the village in Garcia Marquez ["One hundred years of solitude"](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude) can be summarized (in Italian) from a quote derived from a review of a book: 
+<i>"il loro villaggio &egrave; in fondo come altri luoghi della letteratura. la Macondo di Marquez o la Yoknapatawpha di Faulkner- un mondo sospeso tra ricordo e realt&agrave;"
+
+written by Tommaso Pincio in "Kallifatides - Tutto il mondo &egrave; Peloponneso", recensione dell'edizione italiana di "Contadini e signori""</i>.
+
+The [CitizenAudit section](https://robertolofaro.com/citizenauditcontent) is about boring evidence-based- hence, also the "tag cloud" at the beginning of the parts of this article that are within this section has a visual clue: shades of gray, instead of the shared of green and brown that are used within the first and last part, both within the section [Europe, Italy, Turin](index.php?section=diritto-di-voto).
+
+Hence, expect a shorter article with links and images, leaving to the first and last part commentary (as well as other articles published in the past).
+
+One element that you will not find, as was shared in previous articles about Turin, is about demography- e.g. [demography](search.php?tag=turin_demography) and [demographic](search.php?tag=turin_demographic), using official data from both local authorities and the national (ISTAT) or European (Eurostat) statistical offices.
+
+Turin since the early XX century was a manufacturing town where also non-manufacturing services developed around the core company- FIAT: so, factoring and leasing (when you have a de facto monopolist, payment terms are set by the buying side), as well as logistics were akin to planets orbiting around the sun.
+
+So, let's start with some qualitative information- the book "Segantini - La nuova chiave a stella - ISBN 9788862506939" that [reviewed in 2018](index.php?page=153).
+
+It is composed by 14 stories, each one around a person with a specific role within a specific company.
+
+The title derives from a much older book ("The Wrench"), and is also the name of a prize given since 2009 to [companies in Piedmont](https://www.chiaveastella.org/) (the region of Turin).
+
+It is a personal yet interesting perspective, and coupled with another book published around COVID times, [Chi ha fermato Torino?: Una metafora per l'Italia](https://www.librarything.com/work/24913797/reviews/184867491), by Pichierri-Berta-Bagnasco (the link is to the review I published on LibraryThing in June 2020), gives an interesting perspective on the Turin business and social organizational mindset.
+
+There are also other books (I quoted some within both reviews), but those two could be a good introduction.
+
+If you have to learn more about Turin (e.g. because you are moving there as part of some business investment), I would actually suggest to look for the books of the late Giuseppe Berta, who, as explained in that "Chi ha fermato Torino", was also part of some of the repeated failed attempts to "restart" part of the real estate linked to the previous "company town" role, the "Torino Nuova Economia", a.k.a. TNE.
+
+Born in 2005 ([see here the history]()), the latest announce of 2025-11-19 is:
+<i>"Gli Azionisti di Torino Nuova Economia hanno deciso di dare seguito alla procedura di liquidazione societaria.
+Nella sezione Bandi e Gare del presente sito &egrave; disponibile l'Avviso per la ricerca di manifestazioni di interesse per affidamento dell'incarico di Liquidatore.
+</i>, while the website contains within the news section as article from the local newspaper "La Stampa" published on 2025-12-04: ["Aree ex FIAT, TNE cerca un liquidatore"](https://torinonuovaeconomia.it/upload/download/file/La%20Stampa_04.12.2025_TNE%20cerca%20Liquidatore.pdf).
+
+The appointment was expected to be decided by shareholders yesterday, will see soon the announce.
+
+Anyway, a side-effect of the Macondo attitude is that often the same solution that did not work before is tried times and again with different 
+
+So, 2025 closes on few somber notes:
+_ announces on 2025-10-08 that the owner of La Stampa, Exor (basically, the Agnelli family inheritance) is looking to sell the newspapers along with all the GEDI publishing group (that includes also La Repubblica and, until sold, included also the weekly L'Espresso)
+_ announce on 2025-10-15 of the 13bln investment plan by Stellantis (which absorbed FIAT Chrysler Automobiles, which in turn had absorbed FIAT and Chrysler), but in the USA
+_ I will skip all the articles that shared since late spring 2025 on [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro) about further announces, including the sale to Tata of the truck maker Iveco, while the defense side of Iveco was acquired by the national defense giant Leonardo (that is building an "aerospace manufacturing city" in Turin, as Turin under the "company town" has also a FIAT Avio), as well as COMAU (automation, robots, etc), and years before Magneti Marelli (components- but did not fare that well thereafter)
+_ I will also the articles and announces about seeking to have idled factory workers in Turin work in Serbia within the Stellantis plant there to have that plan reach its quota, after importing workers from Morocco and Nepal (as salaries were deemed too low by Serbians), as a temporary stop gap measure
+_ and repeated announces of procrastination of the plan for Turin and Italy, which was first to be in early 2026, the shifting between spring and mid-year, but recently there were hints about further changes.
+
+So, if you want to read those articles (and more- as I wrote yesterday within the article on automotive, a mere article would not be enough to contextualize the continuous stream of announces), visit my profile- here, the aim was just to share the "mood" that could be created locally by that crescendo of announces.
+
+I will share here just a selection of links to some of my posts:
+_ [Torino Fabbrica d'Italia](https://www.linkedin.com/posts/robertolofaro_gli-industriali-torino-fabbrica-ditalia-activity-7385267301572489216-KC_U?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)
+_ [Stellantis and Middle East announces](https://www.linkedin.com/posts/robertolofaro_stellantis-diventa-araba-mossa-a-sorpresa-activity-7385238509638369280-FTl_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)
+_ [Stellantis announces and Canada reactions](https://www.linkedin.com/posts/robertolofaro_canada-threatens-jeep-maker-stellantis-over-activity-7384866568649752577-cEK7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg), and [BBC "Canada talked of legally binding agreement"](https://www.bbc.com/news/articles/cn97xx7d3r1o)
+_ [Italy and future](https://www.linkedin.com/posts/robertolofaro_italy-activity-7384304785685909504-QSca?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)
+_ [Stellantis plan procrastination to June instead of spring 2026](https://www.linkedin.com/posts/robertolofaro_stellantis-verso-il-rinvio-del-nuovo-piano-activity-7383402841224241152-7A4u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)
+_ [selling "La Stampa"](https://www.linkedin.com/posts/robertolofaro_john-elkann-vende-anche-la-stampa-ecco-activity-7381736207115960320-tq3g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)
+post su vendita la stampa
+_ [selling Italdesign](https://www.linkedin.com/posts/robertolofaro_turin-automotive-italdesign-activity-7381578417072394240-E7q-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+And yes, 2025 in Turin closed also with a curious attempt to solve an occupation that lasted few decades from an anarchist group just around the corner from the Turin symbol Mole Antonelliana, and was supposedly solved already in the past.
+
+The point: in a negotiation, both parties have to show progress on a roadmap- not just in business, also in politics an society- look at the disaster in the Middle East, and you get an understanding of what happens when one of the two parties signs or accepts, and then ignores.
+
+Well, that local occupation, as I saw it each week while passing nearby, since 2012 did ride the tide of whatever was the current "trendy theme" on the left of the political spectrum.
+
+So, we had peace, then LGBT, then pro pal- but what I observed since 2012 (and shared online) was really a "boiled frog" approach: gradually expanding the territory and impact by testing the waters, seeing no reaction, and further expanding.
+
+Therefore, the end of 2025 brought a repeated violation of the terms of the agreement that included vacating the premises, renovating them, and convert them into both a bit for the old political focal point and for local communities.
+
+As an example, when it was announced that had been reached a first agreement, it was supposed to be vacated.
+
+By accident, was passing nearby one evening, and saw that the lights on the upper floor of the building, supposedly vacated, were switched on.
+
+Over the years since 2012, gradually those occupying the building actually turned into organizers and developers of similar "cells"- beside those against the high-speed train link between Italy and France (the so-called "no TAV"), recently reports stated that it has become also a training center for other towns, exporting the "Turin model".
+
+So, another bit of year end, after the forced vacation of the premises, was that the town is having a bout of violent protests (and more are announced for New Year Eve and January 31st).
+
+All that decline into the the automotive and "company town" plus this example of political negotiations were repeatedly coupled with announces from local authorities of initiatives and concessions to solve- not just in this incumbent administration (in office since 2021), but also at least in each administration since returned to work in Turin.
+
+Or: an aggregate failure of social and political leadership that does not rest just on the shoulders of the incumbent Mayor Lorusso- it is a collective failure of the Turin/Macondo leadership.
+
+The answer? Focus on events and gentrification (again- look at the countless links to articles on my social media profiles).
+
+A sobering year end, but let's look at the future and potential.
+
+In January 2022 (disclosure: was working there on a project at the time) Iveco announced the execution of the spin-off that the former CEO of CNH Tobin had announced during the times when a successor for Marchionne, then CEO of FCA.
+
+As announced by media back then, Marchionne said that Tobin was fine where he was, and Tobin left CNH
+
+Still, the spin-off of Iveco went ahead- albeit, as usual in these cases, took few years.
+
+Personally, commented online back then (at the time, had no project within the former FIAT group) that both selling Magneti Marelli and the spin-off (in the obvious preparation of a sale) were mistakes, as in the new scenario of mobility the separation from cars and other vehicles would blur- and not just on land, but it was understandable if decided that did not have in house what was needed to seize the opportunities, and Exor preferred to retain a quota (to benefit from the potential) and bring on board an industrial partner.
+
+It did not work for Magneti Marelli, still to be seen what will happen with Comau, but at least for now Iveco is in the transition phase with an industrial partner, Tata, that was already collaborating with the group (e.g. in the past years, even before meeting them on projects in the group, was repeatedly contacted by recruiters from outside Italy that looked for consultants to work on projects within the Exor companies via TCS, the consulting and system integration arm of Tata), and had already integrated other European automotive assets (e.g. Jaguar).
+
+In a car expo at the Valentino years ago, shared pictures of how also Airbus was presenting concept vehicles within the framework of urban mobility (flying pods to be called on-demand).
+
+So, let's assume that Stellantis, beside pushing to alter European Union rules to keep selling vehicles with hybrid or combustion engines in Europe, will have the same low production footprint that had recently in Italy (e.g. news media reported about 400 new jobs in manufacturing in Turin- but temporary and from February 2026), probably will end up either importing vehicles produced elsewhere (if rules are relaxed) or, if a "made in Europe" will be enforced, have a try to the "maquilladora" work around, having subsystems produced where costs are lower, and then assembled into vehicles in Europe.
+
+Therefore, be it Leonardo-IvecoDefence or Tata-Iveco, two local champions on mobility will remain, but detached from the car manufacturer.
+
+Turin, as shared in past articles ([Turin smart city](search.php?tag=turin_smart_city) was a concept in some 70 articles posted here so far), has in its own curious way created the "Lego(tm) building bricks" for a smart city.
+
+Chaotic at times, but interesting- read the [Eurocities](https://monitor.eurocities.eu/voices-from-the-cities/urban-mobility/?referrer=grok.com) report for a general view on the European context.
+
+As shared in the past, commenting both within those articles and on posts on social media, Turin also implemented controlled electronic barriers, cameras, etc- including gradually turning into pedestrian areas with restricted access various areas in and around the gentrified city center- e.g. on December 1st the latest announce was [Borgo Campidoglio](https://www.comune.torino.it/novita/comunicati/borgo-campidoglio-dall1-dicembre-via-alla-pedonalizzazione-ce-tempo-fino-al-2).
+
+The central via Roma, connecting the old main station Porta Nuova with Piazza Castello, is gradually being renovated into a pedestrian area.
+
+At the same time, the year ended with a relaunch of another opportunity: under the previous Mayor Appendino, on 2018-03-30 was announced [Siglato l'accordo per la sperimentazione della guida autonoma](https://www.torinoclick.it/economia/siglato-laccordo-per-la-sperimentazione-della-guida-autonoma/), i.e. an agreement was reached to have a "urban lab" to test self-driving vehicles within the ordinary traffic lanes.
+
+And on 2025-12-12 the Italian newspaper Il Sole 24 Ore reported that  [Turin nominates itself as a laboratory city in Europe for autonomous driving](https://en.ilsole24ore.com/art/turin-nominates-european-city-laboratory-for-autonomous-driving-AIeFIVM).
+
+You can actually test for free a self-driving shuttle by reserving [on the app wetaxi](https://torinocitylab.it/en/il-living-lab-tomove-automated-shuttle/).
+
+As you can see, so far in this post gave really limited references to the local obsession for attracting new bureaucracies (hint: whenever an international institution looks for a permanent location, Turin over the last few years went into the "Turin has a manifest destiny to host it") and international events- up to the puzzling proposals that, once an event that rotates in the country that won the previous one lands in Turin, the town offered itself to become a permanent host.
+
+The two main banking foundations, regional government, and local government routinely chip in, directly and indirectly, for whatever is announced as a "bright new future", but, frankly, it is a subsidy to commerce that is not even necessarily legally resident here, and that offers mainly "gig-based" or "on-demand" temporary jobs.
+
+Looking at the automotive past, all the infrastructure still available, and the development of the higher educational institutions and research facilities within the territory, testing the ground with the new models of mobility would allow:
+_ to retain and reposition existing capabilities
+_ apply and develop new technologies (Turin has also underused high performing computing capabilities)
+_ innovate on the use of existing facilities also across organizations
+_ create a breeding ground for innovative startups- might not necessarily stay here, but, while here, would attract talent and breed an ecosystem.
+
+As an example, read this excerpt from this article about the "Turin laboratory city":
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251224_632_01_turinlabselfdriving.png)</center>
+
+It is not just mobility- it is what those technologies could enable.
+
+There is another element to consider, as shared [yesterday commenting on the 2025 increase in open datasets in robotics](https://www.linkedin.com/posts/robertolofaro_something-big-is-happening-in-robotics-activity-7409243524623130626-ynih?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg): so far, "cloud" and "robotics" were associated with proprietary data collection and access from vehicles and robots, i.e. those for "digital twin" activities.
+
+In our current environment, having open sourced datasets could allow, if the ecosystem is developed locally, to create a "cottage industry" of applications generated out of needs, integration of off-the-shelf elements, custom-made elements courtesy of 3D printing (and Turin has a CIM competence center, beside the AI for Automotive), reducing the cost of developing the "intelligence" to levels affordable by smaller companies with limited resources for a prototype or smaller scale production.
+
+Many proposals that I see around still smack of 1980s-1990s (at best- some even 1970s) approaches to R&D and new product development, while instead current technologies, and current online platforms, enable a virtuous feed-back cycle where the concept also of "intellectual property" will have to evolve:
+_ you will use open data, and, in exchange, provide further data derived from the use of those open data within your own products (mobility, telemedicine, etc)
+_ decoupling learning from learning specific for your own product/solution would allow to "layer" intellectual property between a shared layer, and a "common"
+_ that "common" will be where the aggregate points of innovation will fairly exceed the speed and points of verification that any individual organization could afford.
+
+It is nothing really new: it is open sourcing coupled with crowdsourcing- but qualified crowd-sourcing (i.e. those actually contributing would be those whose products inheriting the"common" element would generate the additional contribution).
+
+Actually, already almost two decades ago, one of the accounts and projects that "inherited" while supporting part-time a local company that helped to reposition and restructure contract, accounts, partnership, even shareholders, was a project where the Italian branch of a multinational had a wind gallery for internal uses, and had been authorized to use the time available after company uses to sell it as a service to companies who needed a wind tunnel, and did not have it.
+
+A kind of pay-per-use upon reservation, increasing the usage of a bit of infrastructure while generating a revenue stream whose proceeds could subsidize maintenance, improvements, etc- that would, in the end, benefit the company.
+
+My task was to help evolve the controlling system that had been developed by external resources of the company I helped to reposition- and, courtesy of my Italian connections within the startup environment, found and discussed actually in Naples the expert that was needed, at the times one of the few dozens worldwide certified in that specific technology.
+
+Then the renovation project did not go ahead due to unfortunate decease of the main contact, as the company I helped was focused on the transition toward a new ownership, but the concept was sound: look for talents where needed, not just in your own tribe, and build mutually beneficial terms, without aiming from day one to "extract value" by having those whose competencies you borrow coach and train your own in exchange of nothing.
+
+In some cases, that coaching and training (and ensuing continuous tutoring) could be factored in, but if each and any integration of an external temporary resource turns into an attempt to extract, in the end it becomes impossible to find willing contributors- as they see no value in transferring for a spot intervention what had been developed at their own expenses for years of decades.
+
+Instead, an innovation hub should generate incentives to contribute- as it can contribute back, and become a "always on my mind" potential partner ecosystem.
+
+A further key element to make this work is to refrain from the local habit of "controlling", i.e. creating sinecure to coordinate, integrate, report, what in Italian are called "strapuntini", that are basically an employment opportunity for those connected, but, frankly, were sidelining would be better.
+
+Instead, once appointed, turn a continuous stream of "must react" and "must meet" that sucks creative and productive time from those actually delivering.
+
+And the events obsession? Well, as you saw within the previous parts of this article, so far the focus has been on looking at 2025 and looking at what could come next- a sustainable next.
+
+Hence, also in Turin frankly I would like to see the full list of the projects that benefited from PNRR funding (the NextGenerationEU / RRF funding), so that can be documented which revenue streams were supposed to generate or support- not necessarily direct economic results, but also social/business capabilities.
+
+Recently the Mayor of Turin announced an urban development plan to actually add again citizens.
+
+In early 2025 (look at my social media), Turin had announces that, due to the loss of citizens each year (not that many, but many producing income) was starting to have issues in covering the costs of services to the citizens.
+
+At a time when aging (as shared in previous data-driven articles on Turin, the average age of residents in many areas is closer to 50 than 40) increased demand for some services, and it is expected to have a loss of a further few hundred thousand citizens by the end of the century.
+
+So, while the gentrification drive is pushing locally productive citizens (and tax paying) outside town, while hoping to attract well-off (who would minimize their taxes), to sustain services and infrastructure in a relatively large town the new plan aims really aims to achieve with 200,000 more citizens ([see here](https://www.lastampa.it/torino/2025/12/17/news/piano_regolatore_torino_cantieri_abitanti-15437501/)) while having to retain over 300,000 that would otherwise disappear ([see an article from spring 2025](https://torino.corriere.it/notizie/cronaca/23_aprile_26/torino-nel-futuro-300-mila-abitanti-in-meno-ed-estati-piu-calde-di-7-gradi-0f795d8d-c37e-4832-90e9-cb602a283xlk.shtml)).
+
+As Turin, that used to be over 1mln when I was a kid, now is close to 900,000, having overall plans for 500,000 more and retained is no small feat.
+
+The balancing act for Turin would be to quit cocooning and (for those younger than me) leverage on strategic projects that have potential positive future impacts, not just converting existing buildings into "containers" for new startups, i.e. real estate, while allocating next to nothing to actually services (labs, bureaucracy navigation, etc).
+
+The Turin Chamber of Commerce is actually doing a lot to raise awareness, and routinely saw that some of its webinars on digital transformation, regulation, etc were actually picked up and followed or even attended by people outside the Piedmont territory.
+
+Hence, coupled with practical implementation and open source results broadcasting, the Turin (and Piedmont) territory could actually leverage on its past automotive focus by extending that "citylab" concept- minimal "tenure track", maximal support services, and a "Virgil" through the maze of regulations that both in Italy and Europe would kills any startups.
+
+But first, should start by getting rid of the local "center of the universe" attitude that earned its &eacute;lites that self-appoint themselves on endless sinecure and "empty boxes that will generate a brilliant future", and shift from chair to chair, while converting even temporary appointments into decades long tenures.
+
+As that model expressed above would require two layers:
+_ a continuity below that ensure adaptation while having organizational memory of the past
+_ and a continuous disruption at the top that sets, executes, and transition out of the office to let new ideas in.
+
+I will share my personal take on Turin for 2026 in the closing part of this article, by the end of this week.
+
+Have a nice week!

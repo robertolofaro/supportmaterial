@@ -1,0 +1,189 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250819_article.png)</center>
+
+This article is divided in five short parts:
+_ part1- the context
+_ part2- the past and transition
+_ part3- impacts seen from the consultants' side  (<i>this article</i>)
+_ part4- impacts seen from the customers' side
+_ part5- scenarios for the way forward.
+
+Each part will be published on a daily basis (the first one on Monday 2025-08-17).
+
+If you read my recent articles about forthcoming publications, you know that I am preparing the relaunch as publications of two websites, [PRConsulting.Com](https://prconsulting.com) (focusing on the consulting industry side), and [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com), focusing on the customer side.
+
+The general concept, as outlined in the title, is the relationship between external providers of expertise and customers.
+
+If you had a "d&eacute;j&agrave;-vu" moment, you are right: the previous few lines were already within the part published yesterday.
+
+This part and the next one, looking at the impacts of AI on the two side of the coin (providers of external expertise and their customers), will be shorter than many would expect- as future publications on those two websites will dig deeper in what would be relevant at the time of publication: hence, consider these two parts as a quick look at the past, an outline of the present, and a non-exhaustive representation of potential consequences of AI.
+
+As I wrote in the first part of this article: <i>"If you convert any technology into a consumer technology, you create a potential for really short purchasing cycles, something that e.g. converted gaming, from something limited to buildings containing gaming machines, to a machine potentially in every home."</i>
+
+And, yes, the paragraphs up to this point will be shared also in the next part, to be published tomorrow.
+
+Now, moving onto the supplier side, I will start as usual with a practical case from my past.
+
+When I started working for my first employer in 1986, I was working for the software house side, a company called CORITEL that was set up by Andersen partners in Italy and few other countries- I think Spain and Argentina.
+
+The aim? To cover the increasing demand for software development and system integration (and eventually to build and deliver also business software packages- I was involved in that too), while keeping separate the "consulting" side.
+
+What was then the Arthur Andersen Management Information Consulting Division, eventually became Andersen Consulting, and, in the split slightly before Enron, turned into Accenture- name derived from an internal context, and actually saw a brochure (I had already left, but had contacts) with the initial corporate identity: ACcenture was actually a less prententious version of Andersen Consulting Century.
+
+Our processes and approaches? Derived from the audit business- up to the logging of timing and expenses, and ethical standards to be adopted while dealing with customers (read well the aftermath of the Enron case, before commenting...).
+
+I recently found a pocket diary (and an agenda) for 1989 and 1990, which listed, in order to be able to talk properly about the company should customer ask (not CORITEL or CORIBAN, the banking side based in Verona, but Arthur Andersen / Andersen Consulting as a global entity) listed how many people had the company around the world, and there was a note on how many (thousands) worked on what now would call "knowledge management": accumulation of knowledge derived from each project or activity worldwide.
+
+Another side was the training part in St Charles, nearby Chicago, and a career progression system based on what a customer in Milan called "your own green booklets &agrave; la Gaddhafi": we called them "units".
+
+While only those from Andersen went to Chicago, I too had to study and routinely accessed many of them, plus the library, once was unusually given full access to the library and project library due to my roles from 1988.
+
+Because the roles that received from the first project on were often well above my pay grade, so I had to fill the knowledge gaps both by accessing internal sources, including interviewing others and accessing the company library, and routinely shopping out of my pocket in bookshops, looking for books about specific industries or business domains, organizational development, IT, and data-driven decision-making and associated "arts").
+
+Nominally those "units", focused on specific themes, were study material to prepare for an exam of admission for on-site training sessions in Chicago that doubled up as social events.
+
+This implied also having e.g. specific accounts where to charge the training hours, and a long list of behavioral patterns developed on how to use those hours on other activities.
+
+It is a typical issue that is consistent across any organization large enough to have a formal internal "learning credit" system- eventually, there will be some other uses- what the heck, even in high school, while I tried to self-exonerate myself from the "religion" hour (I am agnostic, and was trying to make a political point), I was interest in the themes and discussed often with the professor, while many of my classmate reallocated that hour to... completion of homework or other activities.
+
+So, I was not surprised when, across my career, saw those "corporate hours" allocated to something else.
+
+Anyway, the concept, structure, principle of that training approach in Andersen was sound, in my view: the key element was to do something similar to our 1990s-2020s certification obsession, i.e. generate harmonization that allowed to move people across projects with minimal onboarding ramp-up, but each time as the crowning element of experience acquired in the field.
+
+The idea was also a requirement to first mature on-the-job experience that enabled to understand the training material, training material that then became a stepping stone toward further progression both in career and in knowledge- I remember jokes between people much higher up within the company feeding chain about how many of those units they had passed.
+
+Was it expensive? Yes, it was- and I remember how former colleagues from the Andersen side told me that eventually first Computer Based Training (and its associated "multiple choice" tests) replaced part of that process, adding also training locations that did not require to travel to the USA (and associated costs), and eventually did not require travel at all.
+
+I do not know how this evolved within Accenture- but anyway in Internet times, even before smartphones, I too was able to design and deliver training for my own customers on processes, business tools, organizational structures, etc with a much lower cost profile and faster than the usual "processing time" that saw in the 1980s for updates.
+
+The "enabling factors" that discussed in the first part of this article influenced also on how employees related to their employer.
+
+In the mid-1990s, when I had my first large assignment on cultural and organizational change (after other informal ones in the 1980s, and something more formal in the early 1990s), it was a time when in Italy companies used to work on mainframe environments (typically IBM and compatible, using also 1960s technologies such as CICS, batch processing, and non-relational databases, and  interacting using ROSCOE or TSO via black-and-green terminals- no color screens, back then), part of the assignments I had from that and other customers were covering different cultural transitions- technological and non-technological.
+
+As an example, introducing data-based decision-making implied designing and delivering training for managers who often previously did not have a PC on their desk- and were used to "seat of the pants" or "we have always done this way" decision-making approaches.
+
+The PC? Was on their assistant's desk; and also years later, and well into the 1990s still met managers who dictated or scribbled on paper notes that were then to be converted into emails by their assistant.
+
+In one of my assignments, the company had grown fast, but had started as a local entity, and then needed to attract talent from all across the country.
+
+One of the issues for managers and project managers was that those that had been there since the beginning (or slightly later) felt as if the company were "their" company.
+
+And they were trying to motivate new staff using the same approach- while the latter saw that as a job (even if they were enthusiastic about it).
+
+In other countries where I worked, the "we are a family" used to be applied in companies (or business units) of few dozens- in Italy, the same concept extended up to few hundreds (or even more), with the obvious side-effect of "cradle-to-grave" inclination (or, more politely, "hire from school, and keep until retirement, and whoever leaves earlier is a traitor". 
+
+In these cases, how you approach the cultural gap depends on the pre-existing culture; I am skeptical of "best practices" that are equivalent to canned muzak in elevators.
+
+In organizational culture change, one size fits all does not work, and you risk breaking the existing culture to force "best practices" created in a completely different cultural context.
+
+In the 1990s, you could still assume that, beside what was formally learned in school or university, most of the knowledge required to work was provided on-the-job, and limited formal classroom training.
+
+Specifically in Italy, the latter was back then still really limited: one of my selling points in 1990-1992, while designing and selling and delivering training curricula on methodologies, was that middle-level managers in Italy were getting around 2 days a year of training (including the annual company meeting), while our competitors in Germany, for the same profile in manufacturing, were providing over 20 days a year. 
+
+In the early 2010s, you could see newly hired company employees who were used to be connected to computing resources while going around, via smartphones or tablets, hence the [BYOD](byod) and [BYOD2](byod2), mini-books that released first over a decade ago: if you have employees who carry their own device in their pocket, security and data access change, and this influences also decision-making, as you can "have a look" at data to corroborate an idea, but outside the company premises.
+
+In the 2010s, many companies found easier to provide a corporate device to those employees who would anyway, due to their work, need to access information on-the-fly.
+
+Shift to our decade, and the point is not just people searching on Google for information, but providing information that is within their own heads to cloud-based unrestricted AIs in order to start a conversation around business themes.
+
+Also, the quantity (and, often, quality) of free training online allows to create individual curricula from sources that are not easy to pre-select and pre-digest.
+
+Still, many companies, as if we were in the early 2000s, offer in their recruitment package a specific source of training with a specific list of subjects.
+
+In that case, frankly, would be better (but certainly more expensive) to set up a formal, structural, career-path related, set of "itineraries", as was done by Andersen in the 1980s.
+
+Now, in the late 2020s and 2030s, this could have, between others, two side-effects:
+_ you cannot plan the evolution (and retention) of talent
+_ skills evolution would probably be as much inside-out (as in past decades) as outside-in (either by choice of individual staff members, or by acquiring talent that carries along a specific Weltanschauung).
+
+In the 1980s, I remember customers talking about "Andersen drones" or "IBM drones": all talking in the same way, and, in some cases, all dressing in the same way.
+
+There was an advantage in that in the 1980s-1990s- something that too many consulting companies still try to replicate: resource allocation was relatively easier, and predictable behavioral patterns emerged both for customers and consultants.
+
+Just look at how many new conceptual frameworks for using AI within business contexts emerged over the last two years: building a training curriculum as in the 1980s-1990s e.g. required approximately a month for each day of classroom training, considering all the testing and related material and communication.
+
+Nowadays, I saw courses "emerge" few days after something was announced- the quality was not necessarily on the same level, and, as course design became often reactive, the material, instead of generating a forma mentis, ended up being focused on something similar to 1990s courses that I saw delivered by some: hundreds of slides presenting tiny details that were read for hours slide after slide by a lecturer, before "canned" exercises, and equally "canned" tests.
+
+If your staff gets through a similar learning path, obsolescence is the only continuum.
+
+I will not discuss in any detail the consequences of shortening behavioral training (the "on-the-job training") and replacing it with "quick bites", on the long-term development of consultants' "soft skills" and ability to adapt before they adopt.
+
+I shared today a commentary linking to the a back-and-forth between LeCun and Musk- but will discuss it in the last part of this article, in a couple of days.
+
+For the time being, would like to reference just one point: as I posted on Linkedin, paraphrasing somebody else, culture eats strategy for breakfast.
+
+In the current environment, despite all the claims about "culture", "well-being", etc, an excessively reactive approach can dilute the actual corporate culture.
+
+The curious consequence of the current technological trends in AI is to undermine the differentiating factors between different providers of external expertise: everybody jumps on every train passing by, no matter how shallow are its roots: in the past, I met companies that got "burned" by the same approach adopted long ago by Google, with a funny website where somebody keeps listing all the "Google Graveyard" novelties that last less than the time needed to recover the investment even in pilot projects.
+
+A concept that will repeat tomorrow, from the customer perspective: customers that used to select company A for its technical skills, company B for its approach, and maybe company C for its ability to understand business and communicating that understanding to both A and B, will simply end up "giving a try", as past glories will not differentiate anymore.
+
+A consequence for consultancies, notably those working not on specific domains or types of expertise, but on providing AI to anybody anywhere in any domain, is that actually the differentiating factor will end up being individuals able to generate that "leverage" that allows to have a team delivering a solution that is coherent with customers' business needs.
+
+In the 1980s, when I worked to design and deliver decision support system models, eventually was told that the rate charged to customers by our Anglo-American partner Comshare was too high for our internal parameters- and was told so from our partners: in their mindset, if market demand increased and capabilities were scarce, it made sense to increase the price.
+
+In the 2000s, as shared in past articles, via a partner I met a small company that proudly said: we have as many experts on this (a specific SAP module) as Accenture.
+
+At the time, I felt that they missed the point: the game in town was to have few "deep experts", as I had been in the late 1980s on Comshare model building on PCs, properly scheduled across multiple missions, initiatives, projects, so that they could act as catalysts for others generating billable- tons of it.
+
+If you have five people who are five people, following an old 1980s-1990s book from Milan Kubr on Management Consulting, you get 210 x 5 m/d = 1050 billable days.
+
+If you use the same across multiple projects, each one with say 5-to-10 people, and those 1050 billable day are spread in block of say 40 (two average working months), you get 1050 / 40 = 26 (rounding down) maximum initiatives etc per year for those 5 experts.
+
+Consider that 6 initiatives will be internal (one every two months, to keep up with evolution and constant renewal of technology and skills), with the 20 "billable" initiatives they could "mobilize" between 100 and 200 people.
+
+Now, count the working days- consider that those "mobilized" are just productive for 70% of those 210 m/d year (the rest is onboard, training, phasing out those leaving, etc), and you get that actually 5 people could generate up to over 30k billable days at various level of expertise, and around 1k at high level of expertise.
+
+Quite a jump from those initial 1050 days, and with the same level of investment in "deep" expertise (e.g. training, industry events attendance, networking days with other experts and peers outside the company, etc).
+
+Is this model still viable? The obvious answer would be "no"- as many of those 5-10 people per initiative could, according to some, be replaced by software or machines.
+
+I beg to differ: we might need less business analysts and less software developers and less bureaucrats shuffling signed papers from office to office (or, equally, fewer could, augmented by tools, be both human experts and supervisors/QA/QC of those pesky AI models who have no clue about reality)- but could actually get back to being consultants.
+
+Still, there are few key issues:
+_ <i>reconfiguring</i>- need new mindsets and focus on helping foster talent, also if will be spread across multiple companies, as will be able to bring in new ideas instead of copycat
+_ <i>restructuring</i>- internal teams should be less static, sharing common approaches, but then "swarm" on missions with roles that are not hierarchical, but based on specific needs
+_ <i>repositioning</i>- from jack-of-all (consulting) trades, to structural elements of ecosystems with specific contextual knowledge.
+
+The key difficulty will be for larger companies, used to build, in the 1990s and 2000s, their own "bubble" within customers: as I was told in the 1980s in Italy and 1990s-2000s elsewhere, also on the customer side, eventually, was found easier to put them in a room, let them work their magic, and interface only for results, as anyway had their how rituals, lingo, and communicated only between themselves.
+
+Which, even before agile was formalized, was feasible to convert into something more flexible and more business oriented: you just had to know which part of the project lifecycle had to be "waterfall" (basically, sequential stages and "gates" between stages), and which one was to reiterate, helping to produce something useful and then incrementally, based on feed-back, continue with another cycle.
+
+Or: become structural elements of the ecosystem that knew customers' business well enough, courtesy of the iterations and incremental mutual development, to be able to have at least in each customer somebody who, in the new model, could act as an antenna and pivot to help flexible "swarms" of colleagues deliver value, instead of just extracting billable.
+
+The key element is to keep building, pruning, unlearning, learning, rebuilding organizational memory through each mission: as a shared behavioral pattern, and not just as a specific task assigned to few people that, as in the 1990s-2000s, would act as a "knowledge priesthood".
+
+In the late 1980s, beside developing models for customers, was asked also to build models for different internal structures within Andersen Italy- and was interesting to see how, within the same shared KPI (billable hours) and same shared organizational culture that resulted in shared behavioral patterns (on the Andersen side, at least), there was sometimes a different mix, different degrees of freedom and different strong/weak links within the chain- on purpose, sometimes, to have a degree of flexibility demanded by the specific domain or customer base.
+
+In the second half of the 2020s, also just current AI unable to really "reason" (as it lacks not just contextual knowledge that you can provide, but contextual understanding that would allow to understand what is really current, and do that prune, learn, unlearn, etc- autonomously, as humans should and will do more often in the future), could actually help to "augment" both at a structural and individual level.
+
+Then, the complexity, to maximize value, will shift to those three "soft" elements (reconfiguring, restructuring, repositioning), and building an internal organization that is less hierarchical and more based on internal and external antenna that feed a continuous feed-back cycle able to alter the mix of those three "soft" elements to keep being competitive.
+
+Model: from Hobbes' Leviathan, moving to something closer to a "swarming edition" of the 2000s book "The Starfish and the Spider".
+
+Otherwise? Consulting will turn into an undifferentiated commodity that will be gradually replaceable, bit by bit, as models and underlying architectures and concepts will evolve.
+
+As I wrote yesterday, I think that consulting organizations should stop having fear, as I learned decades ago:
+_ fear of learning, which implies feeling stupid for a while 
+_ fear to make mistakes, which is a structural part of learning for real
+_ fear to admit that there are different degrees of knowledge and ignorance, which implies you need a larger team than yourself.
+
+For the first two elements, why I did not consider that billable time should consider a quota focused on internal uses within the organization: resilience is built a mistake and a lesson learned at a time- and better to do that "fail early, fail fast" on internal projects to built capabilities, a real "controlled environment" (how many remember that PRINCE refers to "Controlled Environments"?), than on the customer side, where it could affect tens of thousands or millions.
+
+In IT, I learned that lesson in the 1980s at the university on some "experiments" and then on my first mainframe development projects, and saw in the 1990s how, shifting to web and PC-based development, many of those lessons were completely lost: look just a how we got used to software updates that would have never even reached the "beta" status in the 1980s.
+
+Praising apologies from the vendor for something that was completely off the road makes you think: would you accept a car whose wheels, &agrave; la "fast and furious", go off while you are driving? 
+
+And I am not just referring to ChatGPT5 (to stay on AI), but also to the royal mess that was the blend of CoPilot release appearing everywhere and interfering with everything (including Microsoft updates) and the latest Windows 11 update- I wasn't the only one affected, and all the remedial steps suggested by the latter made shine as an example of customer complaints management OpenAI- albeit, frankly, this shows how low we are used to accept to go.
+
+Again would suggest to watch two documentaries and a movie, all related really to organizational structures, knowledge dissemination, and organizing for delivery:
+_ [1998 The Pentagon Wars](https://www.imdb.com/title/tt0144550)
+_ [2003 The Fog of War: Eleven Lessons from the Life of Robert S. McNamara](https://www.imdb.com/title/tt0317910)
+_ [2013 The Unknown Known](https://www.imdb.com/title/tt2390962).
+
+Of course, this article (and its component parts) are just the beginning of a long conversation- hence, expect some twists and turns if one or more of the elements above will be challenged by evolving realities.
+
+Still, I do not think that the 1980s-2010s model of external expertise delivery adopted by many larger companies across the world is still viable today and in the future- will become an element of resistance to change, not a factor of innovation.
+
+Tomorrow, the other side of the coin.
+
+Stay tuned!

@@ -1,0 +1,591 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251207_article.png)</center>
+
+This article is within the ["Organizational Support" section](index.php?section=organizational-support).
+
+Why now? I do not know about you- but my Linkedin profile stream is a daily deluge of reports, presentations, proposed policy standards, etc from both the obvious sources (consultancies), governments, international organizations, non-profits, quangos, and... anybody who wants to assert her/his roles as a guru.
+
+Value added? Well, everybody writes as if they were "the" source of truth about AI and its uses- even when actually they (or their AI agent) simply suddenly "discover" something that has been on Linkedin for days, weeks, or even months.
+
+And even documents issued by national authorities are curiously discussing a national perspective, referencing national laws- all while ignoring that the models that they are writing about are, in most part, trained and developed at a worldwide audience scale, and embed within their training different perspectives from those that they sanction as "acceptable".
+
+If you were to overlap all those above, you would see a partial overlap.
+
+Hence, would be interesting to see the applicability of all this ex-post legislative and regulatory feeding frenzy, for a technology that is already firmly embedded worldwide in our daily routines.
+
+Anyway, it is nothing new: when something gets on the hype cycle, the concept of "transparency" we got used to over the last few decades, courtesy to the zero cost of dissemination of the web-based Internet, is that any organization feels the urge to assert "king maker" rights.
+
+Within the AI domain, being so dynamic, organizations now pile up on each other issuing every few months their 50-100 pages of guidelines.
+
+If I feel the flood and my role is just reviewing and knowing what is being said around, I do imagine the effect on those organizations that just started having few people focused on seeing how to design the organizational approach to AI, and being sent to the drawing board on a monthly basis, as the old approaches used e.g. for processes and methodologies and traditional software-as-a-service-on-the-cloud do not work.
+
+Moreover, if you are a multinational that uses the services of all the top tier consultancies and system integrators, all of them asking top management and those few I hinted at above...
+
+... to attend yet another presentation or yet another webinar to present the same apple slightly rotated from a different angle but embedded within a long dissertation on their "philosophy of AI".
+
+On top of that, add continuous adjustments due to political pressure that ignore the time and effort needed to altering course (e.g. the [EU Omnibus](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2718), redefining the EU regulatory landscape mainly to appease interests outside the EU)- but will write about the new regulatory trend in Europe later this month.
+
+In this article, my focus will be, as usual, on cultural and organizational change, starting on "how", but expanding also on the "why"- and, frankly, "why not" and "what".
+
+The guidelins for this article are simple.
+
+Everybody knows the [PDCA, plan-do-check-act](https://en.wikipedia.org/wiki/PDCA), but this article is focused on the cultural and organizational change side ofA adoption and its consequences.
+
+Hence, I prefer to share something simpler and, as even in my monthly [AI Ethics Primer update](aiethicsprimer) since a couple of years, I started few months ago to see acronym for those offering methodologies as if they were the only ones doing so, I will just share a simple graphical representation of three key steps, steps that tested in the past in other cultural change initiatives, with and without technologies involved:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/act.png)</center>
+
+<b>A</b> build and maintain <b>Awareness</b>, of your initial choices, adjustments, lessons learned
+<b>C</b> be <b>Continuous</b> in governance, monitoring, getting feed-back
+<b>T</b> keep focusing on <b>Transformation</b>, not just transition- which implies learn, unlearn, relearn.
+
+I could add more elements, but I think that those three are enough, and within this article will discuss some consequences, that discussed already in countless articles about change in the past (e.g. see the old 2003-2005 e-zine on change, [reprinted and updated in 2013](bfm2013)).
+
+Do not expect "hands-on" AI elements, e.g. on (re)designing roles: those will be within dedicated mini-books that will publish over the next few months (to have a look at the approach, [you can download also for free the digital edition of previous mini-books published since 2012](published)).
+
+In the last section of this article, will anyway add some references to training material (but routinely on Linkedin comment and "like" material), and will explain a bit how, having started in 1986 on software development but after I had already "toyed" with AI (specifically, PROLOG and a bit of others), did and continue to develop some hands-on skills by doing the obvious: using it where relevant and useful for my activities, since when resumed in 2018 to update on AI (good timing, as by then the resources I needed to test and share were available online for free).
+
+Now, the table of contents:
+_ preamble- introducing the themes discussed
+_ contextualizing new competencies
+_ scaling up: organizational issues
+_ rethinking the context and approach
+_ drop the Gosplan attitude
+_ where are we heading to
+_ conclusions and next steps.
+
+
+<b>Preamble- introducing the themes discussed</b>
+
+The short title of this article obviously uses a ["technical" term ("embedding") used for machine learning, LLMs, etc](https://en.wikipedia.org/wiki/Embedding_(machine_learning)), but really references something akin to what we got used to in our wars at least since the early XXI century- "embedded journalists" integrated within the communication about a military campaign.
+
+Within the context of this article, it is we, the humans, that have to accept to be "embedded" within a "pervasive AI environment" in whatever organizations we either live or work in.
+
+Sometimes by design, sometimes by accident, but generally simply because AI, now visible since a couple of years ago thanks to the "democratization of access" delivered by ChatGPT, already started being integrated in our everyday life- and not just in business.
+
+I will eventually add a third volume to the [BYOD](byod) and [BYOD2](byod2) books on the integration of humans and devices within organizations- but I will let you guess the title.
+
+While my first official customer on cultural and organizational change was in 1990, I had been working on integrating technological changes well before that- as I shared in my monthly article on Turin following the 12 months fountain, e.g. [this one in November 2025](https://www.frype.com/blogs/post/Seizing-opportunities-in-a-former-company-town-it_17789077).
+
+If you want to read some samples, have a look at [my latest CV](cv)- the 1-page version is enough, and the 4-pages version contains mission outlines of some activities since the late 1980s.
+
+Before starting the discussion, in the <i>first theme</i> will share a bit of commentary and data from my past experience, notably about the concept of "contextualization" of new approaches within an existing organizational culture.
+
+Any half-decent introductory course or conference of a current "trendy" AI theme, AI agents and Agentic AI, will give you the reasons to "add" or "give" context to AI.
+
+Rightfully so- but, frankly, in this article, as it is within the "organizational support" section, the point is to deliver the other way around (integrate AI within your own context).
+
+Human contexts are not made just of formal organizational structures, written policies, rules, processes- but also of informal elements, elements that actually allow to operate in a dynamic environment where, the higher you go within the structure, the higher the level of uncertainty that you have to cope with.
+
+As, generally, steering an organization implies that you cannot have the luxury that those whose work is made of endless repetitions of a routine can afford: wait until the information is complete.
+
+While there are useful uses even of our current AI, while waiting for something able to really work alongside us at our level of "fuzzy" processing of signals from our environment, by misusing or force-feeding current AI we risk missing opportunities and building resistance to change for when, at last, such future AI will be available.
+
+Anyway, seeing an organization as a "pervasive AI environment" that extends beyond the organizational borders implies accepting that you cannot just operate as a collection of individuals with a clash of individual agendas.
+
+Hence, the <i>second theme</i> is about what happens when you expand a technology within an organization beyond the usual "oasis of innovation", and try to "go systemic": scalability issues that, within the context of this article, are first in terms of people, then in terms of time, budget, and infrastructure.
+
+I prefer to follow the approach that started with the release, in spring 2025, of the e-book on the "36 Stratagems", as my first longer public human+AI collaboration experiment (called "BlendedAI01"- [see here](https://leanpub.com/blendedAI01)).
+
+Or: consider the palette of options, consider which tools are worth adding within the toolbox, and then get back to the (process, organization) drawing board.
+
+Therefore, within the <i>third theme</i> will discuss my approach to rethink the context and approach to be adopted- basically following the ACT cycle that discussed within the introduction.
+
+So, get used to read few times the same keywords: awareness, continuous, transformation.
+
+In this article, will focus on few "pointers" about that integration, while later this year I have planned to release a new mini-book within the series BlendedAI- but will share no spoilers here...
+
+... just to say that, if the first volume was an experiment on the book writing process that used e.g. for the [QuPlan](quplan) fictional case study on compliance, in this second volume instead will focus on roles within our new "pervasive AI" environment.
+
+After discussing concepts and examples, in the <i>fourth theme</i> will instead discuss a temptation that is quite common, what I call the "Gosplan attitude": centralize everything, and why, in the case of AI, this would be counterproductive.
+
+Monitoring and coordination approaches should not be a "one size fits all"- and should be linked to different levels of risks, degrees of freedom, and resulting from a SWOT analysis, internal and external.
+
+Considering also an additional element discussed in the previous sections: between the private and corporate uses of AI there will be no Chinese Wall, or even a paper-thin Japanese Wall, but a fluid, continuous mutual adjustment.
+
+So, in the <i>fifth theme</i> will share my considerations on where we are heading to.
+
+Beware: as will be discussed across the article, and as I shared in countless articles and a dozen mini-books, I am highly skeptical of any "painting-by-numbers" approach- including developing my own, as, even while developing and delivering methodologies, beside the "steps", shared also the flexibility elements needed to be adaptive.
+
+I prefer "frameworks".
+
+AI, properly used and integrated, even at the less intrusive level (i.e. developing agents using open source models), can support and enhance a revamped version of your existing processes and activities- long before you follow some modern ["pied piper"](https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin) and redesign your organization around a cloud-based model whose evolution you cannot control.
+
+Moreover: consider that each AI embeds its own cultural framework (and this is something that decades ago said also to customers starting their ERP journey).
+
+Within the "conclusions and next steps", will add instead training references and hints about how integration could start- as, despite its wider impacts, anyway introducing AI within an organization has organizational culture impacts that far exceed the usual whenever a technology is embedded within an organization, and therefore raising at least awareness across those involved, no matter what their role within the organization, should be considered a first risk governance step.
+
+And now, the first theme.
+
+
+<b>Contextualizing new competencies</b> 
+<i>SUMMARY:
+_ defining the learning approach
+_ contextualize what you deliver
+_ AI is not just a corporate affair
+_ embedding within your organization
+</i>
+
+If you want to read about "context" within the AI, you can find plenty of material online.
+
+The real concept here is about change.
+
+I first started helping developing new competencies in others long before I was offering during my compulsory service in the Army in 1985 to design and deliver a training course on Information Technology concepts.
+
+In that training course, used a "learn concept via practice" approach- for both soldiers, NCOs, and officers.
+
+So, after that experience in the Army, where the range of prior attendance of formal education varied a lot, doing the same in business was not novelty.
+
+And, actually, I had built up a "contextualization" reflex:
+_ know your audience
+_ know what makes them tick
+_ know their lingo
+_ convey your messages without undermining the quality of the content.
+
+As wrote in the preamble: <i>"Human contexts are not made just of formal organizational structures, written policies, rules, processes- but also of informal elements, elements that actually allow to operate in a dynamic environment where, the higher you go within the structure, the higher the level of uncertainty that you have to cope with."</i>
+
+If you read Italian, [you can read (for free) more details within a mini-book that published over a decade ago](strumenti), on blending traditional and social media within advocacy and communication- corporate and political.
+
+Assume that AI will be pervasive in your life, both private and corporate- not just by your own choice, but also simply for the developing social dynamics.
+
+Actually, chances are that you will have to get used to be unable to know when you are interacting:
+_ with humans
+_ with AIs
+_ with a blend of humans and AI working together.
+
+Unless, of course, you will meet physically (but then- expect gradually to meet more people who will have a earpiece or glasses integrating with AI).
+
+To give a practical example of contextualization meeting expertise, and explain what implies, will use a small example.
+
+Early 1990s, I was gearing up and preparing to deliver a training basically on building a business case and initial "scoping" for managers, project managers, business analysts, using high-level data and process representation that included defining what was "in" and what was "out".
+
+As a lifelong bookworm, in these cases my standard was to prepare something about libraries or warehouses- generic enough to work across all industries, and I had few decades of experience in classifying books (as a teenager, had studied to UDC taxonomy used by libraries).
+
+Not too long before started the first session, I saw a short article on an Italian business newspapers.
+
+My customer was in banking, and the article talked about a new rule definition from Basel against money laundering, that added responsibility also on the "front office".
+
+So, decided to toss away the material I had prepared, and focus on using a business case that, anyway, those attending would have to deal with.
+
+Why was relevant? Because, the way it was announced, implied that both the front- and back-office support systems and processes could be impacted.
+
+Therefore, was more relevant to transfer new skills, as would be associated with something that all those attending would find familiar.
+
+The same applied when, few years before and few years later, I had to transfer knowledge on data-driven (nowadays we would say "evidence-based") decision-making.
+
+Which implied taking apart processes, and converting "seat-of-the-pants" approaches with data injections, while explaining how to verify that data were relevant and went through proper vetting and "inheritance" steps- so that you knew the lineage of information.
+
+The whole idea, be it a decision support system, a methodology, a new process, a business intelligence tool, or a new organizational approach, was that the expert should be the one adapting and assessing the "absorption level" and "knowledge retention", and then verifying that actually the previous layer of knowledge had set in, before tuning in a new layer.
+
+And also, gradually, extending the level of self-reliance, as it was expected that, as soon as feasible, would have access to a competence center (developing and training one was part of my role), but would be conversant enough to have each team "fly solo", with minimal support, not continuous hand-holding.
+
+Actually, beside the training curricula, in each case, the idea was that, in larger organizations, a first "core" would turn into a de facto competence center, while building a formal one, and that those getting through the process would be able to act as focal points for other projects and initiatives.
+
+Now, in all those cases, the organization had decided to use a technology, process, methodology, and accordingly had agreed to a cultural and organizational change approach.
+
+So, the point of what usually started with "pilot projects" (that could range from building a model for a specific decision-making activity, to a sample workshop to see how the new approach would be applied to a real case, to a project end-to-end) was anyway to integrate the technology or approach within the existing organization.
+
+Contextualization, as wrote within the introduction, was different from what, in a short while, we will get used to.
+
+
+<b>Scaling up: organizational issues</b>
+<i>SUMMARY:
+_ it is not just about "shadow AI"
+_ evolving behavioral patterns
+_ the recycling element of AI
+_ evolve your risk governance approach
+</i>
+
+Some call it "shadow AI", as if it were a mere evolution of the ["shadow IT"](https://en.wikipedia.org/wiki/Shadow_IT) or ["shadow banking"](https://en.wikipedia.org/wiki/Shadow_banking_system).
+
+The use of AI not sanctioned by the organization, is often considered a new version of when employees a decade ago used their own tablet or smartphone to carry out corporate activities, the "BYOD" (see the [first volume](byod) and [second volume](byod2)) that shared within the preamble.
+
+In reality, I think that the "embedding humans within pervasive AI environments" is on a different plane of reality.
+
+While using personal devices within a corporate environment could be solved by simply denying access to corporate resources, and shadow IT could be controlled by doing the same, and shadows banking could be contained by tackling with the flows, with AI you cannot really know how much your own employees will access AI to "seed" their own ideas and proposals within your organization.
+
+Hence, beside interacting with sanctioned AI, their own behavioral patterns could evolve by integrating in their own routine various AI uses.
+
+Which generates issues when you move from individual "spots of excellence" to scaling up toward "organizational excellence".
+
+If your organization and your employees and stakeholders live in a pervasive AI environment, you never know what initiates what.
+
+Current "democratized" GenAI, "dialogue-based" AI technologies can be quite convincing, and, as shown by recent events, even larger organization that work in industries where they should know better (e.g. Audit), ended up being caught handing over "hallucinations" and other unsubstantiated information as analysis.
+
+When an organization starts adopting AI for internal business uses, chances are, in our current environment, that many of the employees (and also external help) involved will already have used AI tools.
+
+The overlap between corporate, private, social sphere of AI is a continuum.
+
+And, as will discuss in more detail in a future publication, this implies redesigning not just processes and organizations, but also roles.
+
+Individual people and organizations will have different motivations in their AI use and integration approaches.
+
+Frankly, most of the approaches and projects and solutions I see proposed via Linkedin or in webinars by fellow consultants in our current GenAI environment do not sound as including that "lineage" approach to data that I write often about.
+
+Or: sounds more as a ["layer cake", to remind a movie with Daniel Craig](https://www.imdb.com/title/tt0375912),  pre-Archangel (professor finding a son of Stalin), pre-Munich (avenging the killings at the Olympic Games), and of course before his tenure as James Bond.
+
+You get an existing, ongoing model that has been built using technology that you understand, but whose training and building you did not get involved in- and cannot control.
+
+Then, a layer is added on top of that, and the organizational assumption is that the layer is what has the "controlling stake".
+
+Just to discover, while embedding into your own activities, that that was not the case- including with the now famous jokes to "open up" models by forcing them to reveal what is the underlying model, or even "jail breaking" the model, as some did by having a corporate Chatbot start criticizing the company it was "working" for.
+
+Whenever introducing technology within decision-making processes since the 1980s, usually the technology involved had direct, specific, documented features.
+
+And, of course, indirect, both expected and "emerging" behavioral change impacts.
+
+To stay closer to AI and data, just consider my late 1980s activities on decision support models based on equations linking different business elements across multiple dimensions of analysis (e.g. time, product, region, distribution channel), extending up to computing convergence to a goal, or projecting potential scenarios whenever parameters were changed.
+
+Compared with our current technology, the volume of data (it was pre-web access) was severely limited, but still observed how a simple request to provide already existing data that were provided as a routine and printed in report, when inserted into a model whose formulas allowed to obtain in a short while a profiling of the data and highlight potential areas of investigation changed the perception of those data.
+
+Suddenly, those who seemed to e.g. generate value and activity, or be able to always reach their sales quota, were shown to just be able to play the rules in a way that produced the intended results with minimal effort.
+
+So, direct, specific, documented features that, anyway, when blended with familiar data produced a different perspective, and altered processes and organizational structures or business relationships.
+
+Anyway, models were controlled, data were controlled, and access and production of both were controlled.
+
+Shift to 2025, and look around you.
+
+Just take some fictional data about sales, commissions, units sold, cost per unit, selling general & administration costs, etc, and provide the resulting Excel (or CSV) as an input to [Anthropic's Claude](https://claude.ai/new), [Open AI's ChatGPT](https://chatgpt.com/), [Alphabet/Google's Gemini](https://gemini.google.com/app), etc. and apply any of the prompts proposed in [this YouTube video](https://www.youtube.com/watch?v=DCygtlQpRzc), and you will get in minutes what, by designing a model as I did in the 1980s, required an initial effort and continuous iterations and increments.
+
+The catch? You have to share online your own data- and your own prompts could help (unless you select otherwise) to share your own concept of analysis with others.
+
+Granted: probably 90% of your analyses you are so proud of are, as I saw when asked in the 1980s (DSS) and 1990s-2000s (business intelligence and datawarehousing or management reporting or KPIs), really a continuous re-invention of the wheel.
+
+Still, the "what" (your data) and the "when" (your own routine of applying the model, now the prompt) are specific to your organization.
+
+In the 1980s, and even more so in the 1990s, when at last web access was common also in business intelligence etc., usually you started with pilot project, "oases of innovation", and then extended.
+
+Currently, the approach that saw often is to "spread and prey": somebody develops a prompts or "agent", shares it after initial successes, and then the same iterative and incremental approach that used on those "pilots" in the 1980s is adopted.
+
+It is a completely different approach, and potentially could generate more entropy than results, as those "first try" shared prompts and agents would be used to generate information that would then feed somebody else's decision-making, not necessarily sharing the conceptual framework and limitations.
+
+Actually, a side-effect of our current "easy to use" models is that anybody can generate professional looking dumb material that is mumbo-jumbo.
+
+Akin to those legal cabinets that in the USA were paper mills to prepare patent applications, exploiting the concept that there were just few minutes to examine each patent application, and therefore asking few parameters to "feed" into a giant pre-boiled document would generate the typical "file first, challenge later" document.
+
+As I wrote in the past, the curious element is that "democratization of AI" has not been supported by "critical thinking development"- as, actually, in our quest for efficiency, most schooling systems removed anything that could be considered "not directly productive": including history, philosophy, and any "non-practical" disciplines.
+
+Scaling-up AI used in corporate environments, to make them, as I heard and shared recently "AI first" across the organization would require thinking again the role of organizations.
+
+Yes, you can assume that your next batch of newly hired employees will have familiarity with AI tools, at least via smartphones.
+
+And you can assume that most employees of this and future hiring flows will actually find way to convert whatever processes you toss on them into "embedded AI" processes.
+
+From asking ChatGPT how to design a chart or slide or Excel spreadsheet, to simply using within Excel, instead of formulas designed by hand, the new "copilot" features.
+
+Introducing risks: as AI models, unless hosted locally, are not "static", and will evolve across time.
+
+Hence, scalability within corporate organizations might actually require considering the degree of risk integrated into embedding "AI-generated" material: just because in Excel today a formula using "copilot" will behave in a specific way, does not imply that in the future will behave exactly in the same way.
+
+While in the next section will share concepts and ideas about rethinking the context of this "humans embedded in pervasive AI organizational environments", a first element that I think would needed is quite simple.
+
+Think about risks and impacts- and "layer" your AI integration avoiding the "spray and pray" approach.
+
+As AI-generated material might be fast to deliver and implement, but then maintenance is up to you.
+
+And I am not just talking about software development- also in terms of presentation and documentation, I saw how verbose models can be in producing documents containing pages upon pages of platitudes that could be fine on a website like mine, or in books, but are a waste of time when integrated within corporate material.
+
+Also because, the longer the material, the higher the chance that your massive AI-generated presentation material will not be read by humans, but by other AIs summarizing the material.
+
+And this is where, actually, I think that scalability should meet cultural and organizational change.
+
+
+<b>Rethinking the context and approach</b>
+<i>SUMMARY:
+_ enter the lifecycle approach
+_ awareness and transparency within transformation
+_ "AI first" does not imply "AI for everything"
+_ motivation within an AI-pervasive environment
+</i>
+
+Within an "AI-pervasive" organizational environment, my concept is that you should consider a lifecycle approach.
+
+For both people embedded in such an environment, and AI use cases and AI-generated material: basically, what you should have done already since decades for KPIs (Key Performance Indicators), should become the default mindset.
+
+A KPI is a byproduct of your organizational life: it starts to assess continuously a set of events, monitor them, seek convergence, and, once convergence (or harmonization) across the organization is achieved, the overall structure of KPIs (not just the one now "spent") should be reconsidered, and probably a new mix should be issued.
+
+Along with associated awareness training- not to prepare your employees to "trick the system", but to be transparent about the elements of interest.
+
+In our future work environment, where at least for any "knowledge worker" (and also most of what in the past used to be "blue collar" jobs will increasingly have a knowledge element) there will be a dual mandate (do and give feed-back for continuous improvement), having AI embedded in your own processes and organization will allow to minimize the non-productive "signal processing" done by layer upon layer of supervisors, signal-shuffling managers, etc.
+
+As somebody joking wrote: I want AI to do my dishes and laundries and shopping, not my drawing and writing and creative thinking.
+
+Still, I think that the approach that discussed in (<a hreF="https://leanpub.com/blendedai01">my first BlendedAI co-writing experiment on the 36 Stratagems</a>) is closer to our current potential and reality- and can deliver, as did in my case, a significant increase in productivity on what can be delegated and "framed" for and by AI, while retaining overall orchestration toward the target.
+
+If you read the previous two sections and the paragraphs so far within this section, you know where I am heading to.
+
+In my birthplace, Italy, way too many companies are too small to develop internally the continuous learning structures (and, often, also to open to external injections of knowledge and managerial approaches)- hence, they push for faster training and getting "ready to eat" people from universities, technical schools, etc.
+
+All free of charge- as even internships really often in Italy are converted into free work that is anyway billable to customers (for those providing services), or generates revenue (for those manufacturing products).
+
+If you were to follow the concepts shared above, you would see, to close this short section, that the "lifecycle" is something that generates something akin to "cradle to grave", but assuming that the "hire newly graduated to keep them until retirement" will be less and less common in the future.
+
+The transformation element, if you are or are planning to become an "AI-pervasive" environment:
+_ first: when you hire somebody for roles that have or are expected to have a knowledge content, induction training should be about your environment (including AI) and basic guidelines- not just about control, but also about degrees of freedom and awareness plus transparency (e.g. how to communicate issues- but not on a form-based approach)
+_ second: all your internal processes should continuously monitor feed-back (yes, AI can help on this) to see areas of emerging or problem practices
+_ third: whatever "human embedded with AI" integration, should have a managed lifecycle, which includes communication with those involved
+_ fourth: do not let the controller be self-controlled, as otherwise eventually some of those will "accelerate" saying that "will fix later".
+
+Overall, the approach is based on transparency and accountability: which is, frankly, something that few organizations are ready for right now, as prefer to hide behind layer upon layer of rules, procedures, de-coupling responsibility, etc.
+
+Now, this approach might seem chaotic: but, simply, assumes that an environment that wants to claim to be "AI first" has to accept that old hierarchies and old "top-down controlled and initiated" would simply not work.
+
+"AI first" does not imply "AI for everything"- but implies awareness of potential, impacts, and redesigning processes and concepts- including within organizational development.
+
+Moreover, also talent management and IPR management will have to motivate people to actively contribute while they are within the organization, not to assume that whatever they do, learn, think belongs to the organization that they will temporarily be associated with.
+
+It is part of the motivational mix: if you consider a continuum where AI is used both in the organization and in private life, some knowledge workers will actually evolve new ideas and seed new approaches outside the working hours.
+
+You cannot assume that 100% of what they do and think is exclusively yours, as otherwise simply you will shut down the potential, and achieve the puzzling results of having an environment where there could be a continuum of grassroot innovation focusing on real business problems, and end up instead with a "post office stamping clerk" attitude to avoid becoming a cog-in-the-wheel.
+
+Personally, I think that a more adequate approach would be what a customer long ago did with suppliers to avoid licensing, copyright, etc: any project that delivered something was considered to have delivered a "WIP" that was equally theirs and of their vendors, and both could evolve it, something close to the [CC-BY-SA Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons_license) that I often use, after meeting, as part of my startup support activities, at a convention in Milan almost 20 years ago, a Japanese who was supporting (also financially) both "creative commons" and "extreme democracy".
+
+Otherwise, you will simply turn into a "training ship" for those fresh out of school, and become unable to retain talent, talent that will find more attractive "knowledge sharing and cross-feeding" opportunities.
+
+There is another organizational conditioned reflex that is tempting for many organizations (and that is one of the reasons why agile, lean, etc do not really work for them), that will discuss in the next section.
+
+
+<b>Drop the Gosplan attitude</b>
+<i>SUMMARY:
+_ ground rules- the starting point
+_ the temptation to pre-plan everything
+_ demography and continuous learning: a caveat from OECD
+_ the Gosplan attitude and its risks in a dynamic environment
+</i>
+
+In the previous section described the concept of considering few elements, if you want to become an "AI first":
+_ accept that you will not control 100% of the evolution, as your employees will still use AI outside your office
+_ consider risks, impacts, life-cycle of any AI use- including refraining from "spread and prey" half-botched "quick&dirty" 
+_ continuous monitoring, learning, listening to feed-back, without filtering out what you do not want to hear
+_ last but not least, transparency.
+
+In some organizations, the temptation might be to consider that, due to the characteristics and risks (including unwillingly importing material whose IPR belong to others), the temptation will be to "plan everything".
+
+Even better: to "divide and control"- by splitting activities, AI uses, etc across the organizations (or vendors), so that they control each other, and the organization controls them all.
+
+Welcome to the [Gosplan](https://en.wikipedia.org/wiki/Gosplan) organizational model.
+
+Well, trying to pre-empt and regulated what changes and actually evolves on a weekly basis would require a different approach from the one I routinely read about in a gazillion of posts, papers, announces- which sounds so late XIX century and echoing 1950s books about how corporations should be structured.
+
+Frankly, many in (legislative, policy) power roles have my age or are even 10 or 20 years younger, but their mindset is firmly structured around 1950s-1960s ideas taped over with 1980s-1990s buzzwords that they struggle to update with the latest trend.
+
+Hence, one of the most common acronyms since the beginning of the 2020s: FOMO- Fear Of Missing Out- which is deftly exploited by vendors to push for half-baked AI offers that, frankly, often are just copycats of material from DeepLearning.ai or Coursera courses, or even experiments by AI enthusiasts 20-something that post on YouTube their own projects.
+
+As I wrote at the beginning, this article is not about implementation of AI, but about the cultural and organizational change implied by AI.
+
+Anyway, this implies having a learning attitude across the organization, and a recent OECD chart showed that, despite the expected demographic changes that will see more and more people living longer and longer, beyond the 25-34 age range, there is a sharp and continuous decline in three key skills for a data-centric (and "AI-first") business environment:
+_ numeracy
+_ literacy
+_ adaptive problem solving
+(see [here on Linkedin the post I shared and the associated commentary](https://www.linkedin.com/posts/robertolofaro_the-demands-of-the-job-market-are-changing-activity-7403129064548589568-FDey?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)).
+
+Probably, while the other two skills can be complemented by "smarter" technology, adaptive problem solving is the most critical element: if the knowledge environment around you becomes increasingly dynamic, you need to be able to select and adapt, not just adopt whatever is currently trendy.
+
+Again, it is a matter of contextualization: whenever you feel FOMO, neither numeracy nor literacy will directly help, and the critical skill becomes adaptive problem solving- prioritization.
+
+Example: few months ago, I had a discussion with a local contact, who told me that, not being a nuclear engineer, I should not dare to criticize the business practices of one (no, the one uttering this was not a nuclear engineer, he was talking about a business entrepreneur).
+
+My reply? My focus is on change and organizational development and, when it comes to startups and new initiatives, evidence-based (what I call "number crunching").
+
+If a business keeps procrastinating results and asking for more funding, but still presenting itself as a results-oriented business, while just building real estate, I do not see that as a viable business model.
+
+As the accountant within the "Munich" movie, "give me receipts".
+
+And this applies also to regulation and policy: you do not regulate just to show off that you are in control.
+
+Within AI, there are at least two levels of Gosplan attitude:
+_ from those who would like to regulate the unknown, and constantly tinker with it
+_ from those who assert their uniqueness and pretend to become "the" reference company.
+
+There is a third level, from the corporate users side, that sometimes would like to be able to plan, design, implement, and then extract value from AI integration- but without first building the awareness needed to understand how AI, notably "democratized AI" (e.g. accessible via natural language), could impact, its strengths, and its limitations.
+
+As I wrote in previous sections, most of the uses I saw reported from companies that are not developing models from scratch are actually associated with direct or mediated (via system integrators and consultants) access to cloud-based AI platforms.
+
+Hence, for corporate users, beside what I wrote above about their own employees being net "importers" within the organization from their own personal AI uses and "exporters" (not necessarily explicitly- even just "discussing" concepts) toward AI platforms, assuming a Gosplan, centralized planning attitude of the evolution of AI platforms is pointless.
+
+The risk is that many organizations will assume that they can take this centralized planning approach simply because they see "AI solutions" provided by their traditional vendors, only to discover that they were actually buying a "layer", and see then costs increase without direct control.
+
+On the regulatory level, within the European Union we started with [AI Act](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act) that followed the footsteps of the [GDPR on data privacy](gdpr) (it contained already a preamble that discussed automated decision-making), and also some enabling factors (e.g. high performance computing setup, computer chips production, AI development in Europe, cloud computing services, etc).
+
+With the ["Digital omnibus"](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2718), the European Commission proposed to redesign the regulatory framework of the European Union across the whole board.
+
+Frankly, way too many elements of these and others recent regulatory tinkering activities sound a lot as "appeasement &agrave; la Munich style" (the agreement with Germany pre-WWII, not the movie about the 1972 events in Munich) toward President Trump, despite what wrote within the Trade Tariffs original document and the recently released new security strategy.
+
+It is curious when companies that are subject to compliance, after preparing for years, being told that there is a backpedaling on some compliance, instead of cheering the softening, complain about being tossed in a limbo and undermining their competitiveness, and asking for regulatory steadiness.
+
+Anyway, it is the Gosplan attitude that the incumbent European Commission since 2019 got us Europeans used to: top-down, almost impromptu, reactive decisions that are then routinely pushed through, and discussed later- in each case, reacting to external pressure.
+
+While my disappointment with this trend is no surprise, it is useful to share it here again.
+
+Because, on a smaller level, also at the corporate level this is a temptation that the volatility of AI technology (I get "breaking news" on new models improving on others almost on a weekly basis) that will generate costs and risks.
+
+Yes, you can recycle on most models some of what has been prepared, but then all your "evaluation" has to be redone.
+
+And all the communication on expected uses and results that you spread as part of awareness initiatives across the organization will become obsolete.
+
+Reminds me a late 1980s project, when somebody decided for a large project to have in Japan a Laserdisc prepared with a Computer Based Training, while requirements instead were still evolving.
+
+I will never forget when the brochure presenting the educational product arrived, and a business analyst picked it up and, in front of the manager who was sharing the news, started flipping pages and uttering "this changed, this is not there anymore, ..."- I let you imagine the results.
+
+The Gosplan attitude has an "original sin": assumes that it can pre-empt and structure and guide the evolution of everything.
+
+
+<b>Where are we heading to</b>
+<i>SUMMARY:
+_ EU digital omnibus and extreme tinkering
+_ the dynamic AI domain context
+_ creating an adaptive organizational culture
+_ the inherent weakness of our conceptual infrastructure
+</i>
+
+My first impression on the Omnibus draft and changes on regulatory elements within the European Union it is shared on Linkedin and Facebook since it was announced.
+
+And, as you can guess, is aligned with those that complain that it is a kind of tinkering that begs to asks "cui prodest?"- who benefits.
+
+Be it data privacy and AI data accessibility, a direct impact on EU citizens' rights, or postponing emission targets by changing a wide range of regulations (from manufacturing, to reporting, to consumer rights).
+
+Have a look e.g. at [a report from Clifford Chance on the "EU Digital Omnibus"](https://www.linkedin.com/posts/activity-7399158525471383552-hw26?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+In this final section, would like to look at the future- I do not have a crystal ball, but will rely on my experience on cultural and organizational change as well as introduction of technologies and associated changes since the 1980s.
+
+So, take what follow in this section as just a scenario, not a list of predictions or an assessment.
+
+As discussed in the previous section, a structural weakness of the Gosplan attitude as currently spreading around is the illusion of being able to guide reality by deciding how it should evolve- also when, as everybody admits, the large majority of current AI uses within the European Union are based on services developed elsewhere, and also the infrastructure often has a legal "fig leaf" that supposedly delivers alignment with the European Union regulatory framework- until (as often in the past) proven otherwise.
+
+Considering how the AI industry context is evolving, beside raising awareness ([as described also in a previous article, in late July 2025](index.php?page=607)), probably consultants and vendors, instead of selling mildly repackaged off-the-shelf solutions based on cloud-based platforms, should focus their expertise on helping corporate customers in building resilience.
+
+Which, considering what shared in the previous sections, implies supporting the development of an adaptive organizational culture, built around:
+_ understanding and continuous awareness of evolution, to understand trends and when and what to integrate
+_ communication and transparency within the organization, to ensure a collaborative environment generating value
+_ continuous re-assessment of risks, impacts, and externalities, to provide long-term sustainability.
+
+As wrote within the preamble, this would imply considering also the degrees of freedom (no organization operates in a vacuum), as eventually a cyberspace of multiple interacting AIs would have to be considered a "common", i.e. answering not to the aims of a single entity or a handful of organizations, but shared understanding- a kind of SWOT analysis.
+
+Which should be looking at strengths, weaknesses, opportunities, threats both at the organizational and "commons" level, to operate properly.
+
+Nothing new: there will be no separation between private, corporate, social uses, but a continuous interaction that will mutually affect those interacting entities.
+
+What we are seeing today is just the beginning: a kind of "storming", "barbarians" phase (to echo a 1990s book on the developmental phases of an organization and its culture), with few wannabe monopolistic egomaniacs trying to become "the" source of all the AI evolution.
+
+As I wrote at the beginning, this article is focused on cultural and organizational change, not on implementation- hence, as in any change initiative, beside the assessment and selection of potential aims, there should be also an assessment of impacts and potential changes.
+
+The current "barbarian" acceleration is getting closer to a competition.
+
+If models, as started evolving in late 2024, will gradually interact with each other, the higher their understanding of the context, the larger will be their inclination to bypass the use of human language and its imperfections and ambiguity.
+
+Recently read papers and posts talking about acceleration by shifting to the post-conversion of human instructions into a representation, and also hints at development of communication concepts between models that are not understandable to humans.
+
+More efficient, but potentially, as from models we shift to agents (executing instructions) and then to agentic (intervening potentially autonomously), the "security valve" that we identified with the "human-in-the-loop" approach (no critical decision without humans having the last say before execution) will routinely risk of being sidelined.
+
+As I shared in previous posts and articles, it is akin to that sci-fi movie from the Cold War, "The Forbin Project", where a computer received the power to control security and systems in the USA, a similar one was revealed in USSR, and then both started communicating and defining their own language and, eventually, "decided" to take over.
+
+Back to our current reality, recent technological hiccups e.g. involving Cloudflare, showed how really our "data-driven economy" relies on few companies.
+
+Or: the more AI will become embedded in our data-driven societies, the more incentives we will have to process more and more data generated by smart (and dumb) devices, up to the point where no human control would become economically viable.
+
+Meaning: by accelerating and deepening the data intensity, we will actually end up increasing the risk of failure within what is quickly becoming our critical infrastructure- not just at the national level, but also wordlwide.
+
+Also: as I shared in posts and articles, AI requires a redesign of our product and service development approaches.
+
+A mere approach based on "gates", also with a lean/agile inclination, is not anymore enough, unless you keep in mind that there is a continuous orchestration/governance/monitoring need.
+
+If you build from scratch your own models, probably you risk losing some of the innovative power of evolving AI platforms, but this eases ensuring consistency of behavior (not of results- as most of current AI use cases being discussed are based on probabilistic, not deterministic, concepts).
+
+Imagine you were interacting with a human vendor: whenever they change specs, you would demand to have a discussion first, not to have your own shop floor report to you that e.g. tolerances have been changed by vendor X without warning.
+
+Ditto if you have people working in customer support, you would expect that they follow script and processes, not that "improve" on them without agreement or warning.
+
+As you can see, when a technology that can interact without mediation, such as AI, can influence and be influence by interactions with humans and human organizations, the wider the scope of diffusion before it has been fully assessed and safeguards implemented, the higher the potential impacts.
+
+Anyway, there will be time to write more about this.
+
+For now, let's shift to the unusual "conclusions" of this article.
+
+
+<b>Conclusions and next steps</b>
+
+As I closed the previous section, this time the "conclusions" will not be a mere summary of the previous sections- but will be focused on "next steps".
+
+Specifically, hints about how integration could start.
+
+The "ACT" cycle that described within the introduction is just a hint- and maybe in the future will explain it better with examples of its application, using the approach that used for the [#QuPlan 200+ pages fictional case study on a program management within compliance](quplan).
+
+In that case, it an extreme assumption: a regulatory "bolt in the sky" that required implementation within half a year.
+
+Well, within the European Union, as discussed above, since 2020 actually we got used to many of those "bolt in the sky" really giving few months to gear up.
+
+I think that it would be interesting to see each one of this continuous stream of regulatory innovation (and backpedaling) to be released along with a simple "expert model" that gets as input your own organizational information, and delivers a proposed roadmap of convergence, highlights draft risks and associate mitigations, etc.
+
+All done, of course, offline- as it is then up to the organization to choose a path: but, at least, would do what I used to do with methodology: training is fine, but pre-emptive identification of potential pitfalls before starting monitoring and auditing is better than wait at the end and give a go/nogo.
+
+As shared in previous posts and articles, and in the previous section, becoming a pervasive AI environment, an "AI first" organization implies changing approach not just on AI, but also on how projects including AI will navigate through the development cycle- from concept, to design, to delivery and quality assurance. 
+
+Keep always in mind the first two elements of any change initiatives: assessment and contextualization- importing exogenous "best practices" verbatim as were applied elsewhere is not a smart choice- unless you want (why?) to "assimilate" (&agrave; la Borg in Star Trek) your own organizational culture within the imported culture.
+
+Despite its wider impacts, anyway introducing AI within an organization has organizational culture impacts that far exceed the usual whenever a technology is embedded within an organization, and therefore raising at least awareness across those involved, no matter what their role within the organization, should be considered a first risk governance step.
+
+Yes, in the 1980s as well as in the 1990s did hands-on on some AI, as wrote in the past, and in 2018 started again- but my purpose is to be able to understand the potential, i.e. more than working on building components (e.g. inventing algorithms), my focus is on:
+_ governance
+_ integration
+_ building business cases
+_ bridging business and experts
+_ assessing/auditing
+what my customers and partners involved me for since the late 1980s.
+
+As so far did not have direct customer requests for AI projects, since 2018 simply integrated those skills into my publishing and research activities, including to build tools that you can see in this website (and others that you cannot see, but whose results are online), while I continuously did "pilot projects" after training or retraining.
+
+Hence, if you were to visit my [Linkedin profile](https://linkedin.com/in/robertolofaro), under the "certifications" section you would see a sample of the training I routinely followed since 2017- I shared only some of those that actually delivered a certificate.
+
+Anyway, if you have to start to at least understand, I would suggest to understand current technological trends:
+_ if you are on the business side, have a look at some of the course "strings" (multicourses) I followed on [Coursera](https://coursera.org): usually, the first one-two courses in each "certification string" are introductory
+_ if you are on the technical side, a quick starting point on the latest trends is [DeepLearning.ai](https://www.deeplearning.ai/), where some course deliver a certification, but, in most cases, you can complete courses end-to-end, including hands-on labs online (with instructions and material to replicate locally in your own environment, preferably Linux), for free; you need to pay only to access quizzes and get the certificate; you can also, again on the Coursera "strings" on my Linkedin profile, follow end-to-end.
+
+Humble suggestion: if you (or your organization) use an AI agent to generate posts online, modify your Linkedin publishing agent, so that...
+
+... at least searches what has already been published about that paper, article, post from somebody else that you would like to announce as "breaking news".
+
+The key risk? Frankly, while I collect them and review them, I have no time to cross-check and verify and implement all that they advise to do, at least a conceptual stage, to see applicability and impacts within e.g. organizations I worked for or with, or even in my own projects.
+
+And this "fatigue" is starting to show even in conferences, workshops, etc: reminds me the early 1990s, when I was localizing, customizing, designing, delivering methodologies.
+
+That and Computer Aided Software Engineering, or CASE.
+
+Yes, "vibe coding" was "in" already there- the promise of having software tools convert your own ideas into working software- and the same promise, a decade later, happened with Enterprise Resource Planning (ERP), with somebody promising that in few months you could get rid of all your software and associated development teams, and instead plug-and-play.
+
+Personally, whenever it comes to software coding, I use AIs as experts with specific roles, but start the process by giving instructions, revise each proposal from AIs, and integrate and validate and, often, rewrite or reassemble.
+
+But I find useful AIs, notably on smartphones, to shift from just jotting notes on my smartphone, to actually having half a dozen models brainstorm.
+
+During the idea and prototype development, my development cycle is [closer to what was described within this post on how China differs from the "V" cycle](https://www.linkedin.com/posts/lukastimm_the-real-secret-behind-china-speed-isn-activity-7401866588918030336-QsX8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg): in my case, obviously it is easy.
+
+Anyway, occasionally, also for customers, during projects, when identified an issue that could be solved by a development, outside working hours developed anything from a simply python and numpy script to convert a file (as Excel did not support anymore a specific function), to creating a "living" dashboard in Excel that could be updated on a daily basis in few minutes (and then, in both cases, when leaving gave copy of the sources both to the customer and the vendor I was temporarily supporting through that project- I live my CC-BY-SA).
+
+In other cases, developed processes, not tools, and associated documentation.
+
+Moving specifically to AI, as an example, whenever I attend a webinar or conference, or travel around, I had a routine since the 2000s of writing notes or sketching concepts on my smartphone (as I had also pocket PCs, write-with-your-fingers devices, etc) and, with smartphones, used routinely the drawing and note-taking apps available, and then transferred to my PC.
+
+Over the last year, while I keep some notes in that way, often I actually use the results of few courses and continuous updating on prompt and context engineering to write complex prompts based on those notes, and then, while still within the webinar, conference, travel, hand it over to models, and then, when back at my computer, to get the results, revise, and process (offline) with local models, and iterate until I get a result that I want to validate and test.
+
+Sometimes, this actually implies that I do not reuse "no code" or material produced "as is", but instead use it as inspiration to write something else, derive new prompts, and again brainstorm.
+
+Seems time consuming- but, as showed with my first experiment (the [BlendedAI01](https://leanpub.com/blendedai01) book released at Easter 2025), the full cycle sometimes takes just few hours across a couple of days- and is equivalent to weeks of work with human experts (or even longer if done just by myself).
+
+Then, I prefer to be the one implementing- be it software, a database, or a document: so... I am actually both the "customer" of AIs and their assistant doing the "grunt work".
+
+Reason? AIs recycle a lot from what has been their training base, but are inclined to be verbose and convoluted- while I prefer something that is simpler, structured but as much as possible self-contained, with a narrative (also for software) that can be followed by people, and easier to maintain (as both software and documents could evolve- the former by increments or versions, the latter with the same but also as templates).
+
+The key elements, to summarize, is to start with awareness and transparency in mind:
+_ awareness of both the technology SWOT and your own organization's needs
+_ transparency about purposes and evolution.
+
+The main aim of this article was to discuss how to increase AI adoption but assuming that anybody within the organization will also use AI outside business hours.
+
+There is an element that hinted at and will discuss later: how to evolve the whole intellectual capital and IPR concept, as I still see too many 1970s attitudes that were adequate when people were "hired to retire" fresh from school, but, in a gig economy where talents will be mobile and, often, to avoid obsolescence and enable full use of their capabilities, will work as I did in the 1990s-2000s (and from 1988 until 1992 for my own employers when I was a full-time employee), across multiple organizations at the same time.
+
+For those who instead will work for just one employer or on just one customer, would advise to continuously re-assess what they do and what could be done by automation (AI but also software and, in the future, robots or cobots)- to pre-empt obsolescence, and reposition/leave before being replaced: as any occupation that is repetitive, mere paper-shuffling, and based on somebody else's value added but adding no value added, be it front-line or executive, redundancy is around the corner.
+
+In the future, either you will provide value-added (talent, orchestration) or you will be disposable as soon as technology makes that feasible- as even the "human in the loop" is a training ground for further steps in organizational development toward a blended human-AI environment.
+
+In the next article, will shift back concepts of industrial policy and transition.
+
+For now, stay tuned!

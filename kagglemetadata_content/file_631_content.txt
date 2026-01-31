@@ -1,0 +1,241 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251222_article.png)</center>
+
+This article inaugurates a new "Pointers" tradition.
+
+Specifically, this will be a multi-part article following this publication plan:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/pointersseries1_cover.png)</center>
+
+There will be more "pointers" multi-part articles in the future, but this one is the first experiment, focused on a specific set of themes.
+
+This first part will be repeated across all the parts of the article- as this is more a journey than an article, and therefore knowing your overall mission is useful to contextualize the details of each part.
+
+Key choice is that, while this first part and the last part are more about discussing the overall context and (in the last section) the potential developments, the other articles will be instead data-driven storytelling.
+
+To read (when available) the other parts of this article, navigate using the option at the top of article, that shows the previous and next (when available).
+
+To read all the parts starting from part one, visit the [multipart list section](multipart).
+
+The last part will contain also a list of all the published parts with associate links and the abstract of each part.
+
+Why now? This 2025 has been a year of plenty of flip-flopping, both at the national level (Italy), in Europe (and neighborhood), and the world at large.
+
+The key risk? In our current climate, acceleration generates what often described online and discussed again few days ago by showing how, in routine rounds of communication and "decisions" at the global level, it is akin to a fencing duel where all those involved operate on different planes of reality.
+
+Or: the reality that they themselves identify by looking at the mirror, and then assuming that the world at large will follow their own assumptions and will react as they would react, is not supported by any consensus on such an assessment from at least the key counterparts involved.
+
+A confusion between manipulation and "acting strategically": should refresh if not game theory, at least [the 36 stratagems](books/stratagems).
+
+Side-effect: 2026 is potentially going to be an encore, with the aggravating factor that what was apparently solved in 2025, will surface again but with vengeance in 2026, and with the "resistance to change" and loss of credibility and effectiveness built by the botched attempts of 2025.
+
+Yes, if you read the first part of the article, you already read these lines- as will be repeated in each article.
+
+While the first and last part will follow the new structure that adopted after "discussing" with different AIs (online and offline) how to evolve layout to ease access, i.e. preamble-themes-etc, this paragraph will instead be common to all the "central" parts of the article, those focused on a specific theme.
+
+The reason is simple: just one section- "data narrative".
+
+As the central parts of the article will be within the [CitizenAudit section](index.php?section=citizen-audit), will follow a "leaner" approach: a storytelling linking to all the data shared as potential resources.
+
+Of course, the storytelling will not be "neutral", as any data storytelling is based on a data choice, hence it is selective, not universal.
+
+Anyway, this approach will leave all the central parts of this article as a data-sharing with a short explanation of why the "data dots" are connected.
+
+The purpose is to share material and a limited degree of assessment, so that both readers and myself in the future can, if interested, develop further material, knowing that the sources are shared.
+
+Therefore, while the first and last part of the article are more focused on the ends, each section that is following the "data narrative" (or data storytelling) approach is focused on the means.
+
+Note: in my preparation activities, whenever I quote a paper, document, etc, routinely take notes and quotes.
+
+In this "Pointers" experiment, will share my "highlighted" parts on each paper etc on the GitHub repository, to keep "lighter" the articles, while providing segments that could actually be useful (and avoid that you have to spend time to redo what already did).
+
+After this multi-part article will be released in full, will fill the GitHub repository.
+
+Hence, future readers will have both:
+_ the "Western option"- narrative and then dig into supporting material
+<_ the "Asian option"- reading the supporting material before reading my "five cents".
+
+If you find further material that is publicly available (for data, open data) that you consider should be included in this section, please feel free to contact me [on Linkedin](https://linkedin.com/in/robertolofaro).
+
+Whenever I add material following a public suggestion, I quote the source, so that others can add it.
+
+In this fifth part, will focus on the some data about the automotive industry, specifically considering recent announces both from the European Commission and the industry.
+
+Enjoy the reading.
+
+
+<b>Data narrative</b>
+
+These are key data about the European automotive industry, from the website of the [European Automobile Manufacturers' Association, ACEA](https://www.acea.auto/about-acea/)
+<i>13.6 million Europeans work in the automotive sector
+8.1% of all manufacturing jobs in the EU
+EUR414.7 billion in tax revenue for European governments
+EUR93.9 billion trade surplus for the European Union
+Over 8% of EU GDP generated by the auto industry
+EUR84.6 billion in R&D spending annually, 34% of EU total</i>
+
+Anyway, you have also to consider that within the European Union the automotive industry has a wider role than in other countries, similar to the military-industrial complex in the USA- as I wrote in past articles.
+
+In Europe, the old definition of automotive as "the industry of industries" is quite to the point- I will skip references to specific articles that published in the past about the industry ([here for a list](search.php?tag=automotive), 119 as of today), but a quick read of a 2017 German book could give a quick review of the impact of transitioning the industry ([see my 2018 review of "Silicon Germany"](index.php?page=298)).
+
+Therefore, the political impact of automotive is almost on a par with that of agriculture, the other industry that traditionally in Europe was the main funding destination decades ago.
+
+Will ignore all the previous data on the genesis and regulatory framework about the green transition since 2020, and will focus just on 2025.
+
+Anyway, it is worth reading a 2023 article from McKinsey, with the title [A road map for Europe's automotive industry](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/a-road-map-for-europes-automotive-industry#/), as assessed the status, summarized the history of the industry in Europe, and pinpointed issues that are still on the table today. 
+
+January 2025 started with ["President von der Leyen launches Strategic Dialogue on the Future of the Automotive Industry and announces Action Plan"](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_378).
+
+Curious the [list of participant organizations](https://ec.europa.eu/commission/presscorner/detail/en/ac_25_379)- but at least at the [second one, in March](https://transport.ec.europa.eu/document/download/799ef21e-bea0-4c8b-8513-0076a4410e8f_en?filename=Second%20Strategic%20Dialogue_European%20Automotive%20Industry_participants.pdf) the list included also those missing in the first one.
+
+Then, on February 17th, was carried out a [thematic session on Technological and Digital Innovation](https://transport.ec.europa.eu/document/download/4e2ab4c4-785d-492e-b494-2d6e316ab050_en?filename=Participants%20thematic%20session%20on%20Technological%20and%20Digital%20Innovation.pdf)- interesting the list of participants for each company, and their roles- a sign of the time (and the themes).
+
+In March 2025 the European Commission released a [fact sheet](https://ec.europa.eu/commission/presscorner/detail/en/fs_25_637) with really limited information- more interesting the timeline and collection of links about the strategic dialogue launched in January, a timeline issued [equally in March 2025](https://transport.ec.europa.eu/transport-themes/action-plan-future-automotive-sector_en).
+
+The title is in the communication style we got used to- almost as if AI were writing PR for the European Commission, as everything is heralding a paradigm shift- in this case, the title was "Commission boosts European automotive industry's global competitiveness": quite a feat.
+
+Anyway, in September 2025 there was a one-two-three that was quite interesting:
+_ one: [Commission launches new initiatives with industry to boost Europe's Automotive leadership](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2090)
+_ two: a ["Memorandum of Understanding"](https://transport.ec.europa.eu/document/download/1e929ecd-eee5-4ee5-b18b-c5843d76259f_en?filename=C%282025%296157_annex.pdf)
+_ three: published on 2025-10-28 by ACEA, [New car registrations: +0.9% in September 2025 year-to-date; battery-electric 16.1% market share](https://www.acea.auto/pc-registrations/new-car-registrations-0-9-in-september-2025-year-to-date-battery-electric-16-1-market-share/).
+
+Plus a ["concept document"](https://transport.ec.europa.eu/document/download/7b66fca0-7849-41a1-a7af-f017acca1cd5_en?filename=concept_note_for_the_third_strategic_dialogue_on_the_future_of_the_european_automotive_industry.pdf) that could actually be useful for future reference.
+
+A sample of the data from ACEA's <a href="https://www.acea.auto/publication/economic-and-market-report-global-and-eu-auto-industry-first-half-of-2025/
+">"Economic and Market Report: Global and EU auto industry - First half 2025"</a> released in September 2025:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251222_631_01_carregistrations.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251222_631_02_carmix.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251222_631_03_productionlocation.png)</center>
+
+Look again at that list of "where" cars are produced in Europe: "Germany, Spain, Czechia, France, and Slovakia."
+
+Italy is missing in action- and, actually, for Stellantis (that in Italy is still considered an Italian company) a single plant in Spain was reported to have produced more cars that all of Italy (you can find the link to the article on my [Linkedin profile](https://linkedin.com/in/robertolofaro)).
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251222_631_04_exportincrease.png)</center>
+
+Excerpt:
+<i>"The EU's economic outlook remains cautiously optimistic, with GDP expected to grow 1.1% in 2025 amid trade tensions and the United States' tariff changes. Headline inflation is forecast to ease to 2.3% in 2025 and average 1.9% in 2026, slightly below the European Central Bank (ECB)'s 2% target. Labour market conditions remain strong, with employment set to rise and the unemployment rate projected to hit a historic low of 5.7% in 2026.
+
+Global car markets showed mixed trends in the first half of 2025. Worldwide registrations rose 5% to 37.4 million units, led by China's 12% surge, supported by scrappage incentives and new energy vehicle policies. North America recorded modest growth of 2.5%, although concerns remain about weakening demand later in the year. In contrast, Europe trailed behind, with overall registrations falling by 2.4% and the EU market down 1.9%, although Turkiye, the EFTA countries, and the UK provided some stability.
+
+The EU's car production landscape remained highly concentrated, with Germany producing 20% of cars sold in the EU, followed by Spain, Czechia, France, and Slovakia. Together, EU-based manufacturers supplied 74% of the market. Meanwhile, cars made in China now account for 6% of EU sales, highlighting both the rising competitiveness of Chinese brands and the growing role of imports."</i>
+
+The curious element is that, for each conciliatory move from the European Commission that simply forgets what the European Union stands for, there has been almost a riposte composed of two elements
+_ announces of investments elsewhere, or
+_ the usual request for more, or otherwise investment will be done elsewhere.
+
+Anyway, by October we were already discussing in Europe announces from Stellantis (relevant also to Italy) that were in another direction.
+
+You can read on my [Linkedin](https://linkedin.com/in/robertolofaro) and [Facebook](https://facebook.com/robertolofaro) profile my comments along with links to the actual news- too many announces and counter-announces to actually write just a mere article about it.
+
+Just to highlight a few:
+_ [Stellantis to Invest $13 Billion to Grow in the United States](https://www.stellantis.com/en/news/press-releases/2025/october/stellantis-to-invest-13-billion-to-grow-in-the-united-states)
+_ rewiring the battery strategy ([here my post on Linkedin sharing the news item](https://www.linkedin.com/posts/robertolofaro_qdv-consistent-with-the-extra-ue-production-activity-7393553511948402689-gDW8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg))
+_ and a string of other announces reshuffling the release date of the plan expected for Italy, while announcing further investments and agreements elsewhere.
+
+Anyway, it was curious that, after all those announces (not just by Stellantis) about investments elsewhere, on December 1st, i.e. before the recent string of changes from the European Commission, ACEA released something with the title "Upcoming automotive package: Crunch time for course correction" that included this section:
+<i>"4) A careful approach to "Made in Europe"
+
+The automotive industry provides 2.5 million direct jobs. It generates over 7.5% of the EU's GDP - if the automotive industry were a country, its turnover would be bigger than the entire Dutch economy - and it is the largest private investor in R&D in the EU. These figures speak for themselves: we are implementing an "invest in Europe" policy already every day in more than 250 factories across the EU. But the current discussion around targets or mandates for "Made in Europe" content in vehicles needs careful handling. Automotive supply chains are global and incredibly complex; any local content requirements must be phased in gradually, with enough lead time and differentiation across segments. They should rely on smart incentives and be designed to respect trade partners and rules. And let's not forget the fundamentals of competitiveness: affordable energy, faster permitting, skilled workers, funding to build and run battery manufacturing. Local manufacturing will continue to flourish only if Europe remains an attractive place to invest.
+"</i>
+
+so, softening the rules serves only to open for more imports- and the incentives to invest in the USA (and even relocate in the USA, if the exchange of national content to avoid tariffs is enforced by President Trump) will just create more "tremendous opportunities" for Europe to turn into a target market, at most assembling and not producing.
+
+Or: the European Union is subsidizing its own de-industrialization.
+
+On December 9th another announce, about "Stellantis and Bolt Partner to Advance Large-Scale Deployment of Driverless Mobility in Europe".
+
+Then, oblivious to all the news, on December 16 the European Commission [announced the new automotive package](https://transport.ec.europa.eu/transport-themes/action-plan-future-automotive-sector/automotive-package_en).
+
+First industry reaction? ACEA diplomatically stated ["Automotive Package" delivers first important step to amending CO2 legislation for cars and vans](https://www.acea.auto/press-release/automotive-package-delivers-first-important-step-to-amending-co2-legislation-for-cars-and-vans/).
+
+And while ACEA called it a "first important step", as soon as the President of the Commission celebrated the result, and also in Italy (including Turin) everybody switched gear and moved from attacking Stellantis to preparing for a return of production...
+
+... just few hours passed before the CEO of Stellantis said that wasn't enough.
+
+And just if you did not understand the message, [on December 20th gave an interview to the Financial Times](https://www.ft.com/content/7d329ac4-2b09-4285-bf6f-5ce063ec01d9), which included: <i>Filosa had told the FT in November that the group would multiply investment in Europe if Brussels relaxed its 2035 ban on petrol engines.
+
+But seeing the latest EU proposals, he added: "Without growth, it becomes very difficult to think about investing more. Without additional investments, it is difficult to build the resilient supply chain that is vital for European jobs, European prosperity and European security."</i>
+
+Almost entertaining that an Italian CEO who was heralded in June 2025 in Turin as a sign of becoming again a company town as used to be with FIAT, and whose first announce was that he would retain his USA position as well, and then that he would be based in the USA, to then pile up with announces about USA investments while instead singing a completely different tune in Italy (but while Stellantis keeps asking local and national politicians for support in Brussels)...
+
+... suddenly, after months ago asserting that he was Italian, now recently stated that he is European to promote France.
+
+Divide et impera, was said in Ancient Rome.
+
+Anyway, another strategic move from the European Commission, that keeps giving away our own differentiating factors to appease our USA ally that does not reciprocate- "au contraire", reinforces and adds further requests.
+
+What are we at risk of losing?
+
+Well, read an article issued by McKinsey on November 25th, with the title [Bold moves, fast scale-up: Europe's path to cleantech competitiveness](https://www.mckinsey.com/capabilities/sustainability/our-insights/bold-moves-fast-scaleup-europes-path-to-cleantech-competitiveness).
+
+And the [Mobility and transport](https://transport.ec.europa.eu/index_en) page from the European Commission lists at least three elements that should be considered in the mix:
+_ the automotive package
+_ the military mobility package
+_ the high-speed rail plan.
+
+The first one frankly is probably the one that will be subject to more changes: as noted above, the industry reacted asking for more concessions, while committing to nothing, and, actually asking to have free hand and suggesting that no significant "European content" clause should be attached to any concession- exactly the opposite of what the USA Government is doing (and, as shared a while ago, this also generated potential issues for manufacturers e.g. with Canada, as they had received and used aid that apparently had strings attached).
+
+As I hinted in previous parts of this article (and previous articles since spring 2025), in Brussels the appeasement approach is resulting in one-sided concessions that are followed up by more requests for concessions with no limiting constraints- both from the private sector and by allies (including new ones, such as Ukraine).
+
+Anyway, will discuss this point again within the last part of the article.
+
+For now, all the above is data-sharing about 2025, but let's more to impacts for 2026 and beyond.
+
+The first point is shifting from talking about vertical industries, to mobility as an aggregate- where political prioritization should be.
+
+For the time being, as there is still much confusion, personally I would suggest to do something else: look separately at the automotive and at the mobility industry, and then compound your own information: personally, will share more information in future articles, and for now would like instead to share material available online.
+
+This time, will share something else: instructions on how to use (free) AI platforms to keep evolving your knowledgebase.
+
+Specifically, this is the initial prompt, to get and have validated sources:
+<i>assume that you are an industry analyst specializing in automotive and mobility
+
+could you generate a list of key reference articles (verify links before sharing) about the following:
+_ current trends in Europe within the automotive industry
+_ current trends in Europe within the mobility industry
+_ expected evolutions in Europe in 2026 and beyond within the automotive industry
+
+_ expected evolutions in Europe in 2026 and beyond within the mobility industry</i>
+
+In a forthcoming publication will share a bit of my approach in integrating AI in my writing routine, mainly to complement my manual research, summarize, criticize my own material- not to replace me.
+
+This prompt is simple but produces the results I wanted to collect references and cross-check with the references already had collected.
+
+If you use ChatGPT, in these cases becomes proactive, and, beyond giving what you ask, offers further developments; if you have specific needs and alter that prompt to better focus the output to be produced (in my case, links were enough).
+
+If you want, I follow the "I would like AI to do my laundry and my dishes so that I can spend more time on the creative side"- within the context of writing, "dishes" and "laundry" are both research and cleanup/review.
+
+I will share now few recent articles that were selected by "consensus" between different AI platforms (albeit, to make it simple to replicate, will use the referral address of ChatGPT).
+
+Anyway, an article from Reuters on 2025-12-18 highlights how [Europe's auto industry future may be electric even after EU climbdown](https://www.reuters.com/business/autos-transportation/europes-auto-industry-future-may-be-electric-even-after-eu-climbdown-2025-12-18/?utm_source=chatgpt.com).
+
+The key element is to look at the data- including investment in Europe to produce batteries and electric cars in Europe by non-European companies: so, defending stubbornly the local industry bureaucracies and accepting any request of concession might be even more short-sighted.
+
+As, if local companies are unwilling to phase-out all the IPR and patents that they built in decades of combustion engine vehicles manufacturing, while it is true that currently electric might imply opening the European door to Chinese manufacturers while our own migrate investments elsewhere, the interest should be in balancing transition while also managing the employment issue that still gives the "industry of industries" its weight in Europe.
+
+If a company is European but produces where is more convenient and rule(r)s are less interested in transition, then why should European rules bent and transition delayed? 
+
+Look at this map from that Reuters article:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251222_631_05_electricstatus.png)</center>
+
+Meanwhile, today The Guardian reported that [Chinese robotaxis due in London next year as Lyft and Uber reveal tie-ups](https://www.theguardian.com/technology/2025/dec/22/chinese-robotaxis-due-in-london-next-year-as-lyft-and-uber-reveal-tie-ups?utm_source=chatgpt.com)- as Uber etc are signing agreement with anybody that can deliver.
+
+Another Reuters article, published the same day (December 16th) [Europe's leaders and laggards in electric vehicle sales](https://www.reuters.com/sustainability/climate-energy/europes-leaders-laggards-electric-vehicle-sales-2025-12-16/?utm_source=chatgpt.com) gives, along with the previous chart, also a status check on the number of charge points available in Europe:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251222_631_06_chargingpoints.png)</center>
+
+Anyway, before moving forward, it is worth considering where we started from.
+
+So, the first quote of this article was from a McKinsey report of 2023, and will add here a quote from a 2019 report from the same source, [A long-term vision for the European automotive industry](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/a-long-term-vision-for-the-european-automotive-industry?utm_source=chatgpt.com), covering up to 2050.
+
+The report contains this nice chart summarizing some of the potential benefits- again, talking about mobility, not just a single vertical industry:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251222_631_07_mobilitycustomer2050.png)</center>
+
+It is still worth reading, while looking at the ongoing debate and (as expected) the forthcoming back-and-forth.
+
+And now... see you in few days for the next part, about Turin, my birthplace and former automotive company town.

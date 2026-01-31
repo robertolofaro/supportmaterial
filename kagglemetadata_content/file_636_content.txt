@@ -1,0 +1,216 @@
+This is a short article to continue on the previous [BookBlog20260109 January ongoing publishing and planned releases](index.php?page=634)
+
+Few sections, and no preamble:
+_ some changes rolled out
+_ an experiment with Claude
+_ changing mind about roles
+_ becoming AI first in business
+
+
+<b>Some changes rolled out</b>
+
+If you visited before yesterday this website, you saw that there was a larger number of articles than you can see now.
+
+Well, it is not the first time that reduce the number of articles on this website- the first time, was when started again to work in Italy in 2012.
+
+Different times, different audiences, but all the articles removed back then (and now) are still within my files, as will probably end up in other publications (meaning: mini-books, video presentations, or even models).
+
+In the previous article in this series, actually shared an expansion on the [Kaggle metadata dataset](https://www.kaggle.com/datasets/robertolofaro/articles-publication-metadata-and-ai-access) that used to contain basically a list of the articles on this website, themes, and links to each article.
+
+As a first step, added to that list also a short one-paragraph summary about the subject of the article.
+
+Until yesterday afternoon, this was the number of articles and readings:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260122_statistics_0before.png)</center>
+
+As you can see, now both numbers are significantly lower:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260122_statistics_1after.png)</center>
+
+Yes, at times when many (not just those in power) are used to boast and claim credit for what they did not, a time of inflated egos (male and female leaders) that makes Plautus' "Miles Gloriosus" moderate, it seems unusual to remove articles from counting (and search) and, in the process, lose 30% of the articles (and 20% of the readership).
+
+The rationale is simple: the metadata dataset, along with some features on this website that started adding in 2019, is part of a long-term initiative (started really in 2003, with my e-zine on change that was called BusinessFitnessMagazine- [a reprint with updates from 2013 is available here](bfm2013)) to ease access and retrieval of material, and, as shared in previous articles, my plan for 2026 is to keep expanding access- adding more channels as well as more material.
+
+Therefore, after selecting which articles and pages on this website were worth a summary to allow future integration through other search facilities (yes, including AI), already started since early January 2026 to align both the search and metadata- and the change yesterday is just another bit of alignment.
+
+This does not imply that, in this change, really removed 30% of the articles and pages- some will not be accessible, but others will still be accessible, and will still show (for now) how many times have been accessed- simply, the number of articles and number of readings that you will see on the entry page from now on will be related only to those articles that have also a one-paragraph summary, that appear on the metadata Kaggle dataset, and that will be included in future access channels.
+
+Everything else? Will be either gradually removed or restructured.
+
+
+<b>An experiment with Claude</b>
+
+Two days ago released, as an experiment, an application of the "framework of analysis" that developed and am using to criticize my own material (mainly, to be used for future mini-books and presentations, as it is tailored to my purposes).
+
+The obvious target was the speech delivered yesterday by President Trump in Davos- while for my own uses apply the framework locally and with different elements, in this case, as a first test on material available from public sources, gave a subset of my framework to Claude with some additional prompting, to generate an analysis of the speech.
+
+Beware: the purpose of my framework is to criticize in order to improve before release, i.e. ex-ante- in this case, it was used ex-post.
+
+As I wrote within the post on Facebook sharing yesterday the link, do not take the Claude analysis too seriously- but it was interesting what Claude was able to produce in a short while, given proper instructions that were not tailored to the specific speech, but just on the overall concept of communication and audiences.
+
+If I had had to write a similar document, it would have required hours (and yes, I would have changed here and there some elements).
+
+Yes, there is some overlap: but my framework is actually structured as a "mixture of experts", and also with human experts looking at the same element from different perspective there would be overlap- hence, the "summary" section, asking Claude de facto to become the reporter for the team of experts.
+
+I left it "as is"- no editing on what Claude answered- just copy-and-paste: consider it a conceptual exercise.
+
+The link is [here](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260121_claudeanalysis.pdf).
+
+And, yes, it is also as a gift: if you give the document to another AI (not Claude, as this could influence results) along with the transcript of President's Trump speech, you can ask to derive a structured prompt able to produce from that source similar result, and then, once you obtain this draft prompt, ask again to move from the specific to the general concept, to obtain your own "framework" that you can tune to your own uses.
+
+Which is really something that (manually) did in the past, as part of my cultural and organizational change activities: I had to "decrypt" the real culture of my customer before making proposal etc, and few minutes with some questions to elicit specific answers to use as "cribs" to adapt patterns to navigate through faster than others.
+
+Akin to WWII in the Pacific, dropping some specific items about some specific location, to see how that was converted by your opponent in terms of weather forecasts that followed a structured patterns, and then identify which location had which code.
+
+Nowadays, with the much criticized LLMs, it is something that anybody can do- you just need to know which patterns store to use as a reference, which questions to ask, and then transpose translate adapt.
+
+So, consultants and software companies that sell themselves as AI-first and really are building just layers on top of AI platforms or even open source models should beware: if your customer has a hint that your "smart" system is not that much tailored or smart, they could provide you will "assessment" material that then, by using your "smart answers" with their source material and with a proper AI pipeline could reverse engineer your preparation and design work.
+
+Making your first test project with them the last one.
+
+Hence, if I release an analysis produced by models referencing the source, I prefer to pre-empt and share my approach that was time-intensive decades ago, and today is a matter of minutes- and with Claude Sonnet 4.5 or Gemini Thinking you do not even need to go out of the free tier, to carry out that analysis.
+
+Obviously, as I shared with a friend yesterday, I found puzzling when software developers complain about paying 20 to 200 USD/month for Claude Code: how much they bill their customers (if they work by objectives) that would have been impossible to deliver at that price before?
+
+Yes, I too use free coding online and offline platforms- but my software development since the 1990s is a "support function" to my management consulting and project/program/account activities, not my main role.
+
+And also for confidentiality reasons.
+
+Hence, I use Github in a different way, ditto Kaggle- not as software development showcase or platform (you can [find all the links to my business social media profiles at the bottom of this page](cv)).
+
+If I were to integrate again software development as a significant part of my activities, probably will have to consider a mix of online and offline- but I do not see many of those developers that complain about 20 USD/month (how much do they spend on Netflix etc?) running to buy a Nvidia workstation-in-a-box at 4,000 per unit just to run locally 200+B parameters model and be free from that monthly fee.
+
+More sensible instead the approach that some other startup shared on Linkedin, as, after experimenting with cloud-based AI, and seeing the bills, decided to split between the queue management on the cloud, for resilience, and instead picked up a pile of Mac to process the actual queue, with another cloud-based AI as fall-back should the queue get too long.
+
+
+<b>Changing mind about roles</b>
+
+Generally, I am becoming so much "AI first" to take care of boring stuff (in my case, mostly searching information), that I have a first drafting of concepts and ideas, iterate with different models, and then cross check and use that as if it were something similar to that Claude report: a summary of crossing the Ts and dotting the Is that have to decide how much is relevant or not, and the develop my own concept, idea, prototype using that as pre-emptive assessment of weaknesses and strenghts, threats and opportunities.
+
+Yes, that "framework" is part of my larger "Devil's Advocate" system tailored on my own needs- but could in the future share other elements I am working with.
+
+The general concept, now that over the last couple of years I saw models improve, is again what I described in my first experiment in spring [BlendedAI01](https://leanpub.com/blendedai01), integrating my business experience since the 1980s with AI by redesigning processes.
+
+As I wrote before, except for search (by using local models allowed to go on the web and search and report and collate and verify), I do not really use the "agentic" side, albeit followed training and read all the reports and analyses I can find and have time to.
+
+Still, the feeling is that too many reports are inflated by AI and then deflated by the reader (yes, I too will start using AI also to give me outlines of report, bullet lists, key points, and then decide to go past my usual "quickread" that I do anyway on any document).
+
+Anyway, we will see if the new paradigms proposed by some will deliver different results- for now, it is funny how, by starting "AI first", whenever I have to prepare some tools to support my activities (not necessarily software or agent- sometimes just templates), end up iterating and incrementing in minutes something that, when transcribed in a document, often goes for dozen of pages- it is nice to "work" with something that has a quick answer cycle.
+
+Now, I still see a potential issue: I can e.g. pinpoint to an AI that a Mermaid diagram has the wrong syntax and, after a couple of iterations, amend it myself and give the answer back into the "local memory", so that it improves.
+
+I would like to share a curious experiment that already shared with a former customer who works on the AI side of his employer.
+
+I wanted to decide which model to use for what, and asked of course other models, after providing the list of the models that I have installed in ollama on my Ubuntu PC.
+
+I got answers, each one highlighting different elements- and it was fine.
+
+But unconvincing.
+
+Hence, did something different: picked up one of my articles (long enough to make sense, short enough to be processed fast, and with enough twists-and-turns to elicit feed-back, as only by reading the whole multi-part article would make sense).
+
+Then, fed it via open-webui to each model.
+
+Then, provided the text plus the results (removing the name of the models and any reference) to different platforms, asking them to carry out what used to do in the past when asked by customers or partners to "vet" candidates.
+
+So, I will skip (and, yes, will not share- see above why) the details of the results, but in few minutes I had from different platforms my answer.
+
+Or: if I were to hire those "analysts", how would you rank them (I gave of course a rubric, but, to see bias in each platform, asked them to distribute the weight as they saw fit), and how would you team them up, and which one you would not hire.
+
+Ended up generally with a leaders-by-activity, leading team, backup team, suggestion on who should mentor which one of the candidates, etc.
+
+Interesting exercise: obviously, because the platforms did deliver a slightly different ranking.
+
+Further interesting point: I assume that LLM models, as their "forte" is the "what is the next word", should be able to recognize their own generation patterns, also if I removed the model name.
+
+Anyway, DeepSeek did non consider itself the best one, just top-middle-tier, while Claude considered DeepSeek R1 14b, for the purpose I stated, and with the results provided, the best one and natural leader of the team.
+
+I wrote above the example of "fixing" the syntax of a Mermaid diagram (a relatively complex "radar" diagram- one of my favorite in cultural change to spot areas of improvement and define "convergence paths")- I did not share that example by chance.
+
+In reality, while to produce the analysis with Claude on President's Trump speech did present a single prompt, usually I iterate and increment.
+
+Or: start with the general, and based upon answer, consolidate some points (increment) and refine others (iterate), while actually sometimes answers inspire further iteration and increment activities.
+
+The point is: yes, LLMs can help a junior to produce faster results about something (s)he has no clue about- which is something that e.g. auditors did for over a century.
+
+Then, in audit, there are senior and managers and senior managers and partners for a purpose: they aggregate "know how" and "know what" at different levels, and often only the partner has the deep domain expertise needed to "smell" something between formally correct material.
+
+
+<b>Becoming AI first in business</b>
+
+When working with models, I think that a collaborative approach based on domain expertise is more productive: instead of producing hundreds of pages e.g. for a patent application that are just slop (an evolution of the past 10,000 pages copycat-and-edit-keywords approach used by specialized "patent mills"), iterating and incrementing, if coupled with "memory activation" (feeding back into the knowledge base answers and their evaluation) can actually alter the "mentor" and "mentee" relationship.
+
+Why? Because our traditional "mentor" and "mentee" relationship assumes that the mentor has experience and knowledge that the mentee has not yet developed.
+
+Looking just at technology: already over the last three decades, when we moved from mainframe to client-server to cloud, often actually saw that, in reality, the "mentor" often struggled to retain the old role, but did not acknowledge that the mentee had more relevant knowledge also if lacked the experience.
+
+With models, which aggregate the knowledge (and, in some form, the experience) of masses of human experts (and many online recruiters asking for AI interviews or bringing AI in interviews are really "extracting knowledge" to a level that past human interviewers looking for business leads through interviews would have just dreamed about), the mentee (model) often lacks some ability to connect dots within the experience, but, if properly guided, can actually connect the dots, and present additional material to the human mentor, representation of experience that the human can assess, and feed-back to the model in way that is integrated with the specific need.
+
+So, it can be guide and be guided, switching roles continuously- not assuming that you always lead.
+
+If you work that way, you avoid slop, most hallucinations, and also mere copycat- and in minutes you can obtain results that, if you were to interact with humans:
+_ would require much more time
+_ would imply connecting and re-connecting with different providers of domain knowledge at each iteration
+_ would not necessarily be as inclusive.
+
+Decades ago, I heard customers complaining that their consultants were looking on Google for specific product feature documentation.
+
+Those customers were used to have everything of a tiny domain at their fingertip, and could not understand that, if a product has 900+ pages of documentation, and is updated every quarter, those who are expert have been gradually turning into what in the late 1980s an IBM mainframe System Administrator told me.
+
+There were tens of thousand of pages of documentation for their environment.
+
+Whenever they asked for support, there was a first layer filtering and "sand bagging" before those with more relevant expertise were involved, and the cycle could repeat few times if the issue was really specific.
+
+Therefore, from the customer side, the real expert did not claim to know all those pages- he (as at the time I met only men in that role) simply had an understanding of the overall, his configuration, and, most important... where to find details about each specific part.
+
+Which was also useful to apply system upgrades and "patches"- as he did not simply blindly apply them, but looked at impacts etc.
+
+Something that, in our times when system update themselves without considering impacts- and then you have to reassemble the bits and debris, could be useful: why should a security upgrade for Windows 11 (that eventually removed- I am still fine with Ubuntu and virtual machines with Windows 10) carry along plenty of "baggage" that alters, removes, and "improves" by adding what you, in the previous update, removed?
+
+It would be interesting to have an AI agent on each PC (in corporate environments, a standard one) that could simply look at what is proposed as an update, look at the specifics of your configuration, and pinpoint impacts, and potential patterns (if feasible) of selective update.
+
+Which means: this apparent digression was to see how that 1980s role could evolve now- having, to follow an old IBM slide, then a human "approve" or "deny", but supported by in-depth analysis and listing of caveats and impacts.
+
+Shifting back to consultants: if every software they use were to be supported by a similar agent, they could actually manage with fewer people a larger customer base, as the specifics of each customer could be assessed initially, and then update by a "roving agent" whenever something changes- again, allowing the customer to decide what is or is not communicated.
+
+This would also avoid, in volatile corporate environment, misrouting material- when I was working in German Switzerland for banking customers, they had a concept of "Instradierung"- and I remember that once I had a discussion on a datawarehousing project data concept, as the consultants proposing that application followed instead the "name surname role" approach.
+
+The "Instradierung" was a code for the office- so, it was associated with both the role and the person- but as two separate entities.
+
+You could keep the organizational structure history through that code- the person in that code was just a temporary and parallel, not the one to follow.
+
+If you did not consider that code in your data from the beginning... good luck then in following up.
+
+If interested, a definition of the concept that really pre-dates computers but still makes sense is available by searching on Google for "instradierung bankverbindung"- so, it is a company-specific concept, but not confidential, if even the AI of Google search returns its origin and explanation.
+
+Anyway, recycling concepts happened even in the past: in the late 1980s, while working on a mainframe project in banking, I was explained that that bank had been a beta-tester of CICS (it stands for Customer Information Control System, but almost everybody consider it the "windows" of old IBM mainframes).
+
+And, while doing the test, decided that, in case of security, have to switch-off each CICS environment would be an issue- both in switching off and switching back on.
+
+So, they decided to have a CICS focused just on security, and layer on top of that all the others.
+
+Do you have a security issue that requires stopping all the data flows? You switch just that one off.
+
+I was told that IBM said that it was unusual, but their architects said that it was a sound choice.
+
+Then, that same concept spread around- if you want, most systems accessible from outside currently have a similar "single point" filtering security.
+
+Again, another apparent digression.
+
+Anyway, if you read what I wrote above about integrating AI / integrating with AI in business processes, many announce complex and self-governing architectures.
+
+In reality, there are many business processes where a simpler "segregation of duties" with the associated delegation could imply a structural redesign of human and software roles.
+
+Yes, in some cases you could use machine learning (software learning or spotting patterns in data), in others a chatbot can ease access to material (e.g. consider all the manuals, rules, procedures) or support decision-making (e.g. think about pre-emptive compliance when writing emails or press-releases whose content could violate SOX, instead of having to involve legal in a "catch me if you can" mode), but redesigning processes integrating AI should have at least few elements:
+_ what is the business value? i.e. "why"? just FOMO?
+_ do you have in house the capability to continuously evolve?
+_ how would you manage phase-in/phase-out vs. old process?
+_ etc etc- ask you in-house BPR experts what they do usually...
+
+Again, have a look at my previous mini-books on change, as these are concepts that started sharing online in my e-zine on change in 2003-2005 (you can get almost all of them for free as PDF at [Leanpub](https://leanpub.com/u/robertolofaro), while paper versions are available on Amazon), after sharing them privately with customers, partners, employers since the late 1980s.
+
+This article is already getting quite long, hence will close it for now.
+
+I hope that the information above will be useful in your own activities, and in the future will develop further material to better explain some "hints" that are across this article.
+
+Have a nice week-end!

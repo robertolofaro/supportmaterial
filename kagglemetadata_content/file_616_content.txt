@@ -1,0 +1,373 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20250831_article.png)</center>
+
+After a series of articles published last week, before moving forward with further articles on other themes, it is worth sharing some concepts about experiments, AI, and communication.
+
+Incidentally:  all written by me, not the AIs that since earlier this year routinely use to test ideas (will write something more about this in the future, as I am currently working on a further evolution of my approach).
+
+I was supposed to write this article part of my ["book publishing" series](index.php?section=books-blog), where I share notes about my writing plans and writing results.
+
+The more I developed the concept of this article, and added activities over last week-end and during this week, the more I saw that, augmented by some posts that shared on [Linkedin](https://linkedin.com/in/robertolofaro), could actually turn into something useful to others- hence, I added it to the [Organizational Support section](index.php?section=organizational-support). 
+
+I will share some practical points, along, as usual, reference material.
+
+Few sections:
+_ preamble: human ethics and embedding ethics in AI
+_ first experiment: converting a mini-book concept into episodes
+_ second experiment: looking at practical GenAI training conceptually
+_ conclusions and next publishing rounds.
+
+If you have comments or publication suggestions, [contact me on Linkedin](https://linkedin.com/in/robertolofaro).
+
+
+<b>Preamble: human ethics and embedding ethics in AI</b>
+
+AI is not just a tool- eventually it will become more as an [exoskeleton](https://en.wikipedia.org/wiki/Exoskeleton), if properly integrated.
+
+Key concept: I think that AI is a component that has to be embedded in your daily routine as a "political animal" (yes, Aristotle is still useful also in AI times- ditto Plato and others)- not as a tool to convert yourself into a one-person walking encyclopedia that lives the delusional concept of being able to do all by yourself.
+
+Our social environment is already evolving, at least in developed countries, into an "ecosystem" integrating humans, organizations, machines, environment is something more than the sum of its parts.
+
+And, as with many recent technological waves (e.g. 4G, or payment by mobile phone without banking, whose first networks were neither in Europe nor in the USA, but in Africa), countries that do not have to recover the previous investment in human and physical infrastructure can jump directly forward.
+
+If over 15 years ago was able, to support an American former classmate, to organize meetings in USA+Rwanda courtesy the availability of free videocalls accessible via an Internet connections, imagine the educational potential of being able to customize the delivery of the best training material available in any language and according to the specific local needs and time availability, once you have already learned the basics- without the need to building all our educational infrastructure.
+
+Everybody (myself included) is able to highlight current limitations of our AI technology, e.g. the risk of building a "tunnel vision", as I shared recently on Linkedin commenting on a post:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20250831_03_tunnelvision.png)</center>
+
+Anyway, I already wrote before about how that similar risk is embedded in the recommendation algorithms of most social networks, and how I used converted that into an opportunity to have a Facebook stream that actually keep me informed of technological and scientific advances (yes, with the occasional human hallucination), instead of a billboard or a conspiracy theory feed.
+
+With AI, there is a significantly greater risk of building a tunnel vision at a higher level, as distorted uses can generate answers that then re-enter as new information- and I suggested in that Linkedin post a couple of books that could both entertain and help reinforce critical skills.
+
+Corollary: AI, more than any other technology before, evolves while you are using it- both due to your uses, both due to its diffusion, and the feed-back.
+
+Therefore, traditional approaches adopted by companies that assume to be learning organizations do not work anymore.
+
+Being a learning organizations which nowadays means mainly having a long list of training modules to follow- as I wrote within the articles published last week, see next section of this article.
+
+Traditional "continuous learning approaches" assume a "static" training development cycle akin to the one I used in the 1980s, whenever it comes to technology or methods or processes, and still way too often consider almost exclusively "top-down" selection of which training should be followed.
+
+Training used to follow a development cycle aiming to "crystallize" structured knowledge to be transmitted across the organization "verbatim", but already in the 1990s this showed some issues, whenever involved technology that could have a new release every six months.
+
+Imagine now, when new releases are at least every few weeks, and actually models could get a continuous upgrade- removing the possibility of reproduce the same results.
+
+But will discuss this point more in the third section, focused on a week-end experiment by invitation last week.
+
+I think that the current obsession I see everyday on my Linkedin stream is missing the point of why you post on Linkedin: as if each one were a single individual in its own universe of her/his own making, and what matters were just her/his personal productivity to generate more and more unsolicited material recycling somebody else's material with zero value added.
+
+I am afraid that, in complex systems, what matters is the aggregate performance, not that each individual is at peak performance- and if your input is whatever with not filtering or analysis from your side, the more you publish, the closer you get to a perfect "garbage-in, garbage-out".
+
+And there are more consequences of integrating AI and humans- will discuss in this article cases about publication, advertisement, audiences.
+
+We humans have a risk of information overload, what in the 1990s called "InfoGlut".
+
+Back then, was part of my "marketing" (before Internet became common), for a product on knowledge dissemination by subscription that designed as an experiment and realized as a summer project to test technologies on something that I knew a bit about (I was later offered to become knowledge manager for a blue chip in UK, but eventually did not go ahead).
+
+Basically, what we would now call MVP (Minimum Viable Product)- but had already few more layers as a platform, to allow reuse in different domains, and immediately worked on a field test with a partner on the domain of software updates, which in the 1990s, for those used to the structured approach of mainframe updates, was becoming a nightmare in a client-server PC-based environment.
+
+Well, in the 1990s seemed as if PC business software companies were shifting beta testing of new products to customers (and still in mid-2000s in one of my project audits saw versions formally declared as beta tests, which implied had a level of maturity akin to pre-beta in mainframe software, were used to deliver new products in production).
+
+With some of the recent updates I received (not just AI models), it seems as if now directly the User Acceptance Test is shifted to customers, and sometimes even the technical integration test apparently has not been carried out, as different components of the same software do not talk to each other except in the simplest conditions.
+
+Nowadays, too many are feeling overwhelmed by even Google searches: too many results, and too often inflated by SEO gimmickry that becomes apparent only after you open the destination page.
+
+Solution adopted by many? Go for the Gemini summary (or ask Google-style questions to ChatGPT: akin to using a Ferrari to go to the supermarket around the corner: feasible but a waste of resources), delegating to a relatively dumb AI filtering that would require critical thinking abilities.
+
+The "new" AI (specifically- LLMs and GenAI) is often used to promise what really is not within its portfolio of capabilities, and as I wrote in previous articles this risks to backfire, and undermine the adoption of AI (not just GenAI, but also other approaches) where actually would be useful.
+
+A couple of articles published this week can summarize the concept:
+_ [Old AI is beating new AI. Here's why While billions pour into ChatGPT-style technologies, traditional, less splashy AI continues to power everything from Meta's profits to rocket design](https://qz.com/ai-generative-chatbots-llm-machine-learning), by Jackie Snow
+_ [Intelligence without agency - The personhood trap: How AI fakes human personality - AI assistants don't have fixed personalities - just patterns of output guided by humans.](https://arstechnica.com/information-technology/2025/08/the-personhood-trap-how-ai-fakes-human-personality), by Benj Edwards
+
+Our times are interesting and we are making pivotal choices- but there is too much tunnel vision around, reinforced by the sheer volume of what we publish.
+
+Actually, should say "is published"- because over the last year more and more material started being blatantly copycat.
+
+Even for my monthly update on AI Ethics, frankly, often it takes less than 5 seconds to see when papers are just a side-effect of the urge to publish.
+
+While in the past year this happened once in a while, but still was, also if rehashed, human-produced, the number of papers over the last few months significantly increased, and way too often some papers smell of AI-generation (albeit, at last, some papers now list models as co-authors).
+
+Yes, Ethics, notably AI Ethics, sometimes reminds me what Eastern European friends told me about their University Professors of Ethics: it was the most "politically correct" subject, structurally aligned to the party under Soviet Union teachings; with independence, those professors became those everybody joked about.
+
+It will be interesting to see how ethics (not just in AI) will evolve now- but the risk of turning into "normative" according to the accepted (or sanctioned) common consensus exists.
+
+You can go online and question the [I Ching AI](https://theiching.ai/IChing/Hexagrams/=) using a chatbot- and do the same for various companies, companies that provided their own formalized knowledge to a model: design, implement, release, refine in those cases works well enough, as you can control the cycle.
+
+Anyway, as such a buildup, even if done from scratch (as some countries are doing now), and not just layered on an existing LLM, would anyway be selective, who does decide what is ethical and what is not- worldwide? 
+
+If you have time, tomorrow (2025-09-01) is the last day where you can comment the draft of the forthcoming PMI "The Standard for Artificial Intelligence in Portfolio, Program, and Project Management"- I did two rounds of review (one a month ago, one today), and, if you have no time to read it now, could be useful, once confirmed and published, to add it within the compulsory readings for any portfolio, program, project manager- both those using AI in their activity, and those integrating AI in new activities.
+
+Not for its technical content about the subject, but for its analysis of the impacts on both the use and integration of AI- including on governance and legal/compliance issues.
+
+It is a quick read- and faster than piles of papers I read that often make me think about what an American colleague called "how to books": the 1,000 ways to skin a squirrel (those figures of speech represent the pre-industrial past: in Turin, Italy, my birthplace, you will hear in English often uttered "I know my chickens"- a word-for-word translation of "conosco i miei polli", meaning "I know my flock").
+
+Imagine if our AI technology had existed in the 1920s, and the first LLMs had been trained back then: we would have some concepts embedded that required "rewiring" after WWII, not just layering over (or, actually, "lawyering", not just "layering" over).
+
+In Italy and Austria post-WWII we did something similar: Cold War did not allow a full removal of all those compromised with the fascist regime in Italy or the nazi in Austria (as Austria had been more "nazified" than Germany), and many were "repurposed"- i.e. stayed more or less in the same line of business, but under the new democratic regime, including in training organizations that should have transmitted the new ethics of the new republics, albeit here and there their "approach to life" surfaced.
+
+So, not just AI models- also humans sometimes give continuity more value than reform- and then get surprised by results derived from applying past wisdom to contemporary contexts.
+
+Keep in mind this point while reading the other sections of this article: unless you build an ecosystem (in the future including both humans, AI tools, machines complementing each other) able to "unlearn", relying on a specific model of accepted reality you are adding a potential risk that has to be buffered and monitored.
+
+Now, will switch to an experiment in publication that did last week, as could be useful to "frame" how to integrate AI in communication, avoiding to just create a 2020s form of spam on steroids.
+
+
+<b>First experiment: converting a mini-book concept into episodes</b>
+
+When I read my daily stream on Linkedin, sometimes I think about that old phrase that anybody who worked in advertisement and marketing heard at least once at in early career stages: I know that 50% of my advertisement is a waste of resources, but I do not know which 50% (and the same could apply to many organizational elements).
+
+Since last November, I keep having to sideline a couple of books and research project completion activities, as each time I set aside the few weeks of focused activity that would be needed with my usual (in these cases) 14 working hours a day and 6 hours continuous sleep, I have to stop after few days for different reasons.
+
+Hence, as I had planned to release this summer also a mini-book that did not require extensive and intensive data preparation, decided to follow an older approach, to avoid any external interference after publication announces.
+
+Prepared the concept, defined what could be assimilated to the "treatment" of a script, prepare a timeline for release, prepared a segmentation, spent few days doing something else while thinking about each section of the mini-book, and then announced that was going to release few articles.
+
+Then, to prepare each article, I was a "busy bee" while going around or doing something else that was a no-brainer, while structuring each chapter from the first draft to a first published draft (what went online).
+
+Therefore, the multi-part article "From the past, the future: the relationship between #customers and #external #expertise in the #diffused #AI era" that released last week, is actually what would have been a first draft of a mini-book.
+
+Its component parts, the chapters:
+_ [1 context](index.php?page=611)
+_ [2 the past and transition](index.php?page=612)
+_ [3 impacts seen from the consultants' side](index.php?page=613)
+_ [4 impacts seen from the customers' side](index.php?page=614)
+_ [5 scenarios for the way forward](index.php?page=615)
+
+The approach worked: a mini-book such as those on change that [published since 2012](https://leanpub.com/u/robertolofaro) is usually between 14k and 17k words, the aggregated articles are over 25k words (only slightly less than 23k online, and a second or third draft probably would have subtracted few thousand and added few thousand, as well as more reference material).
+
+Obviously, converting into a book would require time- but, for now, will keep posting related material and commentary online, and will become a book if I will see that there is value added for the readers to have it all in a single "reading point"- otherwise, the multi-part article and the scattering of posts on my Facebook and Linkedin will suffice.
+
+Anyway, I had adopted the same approach while living in Brussels, e.g. with a series of articles (now offline) called GMN2009, where blended themes derived from my business experience, but adding material from my interests and readings on game theory, cultural anthropology, decision-support models and simulation, genetics, political science, and, of course, technology (including "old" AI), and other subjects.
+
+As I had worked with Italian and foreign startups and partners, I had to repeat often similar concepts- including why is useful to continuously monitor evolution of social, scientific, technological innovations, as I had already worked on pre-sales on solutions for senior management in the late 1980s, and had seen the value of being able to provide even in sales presentations something more than just the product presentation.
+
+Too many pre-sales and management consultants are obsessed about their own "techn&ecute;" (roughly- structured knowledge, be it a software or a process or an organizational concept): but, frankly, not just with AI but also with other technologies, often it is the ability to integrate that matters, not the bells and whistles that you pretend differentiate your solution from others.
+
+In the past, prepared "scripts" to be used in sales, direct marketing, and also on coordination activities, including to train others to do the same: storytelling is a common concept now, but I was lucky to learn that as a kid (actor's son, read many scritps, and then also books on the "technical" side- acting, light, directing, scriptwriting, etc), and due to my interests in archaeology and cultural anthropology. 
+
+The best way to "fix" something after learning or reading is trying to communicate it.
+
+Being the older brother, means also that I had actually a chance to develop a communication approach that allowed to "tune" the communication approach to the audience long before I started working.
+
+Then, first in politics as a teenager, then in the Army (both in my official roles first on supporting artillery, then as office clerk, and as self-appointed "training delivery agent"- [see my CV](cv)), then in business, this approach allowed to share concepts in a way that could be digested by the audience: and I kept developing and delivering training curricula and presentations on different subjects.
+
+Hence, ended up publishing (in Italian) a mini-book focused on communication for advocacy [that you can read here... "exploded" by turning each chapter into a different article](strumenti) (yes, the reverse of the process that used in Brussels for GMN2009 and last week).
+
+Tuning to your audience is not, as many assume, "dumbing down": it is adopting the audience's framework of reference.
+
+And the first, key element is to assess the value that they can perceive to be embedded in what you deliver- you are not preaching to the choir.
+
+Internet really became accessible and useful when became "the web"- in the early 1990s.
+
+While I registered my first domain in 1997, as soon as was feasible and economically affordable from Europe, for my own activities had web pages online years before- and you can find some on the "wayback machine" on archive.org
+
+In the early 1990s, before going online, for a cultural and organizational change program management role I had for a banking outsourcing customer, actually suggested using technologies embedded within Lotus Notes Workgroup, but by the end of the 1990s it was common to add within the package of change management (including when introducing technologies to a customer, e.g. business intelligence, in Italy as well as abroad) a web component- if anything, as a way to communicate and interact with the intended audience, and to collect feed-back, an activity useful to "tune" and evolve also training and supporting material.
+
+When I registered my first web pages on online search directories such as Yahoo, you had to manually fill information, and curators would decide who went on the directory or not.
+
+It became a completely different world when Google and its algorithm entered the scene- and, suddenly, there was a cottage industry of "link farms" to prop up the "popularity" of your website (something that eventually became useless).
+
+Ditto for spam: each spammer assumed that (s)he was the only one using the tool- until the first spam tools entered the market, as too many mailboxes had become filled up on a daily basis with useless emails.
+
+Our current AI-assisted publication phase that I see on Linkedin every morning since few months? Reminds me a lot those "link farms" and "spam factories".
+
+It is something to use AI to assist writing or research, it is something completely different to use it to continuously generate content that you did not even read or check in your name, including summaries of papers that you did not read and will never read, just to position yourself- and adding a "revision/release" step is often a mere formality, from the quality of many posts that I read.
+
+So, while many criticize the algorithm used by Linkedin to relaunch weeks old posts, frankly, it is "learning" from people whose AI agent generates new posts with "breaking news" that actually summarize weeks or months old articles and papers.
+
+Therefore, my post:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20250831_01_communicationethics.png)</center>
+
+It is a matter of choices, not of tools- and respect for your audience: not thinking that you are the one delegating that spamming task to an AI agent.
+
+Personally, I will keep sharing what I received that I think I never saw before and could be useful to others, and adding comments to what I think is worth a comment where I can add some value based on my experience.
+
+AI? Will keep finding new uses that do not involve removing myself from the author role- just support and augment it- as I did with the [Blended AI mini-book experiment](https://leanpub.com/blendedAI01)
+
+
+<b>Second experiment: looking at practical GenAI training conceptually</b>
+
+I wrote in the first section that today did my second round of review of the draft of PMI's "The Standard for Artificial Intelligence in Portfolio, Program, and Project Management".
+
+And, actually, it was a good choice that read it first a month ago, and then waited until the end of August (the closing date for the review is September 1st), as over this month I had a chance to read the deluge of papers about AI Governance that was published in July and August, and also relaunched (sometimes the same people suggested the same paper twice- the first time when it was published, the second one one or more months later).
+
+Blended with my over one year of review of papers on AI Ethics (which, actually, sometimes have nothing to do with AI Ethics- just, pay their dues by adding a section about it, and talk about anything concerning AI and its uses), that deluge allowed to contextualize current trends, and to spot what I saw missing.
+
+While the previous section is to improve publishing activities without becoming a spammer, an AI evolution of what I shared in 2012 within [Strumenti](strumenti), this section shifts to another use of AI, to support, expand, accelerate, and, overall, implement quickly your own AI toolbox tailored to your own needs, using existing models.
+
+Yes, I did and will develop some models for my own use- but, beside experiments, would let others create LLMs or what will follow them in the future that require multi-million dollars of investments.
+
+Let's be frank: I studied in 2018-2019 R and some visualization libraries because wanted to replicate algorithms I used with paid tools, and visualization that used to do in Excel and with business intelligence tools as well as (in the 1980s and 1990s) with decision support system / executive information system tools.
+
+Then during the COVID lockdown in 2020 at last had time to study and practice Python and a bit of Tensorflow (and eventually Pytorch- that I prefer to TensorFlow, but, as my focus is EdgeAI, Tensorflow is part of the toolbox), while in 2018 acquired a neural network on a USB stick and did some experiments.
+
+And already in 2019 released online material (and built some small applications to support my publications, that still use) in R, while in 2020 build something using Python and keep experimenting with all the nuts and bolts- for my own limited uses, albeit sometimes used some of my own objects also to support customers (e.g. in 2021 while working on a warehouse management system project completion that required also working on the logistics phase-in/phase-out side).
+
+Anyway, I think that for now most of the productivity gains could be achieved using more limited skilled people (not necessarily on staff), coupled with our current easy-to-use LLMs, GenAI, chatbots, etc- and frankly do not see the value for customers to spend time and resources on basic building blocs, when they can do it "the Lego brick way" by using models and with a moderate use of consultants when something custom and more advanced is needed (not consultants like me- I am referring to really focused AI specialists).
+
+When I was working in the 1990s on cultural and organizational change for a customer (it all had started with few hours presenting the differences between methodologies, few years earlier, followed by one week of training delivered), was once asked if I could provide support also for the ISO9000 certification- as the company was relatively large (imagine an IT department with few hundred internal and external employees, shared with multiple banks), I said that I did not have the people needed (yes, I am so old fashioned- "fake until you make it" has never been my cup of tea), but could support in selecting a vendor to do that, and then coordinate them.
+
+The selected company started with a SEI CMM (no, not CMMI/Scampi: it was before CMMI) assessment, to identify the maturity level.
+
+If you look at various technologies, you will see that many offer a "five levels of adoption": which derives from that initial Software Engineering Institute Capability Maturity Model.
+
+As part of my subscription to the mailing list of the "reinventing the government", I received in the early 1990s two gifts from the US DoD: 
+_ a BPR-CD that included software to study scenarios on investment and services (yes, goals, objectives, measures), a full library on US Federal standards for procurement and business process re-engineering, as well associated documentation on how to represent systems and data
+_ a subscription to a magazine called ["Crosstalk"](https://apps.dtic.mil/sti/citations/ADA613500), about a systemic perspective on software development.
+
+Sadly, the BPR-CD is not available anymore online, while received few years back a message stating that the magazine was discontinued.
+
+Anyway, it is still available online a small funny booklet about software development that was first published in 2008, with the title "Quotations from
+Chairman David - A Little Red Book of Truths to Enlighten and Guide on the Long March Toward the COTS Revolution", published by the SEI Joint Program Office (with DoD, but it is not representing official DoD positions), [you can find it here](https://www.sei.cmu.edu/documents/1913/1999_003_001_16805.pdf).
+
+It is worth quoting the foreword, as it seems written today:
+<em>"This little paper, presented tongue-in-cheek, is the result of numerous frustrating experiences stemming from the current climate in the Defense community. That climate is one of
+change: the highest-level Defense acquisition policies now embrace the widespread use of commercial products, together with novel business methods and processes, and generally
+aim at moving Government acquisition practices toward accommodating the marketplace.
+
+This means that for everyone, both in the contractor and in the Government camps, we are all now engaged in the mighty exercise of modifying, in a deep and fundamental manner, the
+way that Defense systems are designed and built. The frustration I noted above stems from my sense of two things. 
+
+First, I perceive that many of us are paying phenomenal lip service to the new directives and mandates, to the things that must be accomplished to meet these changed circumstances. "We've all got to start doing business differently" we are saying, loud and clear. And second, most of us - upper-level policy managers to low-level analysts, civilian contractors and DoD colonels-are confidently doing just what we've always done, thinking that somehow the need for change applies to everyone except us, and waiting for the guy in the next office to mend his ways."</em>
+
+Also if you have nothing to do with Government or Defense procurement, most AI models are really used as COTS (Commercial Off-The-Shelf) software, moreover provided via Cloud computing, and therefore not even "steady as you go" once you start using them.
+
+In SaaS it is already since decade an issue convincing customers to migrate to new versions, because usually implies that:
+a) there are cascading effects on their own user community in terms of features
+b) there is a significant "technological alignment" in terms of local infrastructure, installations, etc.
+
+In the late 1990s, one of the key selling points of the web version of business intelligence software I was supporting to sell was that it had a Java Servlet that automatically identified when the local "fat client" (i.e. processing locally to minimize traffic online- remember, in the late 1990s we did not have broadband everywhere) had to be updated.
+
+In that case, the impact was generally zilch, as the query files build visually and residing on the server could be run locally- software updates did not alter functionalities.
+
+With AI models online, already saw enough posts complaining of poor version management from the providers, as even some large, older companies simply embed their AI side into ordinary software development activities, creating an environment that continuously mutate.
+
+In technical terms, I wonder how "non-regression tests" will be carried out, with future business applications developed with embedded AI that is not controlled by the organization using it to build its own applications, and therefore had to consider the volatility of capabilities: in Python, I saw some companies building their own tools, and then "freezing" versions as new releases of commonly used libraries removed features "by consensus".
+
+If you are using AI models locally, sometimes you sacrifice the latest updates to ensure continuity- but if you use models online via APIs, good luck.
+
+Personally, beside my experiments, I use models online only for specific requests- not for integration via APIs, simply because my current limited uses require stability, not second guessing potential changes (look at the feed-back on the initial release of ChatGPT5, and the intrusive CoPilot popping up everywhere in every Microsoft tool- also when you do not want to use it).
+
+First selection point: as shared in previous articles, I do use LLMs, but preferably those who work offline, using those online only as a complement or for their specific "skills".
+
+I know that many organizations (not just in software development, and not just corporate environments) currently are using cloud-based models for anything but, if you look at fine print within conditions of use etc, you will see that sometimes just something as simple as clicking a "like" on a solution provided is considered an authorization to transfer the whole conversation to the platform provider (in some cases, even to make it accessible by search engines).
+
+Hence, differentiate between creating "frameworks" of concepts, solutions, publications, software, products online- and filling in the gaps.
+
+Otherwise, you risk divulging your own IPR: and, already, I saw way too many posts on Linkedin by AI enthusiasts and advocates that e.g. say that the best way to develop a solution is to go online, provide screenshots of an existing solution, and improve on that.
+
+In some cases, this could work (despite the obvious IPR issues).
+
+In other cases, they mistake a service for a tool: you can copy the tool interface, make a look-alike, but, in most software and products and services, it is what you do not see that actually generates the differentiating factor.
+
+I could use an AI online to duplicate Linkedin and revise the code in half a day: but I would get a "Potemkin village" software- a website without all the community, aggregated processes and backoffice components, etc: what makes Linkedin, Facebook, Instagram, YouTube worth something.
+
+Look at my previous articles, relating some interesting cases of misuse of AI, e.g. used as a "consigliori" for politicians, or a psychologist for many: the rest of the human society will evolve, while, unless the model can unlearn and relearn (not just learn), you would have an entity that interacts with humans and (once current limitations are removed), becomes a trusted advisor, but projects a Weltanschauung absolutely out of line with the "common consensus".
+
+Our current cycle is much, much faster- hence, it is better to go for principles and then add quick-release training pills- and e.g. both [DeepLearning.ai](https://learn.deeplearning.ai) and [Hugging Face](https://huggingface.co/) are doing something really useful.
+
+Anyway, I never regretted following during COVID lockdowns training on both [Kaggle](https://kaggle.com) and [Coursera](https://coursera.org), as helped in building the basis.
+
+I work on missions, nobody was going to start missions back during COVID lockdowns- actually, those on existing missions, if working remotely was not possible, went on a "skeleton force".
+
+So, plenty of spare time- enough to both follow courses focused and carry out experiments- also courtesy of the free computing resources that I could access online.
+
+Hence, over the last few months attended more (you can see under the certifications side of my Linkedin profile- just scan the QR code on this website), and last week-end, following an invitation, attended a two-days (eventually three days) session on applied GenAI, as a kind of checkpoint on previous training and experiments on GenAI, and that week-end was supposed to be based on live practical sessions- and I was not disappointed.
+
+I was attracted by the agenda, a refresher on themes (agents, agentic, MCP, using some 20+ different online AI systems), plus included themes that frankly had not yet considered adding to my plans (e.g. vibe coding).
+
+As you probably read in previous articles or my [Linkedin profile](https://linkedin.com/in/robertolofaro), 2025 is not the first time that I had experiments with AI.
+
+It all started in the 1980s first with PROLOG- a completely different concept from our current mainly probabilistic approach.
+
+And also the first activities in the 1980s involved again deterministic approaches- no neural networks, no LLMs, no GenAI.
+
+My way of giving back? Writing articles and mini-books on change, curating and publishing datasets about themes that I follow: from finance to sustainability to cultural and organizational , see [on Kaggle](https://kaggle.com/robertolofaro) and [on GitHub](https://github.com/robertolofaro)
+
+On GitHub did also some experiments derived from my audit and organizational analysis/development past activities- reviewing laws and proposal, as well as policy development tuned to our times where most relevant knowledge to policy-setting is outside Parliaments and Government.
+
+And no, I do not have any endorsement or any other kind of agreement: simply, when in my contacts (in pre-social media times) and on my social media streams I cross-path with something (concept, technology, product) that could be interesting for both myself and others, I am used since decades to spend some time to understand the forma mentis that generated it, do few experiments, and then whenever convenient share results.
+
+The interesting part: in my first official job (after other unofficial ones: ghostwriting, selling computers and videogames, selling used books, writing software), for an Italian entity of an American company, and second job, for the Italian branch of a French company, I repeatedly used concepts from my first experiments- PROLOG concept and syntax actually helped, because e.g. helped to dissect and redesign processes and organizational structures. 
+
+I had used AI to improve personal productivity in part of the publishing activities: do what you would have done anyway, but faster and (potentially) better.
+
+As I started in the 1980s as (between other things) a mainframe programmer in my first two projects, across the years, whenever needed, I kept building tools to support my activities- including the website architecture that you see (I simply evolved the template using open source standards, but used the website to test concepts since the 1990s- from data encryption, to session management, etc).
+
+Anyway, until a decade ago, my main use of open source tools was on this website, while then started also using R and Python to replicate what used to do with paid tools.
+
+My use of AI in software development so far? Just to help accelerate one of the activities I dislike most- refactoring to a different language and platform.
+
+The two-days webinar (which then stretched into a third day focused on vibe coding) was provided by [outskill.com](https://outskill.com) as a way to promote their other training plans.
+
+Anyway, it resonated with other training I had been followed over the last few years, and had a specific advantage: it was practical, so saw agent(ic) and vibe coding cases end-to-end done by somebody who does it routinely- plus, provided templates and material, and reviewed dozens of AI-based tools accessible online.
+
+Liked the week-end experiment, so I stayed on also for the additional "vibe coding" session on Monday, and earlier this week started doing some experiments on that line, using Claude.
+
+And over the last few days added to my routine use of (offline) DeepSeek also Claude, to prototype some software agents.
+
+I do understand now why also OpenAI used Claude for development:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20250831_02_claudeanthropic.png)</center>
+
+Well, I do not know how many read the licensing terms of AI models- but also models from a social network provider include a clause that states that, if your service embedding their models reaches a certain number of users per month, you need to apply for a license, that will be provided or denied at their own discretion (why should you build up your own competitors?).
+
+I know that many software engineers dislike software provided by AI, and pinpoint small mistakes to justify not using them.
+
+Frankly, also for an occasional developer like me who started on Fortran IV, then switched to home computers (BASIC and Assembler), then moved on minis (DEC and 3B2), to finally officially start on mainframe (COBOL and CICS and DB2), to then use other languages (skipping details- most recently basic R and basic Python- basic, but good enough to develop and manage my own publication and number crunching pipelines), instead from the test I did I accelerated some activities.
+
+Anyway, as I am occasional, I use my "deep dive" approach that used also whenever I had a mission somewhere on a new domain, business process, technology (or that I had not been involved in for a while- things do evolve also outside AI).
+
+Or: I do a "deep dive" extremely focused- could be a week-end, a week, or a little bit more- but this is how I amend or evolve/create a tool or prepare for a mission.
+
+Just because used it in the past, I do not assume that what I learned 2, 5, 10, 15 years ago is still 100% current practice: I prepare to be able to "hit the ground running".
+
+So, I will spend some more time proposing solutions (or providing existing solutions), have a feed-back or further proposal from models, and then will complete the work.
+
+In my case: if you delegate a task such as e.g. software development, I think that those involved in requirements should confirm their acceptance; if you externalize the full cycle, then should be managed as a product or as an outsourced service, not as a project.
+
+Looking forward to the day when I will be able to provide my concept outline and, as did with human development teams for a partner, have a back-and-forth to define the perimeter and objectives, and then be involved across the line to see it evolve into a first, second, etc release- doing just the UAT phase.
+
+For now, I would content myself with accelerating my development cycle and prototyping of the user interface (my tools usually, as are used just by me, have more query than user interface: I do not spend time in bells and whistles, a pipeline and some occasional SQL to complement are enough).
+
+Anyway, there are few caveats worth repeating- which are a nice way to close this article.
+
+
+<b>Conclusions and next publishing rounds</b>
+
+As I shared above and within the articles published last week (and listed above), the current use of AI tool via a communication interface that is as close as possible to human-to-human interaction can generate some unexpected side-effects.
+
+Beside the "tunnel vision" discussed above (see the image from the post on Linkedin), already also on domain-specific magazines (e.g. JAMA) was reported the impact on doctors of using AI, impacts that could describe as similar to those who use GoogleMaps and lose the ability to orientate themselves or even to read a map.
+
+Whenever using a SaaS approach to interact with a tool, you should actually consider (and there are various proposals for contract templates, e.g. from Australia, New Zealand, EU) which specific constraints should be added to ensure continuity.
+
+As most of the currently sponsored uses of AI include probabilistic approaches, explainability and transparency (beside being required by e.g. GDPR) are paramount to allow doing sensible "non-regression tests" while evolving your applications that contain AI.
+
+Meaning: if your application using AI does what was supposed to do the first project I worked on in 1986-1987 in COBOL, i.e. advise which suppliers invoices should be automatically paid (and then pay them- I remember that back then was told that the system had become "shelfware"), you have to ensure that whenever there is an update either of your requirements, or the underlying AI models that your application interacts with online, given the same invoices you would get the same results (unless you changes the "rules" your side- i.e. with the same decision-making perimeter).
+
+The other line of caveats is not about integration, and "human in the loop" concepts (i.e. keeping humans in key decision points, for accountability), but about communication.
+
+In few days, will share an article about change and communication, and discuss a couple of cases concerning my birthplace, Turin, and its industrial present and future.
+
+It is tempting to consider quantity as representative of quality, but only if you are the only one communicating.
+
+If you are within an environment where everybody is switching into a "spam mode" using AI to generate more and more faster and faster, with limited or no value added, it is better to differentiate yourself.
+
+As I described in [Strumenti](strumenti) over a decade ago, it is better to prepare material to keep as background, to use when events require a prompt response and you would not have time to do research.
+
+In this case, the continuous job of researching and updating (or suggesting to update) your available "stock of communication material" is, in my view, a better use of AI than to use it to generate "canned" posts with no value.
+
+A point common to both elements, be it communication or business solutions development: do not forget the "why", and do not forget to have, at least in the design phase, multiple sources, to have a basket of choices and scenarios. 
+
+Looking forward in the future to share more material- meanwhile, you can have a look at my Linkedin stream (just scan the QR code in this page), to see which sources I reference most often.
+
+Hint: I repurposed the Linkedin feed-back options, when it comes to business or AI-
+_ like = I think others could be interested, so the "like" will make it appear to (some) of my network
+_ heart = I think that could be operationally useful
+_ lamp = worth exploring/reading
+_ laughing = quixotic and funny
+
+As you can see, I quoted Aristotle in the title and at the beginning, but then shifted to the practical parts that deliver the result: building an ecosystem implies thinking systemically, and thinking about audiences and impacts, as well as continuity, not following the herd into a cacophony piling up material that nobody will read, using what others use just because it is trendy, and losing your own differentiation: culture eats strategy for breakfast is still a valid assumption.
+
+We are "political animals", i.e. we belong to a community (physical or virtual or multiple, does not matter)- hence, it is up to us, until AI will have a real "critical thinking" capability, to filter and integrate AI in a way that is socially, economically, environmentally sustainable, and avoid thinking that "quick wins" is what builds up (or maintains) long-term competitiveness.

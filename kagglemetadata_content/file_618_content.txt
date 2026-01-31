@@ -1,0 +1,179 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250913_article.png)</center>
+
+The article that will be released by the end of the next week will continue the series "Too Big To Fail 2 In Europe".
+
+That article, will follow the next format that discussed within [Changing roles for changing times: unlearning the known to move forward #AI #organization #mobility](index.php?page=617): introduction, preamble, etc.
+
+The focus? Shifting to the political and reform side of what discussed inthe first two article in that series, plus discussing that side of the themes covered within articles in July and August 2025 (and online posts).
+
+This article instead is within the [Books in progress](index.php?section=books-blog) series.
+
+The title refers to "sharing"- so, will start with reiterating a small announce.
+
+As previously wrote, one of the websites that I am relaunching is about the [2007 experiment about creating a fictional culture](index.php?page=387).
+
+I called that "United Hamster Front"- in order to have as an acronym... UHF.
+
+Yes, [Ultra High Frequency](https://en.wikipedia.org/wiki/Ultra_high_frequency).
+
+Well, beside [its website](unitedhamsterfront.wordpress.com) where I will post articles, added also a [Facebook page](https://www.facebook.com/profile.php?id=61580594577830) under the category... "comedian".
+
+Reason?
+
+I hear continuously of "nudge" as a different form of manipulation.
+
+Frankly, for me it is more a collective learning tool, about giving awareness about the options, and then head into the direction, if of interest.
+
+Obviously, it is a matter of Weltanschauung: since having to return to Turin in 2012, I saw how much the decline of local real presence of the company group that gave to Turin the "status" of automotive company town in Italy blended with the local culture (as I repeated often, nicknamed "The European Detroit"- but with just one company, not few major ones, as the original ["motown"](https://en.wikipedia.org/wiki/Motown)).
+
+The decline started long ago- and not when the main company started expanding abroad, but when companies within the local supply chain stopped to think strategically and systemically, and contented themselves to be suppliers- de facto delegating everything from strategic choices, to warehousing costing and production planning.
+
+And this extended also to local politicians and other businesses.
+
+Which, in more recent years, when at last the decline started to be recognized, turned into a routine launch of new initiatives underfunded and understaffed, then building up along the way- notably, with continuous requests for funding from outside the town, as if whatever is announced were "the" choice.
+
+A typical example: there was a research center that became a company and then a branch of an American company.
+
+Working on AI, at a time when Turin asked to have the national AI competence center, got instead one of those defined for Italy, specifically the one for automotive.
+
+Well, the locals still cannot accept that Turin has not been appointed as "the" capital of Italian AI.
+
+Hence, when the American company announced that will shut down the local branch and fire 53 engineers and experts, the commentary often (even from those who should know better) again repeated the concept that Turin is about to become "the" Italian reference for AI.
+
+Nudging does not mean, in my view, to keep repeating what you would like to happen until it happens, but building patterns or, even better, have patterns emerge.
+
+Emergence implies accepting that you do not control evolution, but can ride it: something that, in a former company town, is a source of anxiety.
+
+The aim of the UHF, in 2007 as in 2025 (and beyond) is to have a different take on human reality, actually a bipartisan view, but, instead of my long, long, sometimes way too long articles, using a concise and visual approach.
+
+Of course, I am and will be helped by GenAI models: I develop the concepts and think through pictures since forever, but also when I had graphical skills, were not good enough for the level of quality that we are used to now.
+
+So, I prefer to experiment- and articles for UHF will have anyway, as had in 2007, a funny side, as if an alien were to observe our human bickering about minutiae.
+
+Instead, the posts on the Facebook page (and other equally short multimedia material that will go online) will be as close as possibile to a visual banner.
+
+E.g. [you can read the first post here](https://www.facebook.com/permalink.php?story_fbid=pfbid0gnFszUD4K6bRhHJQiPpxXS3biuWdiHjdoYPNeMFgYZGF4vvh94wdRS6e297A3JASl&id=61580594577830).
+
+Anyway, I always used jokes and "cameos" to highlight points when deliver presentations (including sales presentations) and training (including management training).
+
+Or even using small blending of visual and physical actions- it is just an application of old methods to remember complex concept, used instead to help build memories contextualized to the specific discussion, presentation, training- or post.
+
+I know- so far, it seems a digression within a digression and then going back to the original theme.
+
+Anyway, the concept is simple: when you want to make a point and plant a seed, I do not think that manipulation is, long-term, useful: actually, it is the easy way for rabblerousers that eventually backfires.
+
+Instead, I prefer to "plant seeds", i.e. share concepts in whatever way makes them easier to digest, remember, communicate: then, will be up to the recipients to decide if those seeds are worth watering and even spread, or not.
+
+In business, we should remember more often that if we treat people as adults and build that expectation that they behave as adults, that attitude becomes a "force multiplier".
+
+Which, actually, requires a degree of continuity: you cannot obtain (more than "deliver") behavioral change if you have a "paradigm shift" every few weeks- you need to layer.
+
+Hence:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250913_01_paradigmshift.png)</center>
+
+I concur: we have too much incremental innovation presented as a paradigm shift- every few months and even weeks...
+
+My solution, to avoid missing a beat just in case somebody does receive a suggested reading and suddenly in a meeting turns into a "one paper/book expert"?
+
+In the past, used my "librarian" approach: organized according to my own evolving taxonomy- in the 1970s relabeled books in my and my parents' library following the decimal classification used in library, and even in my Army office role reorganized filing, and then countless times in project/initiative recovery for customers and partners.
+
+And you should tailor your taxonomy to the context, and evolve it as KPIs.
+
+So, the classification that used for my parent's library was focused on a subset of the UDC, and for my own library was with a partially overlapping selection.
+
+In the Army and in business, did not use the UDC at all- but used a different concept based on the specifics of each environment.
+
+And did the same also in any mission where there was something to recover: assessing the status is not enough, if you cannot build at least a conceptual audit trail of the current status that will help you to tune changes and re-align as needed- if you just produce a long (or short) report, and pile up everything existing without a concept to "frame" that material, whenever you have a change becomes a [Sisyphean task](https://en.wikipedia.org/wiki/Sisyphus).
+
+In our times, I still read, browse, "connect" whatever gets through my Linkedin stream if and when interesting.
+
+But then since over one year add it to my localdocs libraries for my local models and chatbot.
+
+I use ollama, but prefer GPT4All, easier to connect local documents in what are nothing different from my old document directories, only "visible" also to GPT4All that then processes them into something useful to augment models. 
+
+Then either use local models to query, or carry out some digging using other tools (as GPT4All creates a database, you can query the database of processed documents and use it as a source).
+
+So that I can quickly get pointers to documents to re-read when needed.
+
+Nothing flashy, but just a virtual librarian to help navigate through background noise
+
+In the 1990s and 2000s, often was asked actually to act as the human equivalent of the above by partners and customers, but the volume of publications was much lower- anyway, the habit to reorganized virtual and physical libraries and files makes it faster and second nature, to bring some order within chaos.
+
+You just have to tune to the type of chaos and understand its sources.
+
+Anyway, to recycle a concept from a post released by PMI:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250913_02_taketwo.png)</center>
+
+You can read within the post the lessons that I learned with informal and formal management activities, which ofter required also a degree of negotiation and coalition-building with stakeholders.
+
+And this is when, in my view, is critical to be able to share and be credible: as I said decades ago to a non-European customer while in Europe...
+
+... if you are into sales, customers can accept that there is some "augmentation" of reality, but...
+
+... if you are the "technical" side (which does not necessarily imply technology- in my view, any structured expertise is "techn&eacute;"), you should rather say "I do not know" or "no" than follow on the coattails of "augmented reality" provided by sales.
+
+You can recover e.g. negotiations and projects from a bit of "augmentation" from sales, if you retain credibility on the "techn&eacute;" side.
+
+I could say that it is also a matter of ethics- but, frankly, "hallucinations" from humans are more critical than those from AI models: as usually AIs do not lead teams, and therefore cannot coherce the whole team into bending reality just to save face.
+
+Already discussed in previous articles the cultural blend of the fading company town of Turin (search for [automotive](search.php?tag=automotive) or [mobility](search.php?tag=mobility)).
+
+The key point is that since the mid-1980s basically lived and worked away from Turin most of the time, and coming back full time for over a decade allowed to see what probably the locals, following the "boiled frog approach", simply cannot notice unless there is a major crisis.
+
+Or: if you are into losing ground a bit every day, you might not notice how much the context changed until when the impacts of change start affecting basic, ordinary things that you expect to be routinely available.
+
+The "boiled frog approach" implies that, by raising temperature a bit each time, you get boiled before you realize.
+
+Which, in human terms, is then turning into the "tipping point": you can keep the buildings ready for production, but if you remove production, you then remove the supply chain (no point in piling up materials and components if production is shut down); if you remove the supply chain, you first start reducing all the services needed to support production and its supply chain- from logistics, to finance, to even maintenance services.
+
+Then, of course, also the restaurants and shops supporting those working there shut down: but it is something that many inner-city European towns (notably in Italy) experienced during the COVID lockdowns, and still saw during the time when companies in Italy decided to keep working remotely- no more offices, no more lunch breaks, no more coffee breaks, no more shopping nearby the offices.
+
+Well, remote working in Italy (or "smart working", as we call it in Italy) showed how obsolete our processes and organizations are: our informal organizations cut across the maze of our organizational structures, and working remotely showed also how many jobs in management and supervision were really needed.
+
+In Italy, we still need to flatten our organizations- which is curious, as many are not so large to begin with.
+
+Social media can be time-consuming, but also allow a level of knowledge-sharing that fairly exceeds what was feasible just a quarter of a century ago.
+
+But you have to accept to release a bit of control, delegate more, manage by exception, and constantly re-assess your sources.
+
+Something that requires, yes, a cultural paradigm shift, in a tribal country where (not just in a fading company town) still being a "control freak" and "micro-manager" is often considered a positive value, while paying lip service to inclusiveness, well-being, communication.
+
+Sharing, as I posted today on Facebook, has to become second nature- both because any domain evolves too fast to assume that you can retain full control of knowledge or its evolution:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250913_03_sharing.png)</center>
+
+Anyway, you need to embrace continuous learning- which, in our dynamic environment, implies layering knowledge, and, whenever something new gets through, have a focused and intensive learn-implement-disseminate cycle.
+
+Which implies a different approach, as shared in previous articles.ri
+
+When, in the 1980s or 1990s or even 2000s prepared training, usually it took a while, but anyway the focus was on something that would have a longer "shelf life".
+
+Already in 2000s and 2010s, sometimes that shelf life had been significantly reduced, and therefore the cycle learn-implement-disseminate was faster than before: which implies that not just training delivery, but also training preparation had to evolve continuously.
+
+A longer training cycle implies that your past experience can help you to digest and connect new knowledge- but will take time.
+
+A shorter training cycle implies a slightly different approach: more humble listening, then adding your experience while implementing, and then further access to it while disseminating.
+
+Anyway, the critical point is "humble listening": if you raise your experience as a shield during training pills lasting few hours, you are probably listening only to part of what is being said.
+
+Hence, also after I follow deeper training lasting few days or weeks, whenever I receive a "pill" that sounds interesting (either by content, deliverer, or both), I attend as a ["tabula rasa"](https://en.wikipedia.org/wiki/Tabula_rasa) as much as needed, but not a bit more.
+
+Obviously, the "dissemination" is actually when you are connecting the dots, augmenting your own knowledge base while communicating to others, and taking on real projects.
+
+I shared in previous articles how I did that recently with specific GenAI focus, and in 2020 on the overall basics of different AI concepts, to update on my pre-2000s knowledge.
+
+And I keep doing that as a routine- and not just on AI- or data-related themes.
+
+As an example, focused on a theme of current interest, this morning was my post:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250913_04_vibecoding.png)</center>
+
+So, what wll do next? Will try tomorrow afternoon some of the other options within that post, using a small case that used with the others.
+
+Anyway, to close this article, a bit of update on the AI Ethics Primer monthly update, another of my "sharing" activities:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250913_05_aiethics.png)</center>
+
+It will go online [within the search engine](aiethicsprimer) on Tuesday 16th, but you can already see [on Kaggle](https://www.kaggle.com/datasets/robertolofaro/a-companion-to-a-primer-on-ai-ethics-via-arxiv) the list of papers that contain (an additional 51 papers).

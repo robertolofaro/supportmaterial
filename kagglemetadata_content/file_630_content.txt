@@ -1,0 +1,205 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_article-1.png)</center>
+
+This article inaugurates a new "Pointers" tradition.
+
+Specifically, this will be a multi-part article following this publication plan:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/pointersseries1_cover.png)</center>
+
+There will be more "pointers" multi-part articles in the future, but this one is the first experiment, focused on a specific set of themes.
+
+This first part will be repeated across all the parts of the article- as this is more a journey than an article, and therefore knowing your overall mission is useful to contextualize the details of each part.
+
+Key choice is that, while this first part and the last part are more about discussing the overall context and (in the last section) the potential developments, the other articles will be instead data-driven storytelling.
+
+To read (when available) the other parts of this article, navigate using the option at the top of article, that shows the previous and next (when available).
+
+To read all the parts starting from part one, visit the [multipart list section](multipart).
+
+The last part will contain also a list of all the published parts with associate links and the abstract of each part.
+
+Why now? This 2025 has been a year of plenty of flip-flopping, both at the national level (Italy), in Europe (and neighborhood), and the world at large.
+
+The key risk? In our current climate, acceleration generates what often described online and discussed again few days ago by showing how, in routine rounds of communication and "decisions" at the global level, it is akin to a fencing duel where all those involved operate on different planes of reality.
+
+Or: the reality that they themselves identify by looking at the mirror, and then assuming that the world at large will follow their own assumptions and will react as they would react, is not supported by any consensus on such an assessment from at least the key counterparts involved.
+
+A confusion between manipulation and "acting strategically": should refresh if not game theory, at least [the 36 stratagems](books/stratagems).
+
+Side-effect: 2026 is potentially going to be an encore, with the aggravating factor that what was apparently solved in 2025, will surface again but with vengeance in 2026, and with the "resistance to change" and loss of credibility and effectiveness built by the botched attempts of 2025.
+
+Yes, if you read the first part of the article, you already read these lines- as will be repeated in each article.
+
+While the first and last part will follow the new structure that adopted after "discussing" with different AIs (online and offline) how to evolve layout to ease access, i.e. preamble-themes-etc, this paragraph will instead be common to all the "central" parts of the article, those focused on a specific theme.
+
+The reason is simple: just one section- "data narrative".
+
+As the central parts of the article will be within the [CitizenAudit section](index.php?section=citizen-audit), will follow a "leaner" approach: a storytelling linking to all the data shared as potential resources.
+
+Of course, the storytelling will not be "neutral", as any data storytelling is based on a data choice, hence it is selective, not universal.
+
+Anyway, this approach will leave all the central parts of this article as a data-sharing with a short explanation of why the "data dots" are connected.
+
+The purpose is to share material and a limited degree of assessment, so that both readers and myself in the future can, if interested, develop further material, knowing that the sources are shared.
+
+Therefore, while the first and last part of the article are more focused on the ends, each section that is following the "data narrative" (or data storytelling) approach is focused on the means.
+
+Note: in my preparation activities, whenever I quote a paper, document, etc, routinely take notes and quotes.
+
+In this "Pointers" experiment, will share my "highlighted" parts on each paper etc on the GitHub repository, to keep "lighter" the articles, while providing segments that could actually be useful (and avoid that you have to spend time to redo what already did).
+
+After this multi-part article will be released in full, will fill the GitHub repository.
+
+Hence, future readers will have both:
+_ the "Western option"- narrative and then dig into supporting material
+<_ the "Asian option"- reading the supporting material before reading my "five cents".
+
+If you find further material that is publicly available (for data, open data) that you consider should be included in this section, please feel free to contact me [on Linkedin](https://linkedin.com/in/robertolofaro).
+
+Whenever I add material following a public suggestion, I quote the source, so that others can add it.
+
+While the second part talked about the shift of manufacturing to cover for the new defense and space initiatives, and focusing on manufacturing as an excuse to share data opening toward which structural changes would be needed also in the future to generate positive outcomes, this part and the previous one share a different concept.
+
+Or: reforming the unreformable, first the European Union (yesterday), then Italy (today)- again, looking at the future.
+
+For these two parts will leverage on what already published, respectively e.g. on [reforms in Europe](search.php?tag=europe_reform) (122 articles so far are still online), and [reforms in Italy](search.php?tag=italy_reform) (131 articles, overlapping with those about reforms in Europe).
+
+And now, will shift the focus from Europe to Italy, but, as we are still a founding Member State of the European Union and all its precursors since the 1950s, will look at data considering also our European Union context.
+
+Enjoy the reading.
+
+
+<b>Data narrative</b>
+
+I will assume that you had at least a look at the list of the titles of the articles about [reforms in Italy](search.php?tag=italy_reform), to understand the range of issues.
+
+Yesterday wrote about "exogenous Monnet moments" that struck Europe since at least 2020, i.e. elements that forced shifting gear and approach.
+
+Italy, of course, was not alien to these change- albeit ended up offset playing a different tune.
+
+As I wrote often in the past, Turin (my birthplace) is provincial to the point of considering itself the natural location for whatever (hence, my nickname since returned to Italy and Turin in 2012: Macondo-am-Po).
+
+Anyway, Italy as well has this provincial attitude of copying what others do to feel "trendy", alternating with reminding everybody that Rome had an empire.
+
+For the former, I wrote in the past few articles where quoted the concept of ["Frankenlaws"](search.php?tag=frankenlaws) with specific examples, and about the latter...
+
+... added that yes, Rome was the center of an empire- but we would not now accept some practices as sound, and, anyway, with the current attitude that since century is focused on our own specific town and its tribes, we Italian right now would not be able to scale up an organization to that level (personally, I do not think that building an empire would be a sound choice- but it is my personal preference).
+
+So, back to reality, let's see something easy to compare: an update to what already shared in the past few times- how Italy fares vs. other Member States in terms of convergence toward the UN SDGs ([more details](https://ec.europa.eu/eurostat/cache/visualisations/sdg-country-overview/#)):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_01_italysdgstatus.png)</center>
+
+Actually, this has to be seen within the context of the overall EU convergence:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_02_eusdgprogress.png)</center>
+
+The UN SDGs have not to be seen in vacuum, as demographic and labor force trends matter ([more details](https://ec.europa.eu/statistical-atlas/viewer/?mids=BKGCNT,EURONYM,CNTOVL,CENSUS_AGE&o=1,1,0.7,1&ch=CENSUS,CH_CENSUS_POP,CH_CENSUS_AGE&center=53.00761,20.9667,3&lcis=CENSUS_AGE&)):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_03_eudemographicstatus.png)</center>
+
+As you can see, Europe is old and getting older.
+
+You can read more details about demographic and labor force trends [here](https://ec.europa.eu/eurostat/web/main/search/-/search/estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J?text=demographic+trends), but specifically for Italy the expectation is that by [2050](https://ec.europa.eu/eurostat/databrowser/view/proj_stp25/default/table?lang=en&category=proj.proj_23n) will move from almost 59mln in 2024 to slightly less than 56mln, and by [2100](https://ec.europa.eu/eurostat/databrowser/view/proj_23np/default/table?lang=en) will further reduce to 50mln.
+
+This brings about the usual issue with Italy- which, actually is "usual", but not an original sin: have a look at this comparison show the evolution of the GDP vs. the stock of national public debt:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_04_combined_image.png)</center>
+
+Production note: to get that chart, used Gemini on a subset of [this dataset available for free online](https://osservatoriocpi.unicatt.it/ocpi-servizi-serie-storiche) (there are many website asking to get paid for the same information)- it took a bit of trial-and-error, but overall all the iterations to highlight and format took few minutes, much less than doing it by hand.
+
+A report published by the Bank of Italy on 2025-12-15, with the title "Finanza pubblica: fabbisogno e debito" showed an interesting evolution of foreign holders of debt between 2014 and 2025, and how gradually Italy since December 2022 has been returning to the levels of 2014-2015, when it was more attractive than between 2016 and 2022, when that quota was eroded:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_05_bankofitalystructureofdebtandcreditors.png)</center>
+
+Now, to build up the future, as discussed in previous articles the NextGenerationEU was to take over what Prime Minister Blair would have called "a pivotal role".
+
+Most see the amounts disbursed as "spending", but actually were supposed to support both "recovery" and "resiliency"- keeping afloat and seed (and, if possible, build) future revenue streams.
+
+Frankly, what I saw and read around Italy since 2020 focused too much on "recovery" and sustaining the business continuity of the building and real estate industry, with a bit of infrastructure, but will wait until early 2026 to see if the current rush to complete works will include also something that will be self-sustainable (revenue generation that will support both the investment and its maintenance, while generating also further benefits, not necessarily monetary).
+
+I could have used other sources (I read few books, reports, etc, in preparation of this multi-part article, a good excuse to update my knowledge and databases), but will shift instead of the same source of those "UN SDG in EU" information- [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Structural_business_statistics_at_regional_level#Source_data_for_figures_and_maps), specifically structural business statistics at the regional level.
+
+Italy in the early 2000s had a change to its Constitution that expanded powers of the regions, and expanded a degree of [subsidiarity](https://en.wikipedia.org/wiki/Subsidiarity) in the relationship between the central State and each individual region.
+
+Hence, what was presented in the latest long-term budget (2028-2034) that discussed yesterday within the part on Europe, is not something unknown in Italy.
+
+As shared also in the part about the defense and space industry potential, Italian companies are often so small that are smaller than what the European Union consider "small and medium".
+
+Anyway, as shared in the past, while this creates structural issues (e.g. most companies do not have and cannot afford a proper organizational development structure- so HR covers everything from payroll to cultural and organizational change- often with a handful of people focused mainly on administrative issues), can also enhance flexibility.
+
+Have smaller companies that anyway deliver products and production, implies that often the "knowledge chain" between research and production in small companies is really short.
+
+While larger companies have the risk of an inability to pick up signals, even without introducing World Class Manufacturing and lean principles, smaller companies have the potential of having improvements suggested and identified.
+
+An interesting part of the Eurostat data linked above is therefor how this cultural blend can generate innovation by SMEs at a significant level, with "Calabria, Lombardia, and Piemonte" (to quote the website) within the leading league within the European Union:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_06_innovationbysmes.png)</center>
+
+What matters, is not just if innovation happens, but also how widespread is:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_07_innovationsmesdiffusion.png)</center>
+
+An additional indicator worth looking at is the ["enterprise birth rate"](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Structural_business_statistics_at_regional_level#Business_demography):
+<i>"In 2022, the EU's enterprise birth rate was 10.5%
+
+The enterprise birth rate measures the number of new enterprises born during a year in relation to the total population of active enterprises in the same year. In 2022, there were 3.4 million enterprise births within the EU's business economy. When expressed relative to the total number of enterprises (32.6 million), this equated to an enterprise birth rate of 10.5%.
+
+In 2022, the regional distribution of enterprise birth rates for the business economy was relatively skewed insofar as 37.2% of NUTS level 2 regions (87 out of 234) reported a rate that was equal to or above the EU average, while the remaining 62.8% of regions had rates below the average. This indicates a tendency for entrepreneurial activity to be geographically concentrated in the EU.
+...
+Predominantly urban regions â especially those in and around capital cities â often record the highest enterprise birth rates. In 2022, the capital regions of Czechia, Denmark, Germany, Ireland, Greece, Italy, Lithuania, Austria, Poland, Romania, Slovenia and Finland posted the highest rates of enterprise creation in their respective countries. Several factors may drive these high rates of business formation, including the presence of an innovative environment, research clusters, technology hubs, easier market access, modern infrastructure, or a concentration of skilled labour.
+...
+Rural and less economically developed regions often have lower enterprise birth rates. This may reflect economies which are stable or where existing enterprises successfully adapt to change; alternatively, it may reflect barriers to entrepreneurial activity, for example, cultural attitudes towards risk-taking and entrepreneurship or limited access to capital or skilled labour. In 2022, 18 NUTS level 2 regions had enterprise birth rates for the business economy below 6.5% (they are shown with a yellow shade in Map 1). These regions were primarily located in Austria (7 regions) and Germany (6 regions), with the remainder of this group consisting of 3 regions from Italy and 2 from Spain."</i>
+
+As an example, the page adds: <i>"In Italy, the northern region of Provincia Autonoma di Bolzano/Bozen had the lowest rate, at 6.2% (which was the 10th lowest rate in the EU)."</i>.
+
+There other factors to consider, but this element is again part of the dynamics of a regional economy:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_08_enterprisebirthrates.png)</center>
+
+A cultural barrier that exists in Italy is more structural, i.e. innovation implies acceptance of failure, which in turn could increase the enterprise birth rate- but risk capital is still scarce in Italy, where companies most often have to resort to family, friends, and banks.
+
+Therefore, while is interesting to see that at least some areas in Italy have a significant level of innovation in SMEs, another element to consider is how knowledge-intensive companies are.
+
+<i>"In 2022, knowledge-intensive high-technology services employed 6.9 million people across the EU. There were 6 NUTS level 2 regions where more than 150 000 people were employed in these services- all of them either capital regions or economically dominant hubs for high-tech employment:
+...
+the French capital region of Ile-de-France (447 100)
+the Spanish capital region of Comunidad de Madrid (256 600)
+the German regions of Oberbayern (194 700) and the capital Berlin (172 500)
+the northern Italian region of Lombardia (180 900)
+the Polish capital region of Warszawski stoÅeczny (177 200).</i>.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_09_employmentknowledge.png)</center>
+
+Incremental innovation is therefore more common, albeit under the general "business process innovation" Italy does deliver:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_10_businessprocessinnovation.png)</center>
+
+The percentage of turnover delivered by innovative products in SMEs is interesting- albeit this chart (as noted within it) is slightly misleading, as some countries (Italy included) do not provide regional data, only national aggregates:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251221_630_11_percentageofturnover.png)</center>
+
+As you saw, I did not talk about "political reforms"- as, within a society structured around locations and tribes.
+
+In Italian we say "il paese dei campanili"- as in the past we had also within individual town challenges around the individual belltower of each part of a town- the Palio di Asti and Palio di Siena are a visual reminder of those times, albeit reconstructed in later times.
+
+Anyway, more than those visual events that attract tourists, our business and social culture is still deeply structured around those concepts.
+
+Hence, while political and structural social reforms might help, Italy needs to alter also it culture of patronage and provincialism, and learn, when interacting with foreigners, to "actively listen", i.e. to understand, not just to look for confirmation.
+
+A typical side-effect of our national attitude toward "foreigners" (who might even just be from another part of Italy) is that we often end up in disappointments not because where unavoidable, but because each local community has expectation and assumes that those expectations are aligned with those of those coming from outside.
+
+Therefore, already 20 years ago, while working part-time as project manager on government projects for a partner, routinely heard stories of how Italy had attracted foreign "investors", who actually at most delivered matching funds, and, once those matching funds ended, moved elsewhere- as it was not a sustainable business proposition, but simply an offsetting of part of the investment (or, in some more recent cases, even just an opportunity to remove from the market a competitor).
+
+As you can see from the images above, there are already some elements that could seed a more structured approach, but Italy still needs to learn to invest and risk, not just to extract value and tinker.
+
+In 2026 the NextGenerationEU / Recovery and Resilience Facility / PNRR funding will end- it will be interesting to see how the transition toward attracting funding from the markets will work, as, between COVID subsidies and the European Union funding, from discussions around both the public sector and the private sector, too many over the last five years got used to receive funding without having to show a business case- as the key mandate was "spend".
+
+So, probably, now would be the right time for Italy to expand the financial markets to allow risk-based investments, and allow to create opportunities not just for "business process innovation" that often are just incremental innovations, but also to differentiate between the degrees of risk.
+
+Otherwise, we will keep having even startups who as a "seed" have actually public contracts, not the market, and will grow then by acquisitions thanks to those initial assignments, not due to market success.
+
+Which, in the end, would keep them structurally fragile.
+
+For the time being, probably in the next 6 to 12 months actually the State, directly and via its own "investment structures" will try to keep afloat and relaunch ordinary activity, after the end of the European Union funds, but it is an opportunity to actually attach some strings to the new expected rounds of support- to generate a self-reliant market, and not one that looks forward to more direct or indirect subsidies.
+
+Have a nice week- the next part and the completion of this multi-part article will be across next week.

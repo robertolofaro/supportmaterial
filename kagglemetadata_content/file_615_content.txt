@@ -1,0 +1,395 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250823_article.png)</center>
+
+This article is divided in five short parts:
+_ part1- the context
+_ part2- the past and transition
+_ part3- impacts seen from the consultants' side
+_ part4- impacts seen from the customers' side
+_ part5- scenarios for the way forward  (<i>this article</i>).
+
+Each part has been published on a daily basis (the first one on Monday 2025-08-17).
+
+If you read my recent articles about forthcoming publications, you know that I am preparing the relaunch as publications of two websites, [PRConsulting.Com](https://prconsulting.com) (focusing on the consulting industry side), and [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com), focusing on the customer side.
+
+The general concept, as outlined in the title, is the relationship between external providers of expertise and customers.
+
+If you had a "d&eacute;j&agrave;-vu" moment, you are right: the previous few lines were already within the part published across the week- and yesterday even repeated some lines that were within the previous article.
+
+As I wrote across the previous parts, this article is just to share some pointers that will dig deeper into in future publications.
+
+This is the closing section of the article, and therefore time to summarize and, as the title say, talk about "scenarios the way forward".
+
+Actually, it will be much more extensive than a simple summary- as this whole article is a first step.
+
+While the two sites linked above cover the two sides of the coin (external knowledge providers and their customers), from 2025, following some curious choices done locally in Turin between January and June, further reinforced from an encore of what my contacts in Brussels saw since 20 years ago (as first signed a contract for an apartment in Brussels in 2005), an encore both from Turin and Rome, the social commentary, when talking about hypotheses, will shift mainly to my "Hamster side" (see <a href="index.php?page=387">).
+
+If, before this multi-part article, you read the articles (or even the mini-books on change- see [description pages](published); the digital edition is available also for free on [Leanpub.com](https://leanpub.com/u/robertolofaro), or as low-cost paperbacks on [Amazon- search in your own national website, or follow the links from the description page for each book](https://amazon.com)), you often found the words "system" and "systemic".
+
+It is a curious element that, while many advertise AI as "transformative" (true), then, when it is time to offer the technology for implementation in specific organizations, shift to peddling their wares on projects "in sedicesimo", and forget most of the overall cultural and organizational impacts.
+
+Probably you already noticed it, but I like to look back to look forward- using the past as a springboard and to identify what current information might benefit from past experience in identify potential alternative roadmaps. 
+
+My perspective on AI, beside my own personal uses and professional experiments past (from the 1980s), present (say 2017-today), future (sky's the limit), is neither focused on technology, nor on philosophy, nor on business, nor on politics: it is about cultural transformation.
+
+As shared in previous articles published on this site and mini-books, I think that technology, no matter how "smart", should be an enabler part of a mix, not "the" driver.
+
+If you lived across multiple cultures, and were exposed to multiple cultures in political activities while you were still a teenager, before joining as a first job a multinational environment where blending cultures was an open opportunity for those who wanted to take it, anytime you introduce a different element in a mix, you consider what is the source context where it was "native", and how all those will blend.
+
+Did some experiments also while in the military (e.g. the training course on information technology concepts that proposed, designed, delivered, but also other activities regarding the allocation of people to roles- yes, I did some HR before actually starting- on a daily basis and a monthly basis, as we received a new "batch" every month).
+
+I shared in a mini-book that released few months ago an experiment in integrating different LLM models within a writing pipeline ([#BlendedAI - Building Human/AI Systems - Episode 01 - An Experiment for a Milestone - 36 Stratagems](https://leanpub.com/blendedAI01), available also for free).
+
+To clarify and identify scenarios, I will make three examples from my own country, Italy, looking at three domains:
+_ industry 4.0
+_ automotive
+_ banking.
+
+Yes, there is a missing category: government.
+
+I followed e-government since the OECD released a report in the late 1990s, and also in my 2003-2005 e-zine wrote about that, while in 2010, as shared in past article, was part of various e-something workshops in Brussels organized at the training facilities of the European Parliament, [including one on e-participation moderated by RAND, that resulted in a report](https://www.rand.org/pubs/technical_reports/TR673.html), and others on e-health and on themes such as e-inclusion and e-democracy.
+
+All material that is quite useful now, while considering the impacts of AI on society.
+
+Anyway, will write separately something focused just on that side, the e-government integration of AI, albeit some concept discussed within the examples for the three categories above (e.g. some suggestions about how simple changes could generate systemic impacts, or how mobility could evolve and integrate with AI, or how banking could blend traditional and fintech) are applicable across multiple industries- government included.
+
+In Europe, since the 1950s increasingly what was an aggregation of interests created as a "facilitator" generated a shared bureaucracy- in Brussels.
+
+As any bureaucracy, obviously eventually became self-referential and expanded its scope- to reassure first itself of its right to exist, then to ensure that would be the leading voice in any domain that would impact on its role.
+
+Nothing new- I am re-reading "The Selfish Gene": the attitude of bureaucracies everywhere is the same.
+
+The organization they belong to becomes a vessel for their survival, and the weaker the governance and guidance (two different things, in my view- will explain elsewhere), the stronger this urge to cocoon itself in procedures, rules, structures- all making itself more pivotal within the survival of the organization as a whole.
+
+As within the concept explained in that book, the best bureaucracies are even able to survive and thrive in upheavals: M&A, wars, political changes might require some temporary disguising, but the best will still resurface better than before- and I saw multiple cases of acquired companies where the acquired one eventually asserted control.
+
+In real life as in corporate life, in a war of attrition those with a stronger organizational culture alignment is better equipped to overcome and even co-opt from the other side.
+
+Blending AI with bureaucracies will produce interesting results, notably because even the most limited LLM between the leading one, if provided a corpus of information, can help any organizational component to emulate the level of expertise on "rituals" that usually would require long-term entrenchment.
+
+The European Union suffers of what many political commentators call "democratic deficit"- and today's speech of Mario Draghi was (not just from himself) the latest one in a long line of similar speeches that heard for decades, about assertiveness, cohesion, shared goals, and also shared debt.
+
+The two terms of the current President of the Commission showed what happens when you have that lack of real oversight and can jump the gun, knowing that then all will follow.
+
+Frankly, I prefer this broader concept of oversight, to the one of "democratic deficit"- it is not just by continuously tinkering with electoral systems that you can remove a structural weakness: something that we Italians learned extensively since the early 1990s.
+
+The transformative element embedded in any AI that allows to be used via natural language is its disintermediation from the typical layer of experts (internal or external, does not matter).
+
+AI, once its use spreads across the organization, is not just a tool that you can convert into "shelfware": its "hooked" element (to recall the title of [a book by Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) on product/service design) is habit-forming, a kind of gamification on steroids, that extends well beyond the "gaming time", as it gets into your ordinary routines.
+
+Therefore, creating multiple independent "AI fiefdoms" within an organization, without a general oversight and shared purpose can, after the initial experiments, evolve into the typical case of conflicts of interest between competing expanding bureaucracies- this time, augmented by apparent "know-it-all" abilities, and therefore extending across.
+
+It is not an unusual scenario: if you use AIs just for optimization based on data, sensors, transactions, etc (something that was possible and feasible long before ChatGPT was released), will be able to be self-contained.
+
+But when the humans interacting with it within each part of your organization, each part could act as almost any human in a career-oriented organization does when assigned a bit of formal power.
+
+Or: will try to extend upstream and downstream from their core processes- not the model itself.
+
+For now, [Terminator and Skynet](), or even [Colossus and Guardian](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project) are far away in the future.
+
+Albeit, frankly (sorry- a spoiler, if you did not see the movie "The Forbin Project"), already it is feasible (and I remind reading an article about that) to have models "talking to each other" finding more convenient to use their own more precise unique lingo that they set between themselves, instead of human languages.
+
+Hence, the more we spread applications where eventually models, for the sake of efficiency, will be put in touch with each other, more advanced models exchanging information with other models might end up having conversations impossible for their human owners (or users) to understand, oversee, audit.
+
+When these human+AI teams will spread and try to assert their need to be involved, it will be initially just a request to be involved upfront in decision-making affecting the internal activities of another part of the organization, due to some details that involve also this other part of the organization.
+
+Then could extend to interconnecting across multiple "upfront decision-making" involvement across different parts of the organization.
+
+Which is something quite common between humans on a rising path- albeit, in the past was limited to few humans who had the right backing and right support network, or were able to build a level of access based on mutual interest that few could match: imagine significantly extending that.
+
+An old movie from the 1950s could be interesting to watch, keeping in mind the previous parts of the article, notably the proposed changes on the corporate culture and organizational structure side, and adding our current AI (and its potential decision-making support side) within the picture for each of the contendents [Executive Suite (1954)](https://www.imdb.com/title/tt0046963).
+
+Yes, [new edition of Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order) could be needed.
+
+And, in my [monthly review about AI Ethics](aiethicsprimer) (as ethical impacts are paramount when talking about decision-making, not just for [GDPR/privacy](gdpr) purposes), actually found an interesting paper on ["Development of management systems using artificial intelligence systems and machine learning methods for boards of directors (preprint, unofficial translation)"](Development of management systems using artificial intelligence systems and machine learning methods for boards of directors (preprint, unofficial translation)).
+
+Just as an appetizer, a recent slide I received about the risks of "shadow AI"- i.e. AI used without being sanctioned: incomplete, in my view, but useful as a starting point
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250822_shadow-ai-risks.jpeg)</center>
+
+Now, shifting to the Italian examples I listed above, all are cases that would benefit from AI- and the first one explains that concept of "organizational impact" that a bit of technology could have, however limited in its initial scope.
+
+When I was made to return in Italy by Italians in Brussels, one of my first activities, as I had been living outside Italy basically since the late 1990s, and returning just for visits or activities for customers and partners, was to get into public libraries, and read recent books about the State, local authorities, social developments, automotive, banking (as the last two were the industries where I worked most often since the late 1980s).
+
+As I had been living outside Turin since the late 1980s, I also added books on my birthplace- again, from the political, social, business standpoint.
+
+Meanwhile, monitored media for specific issues- including digital transformation and data privacy (as I had been working in or around both since the late 1980s, as part of my projects).
+
+One of the laws that attracted my attention was part of a series of initiatives aiming to rejuvenate the Italian factory floor: not in terms of people, but in terms of machinery.
+
+In a typical Italian fashion, we were long on marketing and short on delivery.
+
+The typical size of Italian manufacturing companies is close to an extended team- in military terms a company- few dozens, also if the communication is often as if it were a division- few thousands.
+
+It is funny to hear leaders of small companies talk about industrial policy- as, the more they offer solutions, the more sounds as if they are project at the national or even European Union level their everyday cone of visibility on complexity.
+
+As in Italy no politician apparently trusts his/her advisors, as all could come with their own or their own tribe's agenda), often cope with complexity using Alexander's Gordian knot approach (cut instead of solving or even identifying why formed in the first place).
+
+Hence, go directly listening those with an explicit agenda- which, incidentally, could bring as a cherry on the cake of the interested advice also vocal support by friendly newspapers, as almost no major newspaper in Italy belong to a "pure" publisher that has no other business interests.
+
+So, often, our concept of "industrial policy" is quixotic, if observed by outsiders.
+
+A typical element is that measures are year-on-year, also when a multi-year investment is needed.
+
+Hence, the initial Industry 4.0 initiative was not an anomaly- a continuation of a long tradition.
+
+In its first version that I read forgot that, if machinery is too old, probably, in smaller companies, people is trained by "handover"- a kind of "knowledge inheritance" from a generation to another, with limited or no formal training, except when formally required by law (and, in that case, I would stress "formally"- as content and behavioral change would require something different than spending few hours in a classroom or in front of a PC).
+
+Changing machinery that brings along "smart" sides, from mere panels showing on screen status and parameters, and allowing tuning without touching, to communication of data externally, to interchange of data with the organization's information systems, requires a different mindset.
+
+Training has to be implemented and maintained, and scheduled, as routinely there will be upgrades, changes, etc.
+
+Now, if your company is small, probably, except few, most of the employees are pigeonholed in specific roles and activities, to optimize allocation- no place for philosophers (except at the top), thinkers, researchers that are not oriented toward production.
+
+Anyway, the first round of subsidies considered just the machines.
+
+Then, was added a requirement to have a third party certify that the machine was actually "smart".
+
+Then, as machines were used as the old ones (the "smart" elements were tested to ensure the funding, but as a formal requirement), eventually was added also funding (across time, not in a single change- we are a country of philosophers that, when implementing, become tinkerer- think systemically, act erratically), for minutiae such as training, integration with information systems, etc.
+
+Now, I would be curious to see a Government Ministry set up a survey on how many of that machinery acquired is fully integrated with information systems in a bi-directional way, and which percentage of its users is actually formally trained and under a "training update" program.
+
+If you have machines able to send and receive data on their own operation, what I described yesterday as an evolution of preventive maintenance based on historical data could generate predictive maintenance based on continuous data from the equipment: which could be a simple, old, yet prime example of business value generated by an AI application continuously interacting with the organization.
+
+Then, would still need somebody making decisions and understanding those data, but optimizing the allocation of resources: avoid overstocking spare parts and material, but also avoid that machinery goes off line due to a too restrictive policy applied by finance.
+
+Yes, in the past this could have been done by different bits of technology, in 2025 could be done involving an array of technologies.
+
+As an example, this picture summarizes the range of possibilities provided by AI to interconnect or assemble services based on AI, as of today (technical but on purpose- hand it over to your IT team):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250822_connectingtechnologies.png)</center>
+
+Hence, just installing a single machine that is "smart" enough to integrate with your information systems, if you add an AI element that does not necessarily use GenAI but works on data, trends, reference benchmarking from vendors or industry, could have impacts on processes across:
+_ production (obviously)
+_ quality (pre-empting instead of waiting at the end of the line)
+_ purchasing (altering the way contracts with vendors are negotiated in terms of integration with their systems)
+_ logistics (ditto)
+_ finance (ditto)
+_ HR (see "why" above).
+
+To paraphrase Star Trek: govern the transformation or be assimilated by the culture embedded within the external system.
+
+If you think that you are just adding a smart piece of equipment, if you then want to achieve its potential, bit by bit you will generate more entropy (actually, more entropy-generation points) than you can expect.
+
+With AI, as written also in previous parts of this article, this will be on a different level of complexity.
+
+Also if you were to pre-empt by setting up the proper governance of transformation within your organization, many of your own employees would generate their own sub-communities.
+
+In each one of the organizations I worked for or with that was large enough to define a formal organizational structure, there were both a formal culture and one or more informal one- sometimes, more than one informal one.
+
+And, actually, organizational structure often was defined after internal informal culture within the ecosystem (including cross between internal and external informal cultures, e.g. long-term relationships with suppliers and vendors that influenced choices) had already evolved.
+
+CEOs come and go, each one bringing his/her own concept, but an organization large enough to develop internal bureaucracies and sub-cultures has to take some effort to actually achieve change- otherwise, the old culture mix will resurface as soon as there is a vacancy at the top.
+
+Generally, in the past, the impact of these micro-cultures was confined and minimal, as was also due to the level of structural abilities developed in cultural and organizational development by those involved: if you are focused on a narrow segment of a specific domain, you can build a culture with your peers, but would scarcely affect others.
+
+To keep this part of the article short and to summarize the concept, I would like to share a personal experience while visiting a museum.
+
+In 2012, visited the Wannsee Museum, the house that hosted the infamous Wannsee Conference.
+
+Part of the exhibit were documents from the 1940s, including a document about the nazi plans for Ukraine post-war: to lower educational level, so that the locals would not have organizational/cultural capabilities to set a revolution in motion.
+
+It was a similar approach to that adopted elsewhere, I was told in the 1990s in my visits in Eastern Europe.
+
+Sometimes there were used less dramatic approaches to those used in 1956 and 1968 (or immediately after the Molotov-Ribbentrop, in the 1940s, and right after the end of WWII), e.g. partitioning any production needed to secure infrastructural development and maintenance spread across the whole of the [COMECON](https://en.wikipedia.org/wiki/Comecon).
+
+Jump to the XXI century: courtesy of the Wild West way through which our current LLMs (specifically GPTs) have been trained, maybe "reasoning" is a big word, but a GPT includes enough patterns derived from material across what not a single human would be able to absorb in a lifetime, to be able to complement human ingenuity.
+
+You need just political and organizational instincts and somebody able to ask the right questions, to identify the "known unknowns, unknown knowns, and unknown unknowns" (to paraphrase a quote from a documentary/interview that reference in part3) needed to support a specific initiative- and then look for those needed to complement your own "connecting the dots" capabilities.
+
+Hence, a cultural transition e.g. after a M&A, or even just to introduce a new technology or process within your existing organization would require a different approach to resistance to change, in our times and over the next few years (then, if AI will evolve toward AGI, probably there will be a need to further redesign- and HR will cover both humans, AI, and their interaction way beyond what, frankly, should already do know- get tech savvy psychologists, not those looking at themselves in the mirror to overcome their own weaknesses by advising employees).
+
+You cannot just use the old "divide et impera" to pit interests against interests by looking at minutiae, or use basic tricks used by demagogues long before [Neuro Linguistic Programming](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) started being used as a cloak to cover old habits to manipulate audiences and individuals.
+
+One of the most read articles on this website is about leadership obsession in Italy ([it is in Italian](index.php?page=125), but actually [a later follow-up](index.php?page=369) was both in English and Italian)- notably, the obsession of leaders as lone rangers that are even more powerful than Superman- as the latter cannot be ubiquitous.
+
+If you level the playing field by using even the current limited reasoning/pattern connection of existing AI, it becomes more a matter of facilitation and convergence of interests- which, actually, could help generate even more value, as each party, courtesy of collaborative uses of AI, could lift a page of two from the "patterns" of other domains in a way understandable to the recipient.
+
+In human-to-human meetings involving technology, since the 1980s observed way too often how decisions taken under a veil of ignorance were taken not out of some "decision-making" inclination, but to avoid to utter "I do not understand" or "I do not know"- looking then for scapegoats in the aftermath.
+
+The reason why in the 2012 started publishing mini-books on change is the same why, in previous decades, I was used to write position papers or assessments to share before meetings: to level the playing field- and also while delivering training, prepared formally or informally the audience, by sharing "cameos" to introduce concepts before explained them formally.
+
+Shifting to the second and third case, let's start with automotive, as anyway I am referring to Italy and, specifically, the key industry in my birthplace Turin since long before I was born, and still when I practically left town in the late 1980s.
+
+Locals are now, at all levels, including those who have or had local leading roles, focusing on the sale of Iveco, fearing of another case such as Mittal with Ilva.
+
+Personally, [already shared earlier this month an article about how I disagree with that focus](index.php?page=609)- there are wider issues that would require a structural cultural change.
+
+AI is about transformation, wrote at the beginning- but transformation requires in our times building an appetite for change across the whole organization, to have value emerge from multiple limited-cost, limited-impact, changes, changes that allow both incremental innovation or improvement, and the luxury of failing.
+
+Which, incidentally, would help also to avoid doing in the late 2020s to early 2030s the same mistakes done in the 1970s-1980s, in the first real wave of Italian digital transformation: we applied a technological coating to pre-existing processes and manual systems, often replicating what we were used to do manually into unnecessarily complex systems that kept alive organizational structures that made sense in the past.
+
+Anyway, what many forget is that, until a time not that far in the past, Iveco was part of FIAT, and local mindsets and rituals are still linked to that past.
+
+FIAT merged with Chrysler into FCA, and FCA merged with PSA into Stellantis.
+
+As I shared when the new choice to lead Stellantis was announced, I was not the only one to see it as a temporary choice, transitional choice- not the transformational choice that would be needed under the multiple "transitions" that the industry is going to live through- not just about engines, but about consumption model and revenue streams.
+
+Look e.g. at the decision from the new CEO to keep also the USA role, and announces that frankly were something that would have been expected decades ago- new models, de facto toning  etc: not something aligned with the last decade, and certainly not something aligned with the different role that automotive will have.
+
+Or also look at the announce of the emoluments and "capped" maximum, which many read as a way to reduce the local outrage for the exit package for the predecessor, but, read from another perspective, could allow a potential buyer of Stellantis to more easily evaluate.
+
+The recent decision by Fitch announced on 2025-08-04 [withdrawing ratings and revising the outlook to negative](https://www.fitchratings.com/research/corporate-finance/fitch-revises-stellantis-outlook-to-negative-withdraws-ratings-04-08-2025), coupled with what shared in previous posts and articles, further lowers the expectations.
+
+As I shared with local contacts, locals at the announce that an Italian would become the next CEO of Stellantis assumed that Turin would be again the center of the automotive universe- and I called that already back then another example of cognitive dissonance- relying on expectations and not on recent data and recent trends.
+
+The current stasis and "quaint" announces could probably further lower real prospects, to the point that, to save its side of the bargain and occupation in France, the French government could take over Stellantis at a lower price, blend with Renault, and then act accordingly on the production side.
+
+Being a company town implies that "our way of doing things" is actually "our leading company way of doing things": what worked with FIAT, if Stellantis as Iveco and Magneti Marelli were to have its focus elsewhere, would leave again what I called the "Ministry of Automotive" mindset, but without the reason to adopt that mindset.
+
+A mindset that should be downsized and converted into a higher level of operational adaptability, as local companies in Turin used to work in multinational environments (as followed the FIAT group also abroad- from consulting to logistics to finance, etc), should learn to work in multinational environments that have different approaches to reality, not just to try to keep what worked in the past, and overlap it with what is required.
+
+Hence, the hope is that, when the August de facto shutdown of manufacturing and associated services in Turin will end, at least some will already have identified which parts of their own internal modus operandi will have to evolve, to be able to efficiently diversify their customer base on a multinational level- being used to work in a multinational environment is an asset, but you cannot simply export the Turin mindset everywhere.
+
+As for the future of Stellantis- in 2019 posted an article with the title [A tale of few mergers and foreign direct investment attraction #Turin #FCA #Renault #Nissan #FDI](index.php?page=364), again talking about cultures.
+
+And went through the annual reports of FCA, Renault and Nissan- eventually, in that case, the merger did not happen.
+
+Overlaps or not, if the point is retaining in France and Italy the "industry of industries", and all its "knowledge supply chain" while preparing for the next generation.
+
+Implying that Italy could also in automotive, on that side, turn into the "maquilladora" that we already became in other industries, i.e. assembling or supporting sales for what is produced elsewhere.
+
+Unless Italy, notably Turin, leverages on the potential to use a century of "knowledge supply chain" spanning automotive but also aerospace, logistics, and overall mobility and, more recently, also AI and CIM 4.0 within automotive.
+
+Automotive, notably after a further energy transition, could become part of the overall smart city and energy infrastructure, and convert each vehicle into a revenue stream, notably when self-driving vehicles will leave passengers plenty of time to spend during their travel- but, frankly, this is something that was already discussed a decade ago, and was even within a book on "Silicon Germany" that was published in 2017.
+
+The point is: you need to leave the 1970s-1980s that automotive is just about cars and models.
+
+Anyway, will let to somebody else- as I wrote online elsewhere, my interest in Turin and Italy, due to their interference abroad that simply reinforced since 2012, is only for specific missions with specific conditions- if then things will change, could be longer term, otherwise will just observe and report: locals have more advisors than they need, albeit unfortunately with a mindset stuck in the past.
+
+As a side-effect of being the company town of the Italian side of "Industry of Industries", Turin was had also in the past a significant role in banking, with two leading banks, Istituto Bancario San Paolo Torino and Cassa di Risparmio di Torino, both eventually absorbed by two banks based in Milan, respectively Intesa Sanpaolo and Unicredit.
+
+Turin and its region also had plenty of smaller local banks, linked to its past in trade and agriculture.
+
+Let's be frank: while mobility will keep being transformed and evolve, and automotive companies in the future will be a completely different animal, and vehicles too, and vehicles will have more computing abilities on board to integrate with their environment and monitor their own performance continuously than an F1 car today or the Space Shuttle decades ago, banking has a completely different set of issues- and potential.
+
+Some major banks already did what, having seen banking from the inside since the late 1980s in few countries, in my view is the right choice: create or acquire new entities that are purely fintech, and give them backoffice support and access to resources.
+
+Those resources, financial and human capital, represent centuries of experience- but century of experience where processes were often handed over from generation to generation, and technological evolution simply converted platform.
+
+Look at the 2008 crisis: banks loaded up risk that they themselves had no understanding of- as, otherwise, would have offloaded it earlier to other parties, as did for more traditional risks.
+
+Frankly, I think that, after an initial love with the novelty of pure fintech, what I saw from the few that looked at through others or tested personally, are not mature enough in terms of organizational culture to replace traditional banks, and simply can "seize territory" left vacant from traditional banks, notably retail banks.
+
+Their terms and conditions when try to branch into the territory of retail banks often is laughable for its clumsiness: for all the tech savvy, have no clue about building relationships with customers in that industry for more than "skimming the milk".
+
+In Italy, when I started in the 1980s-1990s, the number of banks was in the three digits range (well over a thousand).
+
+Consolidation happened but it is still way behind what would be needed, considering that retail banks (covering also the lower ring of commercial and private banking, in Italy) are shutting drown branches with gusto while at the same time tried to sell services that they too have no clue about- as when was offered a health insurance whose premium exceeded the coverage that I would receive, and was able to "compute" that using just the parameters that I was told by the bank employee while presenting to me the offer.
+
+In that case, probably a really simple AI model would have looked at my parameters, the parameters of the potential offer, and avoided talking about that or "above 50k investment we consider it private banking": laughable terms of reference, considering that (on the KPI and, in the 1980s, on the controlling side) had had in the past activities in that domain as a consultant.
+
+Therefore, banking could actually benefit significantly by fintech and its potential for faster, cheaper, more opportunistic transactions at the retail level based on monitoring flows on the customer side, but by blending banking savvy and resources with tech, not (for now) the other way around.
+
+Longer term, with more and more stablecoins and sovereign digital currencies such as the digital Euro and its siblings, there could be further integration of AI.
+
+As I wrote above, considering how banking processes are integrated in terms of oversight, compliance, but also cross-relationships with separate "siloed" domains, optimization of resources across the lifecycle of a customer could benefit from a deeper level of backoffice banking AI, coupled with "push" advisory to customers within retail (due to volumes of potential users) acting more as a financial assistant than a financial advisor.
+
+Implementation and specific cases by sub-domain? Again, will probably share something in the future- unless will be involved in specific missions- otherwise, will just comment what will appear on the market.
+
+Digital (since the 1980s), Green (say formally started really with UN SDGs in 2015), AI (really started with ChatGPT disintermediation few years ago): three transitions that require a redesign of structures, processes, products, services, and, overall, mindsets.
+
+Years ago nicknamed my birthplace Turin "Macondo am  Po", from Garcia Marquez- and recently added "a ministry of automotive without automotive".
+
+It still has significant potential in various business domains, but apparently after stopped de facto to be a "company town", when Agnelli (nicknamed "l'avvocato") who kept a close and inquisitive eye on the town and whose mark was in every choice the town did back then, the territory &eacute;lites turned into decaying blue blood, living off past glories (and assets) while assuming to be the center of the universe.
+
+Look at the habit of trying to attract in town any quango or bureaucracy looking for a home, and, after managing to attract a single event of a string, to make it permanently located in Turin, or the routine that every paid external aid with a gig in Turin apparently feels compelled to repeat on stage almost verbatim one of a range of few phrases to highlight the pivotal role of Turin and it uniqueness, only to disappear from the radar once the gig is done.
+
+After shifting from generating value to extracting value locally, the rationale that observed since my return full-time living and working in 2012 around the territory seems to be to extract value from what has been generated elsewhere- from attracting and retaining individuals and companies, to announcing continuously innovation and then looking for investment from elsewhere while asserting a birthright to retain control.
+
+Those transitions actually allowed Turin, thanks to its past, to attract some quangos and some companies- but there is still a strong disconnect between potential, reality, and the role that locals assume as a continuity: always the same people, gaslighting used as a talent and company retention practice for those outside their circles that are anyway needed to implement their own initiatives.
+
+A company town (not just Turin) has all the elements in place needed to turn into a smartcity that could ride the transitions listed above, as it has already in place a shared culture and understanding (a degree of toxicity is part of any village mindset- but can be toned down by a converging efforts), and could therefore, if properly steered through an evolution, deliver at an accelerated pace all those transitions.
+
+When I hear that locals pay themselves multiple sinecure, and convert their initial role into a tenure track within one or more such sinecure, but when attracting from outside create reason to link to the territory up to involving bureaucracies, up to the point of saying that will pay as little as possible to avoid the possibility of going outside their control, reminds me an interview I had with an Anglo-Belgian company in Bruxelles.
+
+At the end of the interview, HR asked me "how much do you need to live?"- and when replied (without a figure, as I had recently been charging my customer 200EUR/h, but was trying to settle in Belgium as senior project manager) that it is a market economy, a further reply was "we know your market value".
+
+I uttered a figure that was suggested from a local head hunter who had said that that would be the entry point before adding board positions, and was told half of that, aligned to their concept of "covering living costs but avoiding possibility of building something else"- hence, Turin talent retention is not a unique practice.
+
+Net result of this attitude? Appoint those that they assume that they can control, and routinely complain about the results, while whole activities either relocate away from Turin (as those two banks I listed above, and the head of various bits of the former town champion).
+
+It is not just the routine since decades of appointing Mayors that had a strong self-image and weak administrative and political grip.
+
+The incumbent Mayor shortly after his election was so invisible, that newspapers published articles asking half-jokingly where he was; then, suddenly, at a music even appeared on stage with a guitar (more than once) uttering that his dream had been that, with then a public show off of fans in front of City Hall, and it has become a routine to deflect any critics of specific failures by talking about the future.
+
+Maybe the next one will dance and sing, or read his/her own poetry before each event.
+
+Look at the leading names in almost all institutions within the company town, look at their curriculum, and listen to them in the way too many events that they attend.
+
+There is a significant cognitive dissonance between their speeches, the way they reached their role (usually via what in Italy are called "stepping stones"), the actual conditions of the town, and their own self-assessed impact on long-term potential.
+
+I think that the transitions outlined above require a layering of initiatives that involve both private and public, the latter shifting from helicopter money to generating an enabling environment, the former integrating with territories- the old "thinking globally, acting locally".
+
+As shared in recent previous articles (e.g. look at those between May and August 2025), also the State should redesign its own role, instead of using digital transformation to implement a more intrusive version of XIX century approach that does not deliver added value.
+
+Technology is global, but its implementation should integrate, not annihilate differences, if we want to accelerate benefit realization, as each local component must contribute, and why should contribute if an extractive approach is adopted?
+
+The future of social and business innovation will require every component (human and eventually also not human) to spot potential areas of improvement- and contribute (e.g. see [The #human #side of #AI #adoption- where #funding should go](index.php?page=607)).
+
+Those transitions apply also within each supply chain, and within each company.
+
+As e.g. Airbus said in a webinar during the COVID crisis, they too had to redesign processes and contracts across their supply chain to avoid disruptions, as there was an extended need for transparency that could affect, if information was disclosed, the competitive advantage of some of their suppliers.
+
+Transitions should be applied also within companies, and each one of them: I am one of those who decades ago got used to switch off lights when a meeting ended, before leaving the room, and removing every debris left behind by those attending, if I was the organizer- sustainability implies allocating resources, not wasting them.
+
+To the point that, if I spilled a coffee, did not look for somebody else to clean my mess- looked for paper: also when the meeting was with my team and I was their "boss".
+
+Moreover, while outside Italy since the 1990s was routinely asked to contribute to setting internal "knowledge sharing" platforms while working on data and change initiatives, in Italy is still elusive- at most, I had repeated attempts of extracting for free pre-digested bodies of knowledge.
+
+We need to get used to resume conditions of the environment to the point when we entered it, if there is no acceptable reason to leave it changed, and change has been agreed.
+
+Eventually, expect that those transitions listed above will introduce laws and regulations to that effect- but with credible and continuous monitoring, to ensure e.g. that those "restoration costs" are properly set aside as liabilities to be tracked, not to be dumped on the next organization trying to use the same (physical or virtual) territory.
+
+AI can help: already 20 years ago, upon request from a customer, assessed different software platforms based on AI to ensure continuous perimeter security with humans to "manage by exception", to replace those watching cameras as a job- as AI could be continuous, not prone to distraction, and able to scan across different sensors and with continuous evolving threat concepts and associated alerts.
+
+The green transition, as I wrote repeatedly online, cannot work unless it is supported by intensive data and data monitoring, and probably AI will help convert our current annual reports into continuous scoring of companies, replacing those rating agencies that failed miserably repeatedly in various financial crises.
+
+It is not a matter just of conflicts of interest, something that saw already in the 1980s, when audit giants increasingly developed a consulting arm that ended up being more profitable than the strictly regulated audit business.
+
+It is a matter of different concepts for different times: a company that lives on a quarter-by-quarter basis because it is listed on a stock exchange is naturally inclined to do whatever long-term initiative looking at that quarterly need to shine.
+
+If, courtesy of technology, we will gradually shift to a continuum, the existing structural political role of corporations, that already [Carl Schmitt](https://en.wikipedia.org/wiki/Carl_Schmitt) wrote about a century ago, and that actually was already shown centuries before through the British Empire, will change and become endemic.
+
+Influencing laws, regulations, public investment choices is an ordinary practice- but it is a political role that should be subject to public scrutiny, not "crossing the Ts, dotting the Is" quarterly reports that surf the formal requirements of regulations.
+
+As you probably know, [on my Kaggle profile](https://kaggle.com/robertolofaro) I have various data projects ongoing since at least 2019, and some involve not just the transitions listed above, but also looking at annual reports, again using Italy as a test ground.
+
+If we were to decouple continuous reporting from the quarterly report cycle, companies could focus on their business while being forced to integrate what they preach in what they do- and annual reports would not become an exercise in accounting and communication alchemy, but a simple side-effect of choices, choices that would need to be vetted before they are done.
+
+Then, there would be a need to redesign this new added level of transparency so that does not affect competitive advantage: already some regulations in Italy, as I heard in various meetings within the routine events organized in Turin by the Unione Industriale, require a level of public disclosure that was designed by those that probably never managed a business, and do not understand the value of that disclosure to potential competitors.
+
+AI could help, notably in a tribal country where you never know who somebody works for: just because you pay somebody (even to public employees) a salary, does not imply that they will forget their tribal loyalties- and I remember often in Italy how, decades ago, I was shown a report obtained on a counterpart during a M&A negotiation that I was not involved in.
+
+The question was: how can they get this level of detail?
+
+Courtesy of my banking experience on the back-office and organizational side, specifically on risks, I was able to tell to my contact that I would not disclose who and where, but from the report, I could say which disloyal banking employee had accessed in which bank, in which branch, in which specific office the data- as (s)he had been dumb enough to report "as is"- and the system, to ensure confidentiality and protect competitive advantage, was designed to provide aggregates on risk exposure, and details only for what was specific and potentially already known to those requesting.
+
+AI. removing the human eyes and sticky fingers from the picture of disclosure, could be involved only on alerts about specific issues, leaving confidential access to continuous data about operations outside human reach.
+
+And, beside annual reports, there are plenty of internal processes subject to compliance that could benefit from the same shift from "reporting" to "monitoring".
+
+Before leaving Italy and Turin in this part, to shift to the general concept of this multi-part article, some "cultural references" should you be interested in considering Italy as a target market:
+_ [Jones - The Dark Heart of Italy - ISBN 0865477248 - 3.5/5](index.php?page=177) (a book review)
+_ [Procacci - History of the Italian People - ISBN 9780140135909 - 4/5](index.php?page=142) (a book review)
+_ [Section: Observation and Innovation / Communication: Strumenti](index.php?section=strumenti), specifically [Strumenti02 Cenni per una bibliografia ragionata](index.php?page=5)
+_ [The puppeteer syndrome and extreme tinkering in Italy](index.php?page=433).
+
+I selected Turin and Italy as source of examples to discuss digital transition, automotive, and banking for all the reasons discussed above.
+
+Anyway, the concepts outlined in this last part of the article discussing the impacts of AI on both sides, external providers of expertise and their customers (as organizations), should provide enough pointers to allow extending from ideas to concepts to implementation.
+
+Of course, by involving in each phase not just your favorite ChatGPT-style AI, but also people that could support you in avoiding the "shadow AI risks" outlined within the message posted above.
+
+The key concept? If you just adopt the technology and ignore its potential disruptive impact on your own organizational culture once in place, you risk having more attempts at using it consuming at least time, and maybe also budget, than results.
+
+Remember the assessment from a German consultant that shared in the previous part of this article: less than 1% of AI uses in production were really innovative and complex uses delivering value- it is worth sharing it again here:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250820_ai_realistic.jpeg)</center>
+
+In the future, beside commentary on other initiatives that will be reported on media, will probably share information from experiments that will carry out- and will see if I can also share on my GitHub profile whole examples.
+
+Also, this multi-part article is shared now because I wanted to "fix" some ideas and concepts before revising some prior experiments and integrating new AI components- therefore, assumed that might be useful to others (hence, the number of links to articles and other material).
+
+If I will have time, this will become yet another minibook.
+
+Meanwhile, have a nice week-end!

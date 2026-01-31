@@ -1,0 +1,220 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_article.png)</center>
+
+This article inaugurates a new "Pointers" tradition.
+
+Specifically, this will be a multi-part article following this publication plan:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/pointersseries1_cover.png)</center>
+
+There will be more "pointers" multi-part articles in the future, but this one is the first experiment, focused on a specific set of themes.
+
+This first part will be repeated across all the parts of the article- as this is more a journey than an article, and therefore knowing your overall mission is useful to contextualize the details of each part.
+
+Key choice is that, while this first part and the last part are more about discussing the overall context and (in the last section) the potential developments, the other articles will be instead data-driven storytelling.
+
+To read (when available) the other parts of this article, navigate using the option at the top of article, that shows the previous and next (when available).
+
+To read all the parts starting from part one, visit the [multipart list section](multipart).
+
+The last part will contain also a list of all the published parts with associate links and the abstract of each part.
+
+Why now? This 2025 has been a year of plenty of flip-flopping, both at the national level (Italy), in Europe (and neighborhood), and the world at large.
+
+The key risk? In our current climate, acceleration generates what often described online and discussed again few days ago by showing how, in routine rounds of communication and "decisions" at the global level, it is akin to a fencing duel where all those involved operate on different planes of reality.
+
+Or: the reality that they themselves identify by looking at the mirror, and then assuming that the world at large will follow their own assumptions and will react as they would react, is not supported by any consensus on such an assessment from at least the key counterparts involved.
+
+A confusion between manipulation and "acting strategically": should refresh if not game theory, at least [the 36 stratagems](books/stratagems).
+
+Side-effect: 2026 is potentially going to be an encore, with the aggravating factor that what was apparently solved in 2025, will surface again but with vengeance in 2026, and with the "resistance to change" and loss of credibility and effectiveness built by the botched attempts of 2025.
+
+Yes, if you read the first part of the article, you already read these lines- as will be repeated in each article.
+
+While the first and last part will follow the new structure that adopted after "discussing" with different AIs (online and offline) how to evolve layout to ease access, i.e. preamble-themes-etc, this paragraph will instead be common to all the "central" parts of the article, those focused on a specific theme.
+
+The reason is simple: just one section- "data narrative".
+
+As the central parts of the article will be within the [CitizenAudit section](index.php?section=citizen-audit), will follow a "leaner" approach: a storytelling linking to all the data shared as potential resources.
+
+Of course, the storytelling will not be "neutral", as any data storytelling is based on a data choice, hence it is selective, not universal.
+
+Anyway, this approach will leave all the central parts of this article as a data-sharing with a short explanation of why the "data dots" are connected.
+
+The purpose is to share material and a limited degree of assessment, so that both readers and myself in the future can, if interested, develop further material, knowing that the sources are shared.
+
+Therefore, while the first and last part of the article are more focused on the ends, each section that is following the "data narrative" (or data storytelling) approach is focused on the means.
+
+Note: in my preparation activities, whenever I quote a paper, document, etc, routinely take notes and quotes.
+
+In this "Pointers" experiment, will share my "highlighted" parts on each paper etc on the GitHub repository, to keep "lighter" the articles, while providing segments that could actually be useful (and avoid that you have to spend time to redo what already did).
+
+After this multi-part article will be released in full, will fill the GitHub repository.
+
+Hence, future readers will have both:
+_ the "Western option"- narrative and then dig into supporting material
+<_ the "Asian option"- reading the supporting material before reading my "five cents".
+
+If you find further material that is publicly available (for data, open data) that you consider should be included in this section, please feel free to contact me [on Linkedin](https://linkedin.com/in/robertolofaro).
+
+Whenever I add material following a public suggestion, I quote the source, so that others can add it.
+
+While the second part talked about the shift of manufacturing to cover for the new defense and space initiatives, and focusing on manufacturing as an excuse to share data opening toward which structural changes would be needed also in the future to generate positive outcomes, this part and the following one share a different concept.
+
+Or: reforming the unreformable, first the European Union, then Italy- again, looking at the future.
+
+For these two parts will leverage on what already published, respectively e.g. on [reforms in Europe](search.php?tag=europe_reform) (122 articles so far are still online), and [reforms in Italy](search.php?tag=italy_reform) (131 articles, overlapping with those about reforms in Europe).
+
+Will begin with the focus on Europe.
+
+Enjoy the reading.
+
+
+<b>Data narrative</b>
+
+I will assume that you had at least a look at the list of the titles of the articles about [reforms in Europe](search.php?tag=europe_reform), to understand the range of issues.
+
+The European Union since 2020 got through a few of what could call "exogenous Monnet moments".
+
+What are "Monnet moments"? Since the 1950s, a way to move integration forward when consensus across all the Member States could not be reached- the latest one happened just on 2025-12-19 (yesterday, at the time of writing), to decide about the financing to Ukraine- debt vs. Russian assets.
+
+Apparently, both the German Chancellor and the President of European Commission assume that whatever they would do will not be replicated by others in the future.
+
+Member States of the European Union have plenty of companies with assets worldwide: if "seizing and absorbing assets" were to become a standard, it would be the end of globalization.
+
+Hence, there is still a due process- and I concur with Belgium: most of the assets are there, and therefore any legal issues would have disproportionately landed in Belgium.
+
+I wrote in the past a bit about the why the "Monnet" approach has some issues ([say- as of today 44 articles quote that concept](search.php?tag=monnet)). 
+
+A sample of those more recent "exogenous Monnet moments":
+_ the COVID crisis and its impacts on European Union provisioning
+_ the energy costs spike as soon as the invasion of Ukraine started
+_ the crisis in Israel and Palestine
+_ and, of course, the 2025 initiatives taken by President Trump administration.
+
+So, for each one of these "moments", the European Union did what does whenever there is a crisis and a need to move forward fast.
+
+Move forward in integration, but with its usual quixotical "topsy-turvy" approach to decision making: first set up a bureaucratic response with limited political support, then find some shred of consensus, then corral them all together, cohesively moving forward, and finally communicate as if instead it happened the other way around.
+
+In this part of the article, will not discuss proposed reforms and other contingent critical issues, as e.g. you [can read the series of articles #EP2024](ep2024) that released before and after the 2024 European Parliament elections.
+
+Except for one theme, that is, in my view, probably the most significant innovation motivated by those "exogenous Monnet moments": shared debt assumed as a structural concept, not just a stop gap or emergency measure.
+
+And even the 2025-12-19 solution is again about shared debt.
+
+Would like to see how it turns into reality: the first message is that Ukraine will pay back when receives war damages from Russia, and that, if Ukraine were not to repay, Member States would be liable only for interests- or: another chip on the armor of the budget might be cooking.
+
+Seeking funding on the market implies that now the European Commission has an ["investor relations"](https://commission.europa.eu/strategy-and-policy/eu-budget/eu-borrower-investor-relations_en) section, where also the results of e.g. the auction on [2025-12-03](https://commission.europa.eu/news-and-media/news/results-03-12-2025-auction-eu-bills-2025-12-03_en) and [2025-12-01](https://commission.europa.eu/news-and-media/news/results-01-12-2025-auction-eu-bonds-2025-12-01_en) are posted. 
+
+Obviously, NextGenerationEU was the item that generated a need for [a funding strategy](https://commission.europa.eu/document/download/74707663-1301-45b8-89b8-224dbeb5e60f_en?filename=factsheet_1_funding_strategy_20.04.pdf).
+
+In this case, a further element was to disclose what are formally called <a href="https://commission.europa.eu/document/download/7f438488-f717-4c9d-a1f0-45dc0fc3ebdf_en?filename=Factsheet_Budgetary%20safeguards_November2025_02.pdf
+">Budgetary safeguards protecting investors in EU-Bonds and EU-Bills</a>, latest updated on November 2025- listing what in business would be called "collateral". 
+
+For my non-European readers, this could be a natural and minimal change, but within the European Union it was yet another example of the "topsy-turvy": we have shared debt before we have a shared politically elected government and a shared State.
+
+Ditto we are progressing toward having out a shared defense posture and, probably, joint procurement planning, out of need to avoid overlapping waste of resources- but still have to define the political oversight of such element.
+
+The long-term budget cycle we are currently in is 2021-2027, but few months ago (I shared posts and articles about that) started the discussion of the 2028-2034, summarized in this picture:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_629_01_2028-2034.png)</center>
+
+The current state of the 2021-2027 one is:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_629_02_2021-2027.png)</center>
+<center>(with <a hreF="https://commission.europa.eu/strategy-and-policy/eu-budget/long-term-eu-budget/2021-2027/whats-new_en">these changes</a>)</center>
+
+Of course, the NextGenerationEU that created the national recovery and resilience plans during the COVID crisis was not just a number, but a series of elements:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_629_03_nextgenerationeu.png)</center>
+
+Any this is how instead began both the 2021-2027:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_629_04_howitwas2021-2027.png)</center>
+
+and NextGenerationEU:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_629_05_howitwasnextgeneu.png)</center>
+
+As you can see, part of the selling points for the confirmation of the around 2trn EUR instead of an increase on the 1.2trn (i.e. without considering the NextGenerationEU) included a revision of concepts.
+
+With a curious element: a larger budget presented as a necessity to provide more ambitious targets for the European Union as a whole, coupled with the concept of reinforcing bilateral relationship between the European Commission and each Member State, on specific lines and issues.
+
+Anyway, you can read a summary by the European Commission by having a look:
+_ at the series of long-term budgets [here](https://commission.europa.eu/strategy-and-policy/eu-budget/long-term-eu-budget_en)
+_ overall, at the new 2028-2034 proposal [here](https://commission.europa.eu/strategy-and-policy/eu-budget/long-term-eu-budget/eu-budget-2028-2034_en)
+_ and a more concise fact sheet with the title <a href="https://op.europa.eu/en/publication-detail/-/publication/10993d4a-d7d1-11f0-8da2-01aa75ed71a1/language-en
+">An ambitious budget for a stronger Europe</a>, with this incipit
+<i>"The Commission proposes the most ambitious long-term budget (multiannual financial framework) to date with a total size of almost EUR 2 trillion or 1.26% of the EU's gross national income.</i>
+
+If this is the "treasury" and "internal organizational politics" perspective, as this pointers article is about both summarizing this 2025 and what is coming next, there is another dimension that, within the European Union, has a significant impact: regulation, specifically harmonization of regulation.
+
+I will not repeat what I wrote in previous articles, and will focus just on data- but e.g. [on 2025-12-09](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2981) the European Commission issued a press release with the title "Commission welcomes political agreement on Omnibus I simplification package".
+
+What is that? Part of the changes to existing regulations and ongoing initiatives that would have delivered their impact well into the next long-term budget cycle, changes that in most cases are a puzzling alignment (cui prodest?) with the demands not of the December 2025 strategy published by President Trump, but with the more detailed preamble to the "tariffs" document issued in spring.
+
+Anyway, there will be time to discuss the "omnibus" in 2026, while reviewing also the impact on e.g. sustainability reporting.
+
+As I shared repeatedly online, in each and any business webinar or conference I attended since all the changes to our regulatory framework started, it is a routine to hear often how those businesses affected, that sometimes spent years to prepare, complain about how theses changes and continuous regulatory flip-flopping put them in a limbo.
+
+And not just because in some cases they have to revert changes.
+
+They built a competitive advantage factoring in compliance that was to be enforced soon, and now find themselves with internal processes and systems modified to comply with something that is not going to be there anymore, i.e. turning a competitive advantage into having self-imposed red tape.
+
+If this is annoying for large organizations, for smaller organizations (the typical business entity e.g. in Italy), this could be highly disruptive.
+
+I will discuss within the fourth part, on automotive, issues specific to that industry, but for now this "regulatory reshaping" actually could have an impact on the differentiation and competitiveness of European companies within their own market, as shown by reading papers that discussed the potential for the European Union within the existing regulatory framework.
+
+As an example, in late October 2025, McKinsey published a report with the title ["Europe's deep-tech engine could spur $1 trillion in economic growth"](https://www.mckinsey.com/capabilities/business-building/our-insights/europes-deep-tech-engine-could-spur-1-trillion-in-economic-growth), and an April 2025 report from Bird&Bird with the title [Artificial Intelligence Act: a guide](https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf) discussed the most recent bit of European regulation.
+
+Again McKinsey on 2025-12-18 released its ["Economic conditions outlook"](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook), and will share just three charts (you can read the document online for free on their website):
+
+<u>Expectation</u>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_629_06_mckinsey_expectation_page3.png)</center>
+
+<u>Main risks</u>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_629_07_mckinsey_mainrisks_page5.png)</center>
+
+<u>Investment priorities</u>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/
+2025/12/20251220_629_08_mckinsey_investmentpriorities_page7.png)</center>
+
+As discussed [in the previous part of this multi-part article, on defense and space opportunities](index.php?page=628), our technological environments requires rethinking Cold War concepts such as "dual use"- but also "deterrence" and "critical national infrastructure".
+
+Recent initiatives of President Trump's administration showed that the European Union should consider its own strategic opportunities not just on defense and space, but also on sustainability of any posture- even of its own industrial activities highly dependent on extra-EU suppliers for critical components and materials.
+
+If we keep depending from extra-UE countries also for the provisioning of technology that is expected to have a pivotal role now and in the future (e.g. chips used in manufacturing and AI), we could end up as in the movie [The Second Civil War](https://www.imdb.com/title/tt0120086), where the President found that a) some critical spare parts had been outsourced to an allied country in Asia b) due to commercial disputes, that allied country refused to provide further supplies.
+
+To align with some of the investment initiatives announced within the 2028-2034, I will consider two key enablers of future digital (and probably also green) transformation: chips and quantum.
+
+For now, did not see that much discussing AI and quantum together, but I expect to have somebody soon blend the two- as, anyway, there was already in the past that wrote about "quantum mind" as a paradigm ([see here for bibliography](https://en.wikipedia.org/wiki/Quantum_mind)).
+
+Between all the material that read and received about both issues, two reports, both issued from OECD in early December 2025, could be useful to have a better idea, and to highlight some specific European issues:
+_ An overview of national strategies and policies for quantum technologies ([here](https://www.oecd.org/en/publications/an-overview-of-national-strategies-and-policies-for-quantum-technologies_5e55e7ab-en/full-report/component-4.html))
+_ Geographical distribution of wafer fabrication capacity ([here](https://www.oecd.org/en/publications/the-chip-landscape_02dbd028-en.html)).
+
+I wrote above that the European Union keeps adding elements of a state but without having the overall political "trappings" of a state.
+
+For example, the "checks-and-balances" are really still not so well defined, as shared in previous articles (again, you can read the [#ep2024](ep2024) series to have a more focused perspective).
+
+Well, two pictures from those two OECD reports probably are self-explanatory:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_629_09_oecd_timelinequantumpolicies_page10.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251220_629_10_oecd_bilateralagreements_page21.png)</center>
+
+Both reports are worth reading, notably considering the various initiatives that have been launched over the last few years, even before the 2028-2034 budget presentation.
+
+Anyway, shifting from 1.2trn (the 2021-2027 without considering NextGenerationEU) to a 2trn (2028-2034) budget for a 27-Member States European Union (and maybe more in few years) does not necessarily produce the same impact if, in parallel, each Member State has it own way.
+
+The title of this part of the article (as well as of the next one) states "reforming the unreformable".
+
+Well, the data presented in this section, plus the other previously published material, and all the linked reports, hopefully should provide some answers, generate some doubts, and help further research.
+
+You can implement reforms if you properly assess your capabilities and the reality surrounding you- not if you announce your own initiatives, and assume that everybody will either align or freeze to let you implement.
+
+Frankly, I think that somebody in Brussels could benefit from reading the latest 4 issues of ForeignAffairs (including the January-February 2026 one, that is already available online).
+
+The titles?
+_ July/August 2025: Who needs allies?
+_ September/October 2025: The Weaponized world economy
+_ November/December 2025: The new tools of power
+_ January/February 2026: How strong are the strongmen?
+
+Have a nice Sunday!

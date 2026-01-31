@@ -1,0 +1,340 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260105_article.png)</center>
+
+This article inaugurates a new "Pointers" tradition.
+
+Specifically, this has been a multi-part article following this publication plan:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/pointersseries1_cover.png)</center>
+
+There will be more "pointers" multi-part articles in the future, but this one is the first experiment, focused on a specific set of themes.
+
+This first part has been repeated across all the parts of the article- as this is more a journey than an article, and therefore knowing your overall mission is useful to contextualize the details of each part.
+
+Anyway, as this is the last part of the article, there are changes also within the shared elements, to mirror the evolution of the journey between the initial part <a hreF="index.php?page=627">Pointers- 2025 and scenarios 2026- 1 Preamble</a>, and the other parts so far.
+
+Key choice was that, while this first part and the last part were to be more about discussing the overall context and (in the last section) the potential developments, the other articles have been instead data-driven storytelling.
+
+It is a "roadmap approach", common in initiatives where, while the initial intent is known, the evolution across times derives from the interaction of each "wave of release" with the context, elicitation of feed-back, and, of course, evolution of the social, political, business (and also technological) context.
+
+Therefore, you set the initial roadmap and the "stepping stones", and then monitor and adjust.
+
+And, say, from when started thinking about it at the end of summer 2025, and when started really preparing for it much later, before starting to deliver in December 2025, while (as will discuss later) "behavioral patterns" had been a continuous confirmation in some cases since months, in others since years, specifics change.
+
+To read (when available) the other parts of this article, navigate using the option at the top of article, that shows the previous and next (when available).
+
+To read all the parts starting from part one, visit the [multipart list section](multipart).
+
+This last part contains also a list of all the published parts with associate links and the abstract of each part- but not as a simple table of contents (more about this).
+
+Why now? The year 2025 has been a year of plenty of flip-flopping, both at the national level (Italy), in Europe (and neighborhood), and the world at large.
+
+The key risk? In our current climate, acceleration generates what often described online and discussed again few weeks ago by showing how, in routine rounds of communication and "decisions" at the global level, it is akin to a fencing duel where all those involved operate on different planes of reality.
+
+Or: the reality that they themselves identify by looking at the mirror, and then assuming that the world at large will follow their own assumptions and will react as they would react, is not supported by any consensus on such an assessment from at least the key counterparts involved.
+
+A confusion between manipulation and "acting strategically": should refresh if not game theory, at least [the 36 stratagems](books/stratagems).
+
+Side-effect: 2026 already showed that will be an encore, with the aggravating factor that what was apparently solved in 2025, already started to surface again but with vengeance in 2026, and with the "resistance to change" and loss of credibility and effectiveness built by the botched attempts of 2025.
+
+A basic concept in any cultural and organizational change: if you deliver half-baked "quick fixes" or "low-hanging fruits", then get used each delivery to produce less and less impacts at higher and higher costs and trade-offs.
+
+And yes, part of the previous paragraphs was my "crystal ball"- have a look in the "preamble" article, and you will see that few potins just I changed only the tense (future/conditional to past), and expanded on some points, but unfortunately, most of the events of late December 2025 and early January 2026 confirmed the "pattern matching" done across 2025, which resulted in this multi-part article.
+
+So, look at my [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro) profiles, to see how commentary and short "pointers" on current news and their evolution.
+
+No single country ever managed to keep multiple fronts open for a long time: opening one a week, even with low intensity, undermines both the credibility and sustainability of the activity, as when those interventions pile up, comes to mind a 2015 Michael Moore mockumentary [Where to Invade Next](https://www.imdb.com/title/tt4897822).
+
+While the first part of this multi-part article was focused on the overall concept and the roadmap across the different parts of the article, in this last part will...
+
+... reuse it with a twist.
+
+Therefore, the "back to the future" is really the same preamble section of the first part, but with links to the published parts of the article.
+
+Then, will re-assess that preamble based upon what has been published so far: I had promised in past weeks to release a mini-book by year end, but what I did not say is that this multi-part article is actually the draft of that mini-book, as the aggregate length (over 20k words before the conclusions) fairly exceed the length of most of the mini-books on change that published since 2012 (e.g. see [here on leanpub.com- set the price to zero if you just want to download](https://leanpub.com/u/robertolofaro); this way, also if I will not receive the data about the buyer, you will get an "order reference" for zero price that could use in the future to give access (again, for free) to additional material online.
+
+Another promise that I had made in previous parts of this article was the release of data and other components: and, actually, already shared some material online, and will add more both on my [GitHub](https://github.com/robertolofaro) and [Kaggle](https://kaggle.com/robertolofaro) profiles (you can follow my stream of publications across multiple sites directly on [Patreon](https://patreon.com/robertolofaro)- for free).
+
+The table of contents of this "conclusions" part of the article:
+_ back to the future: return to the preamble
+_ preamble ex-post
+_ a data-centric moving forward
+_ the end of the beginning.
+
+
+<b>Back to the future: return to the preamble</b>
+
+The introductory paragraphs shared by all the parts of this article explain the "why now" and "why this way"- a summary of 2025, and scenarios for 2026, with a focus on data-driven sharing, to enable both myself and others to release further material.
+
+So, this "Preamble section" was actually a "Meta preamble", as summarized what you were to find again in each part of the article.
+
+The <i>first part, with the title ["Preamble"](index.php?page=627)</i>, had the purpose to discuss the overall concept, focus, and roadmap.
+
+The <i>second part, [Seizing structural opportunities in defense and space](index.php?page=628), referenced "Defense & Space"</i> (albeit my British and Brussels connections probably would prefer "Defence & Space") was the first data-driven part.
+
+Therefore, in that part of the article were discussed the demands, proposals and initiatives presented, and shared how this led to giving a different context to the next part of the article, <i>on "Reforming EU"</i> ([3 Reforming the unreformable - section 1 - EU](index.php?page=629)).
+
+Including, <i>as discussed in the next part, on "Reforming Italy"</i> ([4 Reforming the unreformable - section 2 - Italy](index.php?page=630)), whenever discussing "change" in my birth country.
+
+After talking about defense, space, reforms in EU and Italy, the next step was getting back to the "military-industrial complex" of Europe, i.e. the "industry of industries" that used to be automotive, and now should be called mobility- the <i>next part was therefore  about "Automotive"</i> ([5 Changing attitudes about automotive](index.php?page=631)).
+
+My birthplace is Turin, which used to be the "automotive capital of Italy", and therefore represents, due to its socioeconomic structure, physical position, and current state, a useful case study- therefore, <i>this part of the article had the title within the roadmap "A Case: Turin"</i>, but with a punchier title online ([6 Macondo-am-Po in a multinational world](index.php?page=632)).
+
+And now, let's restate the preamble assuming that you read all the previous parts.
+
+
+<b>Preamble ex-post</b>
+
+No, not really: I think that many will browse the other parts, look for what matters to them, and probably read just the "preamble" part and this "conclusions" parts.
+
+Hence, I will adopt a slightly different approach: will try to summarize as a narrative, knowing that you can open each one of the links above to look at supporting data (including: links to previous material that published online containing further data).
+
+Moreover, will rearrange the order of the sections.
+
+As usual for my articles, adopted not just from a business or political perspective, but also from a cultural and organizational development side.
+
+Let me be blunt: I do not think that the future of mobility is or will be mainly about cars- it will be around multi-modal mobility, including individual (but not necessarily owned) different forms and shapes of vehicles in different terrains.
+
+Moreover, the focus will be on optimization of resources: as I shared often in the last decade whenever writing about automotive, we have to get used to a future were for many vehicles will be a kind of pay-per-use or, if owned, trying to extract as much utilization as possible by turning your own vehicle into a "de facto" shared utility, evolving the old "pooling a car" concept into something more subtle- augmented also by the opportunity presented by new technologies.
+
+Imagine having the possibility of using a kind of AirBnB of driverless vehicles (no, not the "corporate without assets" Uber or AirBnB style, but a democratized and diffused approach).
+
+Actually, in highly urbanized areas such as the European Union, this could generate a potential multimodality market that transcends operators, individuals, and even countries, e.g. by creating incentives (call them "transport credits" on public transport) for those getting the utilization of their own vehicles beyond a certain percentage.
+
+Therefore, also without President Trump's "carrot" (incentives, including the potential strict enforcement of "locally produced quota"/"country of origin USA" approach) and "stick" (trade tariffs and other non-tariff barriers), frankly what I heard recently in Turin at the Turin car expo few months ago about a desire to get back to a 1970s model of car consumption is, in my view, a quixotic dream akin to XVIII century decaying nobles trying to cope with an industrial society while still holding their head into an indentured servitude and "serfdom" (people belonging to the land they were born in) social model.
+
+Bureaucrats in quest of maintaining a sinecure and social status, not industrialists.
+
+Anyway, as I wrote in the past- I am not being original, also the late Sergio Marchionne long ago left an industrialists' association for a while considering that was a bureaucracy (moreover: one where you paid your dues by size, but then the disproportionate small and tiny components of the assembly set the tone and action).
+
+Since I was made to return to work in Italy in 2012, I had plenty of interactions, for myself and others, with local (Turin) and Italian bureaucracies, and since 2018, when I had to create a registered electronic mail (PEC) to be able to set up a company, kept documenting more and more quixotic behavioral patterns.
+
+I shared in a publication in late 2020 just a couple of well-documented cases ([again, you can read it for free here an abridged version with redacted data for privacy purposes](https://leanpub.com/citizenaudit)), but frankly, I prefer to spend time on productive business activities, than on having to issue "cave canem" to those abroad who want to seize opportunities in Italy and do not know how much common has become in Italy, courtesy in no small part of the local (in Turin but also around all of Italy) approach to digital transformation, that often generates costs to exercise a right that exceed the cost of paying for not exercise that right or defend against an abuse.
+
+Moreover, with a routine "splinter cell approach" of splitting processes across multiple bureaucracies that communicate only when the process works correctly, but whenever willingly or not there is a failure in one of the entities involved, business and private citizens end up having to act as bridges between those different actors involved said processes.
+
+Then, adding insult to injury, since 2012 each one of the Italian Governments that I observed, left center right and even "national interest, 'all in'" ones, routinely announce "semplificazioni"- streamlining that actually piles up more layers.
+
+Reason? Mainly because those who propose that streamlining have little or no "carrot and stick" abilities to enforce streamlining- hence, we had in Italy for decades bureaucracies that required to produce documentation that the entity asking had already on its records.
+
+And still, after making compulsory even for the smallest organizational entities to have an electronic registered email PEC (which ensures timeline of delivery but also "digitally signs" content- i.e. is better than an ordinary registered letter whose content could be altered), even State and local bureaucracies (private and public) ask not to use it- except when it is their own "broadcasting mode".
+
+I used electronic filing in other countries since after the OECD in the late 1990s gave a "nudge" toward e-government and, frankly, Italy still puzzles me with each reform.
+
+Looking forward to the Digital Euro- albeit, frankly, that at least one EU Member has been reported saying that will introduce, at the same time when the Digital Euro will become operational, a requirement for shops to accept also traditional cash, implies that issues with digital transformation impacts are being pre-empted elsewhere, instead of just being dumped on citizens.
+
+Notably in a country where the level of digital divide between an increasingly older population and the average age of those designing there "new features" is becoming more and more visible.
+
+Again: I prefer to be bipartisan, that often in Italy is assumed to mean the ability to tell your opponents that they are free to agree with you.
+
+Agree to disagree should be the salt of democracy- and what keeps things moving on.
+
+Even the President of the Italian Republic, in his annual year end speech, called up to the need of joining forces, echoing a bit Kennedy's ["Ask not what your country can do for you..."](https://www.peacecorpsconnect.org/john-f-kennedys-inaugural-address-what-these-words-mean-now/) (yes, the link goes to the Peace Corps Connect website- 20 January 1961, a different era).
+
+But also added to young Italians to get inspired by what the Members of the Costituente did 80 years ago (i.e. those who wrote the Italian Constitution, which is still in no small part to be implemented).
+
+Political reaction, left center right: all praises (as in Turin happened year after year when the Rapporto Rota used data to criticize local leadership), and all, another yearly routine, picking what aligned with their own suggestions.
+
+The only consensus across the political spectrum: ignore the flip side of that reference to 80 years ago as a source of inspiration- i.e. that what happened since then was not really what was expected back then.
+
+It is difficult to see how young people will heed that advice, instead of keeping in no small part, once graduated, to look abroad- as Italy is still the country where we have tenure tracks in university used following what Sabino Cassese in a book called basically converting a public role into an inheritance.
+
+When in the early 2000s was accepted to work part-time as project manager for a Turin company in Rome on Government projects, as part of my (then halted in 2005) plan to return to Italy, I followed that American advice of 1961- and first cut down my rate to align with the budget available, then even worked partially for free, and eventually even paid to work when budget for my role, despite having obtained a significant budget extension, was not extended- as I had promised to the customer to stay there to follow the project if the budget extension was assigned.
+
+I only cut it down (and announced) when I was called and told to attend a meeting, but then told that it would not be solved as discussed during the meeting: I do not like negotiating when the part I represent reneges on what was discussed and agreed.
+
+Anyway, in Rome, discovered that I was the only one, and looking also at other suppliers, who actually cut down his rate or worked even partially for free- and when later was asked to support other initiatives, again were requests to work for free "for future consideration" by different entities, but still those who had received budgets that apparently had already been spent.
+
+Asking then to young people to stay in Italy while surrounded by continuous streams of nepotism, tribal appointments, sinecure, it is a valiant effort to call back to a "common good"- but the routine arrogance of those first elected or appointed, then, after losing elections, or leaving politics, turning into appointees to sinecure and still lecturing everybody as I routinely saw since 2012 in Turin, does not inspire confidence.
+
+As a cherry on the cake, I routinely shared with Italian contacts via Whatsapp a curious element of "digital trolling and snooping" from Italy using fake German messages that, basically, inform me of which medicaments the writers take to cure for "functional issues" that they have...
+
+... whenever I write or comment (privately or while talking with others in public places or places where the routine listening and gossiping so typical in Turin is ongoing)...
+
+... something that is disliked by somebody.
+
+Yes, as you can see in that book linked above in the two documented examples, but could share many more (even from newspapers), Italian bureaucracies are sometimes (or too often) not just leaky and superficial (curious when they share some of their internal threads, or lie while writing with digital registered emails, forgetting that have legal value), but suddenly become quite efficient and focused on allocation of resources.
+
+Expose their failures, and prepare for a sudden boost of efficiency that we Italians would like to see more often, going back to search whatever could generate further work on your side- also when they do have documentation that makes that time wasting unneeded (you will find examples when e.g. was told that documentation was missing, and replied with a screenshot of their own system showing the attachment).
+
+Digital transformation layered on XIX century bureaucracies created actually a sand-bagging effect that makes access to rights even more impervious to ordinary citizens, as wrote within the parts of the article about Italy and Turin.
+
+Now, why all that jump from the future of automotive to bureaucracies in Italy and digital divide? 
+
+Well, as you probably know, beside beside being a "user", while living in Brussels also attended whenever I had time workshops and conferences on e-health, e-participation, and of course e-whatever (overall, e-democracy implementation).
+
+And e-inclusion was and is, frankly, still looking as if those setting the rules live on a different plane of reality.
+
+Actually, Brussels and Rome are the first places where, before returning to live and work in and around Turin in 2012, started noticing curious "strings" of events.
+
+Which other foreigners pinpointed to Italians in Brussels and called explicitly "scorched Earth" to force a return.
+
+But was a mere appetizer to what then saw in Turin: if you do not belong to any tribe, and do not want to as you are a real bipartisan looking beyond just the "now and me", in Turin had a routine of being invited in public places just to have some try to drag me into gossiping against other tribes- and, of course, eventually in such events had always a complement of whatever other tribe was being criticized.
+
+Entertaining albeit childish at first, annoying and boring when repeated year after year- hence, my choice to minimize social contacts in Turin.
+
+As a British contact in Turin who actually was part of some investigations (he knew details about my activities on Government projects in the early 2000s that I had not shared) said before leaving due to Brexit: a Stasi-like environment.
+
+Including the electronic snooping, a mere augmentation of the local gossip and leaky bureaucracies habits of a company town in a provincial village that I nicknamed Macondo and, long ago, described as a 1,000,000 inhabitants metropolis with the culture of a 40,000 inhabitants extended village, and &eacute;lites behaving as if it were a 4,000 inhabitants small village.
+
+Anyway, once understood the practice (was just an evolution of what I had observed in the early 1970s in Calabria), simply other experience-based skills kicked in.
+
+Notably what brought in the past some British contacts (and also some Anglo-American Facebook trolls) to hail my supposed "asymmetric warfare expertise".
+
+And, actually, beside political activities, sales to consumers, and what did in the Army to allocate people, it was really an expertise developed for a simple reason: if you have asymmetric access to capabilities, as e.g. routinely had between the late 1980s and late 2000s when negotiating on behalf of others, it does not make sense to adopt a typical direct reciprocity approach.
+
+To align with Sun Tzu and the 36 Strategems: you do not fight in the territory defined by your own opponent(s) and defined upon their own capabilities.
+
+So, in my case, while in business negotiations this implied finding a way to differentiate, in my local social encounters simply often turned into a short quip, or a polite smile, or, for those insisting, referencing back to the usual concept that I look at results and data, not theorems developed by looking at your belly bottom and assuming that that is the universal Weltanschauung.
+
+Turin, within automotive, created under the term of the previous Mayor an opportunity to test autonomous vehicles within the urban traffic, in specially designated and marked areas, and the incumbent Mayor, as I wrote in a previous part of the article, started an experiment with an autonomous shuttle around a set of university buildings (you can reserve a free ride on a local multimodal public transport app called WeTaxi), for now with a "backup human driver" on board.
+
+Eventually, this will extend- and, personally, I think that, considering the number of small villages that are under the Metropolitan Area of Turin, and that already offer a service called "MeBus" to reserve a bus ride (as there are limited scheduled services), a fleet of autonomous mini-shuttle bus could be a useful way to integrate those villages.
+
+Anyway, all this requires making easier access to those who will both need it more (e.g. the elderly) and that will have (for few decades more, at least) the highest level of digital divide.
+
+Interestingly, the local truck and bus manufacturer Iveco, which was sold for the civilian part to Tata, and for the military part to Leonardo, could benefit from all these specifics of the territory: the "test drive urban area", the diffused territorial dissemination of smaller villages with elderly population, and the potential to deliver additional e-services, and even new mobility vehicles.
+
+As an example, as Leonardo is setting up a kind of "aerospace research and manufacturing citadel" in Turin, those flying taxis on demand presented by Airbus as a concept few years back at an auto expo that was held in Turin at the Valentino Park could actually be tested in Turin.
+
+Leonardo, a partially State-owned defense conglomerate that gradually absorbed many of the State and private defense manufacturing organizations in Italy, has the same issue that had FIAT, the local car maker that eventually absorbed Chrysler to turn into FCA, and then blended with PSA to generate Stellantis, which now is gradually becoming more and more American, and less and less European.
+
+Or: many local companies (meaning, in this case, not just in Turin and Piedmont, but overall in Italy) are really small, and lack the structural and organizational capabilities to shift easily into multiple supply chains (to diversify knowledge and avoid a tunnel vision, but also to mitigate the risk of producing just for a limited set of companies within the same location and same industry), and, in this case, will have to adapt and adopt shifting from a mass-producing automotive to a discrete, lot, project-based production for defense, space and, eventually, the new breed of intermodal and "smarter" mobility vehicles.
+
+Also, quality and ease of maintenance, and not just due to European Union rules, will have to shift: not for a car that should last 5-10 years, but for vehicles that might have to stay in service, be retrofitted and updated for decades, and used not 5-10% of the time during their lifecycle, but 70-80% (or more).
+
+It is a cultural shift- and of course (and rightfully) management consulting companies are considering that a potential market, now that Italy keeps losing larger companies.
+
+As I wrote repeatedly in the past, reforms are never neutral, but reforms in a scenario where everything outside is moving is something that we did not get yet used to since 1989, i.e. since the Fall of the Berlin Wall- and instead we kept using a "reforming Europe to increase integration" that was cocooned within the Cold War relative stability.
+
+Continuous Byzantine tinkering would ensure, a kind of "European Union continuous pork barreling" that frankly was a significant component of the use of the Italian side of the Recovery and Resilience Facility, the Piano Nazionale di Ripresa and Resilienza (in Italian called PNRR)- almost 200bln of adrenaline that should have been used to seed new economic revenue streams, and instead had plenty of different uses.
+
+Including generating bits of infrastructure and interventions that will need to be subject to maintenance and will not generate revenue (just will increase the value of real estate, at most)- with no funding set aside to keep up and operational (or even dispose of whenever needed): but will see in this year, when the funding will end, how did it actually really go, and what the numbers will say.
+
+So, expect more tinkering from Brussels and Rome to keep the RRF / PNRR side-effects boat afloat.
+
+An approach that worked well from at least the founding of the European Communities up to the botched attempt to have a European Constitution (but already in the 1990s started generating some issues) required a stability that would be aligned with the slow tinkering timelines of the European Union.
+
+Anyway, when the context is altering every few months (or even few weeks and, recently, days), this creates issues across the Union, as the traditional feed-back cycle times fail to deliver..
+
+... Italy toyed and tinkered with reforms for decades, and, again, did benefit from the overall uneasy geopolitical stability of the Cold War.
+
+Now, it is playing on multiple tables and having to deal not just with geopolitical issues, but also with the mere issue of its physical position in the middle of the Mediterranean Sea, and its own demographic trends as well as, due to its structural inability to overcome tribal instincts, the further consequence of not having a system to groom and develop talent-based &eacute;lites, but instead invest long-term on controllable tribal assets that often turn into a "one-trick pony" groomed for decades, up to the role when they can maximize negative externalities.
+
+I briefly discussed (again- as shared data often in the past) within the article part about Italy also what in Italian we call "il convitato di pietra" (from the "Don Giovanni"), i.e. the national debt and its evolution.
+
+Back to the last part released before this one, about Turin as a case study: 2026 will be an interesting year to observe- but, frankly, after my experience since 2012, despite being a native, I confirmed my late 1980s choice of looking elsewhere, and, if forced to stay here, will just be in support to those interested in this territory- foreign or domestic.
+
+As, traditionally, those commenting the Italian economy routinely lambasted our economic leaders as "capitalisti senza capitali", i.e. they lead, drive, demand- but whenever they have to invest, they prefer somebody else to invest, and routinely extract to invest elsewhere, instead of re-investing in their own initiatives.
+
+Hence, often discussing with the locals reminds me what an British-Indian colleague told me decades ago while I was living in London and working around Europe.
+
+He had developed business connections with two of the largest families in India, and it was time to set up a software development entity in India.
+
+The catch? Each partner proposed to offer his own office building if the other provided the cash- and I lost track of how the back-and-forth was eventually solved.
+
+In Turin, instead, often routine contacts were asking for experience (in the past, also contacts) developed abroad and elsewhere- in exchange of... nothing, just the "tremendous opportunity" of becoming part of something larger that had not bothered to invest on what was needed before, and needed it now.
+
+Of course- after those better connected, having identified that opportunity, already had shared the (paid) seats at the table but, unable to deliver, went around grandstanding and lecturing (and even pushing) those needed into submission.
+
+Over a decade (plus more than a decade before, when supported local startups) of that, and you get able to spot it in seconds: lavish on praise, but stingy on resources, and trying to get into agreements that sound like indentured servitude (admittedly, it happened also few times in Rome and a couple of times in Milan- hence, it is an Italian habit when you do not belong to a tribe).
+
+So, on both Turin, Italy, Europe and the industries that discussed in this multi-part article my plan is simple: if outside the games, to keep being bipartisan and not tribal, will have to rely on public information and announces (or published business innuendo, another Italian habit that replaces often the "exploration" phase of both strategy development and post-M&A integration), and comment on potential development by extrapolating publicly and sharing online where anybody can read it for free.
+
+If inside specific initiatives, of course those will be out of the realm for whatever will be the perimeter of the initiative
+
+As it has been at least since 1990, when first registered as a freelance in Italy, but even since the early 1980s, when I was first in organized political activities involving activities in Italy and abroad.
+
+Jumping forward to the late 2000s in Brussels, I remember how, having worked only through word-of-mouth, was told, when shared for the first time my CV with an unknown head hunter in Brussels who bothered to invite me puzzled by my "paranoid about disclosure" CV (no name, only dates, activities, industries, locations, and really "sanitized" activities description).
+
+His comment at the end of the interview was that he bothered because he saw a glimpse of the experience on that puzzling CV (and was just in 2008), but could translate his other comments on how difficult had been to extract information to something that my British colleagues would have been called as "sucking blood from a rock".
+
+Therefore, as I wrote recently on Linkedin, I am quite used to compartmentalize information: albeit, frankly, this approach to "sharing publicly if shared for free" is puzzling locals in Turin.
+
+At least for the last dozen years, routinely I had been contacted to be "pigeonholed" in this or that political or organizational tribe- as this is the local forma mentis.
+
+Personally, I think that to seize the opportunities discussed within this series, and launch again Turin leveraging on its local "human capital", current and future investments to retain and rejuvenate (and make more cosmopolitan and less "provincial" and tribal) its local knowledge supply chain, I concur with a politician from the centre-right that was discussed as a potential candidate for Mayor in Turin: he said that Turin needs a moderate candidate that can refresh and bring together the best the location can offer (and attract).
+
+Which, in my view, would extend a bit more: I concur with him (also if I never voted for any of the political parties now part of the incumbent centre-right government) on the "centre" concept, but I think that we need to think wider- we are Italians and Europeans, and what differentiate our social model is not just moderation and staying away from extremism and extremists (as we saw often in the past what they deliver- and not just in the XXI century or after WWII).
+
+Therefore, we would need a real bipartisanship to set up priorities, not just an urban development plan that, frankly, for now sounds a lot like keeping busy, after the 110% and the PNRR, those in building and building renovation, while still generating empty boxes, and little not just to attract the 200,000 more inhabitants that recently have been discussed about, but also retaining the 350,000 that from projections that shared in the past (not from myself, but from reputable statistical offices) Turin was considered to be "en route" to lose over the next few decades.
+
+If you have a town that had over 1,000,000 inhabitants, now is under 900,000, and overall needs to attract plus retain an aggregated of around 500,000 (or more), just empty boxes are not enough, and also is not enough to keep going around launching brilliant concepts to get funding from somebody else for.
+
+It has to be leveraged the territory- and those who would benefit from this set of State, public, private interventions- not the usual small handful of "control freak" that would rather miss not one, but a dozen opportunities, than having to share or even transfer control to be able to develop what they blatantly showed to be unable to.
+
+Anyway, as I wrote before, 2026 will be a pivotal year: we will see what will happen- and will share and report what will be possible to share and report- wishing good luck to others who will do likewise.
+
+Only: please, enough "think tanks" and announces of "Turin is the natural destination for <whatever>"- quit "making plans" ("capacit&agrave; progettuale", in local parlance), and start delivering.
+
+
+<b>A data-centric moving forward</b>
+
+Actually, recently added some other material within [another repository that created long ago to share material created to support my publications](https://github.com/robertolofaro/supportmaterial)- in this case, about how to integrate AI.
+
+As I wrote within the introduction and spread as "Easter egg" across the articles, AI is a tool- and, personally, I think that we should get used to a simple concept:
+_ it is more about redesigning processes and organizations than tools
+_ mere recycling of prompts, agents, tools, etc will get you into "copycat territory".
+
+Or: you risk bringing onboard what made sense in another context, drop what made your different, and then unleash a monster that, if you follow the agent/agentic mantra to the letter, might evolve, but constantly diverging from what made your organization unique and its own "mission".
+
+Therefore, as you can see from what I shared online (also on Linkedin), I prefer to share:
+_ "why" and "how" redesigned some processes
+_ "why" and "how" (re)designed some roles
+_ last but not least, how both, since late 2024, are part of my daily routine.
+
+The idea is sharing a conceptual toolset, give example of applications, and then let you do what you think is useful for your organization.
+
+Of course, as any consultant, would be interested in specific missions- but, as I did for methodologies in the early 1990s, and organizational development and cultural/organizational change later, I think that "reference" should be always filtered by an "adaptation" layer derived from an assessment of your capabilities, real status, and a "wave" of evolutionary elements that could generate benefits incrementally and within a properly managed feed-back cycle.
+
+Meaning: I routinely turned down "tremendous opportunities" for "big bang" changes- as way too often taper over complexities, streamline assessments, and distort perception of capabilities to converge toward a simplistic "one size fits all" or "we want it all, and we want it now" that is just of the opposite of a more "political" approach to cultural, organizational (and, yes, also technological) change that personally found more productive.
+
+Beside the data and other material supporting this multi-part article, frankly, designing its concept, researching to cross the Ts and dot the Is, and writing were useful also to "ground test" some collaboration activities with various online and offline AI models: on purpose, asked multiple online platforms to analyze the first part of this article, a long and extensive analysis and summarization prompt that developed based on my experience in developing a "Devil's Advocate" similar test, and then cross-matched and challenged them.
+
+Finally, after this disclosure (including sharing which model and why I had selected, after receiving questions from the models about the unusual choice), assembled a new version, and tested it offline using a local platform (if you are technical: ollama plus GPT4All plus open-webui, see [for more information about models configuration](https://github.com/robertolofaro/supportmaterial)).
+
+The concept? Having my own article criticized by a team of models (technically, MOE) with different roles (including a "contrarian"), mimicking a bit the "six thinking hats" of De Bono plus my usual approach in change + Devil's Advocate, to have my own ideas challenged before moving forward.
+
+Yes, I do not use models to write in my place- I use them to help me have different perspectives, and this was a first test.
+
+Albeit the results will be within a couple of mini-books that would like to share by June 2026, one about the "processes", selecting a few, and one about "roles".
+
+The idea is simple: as many others, I do not think in terms of "bringing AI into the corporate fold", but in terms of "redesigning around capabilities"- human and non-human.
+
+Which is why called that series of mini-books "BlendedAI" (the first Easter egg joke was [about the 36 stratagems](https://leanpub.com/blendedai01)).
+
+The data and objects release for this multi-part article will be a bit more structured that in previous cases, also because, again using myself as an experiment, I am "testing" different ways to document (I am big fan of "reproducibility" and "explanation", as well as, old business habit, "audit trail").
+
+My key venues for such a sharing, since 2019, are my [GitHub](https://github.com/robertolofaro) and [Kaggle](https://kaggle.com/robertolofaro) profiles, but already prepared to use e.g. [HuggingFace](https://huggingface.co/robertolofaro)).
+
+
+<b>The end of the beginning</b>
+
+I will repeat what I wrote within the closing lines of the first published part of this article:
+
+As hinted by the references to courses, AI courses, etc, I am think that in the late 2020s accessible and democratized GenAI is akin to now having a mobile, or not having in the past an email address, or even, decades ago, doing with computers what in ancient time was considered writing: a "technicality" to be left to experts, while at most those above would learn to read.
+
+Well, the amount of data (and potential distortion of analysis) improved with our current AI, as, by being trained on existing material on a level that no individual human could read or absorb, the systems are able to write convincing material out of selective choices, enabling even those without any skill to produce defensible arguments that could fool individual experts.
+
+Hence, we need to sharpen our critical skills- exactly the opposite of the results that those proposing "ready to eat" shortening of school curricula by dropping what they define ballast (all material related to thinking: from philosophy to history, etc) would obtain if every school in every country were to focus on accelerate "knowledge transfer".
+
+This and other future articles will show how actually we live in a complex world where not only you have to acquire critical thinking skills, but also keep them fresh.
+
+I will give you a practical example: when in late spring 2025 was at least told that a program management role was postponed to at least November, of course knew that there would be little potential for missions in Italy during the summer.
+
+Hence, worked on some data and AI projects to support my publications, and courses and experiments.
+
+Part of that implied working on rebuilding a "knowledge network" online- and so started connecting and commenting more.
+
+Results? Less than 4,000,000 views before April 2025 became less than 6,000,000 by end of the summer, and on 2026-01-03 passed the 7,000,000 threshold.
+
+Which is not just a "vanity metric"- as actually other features on my website allow me which articles were read in which order (you can use them as well- look for the "latest read"), while the acceleration or deceleration allows to see when those e.g. 20k+ reads between 2026-01-03 and 2026-01-04 happened.
+
+Which, in turn, along with the mix and sequence, and number of reads per article, allow to see which material attracted more visits and when.
+
+Along with that "networking via communication and publishing", used my own website revision and publishing processes to test on my own specific needs what I was learning in courses and workshops- including spending few week-ends to attend courses that included a significant "hands-on" side.
+
+And, in the process, selected, reselecting, pruning my selection of models and creating templates for my publication activities (on the textual side, I am almost there with my "support agents" specifically tailored to my needs and publications, but on the visual side I did experiments but still need to optimize, before adding further material on [my YouTube channel @changerulebook](https://youtube.com/@changerulebook)
+
+So, for 2026, while some of those efforts will help in accelerating activities in my future missions (I am a big fan also of the "I want AIs to do my laundry and dishes so that I can focus on the creative side"- in my case, beside hopefully one day the former, for now delegating part of my knowledge processing and storage is enough). will keep sharing.
+
+And now, I wish you all a good beginning of the working side of 2026.

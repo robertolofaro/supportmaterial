@@ -1,0 +1,665 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250909_article.png)</center>
+
+This article is a kind of experiment- planned to release it on 2025-09-05, but first decided to review some further material and media reactions to news on Saturday, Sunday, and Monday, adding just online on my social media profiles on [Facebook](https://facebook.com) and [Linkedin](https://linkedin.com/in/robertolofaro) some news from media with my comment.
+
+The concept is simple: as I do not plan to have that much time available from October 2025, started a while ago to routinely post comments and links on Linkedin, retaining the link to the originator of the post or paper I am commenting on.
+
+Therefore, few articles ago, started transforming my articles into connecting storytelling between pointers that I had already published online, storytelling used then to deliver further material within the articles.
+
+Leaving to readers the options: wait for articles, read the comments and posts and links as they are released, or even do both (plus, at anytime, follow the sources, when available, to make up their own mind- I am a strong supporter of the "agreeing to disagree" principle of communication).
+
+Which implies: from now on, will include in each article a "preamble" section that will give you a quick roadmap between the themes of the article.
+
+Not an "executive summary"- as the preamble will be actually prepared as both introduction of the article, and outline of the whole article.
+
+I hope that this will make articles also more AI-friendly, as I do expect that more and more will just ask a summary, before reading an article.
+
+My review material included, beside the usual business documents about trends, demography, technology released over the last couple of weeks, also two documentaries, on the development of the neutron bomb and the reasons for its demise in the USA, and the development of AlphaGo and, of course, AlphaFold.
+
+Why those two? Resonated with some concepts within the "mental roadmap" for this article and the experiment approach.
+
+Will discuss it within the conclusions, along with why the two documentaries are relevant- consider this article, my first one in September 2025 on this website, to be an example of the results of the concept.
+
+Cultural change might start with an idea- but cannot avoid an assessment of reality on the ground.
+
+This article is focused on blending our current obsession and that "assessment of current reality", to help move forward:
+_ preamble- introducing the themes discussed in this article
+_ human-AI collaboration and impacts
+_ moving forward: evolving Cxx roles
+_ moving forward: a business case
+_ conclusions and next steps.
+
+Yes, I will use examples from Europe, Italy, Turin- as since 2012, after I was made to return from Brussels, I considered my presence here a study of my birthplace, where I had not really lived since the mid-1980s.
+
+Anyway, will discuss the political and social side explicitly in another article that will be published next week- about our current status (in Italy as well as in Europe), reforms, and evolution.
+
+For over a decade Turin has been more an object of study, than a place of dwelling (as, whenever I had missions that required presence in Turin, got a temporary dwelling there- only once, in 2015-2018, considered settling there, and became also formally resident- you can read some funny results of interacting with local bureaucracies [here](https://leanpub.com/citizenaudit)).
+
+
+<b>Preamble- introducing the themes discussed in this article</b>
+
+Despite the title, this article should be considered an add-on to a 2019 article that quite a few read- [An #industrial #policy ? Can be sustainable by the #local #business #culture ? #innovation #industry40 #Italy](index.php?page=379).
+
+In reality, that 2019 article, in turn, was an add-on on a previous article (in Italian) about the same concept- industrial policy.
+
+Time flies, and it is better to re-assess periodically any position or impacts of any prior choice, to adapt, align, and re-forecast.
+
+In that 2019 article provided some charts with historical data 1951-2011 on the structure of Italian companies-notably side- and briefly looked also at another change, the level of urbanization, and shared a link to statistics about mobility in Europe.
+
+Why mobility? No, not because I was born in a company town, Turin, focused on automotive, but because our current obsession with AI and its uses, or how far behind each company is vs. where should be in its use (why?), we forget that we should actually focus on the bigger picture.
+
+As closed that article: <em>"An #industrial #policy isn't just about #manufacturing or the #knowledge #supply #chain - it is about #people, #infrastructure, and other enablers
+
+Including revising society choices on living and working
+
+While designing a new industrial policy for a future expanded urban society and its mobility needs, it is worth considering in data what, despite the discussions and perception, is current reality"</em>
+
+Never forget the context:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_1_01_20250629_youarehere.png)</center>
+
+For all our pretense, and ability to restructure our environment, we humans are a bit of a bit of a bit of a more complex ecosystem.
+
+Actually, since I was made to return to work in Turin over a decade ago, online and offline often heard uttering the concept of "ecosystem"- but it was akin to the overuse of "philosophy": in the end, from what I observed, the concept is used really to look at yourself in the mirror, and imagine that what works for you works for all the world.
+
+Few really consider that an ecosystem is something you belong to, not something that you manage as a god and that will follows all your pre-digested plans.
+
+The world is large- and an ecosystem is not a solar system with your company at the center, it is a blend of interactions, where the mass of each component distorts the space where the ecosystem is.
+
+Our human societies will evolve, also due to the potential demographic evolution:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_1_02_20250819_population-peak-by-country_website_aug19.jpg)</center>
+
+As I wrote in many articles since mid-2000s, changing demographic mix implies that what could be a development and consumption model useful post-WWII and in the 1950s, might require significant change.
+
+If we live longer and get older, there will be more demand for services that were marginal when the average life expectation was under 40 (early XX century).
+
+If we were to retain cognitive abilities at full potential well into our 90s (an age that most people in developed countries will be available to reach, from data that shared in previous articles), then it will not make any sense to talk of retirement as sidelining.
+
+Actually, the 4-days working week is already a starting point.
+
+We can start now- by challenging our own boundaries of ignorance continuously, to retain mental agility.
+
+In the 1990s-2000s, I can witness how expensive was to keep learning, unlearning, relearning.
+
+In the 2020s, we have plenty of free micro-courses whenever something new appears on the market, cheaper computer hardware with more capabilities and ease-of-use, coupled with free or almost free online computational abilities (not just AI- also what is needed to make both AI and traditional systems work), plenty of "Lego-style" bits of technology...
+
+... all that you can connect and integrate courtesy of a continuously expanding array of standards that expand the possibility of seamless interoperability.
+
+As shared almost two decades ago in my contribution to a book for marketing directors released by a paper company in Brussels (it was a co-writing mission), smartphones by mid-2000s had already been identified by the International Telecommunication Union as a key enabler for mobile Internet and user experience (you can see a later development within my mini-book [BSN2013](bsn2013)).
+
+Shifting now to the themes discussed in the further section of this article.
+
+The <u>first theme</u> will discuss how all the above fosters the adoption of human-AI collaborative practices, and will share some examples of caveats.
+
+As a consequence, we will need to redesign the organizational structure of companies: many currently focus on reducing "frontline" jobs via automation.
+
+In reality, we need to redesign vertically our organizations: as we say in other domains, ["the fish rots from the head"](https://en.wiktionary.org/wiki/the_fish_rots_from_the_head).
+
+A blunt statement, but useful to avoid doing what we have been doing often with globalization: focus on costs, not on structural impacts and long-term impacts.
+
+In our future, when staff will be a blend of humans and technology (not just robots or AI- things that will come in the future), we need a different approach to management.
+
+Also because even human employees will bring onboard their own personal interactions and "tools" in their own blend of humans and technology in their private life.
+
+Hence, <u>the next theme</u> is discussing few examples of redesigning Cxx roles- this time, will refer explicitly to the CIO, as worked across the decades with many of them in different environments and cultures, sizes, organizational structures.
+
+Then, as my birthplace is Turin, a former automotive company town that was nicknamed in the past the "European Detroit", <u>the theme will be transformation</u>- both of the company town and its leading champion.
+
+I shared in the past [many articles on the automotive industry past, present, future](search.php?tag=automotive) (including book reviews), but this sections discusses transformation from a communication perspective, considering the new context we live in in the 2020s (discussed in this preamble and the sections with the first and second theme).
+
+Since the appointment of the new CEO of Stellantis, there has been a stream of announces (and reactions to some of them) worth discussing as an example.
+
+Finally, <u>the conclusions</u>, where will link the introduction, the key points from each one of the themes, and will hint at potential further developments- focusing on motivational impact of the communication side of change.
+
+As I wrote within the introduction, the proper political side, both at the local, national, supranational level will be discussed in the next article (current plan: release next week).
+
+And now, some practical elements of the forthcoming human-AI collaboration.
+
+
+<b>Human-AI collaboration and impacts</b>
+
+By the end of 2026, PCs with integrated AI are expected, according to a recent report by ComputerWorld, to seize over 50% of the market:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_2_01_20250828_ai-pcs-by-2026.png)</center>
+
+For now, I add the AI side to my PCs externally (in 2017-2018 was a USB-based Movidius with a neural network, now I routinely use an e-GPU): I do not play games that require a GPU, and my computer activities often do not require GPUs- so, I use a blend of offline "spot" resources when needed, and online facilities (e.g. [Kaggle](https://kaggle.com/robertolofaro), [HuggingFace](https://huggingface.co/robertolofaro)).
+
+I do use models locally on my laptop, but mainly for RAG and brainstorming- and, therefore, not using either a GPU or an NPU is fine, for my uses.
+
+Anyway, with the next PCs that will eventually buy, I do expect to have not choice- both probably will be pre-installed (hopefully with a much lower energy consumption)- and, therefore, already started few months ago redesigning some of my computer uses.
+
+Also because ordinary software will come with AI embedded (already Copilot is self-installing everywhere within the Office suite), and will probably expect to have an AI-enabled PC to work at full speed (and with full capabilities), in 1-2 years.
+
+Few days ago, as did since January 2025, on one of my oldest social media profiles (2007, but invited long before), posted a short article, this time sharing also some practical AI experiments- see [sharing something that might be reusable (and free)](https://www.frype.com/blogs/post/sharing-something-that-might-be-reusable-and-free_17750608) if you are curious.
+
+Each month since January share a picture representing a statue from the 12 Months Fountain in Turin, pictures that took long ago for the purpose of testing model-generation (specifically, LoRAs) on CivitaAI, to see if I could convert my travel pictures into models to allow others to replicate the location.
+
+From the credits that receive (that can be used within the community), apparently some found the model (and the next one that build about the Gallo-Roman Theater in Lyon).
+
+So, shared some of my tests on AI services that I assumed could be useful to others in that (non-technical) community.
+
+The key concept, in my view, of Human-AI collaboration is that reaches everybody.
+
+You can be an expert in the nuts-and-bolts of AI, you can be a business user, or a business user who, as Virgil in the Divine Comedy, guides Dante through hell (yes, I know- Tom Clancy used the "Virgil" as personal digital assistant decades ago in the NetForce books), or even just an occasional user via your smartphone.
+
+In any case, also when you do not know, a bit of "smart digital" already entered your life, and there are models munching the data that you, notably if you live in urban areas, generate on a daily basis and it is collected by machines even more frequently (by integrating with other data).
+
+Therefore, if it reaches everybody, everybody should get used to be both a producer and consumer of AI- and take over the role, whenever relevant, of sharing feed-back, to help others  potentially benefit from the time you spent on learning those lessons.
+
+And, actually, if you explicitly are using AI, like it or not, anonymously or with "data tagged with your name", you are already sharing feed-back, lessons learned, etc.
+
+A consequence: while in the past you could learn something and then use it for all your life, with PCs it started already being something more hectic- up to the point that companies, instead of jumping on the latest version of, say, Microsoft Office or Microsoft Windows, always introduced "buffers" of time, as a rollout and re-training are not cheap, and take time.
+
+Now, if already large customers complained of planned obsolescence requiring every 2-5 years to upgrade hardware just to obtain the same results as before, it is not feasible to have those revisions every few months, few weeks, or even continuously.
+
+Hence, also IT support has to evolve, in terms of risk management- certainly for end consumers, but, more importantly, for business users belonging to a diffused community, such as in multinationals.
+
+The interaction of internal (within a corporate playbook) and external (consumer-side AI) will have significant impacts- but shared already in previous articles that this is a reason why, after the first book on [BYOD](byod) a decade ago, and the second [few years later, focused on the theme "you are the device"](byod2), I am working on a third one.
+
+I walk the talk- and, beside longer courses that followed in the past and follow routinely when relevant, got used to follow people on Linkedin who actually share pointers whenever new material or mini-courses appear- often free.
+
+Which people? I always worked as "bridge" between experts and those using their expertise, and my focus is on change.
+
+Anyway, all my past business activities generated a bit of expertise breadth supported by practical experience as team member or leader in various domains ([see a sample here](cv)), and therefore adopted a "composition" approach.
+
+Which implies that add not just those I have to learn from, but also others who have more or less part of my background, and represent different perspectives, and, furthermore, publish online where many more can access, and, on social media, add also others who maybe are just starting now, but could give a different perspective, spread information, or eventually they themselves become experts or "bridges".
+
+For example, few days ago shared first with connections, then on Linkedin what with friends call "another one bites the dust" (it is my joke whenever I complete a course):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_2_02_another-one-bites-the-dust.png)</center>
+
+There is a document from OpenAI with the title "staying ahead in the age of AI" that I was made aware of when released via a post by Andreas Horn (you will see on my Linkedin stream that he is one of the people writing about AI or sharing AI-related material about business whose posts I like or comment regularly), paper which adopts an approach similar to the Software Engineering Institute's Capability Maturity Model that saw used in the 1990s as part of one of my roles on cultural and organizational change:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_2_03_20250905_stayingahead.png)</center>
+
+The paper is short but to the point, and could allow you and your organization to understand not just how you can use AI, but also, considering your organizational and resources constraints, how you should use it- but you can also see the other maturity models I referenced in that Linkedin post.
+
+Anyway, if AI becomes part of your organization, you should also consider a revision of your cybersecurity policies.
+
+And there are additional risks, due to the specific characteristics of the technology, that is based on human knowledge and adopts a human approach to communication- which can become misleading.
+
+Let's start looking at the future: what if we were to use AI to remove bottlenecks? 
+
+Would it really be all positive?
+
+A recent (2024) Spanish movie gives an interesting collection of ethical pointers, considering a potential future:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_02_04_ai-and-justice.jpeg)</center>
+
+We are already seeing impacts on end users of conversational AI, up to the risk that, the way the models' conversational side is design (are products, aren't they? hence- used to drum up business), can have manipulative side-effects:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_02_05_emotional-manipulation.png)</center>
+
+Anyway, do not think that this impacts only ordinary people: also professional such as doctors, according to recent studies, are taking on board some risks:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_02_06_doctors-dependency.png)</center>
+
+I would like to share few further recommendations more on the "why" side of AI:
+
+1. qualify both hype of its potential and statements about the demise of AI:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_02_07_qualify-failures.png)</center>
+
+2. do not listen too much to advisors trying to elicit from you a "Fear Of Missing Out" if you and your organization do not just on the latest shiny tool- look at the bottom line, as much of the real value generated by AI in business today is still "old" AI (expert systems, machine learning, etc):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_02_08_old-ai.png)</center>
+
+There are more dimensions to consider within human-AI collaboration, and already discussed this point in previous articles.
+
+Anyway, the purpose of this section and of the "preamble" section was actually to give you reference points to build a mental picture at a systemic level.
+
+Because AI is not about selecting a single tool: also if we were to have the famous "General" AI, able to resonate our human reasoning approach, which naturally contaminates across knowledge domains, there could still be more perspectives.
+
+So, in the future, as in the past you used multiple human advisors, you could end up using multiple human and AI advisors- but you will still be accountable for the decisions that you will make.
+
+Before leaving this section, would like to discuss another point: hallucinations, the elephant in the room of GenAI uses.
+
+We have an anthropomorphic attitude toward AI, which is also a good and cheap way to excuse ourselves from adopting poor engineering (and conceptual/philophical/"pedagogic") approaches.
+
+Or: if we can claim that AI models "think", "understand", "learn", our sloppiness in filtering information and tailoring how information and interactions involve those models becomes a matter of "fate" (or even "personality").
+
+If more AI experts were to design models with a team including social scientists and HR experts (or, at least, more modest cultural and organizational change consultant like myself), models would be built considering more the "social integration" (meaning: human and AI collaboration) side.
+
+Already in the late 1980s, in some Decision Support Systems projects where I was along with the customer since inception to design the models, saw how common practices in rewarding e.g. sales managers or external sales distribution networks generated distorted budgets and poor value for customers.
+
+Meaning: if you e.g. give a choice between working hard and getting a reward, and working harder and getting the same reward, do not be surprised if, then, when asked to set up their own targets, people would set lower yet feasible targets, and postpone that "harder work" part to the next "reward cycle".
+
+If you generate negative incentives and go neutral on risk taking, do not be surprised if then people take risks to avoid those negative incentives.
+
+Anyway, will let you read a summary of a recent paper on the source of hallucinations:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_02_09_whyhallucinations-summary.png)</center>
+
+The paper commented in that post, [on OpenAI website](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf), was released in April 2025.
+
+As outlined in a comment to the original post, there is a further paper, released by Anthropic (the Claude company) in April 2025, that includes also an executive summary: [you can read it here](https://www.anthropic.com/research/reasoning-models-dont-say-think).
+
+Yes, in the end... it is all about data.
+
+As shared earlier this morning (before reading those two papers) in reply to another post from another one of the informal members of my "mixture of experts":
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_02_11_it-is-about-data.jpeg)</center>
+
+Now, what does this imply for leadership roles?
+
+
+<b>Moving forward: evolving Cxx roles</b>
+
+First and foremost: before talking about Cxx roles, better to talk about what shape leadership will take in the future.
+
+I will start with a couple articles Deloitte:
+_ 2024-05-31 [Designing for growth in the C-suite](https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/designing-for-growth-in-the-c-suite.html)
+_ 2025-03-14 [Designing the C-suite for generative AI adoption - As gen AI adoption evolves, technical and regulatory skills are now often table stakes for the C-suite. How can organizations equip leaders with the skills to navigate new AI demands?](https://www.deloitte.com/us/en/insights/topics/digital-transformation/gen-ai-adoption-in-csuite.html)
+
+Both are interesting reading, but the first one provides some interesting data to start the discussion.
+
+Caveat: it is the result of this activity: "To help understand how organizations are designing for growth within the C-suite, we analyzed over 46,000 C-suite job postings on the open market between 2018 to 2023 to gain insight into the most in-demand skills and experiences for six C-suite roles: chief financial officer (CFO), chief operating officer (COO), chief human resource officer (CHRO), chief information officer (CIO), chief strategy officer (CSO), and chief revenue officer (CRO)".
+
+We know how inflated often are some of those announces: in a market where business needs require more and more adaptability, many of those potentially appointed to those roles have been building up a career using older paradigms.
+
+Therefore, if a company looks outside for talent, because an assessment has been made to look outside, has to "spice up" announces to attract those who actually do not match its own current culture.
+
+Personally, along with announces, I would look also at the retention once those announces resulted in actually hiring somebody.
+
+I wrote in the past articles based on my experience on the "operational" side of M&A (and divestiture) for customers- from preparing yourself before acquiring, to revising to decide what should be withdrawn or transitioned toward others, to outright acquisition, post-M&A integration, spin-off, de-merging of activities and systems, outsourcing and externalization as BPO.
+
+You can have a look at summaries of some missions within my [CV page](cv) and attached CV.
+
+The key element to remember is simple: that you import a technology that affects how you work and your degrees of freedom in operating (e.g. an ERP), or that you hire a person bringing a different mindset, it is a matter of cultural change and transformation.
+
+While with ordinary software that transformation (e.g. in SAP "customization") might be one-sided (until you have to re-integrate again changes into a new version), with people and AI that has a "learning" element that concerns all those involved.
+
+Anyway, so far, retaining the collaboration of people, notably at the Cxx level, has been proved more difficult than retaining the collaboration of AI.
+
+If a company really needs those "chief of" (and it is not as some "CEO" of themselves or a dozen of employees, or "CIOs"of half a dozen people), chances are that it has a vertical structure, and processes associated to each layer.
+
+With many roles focused on pushing paper and process steps a layer up or a layer down.
+
+Adaptability requires instead to build horizontal "coalitions of the willing"- but it is nothing really new or just related to AI.
+
+I know that the literature talks here about strong matrix, weak matrix, balanced matrix, project-orientation, and a long list of other concepts that alter every few years, to generate demand for services.
+
+Anyway, the first time I proposed, in the 1990s, as part of cultural and organizational change activities, a "matrix", the concept we agreed to was less hierarchical, and more knowledge-oriented.
+
+The idea was to have projects or activities led by those who had the main focus of expertise on the key domain involved in a specific activity, involving people from other domains.
+
+These people would still be part of the own original domain-specific community (e.g. finance, IT, operations), and become involved temporarily- and then return to their own domain, after:
+_ leaving behind an understanding across the activities team of what they had brought to the activity
+_ bringing back to their own community an understanding of the key domain involved in that specific activity, and of how they had contributed
+_ adding or reinforcing cross-domain connections and mutual understanding, and also at least a minimal understanding of the contributions of others.
+
+This way, each domain-specific community would still be the point of reference for its own domain (also to justify domain-specific continuous improvement and learning), but with a mutual understanding that, before any part of the organization launched even an internal change, would also consider potential cross-impacts or needs to assemble a multi-domain team.
+
+Jump to the 2000s, 2010s, and 2020s: I still saw too many projects where e.g. legal was involved way too late in the design of systems that actually affected potential compliance or data privacy issues- more a "sign-off" culture typical of past vertical organizations.
+
+Beside the analysis of job posting, the first article linked above provides some recommendations:
+_ adding reverse mentoring for Cxx, i.e. younger staff members acting as "antennas" to allow Cxx to keep aware of emerging trends and skills
+_ revising the succession paths, to expose potential candidates to key quantitative, risk, and regulatory issues
+_ designing for incremental change management-
+
+Frankly, nothing really that innovative, at the conceptual level- yet, as shown within the article while discussing the case of Unilever, requires a significant and continuous structured effort to assess what is and will be needed, and manage long-term career path beyond the mere traditional hierarchical approach.
+
+And while many organizations assume that they have the latter, it is the "continuous structured innovation" element that is missing.
+
+From those two articles, three visualizations stand out:
+_ about the skills mix for Cxx
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_3_01_skillsmix.png)</center>
+
+_ about the increase in demand for "systemic" understanding (regulatory, risk, etc)
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_3_02_regulatorydemand.png)</center>
+
+_ about the key "roadblocks" on the road to the adoption of GenAI in business.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_3_03_risksai.png)</center>
+
+As discussed within the preamble section, too many organizations just focus on how many frontline (or entry level) jobs they can replace by automation.
+
+Forgetting, as shared often in posts on Linkedin, that if you remove entry level jobs you remove also ways to learn through experience.
+
+Despite all the time that spent in my business life number crunching and revising or negotiating budgets, contracts, activities, I think that the quantitative side should take second fiddle to an understanding of social dynamics within the organization and within the ecosystem.
+
+You can communicate about data, but "how" and "when" impact more than "what" you communicate, if you are more than one-person band.
+
+As the "why" that is perceived matters more than the "why" that you intended, if you need the collaboration of your audience.
+
+And, if you are a Cxx, in our current dynamic environment, I think that you do not need just a few younger "antennas" to help decode emerging trends- all the organization should turn into one.
+
+Whenever worked in larger organizations, I usually looked for those who were complaining but showing an understanding and access to information about what they were complaining about.
+
+In larger organizations, usually those people are instead sidelined as "difficult" or even "annoying", a kind of "in-house Cassandra".
+
+Personally, I found often that they actually were a resource to the organization.
+
+Anyway, those few had also to have skills to extract, filter, structure information- which reduced their number.
+
+AI and other data-related technologies can actually help: in the past, that decoding role required a special mix of skills that was not easy to find and build.
+
+If you read the previous section, human-AI collaboration is a key organizational enabler to augment those grumbling yet knowledgeable people and help them unfold their potential as a resource to the organization- and also increase their retention.
+
+As I wrote in the previous section: "In our future, when staff will be a blend of humans and technology (not just robots or AI- things that will come in the future), we need a different approach to management".
+
+Instead of a "command and control" still too common, more of a catalyst management that is able to generate value not just for the organization, but also for those involved in generating that value.
+
+The boundaries of the organization will evolve, and we should also get used to the idea that an organization in the future will not have a size, but a size related to purpose.
+
+Instead of growing, will make more sense to expand when needed (considering within the expansion also external suppliers, consultants, etc), and contract when not needed.
+
+It implies also the remuneration approaches will have to change- as even your own employees might have use and access of technologies and information outside the organization that could temporarily be beneficial to the organization.
+
+So, a Cxx more as an "orchestra director", and an organization as an "event with multiple orchestras".
+
+As for technology per se: not just from 2025, I think that we should reconsider the role and concept of CIO, as bluntly told in a reply to a recent post:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_3_04_chiefscribe.jpeg)</center>
+
+Cryptic my comment about "Chief Scribe" within the post? 
+
+Well, a bit of history will help.
+
+We assume that writing and reading are two skills that should be learned together but, frankly, it is akin to those that assume that being "fluent" or "native" in a language implies that you can read, writing, speak, understand fluently that language across each domain.
+
+Centuries ago, reading was a sign of culture, writing was a "technicalities".
+
+A little bit as our use of computers until few decades ago- that shifted first when computers became affordable, then with smartphone, and then with tablets.
+
+Being a modern "scribe" that uses a smartphone, computer, tablet is almost taken for granted.
+
+If you refuse all of them- then, you differentiate.
+
+The more a technology will become common, the more people will be knowledgeable about technology even without formal training by the organization they work for: you are assumed to be able to write and use those current basic tools without any formal training from your employer.
+
+In the late 1990s to early 2000s, with PCs and the first commercial uses of the Internet, we had cases of "shadow IT" that went as far as having corporate data leaving the premises, going onto a SaaS whose monthly fees were below the ICT authorization threshold, receive information back, and make business decisions on data that had been transformed- all without any prior vetting on security, algorithms and further data used within the transformation/assessment/etc that was used by the external company- or control on what that external supplier did with data.
+
+In the 2000s, most companies plugged that hole: not because they were "control freak", but because those practices could import risks and generate compliance issues.
+
+I wrote "most", and not "all"- because still in the 2010s I had contacts with startups that offered similar services using a similar approach (bypassing ICT).
+
+In the 2010s, it was the time of "bring your own device", what I shared above about the two mini-books that published, i.e. employees that used a tablet or smartphone to connect with corporate systems.
+
+Eventually, many companies decided that was easier to provide devices with rules (hopefully respected) to use them only for business purposes, than managing the security and compliance nightmare that was needed to allow employees to use their own devices while having a separate area on the same device for corporate uses.
+
+In the 2020s, we are starting to see more and more "shadow AI": but solutions of the past will not work now.
+
+Because you can forbid etc, but if your ICT response time to make a choice is measured in semesters or years, your old software or hardware selection approaches will generate more opportunities to business users to try smarter ways to use now the technologies that they assume that are needed.
+
+And the low- or zero-cost entry point of most of those cloud-based AIs implies that smarter business users will simply start using them assuming that, if they mask or mildly distort information that they provide to the AI, they will not violate corporate rules.
+
+Obviously, if you do not disclose data but disclose concepts, this could still influence and disseminate information.
+
+Hence, my concept above: information technology in the late 2020s needs a different approach- more based on end-user responsibility, accountability, and, of course, raising awareness and continuous learning.
+
+The idea is to use an approach similar to that kind of matrix that discussed above, to ensure a "lean" response time by ICT, i.e. to accelerate to the point that there is almost no delay.
+
+More than software selection, ICT (including AI) experts should become in-house consultants able to deliver micro-support activities from the early stages, not just the routine approval, vetting, etc.
+
+Which implies: while a Chief Technology Officer still makes sense, to manage continuity of services, the balance will shift toward a more business- and data-oriented one with a collaborative approach based on continuous experimentation followed by conversion into projects or products or services.
+
+The point then becomes impact and governance- and value-driven approaches, not jumping on technological bandwagons (brace for quantum and quantum-based encryption, coming soon.
+
+Personally, I think that the ICT budget, in the future, will be more a matter of collaborative budgeting with experts from business domains, technology, human resources, future collaborative human-AI expertise, data.
+
+Will current ICT staff be able to evolve into a consultative and collaborative model, and accept faster and faster cycles?
+
+Probably, the first step should be have a look at your organization, a traditional "as is", but looking not just internally to ICT- also to interactions with the organization across the whole lifecycle.
+
+Then... how will you call it, and how will be positioned within the organization, depends on your own organizational culture, business structure, and needs.
+
+You can also keep calling this facilitation and orchestration role still CIO, but if you were to transfer into the late 2020s to early 2030s a pure continuity of existing organizational structures and processes within ICT delivery, you will risk to destroy value while losing talent, and becoming more and more "captive" of vendors that will adapt and evolve.
+
+Until actually they will be the ones really defining your budget: if you complained about "planned obsolescence", prepare for "continuous obsolescence".
+
+Going collaborative is not a choice- is a need, and begins with integrating communication within the whole lifecycle of choices- from decision-making, to end-of-life.
+
+And, anyway, all this implies a completely different approach to communication.
+
+Long ago, some Bit Tech had a rule to let only few "talk" on social media- but was a "control freak" rule.
+
+Now, it is the opposite- albeit, frankly, sometimes those that communicate should remember the key rule that shared in a post online few days ago (that will be within the next section), and was discussed today within an article on Il Sole 24 Ore, the leading Italian business newspaper: coherence.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_3_05_leadership-communication.png)</center>
+
+Still, despite all the risks, better to hire a communication coach or "content assistant for the CEO" (Paypal is following a similar approach, albeit with a title of Chief of CEO Content), than have a rollercoaster on the stock market whenever a puzzling statement is issued from the top.
+
+While the first two sections were respectively an introduction and a discussion about human-AI collaboration and its impacts, this third section was about concepts on how the relationship between Cxx and employees could evolve (in my view, should evolve)- not just because of AI, but due to the need to integrate adaptability within any organization large enough to have a structure with real CFOs, CIOs, etc.
+
+The concept is: everyone of your organization's employees, from the top to the bottom (and viceversa) becomes part of an ecosystem that gives feed-back to the organization.
+
+AI and other technologies can help in collecting, filtering, collating, digesting all that continuous stream, helping to pre-empt crises: not because somebody at the top has a crystal ball or can see and hear everything, but because information moves around fast and reaches those concerned without organizational delays linked to internal politics, grudges, and simple lapse of judgment about which information should go out.
+
+Also, because this approach to feed-back will avoid the fear of retaliation ("shooting the messenger").
+
+Now, let's see a case about communication within transformation.
+
+
+<b>Moving forward: a business case</b>
+
+The previous section was really about concepts and theory- but let's see a practical case.
+
+As I am based in Piedmont, Italy (where Turin is), I have routinely access to plenty of media and local commentary on news concerning Turin and the former FIAT group, the company that qualified Turin as a "company town" for almost a century.
+
+In this section, I would like first to share a "data narrative", based just on selected news items that build a narrative, starting from late August 28th and up to September 7th.
+
+I must confess: I shared commentary on news routinely via my [Facebook.com](https://facebook.com/robertolofaro) and [Linkedin.com](https://linkedin.com/in/robertolofaro) profiles.
+
+Anyway, as I did not want to write in this section just my feed-back, but wanted to share a data-based narrative, kept postponing this article until I got news items that moved a bit forward from previous public comments online posted by myself, others, and the media.
+
+So, let's start.
+
+During the summer, rumors about incentives to retire (to cut down payroll) from Stellantis Italy were a daily routine.
+
+Italy has a welfare system that includes provisioning should there be a need to temporarily idle part or all of the employees- and, if some conditions apply, a company can ask to access this funding, idle employees affected, and they will get a reduced salary but will not work.
+
+Decades ago, in Turin, it was a routine: and, as there were less controls and technology than now, the joke was that, whenever FIAT had a bout of "cassa integrazione", there was no scarcity of plumbers and electricists in town- as some complemented their reduce salary with unreported "small gigs" in maintenance and other jobs.
+
+So, beside incentives to retire, in Italy there were also news about temporary idling (reportedly 8,000 people).
+
+<em>2025-08-28</em>
+
+Comes end of August, and I received news items reporting that for a plant in Serbia, as locals refused salaries as were too low to live in Serbia, Stellantis was trying to import workers from Morocco (where has other production facilities) and Nepal.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_4_01_20250828_serbia1.png)</center>
+
+Yes, that post was in Italian, but the key concept was: let's accept the concept- it will anyway be a temporary stopgap, as eventually those from Morocco and Nepal or other countries living in Serbia, if they will there long enough, will have to consider the cost of living in Serbia.
+
+There were also other elements within that post- e.g. that when appointed the new CEO the reaction on business media in Italy (e.g. Il Sole 24 Ore, which belongs to the industrialists' association) wrote that it sounded as a temporary solution, as had expected a transformative CEO.
+
+And, immediately, the first announces confirmed the orientation toward the past, more than toward the future, despite the relatively young age of the new CEO.
+
+Announces that included something that sounded so 1970s-1980s automotive: announcing new models (while e.g. was also announced pulling off from other initiatives, and some issues with an engine).
+
+<em>2025-08-31</em>
+
+Well, I will spare you other media items that received- as the (unofficial) list of models expected sounded curious at best, but this item summarizes many of those comments:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_4_02_20250831_newmodelfrom1980s.jpeg)</center>
+
+So far, I hope that I have not lost you, but let's recap:
+_ announces of incentives to retire in Italy
+_ announces of further "cassa integrazione" (reduced salary to stay idle) in Italy
+_ announces that not even locals in Serbia accepted the offered salary, hence the need to import staff from cheaper countries.
+
+<em>2025-09-01</em> 
+
+A curious juxtaposition of two news items on a newspaper website can summarize the confusion:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_4_03_20250901_assessingreality.png)</center>
+
+A minister stating that all plants in Italy will stay open, while it is confirmed that even the key plant in Turin, Mirafiori, will get its share of "cassa integrazione"- that now will reach overall 8,000 employees in Italy.
+
+<em>2025-09-03</em>
+
+Just a couple of days, and another twist: employees could buy shares at a discount, but with the requirement to "hold":
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_4_04_20250903_coownership.png)</center>
+
+First impression: if you are getting hit on the stock market, and offer shares at 20% discount to employees but with the requirement to "hold", giving in exchange some bonuses, there are few considerations that shared with other contacts:
+_ first, if employees see climbing "cassa integrazione", will seek liquidity as they do not know who will be affected next- locking liquidity into shares of the employer that might soon make you reach the list of those idle is quite an expectation
+_ second, the market could perceive that 20% discount + "hold" as a "floor" to the price, and hit again the stock.
+
+<em>2025-09-04</em>
+
+Yet another day, and a further announce: Stellantis will offer a 70EUR a day extra to cover expenses plus the full salaries to Italian employees who will accept to go and work for few months... in Serbia.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_4_05_20250904_serbia_2.png)</center>
+
+Meanwhile, in Turin is announced that since January 2025 more than 1,000 jobs have been lost within the automotive supply chain:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_4_06_20250904_serbia_3.png)</center>
+
+<em>2025-09-05</em>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_4_07_2025-09-05-10-27-50.png)</center>
+
+When it rains, it pours.
+
+Yet another day, and an American company that creates AI chatbots for automotive announces that will leave Italy, firing all its 54 engineers in Turin.
+
+If you consider that Turin clamored to have the Italian national competence center for AI, and obtained the one for AI in automotive, seeing that yet another company leaves does not inspire optimism.
+
+I will spare you other news across the same timespan (late August-September so far) about other companies within the local automotive supply chain announcing reductions etc- up to reading today that, while a new hub in Lyon was announced by DHL that will serve the Italy-France traffic, newspapers reported that a previous industrial location in Piedmont that had been converted into a DHL location is potentially going to shutdown.
+
+<em>2025-09-07</em>
+
+A complicate week, completed by an interview on Il Sole 24 Ore by the CEO of Stellantis:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_4_08_interview.png)</center>
+
+The gist? Asking from the EU actions and funding to support the automotive industry.
+
+Now, after spending few days on few twists about an extra-EU plant, importing employees from the outside the EU, and then justifying the offer to Italian employees so that the Serbian plant can reach its quota (while Italian plants are idle), asking for further funding from the EU is an interesting approach.
+
+Frankly, if the interview had been done at the beginning of this ten day run, it would have been a better negotiating position, and justified choices.
+
+As the interview also re-iterates that from 2026 the plan for Italy will be implemented: hence, presented in a different way, if the interview had preceded the other announces, the communication could have been:
+_ yes, the previously announced plan for 2026 will be activated in 2026
+_ for now, due to market contraction, we will temporarily idle plants while preparing for the new initiative
+_ as expressed in June that there will be tough choices to be made, and will use the cassa integrazione to the full extent, we have a plan of incentives:
+__ for those wishing to retire early
+__ for co-ownership, a sign of mutual commitment to the future of the company
+__ to allow at least some to counterbalance the cassa integrazione reduction, we offer to those willing to help for few months as staff augmentation in Serbia, to be then re-absorbed from 2026 in Italy.
+
+All this coupled with, assuming that the plan for 2026 is indeed going to be implemented, with suppliers. 
+
+Otherwise, which supplier would not look for the exit as fast as possible, looking for another supply chain to join, before other local competitors think the same?
+
+It is just reversing the order of the announces, but would have been a roadmap, instead of seeming a series of stop-gap measures that piled up as a kind of continuous adjustments on the previous announces.
+
+And bear in mind: this just between late August and the first few days of September- because, traditionally, the central weeks of August is when almost all the factories in Italy shut down for holidays.
+
+Time will say if the approach that was followed, that generated piling up of anxiety due to negative signs without a roadmap upfront such as the one within the interview published last Sunday (as it was not just about asking for EU interventions, albeit the title on Il Sole 24 Ore referred just that point), was a choice, a simple sequence of events, or a mistake.
+
+What matters is that the continuous stream of negative announces with ensuing communication adjustments generated, as you can read in Italian newspapers in comments to each news item, an undercurrent of distrust that will take time (and measurable actions) to reset.
+
+My birthplace Turin, is, as I keep repeating, a former automotive company town that was nicknamed in the past the "European Detroit".
+
+Now, I shared in the past my feed-back on a documentary about Detroit, specifically about fires in Detroit and how part of its industrial past was transformed into gardens and something else.
+
+Turin has plenty of premises that have been vacated in some cases decades ago, when really the shrinking down of Turin as automotive predominant center of production in Italy started.
+
+It is a paradox: the more "enabling" announces are made (e.g. years ago the possibility of testing self-driving vehicles within the town, or the CIM competence center, or the aerospace center, or the AI in automotive competence center), the more announces of shutting down, relocation, downsizing appear on media.
+
+2026 will show what Stellantis will do in and with Turin (e.g. the battery research center that was announced a while ago, the circular economy facility, the impact of some Chinese partnership that went ahead, etc)- but, if those "enabling" announces did not convince to expand activities in Turin, or at least retain those research facilities that were already there, there is a need of a systemic review about the approach and the orchestration of way too many announces.
+
+Then, if Stellantis will decide to stay (or, e.g. keep research and "pilot" facilities in Turin because infrastructure is available, staff costs less and there is an integration with the Polytechnic and the advantage of having also the aerospace area that is testing material and concepts that could be useful in future smart city mobility &agrave; la Mitchell)...
+
+... better- but we are not in the 1970s, and national champions have all either been absorbed, or became multinationals with head in a place, feet everywhere, and heart... scattered around.
+
+Something that, apparently, politicians still fail to get.
+
+Anyway: yesterday evening released on purpose all the images in sequence within this article- if you look at any picture in this article, you will see that the link is clearly marked with date, section, and sequence within each section.
+
+A coincidence: it seems that the interview on Sunday was actually what described above- a "recovery" of a communication that had been flipped around, and today's La Stampa (that belonged since a long time to the Agnelli family, currently to its publishing arm GEDI) had articles about:
+_ yesterday's meeting between Minister Urso and CEO Filosa conferming the plans
+_ other articles further reaffirming the 2026 plans for Italy
+_ another salvo of demands to the EU.
+
+The concept is simple: in the 2020s, communication should be considering the impact on stakeholders' perception upfront, as a "fix it again" (a joke my UK colleagues said about the old name of Stellantis, FIAT, following a specific case on a specific batch decades ago) approach that worked in the 1970s and 1980s when communication was filtered by media would backfire and generate more background noise.
+
+Background noise able to mask any positive communication.
+
+As, for now, in the end, most of what was communicated by Stellantis was not unexpected- but it ignored the undercurrent of negative perceptions generated by the sequence of events over the last few years.
+
+Perception beats reality, often: you cannot change reality, but you can change perception if you integrate stakeholders.
+
+Not an easy ride, for a tribal economy used to backdoor dealings and centrally-driven sources of truth.
+
+Anyway, we have to get used to it.
+
+In the end, in the automotive, I insist that we should stop talking about automotive, commercial trucks, etc- and stalk (and plan) instead about mobility.
+
+
+<b>Conclusions and next steps</b>
+
+I hope that you found useful this article, notably the attached material and references.
+
+As for the two documentaries that quoted within the introduction...
+
+... the rationale is: the neutron bomb showed how technology-driven choices that ignore impacts and perception did not work even before our current communication cycles.
+
+There was a phrase assigned to Secretary McNamara within the movie ["Thirteen Days"](https://en.wikipedia.org/wiki/Thirteen_Days_(film)) about the Cuban missile crisis.
+
+While a Navy officer refers to rituals followed since John Paul Jones on enforcing a blockade, Secretary McNamara highlights that in our new era (1960s) the blockade is a communication tool between President Kennedy and the USSR leadership: it is not anymore a ship-to-ship ritual between specialists, it is a matter of general perception that is immediately relayed to leadership that will get a first impression before being told of rituals etc.
+
+Specifically on AI, often I hear concepts that are recycling software engineering approaches that saw in the 1980s: instead, the AlphaGo and AlphaFolds followed a different approach that is based de facto on a continuous feed-back cycle as part of the "learning process".
+
+Exposing to massive reality (Go games, proteins' structures) to allow patterns to "emerge", and learning to ensue.
+
+Old software engineering practices were from a time when resources were scarce: I remember being taught how to look into the assembler dump of a COBOL piece of software to debug it, and how some 1960s software actually coped with scarce memory availability by recycling parts of its own memory for "dual use"- memory and code.
+
+Jump to the late 1990s, and still remember how "teradata" was a company name referencing a "massive" volume of data.
+
+So much that, in business intelligence, on assortment planning, to integrate data from actual sales, the level of details was reduced when moving from daily, to weekly, to monthly, to quarterly reports.
+
+In our times, the computers that I am using now have teradata of disk space, and gigabyte of RAM memory, while earlier this week was announced that the first EU Exascale computer, Jupiter, [will open doors also to startups](https://founders-magazin.de/2025/09/05/jupiter-exascale-supercomputer-startups/):
+<em>
+Research institutes, public institutions, small and medium-sized enterprises, and even startups can easily utilize the enormous computing power. Equipped with approximately 24,000 Nvidia GH200 Grace Hopper superchips, the system achieves a peak performance of 793 petaflops, making it not only one of the most powerful but also one of the most energy-efficient supercomputers in the world. (translated by GoogleTranslate)
+</em>.
+
+It is again about communication and mindset: we need to change our approaches to organizational management considering that, directly and indirectly (via models on e.g. smartphones), employees will be increasingly exposed to innovations outside the corporate confines, and will bring back not just themselves 9-to-5, but also whatever feed-back they have from their own interactions outside the business boundaries.
+
+The aim of this article, as almost all the previous ones, is to generate doubts and shared both information and ideas, not to provide "ready to eat" solutions.
+
+It is a conceptual choice that did also in the late 1980s and 1990s: solutions have to be contextualized- and I shared in the past many of the disasters generated by "best practices" applied "as is" without considering their systemic perspective.
+
+Luckily, technology can help: while there will be a short-term scarcity of people to support our aging, long-living retirees, we will learn how to keep everybody having a more active life longer, instead of secluding people in communities by age.
+
+And eventually further technology (yes, AI and advanced robotics plus smart appliances) will change the nature and structure of families, groups, society- and also the workplace.
+
+Currently, the demographic trend and economic constraints would require economies of scale- and urbanization allows that.
+
+As I was told decades ago from a fellow member of a club I belong to, who was in administration of local utilities, the small town where my parents live nearby Turin had a large territory and quantity of pipelines of maintain, to ensure an adequate level of quality of the water coming from the tap, but had as many inhabitants as a single large building in Turin.
+
+Hence, if our population increases demand of services, for now further urbanization will increase efficiency.
+
+As AI and robotic technology evolve, will become easier to provide most of those services wherever and whenever needed: and we are already seeing a first sign, with some cities that are scattered across a large territory considering to provide a fleet of robotic "on demand" vehicles replacing
+
+As promised, this is the concept of the experiment: if you are focused on "change, with and without technology", as I am, assessing impacts of AI on organizations (business and social) is part of the current elements to consider within the mix.
+
+Hence, following feed-back (also in part due to my posts on Linkedin) and after seeing which articles were most often read over the last few weeks, decided to expand on what already did in recent articles.
+
+Specifically, as an experiment until the end of 2025 will have always a preamble outlining the overall scope of the article- acting not as an executive summary, but as a roadmap.
+
+Then, for articles not focused on AI, a discussion of how the themes discussed within the "roadmap" could be potentially impacted: if you want, re-reading the roadmap within that context.
+
+Then, each section will discuss an element within the roadmap, connecting each element with the next one, and, if needed, revising also the roadmap.
+
+Within each section, will actually add links to previous articles, or include screenshots of posts that released online prior to the article.
+
+Some of the sections could actually have a follow-up in further publications (including commentary on social media).
+
+If and when relevant, will then add a conclusion section (as in this article).
+
+Next week, as wrote above, a different subject.
+
+And will start from this composite picture (that already shared online):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_5_01_composite.png)</center>.
+
+Anyway, I walk the talk- and will keep sharing online some of my experiments- not because are innovative, but because might save others time on their own trial-and-error path.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20250908_5_02_advocate.png)</center>
+
+For now, have a nice week!

@@ -1,0 +1,529 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251018_article.png)</center>
+
+This article is within the "Too Big To Fail 2 In Europe" series- and, sticking with what I wrote within the inception of this series, "will use as reference example(s) from the European Union, Italy, and Turin, my birthplace, but I think that most of the material could have a wider interest."
+
+Yes, an "s" was missing, now added back...
+
+... as, whenever post an article that belongs to a multi-part series, unless I publish them sequentially, I re-read the previous parts before publishing a new one.
+
+For this part, the key focus is on cultural and organizational change blended with digital transformation- and what will further get into the picture.
+
+I had planned to release another article about Turin over the last few weeks, right at the Turin TechWeek 2025 of early October, but then saw all the tell-tale signs of when people are preparing yet another round of announces, and decided to postpone that article, and, actually, to publish that article much, much later this year, after other articles.
+
+Anyway, as you can see on either my [Linkedin](https://linkedin.com/in/robertolofaro) or [Facebook](https://facebook.com/robertolofaro) profiles (or, if you are in for some parody on the news, [the hamsters' take on human reality](https://www.facebook.com/profile.php?id=61580594577830)), I kept commenting.
+
+So, decided to look at a common thread that is emerging in 2025- a redesign of bureaucracies that we had been used to for decades, considering all the current (and forthcoming) technologies potential, plus other articles about the overall context- in Europe, Italy, and across business and society.
+
+Why now? Every other day, there is somebody writing about our "age of uncertainty", or "uncertain times", or anything else expressing the same concept.
+
+Augmented, of course, with endless promises (or endless threats) provided by the integration of Artificial Intelligence, usually written directly as AI or, for those more specific, GenAI.
+
+As AI "per se" is still associated with a specific set of expertise, while the current AI focus is on various forms of AI that disintermediate access to technology, e.g. by using ChatBots, and soon also by using physical AI elements interacting with humans (not necessarily robots). 
+
+The point is that we got complacent, and assumed that all the maze of entities, treaties, etc that emerged from WWII were permanent.
+
+Moreover, the increase in data volumes and organizational structures able to distribute data faster thanks to digital transformation, increased at the same time the "tunnel vision" of each organization, that assumes to be able to do whatever technology allows it to do- without even considering which organizational culture shift would be needed.
+
+If anything, we actually created new structures that would not have been out of place during the Cold War, up to the point that often feels as if we are on the path to reinvent the [Gosplan](https://en.wikipedia.org/wiki/Gosplan)- yes, the entity that designed up to per-plant production plans but, to keep control...
+
+... assigned to a company left shoes, to another right shoes (and failed to synchronize production) or, as my Latvian friends said, spread the production of railway and metro vehicles across COMECON- specializing each on different parts, and then keeping control of the overall in USSR.
+
+Cold War ended, we had few wars outside Europe, albeit often with European participation, and still we did not see that much need to revise our approach to organization.
+
+Many will think just to Libya, Iraq, Afghanistan- but we had direct and indirect (e.g. as peacekeeping and monitoring) roles in many more.
+
+There is a 2025 documentary that, while not adding anything that was not really reported in the past in countless articles, books, movies, documentaries, sometimes even parodies, has the distinctive element of connecting interviews with actual generals and administrators who served in Afghanistan on behalf of the coalition.
+
+The title? [Bodyguard of Lies](https://www.imdb.com/title/tt36589896/).
+
+Not an easy watch, but a useful introduction to concepts that will be discussed in this article, all related to cognitive dissonance between where you are assumed to be, where you are, and where you should be- along the cultural change process.
+
+The key risk? Since the beginning of this century, conflicts, financial crises, natural events as tsunamis, a couple of epidemics up to COVID, ongoing wars in the 2020s in our neighborhood repeatedly showed the frailty of our shared global governance system.
+
+The acceleration of "smarter" technologies diffusion since right after the COVID crisis created a techno-illusion of speed.
+
+Actually, an addiction to speed: we moved from the "Minimum Viable Product" to get fast(er) on the market, to piling up plenty of half-baked initiatives (including policy) defined as overnight or week-end "genius" runs.
+
+As wrote e.g. within the [#EP2024](ep2024) article series about the 2024 European Parliament elections, we got used to overnight "paperwork" that quickly became yet another set of announces presented as if were an example of executive resolve, and as if implementation would take zero time.
+
+Implementation? We do not bother with such minutiae... and we can always tinker as an afterthought, adding more and more layers of compliance, oversight, etc- layers that just convert accountability from a linear issue into a probabilistic assessment scattering across so many actors that... nobody is accountable anymore.
+
+The previous three articles were:
+_ [June: Too Big To Fail 2 In Europe: 1- introduction and the industry of industries #automotive](index.php?page=599)
+_ [July: Too Big To Fail 2 In Europe: 2- #data-based society and diffused resilience #European #Union](index.php?page=603)
+_ [September: Too Big To Fail 2 In Europe: 2- #data-based society and diffused resilience #European #Union](index.php?page=620)
+
+If you were to look at other articles [within the "Rethinking organization"](index.php?section=rethinking-organizations) series, you would see that the "rethinking organization" series actually covers all types of organizations, public and private.
+
+Anyway, In this article will cover only the side that influences formally and directly citizens and businesses at the European, Italian, and local (Piedmont and Turin) level.
+
+The focus? As title of this article says- the convergence of cultural change and yet another round of digital transformation, but within the context of bureaucracies.
+
+Yes, bureaucracy as a "Too Big To Fail" elements within the European Union mix- but will explain "why" better across this article.
+
+The table of contents:
+_ preamble- introducing the themes discussed
+_ sanity check of AI introduction
+_ the EU level
+_ the national and local level (Italy and Turin)
+_ why bureaucracy, in Europe, is too big to fail.
+
+
+<b>Preamble- introducing the themes discussed</b>
+
+Just before starting: as I wrote above, will talk in this article also of Turin, but neither about the future of Turin (which will be part of a future article), nor about the future of automotive or of the local champion in that industry (ditto).
+
+As shared in previous articles, since late 2019 on a weekly basis review press releases, speeches, interviews, etc released on the European Central Bank (ECB) website.
+
+It is a way to keep up-to-date my past banking experience as a consultant on cultural/organizational change and business number crunching, and also because, frankly, we blended politics and business and finance so much, that no initiative in any of those realms, or even just directly in society, can ignore those elements.
+
+You are probably reading (or receiving) way too many articles and papers on the potential (or scare) of AI introduction into reality: with the focus of impact on bureaucracy, the <u>first theme</u> will discuss what many do not: preparedness, and risk, starting with a curious but interesting report from the Dallas Fed.
+
+In the <u>second theme</u> of this article, actually will discuss the current and forthcoming status of something that has been a constant presence in my weekly review since one year- the digital Euro, but starting from 2018, using material that was posted recently attached to a more recent presentation, and up to early October 2025.
+
+The European Union and its Member States (present and forthcoming) need to fully shift their collective brains and organizational structures to the XXI century, but prefer instead to sit on the fence, and then suddenly away and jump on a specific theme, after the train has left the station, and, finally, to strive to set the global agenda on the theme.
+
+The <u>third theme</u> will instead focus on the cultural and organizational change impacts potentially associated with what is the most obvious current digital transformation theme, both at the national and local level, using Italy and Turin as case studies: embedding AI within public (and, frankly, also private) bureaucracies.
+
+At the national level, obviously the elephant in the room is AI blended with bureaucracies, and Italy is an interesting case study, as just adopted at the end of September a law that integrates at the national level EU guidelines that were contained with a regulation issued in 2024.
+
+The Italian law includes specific clauses to streamline and accelerate integrating AI within bureaucracies decision-making: will be an interesting journey, notably considering where we are starting from.
+
+If you read previous articles, you know that around 20 years ago prepared a service to offer to cities between 50,000 and 500,000 inhabitants to "decode" the continuous stream of new rules and guidelines that, at times, from a local authorities perspective, felt like raining cats and dogs when you have a broken umbrella- too many demands, too little resources.
+
+The service eventually did not go live due to political interference brought aboard via a partner- better shut down than compromised since inception.
+
+Still, the period of study back then is one of the reasons why kept, since 2012, to study and observe Italian bureaucracies, private and public, as had done in 2004-2006 while had some missions as PM/BA within the public sector for a partner, as part of my attempt to return to Italy (before, in 2005, deciding that was better instead to stay away, and decided to try settling in Brussels).
+
+At all the three levels it is more a matter of mindset change, than just of dropping yet another technology within the mix.
+
+As I do not expect anytime soon to be working again interfacing at the Cxx level (unless I were to start my own product-based business), I think that will be able to keep observing and studying the three level both on the public and private sector- it will be an interesting journey. 
+
+The <u>fourth theme</u>, once you went through the discussion of the previous themes, should actually make self-explanatory why, in Europe (including its Member States such as Italy, but even other European countries such as those with EEA), bureaucracies are a case of "too big to fail".
+
+This article will have no "conclusions" and "next steps" section.
+
+
+<b>Sanity check of AI introduction</b>
+
+<i>SUMMARY:
+_ you cannot procure products you do not understand
+_ purchasing AI vs. purchasing other products and services
+_ expand vendor evaluation to the whole lifecycle
+_ the hidden risks and potential of AI, up to singularity</i>
+
+I read a lot of material about AI introduction, AI benefits, AI risks- but really few focus on what is needed to make it work from an organizational culture perspective.
+
+I shared three months ago, within [The #human #side of #AI #adoption- where #funding should go](index.php?page=607) what I think should be natural consequences of AI democratization (cheap or free access even from mobile phones, zilch initial learning curve for impromptu use, replacement of "googling" with "let's ask ChatGPT").
+
+As wrote a decade ago with Bring Your Own Device ([BYOD](byod)), and then also in a follow-up, once access devices are in the end of users, training cannot follow the traditional patterns- including those now ubiquitous micro-computer-based-training modules that keep piling up without leaving time to experiment or apply.
+
+From a business perspective, AI has the distinctive element of having so many sub-fields that keep appearing every few months, that just the sheer understanding of what to use when is getting on a degree of complexity that would require a proper governance approach.
+
+The aim of this section is to discuss, as the title says, some basic "sanity checks".
+
+The first one is certainly something common across all the three organizational levels that will be discussed within the other sections:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_understandingpurchases.png)
+([Linkedin post](https://www.linkedin.com/posts/robertolofaro_das-passiert-wenn-der-ki-betreiber-die-sicherheit-activity-7381782097327370240--vW4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg))</center>
+
+You cannot procure products you do not understand.
+
+Shared in past articles various attempts at defining what should be documented within an AI-based product or service offer, efforts from the other side of the world as well as from Europe.
+
+The key element is anyway that, if you visit websites from vendors, or read papers and case studies, you will see reference to value, impact, etc- but little or nothing about what is implied within the approach followed by those who designed the solution.
+
+Or the management of its lifecycle, once it starts interacting with your own environment and your own data.
+
+Or what should be the "phase 0" of introduction, to ensure that is contextualized to your own unique organizational culture.
+
+This can be solved by defining contract templates tailored to your needs, and you do not need consultants to do that- just start by looking at the contract frameworks proposed by various countries, plus whatever local compliance is required (e.g. in Europe we have a regulation, but countries such as Italy started to issue their own laws concerning the provision, use, integration of AI).
+
+Anyway, you need also to create a clear path of accountability.
+
+Not all the impacts will be as mundane as the "gotcha moment" of a report that was delivered with unfiltered AI generated "misalignments with the truth":
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_deloitteaustralia.jpeg)</center>
+
+If you even worked from either the vendor or the (potential) customer side on software evaluations (I did since the late 1980s- both sides), you probably eventually built your own tailored "vendor evaluation model", generic for your organization, plus specific for sub-divisions of your organization, down to the specific requirements for a specific use.
+
+If you did your work correctly, there would be both quantitative and qualitative elements, and, depending on time, impact, etc, also an extension of the qualitative into a full analysis of the viability of the vendor, and maybe cross-checks onsite with existing customers.
+
+If you were to limit to acquiring AI-based products and services focused on a pre-defined set of inputs and a pre-defined classification (e.g. "digesting" invoices and identifying cash-flow needs), the quantitative and technical side of the assessment could be quite straightforward: provide some inputs and see what the product or service produce as a result, and compare with existing expected results.
+
+Anyway, if you are shifting toward more extensive uses (not just generating text and images/videos, but also producing advice, number crunching, etc), you would need to "append" to your "filtering" during procurement something more:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_assessingmodels.png)
+([source article](https://www.deeplearning.ai/the-batch/issue-323/))</center>
+
+There is an additional element to consider: other products or structured services, once in place and fully operational, are also easy to monitor.
+
+In the few projects that involved physical products and associated quality control and monitoring that I had either in manufacturing, automotive, retail, startups, it was again possible to cross-check toward the source specifications associated with contracts, terms&conditions, technical specifications, tolerance values, etc.
+
+Recently a report was released that, in my view, if you used models and started with small building blocks, should not have been a surprise.
+
+In human societies, if you deliver a continuous stream of "fake news" or hijacking of real data but to convert correlation into causation, it does not take that much to distort the perception of many- who at least will assume causation where there is just correlation.
+
+Moreover, this new "ground truth" will seed further distortions.
+
+I shared in the past some episodes from books, and how misunderstanding "signals" generated not intelligence, but lunacy.
+
+There was a UK book on the subject coming from military environments that flatly stated that "military intelligence" is an oxymoron, as the adherence to the expectations of the chain of command is a strong disincentive of extracting real intelligence from signals, if it goes against the "accepted ground truth".
+
+As an example, to skip current wars and stay on Afghanistan, have a look at what happened almost 200 years ago, during the First Afghan War, in 1842 [during the retreat from Kabul](https://deadliestblogpage.wordpress.com/2018/01/07/massacre-in-the-pass-elphinstones-disaster-2/).
+
+Now, imagine that you have a model that supports defining operational plans across your company- in the late 1980s, designed some Decision Support System models for various companies that did just that, but using a quantitative approach.
+
+Or: the idea was that also some qualitative elements (e.g. the mix of resources to open a new office) could be converted into quantitative ones, and then computed using a model that gave a "weight" to different elements, and resulted in a score for each organizational scenario.
+
+The idea? In that case as in others (e.g. forecasting sales needed to achieve a specific margin mandated from high above, but in minutes and not weeks), was to "democratize" to a certain extent knowledge that previously was concentrated in few hands.
+
+It worked- but it is was still primitive, if compared with what some are trying to do now, i.e. having models as assistants helping through dialogue and data to actually define not just plans or budgets, but also to run.
+
+Recently, a report was published with this results:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_pollutingaimodels.png)
+([Linkedin post](https://www.linkedin.com/posts/robertolofaro_250-documents-thats-all-it-takes-to-poison-activity-7382469824527994881-cyWU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg))</center>
+
+Yes, you would assume that a huge model has embedded safeguards- but if you ignore the way they work, you potentially open the doors to distortions seeding your decision-making.
+
+Now, the experiment was focused on a specific area (you can read the full report online), injecting more text, but the concept is not really what was tested and the results, or even how few additional documents were needed: it was the feasibility and lack of safeguards.
+
+Meaning: if you buy a physical bit of equipment that requires 12v input and apply 19v, you get some consequences (been there, done that), and will have just to remember that the voltage is right (your "input").
+
+If you provide a large bundle of documents to "update" the knowledge of a model, do you have in place processes and activities to actually filter that "input", and ensure that will not distort the balance of existing information?
+
+We get back to initial concept: do not treat procuring "smart" technologies as you did with previous ones, as they do not necessarily have a "static" set of performances, with specific tolerances, etc, and could become a Trojan horse.
+
+Hence, beside AI per se, there are at least two elements that, in my view, should be in place and under the control of the organization embedding the technology within its operations:
+_ the full data lineage of what the model can see
+_ monitoring continuously the quality of the advice provided.
+
+Why? Because your own organizational context will evolve, and you should ensure that any evolution mirrored within AI uses is consistent with your organizational aims, not an "off-the-shelf" copycat from a standard model.
+
+Frankly, it is akin to customization with ERP long ago: you could build internal adaptations and safeguards and guidelines, but whenever there was an update, you had to rework through all that.
+
+Eventually, vendors such as SAP found a way to "layer", so that you would not need to rework everything, but AI is a different beast.
+
+If e.g. your vendor sends you a new model that replaces the existing one, you will need to do both what Andrew Ng wrote above, and also get through all the existing workflows to validate that, e.g. by changing internal architecture or training sources, the model still delivers what you expected (and had tailored your organization to resonate with).
+
+Yes, it is a "non-regression test" for "smart" workflows that blend your data and external models.
+
+Also on security ([article in German](https://www.heise.de/news/Sensible-Unternehmensdaten-ueber-Sicherheitsprobleme-bei-KI-Firma-kompromittiert-10731728.html)), keeping track of all the parties involved can become tricky with AI (consider, e.g. how many online AI providers are actually built on top of major online models).
+
+It will be interesting to see how this will evolve in the future, and if, actually, models providers will pre-empt this issues.
+
+For now, when e.g. Claude issued a new model, I read half a dozen articles comparing on different dimensions how this compared with previous ones, down to "standard" quantitative tests.
+
+But how many organizations trying to accelerate AI adoption have already set up in house a similar "validate before replacing" approach?
+
+How many instead consider models, notably when for end users and not for IT experts, as "black boxes" that you can switch in and out with no impact?
+
+As a last "technical point": do not follow all the shiny new tools
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_agenticaijoke.png)</center>
+
+Another [article in German](https://www.bigdata-insider.de/zu-viele-agenten-zu-wenig-nachfrage-gartner-warnt-vor-korrektur-im-ki-markt-a-ada0092f5dcdfdef1536e7e5b9c7a797/), sharing what Gartner had released, warned of the crowding of AI agents, and a forthcoming market adjustment: again, a need to apply proper procurement discipline.
+
+The next section is about another side of cultural change in organizations, specifically focused on the introduction of the digital Euro within the part of the European Union that we call Euroland (Member States that adopted the Euro).
+
+So, as a bridge toward the next section, interesting a case study that did the Federal Reserve Bank of Dallas:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_centralbankterminatorscenario.jpeg)</center>
+
+The article was published on 2025-06-24:
+<i>Advances in AI will boost productivity, living standards over time
+
+Artificial intelligence offers the potential to improve people's living standards. Such advances can be approximated by changes in GDP per capita over time. Using that common measure, AI could enhance longstanding productivity gains or, alternatively, drastically alter the economy in relatively short order.
+</i>
+
+You [can read it here](https://www.dallasfed.org/research/economics/2025/0624?d=1&s=email), but the key picture that generated the post above (and my reply) is:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_20250624_dallasscenario.png)</center>
+
+Yes, it identifies as possible scenarios also a couple of side-effects of a "singularity", the emergence of an AI smarter than us:
+_ positive, i.e. working collaboratively with us
+_ negative, i.e. identify that we are a nuisance.
+
+Which, actually, is a scenario that in the past was discussed as an extreme variant of eco-terrorism (e.g. in [State of Fear](https://en.wikipedia.org/wiki/State_of_Fear), a sci-fi book from Crichton), and more recently often in books, movies, etc (including, of course, the "Terminator" series).
+
+Now, let's get back to something with higher probability: the introduction of the digital Euro.
+
+
+<b>The EU level</b>
+
+<i>SUMMARY:
+_ a long journey from Bretton Wood and the end of USD convertibility
+_ the up and downs of European monetary integration
+_ the journey to the digital Euro from 2018
+_ the cultural change element of a digital Euro</i>
+
+1944, a long time ago- but [Bretton Wood](https://en.wikipedia.org/wiki/Bretton_Woods_system) side-effects, at least conceptually, stayed well past the late 1960s - early 1970s formal end of convertibility of USD into gold.
+
+Also before the Euro official availability, in Europe we had few rounds of "alignment".
+
+A funny cameo (not so funny back then): in the early 1990s, as my income was initially twice what my German girlfriend had, I was unable to convince her to let me pay for dinner, but we reached an agreement- we would split the bill according to our salaries.
+
+Well, in few months, the Italian lira, street price, went from slightly more than 700 liras per DEM, to 1200 liras per DEM.
+
+When Italy went back into the European system so that we could then be part of Euroland, we went back in too high, in my view (and many industrialists as a well), and that had some impact.
+
+Anyway, one of the reasons why we went back at that level was that, staying outside, it was doubtful that Italy would be able to defend the lira- so, was a price to pay to stay in the game.
+
+Still in the early 2000s, right before the Euro was available at ATMs, while working in German Switzerland, remember how actually found that would have been cheaper for my Swiss partner to do a "near shoring", i.e. getting consultants in Turin and having them work there, than importing people from Asia to work in Switzerland.
+
+In the first two decades of the XXI century, Italy had some "faux steps", but still managed to survive- albeit already by mid-2000s was told by local contacts on the consumer bank side that they had seen a shift in how people spent, and even former middle class was seeing a contraction of standard of living.
+
+Jump to the 2020s, and Italy did not improve that much, despite the massive influx of funding through various Government and European initiatives, albeit at least some numbers (at the State level, e.g. the spread vs. Germany) have improved.
+
+Anyway, there has been increased interest on cryptocurrencies, and eventually in November 2018 in Basel ([a presentation available on the European Central Bank website, attached to a more recent release](https://www.ecb.europa.eu/press/key/date/2018/html/ecb.sp181115.en.html)) was presented a slide deck on "The new frontier of payments and market infrastructure: on cryptos, cyber and CCPs", which contained this expectation on if and when proper digital currencies would become available:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_from20181115.png)</center>
+
+Since then, plenty of articles about the digital Euro development process were [published on the ECB website](https://www.ecb.europa.eu/press/pubbydate/html/index.en.html?Taxonomy=Digital%20euro).
+
+Anyway, would like to quickly focus some material that was published recently, as, again, is linked to the cultural change element:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_ecbdigitaleuroarticles.png)
+([Linkedin post]())</center>
+
+You can find the two articles referenced above [Philip Lane](https://www.imf.org/en/Publications/fandd/issues/2025/09/point-of-view-why-europe-needs-a-digital-euro-philip-lane) and [Piero Cipollone](https://www.ecb.europa.eu/press/inter/date/2025/html/ecb.in251009~0a2304fe8a.en.html).
+
+Within that post above, referenced also an article that was discussing [results from this presentation](https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251015_17erpb_item3_holdinglimits.en.pdf):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_ecb20251009_scenarios.png)</center>
+
+Equally interesting is this letter on [Technical data on financial stability impact of digital euro and assessment of bank investment costs](https://www.ecb.europa.eu/pub/pdf/other/ecb.mepletter251010_Lalucq~ac176b0edd.en.pdf).
+
+Anyway, there has been a long journey since that 2018 slide, and recently was announced that [ECB selects digital euro service providers](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews251002.en.html).
+
+As shared above, within the European Union we are used to often sit on the fence, and then jump ahead, trying to lead the pack and define the direction.
+
+It worked few times in the past, but in different domains and different contexts (GSM, GDPR, etc).
+
+So, the expectation is: why this time there could be specific challenges to existing bureaucracies? 
+
+To begin with, let's see a statement from the [Philip Lane](https://www.imf.org/en/Publications/fandd/issues/2025/09/point-of-view-why-europe-needs-a-digital-euro-philip-lane) article published on F&amp;D within the September issue:
+<i>
+While it is possible to theorize about alternative monetary systems in which central bank money plays only a wholesale role, prudence suggests that the retail role should be preserved, including through the introduction of a digital euro.
+<omissis>
+To sum up, a retail role for central bank money is arguably integral to the sovereign foundations of the monetary system
+</i>
+
+The key issue, from a cultural change perspective, is not that the digital euro will be a digital version of banknotes issued from the aggregation of Euroland Central Banks, but that will need to have a different distribution network, and different service approach.
+
+Moreover, from all the material that was presented over the last few years, a digital Euro wallet (does not matter if up to 3,000 EUR or less) will be perceived by end users as a cost-free micropayment system, and should perform as such.
+
+Decades ago, using credit cards sometimes resulted in scenes as one I saw before the Euro in Venice: an American tourist wanted to buy a pocket umbrella, cost slightly less that 5 EUR (it was still in liras).
+
+When the tourist presented a credit card, the merchant turned it down, stating that the charge he was going to receive had a minimum set amount that would turn that transaction into a de facto loss.
+
+Eventually, credit card issuers reduced commissions and made other changes, but still in Italy it is touch-and-go when you want to pay with credit cards.
+
+In the 1990s, some Italian banks tested a system called "minipay"- as I was still in Italy (mainly working in Parma, but also around the country), and Turin was a "test ground", got one, and saw immediately that...
+
+... retail banks were not used to the concept of micro-payments (merchants complained about costs, payments, etc), and even to the concept of a digital wallet as being cash (I was once told that the amount I had charger had expired after two months- as it was roughly equivalent to 200 EUR, had a discussion to convince the bank that it was cash, and cash does not expire).
+
+It was a matter of cultural change.
+
+As said a week ago to a friend, I had also the chance to use similar systems in Belgium and German Switzerland- as the Swiss when jump on something have immediate adoption, eventually had to ask the customer to lend me an empty rechargeable card, that I had to return at the end of the project, so that...
+
+... I could get coffees and snacks from the vending machines within the offices.
+
+Now, distributing physical banknotes is already within the tradition of all Central Banks (albeit used retail banks to then disseminate- see what happened in 2008, and see how instead during COVID some countries directly deposited cash within current accounts of companies).
+
+Anyway, a digital wallet containing Euro would be a different beast, and would require a different kind of customer-"retail bank" relationship.
+
+Basically, it is not just a digital wallet- as duly noted in other documentation that you can find at the European Central Bank website, it is about providing also a network and to allow both online and offline access.
+
+So, it is quite early to see how it will evolve, but hopefully the forthcoming regulation (discussed within the announce listing the selected providers) will clarify how the actual service will be delivered, how the associated network will be developed (Lane explicitly referred to avoid a "lock-in", as it has happened in the past with other micro-payments providers, that altered contracts and commissions structure when had enough market penetration). 
+
+Hence, for now I am skeptical in seeing a Central Bank trying to compete with retail banks in delivering micro-payments, and not just shuffling packs of banknotes or bank-to-bank transactions around: different culture.
+
+It will be an interesting journey to observe.
+
+
+<b>The national and local level (Italy and Turin)</b>
+
+<i>SUMMARY:
+_ Italian bureaucracies and going digital
+_ "resistance to change", Italian style
+_ a new law to promote AI adoptions
+_ moving forward: a pragmatic proposal</i>
+
+Italy has many issues, including the average age of its bureaucrats, not really open to change.
+
+So, before talking about the latest law on introducing AI within the public administration, streamlining bureaucracies, and digital transformation within Italian bureaucracies, it is better to have a "cultural awareness detour".
+
+I shared in late 2020 [a book on some local (Turin) and national](https://leanpub.com/citizenaudit) curious exchanges related to processes that have been "digitally transformed" with much fanfare, but resulted only in adding more hoops within any process.
+
+You can read it online also for free (and, anyway, as all my other books on change, the aim is dissemination, not revenue).
+
+Anyway, will discuss neither of the cases within that book, and will focus instead of something on a conceptual level.
+
+If you have a look at [CV](cv), you will see that worked in different industries.
+
+As reminded a couple of days ago to others, the first time that I worked on improving processes was not even within my formal business activities- first really for a business environment was while in the Army, for my office work, but then never stopped.
+
+Albeit was nice, from 1990, actually being a paid consultant to do that.
+
+Since I was made to return to Turin from Brussels, and started the first mission in Turin in 2012, I had a curious routine: activities that elsewhere were the main part of my role, and then worked on process improvements on a project-by-project basis within a framework of organizational improvement, were not part of my official role.
+
+Then, was routinely asked to cover them, as if were part of a package deal to move onto the next step- that never arrived, as there was always somebody else sitting on the fence and waiting just to see that situation had improved.
+
+Anyway, all this and more activities required dealing often with various local and national bureaucracies- in person (in the early 2000s) and remotely.
+
+Let's just say that could write few volumes of that "Citizen Audit" about national and local public bureaucracies processes that do not work and how to improve them, as was doing in the past as a consultant, but, frankly, it is a Sisyphean task.
+
+Hint: if processes in Italy are so XIX century, even after digital transformation, it is not because Italians do not get it- it is because each step of each process is money of exchange between tribes (and, as reported routinely by news magazines, even bribes).
+
+Few years back I remember a magazine writing that Italy was becoming the country of micro-bribes: the more steps, the more signatures, the more opportunities.
+
+Digital transformation in Italy often added more steps, not less, and we reacted the way we Italians usually do: not streamlining processes, but by delivering speeches and then creating yet another oversight or watchdog entity.
+
+If you consider that Italy tried routinely to streamline bureaucracies by removing whole "stacks" (e.g. province, roughly counties), only to then retain the employees associated and rerouting them to other activities, only to then create other organizational entities, you get a fair picture of why having a ministry in charge of streamlining did not really streamline that much.
+
+Interacting with bureaucracies allows you, as many foreigners told me, to meet another Italian cultural element within the bureaucratic mix: give anybody a title that allows to authorize or not something, and you get another one feeling having power.
+
+So, the concept of "civil servant" is something that we leave for speeches (the Italian form is "servitori dello Stato"), and not too long ago somebody with a much longer expertise in dealing with and trying to reform bureaucracies wrote in a book that over the last few years we observed a "thesaurisation of public office"- i.e. you hire one, and you get families and generations, as if it were an inheritance.
+
+It could actually make sense if we were to build a "civil servant" attitude, but instead we build a kind of sense of entitlement.
+
+Italy has a town level (and larger towns also a further local level), a Metropolitan Area or province level (yes, we removed provinces but not all of them), a Regional level, and a national level; plus, some of our regions have connections with other Regions within the European Union (e.g. Piedmont with its siblings in France).
+
+There are also other forms of aggregation, but depend on local needs and opportunities (e.g. shared services, mountain areas, etc).
+
+Then, we have utilities and service delivery companies that used to be part of local authorities, and eventually became even listed on the stock exchange and absorbed the externalization of activities from local authorities- which became shareholders, customers, board members (or appointed board members), and conduits to customers.
+
+As a cherry on the cake: in Italy, we have a kind of "the winner takes it all"- or: whoever wins local, regional, national elections, will fill as many as possible both within the corresponding level of administration, and also, if feasible or due for renewal, within those externalize utilities and service companies.
+
+Now, trying implementing reform in such a maze, and you are welcome.
+
+The typical "resistance to change" in Italy takes a tribal and aggregate form: it is not related just to perks, career, position, or even keeping your own job- it is associated with what is trendy with your own tribe, and the balance of power between tribes.
+
+As I wrote already over a decade ago, also when I was living in Brussels, and told to colleagues abroad while living in London, it is yet another reason why, in Italy, whenever there is a reform that could enable shuffling people and role, or phasing out some roles and develop others, usually we end up having at most linear cuts, not selective ones.
+
+Digital transformation makes no expection: in all the countries within Europe where I lived and/or worked, digital transformation reduced time and streamlined activities.
+
+In Italy, each time took few rounds, and in many cases is still a work in progress.
+
+One of my favorite stories to remind others is when, in Turin, my birthplace, in 2015 decide that, as the mission that I had just started was a portfolio level and on a worldwide scope, could actually become a long, long term mission, even permanent (do not worry- it did not: as soon as the most complex parts was back en route, new management team).
+
+So, in 2015 went to register with the Turin authorities, after finding an apartment to rent, and became resident in Turin for the first time in many, many decades.
+
+I went to the office, waiting, and registered- done.
+
+Few years later, same building block but different apartment, and therefore went again to register.
+
+This time, I had to wait, get to a machine, get a reservation for an appointment, come back.
+
+Then, stand again in line, and, instead of getting an ID card with the new address, was given a slip of paper and told that they were not changing anymore ID cards unless expired or damaged.
+
+So, the idea was: go around Europe with an ID card stating an address and an unmarked slip of paper stating a different address- in my case, was luckly as it was just a different apartment, but imagine if I had a completely different address.
+
+Next, shifted to another town, but was told by others who had arrived in Turin that for them was even worse: to become resident, you had to first be able to reserve a meeting with the office, and then start the process; expectation: few months (meanwhile, you had some basic issues such as registering for services, utilities, etc- who asked actually proof of residence).
+
+I have also other stories from others, but, eventually, was told that things improved (will see the next time I were to need to become resident in Turin).
+
+On 2025-09-23, Italy got a new law to promote AI adoption.
+
+Will carry a detailed dissection of the Italian law 132/2025 "Disposizioni e deleghe al Governo in Materia di intelligenza artificiale" of 2025-09-23 later on.
+
+For now, the conceptual analysis is about the cultural change requirements- and that book linked above, plus the discussion about the "cultural perspective" can help understand some of the points.
+
+There are a couple of elements within the law that represent quite well the cultural conundrum we are in:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251018_ailaw.png)</center>
+
+Yes, that post was about the "return on investment" concept, but also about Article 13 of the new law, that specifically requires a degree of transparency from vendors of professional services about their use of AI.
+
+The law gives significant latitude about the use of AI within the public administration, and equally significant requirements of communication to all those involved- e.g. employees if applied to employees, and customers if used to deliver knowledge services.
+
+As Italian tradition, it creates also additional layers of oversight, reporting, and, overall, potential compliance- whose qualification is delegated to not political choices, but to technical choices.
+
+A common scourge of Italian laws notably in the Second Republic, started in the 1990s: not only we pile up laws that until recently looked as mazes of references to other laws with some connecting material, but often the laws are skeletons whose real body is delivered by unelected bureaucrats.
+
+In Italian we have also a specific word for what could happen "la manina", i.e. literally "a little hand" (bureaucratic yet influenced by interested parties who were unable to get their own way while the framework law was being defined)- and if you [get this article with the title 'Manine' legislative e trasparenza dell'attivit&agrave; politica"](https://www.interlex.it/varie-eventuali/manina.html) through Google translate, you can have a quick glimpse of how the tribal Italian society works.
+
+An interesting approach: the elected Parliament gives "carte blanche" to the Government, but spreading around the Government which bureaucracy should take care of which part of the law, to actually implement it.
+
+A Damocle's Sword about AI, more than something that you can comply with.
+
+It is a "tradition" whose torch has been carried over the last two decades by all the Italian Governments, no matter the political hue.
+
+And, except for 300k EUR (Art. 21) for 2025 and the same amount for 2026 to make projects for the Ministry of Foreign Affairs, all the piling up of oversight, control, implementation should be of course done without any additional budget allocation (Art. 27), in Italian: "Le amministrazioni pubbliche interessate provvedono all'adempimento delle disposizioni della presente legge con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente."
+
+Which is yet another Italian tradition: you can read as an example a similar yet more detailed analysis that did on the [Law 77/2020](index.php?page=421), and included a mini-app to navigate both the law and the timeline of its commitments.
+
+If you read this section so far, you probably know where I am heading to: those 300k EUR for pilot project nationwide are peanuts, sound more like a political signpost or an earmark for something ongoing than a budget allocation.
+
+Decades ago, Italy jumped on the e-government bandwagon, and I remember that was asked to review a RFP for a project to build an online tourism portal covering the whole country.
+
+Budget? 100mln across 10 years, with 90mln for the software platform and infrastructure, and 10mln for content- across the whole country.
+
+Also, for e-government services to citizens, there were allocation for feasibility studies, and then... around 30 EUR per citizen.
+
+When local authorities complained that with 30 EUR they could not deliver any service (notably for smaller towns), the answer was to give back the allocation to the ministry, that would develop a platform.
+
+Hence, I am skeptical about this as any law that allocated no budget- unless the aim is restricted to simply doing, with existing resources, an assessment and documentation of what is existing, when time and resources allow, before starting new investments.
+
+Until the law will be completed with the missing "minutiae", frankly does not make that much sense to share anymore than general considerations about how that could become workable.
+
+A first obvious point, considering that there is no specific budget allocation and public bureaucracies will need to use existing resources and laws, is to identify which parts of which processes are just leftover from a long forgotten past, maybe even converted into existing software.
+
+So, a first step could be to simply carry out a triage exercise: what needs to be human-only, what needs to have human-in-the-loop, what can be automated, what can be simply (using one of the previous categories) dropped or absorbed by other activities.
+
+Also, steps that involve timing, or assessing needs, etc, could be easily automated (the former does not really need AI, the latter would not need GenAI or anything fancy- basic forecasting would do).
+
+Net result? Probably some of the existing roles and processes, once the current holders retire, will not be needed anymore, and instead new processes, probably cross-functional, could be identified.
+
+Including dropping the externalization of some activities that, at the national as well as the local level, a better integration via digital transformation (and AI) would make more transparent, traceable, and easier to audit automatically.
+
+Considering also that, in any further European Union integration step, is to be expected that more processes will be integrated within a compliance framework at the European Union level, not country-by-country.
+
+As introducing AI, whatever the type and size of the organization, should start with an assessment of needs and capabilities, not with a copycat of what is trendy.
+
+
+<b>Why bureaucracy, in Europe, is too big to fail</b>
+
+<i>SUMMARY:
+_ managed complexity
+_ regulatory trends
+_ integrating industrial policy
+_ an asset or a liability?</i>
+
+What if the European Union were to follow this approach:
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251017_pragmaticlawmaking.jpeg" width="50%"></center>
+
+Anyway, the key issue is that, with 27 Member States, any new Directive or Regulation has to be applicable across the whole European Union.
+
+Hence. by definition we have a complex society.
+
+The communication patterns across the European Union gradually converged: also my country, Italy, gradually converged on practices that until a couple of decades ago were considered typical only of some Northern European countries.
+
+There is limited chance that the European Union will reduce the number of regulations, but introducing changes such as the digital Euro will force also European institutions to study its own activities and processes and find ways to create public infrastructure shared across the whole European Union, starting first with Euroland.
+
+We cannot continue to pile up regulations that land always on the same recipients- and a savvy use of AI could help, if not to reduce, at least to better integrate and streamline communication and compliance.
+
+A significant change could be to associate new compliance requirements with data and software infrastructures built as composable elements, enabling easier integration within organizations, first in the public sector, and then also the private sector.
+
+This approach would allow to extend accessibility to compliance also to smaller organizations, and, progressively, enforce transparency.
+
+By using AI-based components instead of humans, would become also feasible to extend the transparency requests, while enforcing strict confidentiality and protecting intellectual property.
+
+As an example, increasing resilience and enabling better negotiations and structuring of energy provision activities would benefit by being able to get more information about actual use and planned use of energy across the European Union.
+
+We always talk about the need for an industrial policy in Europe: but, if our bureaucracies were to evolve beyond the mere continuous issue of new red tape, we could actually enable a dynamic allocation of resources and identification of pre-emptive initiatives to increase competitiveness, e.g. by enabling to negotiate or renegotiate agreements when needed.
+
+Using technologies coupled with the structured bureaucracies that being part of the European Union require could help increase resilience, something that the Recovery and Resilience Facility still did not manage to achieve.
+
+I wrote in the past of the need of [smart regulation](search.php?tag=smart_regulation): with our recent collective choices at the European Union level, it becomes feasible to shift from a XIX century style of regulation and compliance, to a streamlined yet enforced and transparent variant.
+
+Many consider our current European Union bureaucracies and their "projections" (impacts) within each Member State as a cost and a nuisance, even a liability.
+
+Considering the complexity of our society across 27 Member States (and more to come), a couple of dozen of languages, and centuries of history of bureaucracy across the continent, we should increase flexibility while retaining coordination and control, but the harmonization level achieved since the 1950s should be considered an asset.
+
+Remove our harmonized bureaucracies, and it will take time to unwind and develop a new position- ask United Kingdom...
+
+Stay tuned!

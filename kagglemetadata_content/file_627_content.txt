@@ -1,0 +1,255 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251215_article.png)</center>
+
+This article inaugurates a new "Pointers" tradition.
+
+Specifically, this will be a multi-part article following this publication plan:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/pointersseries1_cover.png)</center>
+
+There will be more "pointers" multi-part articles in the future, but this one is the first experiment, focused on a specific set of themes.
+
+This first part will be repeated across all the parts of the article- as this is more a journey than an article, and therefore knowing your overall mission is useful to contextualize the details of each part.
+
+Key choice is that, while this first part and the last part are more about discussing the overall context and (in the last section) the potential developments, the other articles will be instead data-driven storytelling.
+
+To read (when available) the other parts of this article, navigate using the option at the top of article, that shows the previous and next (when available).
+
+To read all the parts starting from part one, visit the [multipart list section](multipart).
+
+The last part will contain also a list of all the published parts with associate links and the abstract of each part.
+
+Why now? This 2025 has been a year of plenty of flip-flopping, both at the national level (Italy), in Europe (and neighborhood), and the world at large.
+
+The key risk? In our current climate, acceleration generates what often described online and discussed again few days ago by showing how, in routine rounds of communication and "decisions" at the global level, it is akin to a fencing duel where all those involved operate on different planes of reality.
+
+Or: the reality that they themselves identify by looking at the mirror, and then assuming that the world at large will follow their own assumptions and will react as they would react, is not supported by any consensus on such an assessment from at least the key counterparts involved.
+
+A confusion between manipulation and "acting strategically": should refresh if not game theory, at least [the 36 stratagems](books/stratagems).
+
+Side-effect: 2026 is potentially going to be an encore, with the aggravating factor that what was apparently solved in 2025, will surface again but with vengeance in 2026, and with the "resistance to change" and loss of credibility and effectiveness built by the botched attempts of 2025.
+
+In this first part, will focus on the overall concept and the roadmap across the different parts of the article.
+
+The table of contents of this first part:
+_ preamble- introducing the themes discussed
+_ theme 1: focus
+_ theme 2: concept of this series
+_ theme 3: roadmap
+
+
+<b>Preamble- introducing the themes discussed</b>
+
+The choice of the title is simple: "pointers" is both a list of key themes, and each part is a kind of shortened "background to a position paper".
+
+In this first part of the article, to avoid distractions, will also minimize the number of "dig deeper" links (e.g. Wikipedia or online websites or previous articles), links that will be added instead (as it is my tradition) within other parts.
+
+The introductory paragraphs shared by all the parts of this article explain the "why now" and "why this way"- a summary of 2025, and scenarios for 2026, with a focus on data-driven sharing, to enable both myself and others to release further material.
+
+Hence, after the end of this multi-part article will be published, the associated reading notes and suggested readings, as well as data and other access tools, will be released online by the year end where anybody can permanently access them (my key venues for such a sharing, since 2019, are my [GitHub](https://github.com/robertolofaro) and [Kaggle](https://kaggle.com/robertolofaro) profiles, but already prepared to use e.g. [HuggingFace](https://huggingface.co/robertolofaro)).
+
+If you follow either [my Facebook](https://facebook.com/robertolofaro) or [my Linkedin](https://linkedin.com/in/robertolofaro) profiles, you saw few days ago a post announcing the GitHub repository for the material supporting this multi-part article- for now, it is empty, but, due to the themes, will probably add further material in the future.
+
+While generally in my recent articles this section is about the sections within the article or article section, in this case this preamble section will discuss the other parts of the article that will be published over the next few weeks- but will not share the title that will appear online.
+
+So, this "Preamble section" is actually a "Meta preamble", as summarizes what you will find again in each part within the few introductory lines.
+
+This <i>first part, with the title "Preamble"</i> has the purpose to discuss the overall concept, focus, and roadmap.
+
+The <i>second part, published later this week, references "Defense & Space"</i> (albeit my British and Brussels connections probably would prefer "Defence & Space") is the first data-driven part.
+
+While many are discussing the current need to develop and improve the security posture of the European Union, assuming that the old exchange (market vs. security) is being replaced by a one-sided interests trumping shared interests, I think that we have to reconsider other elements.
+
+Until now, since WWII, as I shared in previous articles, what is now the European Union the automotive industry, called "industry of industries" took over the role that in the USA was (and is) played by the "military-industrial complex" that President Eisenhower talked about in his farewell speech.
+
+Therefore, in that part of the article will discuss what are the demands, proposals and initiatives presented, and share how this leads to giving a different context to the next part of the article, <i>on "Reforming EU"</i>.
+
+Reforms are never neutral, but reforms in a scenario where everything outside is moving is something that we did not get yet used to since 1989, i.e. since the Fall of the Berlin Wall- and instead we kept using a "reforming Europe to increase integration" that was cocooned within the Cold War relative stability.
+
+Let's be frank: I criticized repeatedly the "Monnet approach" of jumping forward in integration when there was no consensus, by simply forcing through after making choices with a "coalition of the willing", and knowing that then nobody would dare to pull back.
+
+Then, continuous Byzantine tinkering would ensure, a kind of "European Union continuous pork barreling".
+
+Anyway, that approach, that worked well from at least the founding of the European Communities up to the botched attempt to have a European Constitution (but already in the 1990s started generating some issues) required a stability that would be aligned with the slow tinkering timelines of the European Union.
+
+When the context is altering every few months, this creates issues across the Union.
+
+Notably, <i>as discussed in the next part, on "Reforming Italy"</i>, about my birth country.
+
+Italy toyed and tinkered with reforms for decades, and, again, did benefit from the overall uneasy geopolitical stability of the Cold War.
+
+Now, it is playing on multiple tables and having to deal not just with geopolitical issues, but also with the mere issue of its physical position in the middle of the Mediterranean Sea, and its own demographic trends as well as, due to its structural inability to overcome tribal instincts, the further consequence of not having a system to groom and develop talent-based &eacute;lites, but instead invest long-term on controllable tribal assets that often turn into a "one-trick pony" groomed for decades, up to the role when they can maximize negative externalities.
+
+Hence, this part of the article will be focused on a specific issue: national debt and its evolution, as well as the national context of reforms within the general European Union context (e.g. the bilateral treaty with France, and why, for now, it is producing less than its potential).
+
+Italy has another specific issue: even the "industry of industries" was built around a local supply chain made of small companies (looking at the European Union parameters, we in Italy should ask to add "small Italian style"- i.e. really small), so small that either they never had a "strategic mindset" independent from the local supply chain (often more "cogs in the wheel" living out of patronage than autonomous economic agents), or did not have the resources (human and financial) to develop one when they understood that the music would soon stop, or most of the chairs at the table would be removed.
+
+Again, will share data, and links also to additional material (including datasets and publications or articles that shared or released in the past).
+
+After talking about defense, space, reforms in EU and Italy, the next step is getting back to the "military-industrial complex" of Europe, i.e. the "industry of industries" that used to be automotive, and now should be called mobility- the <i>next part is therefore "Automotive"</i>.
+
+My birthplace is Turin, which used to be the "automotive capital of Italy", and therefore represents, due to its socioeconomic structure, physical position, and current state, a useful case study- therefore, <i>this part of the article has the title within the roadmap "A Case: Turin"</i>, but will have a punchier title online.
+
+Again, will share data- specifically about the transition and what is currently being attempted.
+
+The closing article will leverage on the data shared, and provide outlines of all the parts published, and a closing section that will follow the approach of the "preamble", but as an "exit".
+
+As I wrote at the beginning of this "preamble", this first part of the article about "Pointers" will be a little bit unusual.
+
+Hence, to close on the sections within this part, will summarize in the next sections:
+_ focus: how (and why) I think I can contribute to the debate
+_ concept: this series- and why now
+_ roadmap: why this first part is actually not just an introduction to the whole article, but also to potential other articles
+
+Within the conclusions and next steps will just share a summary of key points, and my next research and publication steps.
+
+
+<b>Theme 1: Focus</b>
+
+Somebody says that Alexander, Julius Caesar, <a hre="https://en.wikipedia.org/wiki/Foundation_(novel_series)">"the mule" within Asimov's Foundation series</a>, Napoleon, and others, up to President Trump, are catalysts for change- but, personally, I think they are more a result of their times and seizing the opportunity while leveraging on critical failure points related to transitions that nobody wanted to start.
+
+If you had had them appear in a different moment in a different place, would not have had their impact: a President Trump during Cold War would have had much less potential for impact, as back then "rituals" between the key sparring partners had a mutually constraining role (and also in his first term, President Trump was surrounded more by a "control and containment circle", than loyalists).
+
+I am not comparing President Trump to Alexander- albeit he has been equally disruptive- also if the long-term impact will have to be judged by historians.
+
+I am currently based in Italy, Piedmont, where I was born in 1965, and where I had to return to work in 2012- not my choice: I had left my birthplace Turin really in the late 1980s, just being called back occasionally from the late 1990s when I moved abroad and after proving elsewhere in Italy what was capable to deliver.
+
+Albeit, curiously, all the local activities seemed more focused on cutting rate and clipping wings while extracting value from experience developed only outside Turin, than a "partnership for mutual development".
+
+Therefore, so far, beside a continuous stream of "tremendous opportunities" (for them) presented by the locals, here I am an observer and assess as a "resident alien locally born", working on missions to subsidize my continued research and publishing while looking for or aiming to develop real "mutually beneficial tremendous opportunities".
+
+I worked and lived in few countries, and my experience since the early 1980s was multinational by accident and by design (or by natural inclination- as I started studying cultures dead and alive since I was a kid), and across multiple domains- but I will let you have a look at my ["revamped" summary CV](cv).
+
+Blending all of that with observation of local and global affairs as I did since forever becomes a second nature- and increases both resilience and the capability of have early assessments on emerging trends.
+
+E.g. when, in the 1990s, decided that the mission on cultural and organizational change could evolve but was mature enough to start preparing a transition in few years, my choice to position for a career shift leveraging anyway on my blend of political, business, technology data-driven approach, did not go for an executive MBA or other "techn&eacute;" studies, and instead spent two summers at LSE in London plus a bit on intercultural communication and management in Sweden, aiming to eventual go for a Master in Finance.
+
+Eventually applied, but turned down the offer for a full-time residential, as was incompatible with my work across Europe on multiple customers- and, as saw in 2005 when took home in Brussels, it required really three years to phase out all my activities and associated "mutual benefit" across Europe, and only in late spring 2008 was able to start looking to settle there (the first "settling there" mission on a pattern agreed with local contact started and ended in July 2008 due to Italian private and State interferences, to protect the customer).
+
+Keeping all that experience alive requires continuous and massive investment of time and resources- albeit, courtesy of the reshuffling since COVID, if I compare with the 1990s, the 2020s deliver plenty of free resources to invest on "continuous learning" and blending cultures, while incurring a tiny fraction of the costs (and time spent) in travels.
+
+Example: over the last week, while finalizing this "preamble" to the series and the overall elements within it, I have been following first a workshop on a bit of European compliance organized by the Turin Chamber of Commerce.
+
+A compliance that, incidentally, studied in spring in preparation of a role as program manager akin to what described in the fictional 200+ pages case study [that you can read here](quplan), plus leveraging on my past experience in both designing, offering, and consulting on outsourcing.
+
+The role did not start- and you that are reading this article have been the beneficiaries since summer 2025 of an accelerated publication and positioning plan (simply did what I had done in the past for others on business/marketing planning, but considering to use only the resources saved from my previous mission and time).
+
+Then, over the week-end, did an encore of a GenAI (and MCP and Agents) 16 hours intensive (will end this afternoon) that already had followed months ago, provided by Outskill.com really as a "test before you drive" for their own paid longer programme (for those who do not have time for exploration and self-learning, and prefer a structured schedule, mentoring, etc whenever learning new concepts).
+
+I have no agreement or sponsorship or anything else with them, and, frankly, do not even remember how got in touch with them the first time, but if interested, let me know and will use the link page to send you an invitation for the next week-end "test drive" (which, in many business environments, frankly would like most of those asking to their own in house few AI experts or their outsourced AI experts for AI projects inspired more by the Fear Of Missing Out than business needs, to attend, so that at least there is a shared degree of AI awareness).
+
+Why did an encore of what nominally was the same week-end structure? Well, both as a "evolution check", as before the previous one and after the previous one worked on my own projects using those concepts, and, due to the evolution of technology, I was expected to see new material and new case studies- and was not disappointed (interesting to see agents and vibe coding app development starting from scratch and developed end-to-end in one hour live).
+
+Many are criticizing companies (notably consulting companies) that are phasing out employees in knowledge-based activities that have no AI skills.
+
+Personally, while I think that some AI skills (as those I had in the past, and those I worked on since 2018 and then with more time and depths since the COVID lockdowns of 2020) still are for "specialists"- but, in mid-2020s, with the current tools, having zilch AI skills is a significant indication of unwillingness to learn and evolve.
+
+You can install apps on your smartphone, and, as will share in the future, work using them knowing their limitations and retaining your own role, but can at least improve productivity and expand the depth of the initial assessments and e.g. business case definition- so, when the tools can be used also for free (with limitations), not using them is akin to those managers who in the late 1990s refused to write emails or use a computer as "for that there is a secretary": dinosaurs who did not understand that there had already been a crash-landing from space, and a tsunami was coming.
+
+Except for this first part and the last part, which will be longer and more "conceptual", the articles that you can see within the diagram above will all be within the "CitizenAudit" series, i.e. data-based and data-sharing.
+
+Or: in those parts, will have a conceptual introduction, followed by a data-driven storytelling (with links and numbers etc that you can skip, but could be useful to those who are more "specialist" and have either the skills, or needs and access to skills), and closed by a bullet list.
+
+
+<b>Theme 2: Concept of this series</b>
+
+This multi-part article assumes as a context the framework generated since January 2025 by two key elements that, so far, in my view have been misunderstood:
+_ as opening salvo, President Trump's Trade Tariffs document
+_ as year-end closing, the new security strategy.
+
+Or: the real focus is the European Union, Italy, Turin, automotive, defense&space are consequences of the choice of this "scope"- because, as the saying goes, no individual European Union Member State could obtain the same level of aggregate worldwide impact outside- would just become an aggregate to (or even a "client" of) other major blocs or countries.
+
+Generally, when you present a strategy, it is about something that will frame the way forward.
+
+In reality, in my view, it happened the other way around: the new "strategy" document from the White House is more a confirmation than an innovation, also if, being explicit on some elements that others ignored with the usual arrogant "it will pass, it is just a moment, etc" (which generated disasters and potential disasters in Europe from the late XIX until the late XX century), a reaction, even if vaporware, was "de rigueur".
+
+As I keep repeating since spring 2025, while most were focused on the tariffs on specific industries or products or countries, from a cultural and organizational change perspective I looked at something else.
+
+Specifically, it was interesting to see who, within the pages introducing the tariffs assigned to the European Union, the initial extensive preamble sounded a lot as they typical preamble that the European Union got us used to with "framework" regulatory initiatives such as, to focus on just on, GDPR.
+
+As all the others that followed, GDPR ([see my take here](gdpr)) adopted in reality a similar element.
+
+Which was advisable: if you are trying to regulate a moving target, you better build guidelines and framework the "ethos" of the whatever will ensue, not minutiae that could be replaced ass soon as either (as if they were KPIs) are "taken for granted", or new emerging social, business, technological innovations require further integration.
+
+If you adopt that perspective, while focusing on "American first" (and, as an added bonus, wealth generation starting from the top and trickling down- remember the "moment to get rich" assertion), many initiatives are actually assertion and defusing.
+
+The European Union is relatively affluent, with an infrastructure that is better developed than the USA corresponding element, relatively low aggregated debt (at least until 2020), and aging- i.e. requiring in the future plenty of service provision.
+
+Therefore, it could be a prime target market- if were not for that pesky idea and concept (from President Trump's perspective from those two documents) to further expand its integration to the point of becoming really a "union", and even becoming a "new Athens" showing the way to other countries (e.g. supporting the development of the African Union, Mercosur, etc, also to repent of our colonial past).
+
+While in Europe we joked routinely about the "State of the Union" annual speech and the self-expanding portfolio of initiatives adopted since the 2019 by the President of the Commission that then was confirmed, others read correctly her initiatives as a kind of "Presidential drive".
+
+If in the USA the power of the President of the United States is constrained by the Constitution and Supreme Court, within the European Union our piling up of institutions de facto concentrated power into the appointed, not elected, President of the European Commission, that occasionally, after yet another initiative launched "ex cathedra", feels the need to give some "brioche to the people".
+
+Paying lip service to co-decision, but then keeping to announce new initiatives.
+
+I have no doubt that, while confident about winning the 2024 Presidential elections, then-candidate President Trump staff read the September 2024 political guidelines adopted by the European Commission.
+
+And saw what I saw: the introduction of federal government within a formal confederation of independent yet mutually integrated states, with here and there some power grabbing presented as "ideas" or "to be discussed", but using structurally the "Monnet"- setting the table, cooking the meal, and then saying something along the line of "if you want, you can not sit at the table, but your absence will undermine us".
+
+E.g. see how still within the European Union we talk about bilateral treaties, from the 1963 Elys&eacute;e to the 2019 Quirinale, respectively between France and Germany, and France and Italy, or the more recent Franco-German proposal that again tables the possibilities, within the existing treaties of selective accelerated integration that I could call "coalition of the willing"- which, as I reminded few days ago to a friend, actually is a scenario that shared online in the late 2000s while living in Brussels, and talking about "circles of integration" and the potential of "de facto multi-level Euro".
+
+For now, out of all the proposals, while Member States discuss, the European Commission has seized more than once the initiative- sometimes, as when suddenly proposed an agreement for the Middle East, or when talked about boots on the ground in Ukraine, rebuffed by Member States (including Germany).
+
+Meanwhile, for all the rhetoric about "making the Europeans pay", what many forget is that the boots on the ground in Europe during Cold War had a counterpart.
+
+Have a look at [my 2018 review of "Who Paid the Piper"](index.php?page=147), and re-read the Marshall Plan non just as a financial, but also an industrial renovation to build a market so that also the USA economy, that had turned into a war economy in few years, could become a civilian economy.
+
+Frankly, I think that the Cold War, beside being won by pushing overspending, was won also because in NATO countries shelves in supermarket were provided with content, while from USSR we got jokes such as:
+<i>What is 150 yards long and eats potatoes?
+A Moscow queue waiting to buy meat.</i>
+(from [Shortage jokes](https://benlewisprojects.com/blog/jokes/shortages-jokes)).
+
+As it was uttered by the fictional Chinese ambassador in an episode of "The West Wing", the American dream was a financial/material one, not an ethical one.
+
+European states, after the demise of a handful of dictatorships either still standing or developing post-WWII (Spain, Portugal, Greece), long before absorbing former COMECON Member States, tried to develop a different model, with a shades-of-gray level of success, built around welfare state elements and social sustainability.
+
+Anyway, both the USA and the European model worked while both were growing at a sustained pace, in part due to the rebuilding post-WWII and expanded industrialization within a consumer economy.
+
+Reading the proposed 2024-2029 political guidelines, some from the USA could have seen it as the right moment to defuse the potential while shifting costs.
+
+Hence, the concept of "European self-defense", but based not on locally developed technology, and instead pushing the adoption and further licensing of technologies, products, services, energy exported from the USA as the main source- draining liquidity from Europe and undermining both local initiatives and the potential of restructuring of the welfare state.
+
+After all the "purchasing agreements" from the President of the European Commission, have a look at the new proposed budget and multi-year costs: as some from e.g. the energy industry said, what has been agreed is that the private sector will buy and purchase at prices and in quantities from the USA such as to remove any flexibility and also influencing the development of local capacity.
+
+Ditto on technology: while Europe had some potential chip production "seed" entities that could be leveraged on to generate local capacity, we had interferences from pushing to alter shareholders, to, again, promising that the private sector will buy and use in AI USA technology.
+
+Ditto on the repayment of NextGenerationEU and the Recovery and Resilience Facility: as shared in previous articles and posts, after the European Parliament noted that there was no provisioning for the repayment (hence, Member States would have to), and then, while keeping the overall amount steady a provision for a part of the amount was inserted, a recent update actually included that embedded within a specific section that covered other areas- implying that will absorb resources that were aiming to help economic development of the European Union.
+
+The payout of all these promises, plus promised regulatory changes, that converted the European Union sometimes in what I described as the Delian League Members relationship with Athens?
+
+Look at how within the "industry of industries", automotive, that in Europe covered the role of the "Military-Industrial complex" in the USA ([see my previous articles about automotive](search.php?tag=automotive),  European automotive companies are expanding production and investments in the USA, while contracting both in Europe and, at the same time, pushing local governments to lobby on their behalf for further regulatory changes that...
+
+... with the current trend of production and investment, would simply make easier to import from the USA or non-EU lower-cost production countries vehicles that under the original "green" and "transition" deals would violate European standards.
+
+President Von der Leyen will be remembered for an accelerated flip-flopping almost on a par with the one promoted continuously by President Trump's second term, and generating potential long-term liabilities without counterbalancing strategic control.
+
+Now, let's switch to the conceptual roadmap- not just of this multi-part article, but of the overall concept.
+
+
+<b>Theme 3: Roadmap</b>
+
+This final section is really short, as the visual map at the beginning shows the roadmap of the articles, i.e. which parts will follow which part, within an aggregated storytelling.
+
+In reality, this article is an experiment to integrate again other communication channels that used occasionally in the past.
+
+The discussion on Europe, Italy, Turin in this article is just a preamble, and sections on citizen audit from general (defense, automotive) to specific (Italy, Turin) will deliver supporting material.
+
+The closing part will be on the same, while discussing future segments (e.g. a 2026 study on RRF implementation status and UN SDG progress/regress).
+
+This year end multi-part article will "seed" other publishing material and benefit from other ongoing data projects and those already shared online as data since 2019.
+
+As shared above, while this first article is within the ["Europe, Italy, Turin"](index.php?section=diritto-di-voto) section as it is more "political" and "cultural" analysis, the articles that will follow are instead sampling specific elements- with data-based shorter articles within the ["CitizenAudit"](index.php?section=citizen-audit) section.
+
+Eventually, [mini-books](published) and [datasets](https://kaggle.com/robertolofaro) or [models](https://huggingface.com/robertolofaro) or [conceptual and software components](https://github.com/robertolofaro) will follow, but with this short series wanted to close 2025 by sharing "pointers" that either I or others could develop (or challenge).
+
+I hope that the overall framework of the forthcoming publication and associated material is clear.
+
+As hinted by the references to courses, AI courses, etc, I am think that in the late 2020s accessible and democratized GenAI is akin to now having a mobile, or not having in the past an email address, or even, decades ago, doing with computers what in ancient time was considered writing: a "technicality" to be left to experts, while at most those above would learn to read.
+
+Well, the amount of data (and potential distortion of analysis) improved with our current AI, as, by being trained on existing material on a level that no individual human could read or absorb, the systems are able to write convincing material out of selective choices, enabling even those without any skill to produce defensible arguments that could fool individual experts.
+
+Hence, we need to sharpen our critical skills- exactly the opposite of the results that those proposing "ready to eat" shortening of school curricula by dropping what they define ballast (all material related to thinking: from philosophy to history, etc) would obtain if every school in every country were to focus on accelerate "knowledge transfer".
+
+This and other future articles will show how actually we live in a complex world where not only you have to acquire critical thinking skills, but also keep them fresh.
+
+See you soon for the next part of this article!

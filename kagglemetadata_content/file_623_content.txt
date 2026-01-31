@@ -1,0 +1,108 @@
+This short article is part of my ["dictionary"](index.php?section=connectingthedots-scrapbook).
+
+Both this "dictionary entry" and previous ones are within the context of preparation activities for the forthcoming publishing activities on 
+_ [PRconsulting.com](https://prconsulting.com) (on the consulting side)
+_ [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com) (on the business customers and social side)
+_ [UnitedHamsterFront](http://unitedhamsterfront.wordpress.com/) (Hamster perspective on human affairs).
+
+As you probably know if you visited this website, my first experience in re-organizing office and activities without having a formal mandate but receiving positive feed-backs on the results was while serving in the Army([see here](cv); 99% perspiration, 1% inspiration- do not look at the IQ, do not look at the EQ that often is just used for manipulative purposes, look at aggregating and leveraging on multiple brains).
+
+You can actually read about my dealings with bureaucracies, corporate cultures (mainly across Europe) by reading (for free- select price zero) on [my publishing profile online](https://leanpub.com/u/robertolofaro)).
+
+If you want detailed, specific cases, I suggest you have a look at a [a fictional one that released 2015-2018 as part of the book #QuPlan<a/> (a case study on a compliance program to be delivered in few months- 200+ pages), or a <a href="https://leanpub.com/citizenaudit">couple of real cases from Italy](https://robertolofaro.wordpress.com), presented using real correspondence with the bureaucracies involved; the latter is part of the [CitizenAudit](index.php?section=citizen-audit) section.
+
+I found often, in discussions, business interactions, even requests for "free consulting" a bit of confusion between the concept of involving often stakeholders, Agile, and change.
+
+Yes, involving stakeholders often (what learned really to do in the late 1980s while building and delivering and auditing Decision Support System models) delivers better products faster- albeit it is not for the faint hearted.
+
+You need first to get on with their lingo and perception of reality, and then integrate that into the delivery process.
+
+You need not just to deliver "sugar cubes" often to stakeholders- you need to engage them for real.
+
+Meaning: if you are collectively the team of experts delivering a product or service, you need also to engage them in understanding the level of complexity involved, not hide it behind a barrage of "easy to deliver".
+
+Actually, it is true that it is not just first in software, then in products and services, that we got used to "quick fixes".
+
+It is common parlance in business to state that our collective orientation to short-team results implies that we focus on each quarter.
+
+And each quarter report is really often preceded by months of operational tuning oriented to that quarterly report.
+
+And before that? Of course, there was another quarterly report.
+
+Of course, there are still "strategic initiatives" that require years, not quarters, to be implemented, but often the "strategic focus" is just in the first quarter or two- then, continuity toward the previously planned deadline, and continuous rescheduling.
+
+With our latest financial tricks that in the 1980s-1990s would have been considered too creative: company A investing in company B an amount X, so that company B can spend amount X into products and services of company A.
+
+Net result? Not within the timeline for delivery identified, but immediate positive reaction by stock markets.
+
+There is a famous quote that many assign to P.T. Barnum (myself included), but it is more interesting [this story of how the "There's a sucker born every minute"](https://medium.com/skeptikai/the-real-story-behind-the-quote-theres-a-sucker-born-every-minute-1db9a7220d34) came about.
+
+Adjusting to market and business reality on a multi-year initiative is wisdom: no plan, notably no longer-term plan, survives the contact with reality (yes, it is a quote).
+
+Still, this implies that, the longer the timeline, the more critical becomes pro-active governance.
+
+Often, tinkering starts as a distortion of lean and agile approaches: mistaking delivering often to collect feed-back and improve gradually, or give value by releasing in "waves", with looking with what can be delivered often.
+
+The same applied when I supported startups few decades ago: also a colleague who was more focused on finding grants and funding, told me that he got tired of "startuppers" and "entrepreneurs" showing up not with a plan and ideas- but with a simple demand: "what should we do to get some funding/grants?".
+
+When something has systemic impacts, there are potentially some "low-hanging fruits" that can be obtained along the journey, including early successes that can materialize already during the preliminary phases- but should be qualified as such, not as representative of the overall change initiative.
+
+Usually these "easy and fast to reach" objectives give visibility across the organization, and therefore turn into a self-fulfilling prophecy- an incentive to avoid complexity and look for "low-hanging fruits" everywhere.
+
+Anyway, finding "low-hanging fruits" to deliver enables to quickly score "corporate points"- and it is typical of newly appointed managers in our competitive time.
+
+To then move fast to other roles before something that cannot be managed as a collection of "low-hanging fruits" appears within the horizon.
+
+You probably heard of the framework considering, between other elements, chaotic, complex, complicated.
+
+An updated [summary of the Cynefin framework history](https://en.wikipedia.org/wiki/Cynefin_framework) can be read on Wikipedia- but that partitioning, in various forms, is also part of any training on project and project management, as well as most project and program management approaches.
+
+The real risk is when, using various theoretical approaches as an excuse, instead of considering the systemic impact of initiatives or changes in the context, the focus shifts on avoiding anything that cannot be converted into that series of "low-hanging fruits".
+
+How? By willingly or unwillingly ignoring or removing inherent complexity, or even anything considered complicated.
+
+I remember when in the early 2000s somebody promised to senior management that they would deliver a new ERP system in months: something that is never easy, as any new or revised process or system that crosses the boundaries between processes in any organization interacts with the organizational culture- and you do not change an organizational culture in months.
+
+While back then that involved larger organizations, in our current technological environment in 2025 also smaller entities are being attracted with "low-hanging fruits" that are basically "template projects recycled", with minimal changes.
+
+If you align your organization to a template what do you obtain?
+_ remove your differentiating factor 
+_ become captive to an alien organization culture and its evolution
+_ layer on top of your culture further constraints that you do not control.
+
+A corollary of that risk blended with technology is that this approach is addictive: as in the old [Gresham's law](https://en.wikipedia.org/wiki/Gresham%27s_law) ("bad money drives out good"), if your benchmark become a series of (mostly recycled) "low-hanging fruits", your organization will gain at least three elements:
+_ less willingness to tackle with complicated and complex initiatives 
+_ a focus on incremental "minimal resources" that will impede more ambitious goals
+_ a structural avoidance not just of failure, but also of the potential of failure.
+
+Managers that get used to have only "low-hanging fruit" successes will probably be able to "sell" their success story- but if (better, when) initiatives show to be not as simple as expected, will quickly escalate into chaos or confusion, skipping altogether the conversion into complicated ("known unknowns") or, if needed, complex ("unknown unknowns").
+
+And, also, to paraphrase the [long interview with former Secretary Donald Rumsfeld](https://www.imdb.com/title/tt2390962), getting addicted to "low-hanging fruits" as organizational change dimension might eventually result in many "unknown knowns".
+
+What are, in this context, "unknown knowns"?
+
+You assumed to know something, and instead lost touch with your own organizational reality, and replaced that with a set of assumptions and selective perception of reality.
+
+Innovation and maintaining a competitive advantage cannot be based just on "known knowns": you need to retain within the organization the capability to deal with risks and unknowns, recover from mistakes, to see reality for what it is, and to accept and learn also from failures.
+
+Do you remember when, following the "low-hanging fruit"/"fast and furious" approach, over 20 years ago the USA President said that a mission had been accomplished, after landing on an aircraft carrier?
+
+A "low-hanging fruit" approach that did not include cultural and organizational change.
+
+Then, for a couple of decades, the real mission continued- and, when eventually the plug from the mission was removed, it was still "smoldering ruins".
+
+Derived from a consequence, between others, of the Vietnam war- that showed how long-term is not exactly aligned with the public willingness to support, and that communication wins wars at home more often than reality.
+
+Not only in the USA- as an American colleague and mentor who had worked in Italy for many years and also within public services said: often when a solution was proposed, the feed-back was "it is too complicated".
+
+Look at the Italian national debt in the 1990s and now, and you will see the side-effects of decades of tinkering to avoid "complicated choices".
+
+Another example: in the early 1990s, when was localizing, designing, delivering training curricula in methodology, often reminded to those attending the project management and business analysis side of courses a simple truth.
+
+Yes, they had started software developers ten or more years before, but had moved onto other activities- and micro-managing developers a decade later because they assumed that what they knew (the "known knowns") was still relevant undermined motivation and potentially generated costs (e.g. they did not know how details within software development tools and practices had evolved- the "unknown knowns"- they assumed to know but did not know). 
+
+How do you recover from an addiction to "low-hanging fruits"? Start by renovating your governance and communication channels, to ensure that information reaches those who would need it to make choices.
+
+Being a dictionary entry, this short article is just a kind of "micro-position paper", to be referenced while discussing the same concept- write once, use repeatedly.
+
+Anyway, soon there will be articles where will reuse this and other dictionary entries, and develop on them.

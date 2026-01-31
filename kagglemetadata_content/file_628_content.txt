@@ -1,0 +1,233 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251215_article.png)</center>
+
+This article inaugurates a new "Pointers" tradition.
+
+Specifically, this will be a multi-part article following this publication plan:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/pointersseries1_cover.png)</center>
+
+There will be more "pointers" multi-part articles in the future, but this one is the first experiment, focused on a specific set of themes.
+
+This first part will be repeated across all the parts of the article- as this is more a journey than an article, and therefore knowing your overall mission is useful to contextualize the details of each part.
+
+Key choice is that, while this first part and the last part are more about discussing the overall context and (in the last section) the potential developments, the other articles will be instead data-driven storytelling.
+
+To read (when available) the other parts of this article, navigate using the option at the top of article, that shows the previous and next (when available).
+
+To read all the parts starting from part one, visit the [multipart list section](multipart).
+
+The last part will contain also a list of all the published parts with associate links and the abstract of each part.
+
+Why now? This 2025 has been a year of plenty of flip-flopping, both at the national level (Italy), in Europe (and neighborhood), and the world at large.
+
+The key risk? In our current climate, acceleration generates what often described online and discussed again few days ago by showing how, in routine rounds of communication and "decisions" at the global level, it is akin to a fencing duel where all those involved operate on different planes of reality.
+
+Or: the reality that they themselves identify by looking at the mirror, and then assuming that the world at large will follow their own assumptions and will react as they would react, is not supported by any consensus on such an assessment from at least the key counterparts involved.
+
+A confusion between manipulation and "acting strategically": should refresh if not game theory, at least [the 36 stratagems](books/stratagems).
+
+Side-effect: 2026 is potentially going to be an encore, with the aggravating factor that what was apparently solved in 2025, will surface again but with vengeance in 2026, and with the "resistance to change" and loss of credibility and effectiveness built by the botched attempts of 2025.
+
+Yes, if you read the first part of the article, you already read these lines- as will be repeated in each article.
+
+While the first and last part will follow the new structure that adopted after "discussing" with different AIs (online and offline) how to evolve layout to ease access, i.e. preamble-themes-etc, this paragraph will instead be common to all the "central" parts of the article, those focused on a specific theme.
+
+The reason is simple: just one section- "data narrative".
+
+As the central parts of the article will be within the [CitizenAudit section](index.php?section=citizen-audit), will follow a "leaner" approach: a storytelling linking to all the data shared as potential resources.
+
+Of course, the storytelling will not be "neutral", as any data storytelling is based on a data choice, hence it is selective, not universal.
+
+Anyway, this approach will leave all the central parts of this article as a data-sharing with a short explanation of why the "data dots" are connected.
+
+The purpose is to share material and a limited degree of assessment, so that both readers and myself in the future can, if interested, develop further material, knowing that the sources are shared.
+
+Therefore, while the first and last part of the article are more focused on the ends, each section that is following the "data narrative" (or data storytelling) approach is focused on the means.
+
+Note: in my preparation activities, whenever I quote a paper, document, etc, routinely take notes and quotes.
+
+In this "Pointers" experiment, will share my "highlighted" parts on each paper etc on the GitHub repository, to keep "lighter" the articles, while providing segments that could actually be useful (and avoid that you have to spend time to redo what already did).
+
+After this multi-part article will be released in full, will fill the GitHub repository.
+
+Hence, future readers will have both:
+_ the "Western option"- narrative and then dig into supporting material
+<_ the "Asian option"- reading the supporting material before reading my "five cents".
+
+If you find further material that is publicly available (for data, open data) that you consider should be included in this section, please feel free to contact me [on Linkedin](https://linkedin.com/in/robertolofaro).
+
+Whenever I add material following a public suggestion, I quote the source, so that others can add it.
+
+In this second part, will focus on "Seizing structural opportunities in defense and space".
+
+Enjoy the reading.
+
+
+<b>Data narrative</b>
+
+On the defense (or, with the spelling used in Europe, defence) side, posted since 2008 various articles, already while living in Brussels.
+
+One of the concepts was lifted from science: the mass of the a "center of power" distorts the space around it, and can influence the "smaller power masses" around it.
+
+It is a polycentric approach- which, actually, blends physics, politics, cultural anthropology, history, and something that, in our redefinition of the "security posture" of the European Union, would be convenient to re-consider.
+
+I will share in this CitizenAudit article data, complementing on what I released on 2025-10-26 within the article [A data storytelling retrospective about manufacturing #European #Union #automotive #defense](index.php?page=624).
+
+As I wrote in 2025-03-18 within a really short article (for my standards), [ReArmEU as a first step of a long journey](index.php?page=591), writing about our current initiatives in Europe (from those specifically on defense, to manufacturing chips in Europe, to AI, etc):
+<i>we need to plan short- medium- long-term, as reality will not wait for us to catch up
+we need to serious reconsider shrinking down and integrating better our decision-making capabilities.</i>
+
+I think that data-orientation should consider a systemic perspective, and probably a 20 year old paper on ["learning from the stones: a Go approach to mastering China's strategic concept, shi"](https://www.files.ethz.ch/isn/14183/Learning%20from%20the%20Stones.pdf?referrer=grok.com) could help understand why European Union would do better than consider playing on a "chessboard" with massive forces, and focus more on flexibility, preparation, and building up infrastructure considering that we are not in the 1950s.
+
+Leveraging on the multiple organizational cultures that enrich the European Union, while increasing integration: subsidiarity does not necessarily imply inefficiency.
+
+Or: "dual-use", in the XXI century, when even smart clothes include "knowledge capabilities", will not be confined just to border line items that could have both civilian and military uses.
+
+The "go" (or "weiqi" to use its Chinese name) game is about who takes more territory, and the board presence gradually expands across multiple campaigns and initiatives, not a single "mission accomplished" on a single point of failure.
+
+In the end, victory is the result of a continuously altering balance and, unless you have a definitely weak player (i.e. myself- as never played against humans, and only now on my mobile at last found an app that reportedly "inherits" from Leelazero and other "AI-based" Go playing projects) pitted against somebody with significantly superior skills, a win/lose out of those points on the board that basically, in a 19x19 board (smaller ones can be used, e.g. 9x9 or 13x13), represent the day of the year, often is a matter of a handful of points of difference.
+
+The paper referenced above contains also an extensive bibliography on applications to military and diplomatic initiatives.
+
+The key quote, from the "Art of War", is <i>"Thus those unable to understand the dangers inherent in employing troops are equally unable to understand the advantageous ways of doing so."</i>
+
+Anyway, a quicker access is a movie called [Red Cliff](https://www.imdb.com/title/tt0425637 ), which gets across much of that conceptual material about "shi" through a visually compelling representation.
+
+As you can see, my concept of "data" includes the context.
+
+A curious quote from that paper, written by an American author, is to compare how the "american football" approach to defense has some consequences, while instead the approach of soccer (more common in Europe) would deliver a mindset similar to the one coming from the above (page 27-etc):
+<i>"In many ways, soccer is also a paradigm of Sun Tzuâs way of war. It does not seek
+annihilation of the opponent. Instead, it uses strategies and tactics of surprise, ï¬nesse, and continual movement of the ball in attempts to create strategic opportunities for goals.
+...
+Soccer players constantly switch between offense and defense. In the game of go, there is no clear-cut frontlineâdefense or offense is relative; it is a matter of perspective. Operating in the American football mindset, one is single-minded.
+"</i>
+
+The European Union new defense posture cannot escape from the reality that we are still a 27 Member States union that, anyway, has neither federal taxes, nor federal armies, nor a federal bureaucracy.
+
+The European Commission sees itself as the latter, but, frankly, as I wrote and commented also over 20 years ago while designing a new service for local authorities to navigate EU regulations etc, often writes and communicates as if it were living in a self-referential bubble, and ignored completely the asymmetry of capabilities available to those who, as mere "cogs in the wheel", receive instructions from them.
+
+If we are to take over the leading role in NATO, replicating the USA approach would squander the cultural value embedded in our structural flexibility.
+
+Yes, flexibility implies a degree of redundancy and potential waste, but that we are already shifting toward an orientation to results instead of "balancing distribution across Member States of offices production etc) could avoid the typical appropriations theater that so many movies showed (e.g. my favorite [The Pentagon Wars](https://www.imdb.com/title/tt0144550)).
+
+On 2025-11-04 attended a workshop hosted by Ernst&Young at the Manufacturing Competence Center in Turin, an event whose target were local companies.
+
+The concept was sound: presenting, as the title of this article shared, the opportunities for manufacturing companies opened by the new defense and space European Union initiatives.
+
+I will share just a segment of a slide, about the side of companies currently within the Aerospace industry:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251219_01_628_20251104_ey_impreseaerospaceitalia.png)</center>
+
+Yes, the typical company side within the industry is small- but also another slide on the company size within the automotive industry (the target audience of the presentation) is small- as less than a quarter of the companies across all the company size classes had more than 50mln turnover, according to data from ANFIA presented by E&Y.
+
+As you probably know, as I started in 1986 within a software development unit of an American company known for audit and management consulting services plus system integration (in its current incarnation, more of the latter and none of the first), I saw the evolution of the consulting industry across few decades.
+
+I think that, as discussed later, AI is already changing the consulting market, but the decades of experience of the big players that originated in audit (including E&Y, Accenture, PwC, etc)...
+
+is that they have to strengths useful in cultural transitions such as those that most manufacturing companies in Europe will need to cover, to move not just from automotive to defense, but to the new approach of "dual use" that described above.
+
+In my view, these strengths include:
+_ organizational culture awareness that most smaller companies never had the structure and resources to develop, as were focused on serving their existing customers and retaining a role in specific supply chains
+_ a significant stock of projects done (successful, failed, "shelfware" does not matter: it is the end-to-end experience and the ability to learn and convert them into reusable reference asserts that matters)
+_ the financial resources and attractiveness (as they can offer multiple missions and continuity of work) to attract talent with specific knowledge, e.g. in this case military and manufacturing experts that would never consider permanent employment into smaller companies.
+
+Hence, the event was timely and informative, as many smaller companies are used to production approaches related to mass-production manufacturing in automotive.
+
+As I shared in previous articles, and was reminded at the event, the typical aerospace and defense production run is insignificant in terms of size, if compared with automotive.
+
+If you, say, prepare to deliver 100,000 seats for a car company, covering 25,000 vehicles, you can afford to absorb R&D costs etc that would be unbearable if you had to provide just 200 seats for 100 armored trucks as your final production run.
+
+Hence, a smaller company that worked only in mass-production industries, at least on the planning and processes and systems side would need to bring new competencies onboard for the time needed to:
+_ assess the existing,
+_ assess the needs,
+_ designing and carrying out the change initiative,
+_ further implementation,
+_ etc, etc.
+
+If it seems too much, it is not: in a smaller company, could just imply having somebody focused on the new market and associated compliance.
+
+Anyway, before embarking on adding a new market, it makes sense to assess the potential: if e.g. there are 10 companies that currently deliver packaging services to automotive customers for millions of spare parts, that same capacity would be an overkill for a significantly smaller market with customers whose products are delivered on a project-based approach- and probably would require a different concept of "packaging":
+
+As I wrote above "dual use" has a different perimeter in our times, and the space industry makes no exceptions.
+
+Also the <a hreF="https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)">European navigation system Galileo</a> had to consider what would happen in the event of a conflict.
+
+A recent report from [ISPI](https://www.ispionline.it/), with the title ["The European and Italian Space Ecosystems - Pillars for Strategic Autonomy"](https://www.ispionline.it/en/publication/the-european-and-italian-space-ecosystems-pillars-for-strategic-autonomy-218740) (90 pages) provided interesting information about the actual market size, both overall, for Europe, and specifically for Italy.
+
+Again, company sizes for space companies in Italy are predominantly small (page 52):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251219_02_628_ispi_spacereport_page52.png)</center>
+
+while. overall, in 2024 (page 40) the space activity reached a significant market size:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251219_03_628_ispi_spacereport_page40_2024data.png)</center>
+
+Space is a global market, but funding still implies attracting different investors in different regions (page 46):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251219_04_628_ispi_spacereport_page46.png)</center>
+
+The issue 4-2025 of InformazioniDifesa presents (in Italian) data that any company willing to shift to (or add a revenue stream in) the defense and space domain should be aware of- you can [read a sample and access the magazine here](https://www.difesa.it/informazionidelladifesa/periodico/index/79014.html).
+
+As you probably know, since 2020 added again AI within the themes I write on (and, pending real projects that make sense for customers, started and delivered my own mini-projects to embed it within my research, publishing, and eventually consulting activities).
+
+If you are considering entering a market in 2025-2026 or later, you cannot ignore the over-hyped elephant in the room: AI.
+
+During 2025, one of the forthcoming [PMI](https://www.pmi.org/) Standards and reference material I volunteered to review was on using AI in project, program, portfolio management activities, and managing the same that instead have an AI component (or deliver an AI initiative).
+
+Should be released in 2026.
+
+Meaning: while AI has been around since at least the 1950s in different forms, the democratization delivered by GenAI not only generated awareness, but also, thanks to the easier access for experimentation also by business domain experts with no academic profile, allowed to identify and tentatively initiate or even deliver so many projects and initiatives, that makes sense to start developing and sharing a common "lessons learned". 
+
+There is an element that many coming from other industries forget: space and defense both have a specific issue with logistics- i.e. you need to consider degrees of criticality that, for example, you would not consider with civilian cars, whose owner could always call a truck to tow the car to the nearest shop.
+
+As an example, decades ago in Rome was reminded that one of the issues that had the Germans during WWII was logistics: too many different vehicles with too many different spare parts implied a procurement (and provisioning where needed) nightmare.
+
+And, frankly, also Napoleon, an artillery officer, was said to have in no small part not just fortune as a factor of his initial successes- his logistics experience (try going around with artillery without what is needed to make it work and deliver) allowed his troops to outperform opponents whose mobility was old fashioned.
+
+In one of my mini-books, long ago wrote about the potential of 3D printing to deliver e.g. in smart cities or remote locations not spare parts, but licensed spare parts designs on a pay-per-print, while having locally just the "raw material" to print (e.g. 3D metal printing- years ago even discussed with a partner who wanted to import precious metals 3D printing equipment).
+
+You can read on NASA's website [a history of 3D printing in space on the International Space Section](https://www.nasa.gov/missions/station/iss-research/3d-printing-saving-weight-and-space-at-launch/)- more than a decade of experience.
+
+If you blend the two elements, AI and 3D printing, this could actually inspire smaller companies, that would never have production facilities to deliver final products, but have product prototyping experience and creativity, to become a different type of supplier.
+
+Manufacturing, yes- but having "in house" just samples of manufacturing infrastructure as a kind of "point-of-production/sale" testing unit, to deliver then "printing specification" to customers of their products, stating which printer with which material to use, and the price-per-use of their designs.
+
+Enabling quick redesign and, by integrating AI (e.g. using "digital twins" of equipment), to pre-empt issues and design in each specific field of operation or mission replacement parts tailored to operational issues.
+
+If it seems far fetched- look for articles explaining how equipment designed and tested for rock deserts did fare initially in sand deserts.
+
+Space and defense, as I wrote above, share the challenge of equipment becoming "critical"- hence, from the design up, if you are coming from a different industry, seizing opportunities implies rethinking.
+
+Smaller companies will probably be unable to attract industry-specific talent, but will need to use external help to kick-start, and then build in house what is continuously in use- as described in decade old mini-book ([#SynSpec](synspec)) on how to integrated external experts.
+
+It is worth reviewing another report, <a href="https://mackinstitute.wharton.upenn.edu/2025/gen-ai-military-report/">Generative AI Adoption in the US Military
+A Framework for Assessment, and What the Private Sector can Learn</a> (49 pages), released few months ago by the [Mack Institute](https://mackinstitute.wharton.upenn.edu/) of Wharton.
+
+Interesting reading per se, but I will share just a couple of images.
+
+First: think in terms of architecture, not just of application, i.e. systemic interactions.
+
+This image (page 28) represents the layers that should contain:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251219_05_628_mack_page28.png)</center>
+
+Then, consider the range of potential applications of AI within the defense environment.
+
+This image (page 11) is a good summary- and should inspire also some scenarios for integration in further activities and in products, as well as an assessment of what "dual use" could be for your own product:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/12/20251219_06_628_mack_page11.png)</center>
+
+If your physical product contains already software components (does not matter if AI or not), you should consider your own development and testing processes not just as compliance ex-post, but as compliance by design and by default (yes, I am quoting [GDPR](gdpr) and, indirectly, the AI Act).
+
+Space, defense, health: all share specific needs in considering the "critical" side of deployment- and even our current drive toward digital currencies will need to cope with needs such as accessibility to information while no connection is available.
+
+If you have time, I would suggested three reports published between 2023 and 2025 by the National Academy of Sciences (an organization that, incidentally, routinely organizes workshop discuss both rules and experience in all the domains discussed within this multi-part article, from an organizational development and not just scientific/technological perspective):
+_ 2023- "Test and Evaluation Challenges in Artificial Intelligence-Enabled Systems for the Department of the Air Force" ([here](https://nap.nationalacademies.org/27092))
+_ 2025- "Machine Learning for Safety-Critical Applications: Opportunities, Challenges, and a Research Agenda ([here](https://nap.nationalacademies.org/27970))
+_ 2025- "Actionable Directions for the U.S. Army, the U.S. Navy, and the U.S. Air Force to Enhance Mid-Scale Manufacturing: Issue Paper ([here](https://nap.nationalacademies.org/29233))
+
+I could share also the links to all the European Union material consulted above defense initiatives and related- but would be a distraction, as you can search online yourself.
+
+Anyway, in my dataset and documentation release by the end of the year, as I wrote above will share both the bibliography and quotes from each document.
+
+For now, good luck with your transition initiatives.

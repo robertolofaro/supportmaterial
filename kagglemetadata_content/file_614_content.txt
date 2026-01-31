@@ -1,0 +1,241 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250821_article.png)</center>
+
+This article is divided in five short parts:
+_ part1- the context
+_ part2- the past and transition
+_ part3- impacts seen from the consultants' side
+_ part4- impacts seen from the customers' side  (<i>this article</i>)
+_ part5- scenarios for the way forward.
+
+Each part will be published on a daily basis (the first one on Monday 2025-08-17).
+
+If you read my recent articles about forthcoming publications, you know that I am preparing the relaunch as publications of two websites, [PRConsulting.Com](https://prconsulting.com) (focusing on the consulting industry side), and [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com), focusing on the customer side.
+
+The general concept, as outlined in the title, is the relationship between external providers of expertise and customers.
+
+If you had a "d&eacute;j&agrave;-vu" moment, you are right: the previous few lines were already within the part published yesterday.
+
+This part and the next one, looking at the impacts of AI on the two side of the coin (providers of external expertise and their customers), will be shorter than many would expect- as future publications on those two websites will dig deeper in what would be relevant at the time of publication: hence, consider these two parts as a quick look at the past, an outline of the present, and a non-exhaustive representation of potential consequences of AI.
+
+As I wrote in the first part of this article: <i>"If you convert any technology into a consumer technology, you create a potential for really short purchasing cycles, something that e.g. converted gaming, from something limited to buildings containing gaming machines, to a machine potentially in every home."</i>
+
+Now, moving onto the customer side, I will start as usual with few practical case from my past.
+
+This part of the article will not mirror the previous one on AI impact on consultants, because, frankly, I think that customers could actually reach more benefits from the disintermediation of access to technology represented by AI and even GenAI, even if just used as a "filter" and "dispatcher" to redirect to existing and new (AI- and non-AI-based) tools.
+
+It will be longer than previous parts, as the organizational customer side on the AI impacts will require at least four elements:
+_ discussing the past
+_ discussing the present
+_ discussing two futures:
+__ the inside (customer) - outside (vendor of external expertise) one
+__ the internal one, i.e. converting the organization into an evolving ecosystem via continuous feed-back.
+
+When talking about AI in business, in 2025 hype on the supply side (from the vendor side) is often more than matched by hype on the demand side (from the customer side).
+
+It is obviously trendy to claim that your products or services to consumers are "augmented" by AI- almost becoming a cost of staying in business.
+
+Reminds me when I was attending during the summer the London School of Economics, and went around usually with two classmates, an American and a Japanese.
+
+Going around, some restaurants and theaters, as it was quite warm, showed a banner stating "air conditioning inside"- to which my American classmate commented: it is akin to writing in the USA "we have toilets"- or: product/service features that are expected, but presented as a value-added.
+
+With AI in products and services, we are still in that UK vs. USA phase "we use AI" has some appeal (and few services or products actually qualify what is the value-added).
+
+If the AI will not get into another "AI Winter" (see the previous part of this multi-part article), and will become a permanent component (not necessarily visible to consumers), eventually we will get used to have product that interact with us with voice or kinetics, and services where one or more component of the service delivery is done my AIs able to interact, explain, and, if and when needed or requested by the customer, involve also humans.
+
+And some elements of AI will probably turn into commodities that anybody and any organization can integrate into products and services delivering multi-component interactions with customers, and a degree of adaptability to feed-back provided.
+
+For now, it is a highly dynamic domain where technology itself allow some "maquilladora" companies to actually provide little more than marketing savvy layered over pre-existing models and solutions, and still claim to be providing AI innovation.
+
+Personally, to keep ahead of the curve, started few years ago, at the same time when started exploring if I could use open source to do the same models and visualizations that used to do with paid software in the 1980s-1990s-2000s, to do something that did in the past.
+
+In the 1980s and 1990s, while working both in Italy and abroad, and supporting both (foreign and domestic) customers and (foreign) business software publishers, had my own "knowledge-based networking": I have been a knowledge bridge since forever, and simply converted that into bridging between different industries, domains, and centers of interest.
+
+So, before starting to publish in 2003 my e-zine on change, actually I had over a dozen of years of experience in "bridging"- preparing informal reports or position papers, acting as Devil's Advocate for partners and colleagues to pre-empt potential issues, etc.
+
+COVID helped, as suddenly invitations from the USA or Australia or from around Europe turned into webinars- hence, could accept and attend many, and then integrate new points within what shared with others.
+
+Linkedin actually can be useful to get updated for free my multiple sources, if you sort out the many that just advertise- as I wrote in previous parts of this article and online in various posts, I review more than 100 papers each month just for my monthly update on AI Ethics ([here](aiethicsprimer)), while I get at least on AI per se as many through my connections and their connections.
+
+Linkedin reminds me a lot the 1990s UK market in IT services: there was a time when a Visual Basic developer had a salary reference point that was significantly higher than a bank branch manager- for a couple of years, then suddenly there was not demand; ditto for knowledge managers.
+
+So, nowadays it seems (courtesy also to the recommendation algorithm of Linkedin) as if everybody and their dogs are focused on AI.
+
+Beside those obviously selling their wares while selectively recycling material culled from others, including government entities all providing the same advice (I think that would be simpler if OECD for its "rich countries" club members, and the UN SDSN for everybody were to share something feasible at different levels of commitment/risk/resources as a shared framework of minimal elements, to be tailored locally), there are different perspectives on the same issues, and different issues from different domains.
+
+There is a word that will use few times in this part of the article: dinosaur- and I am referring to myself, not to customers.
+
+Why? Because, from first toying with computers (punched cards) in the late 1970s while in high school but courtesy of a friend of a classmate who invited us to use an IBM terminal at the university of physics in Turin, to my first software developed and sold while still in high school by applying gaming concepts and visualization approaches to something as basic as solving and representing 2nd degree equations (albeit then drafted on 3rd degree, as allowed to work on 3D visualization), in business went through around four decades of digital transformation and "generations".
+
+If you worked on integrating technology in business processes, and then redesigning the latter, or designing "technology embedded since inception" processes and organizational structures to benefit from more than a mere transposition of XIX century and early XX century organizational concepts within software...
+
+... 1980s vs. 2020s are different planes of reality.
+
+You can actually see it by looking (you do not need to follow) at my posts and stream of like, comment, repost on Linkedin ([here](https://linkedin.com/in/robertolofaro)), as routinely either add a like or feed-back with the standard buttons to those items that I want to trace for future publications (or just to give instant feed-back/support), or add comments lifting from my experience something that resonates with what I share from others.
+
+In all cases, if I used sources to add my comments or to get inspired for a post, share the source, so that you can follow your own threads.
+
+Why this digression? 
+
+From a business perspective, what decades ago suggested to a customer to add within their new organizational design as a function within marketing (observing the market), while designing the new organizational chart.
+
+Nowadays, considering that AI can act as a continuous uncontrolled source of "recycled advice" tailored to a specific thread of exchange, such an approach could actually now be something worth HR to help build in any function within any business organization large enough to have a formal organizational chart.
+
+Let's see a picture of the actual reality about AI use within business enviroments, as shared yesterday on Linkedin by a connection (it is in German, but you can ask GoogleTranslate to translate both this articles and any text within images):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250820_ai_realistic.jpeg)</center>
+
+Earlier this week an Italian business newspaper reminded the results of a study from the MIT
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250821_mycommentilsole.png)</center>
+
+And then another contact on Linkedin reported the obvious: remove bells and whistles (something I wrote about in the past and also in previous parts of this article), and look at business impacts:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250821_kaplan.png)</center>
+
+The target of that quantitative post in German was midsize companies (probably in Germany)- but, frankly, considering Italy, those are representative of the business environment: in Italy, even the few larger companies often internally behave more as a coalition than as a company, or otherwise turn directly into behaving as a ministry.
+
+Therefore, this is the current landscape: ChatGPT is accessible to anybody with a mobile phone or computer, and basically everyday there are articles about it, while Copilot installs itself in any software provided by Microsoft or companies Microsoft has an interest in (hence, also e.g. in WhatsApp).
+
+Hence, it is to be expected that small (and not so small) companies, when contacting real AI experts (not just consultants jumping on the latest bandwagon), as usually smaller companies do, pretend to know more than they do by uttering the famous names that everybody it talking about- ChatGPT and Copilot.
+
+And, after being sent packing, will turn again to those uttering those famous names in the same phrase where will promise a pot of gold at the end of the rainbow.
+
+What is then delivered is often at best a better and easier way to access document, procedures, status of activities, and maybe automation of some well-defined repetitive tasks, as well as chatbots interfacing with internal and external customers.
+
+At the end of the journey, initial promises are matched with actual results- and the comparison affects more corporate willingness to dump more money on pilot projects- killing in the process also some worthwhile experiments just because their proponents have clumsy communication approaches.
+
+I look forward soon to hear again what a customer said at a SAP user group in Germany that I attended virtually years ago: "our company has more 'pilots' than Lufthansa".
+
+Anyway, AI current technology, despite offering much less than what many of its business advocates promise, can still provide significant benefits to customers- and will discuss some examples toward the end of this article.
+
+If you read the previous part of this article, toward the bottom you read that there are few majors issues to cope with, and at least two of them apply "as is" also to the customer side:
+<i>
+_ <i>reconfiguring</i>- need new mindsets and focus on helping foster talent, also if will be spread across multiple companies, as will be able to bring in new ideas instead of copycat
+_ <i>restructuring</i>- internal teams should be less static, sharing common approaches, but then "swarm" on missions with roles that are not hierarchical, but based on specific needs
+
+</i>
+
+I think that, after that picture in German about what is really done by companies, before discussing those potential benefits, it is better to go back to the basics. 
+
+When we talk about AI, I think that we should always keep in mind some basic concepts- including what currently is diffused, with a relatively cheap access, and is considered by the "buying side" as "the" AI.
+
+What really democratized access was not just availability, but ease of (human) interfacing with AI, through natural language (which implies: intuitive enough that often use happens long before training is defined and decided to sort out issues).
+
+With all their current limitations, admittedly LLMs and ChatGPT (and its siblings) did a lot to raise awareness.
+
+AI, through its use and the current concept (based mainly on harvesting what already exists, or what users provide in terms of content and feed-back), has the potential to inspire experimenting with innovation that could affect internal operations in business, but by many that until recently had no voice.
+
+Its accessibility is a double-edged sword: those with a specific domain knowledge can bypass any "technological priesthood" filter, but, not understanding the architecture and logic of what they are using, risk turning into Trojan horses much more damaging than any software injected in computers and smartphones to "extract value" (be it data or setting traps for ransomware).
+
+As I wrote a month ago, within the article [The #human #side of #AI #adoption- where #funding should go](index.php?page=607), policy and politics should therefore reconsider their usual approach, helicopter money (or even sprinkler money) to companies, and consider that the target for awareness should be everybody.
+
+Some countries adopted that approach by deciding to select a specific vendor and give access to their citizens to its services for free, others by building from scratch new models that will then be available- the concept therefore is not really that innovative, requires just a bit of courage in resisting pressure to keep following older paths.
+
+As befits a dinosaur, I would like to share some really old cases and how used it in the 1980s-1990s (whenever feasible discussing also evolution or how could evolve with current technology).
+
+Then, will discuss how other past projects, notably in controlling (business, financial, marketing, etc) and coordination or KPIs (Key Performance Indicators) design and monitoring, could evolve now.
+
+In the future, will continue discussing within the [organizational support](index.php?section=organizational-support) section specific cases.
+
+I will skip what I shared already in previous parts, about the scoring system in COBOL in 1987-1988, as anyway it was more a case of complex decision tables with a pre-defined taxonomy and limited impact from variations in parameters to define to which cluster the specific should apply to- as in any classification project.
+
+More interesting, between the late 1980s and early 1990s, a couple of cases where the "optimization" side was supporting decision-making:
+_ one model that designed with the organizational development office of a bank, to define the mix of staff and size for a new branch
+_ another model to implement an analysis done by the consulting side of an audit company, to allow deciding where would be more convenient (from a logistical cost point-of-view), to position a new branch, considering also the new route costs, etc.
+
+Both were relatively difficult to implement, but the second one immediately passed the "neutrality test"- when done, I was asked by the business leader doing previously those decisions about the impact of a specific choice, he said his value, I said the model result, and was considered acceptable.
+
+As for the first model, just by chance, when I was made to return in Turin in 2012, after few years that was in town, when I described the concept to somebody working for the same bank was told that actually eventually developed a system that covers that area- and was in use.
+
+Why these two examples? Because both show a critical concept that many do not consider: a decision-support model, also if was primitive in terms of interaction with its users, was a tool to experiment, explore, and evolve a concept that then could be further developed and also converted into a more manageable operational environment- not just something developed to be used with a specific tool.
+
+Implication: plenty of analysis spread across time, and across the lifecycle continuous reviews both of the requirements and the model.
+
+When was sound enough, could then either continue in the same form or, courtesy of the awareness acquired, tossed away and done into a different technical environment.
+
+Recently, instead, saw too many positioning not the concept but the specific implementation based on the specific characteristics of a specific AI platform: which is a contradiction of the flexibility that AI tools should provide, thanks to their ability to "reason", if compared with more traditional development tools.
+
+Using AI, I would expect also the ability to evolve better than the old refactoring from, say, COBOL to Java, and from mainframe to client-server or web or mobile platforms.
+
+Actually, within an AI environment, would expect that evolution to be managed by AI under human coordination.
+
+Moving from the 1990s to the 2000s, few other cases that did not use AI back then (at most just classification algorithms), but could probably be interesting now:
+_ for an audit about knowledge management and retention practices, after an initial assessment proposed an approach based on defining a radar chart positioning different parts of the structure against a desired profile across few parameters, to allow then identify a convergence roadmap; in recent times, focusing just on the concept and visualization, you can see [e.g. a notebook that released few years ago on Kaggle as part of a contest](https://www.kaggle.com/code/robertolofaro/ai-organizational-scalability-and-kaggle-survey); for similar systems, it would be feasible today to start with an assessement, and then identify not just convergence, but also when could make sense to start a further cycle of convergence ("continuous improvement" embedded in operations, and not just as an ex-post or "lessons learned")
+_ to evolve an application about shopfloor quality, with equipment that had no Industry 4.0 elements (i.e. there was no collection within the system of data on status and usage provided by equipment), developed a concept of collecting statistical data on elements such as MTBF and other operational KPIs, and out of that shift from periodic to preventive maintenance; the next step, once enough data was available, was to shift to predictive maintenance- but stopped my collaboration before that, as the partner violate IPR licensing terms; in our times, with equipment able to provide continuous information, the key element would be to identify what is relevant to a model, and then focus on predicting where to intervene- to improve on the reduction of stock of spare parts, and integrate also the lead time for provisioning and issue orders 
+
+In the late 1980s to mid-2000s had multiple projects or missions that eventually resulted in KPIs: and the toughest point to teach was that KPI should be considered an asymptote: once you get closer to 100% convergence, it is time to both celebrate and present new targets.
+
+So far, quite intuitive.
+
+If you were to look at my real detailed CV 1986-2025 (not the four pages summary that you can [read online](cv), which soon is going to turn into an even shorter one), you would see plenty of projects and missions (not necessarily involving software) that could turn into a new life if done in our times- and actually convert a one-off past project into an evolving "think"- able to evolve based on interaction with users to identify both its own lifecycle, and advise when would make sense to phase-out the existing and phase-in something new.
+
+Let's shift to the two futures- the real ones, involving a restructuring of both internal and external relationships.
+
+Look at your own organization: often, new technologies or new processes resulted in creating the n-th "competence center", an organizational support entity that absorbed permanently both selected elements of the existing staff, and new members hired specifically to cover some domain knowledge needs.
+
+As I said already in the 1990s, in my first few formal cultural and organizational change missions, there are various issues with the concept of a competence center whose members are removed from operations- you can search for "competence" in this website to find some material.
+
+So, on the "internal" relationships, actually AI could allow to build internal structures able to provide the usual advice provided by competence centers on a specific domain, process, technology, etc- while reducing to a minimum its human staff, and having virtual members still allocated into their area of expertise (and not detached to the competence center full-time), to able to keep an "ear on the ground" to understand how the organization and its needs are evolving on the frontline, instead of turning into yet another ivory tower with it own rituals.
+
+On the "external" relationship, AI should enable a better adoption of "vendor evaluation" practices- on a continuous basis, while also increasing "thesaurization" of whatever is exchanged with external providers of expertise.
+
+The two elements actually would generate an incentive to restructure existing business relationships, that since the 1980s saw an increase in externalization of activities that required specific expertise not directly associated with core business activities, both in small and large companies.
+
+The latter sometimes worked through joint-ventures, in-house consulting entities, or shared facilities with other companies, facilities dedicated to specific non-core processes.
+
+Unfortunately, this approach of externalization, not just in the typical areas (IT, logistics, cleaning and catering), already showed some impacts (loss of internal knowledge needed to adapt) when marginal, non-core activities expanded to changes in operational processes.
+
+As an example, in IT and logistics, and part of HR and Finance activities, digital transformation increased the frequency, depth, and breadth of information involved.
+
+As I shared decades ago with customers and prospects, the wider the scope of a system or process, the more it "embeds" a culture.
+
+If you pretend to consider it as a black box, eventually you lose your own internal abilities to evolve in that specific domain, and adapt your culture to the one embedded in that specific area.
+
+Losing your own differentiation.
+
+The two elements, internal and external, that referenced above could allow, following a proper assessment, defining a roadmap for internalization of activities- an organizational equivalent of inshoring for countries.
+
+The key element would be to actually start not with grandiose schemes, but, as I wrote above in Italian in that post on Linkedin, and also Kaplan wrote and confirmed by that post in German, the key element is to do a triaging of all the existing knowledge supply chains involved in your own organization's ecosystem- internal and external, including, as some companies did during COVID due to the need to improve resilience for potential supply chain disruptions linked to shutdowns, all the supply chain.
+
+Probably, instead of reinventing the wheel and a new lingo (something that, as a consultant, saw repeatedly since the 1980s), it would make sense to start with what I like to follow since decades, first within the Millennium Goals, then the UN SDGs, and more recently the various ESG and sustainability initiatives.
+
+Actually, one of the first couple of books that purchased when first registered as a freelance in 1990 and then in 1993 were two books coming from the UN environment- one on management consulting (that already quoted in the previous part), and one specifically from UNIDO, on feasibility studies.
+
+The framework of analysis used for those purposes between the 1970s and 2020s so far probably could be a good starting point, if augmented with some of the elements proposed e.g. within the forthcoming new PMI Standard on the integration of AI within portfolio, program, project activities (as already discussed in previous articles).
+
+Last but not least, as did in 2002 for that audit project for FIAT Auto on product management reporting end-to-end, proposing an approach on change that had used with other customers over a decade before but using different tools, an assessement (e.g. look at the notebook on Kaggle that I linked above- different purpose, similar concept, just to me transposed and adapted), the assessment should be follower by the development of a roadmap, for both the organization and its parts, both on the "internal" and "external" sides as outlined above.
+
+And AI? Well, when you do a roadmap, and plan for its implementation, as I did e.g. for cultural and organizational change, you have also to identify, select, structure a "toolbox" and its "rules of engagement"- AI could therefore help and, at the same time, be part of that toolbox.
+
+Probably, not just a single AI, but many.
+
+One of the reasons why I had to postpone to today the publication of this part of the article was that, courtesy of a Microsoft update "consolidating" changes that, once started, apparently, despite reporting completion, not only failed, but was impossible to roll back- therefore, had to work on other priorities.
+
+Which is a unique, in my IT experience since the 1980s, at a system level.
+
+So, as a closing example of how AI could help you evolve your own internal structure by delegating some activities, will share what I posted today on Linkedin
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20250817_consulting_20250821_microsoft.png)</center>
+
+Think in terms, to paraphrase a concept that was sound as an idea, less than precise in implementation, of improving resilience (obviously, I am referring to the European Union's "Recovery and Resilience Facility"/NextGenerationEU- too much recovery for the current generation, too little resilience for the future ones).
+
+Anyway, as I wrote repeatedly, I always worked on experiments, whenever there was a new concept, process, technology, or even domain I had to work in.
+
+At an organizational level, introducing AI to take over many back-office activities, and even to act as a "knowledgeable advisor with perfect organizational memory" could actually turn an asset into a liability.
+
+In order to thrive, your organization needs to challenge itself.
+
+There is no need to pivot completely how did [Nokia (originally a pulp mill)](https://en.wikipedia.org/wiki/Nokia) and [Samsung (originally trading in different products)](https://en.wikipedia.org/wiki/Samsung), but nurturing some areas where, for limited time and with limited scope, entropy is embraced to learn governance in time of uncertainties, could be useful.
+
+Useful to be integrated within companies via mini-sabbaticals, akin to what discussed in previous part while referencing time allocation.
+
+In the future will share more articles and specific results of specific experiments- for now, would suggest to have a look at few mini-books that released since 2012 (one a 2013 reprint of my e-zine on cultural and organizational change published 2003-2005):
+_ [BFM2013](bfm2013), looking at the organizational memory concept
+_ [#relevantdata](relevantdata), looking at which data to select for which purpose (notably KPIs)
+_ [#synspec](synspec), revising the concept presented there about the integration of experts- and considering how much of that role could be covered not just by AI, but by blending AI and humans.
+
+For now, before closing with the last part on Saturday, I hope that this article and its component parts so far did help to challenge some assumptions.
+
+Tomorrow, to close the week and leave something to read for the week-end, the final part of this article.
+
+Stay tuned!

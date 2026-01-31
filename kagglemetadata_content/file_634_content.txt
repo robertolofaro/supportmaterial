@@ -1,0 +1,93 @@
+This post is within the book blog section, and therefore will add some material about released and soon to be released material.
+
+It will be really short, as it is more an announce than an article, and therefore will not have a "preamble" section.
+
+Just a couple of sections:
+_ ongoing publishing
+_ integrating AI in publishing
+_ what's next.
+
+
+<b>Ongoing publishing</b>
+
+As you probably know if you follow this website, last week completed the release of a 7-parts article series that was actually the draft of a mini-book:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20260109_picture1.png)</center>.
+
+There are two other items to complete that publication:
+_ one, the release of data (that will take a little while, as would like to first do some further analysis)
+_ two, some additional information to fulfill that "human, AI, scraping readers welcome" promise.
+
+Therefore, today expanded the Kaggle dataset that is <a href=""https://www.kaggle.com/datasets/robertolofaro/articles-publication-metadata-and-ai-access>linked to that "Kaggle metadata" link in the banner</a>, adding a 1-paragraph manually created summary for each one of the articles or reference pages that left online and are worth using for scraping etc.
+
+Previously, had added the themes- and later this year will add more material.
+
+Now, already started "embedding" in that article series some reusable material (prompt, process) that could be adapted and re-used with AI platforms (including offline).
+
+Anyway, in January 2026 will release further material- in part within the ["supportmaterial" repository](https://github.com/robertolofaro/supportmaterial) that created years ago to share backoffice info about my scribblings about the Italian national recovery and resilience plan (PNRR) associated with the NextGenerationEU - RRF initiative, while specifically for the recently completed article within a dedicated repository ["series_pointers"](https://github.com/robertolofaro/series_pointers) that created because, in the future, there will be more "Pointers".
+
+I am also working on a couple of mini-books that will appear later in 2026, while recent changes in data availability made feasible better focusing my data project about the companies listed on the Italian stock exchange Borsa Italiana, comparing annual reports perspectives before and after COVID.
+
+Yes, the companies' roster changed- few were removed for failure to comply with requirements, others simply because moved away or delisted, but still will be part of the analysis, as their annual reports for 2019 and 2021 (the target years) were available.
+
+In that case, while already shared on Kaggle selection criteria (look [on my Kaggle profile](https://kaggle.com/robertolofaro)), will eventually add other information.
+
+Obviously, we are living in complex times- and also the articles on this website and the posts that shared on Linkedin and Facebook since spring 2025 contained more discussion on specific points, as all our traditional post-WWII decision-making assumptions (not just the processes) have been shattered by the events of the XXI century.
+
+While we were still "digesting" the 2001 9/11, the 2008 financial crisis showed how weak was our governance based mainly on self-regulation assumptions that all the parties involved had a vested interest in sound business practices, while, to skip a few steps, the end of wars that did not really end, and the COVID crisis further showed the weakness of the overall infrastructure of the global economy and its political oversight.
+
+Therefore, while within the European Union we are actively undermining regulations that would have helped generate a differentiating factor, at a global level, as if in a parallel universe, we are still working toward convergence on natural and human events risk management, financial reporting, sustainability- you name it, there is an initiative that is increasingly becoming self-referential with ex-post adjustments.
+
+Hence, plenty to write about, if you apply the analysis framework of a cultural and organizational change management consultant who worked in multinational environments with a data-centric focus but a political and social analysis background only deepened by constant interactions with senior management with few decades.
+
+
+<b>Integrating AI in publishing</b>
+
+My concept about AI use derives from that experience, notably my experience since the late 1980s on decision support systems: hence, my preference is to use "conceptual data" while using online platforms, and reserve real data (even after removing identifying information) only to offline models.
+
+You can actually read within the directory ["localmodels" within "supportmaterial"](https://github.com/robertolofaro/supportmaterial/tree/master/localmodels) the actual setup that I am using locally, while the repository contains also the script that designed and then co-generated with AIs but tested personally (and already reused on another PC) to have a dual offline and offline but with web access AI platform were to apply my agents in support of my activities.
+
+That script was a first version, and while shared v3, actually now I am used a v7 with some more features (e.g. designed and saved prompt templates to use with each model).
+
+Before you ask: no, I do not use AI to write articles content ([except for a co-writing experiment that did last Easter to create in a week-end a minibook with storytelling about the 36 strategems, including visuals](https://leanpub.com/blendedai01).
+
+Instead, I use it mainly to refine my own prompts so that become agents (albeit whose autonomy is limited to searching and assembling information and verifying references, not to execute actions whose effects cannot be revoked).
+
+Other uses: to help me quickly generate part of scripts that integrate into my own tools to support writing activities and associated research or re-organization of matrial that I have already produced in the past.
+
+For example, the structure of the articles that you saw in the latest multi-part article (how each part is structured) was the result of a mini-project to review my articles, and suggest improvements to ease accessibility, considering how long they are.
+
+Eventually, as you can see in that ["localmodels" within "supportmaterial"](https://github.com/robertolofaro/supportmaterial/tree/master/localmodels) directory, also for offline uses selected a model that is a Mixture of Experts- small, but still able to act as a team, but generally that was my mode of operation whenever tested a concept.
+
+Or: instead of using a "gatekeeper" such as perplexity, I prefer to launch on my mobile (if I am testing concepts while going around) or my PC multiple windows with similar prompt, and hten integrated the answers based on consensus between models and my own review.
+
+The MoE model that selected is a variant of Llama3.2 that has been modified to remove filters: what is the point of having a "team of experts" if then, instead of asking their unvarnished opinion or suggestions, you filter them?
+
+Because almost all of my AI uses involve actually criticizing my material from different perspectives- a old but useful habit of when often was asked to act as a "Devil's Advocate" to avoid avoidable pitfalls, pitfalls usually associated to the inclination of "analysts on staff" to avoid contradicting the sponsor.
+
+A further use is actually asking AI to refactor scripts I already created in the past, or that co-created with other AIs, specifically because I prefer to limit the number of external objects involved: an AIs have this "junior smartass" habit to often integrated whatever is trendy, also if not needed.
+
+Since 2018 I have been using R first (and from 2020 also Python) to generate also visualizations or analyze data that used in my activities (missions for customers) or published material- also if only few times actually shared the process or components- most often, was enough to share the insight or results, or even just integrate them into my data storytelling (e.g. when presenting an assessment on the status of plans or risks).
+
+As you probably read in previous articles since 2024 ([or in my latest summary CV](cv)), repeatedly volunteered to review forthcoming PMI standards covering areas I worked in (portfolio, program, project, change) and also new entrants (the forthcoming one on AI)- along with Coursera courses, some Udemy courses, other webinars and workshops (really few in person) that attended since 2012, I think that challenging existing experience from my past (even recent- as I do after the end of each mission to cross the Ts and dot the Is) was and is a useful exercise that advise anybody involved in those activities to carry out.
+
+Does not matter if your contributions are turned down: was funny to see that something I proposed in 2024 was outside the perimeter, and was inside the perimeter in a further standard in 2025, but probably there were many who, like me, made the same suggestion.
+
+What matters is the intellectual exercise of challenging your own assumptions by comparing with the compounded choices of a team that designed the proposed standard, as this can unleash a further path of discovery, and inspire other activities.
+
+Now, I promised to keep this article short, so... let's switch to the conclusions.
+
+
+<b>What's next</b>
+
+December was a preparation month, hence you can visit my [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro) profile to have a look at what did not "migrate" within articles.
+
+I started reducing the number of items available online, and also to reposition my online presence- the key concept is to layer by degrees of stability, i.e. what will not need to be updated (or that I will not bother to update) will be released in a "static" way online, while focusing only on improving access and search facilities on that material.
+
+Instead, started spending more time on data to be shared, and processing data to then include in my publications.
+
+There will be three main websites in 2026 (beside obviously my social media profiles- you can see a list, if you want to connect on a specific business or non-business community, at [the bottom of my CV page](cv)) but, beside this one, will disclose more details later this year- for now, I am still working on preparation.
+
+Anyway, will release more articles within the [Organizational support](orgsupp) (i.e. sharing prototypes and lessons learned for reuse and inspiration) and [Citizen audit](citizenauditcontent) (number crunching and datasets to support my publications but that can be repurposed- generally, here the analysis, on Kaggle or HuggingFace the datasets and models).
+
+For now, have a nice week-end!

@@ -1,0 +1,233 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250915_article.png)</center>
+
+This is another short article within the [Books in progress](https://robertolofaro.com/index.php?section=books-blog) series.
+
+But, as shown by the picture above (not the usual tag cloud to summarize), a bit different.
+
+While [BookBlog20250913 learning, sharing, publishing](index.php?page=618) was focused on "sharing", and discussed learning approaches, in this case, beside that picture above that replaces the usual "tag cloud", would like to share something else- experiments to support my publishing activities.
+
+Actually, as the title states, it is an off-series article: as a thank you note for reading articles and pages on this website 5,000,000 since its relaunch few years ago, after I was made to return in Italy (as you can see by searching within the articles, the relaunch was really around 2015).
+
+It took a while first, but anyway passing this threshold is inspiring to write more.
+
+Why did I use the United Hamster Front page to make the announce? I do not want to take my new milestone too seriously- it should be a sign to keep writing, not a celebration, [as you can see here](https://www.facebook.com/permalink.php?story_fbid=pfbid0pobwryh9T8Fe2vC2BUpBFs1wANkfajBumTAP89UyCnnerKv7hgRNYYTnj9eoPCXTl&id=61580594577830).
+
+So, as I promised in that post, here is a small article to discuss the journey so far and share the results of some experiments in my publishing journey.
+
+Few sections:
+_ a publishing journey with choices
+_ a publishing experiment: citizen audit
+_ embedding and managing AI activities.
+
+Anyway, I know that many expect a tag cloud summarizing the article: so, here we are:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/scrapbook_20250915_article.png)</center>
+
+
+<b>A publishing journey with choices</b>
+
+The first point is, as wrote in the past, that routinely wrote material for customers, partners, and even just to "fix" ideas after a training, a project, or even just attending a conference or workshop, and routinely take notes (pictures of pages, since mobile phones had a good enough resolution), that then dig into when something comes to mind, or when I decide to write yet another post, article, or mini-book.
+
+What happened, was that in the early 2000s started preparing an e-zine on change, in preparation of my return to Italy, while also phased out my consulting activities abroad- as I had decided not to become a UK citizen (I do not want to be a citizen of a monarchy- quixotic choice for some, but, frankly, my personal choice), as I had been told that I had been there long enough to start applying, with my background, for citizenship.
+
+The e-zine went online quarterly between 2003 and 2005- when decided that Italy was much more tribal than when I had left.
+
+And even less transparent and more corrupt (my concept of corruption- does not necessarily involve money, distorting market rules is a form of corruption, for me).
+
+I am bipartisan and routinely declined (not just in Italy) invitations to join a tribe or another.
+
+So, here I was again relocating.
+
+Anyway, already back in the late 1990s to early 2000s, both in UK and while visiting Brussels, I had been invited to join other groups there, and turned down.
+
+Not for special reasons, but because I discovered that there were not that many people who had acted as a bridge between business and experts (not just IT), moreover working across multiple industries, and coming from a data-oriented political background.
+
+And working also as negotiator and to improve sales and control processes, not just as a business analyst, working also on defining business and solution architectures and organizational designs, while redesigning processes.
+
+I know, a collection of items that sounds somewhat chaotic- but, frankly, did not bother that much, as worked across Europe exclusively by word-of-mouth since the early 1990s, starting first with those in Italy and UK that met me between 1986 and 1990, and then elsewhere.
+
+Brussels was the first time I went in an almost unknown territory, in mid-2000s, when resettled there, and it was a curious environment- but I wrote about that in the past.
+
+What matters, was that I had two choices: set aside what had collected for decades in terms of experience and knowledge, and settle into a role that was just a segment of my past activities, to then continue developing if I were to be proved to be good enough, or find a way to reuse my past, while settling.
+
+The choice was simple: I had first been hired as a senior project manager in 1990 (as I had already had formal and informal project management activities since even before started working, and also in non-IT and non-business environments), and here I was, 15 years later, applying for project management roles.
+
+So, decided that my "other side" would be used as I had done elsewhere: to support startups and publish articles.
+
+One of the business and marketing plans I had prepared for a Turin startup even won a prize, and an American colleague involved in the same initiative told me that, in the USA, would have been paid five-figures amount just for that work- instead, I had the concept of "skin in the game", and gave as usual deferred income and deferred equity: never do that in Italy.
+
+It is curious: but my English is basically self-taught, just because when I was 14 wanted to read some books that were available only in English; I had just 20 hours with a teacher in afternoons along with others- an experiment in my high school to have a second foreign language (the first one was French).
+
+So, publishing articles for an unknown audience on my own website implied that, for the first time, worked on improving my English- including, in 2007, reading for the first time cover-to-cover an English grammar (I had worked in English since the 1980s); but, anyway, did the same with other languages, e.g. studied and used German independently (including in Germany and German Switzerland and Belgium) long before attending my first formal course in Germany- in 2017 at the Goethe Institut (by then, B1 level).
+
+Why writing? Because I had learned since decades that writing and delivering on-the-job training was the best way to understand the boundaries of your own ignorance, and drop the pretense that you knew a domain just because you had worked in that domain.
+
+As I was told more than once across my career by different people in different countries: "you are in permanent training".
+
+To make a long story short: when Italian interference (private and public- what foreigners in Brussels called "scorched earth") forced me to leave the first role where I had started to get back on track and go well beyond my initial expectations, and closer to what I had been offered to reuse in Belgium for Belgian companies my decades of experience, eventually in 2012 had to return to Italy, specifically Turin.
+
+Then, I did a "reset" on my websites, but, after a first mission locally where, again, understood that by chance and by design had designed an unusual mix, decided also to start publishing books- starting with a kind of reportage of my two weeks in Berlin in an unusually warm November- [you can read it here and download it](https://www.slideshare.net/slideshow/berlindiaries-a-personal-journey-through-the-new-nervous-centre-of-europe-v20-downloadable-book/93427582), or buy the paper version on Amazon.
+
+As [see on Leanpub.com](https://leanpub.com/u/robertolofaro), eventually kept publishing mini-books (mainly to be used to have a "level playing field" before tackling with customers or partners specific themes)- you can download most of them for free (and many did: some had across different platforms tens of thousands readers, but few copies sold).
+
+And the hamsters? Have a look at [the website linked to the Facebook page](https://www.facebook.com/profile.php?id=61580594577830).
+
+So, let's now switch to one of the various publishing experiments, CitizenAudit.
+
+
+<b>A publishing experiment: citizen audit</b>
+
+If you follow this website since a while, you probably visited also the [](https://robertolofaro.com/index.php?section=citizen-audit)Citizen Audit</a> series (latest article so far on 2025-04-24, [From a palette of initiatives to an emerging convergence: industrial policy and the Turin case](index.php?page=593)).
+
+Released the first article in that series during the COVID crisis, on 2020-07-12 [Fast revolutions, long reforms: citizen audit and knowledge after COVID-19](index.php?page=420).
+
+That article was discussing the data side of the "partecipative democracy":
+
+<em>So, there are few departments that over decades have been reported as declining.
+
+It is curious how our "sentiment analysis" society often sounds as a bit of the "partecipative democracy" at end of the movie The Rise and Rise of Michael Ritter.
+
+A continuous stream of influencing and polling on so many technical minutiae, that eventually opens the door to something else (yes, as "Brazil", this movie about politics and spinning is Monty Python-esque- both in form and in content).
+</em>
+
+Note: the correct title of the movie is [The Rise and Rise of Michael Rimmer](https://www.imdb.com/title/tt0066302/)- and it was a 1970 movie whose script had a contributor from the Monthy Python: John Cleese.
+
+And referenced few books- from Tuchman's "Guns of Augut", to Dixon's "Our own worst enemy", to Axelrod's "The Evolution of Cooperation", as well as... a TV series ("Outer Limits"), and online training on game theory released by Yale over 15 years ago.
+
+The concept was to introduce the reason for "Citizen Audit"- which was a collaborative concept:
+
+<em>Citizen Audit is something even more focused.
+
+First, it is not just based on "one size fits all".
+
+In a complex data-centric economy there are various roles that contribute to keeping the ability to analyse reality without having to hire everybody everywhere.
+
+The idea is that, in many ways, also if you are not an expert in anything, you might actually through your ordinary life collect observations that are actually expertise for somebody else.
+
+There are obviously also experts that have a higher degree of more structured knowledge, and who will need to continuously invest.
+
+The overall concept is simple: have antennas that are akin to "sensor" tailored to specific purposes, and involve them when needed.
+<omissis>
+Any "citizen auditor" can release data and analysis for specific purposes, but make them available and shareable via generalist websites (I use both my own and, via links, both personal and business social media), or also via specialist website (e.g. for data I am inclined to use Kaggle, for content Github or slideshare.net- you can find the links to all my social media profiles where I share information, analysis, etc here).
+
+Once made available, and with a public update policy, anybody can "pull" and embed in their own analysis and activities.
+</em>
+
+In our times, we shifted from sharing data ("open data" being the most obvious, but also data collected by citizens following a shared protocol), to sharing "expertise embedded", e.g. AI models built by experts using data that they collated and selected.
+
+The concept of citizen audit recovers what did in the early 1980s (at 17) within a European integration advocacy, before starting then to interact with political parties.
+
+Or: routinely looked at piles of documents and data sent from Brussels, and did dig into them.
+
+Difference: in the 1980s played with AI (specifically expert-system-oriented, PROLOG), and in the late 1980s did business number crunching (first in projects, then to audit, design, build, deliver Decision Support System models for senior management, controllers, and Cxx- across all the domains then covered by Andersen, along with an Anglo-American partner called Comshare).
+
+So, the CitizenAudit actually leveraged on that past, political first and then business, but with a further twist: in 2018, opened again a company after a longer mission (started end August 2015, at a global portfolio level in Purchasing for CNH Industrial, ended in February 2018 at the pressing request of the customer, as I had resigned in 2017 and my intent was to leave by end December 2017; that staying on for two months costed me the opportunity I had left for).
+
+One of the things I did was to resurrect my past PROLOG, primitive 1990s neural networks experiments leveraging on a tool and past study on the human brain electrical activity and physiology, and decision support systems plus a bit of executive information systems.
+
+Then, after a conceptual analysis of that blend of expertise, looked for open source tools and low-cost tools: hence, studied R and acquired a "neural network on USB", an Intel Movidius.
+
+Those experiments were useful, and started being embedded in both all the search facilities that you can find in this website, new datasets that designed and released via <a hreF="https://kaggle.com/robertolofaro">Kaggle.com</a>, and, of course, number crunching presented within articles.
+
+Then, in 2020, courtesy of COVID, more experiments and training, including Python, Machine Learning tests and model design, experiments of using those concepts on my own datasets (to have clear lineage of data), and tons of "mental scraps" on data projects to do when at last were to settle somewhere- including procuring different microprocessors and experimenting with my main AI focus (beside supporting my activities): EdgeAI.
+
+Of course, the last few years added something more: ease of access online even to more complex models, and the ability of use models offline.
+
+But would like now to switch to something that had planned to share later this year, and but already discussed with others over the last month.
+
+The latest time? Yesterday, with a former customer.
+
+
+<b>Embedding and managing AI activities</b>
+
+As I wrote above, my software development approach, not just for decision support systems was different from the typical old business analysis - technical analysis - development -unit test - integration test - system test - user acceptance testing - release.
+
+In 1988-1989, after validating the approach on few models, I had adapted a bit of Andersen's methodology to align with the typical need of those projects: incremental and iterative based on exploration and a feed-back continuous improvement cycle, not the traditional "waterfall" that was the core of Andersen's methodology (waterfall was common well into the 1990s).
+
+So, since 2022 followed plenty of training to retest my concepts with technology: from AI Product/Project Management, to EdgeAI, to courses that required to actually implement algorithms and then present solutions.
+
+And more recently piled up GenAI and then product management courses- to revise concepts of the latter based on the former and what had done since 2020.
+
+As my first product design activities in IT had been in the 1980s, and continued into the early 2010s for partners, and now for my own products designed to support my past management consulting activities, and more recent online publishing of articles, mini-books, and even datasets.
+
+Yesterday was asked if I use Claude for coding, and my reply was that in an unusual way.
+
+The concept: so far, used online and offline AI models to refactor components, to test the ground.
+
+Yes, I did attend or watch courses and presentations when it was shown how to use Claude or other AI platforms to do an end-to-end development.
+
+But, frankly, it is fine if you want to clone something existing.
+
+Anyway, if you want to develop a new product or service, I do not see why should I do a "Big Bang"- when I would never support or do that without AI.
+
+My forte, as I wrote above, is acting as a "bridge"- even when I was actually developing models or writing COBOL or writing the code underlying my own websites, I started from a general concept, identifying the system's architecture, and then built block by block.
+
+As I said yesterday to my former customer, my old mainframe habit is that also when I process data, e.g. as I do weekly for the ECB speeches or to update search facilities on this website, or the monthly AI Ethics update, I think in terms of pipelines.
+
+The concept? When you had to process data on a huge mainframe, in the 1980s, you could not do what most developers nowadays do: launch and relaunch.
+
+If you had a "windows" at night of 3-4 hours to process key data, you had to consider splitting steps, and the "degree of parallelism".
+
+If a step failed, you started again from the results of the previous step, not from the beginning.
+
+And this is my pipeline approach: with models, used to save interim models' status, and start the next step by reloading from that interim.
+
+So, for development, my approach is to use models to cover areas where I am weak or could improve productivity, but retain the process: iterative and incremental.
+
+Hence, beside "Big Bang" exercises, I found that actually in my case the best approach has been so far to use offline models to help me criticize and define the concept, then provide the concept to Claude and ask for an overall architecture, and then "fill the gaps" by identifying working packages, and then flip between models locally and online, a package at a time.
+
+Then, assemble.
+
+For my current needs, that is enough- and I had a significant acceleration (e.g. did in hours what used weeks before- but maybe because I do not write often enough Python code to write long routines in minutes).
+
+So, I retained my approach, to refine gradually and test elements before integrating them, but using models to augment my GUI and development abilities- without involving others.
+
+Meaning: in few hours produced something I needed as an "intelligent tool" to assess and help improve my own material from different perspectives, with no external human support.
+
+And when I say "in few hours"- I mean from thinking, from my experience, what would be interesting as a test, to "discussing" the concept with models, to having an architecture designed and vetted, to developing the basic building blocks for the "Minimum Viable Product", to start using it on real cases.
+
+Next: scaling up the full architecture to be more flexible.
+
+And what I use? Nothing more complex than some limited use of Claude and ChatGPT online (no copilot, no GitHub, no Claude code), plus local models within GPT4All and Ollama plus Jupyter Notebooks.
+
+And, actually, for a specific MCP and agentic use, used Claude to help me identify which model to use for which purpose within the "minimal" and "full architecture":
+
+I was lucky that, out of all the models available in GPT4All directly and via e.g. HuggingFace, had tested various, dropped a few, and retained a handful (but I keep looking for updates).
+
+If you read this section so far, you probably are starting then to understand how I would blend that in PPP (Portfolio-Program-Project) Management, PMO Management, and Change Management.
+
+Anyway, if you missed the review time for the new PMI standard on AI within PPPM and PPPM including AI components, if you look at the website of major system integrators, and collate their proposal for Agentic AI, you can actually define your own rules- and revise them when PMI's new standard will have been officially released.
+
+In my view, blending business processes and organizational structure expertise as did in the past, with AI models used in a conceptual architecture that "blends" humans and models, can actually become the ultimate application of lean and agility- if you are ready to provide proper governance and continuously collect and share feed-back.
+
+My suggestion is: find business needs and support business experts on that side in using that level of agility, instead of asking them to provide requirements to "AI experts".
+
+As, frankly, I keep reading on my Linkedin stream announces of "paradigm shifting" applications that smell too much of souped up versions of concepts that saw already in training courses (and even, when hands-on was required, developed them).
+
+So far, my experiments were more on agents and improving productivity in activities that was going to do anyway, and using models to help navigate my own writing and library.
+
+While I look forward for a project that really would benefit from the potential of platforms such as Claude for coding, in that case too would prefer blending agility with AI, keeping humans in the look: think about a "backlog" jointly managed by humans and AI.
+
+Yes, Claude, between those that I checked (I still have to find half a day to test few more), is the one more consistent in supporting my approach- which is not to ask to code an application, but to support development of a product or application from scratch, step by step, and incrementally..
+
+... as I think that, with current tools and the "no code" AI that anyway can produce material structured enough to be provided either to human or AI developers, we can at last deliver the 1980s-1990s promise of CASE (Computer Aided Software Engineering) tools: business logic provided directly by those who know business in their own way of expressing it, but converted into something that can be implemented- for now, by human+AI, probably soon directly by AI with just human "observers"/"auditors".
+
+To summarize: asking somebody (human or AI) to fully develop something is not my approach: both in the first software I designed and sold (in the early 1980s, to solve graphically and symbolically 2nd degree equations on a ZX Spectrum, using BASIC but relying on instructions and concepts that were for game design- sprites, etc), as well in my first business software development job (1986, the "core" COBOL software bit that was to get a large number of data feed and apply a logic to "score" suppliers' invoices, advising to pay without much further ado invoices matching a specific set of parameters), I started by asking as you would do in politics (but had learned in social science): why.
+
+So, first a concept, then a frame, and then fill the frame.
+
+For example, that COBOL program I think went into over 10k lines, and used a "skeleton" that we were provided and had to fill with our "functions" followed an approach called Warnier; that skeleton eventually in the early 1990s became Andersen's Foundation (I was by then working for a competitor, localizing designing and selling methodologies for the Italian branch of a French company, CGI, who had its own CASE tool, PACBASE).
+
+When did that first large COBOL program, the business analyst was behind schedule, so asked him to provide me a high-level Warnier, and started coding that into the framework.
+
+As soon as specific subsets were completed, added under the comments the actual code, and was able to compile and test those elements.
+
+It took a while? Not really- as we never stopped: the analyst to analyze and revise, I to develop and test and provide feed-back: in a twisted way, those 10k+ lines where developed incrementally and the final product had been subject to multiple phases of test of improvements- before it even entered system test.
+
+I think that, if we were to adopt now the approach that, except for those developing base models, should be business-driven, not technology driven.
+
+Yes, eventually there could be more "systemic" AI developments- but, for now, building up the components that could then join that concept but by providing now business value would be significantly better than trying to use the latest trendy bells and whistles just to be able to present how cool you are.
+
+For now, I will stop: as reached the maximum for a "short" article... almost 4,000 words.
+
+Stay tuned- and thanks again for getting through the pages and articles of this website 5,000,000+ times!

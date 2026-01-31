@@ -1,0 +1,542 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251025_article.png)</center>
+
+This article is within the [citizen audit](citizenauditcontent) series.
+
+When I started thinking about this article, was looking at my own birthplace, Turin, the former "automotive capital" of Italy.
+
+Why now? I kept postponing this article while looking at three elements:
+_ automotive in the EU, specifically Stellantis (the former local champion in Italy)
+_ the overall context: yes, trade and shooting wars, but also technology
+_ manufacturing trends and opportunities, considering also the new security posture of the European Union.
+
+I will routinely reference posts that already shared online, either on my [Facebook](https://facebook.com/robertolofaro) or [Linkedin](https://linkedin.com/in/robertolofaro) profiles.
+
+While collecting and reviewing news and connecting the dots as usually do (which means also often dis-connecting dots when what seemed a potential causation showed to be just a correlation, to paraphrase the usual caveat), decided to re-read some books and add few more.
+
+This is the "bookish" context:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20251024_fourbooks.jpg)</center>
+
+Of those five books, only the one about the Mediterranean sea is an apparent marginal detour- and will discuss in future articles along with others books on the history of social and economic impacts of, say, railways, the old Silk Road, or even the impact of shipping via containers, and few more about the developmental history of something that we take for granted.
+
+My "marginal detour" approach started as a kid by purchasing a book on the roads built be Rome across the Roman Empire, and then a shortened version of Toynbee's "A Study of History" (you can find the 10 volume edition on archive.org).
+
+Political and business activities across few decades just increased that "systemic" orientation, and regularly scout for books that try to adopt that approach, sometimes by design (e.g. a book on how what happened in China impacted on the Roman Empire), sometimes by accident (e.g. the "The Defence of the Realm", a history of MI5).
+
+The key risk that we observe everyday in news? Reusing lessons learned does not necessarily imply, in my almost 40 years of cultural and organizational change experience, something "ready to use"- you need to adapt before you adopt, as I kept repeating customers since 1990.
+
+Sometimes, lessons learned can be flipped upside down to extract key elements worth considering in a completely different context.
+
+And then, after using those elements as catalysts for thinking, i.e. challenges to think outside your usual framework of reference, you can drop them, and build new ideas.
+
+Hence, the value of the other four books.
+
+The first two, in Italian, talk about Italy, and both, really, talk about the need for structural and cultural reforms.
+
+Not just the usual Italian tinkering with laws (we tinker with gusto), but changing minds, and the authors also write about our Italian obsession to be considered "a great country" by mimicking what other larger entities do with more resources, more cohesion, and a long history of projection of their presence.
+
+In reality, we have other strengths that we consider not "trendy" enough- and over the years we saw how foreigners identified and used them, by deciding to set up shop in Italy to leverage on them better than we did.
+
+Anyway, shared considerations about this point in previous articles on this website- [search for italy_culture_competitive](search.php?tag=italy_culture_competitive).
+
+The other two books represent two sides of the industrial policy coin:
+_ <b>shifting posture</b> "The Challenge to European Industrial Policy" is a 1987 book that talks about redirecting military spending in face of reduced needs (yes, the opposite of what we are doing now- time flies)
+_ <b>coordinating and collaborating</b> "The Red Market" instead is an in-depth look at how the Comecon (or COMECON) worked and specifically the approach followed to spread activity across the Soviet Bloc.
+
+Whenever read material about those concepts, my mind goes to when, in 1992, was offered my first official large scale cultural and organizational change role (in banking), and was asked if I was ready to take on the challenge to change the way their people did think and work- not just a project, but a transformation that would continue well after I completed my mission.
+
+In this article, will focus on the transformation of an industry, considering, as I previously wrote ([2025-06-20 Too Big To Fail 2 In Europe: 1- introduction and the industry of industries #automotive](index.php?page=599)), that automotive within the European Union played the industrial policy role that in the USA played the military-industrial complex, i.e. critical and the base of innovation, as well as an engine for other industries.
+
+Not for nothing, automotive has been called "the industry of industries".
+
+The social and business environment now is quite different from a century ago- hence, we better evolve our attitude- both on the business and on the social/political side.
+
+Democratization of technology and access to information, started really four decades ago with PCs, and the accelerated by Internet access via smartphones two decades ago, generated a completely different scenario- albeit even people 10, 20, or 30 years younger than me (I was born in 1965) apparently keep, despite all the appearance of integration with our times and our technology, a 1970s-1980s mindset.
+
+The table of contents:
+_ preamble- introducing the themes discussed
+_ rethinking industrial policy and "building new cathedrals"
+_ what to do with our "industry of industries" assets
+_ conclusions and next steps 
+
+
+<b>Preamble- introducing the themes discussed</b>
+
+Generally, the "citizen audit" section contains articles that have a strong data inclination.
+
+In this case, did an experiment: I actually posted articles with reviews and commentary and data on automotive, defense, manufacturing, and overall industrial policy over the last few weeks, across my two main social media profiles, since late September (consider as a starting date the Turin Auto Expo, and then the Turin Tech Week in early October, that was attended also by Jeff Bezos and the President of the European Commission).
+
+The idea was to share information and commentary as soon as relevant, without waiting to collate and reorganize within an article.
+
+Therefore, the title of this article: it is a retrospective, yes, but all the data and links are already online.
+
+Also, as part of the experiment, this article will be a "data storytelling", a walk across what I already posted online.
+
+Hence, I suggest to follow the links when you find one within this article that interest you, if you want to read more about a specific argument; anyway, will keep within the body of the article at least some pointers to what you can find on those posts, where I linked also news from media.
+
+Sometimes in the past got comments from others saying that I was all over the place- in terms of type of activity, industry, even technology.
+
+And when I was 43 and shared my CV with a friend to ask a feed-back, as had been asked to provided something on the line of "a short paragraph for each project" and, counting just from 1986 (official work start) until 2008, ended up with around 9 A4-pages with font set at 10... was asked if I was hiding my age for vanity, as I was in reality 143.
+
+When few years back, working full-time on a portfolio-level activity for a customer, was asked by the consulting company I worked for to provide a list of the projects I was working on, ended up producing something that looked like a roadmap with multiple parallel lines (I had had a peak of over 50 "dossiers", as I call them, at the same time).
+
+Well, it is the side-effect of a couple of things:
+_ willingness to learn and tackle on missions in new domains
+_ focus on cultural/organizational change and data orientation
+_ working across Europe since the early 1990s through word-of-mouth
+_ attitude to identify and nurture those who could actually be delegated activities to
+_ and other characteristics.
+
+So, you might start, again as often started, with a focus on recovery and completion, but in reality, the aim is to make it manageable and more "organized"- reducing from chaotic to complex to, if feasible, complicated (see here definitions: [Wordbook: the dark side of corporate "low-hanging fruits"](index.php?page=623)).
+
+And, yes, worked across different business cultures- both in terms of nationality, industry, technology, and size- from startups and small companies, to multinationals- since the 1980s.
+
+The <u>first theme</u> is about our current challenges within the European Union: yes, we started by reconsidering our global supply chains during COVID.
+
+Anyway, focusing on that highlighted also related issues, and sometimes, as shared in previous articles, generated both a demand for quick solutions, and an inclination on communication without first considering what implied implementing.
+
+In industrial policy, what you do is more akin to "building new cathedrals", as will be discussed in this theme, than providing quick fixes- you have to develop "ecosystems" that are sustainable and can evolve, not plant self-contained users of resources that are focused on a current opportunity.
+
+Our current context in Europe and Italy is shifting.
+
+It is a context that obviously has significant impacts from decisions taken elsewhere- but also from decisions taken in Brussels, and even follow-up decisions.
+
+The key element is accepting reality and the real current capabilities available to the European Union to influence events whose decision-makers are elsewhere.
+
+The <u>second theme</u> brings back the focus on both automotive, defense, manufacturing- but considering our current geopolitical, business, and technological environment.
+
+As my birthplace is Turin, Italy, will focus on the former local automotive champion, the FIAT group now spread across Exor and, in automotive, concentrated within Stellantis.
+
+You can see my past experience in that domain 1986-2024 by looking at my [CV](cv) page, which contains at the bottom a sample list of key customers and employers by industry.
+
+We keep having from some in the European automotive industry a curious degree of cognitive dissonance: ask politicians to basically rebuild a 1970s-style automotive industry, while, at the same time, invoke free market and freedom to "go with the wind" where business offer better opportunities.
+
+Within the conclusions and next steps will just share a summary of my next research and publication steps.
+
+
+<b>Rethinking industrial policy and "building new cathedrals"</b>
+<i>SUMMARY:
+_ moving from reactive to proactive
+_ the recent announces at Turin Tech Week 2025
+_ a new security posture for the European Union
+_ Italian reality and Italian assumptions</i>
+
+The current reality of the European Union is that we keep making long-term announces but then operate mainly in a reactive way.
+
+We talk, after each reactive measure, e.g. the "Recovery and Resilience Facility / NextGenerationEU", about building up resilience, to make faster and more manageable adaptations to future changes, but then we think in terms of something akin to 5 years plans, not of long-term initiatives such as building [cathedrals](search.php?tag=cathedral).
+
+There is a meme that saw few weeks back on Facebook, about [a session where somebody asks if the Brexit benefits are in the room with them](https://www.facebook.com/robertolofaro/posts/pfbid02hZvr2fL8GvwGWTsHAT5Z31adrttXT6T4F9NFeyrj5busC4QfXcANLoDksv3JMxTUl?__cft__[0]=AZUZ0zUcjQEv1In-VUlRKwHoZQC1D-oAWBL8QFnMF8JxMUwC81FyK14-Fj_Fqn3tWc76gtk0XbkdB0BPyFK-xj3o8lcfXqpWGewhpFzi4E1iN_4kS4aoAYKlx10y1-gmiUjlV1uwpDpGeO9dM0nCBb62mt5i6Q4PAav3H6o55CLpNaQdLcv0kPS48ri-Q_eoER2nfvnKhnoKMTvvpzWNs-4a&__tn__=%2CO%2CP-R),
+
+It is something to think about the future, and something else to announce your future, start believing about it, and then take it for granted.
+
+Not too long ago, in March 2025, [published an article about ReArmEU](index.php?page=591), yet another initiative to build capabilities within the European Union.
+
+As I wrote in that article, it is a first step- but we need to consider also reality.
+
+Most of our weapon systems used in Europe, including those that we keep providing to Ukraine after the invasion from Russia, have a significant percentage of content that depends on the willingness of our ally, the USA, to license us IPR, provide spare parts, or even whole systems, and, actually, an increasing amount of our production depends on the willingness of third party country to provide specific raw materials or even critical components.
+
+Decades ago, during the Balkan Wars of the 1990s, Europe reacted to USA imposing its own choices by reducing access to precision GPS by deciding to develop its own [Galileo](https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)) system.
+
+At the recent Tech Week in Turin, on 2025-10-03, the President of the European Commission [delivered a speech](https://www.facebook.com/robertolofaro/posts/pfbid02mVCHeQw8DE5CPxtcDyVoQimXocX4W7FWMvUDjhQ4CnNaMUx5BXfGEVV3ezhyXbB2l?__cft__[0]=AZUpw7_jODlIioMHlJli3cjrUo4jwp4x3rkPccV2EgF2Rd8mEOb-gsx6fn5QZJTSEai8LVay-CM_kMTRlLyDq-KVfYI95-ZQU5tM6TmUPRCz8lGTketw6CnN19JXhV7FfqKVVgWVp9Ub30x4D4gURZJqEttQfmtZNoOMkqF_VUmwIYtUpMOmHfAIQCXsZ2R1PuQ&__tn__=%2CO%2CP-R) that included three announces:
+1. a public-private fund
+2. a 28th regime for innovative companies
+3. a forthcoming "AI first" strategy
+
+I will let you visit the link above to then, if interested, search for the video of the speech.
+
+The first point is self-explanatory, the second point is another bit of tinkering to avoid solving the cross-jurisdiction issues that even established companies meet on a daily basis in Europe.
+
+The idea is, for innovative companies, to create a new jurisdiction that will allow them to operate within all the 27 European Union Member States.
+
+For those old enough, there was a similar concept decades ago, called European Economic Interest Groupings (EEIG- [see here history and definition](https://en.wikipedia.org/wiki/European_economic_interest_grouping))- albeit in that 1980s creation the concept was to have complementary shared activities for multiple entities operating in different Member States, while in this case, as hinted, would be a new single entity operating across the 27 Member States as if they were a single jurisdiction.
+
+The fly in the ointment will be obviously what happens when there are issues, and what could take to have e.g. corporate legal support knowledgeable in this new jurisdiction, and how it will evolve, or more mundane elements such as what would happen if you have a litigation involving one of these new entities and other traditional companies based in a specific Member State.
+
+As an example, I saw a similar issue when, decades ago, had a company in UK (then a EU Member State), and had contractual issues (mainly: payment of royalties, commissions, fees, release of equity, and IPR protection) with customers/partners in France, Italy, and Switzerland (where, in turn, would have a national-level issue, as activities were across few cantons).
+
+In various cases, the cost of litigation would absorb significant amounts of resources and time- hence, it will be interesting to see how such a 28th jurisdiction would be regulated and interact with the other 27th.
+
+Because my personal issue was that, beside using external experts or resources on specific issues, I was a one-man band, and therefore wasting time would have implied assessing the risk that not only would have recovered what was due, but also would have lost further revenue due to inability to spend that time on more productive activities.
+
+If you ever worked with product-oriented innovative companies, there is little "fat": few people, time allocation always an issue- hence, the 28th jurisdiction could be an interesting experiment, but its viability for startups is frankly something to see in practice.
+
+On the third point, AI initiatives at the European Union level are part of a portfolio of activities to increase AI adoption in business activities and bureaucracies.
+
+As an example, [Italy has since late September 2025 a new law to promote AI adoption within the State and local authorities](https://www.facebook.com/robertolofaro/posts/pfbid028KH7hYiDGPSARa5G9uMG48QBuHvNGgfLadvLVnPmZS9dB67LQVwmGMfskU1tF5AJl?__cft__[0]=AZV6ZNSfBwcaYOV6xI23CoPfZQ_WQrmy_YgRSDUqmn1o4cTsh7WEgGDW5SSGId_4nYSOsTi8eSGYiMkJSnhqox0ckcYdWs1gW86NxC8U3UvTLxfFCclS9SVvgPCYr-qNBdYV1pzuXTB3LSyNwaFZPAuwogtekhhWDgssFWb8Gkb2K9MNBKsoFxN920myVE7pV1A&__tn__=%2CO%2CP-R)- but, as shared online, it still contains many gaps that will be filled at a later stage by authorities (almost a tradition, notably from the Second Italian Republic that started in the 1990s).
+
+All the attention on accelerating AI adoption still falls short on another dimension: considering the impacts- not just in autonomous vehicles (and autonomous weapons in Ukraine), but also on what implies from the perspective of procurement and verification of alignment of what is delivered to expectation- continuously.
+
+AI systems currently being considered in most cases are, by definition, dynamic- and what used to be called "supplier quality" was mainly designed for products (or associated services) that followed specific performance measures and level of tolerance- static products and services.
+
+We [need to consider the impact of AI not just once introduced](https://www.linkedin.com/posts/robertolofaro_qa-isnt-dying-its-getting-promoted-to-activity-7385642688085299223-tYJV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg), but also across the whole lifecycle- starting with procurement of AI or AI-included products and services.
+
+Meaning: a different approach to vendor evaluation, plus monitoring continuously use to spot emerging patterns that could require some tuning.
+
+Would be interesting to see, a decade down the road, how contract clauses will link payments and revenue to this dynamic performance element, plus potential remediation activities.
+
+The dynamic nature of AI actually is undermining our organization based on specialization, creating demand for skills that we set aside even in our educational systems, assuming that getting faster on the market was better than developing skills with no immediate, direct uses, skills that would deliver adaptability- such as critical thinking.
+
+An interesting report highlighted [what will be the core skills for 2030](https://www.linkedin.com/posts/robertolofaro_what-will-be-the-most-valuable-skills-in-activity-7385624014485897218-thbn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+So, by increasing AI adoption, we will need to redesign also the HR function..
+
+And it is actually [interesting the roadmap followed by Norway to introduce Health AI](https://www.linkedin.com/posts/robertolofaro_ever-wondered-what-other-countries-recommend-activity-7385596784250859520-Iq34?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg): starting first from awareness and human resources, then technology.
+
+Meanwhile, on a more urgent side, we are still discussing the provision of aid and military equipment to Ukraine.
+
+As the Italian Minister Giorgetti [reminded in Washington less than two weeks ago](https://www.facebook.com/robertolofaro/posts/pfbid066QqTd2KDtUtHBCP9TwaSWjYdi5ikTDRR66tsYR55o5FNJHKmYYPHZcv9rXEaeYHl?__cft__[0]=AZWfZxVE_xIYyhVp7nFu_1dTmEpqVrB4CYZWoEJH72GUBJY6Q_crFo3MqRGLPJewDXg8dvjAa32Ahk2gqQmvoyiHH4Fq5YxCC7cK5ebvx3vgx095wPGSPGOMO5qfFyLyqyxICVGk1IAqADZWB8CUifnxtyPwTX2ughGcsxDLpu0m3DWOdinownkXWhX3dj17HMk&__tn__=%2CO%2CP-R), the bill for Ukraine will be hefty, and it will be up to Europe (meaning- European Union) to foot the bill.
+
+Above hinted at the issue of the existing European Union Member States dependency on external sources for the provision of critical elements of the weapons systems used locally (or provided to other Member States and, increasingly, Ukraine).
+
+Part of the scenario to be considered is what an article within the latest issues of Foreign Affairs called [The New Supply Chain Insecurity](https://www.linkedin.com/posts/robertolofaro_the-new-supply-chain-insecurity-activity-7386460325417582592-ZKQj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg), something that should be integrated in decision-making also on the civilian side, and not just in defense. 
+
+In broader terms, an article on the September issue of F&D Magazine talked of [Uncertainty about uncertainty](https://www.linkedin.com/posts/robertolofaro_httpslnkdindqg7dkny-activity-7378801341239820288-U8Ks?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+We currently live in a post-post-Cold War world, where memories of the Cold War are increasingly less relevant, and a new communication and interaction approach is being adopted.
+
+Some few years ago started talking about a "New Cold War"- but, frankly, the old one was mainly a static confrontation between two "trenches", while instead now we have a variable configuration shifting sometimes even on a weekly basis and by dossier, not a block-vs-block continuum.
+
+Albeit, of course, whenever convenient, somebody preaches along the line of the old Cold War, only to then shift gear whenever convenient.
+
+As shared on Facebook, <a href="https://www.facebook.com/robertolofaro/posts/pfbid0AriKxNW7ztQstn2M7rQxrZzSo19A5y7uq2tLUcibg9DQmWoYoWgSesDBr1iam56Pl?__cft__[0]=AZVDzEb-aCxs8hqPRle8G7mCUz2oQ_dcP3-5cql-VJ2ApwtCjy3Svr0L6S_iwPpsuCY0Os6FFv_e6j5ZG_oexD5xP4cJs6IVcGeemfHz3rln4mq2WnHMv0HMJ1Wku2xd6FXQXc7ItLJOUcIY07DAqCMWnpzgOpaUGGfirlnn22dDApnfOs7RWim9MuZJZIHw0yQ&__tn__=%2CO%2CP-R
+">it is a new diplomatic language from the current US administration</a>, that many within the European Union still fail to grasp, and take at face value.
+
+Half-jokingly, shared a video about how [the European Union needs a "nudge" to move forward](https://www.linkedin.com/posts/robertolofaro_interesting-as-fuk-on-instagram-an-innovative-activity-7387219602122014721-TkYh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg): we are a turtle in a world of hares, hence better to put this turtle on a skateboard so that changes perspective on reality.
+
+Curiously, the same user who made that experiment saw how then, after getting used to moving around fast and being able to interact, the turtle altered its behavior, and started socializing [the astonished face of the cat](https://www.instagram.com/reel/DMsv8z1IXSk/?utm_source=ig_web_copy_link), used to a turtle moving around slowly and looking only at the floor, is priceless.
+
+Going back to the key issue that is confronting now European Union from a security posture perspective, few days ago the Italian Minister of Defense [in a speech to future officers](https://www.facebook.com/robertolofaro/posts/pfbid02pojUxxAtmXM9UxVEgwoo5XisY2i5PqQ2m75NAbNEKgTrcsxk1wN6eu1kpxYAcVCLl?__cft__[0]=AZU4vAwBFbiBpsODgJonaM8zJsjmQhr1ePbBeXxxjnx33GRYEvIMnNrslSDAgcWXiqaTni3E-wg1n9WdV7NZ8svLhWLYluZtOds1LzjOTUbUD8Lfht286wHjy7uQl8QiLxPZmtnkOoYTIjAk1T_0_hfiZvX8DaiFUjcwACpOPle0tAJEGteg296taanpbX-1teo&__tn__=%2CO%2CP-R) delivered an assessment of our current conditions and need to shift mindset, as part of a new security posture (you can find at that link also a short video segment from a newscast about a key passage of his speech).
+
+The book from 1987 about "The Challenge to European Industrial Policy" discussed the path for transitioning military production toward civilian uses, and how some European countries operated between the period before the oil crisis (pre-1974) and until the early 1980s.
+
+In our case, we need to do the opposite- and solve the inherent weakness of the European Union companies operating mainly on three dimensions:
+_ nationally
+_ exporting
+_ embedding IPR and components produced outside the European Union.
+
+A first step is the <a href=" https://www.linkedin.com/posts/robertolofaro_activity-7387382749864693760-V3y1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg
+">recently announced choice of Leonardo, Thales, and Airbus to join forces on activities in the space domain</a>.
+
+From a cultural and organizational change perspective, it is better to join forces on a relatively new domain, to build interoperability, integrate, and build a shared "modus operandi", than trying to integrate what is already existing but has a long history.
+
+The seed built in those joint activities could actually then evolve into an extension across the existing product and service portfolio in other domains.
+
+Many expansions via M&A often do not achieve the expected synergies due to the incompatibility of cultures and product/service development approaches, systems, and processes.
+
+As will be discussed in the next section, a common element is not the development of blended culture, but one of the cultures taking the lead- and not necessarily the one with the highest level of equity.
+
+In manufacturing, this is even more critical, when you consider the history of the three companies involved.
+
+In the next section will focus on the "industry of industries" and its assets, using Stellantis as case study (referencing media material that already shared online).
+
+Being currently based in my birth country, Italy, will use examples from local interactions and news.
+
+Hence, before starting on that path, would like to close this section with few items about Italy and its organizational culture.
+
+In Italy, [often formal is informal and vice-versa, when dealing with bureaucracies](https://www.linkedin.com/posts/robertolofaro_in-the-early-1990s-was-told-by-a-customer-activity-7386443907691188225-YrKm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+To quote part of what shared a week ago online ([you can read the full post on Linkedin](https://www.linkedin.com/posts/robertolofaro_italy-activity-7384304785685909504-QSca?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)):
+
+<i>"#Italy suffers from a lack of perspective, as shared again today at lunch time with others
+
+as discussed decades ago with foreign business connections, we often assume a kind of intellectual superiority and end up generating convoluted strategic gaming to fulfill the needs of individual (or aggregate) tribes, assuming that foreigners do not get it"</i>
+
+Now, all the above implies that both within the European Union and in Italy we are living in a scenario where all the scenarios that we were used to and prepared for (from a political, security, manufacturing, technology perspective) probably will need a significant redrawing- if not even rewriting from scratch.
+
+The key risk is to keep going on with short-term tinkering presented as if it were long-term strategic thinking, and then keep adjusting.
+
+As that approach is easy to manipulate into a continuous extraction of value- a kind of ["peace for our time"](https://en.wikipedia.org/wiki/Peace_for_our_time) approach.
+
+Mistaking buying time for a definitive settlement.
+
+Any such continued extraction of value usually ends when there is no more value to extract, and, as in any negotiation, those leaving the table will suddenly say that there are no opportunities offered, while announcing a refocus elsewhere.
+
+Only then, those who kept tinkering to avoid making choices will understand that, instead of allowing that ["boiled frog"](https://en.wikipedia.org/wiki/Boiling_frog)-style extraction of value bit by bit, would have been better to say no and allocate resources to future-oriented initiatives.
+
+
+<b>What to do with our "industry of industries" assets</b>
+<i>SUMMARY:
+_ automotive: a different market, a different consumption market
+_ restructuring the industry: the Italian case
+_ a dynamic negotiation built on communication
+_ looking at European Union interests</i>
+
+As shared in previous articles about either [automotive](search.php?tag=automotive) or [mobility](search.php?tag=mobility) (or both), our current automotive/mobility market is different from the one of few decades ago, and will be even more different in the future.
+
+Notably in Europe, with its high level of urbanization and public transports integrated across the continent.
+
+A different market implies a different consumption model, e.g. short-term rental vehicles for few kilometers within or around urban areas allow to have on-demand vehicles, instead of doing as we did decades ago, when cars parked were outside the home or the office most of the time, and used often mainly to travel back-and-forth between home and office.
+
+A study on published by MIT in 2015, Mitchell's ["Reinventing the Automobile: Personal Urban Mobility for the 21st Century"](index.php?page=233) (a kind of update on Womack's "The Machine that Changed the World" and its focus on lean manufacturing) focused on how vehicles will be owned and used within an urban environment.
+
+What will change is also the consumption model- whatever the future will reserve, we are still far away from the scenarios presented within Mitchell's work (e.g. it will take some year before we will have electrical vehicles that are used also as "batteries" when parked, to balance the energy distribution network), but it is highly improbable that we will get back to a 1970s model. 
+
+As wrote in the past, agreed with those within the automotive industry who complained that the initiatives for the automotive industry were defined in Brussels without properly defining a phase-out.
+
+Or: it was ignored that we were talking not just a deciding the emission levels for vehicles under the existing range of technologies, but asking a significant change in technologies.
+
+Which implies, of course, changing across the whole supply chain: have a look online, and see how a fully-electric vehicle is different from a traditional car.
+
+So, the whole manufacturing industry providing to automotive (and overall mobility) will have to be restructured- and, by consequence, also other industries delivering services to automotive (e.g. finance, insurance, but also those providing maintenance and catering services to factories).
+
+Years ago, while I was in Turin, attended an event where the potential of "network" companies, i.e. companies joining forces to scale up, was discussed.
+
+As shared in the past, a company said that actually they had received from a German car maker contracts to carry out work that used to be done by one of their suppliers in Germany- as the latter was converting some production lines to support the shift toward electric, and therefore temporarily would not be able to provide what they provided before.
+
+To keep with the data-orientation of the "citizen audit" series, while revising the draft of this article, yesterday morning shared on Linkedin some [pointers on the vehicles production facilities available within the European Union](https://www.linkedin.com/posts/robertolofaro_automotive-mobility-data-activity-7387758987833806848-FmAO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg), using the data from the ACEA, the European car makers association.
+
+Between the different maps, selected the one showing just personal vehicles production (cars), and differentiating between electric and non-electric.
+
+As you can see, Italy has really few plants left.
+
+Then, added in that same post links to the list of worldwide production facilities for FIAT, Chrysler, and Volkswagen, plus information about former automotive plants not anymore operational.
+
+In Italy, many.
+
+When attended the Turin Car Expo in late September 2025, attended just a couple of conferences- one about design, sponsored by Changan and attended also by Italdesign and Giugiaro, and another one from various car makers associations, plus the Automobile Club of Italy (henceforth ACI).
+
+Well, the only one who talked really about sustainability and mobility with a future orientation was the outgoing Commissioner of ACI.
+
+The others? As shared in English on Facebook as a summary on what had posted in Italian on Linkedin: [the need of cultural change, if assessments are correct but then proposals are a d&eacute;j&agrave;-vu delivered with significant arrogance as if it were an ultimatum](https://www.facebook.com/robertolofaro/posts/pfbid02aBw3sJs1ZQYRDNCsJYQeUfDW2r9akq72VsgqtyXpryD7SYVWd5PpQ2aru66v88dl?__cft__[0]=AZVT_q1YmGLkdpXQADUzKqzYFsmaU5i_-tyjgGKXkz4WYh8rW9ry9vDj-cvldL144aMxlE9-jn6dEJzWheP9-1jnT3fZ5M0DTfPM0OrCptqtqmya2eZTO6PlJmYlxBiXxGOOgQSVxZmi8W4y2yZWhHDJerXNlNBOy7TAJW4y11usli1_YQQJf2OwHHz5Cak6Oz8&__tn__=%2CO%2CP-R)
+
+The proposals uttered included looking at how many millions vehicles there were decades ago, how old are vehicles in Italy, and how, beside incentives...
+
+... there should be a way obtain that existing users buy new vehicles, vehicles that, of course, should be following rules gentler than the ones currently set by the European Union in reference to 2035, assuming that Italians would get back to the density we had decades ago.
+
+Interesting perspective.
+
+A tad out of the times and anchored on rebuilding a past long gone, but still interesting: reminded me when Sergio Marchionne left the Italian Industrialists association stating that it was a bureaucracy.
+
+Bureaucrats are conservative by nature- not a bad thing, if leadership is setting the direction and considering the larger picture.
+
+If, instead, also the leadership is made of bureaucrats looking forward to maintain or even rebuild the past, then... Houston (or Detroit) we have a problem.
+
+Long ago, was announced a plan by Stellantis for Italy- but then was [announced a potential postponement](https://www.linkedin.com/posts/robertolofaro_stellantis-verso-il-rinvio-del-nuovo-piano-activity-7383402841224241152-7A4u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+Recently, there was a string of announces:
+_ first, selling Iveco to Tata
+_ then, [probably selling Maserati and Alfa Romeo](https://www.linkedin.com/posts/robertolofaro_turin-maserati-alfaromeo-activity-7378818934008963072-THgH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)
+_ then, announces that a major investment will be done in the USA
+_ followed by an announce from [Canada of potential measures against Stellantis if it were to move production from Canada to USA](https://www.linkedin.com/posts/robertolofaro_canada-threatens-jeep-maker-stellantis-over-activity-7384866568649752577-cEK7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg)
+_ and additional rumors about new potential manufacturing facilities [in the Middle East](https://www.linkedin.com/posts/robertolofaro_stellantis-diventa-araba-mossa-a-sorpresa-activity-7385238509638369280-FTl_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+In 2018 posted an article with the title "spezzatino", [talking about the potential unbundling of the former FIAT group](https://www.linkedin.com/posts/robertolofaro_robertolofarocom-activity-7386140283450687488-WQgR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+The "spezzatino" in the title of that 2018 article is the same concept that the [former CEO of Stellantis Tavares spotted as potential future of Stellantis: unbundling by brand, company, etc](https://www.facebook.com/robertolofaro/posts/pfbid022SDUdrK9ooieZXnWXTXeiYfFhYDYfCGmRfHtSMohdMSgHsK9yVs19PtcrgYu7Er9l?__cft__[0]=AZVr8Joww9vabpKlmEV-KMD0PZ7mH2k_8F_dR9tbI1qXWvNnCzioj8n0yW-mbZnq3sPzwXfCKR1wgR-m5DcDxQeGAezhcyUUeTldHXXCnhdr6bxJbWIs4ku9DLG9oy_f_qyqt7fqoMRE5AysJJ5QbGr-DhAS1jKhubyVzgWhNDfPwZ4G16qvEes-x5Bk2W69YWo&__tn__=%2CO%2CP-R)
+
+As the saying goes, when it rains, it pours.
+
+Hence, an unrelated company, Italdesign [originally Italian but currently German](https://www.linkedin.com/posts/robertolofaro_turin-automotive-italdesign-activity-7381578417072394240-E7q-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg), will probably be sold to another Indian company.
+
+I wrote at the beginning that Turin used to be the "automotive capital" of Italy- actually, in my view, as shared in the past, more the "automotive ministry of Italy", with its bureaucratic rituals and expectation of being both universal and permanent- as a ministry.
+
+So, in all this whirlwind of selling companies, brands, investing elsewhere, what did Turin get?
+
+All the barrage on media in Turin was about the 400 new jobs that will arrive in February 2026, e.g. [Corriere della Sera](https://torino.corriere.it/notizie/economia/25_ottobre_21/stellantis-l-ad-filosa-assume-400-operai-per-il-lancio-della-500-ibrida-cosi-riparte-mirafiori-l-ultimo-ingresso-di-massa-30-aa616c7c-9ce5-435e-8cff-ee1207113xlk.shtml?refresh_ce), but having at the same time requests for regulatory changes and incentives.
+
+More interesting another article about those 400 new jobs [published on the 21st of October by Torino Cronaca](https://torinocronaca.it/news/il-borghese/567686/stellantis-e-le-400-assunzioni-a-torino-ecco-come-stanno-davvero-le-cose-e-perche-deve-essere-una-svolta.html):
+_ the average age within the main plant in Turin is 55 years, i.e. approaching retirement age (in Italy, in a crisis, it is a tradition to provide incentives for earlier retirement)
+_ due to restrictions linked to the current employment agreement (basically, keeping idle at reduced salary, while still on payroll, and other associated measure on rotation, etc), the 400 new jobs could be temporary.
+
+I disagree with the other conclusions of the article, but anyway, as I wrote above, in this case it was expected to have a convergence across all the local media and politicians, aligning with the company requests to review European rules, obtain incentives, etc: d&eacute;j&agrave;-vu.
+
+Anyway, from an organizational and business development perspective, the data provided in that article talk more about a potential phasing-out of the plan- look at the list of automotive plants shut down in the past, linked to the "data post" that [shared on Linkedin](<a href="https://www.linkedin.com/posts/robertolofaro_automotive-mobility-data-activity-7387758987833806848-FmAO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg), and you will find various Italian names- including of plants connected to brands/companies that have either been sold, or whose sale has been rumored recently (e.g. Alfa Romeo, or also the [Maserati plant named Avvocato Giovanni Agnelli plant](https://torinocronaca.it/gallery/torino/564838/da-maserati-alle-erbacce-e-ladri-di-rame-ecco-cosa-resta-della-fabbrica-avvocato-agnelli-le-foto.html), named after the grandparent of John Elkann, the leader of Stellantis and Exor).
+
+As you know if you read previous articles, my activities on cultural and organizational change (which include technological change and business development) always had a "data element"- as, even before started working, at 17 my political activities were within a European integration advocacy, and part of my activities included reading and digesting plenty of reports and material from Brussels containing the data side of European initiatives.
+
+Hence, I do not look at announces the same way local politicians, local trades unions, and local journalists do: I look at the numbers, the chain of events, the potential scenarios, and previously adopted patterns.
+
+As an example, I received [this article about management reshuffling in Stellantis North America](https://moparinsiders.com/filosa-makes-more-management-moves-in-north-america/): so, a Canadian will lead Canada, and his predecessor will go playing second fiddle into a newly created position in USA.
+
+The same approach was followed when Magneti Marelli was sold, and its CEO was transferred to another Exor company.
+
+In Turin, both from France and Italy was told earlier in 2025 that the balance of power in Stellantis could shift toward Italy, and when was announced the appointment of an Italian, right after FIAT announced that would cover the cost of the annual local event on June 24...
+
+... everybody locally expected Turin to be the center of the (auto) universe again.
+
+Only to then hear that the new CEO would first retain responsibility for the USA market, and set his own office not in Turin, but in the USA.
+
+At last, the [local industrialists association is starting to see the light and (belatedly) accept the need to design the future of the territory](https://www.linkedin.com/posts/robertolofaro_gli-industriali-torino-fabbrica-ditalia-activity-7385267301572489216-KC_U?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+Need, but on the responsibility and accountability side, as there we are still more on a list of demands than a list of investments.
+
+La Stampa Torino reports that the [CEO of Stellantis met both the President of the Region Piedmont Cirio and the Mayor Lorusso](https://www.lastampa.it/torino/2025/10/24/news/stellantis_antonio_filosa_legame_torino_alberto_cirio_stefano_lo_russo-15366320/), but then added that beside incentives will seek also to have the European rules altered.
+
+Frankly, the concept is to look at figures, not just at announces.
+
+And I concur with the choice of both Spain and France to [ask to stay the course on the transition as it is planned now](https://www.linkedin.com/posts/robertolofaro_quattroruote-news-e-listino-auto-nuove-activity-7387978313522364416-VQfx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+Even without the [August announce that Stellantis was going to import workers from Morocco and Nepal](https://torinocronaca.it/news/economia/547912/fiat-chiama-800-lavoratori-da-nepal-e-marocco-per-costruire-la-grande-panda-in-serbia.html) to ensure that the plant in Serbia reaches it quota, announce (as you can read from my posts back then on Facebook and Linkedin) that was expanded with the proposal of having workers idled in Italy temporarily to work in Serbia until early 2026 for the same purpose (as the point probably was expertise, not just number of people), still all the string of announces coupled with procrastinations in Italy do not inspire trust.
+
+Frankly, newspapers and politicians in Turin talk of "trust" but in reality what they express is "faith"- as trust is based on data and previous behavioral patterns, and since decades Turin (and Italy), as you can see from the list of closed or idled plants, have been contracting, not expanding, production.
+
+The title of this section is about the future of automotive manufacturing assets.
+
+The need is to consider proper allocation of incentives where revenue streams are created: the ReArmEU and other similar initiatives will require plenty of infrastructure and investments.
+
+Yes, there are opportunities due to President Trump announces and choices- but, if you follow those opportunities, does not make sense to ask to change the regulatory framework within the European Union to allow what is produced elsewhere under a different regulatory framework to be imported within the European Union.
+
+If European car manufacturers are shifting production elsewhere, better to retain the new standards, and attract new manufacturers that will actually build and develop locally.
+
+Does it really matter if they are from either China or India, if they are hiring local employees and invest within the European Union while complying with standards that would eventually allow to jump forward in terms of infrastructure and obtaining the benefits embedded within the current level of urbanization and infrastructure?
+
+Stellantis was announced years ago as a takeover from France on Italian and American components of FCA, and then earlier this year was announced a return to Italy, only to then have the new Italian CEO who developed most of his recent career abroad to announce that, following President Trump incentives, the main investments will be in the USA, while nominally the company still is considered Dutch.
+
+Recently, for a celebration of the 50th anniversary of an Italian-American association, [John Elkann reminded that he is born in the USA](https://www.facebook.com/robertolofaro/posts/pfbid0DpW3ydyp15ZUxvfdFSovf7qp3V4nKpdkh2xtKmEVDjzsGRbem92eBAk5pV7UYtnLl): as half-jokingly wrote on Facebook, being an American by birth, he has less billions but more chances of becoming President of the USA than Elon Musk, born abroad.
+
+And while there are continuous announces on the family newspaper, La Stampa, about how close Exor and Stellantis are linked and close to Italy, investment and operational announces are instead elsewhere, photo opportunities and presentation events in Turin (and Rome).
+
+I hold an Italian and European passport, and I concur with what Carl Schmitt wrote about the "framework" of international relationships, that in reality did cover multinationals as potentially independent actors (e.g. [read the book linked to this book review](https://robertolofaro.com/index.php?page=158)).
+
+Our political leaders still think in terms of "nationality", and then express outrage and share their sense of betrayal.
+
+Only because did not consider that, without roots and with a self-referential definition of aims and means, a multinational, even a one-man band as a tennis player who is treated as a micro-multinational by the business environment, is not looking at reality through a nationalist or even national perspective, but through a business perspective: optimizing the allocation of asset and value generation.
+
+I wrote above how in early 2025 in Italian, English, French heard in Turin that everybody expected the balance of power to bring about again an "Italianization" of Stellantis.
+
+Specifically: Turin becoming again the center of the European Union automotive universe.
+
+It is actually a "d&eacute;j&agrave;-vu": when Chrysler was acquired by FIAT, during Marchionne tenure, as I wrote in the past everybody in Turin assumed that Turin would become the brain.
+
+At the time, I had contacts in the local environment, and I remember how often was told about that.
+
+Until, later, I was told by them that, actually, as I had foretold looking from a cultural and organizational perspective, to develop your career you had to go the in the USA.
+
+It happens often in M&A: just because you buy a company, does not imply that your organizational culture is going to lead.
+
+In our current environment, it could be that actually Stellantis consolidates in the USA while formally retaining the status of a Dutch company, and expands outside the USA where convenient (as it did in Morocco, Serbia, and, if confirmed, the Middle East), while phasing out plants that are not anymore strategic.
+
+Still, as any multinational business, will try to reach the global market with its products and services- and the European Union is still an interesting and rich market.
+
+And this is way I concur with Spain and France: altering the rules would turn the European Union into a captive market for products produced elsewhere.
+
+I always supported the OECD Guidelines for Multinationals (and already wrote about them in my first online publication on change, over 20 years ago [Business Fitness Magazine](bfm2013)), but unless we have a worldwide government, there is little chance to make those rules enforceable.
+
+Actually, decades ago, with the "Mutual Agreement on Investment" (appropriately, in Italian the acronym M.A.I. means "never") tried to do the other way around: a supranational, non-elected structure that, once membership is accepted, can enforce on Member States whatever rules the structure decides after a State joined membership.
+
+Therefore, we have to keep a degree of "Real-Politik"- more in line with what Mario Draghi called few days ago "pragmatic federalism".
+
+The European Union has been sleepwalking alongside the USA for decades, and assumed that European multinationals were first and foremost Europeans, probably looking at France as a model of State capitalism.
+
+In reality, already in the 1960s in Italy some State owned multinational companies were said to have their own foreign policy, e.g. in the energy domain.
+
+Over the years, we had routinely in Italy, but also in other countries, companies that remembered which flag they were flying only when needed subsidies or sponsorship for rule setting.
+
+Then, as the head of the Italian industrialists said recently after Stellantis announced its massive investment not in Europe but in the USA, stating that they were free go where better opportunities are available.
+
+In the XXI century, resettlement also of complex supply chains is increasingly feasible quite fast, as shown during COVID, and therefore States should consider multinationals as counterparts, not components, of the internal social structure.
+
+Meaning: mind your own interests, and look for interest alignment- on short-, medium-, and long-term.
+
+Personally, I look as I wrote above at data and patterns: and the data and patterns talk about a communication campaign to obtain that also Italy and the Italian Government will support demands from Stellantis in Brussels, plus additional incentive to sell vehicles, coupled with expansion elsewhere.
+
+Hence, we better start considering how to repurpose plants, to avoid decay as you can see if you go around Turin and the Metropolitan Area of Turin, reminding how Turin was once called "the European Detroit", for its automotive focus.
+
+It will be interesting to follow the negotiations with Canada, that announced that, were Stellantis to idle its plants there, would seek remedy to recover previous investments- as the Minister of Industry of Canada wrote "We were there for the company in 2009 to pull it back from the brink of bankruptcy, and now we expect you to be there for Canadians", and the Prime Minister <i>"Mark Carney said the government was working with the company to protect Stellantis staff at the Brampton site and try 'to create new opportunities' for them locally.
+
+A Stellantis spokesperson said it was expanding its operations at its Windsor plant in Canada, which would create 1,500 new jobs to "support increased demand" for its Chrysler Pacifica and new Dodge Charger Scat Pack models."</i> (from [this BBC article](https://www.bbc.com/news/articles/cn97xx7d3r1o)).
+
+Same pattern as in Turin: current demand replacing long-term investments.
+
+In Italy, currently there are no similar announces- hence, probably, would be better to consider the option to ask as quid pro quo (e.g. to extend the "cassa integrazione") the transfer of assets such as plants still operational but currently idle, so that can be repurposed.
+
+We are skidding on thin ice, as in the 2021 movie [The Ice Road](https://www.imdb.com/title/tt3758814).
+
+We are not anymore in the XIX century- defense requires expertise in most of the domains that used to be part of automotive- and significant infrastructure.
+
+Also on the human side: we need to augment skills and capabilities, and introduce continuous learning.
+
+When lived in Brussels, I remember that I found in an electronic shop that used to sell unusual items also a 3D mouse.
+
+It was a concoction with a velcro strap that you put on your fingers, and then you could move object in a 3D space- and the drivers CD contained some games.
+
+The interesting part? It was a clear example of a "dual use": it was produced by an Israeli company that belonged to the technology environment that, in order to finance R&D and indigenous technology, found both civilian and military uses for technologies.
+
+It all happened almost two decades ago.
+
+Within the European Union, if you consider the potential of smart cities as enabler of technological development, as the recently announced plan to generate incentives also for autonomous vehicles tests, we actually have the opportunity to jump forward, using the new standard, toward the model of personal vehicles that was represented within Mitchell's book.
+
+Or: converting European Union urban centers into innovation hubs not just on the technological side, but also on services and social innovation.
+
+Again: akin to giving a skateboard to a turtle- you never know which social and business opportunities could generate.
+
+Considering vehicles as part of a urban ecosystem integrating data, energy, mobility, and also generating potential new services (but will write more about this in future publications).
+
+A model that actually, courtesy of the market size represented by interoperable infrastructure and vehicles almost from the Atlantic to the Eastern border of the European Union, could justify investments that would result in products, components, processes, infrastructure that could allow develop fast and cheaply subsystems that could be used both for civilian and military uses.
+
+Looking forward: dual use is dead, long live dual use- and AI is a prime example.
+
+Recently attended webinars/workshops on dual use both in the USA and Italy, and frankly I see that even from the military side are starting to see how technology is accelerating and democratizing to such a level that the old DARPA model with massive public investment upfront to seed technologies has to be coupled with the acceptance that some relevant or even catalyst innovations could start "outside the campus", and then be imported into the security domain.
+
+I shared in the past on Linkedin studies on the potential side-effects of delivering autonomous vehicles in the form of self-propelled weapons, and I am strongly skeptical.
+
+Look e.g. at a [recent webinar from SIPRI on peace and security implications of AI agents](https://www.linkedin.com/posts/sipri_join-sipri-on-15-october-at-1700-cest-activity-7379485677715030017-zpqZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+While civilian vehicles eventually might become fully autonomous, for military vehicles would always retain what is called "human in the loop": no decision-making without humans having a last say.
+
+Repurposing existing operational and modern plants would have some additional benefits.
+
+If you visited factories in the 1980s and factories in the 2010s or 2020s, you could spot immediately the difference, courtesy of lean, WCM, and other approaches.
+
+Incidentally: I had studied lean and other approaches in the early 1990s, as part of my continuous learning while designing organizational models and learning or working on process improvement for customers, up to reading the usual Deming, Porter, and various Japanese manufacturing and business organization studies.
+
+When started working again in Italy in 2012, as was told about the World Class Manufacturing implementation promoted by Sergio Marchionne, went online and eventually purchased a pile of (used) books on WCM- from its inception, to the usual "year later review", etc- and in the 2020s instead went through courses to refresh other concepts (e.g. yellow and green belt Six Sigma)- albeit the funniest memory is always a video course from the MIT using... Lego bricks, to explain how to remove waste.
+
+Over the last decade, repeatedly that paid: but then, while visiting offices that were within plants or warehouses, obviously spotted elements of what I had studied or read.
+
+Also if it was not my role in my missions to talk or preach about it, whenever needed used that knowledge to "nudge"- and worked.
+
+In the mid-1980s, at the university, remember designing algorithms to walk through a fictional warehouse with a fictional robot- but technology and budget did not allow to go beyond the fiction.
+
+When in the late 1980s went to deliver onsite pilot management training on a decision-support system used for group management reporting, visited factories within the Magneti Marelli group, when many of the factories had been the result of M&A activities, and I remember environments that were not really user-friendly (meaning: for human workers), and certainly would not have been self-driving vehicles friendly.
+
+In the 2010s and early 2020s, when instead got through the shop floor or warehouses in other companies of the former FIAT group, saw clearly marked spaces, areas well arranged, clean spaces, containers well organized, etc.
+
+Hence, if factories recently closed or currently idle were to be repurposed, probably soon could have a human+machine staff complement, as what became more "human friendly" would also streamline any equipment, including self-driving, used in such factories.
+
+The journalist commenting on the average age of current factory workers in Turin wrote about "generation change"- but, frankly, I think that he too is still looking at a past that will not return.
+
+In the future, those factories restructured and renovated will probably see more autonomous robots interacting with fewer humans, and humans working using cobots.
+
+Search on YouTube for videos about "automated warehouses", and you will see what those yellow lines on the floor, clearly spaced shelves, and other design factors allow e.g. [Amazon](https://www.youtube.com/shorts/PJ2MwftUYoI) to do.
+
+It is a matter of industrial policy: the investment policy adopted by President Trump is de facto non-tariff red tape, as wrote in my initial commentary when the first "tariff book" of the new administration was released- everybody focused on the percentage of tariff on this or that, which is understandable.
+
+From a policy perspective, and from an organizational development perspective, more relevant were the pages upon pages of preamble, that contained a long list of desiderata in terms of weakening every law and regulation that the European Union released- from GDPR, to health and safety standards, across multiple industries.
+
+Hence, unless there is a quid pro quo but at the same time and on the same level, better to keep our new technological standards and consider them our "non-tariff barriers", and allocate resources on transitioning staff and to attract matching investments that accept to comply in order to access the European Union market.
+
+Our existing infrastructure, level of urbanization, and continent-wide integration are our competitive advantage.
+
+I did try once what was supposed to be a fast train between New York and Boston- felt like jumping back in a [1950s-1970s "Settebello"](https://en.wikipedia.org/wiki/Settebello_(train)).
+
+Actually, would make more sense to push for cars that can become part of an integrated mobility network- not just being electrical, but being data platforms exchanging data with the environment that they get through, considering e.g. the number of sensors that each modern vehicle contains.
+
+And, probably, new manufacturers who were to design their "personal mobility vehicles" now could benefit from such an ecosystem by adding new services, or offsetting the pay-per-use or maintenance of vehicles for the end user by integrating sponsored services and products.
+
+As, anyway, also smaller manufacturers of parts and components for the automotive industry are following the car manufacturers- and shifting investments to the USA, or wherever the car manufacturer goes.
+
+Hence, why subsidize them by draining resources from the future potential?  
+
+
+<b>Conclusions and next steps</b>
+
+I hope that the sections above raised more doubts than expected- and that inspired few ideas.
+
+If anything, by contrast.
+
+The main aim of this article was to discuss a transition by using data and examples that already shared online since late September 2025, and referencing also material almost a decade old.
+
+I hope that the links provided have been interesting.
+
+In future articles within the citizen audit series will follow the same approach: first, post on either Facebook (mainly the news and political/social side) or Linkedin (the business and technological side), to be both proactive and reactive to events and trends.
+
+Then, I will publish an article that builds a narrative across the main posts relevant to a specific theme.
+
+In this article, did not enclose all the posts that released about the subject since late September 2025- you can find more by visiting my profiles.
+
+Instead, selected those that would allow to build an easy to follow narrative, while providing enough links to allow building up your own concept.
+
+In future articles, if and when needed, as did in the past probably will share also datasets: in that case, beside [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro), will post files also on [Kaggle](https://kaggle.com/robertolofaro), where since 2019 share curated datasets created from open data sources or public documentation.
+
+For now, stay tuned!
