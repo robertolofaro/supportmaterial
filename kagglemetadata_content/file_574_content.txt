@@ -1,0 +1,216 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20240407_article.png)</center>
+
+As I wrote on Linkedin on 2024-04-03:<i>"
+On April 1st released the "preamble" to the #EP2024 article series about the forthcoming European Parliament elections, which will be followed by a further "episode" every fortnight
+
+Meanwhile, next week an article about transitions and lifecycles
+
+Both often neglected in the past, despite the lip service and flurry of standards in the latest decades, both will have a new lease of life in our data-centric society
+
+Also if you were (how?) to ignore AI and other data-driven automations
+"</i>
+
+Yes, as you can see from the title, the main theme of this article will transitions and lifecycles.
+
+Actually, I will use both "transition(s)" and "transformation(s)"- as within the context of this article both are concerned, and no transition happens without generating an implicit or explicit transformation vs. the status prior to the transition.
+
+In some cases, even just discussing potential transition generates a transformation- with no direct action involved, but will discuss those nuances in future publications.
+
+In this article, will ignore what are transitions and lifecycles exclusively within your own control, e.g. within your own organization- as that usually is taken care of (or can be solved).
+
+Instead, will consider transitions and lifecycles that integrate both transitions that you initiate (and associated lifecycles) as well as the overall context where those transitions are delivered.
+
+Anyway, decided to post this article earlier, to share an evolution also of my publishing approach due to the above mentioned series.
+
+The idea (and concept, and plan) was to keep sharing more often (weekly) "pointers" that can be digested in a single session of half an hour or less (or more, if you connect that with your own experience and ideas- also to refute my own "pointers").
+
+Therefore, to keep articles short, will blend both pointers from my experience, learning, observations, and to online material with a longer introductory section.
+
+Each article then will continue with few short sections focused on just sharing questions and pointers.
+
+Hence, keeping both the articles within the [EP2024](ep2024) series and any other article within a reasonable length (around 2,000 words), shifting longer material to future publications and [video presentations such as those that posted in the past on YouTube](ctr-channel), and spending some time publishing every week-end.
+
+Will keep adding links on both my [Linkedin](https://linkedin.com/in/robertolofaro) and [Facebook](https://facebook.com/robertolofaro) profiles whenever I share something online.
+
+Few sections in this article:_ walking the talk: lessons learned on transformation and lifecycles_ transformations: those that you can control, and those that you cannot_ lifecycles: roadmapping by circle of influence_ overlapping transformations and lifecycles.
+
+
+<b>Walking the talk: lessons learned on transformation and lifecycles</b>
+
+
+As you probably noticed, a while ago changed the title of my website from:
+<i>"RobertoLofaro.com - Knowledge Portal"</i>to:<i>"RobertoLofaro.com - Knowledge Portal - human-generated content"</i>,while keeping as subtitle the same that you can see on my CV or Linkedin profile:<i>"Change, with and without technology"</i>.
+
+Yes, since 2020 (courtesy of COVID lockdowns) at last did a much overdue update on AI that had already attempted in 2018 when I had opened a company, but was then absorbed in the "shutting down" chores, and also in 2008-2009 while in Brussels (I acquired an old Playstation2, the one with the Emotion Engine, plus the Linux software development kit, after attending in London via IEEE few years back an engineering presentation from Sony about the internal architecture, including the "Vector Processing Units" of the [Emotion Engine](https://en.wikipedia.org/wiki/Emotion_Engine)).
+
+Why was interested? It comes with the PROLOG language, that I had learned in the 1980s, when I was interested enough that joined an association called GULP (Gruppo Utenti Logic Programming)- not what you would expect from somebody with my background at the time (interested in cultural anthropology, comparing Constitutions, in active politics- as a teenager).
+
+My PROLOG times were mainly in the 1980s-1990s: but I was lucky, as by 2018 models were better, and hardware, beside being cheaper, allowed also to have online free trial access (e.g. did on AWS, and tested also others) to computing facilities, while specifically on AI for my learning path Kaggle was and is a priceless resource for both learning, testing ideas, prototyping, sharing.
+
+And doing the part that really liked more in my decision support systems models time: yes, doing the model design, building, iterative/incremental development was funny and a learning experience, but, frankly, finding the right (and minimal) amount of relevant data ([see a book I published few years back on the subject](relevantdata)) within the corporate haystack.
+
+It is worth remembering that when I write "technology", I mean "techn&eacute;", i.e. roughly "structured knowledge" or "savoir faire".
+
+I will let others cross the Ts and dot the Is on my approach, but my concept is relatively simple: change is always cultural change- also when you shift from writing with a pen to writing with a computer, it changes the way your draft, amend, and even, eventually think.
+
+Probably one of my high-school classmates will remember how, decades ago, launched an experiment in shifting from pen-written letters, to...
+
+... exchanging a physical floppy disc (the 5.25" variety), hosted within a durable plastic box that was then sent back and forth.
+
+As the same time, I had exchanges in UK with fellow Mensa Members discussing about politics and philosophy, that in 1994, while I was spending my summer vacation by attending a Summer School in International Political Economy at the London School of Economics, turned in few "brainstorming dinners" with a couple of much older Mensans (one eventually shifted to the USA).
+
+Even more curious how that exchange started, and how it evolved in a couple of dinners in London before and after I ended the 1994 LSE Summer school and moved for a Summer Academy in Gothenburg on Intercultural Communication and Management, and then...
+
+... returned to London..
+
+Attending twice LSE during the Summer, and that second school in Sweden in 1994 was a step in preparation of a career shift that eventually did not do, also when I was admitted to a Master in Finance in London but only residential (not matching my need to keep working on cultural and organizational change).
+
+My idea, after having in 1986 first a project in procurement where I saw how as simple a choice as approving an invoice was of systemic complexity if you wanted to make a recommendation system, then in 1987-1988 the completion and release of the general ledger for a major Italian bank, then countless models looking at profit&loss, cashflow, etc across multiple industries and also in what now are called in Italy "pocket multinationals"...
+
+... was an incentive in reserving for my early 30s a move into investment banking.
+
+Those 1980s and 1990s activities had shown me a potential unexpressed value within many companies, if you adopted a cross-industry mindset, as I had been lucky enough to do first in political activities as a teenager "number crunching" what was sent from Brussels etc, then in the Army covering multiple roles, then... well, look at a sample within [my CV](cv).
+
+The funny part, now that I think about it (I think through pictures- do not ask me names, but ask what happened, or numbers, or a blend of all that can be converted visually, and I will gradually resurrect plenty of "cameos", as a profiler), how actually the "observation" was something that did full time for few years in... high school.
+
+That classmate and I at the time shared a dual desk that was positioned sideways, looking on one side to the teacher's desk, on the other to the other the desks of all our classmates, neatly arranged in rows: so, beside minding about our own business, following the lessons, we also had the opportunity of studying "social dynamics".
+
+My cultural anthropology and culture studies interests since I was a kid helped, but it was funny sometimes to apply that in school.
+
+The purpose of this section was of course to share few signposts in my past that show how transformations are something that both you control and do not control, but each one has its own lifecycle.
+
+Then, unless you live in a tunnel as lab rat, multiple transformations and lifecycles can overlap and coexist.
+
+Sometime they go into "resonance", constructively "joining forces" to reinforce and extend a transformation and associated lifecycles, and even accelerating both.
+
+Sometimes, there might be other consequences to consider.
+
+Anyway, just discussing the last few paragraphs would require well over 5,000 words, so I will leave you with the pointers and...
+
+...move into the next section, where I will start shifting from examples to ideas and concepts.
+
+
+<b>Transformations: those that you can control, and those that you cannot</b>
+
+
+Within the introductory section, described both transformations that I decided to initiate, and others that "emerged" through interaction with my environment.
+
+I hope that, while reading it, you identified your own "patterns"- on a professional or personal level, or even just in your environment, that represented "transformations".
+
+Now, get a look beyond your direct experience.
+
+Which other transformations were ongoing within the general context?
+
+In previous articles within this website, obviously since 2020 shared a continuous stream of articles from a cultural and organizational change perspective on the impacts of the COVID crisis.
+
+More than the direct, temporary impact, as many other transformations that are outside our control, that crisis highlighted structural issues across society and business.
+
+Actually, should specify: structural assumptions.
+
+If you read e.g. articles about logistics before the COVID crisis, it seemed to many organizations fine to minimize the number of suppliers, and assume almost as a clockwork a supply chain spread across the world.
+
+And this, despite the prior experience almost two decades ago with the tsunami in Asia, and other temporary disruptions of provisioning of components and parts.
+
+The crisis made visible how those assumptions were not grounded in reality- based instead on expectations.
+
+Anyway, I saw often both "overthinking" and what I could call "underthinking" as potential risks.
+
+Overthinking is what generates decision paralysis: you start considering so many elements, that any decision that would move your transformation a step forward seem to be impossible to make.
+
+Underthinking is then just the opposite: to boldly go where nobody has gone before, oblivious of the contex.
+
+The idea is, in this case, to keep thinking systemically, but considering the elements of each transformation that might have impact per se.
+
+So, your own aim, plus all those other parallel one, by level of assumed influence.
+
+Within the last section, will discuss the obvious next step: how to shift from parallel lines by degree of separation to an integrated (and pragmatic) approach.
+
+More about this later- let's shift to the most neglected element that I referred to within the Linkedin post that shared above: lifecycles within transformations. 
+
+
+<b>Lifecycles: roadmapping by circle of influence</b>
+
+
+Some would say that "systemically" means "unified", and this approach works only in some cases- in the last section will show how instead can be useful also where you have a system of systems.
+
+As usual, the key is "contextualize".
+
+To repeat again the key "pointer":<i>
+Meanwhile, next week an article about transitions and lifecycles
+
+Both often neglected in the past, despite the lip service and flurry of standards in the latest decades, both will have a new lease of life in our data-centric society
+</i>
+
+Each transformation has its own lifecycle: it begins, evolves, eventually fades out.
+
+As described in previous articles, what is outside your control shold be both identified as part of your planning (the critical part is planning as a discipline, not the plan: but shared often in the past President Eisenhower's quote shared via Richard Nixon).
+
+If you followed the article so far, you will probably understand the next step: your own interaction with the context has its own evolution- and lifecycle.
+
+Therefore, if during the planning phase you identified transformations outside your control that could have an impact, and defined their level of potential influence, you should also have identified who will be able to monitor and update.
+
+And, overall, which kind of external influences you can assume that will impact- again, by degree of influence.
+
+If you follow a risk management approach (does not really matter if you have a formal structured methodology, follow a standard approach, or had a Delphi session at the beginning to identify what to watch for and the degree of potential impact), you probably are familiar with at least part of this concept.
+
+The overall idea, and what I described as often neglected, is considering as each transition exists in and by itself, and will have its own lifecycle.
+
+And the aggregate lifecycle I referred to?
+
+Let's move into the final section of this short article.
+
+
+<b>Overlapping transformations and lifecycles</b>
+
+
+There is a natural temptation to "stick to the plan", or at least to the "planning phase constraints", notably when carrying out an analysis following an approach that considers also the external context.
+
+Up to the point of ignoring the evolution on those constraints (their unique "lifecycle", that probably would require adequate expertise to assess evolutions).
+
+And certainly to ignore new transitions (and associated lifecycles) that might have impact on your initiatives.
+
+One year ago, when as member of PMI (no, not certified- member of the community) received a message asking for reviewers for the draft of the forthcoming (released few weeks ago) 5th edition of the Standard for Program Management, between other minor element, my suggestion was to start integrating with the business case definition also the "sustainability" side.
+
+Why? Because generally the scope of those initiatives large enough to be called "program" (also if many call "project" what is really a program of interlocked projects and services) has a set significant operational and strategic impacts (what are benefits if not that?), and, in the 2020s, this soon will be mandatory to include considerations of Environmental, Social, and Governance (the ESG) elements of company positioning.
+
+If you visit Linkedin, and search for ESG or even just sustainability, one of the most common themes is the cacophony of requirements within that domain, and how this is cumbersome for companies.
+
+Imagine that in 2019 you started an initiative that was due to start in 2020.
+
+Few would have considered the potential impact of a pandemic- not only because they would not have a crystal ball, but also because, within a preliminary list of contextual elements (I am willingly avoiding the "threats" and "events" or other pigeonholing), you have to consider not just potential impacts, but also the probability and, last but not least, what you can do about it.
+
+When, in the previous couple of sections, discussed the lifecycle of lifecycles, implied that you would need:_ somebody following the overall aggregate lifecycles_ somebody acting as an "antenna" on each transition_ a communication approach that allows to cover that.
+
+While the COVID pandemic was initially neglected, monitoring what was happening implied that, for example, already in mid-to-late February tried to avoid visiting hospitals- and, when I had to, due to a dog bite, immediately noticed how the limited measures already in place in Italy were neglected.
+
+Only two weeks later, the world changed.
+
+Many would consider "fate"- and on Friday 2024-04-05, while attending a workshop on uncertainty, was curious to hear about cultural differences on how to define (or consider) uncertainty within decision-making.
+
+Anyway, neglecting transitions and lifecycles associated with them is also common with other more ordinary, or even planned transitions.
+
+As an example, staying on Italy, since 2020 I have kept repeating how, having followed the PNRR (the National Recovery and Resilience Plan associated with the EU Recovery and Resilience Facility that is part of NextGenerationEU, the 700bln+ initiative), my worry was that it contained limited value for future generations, while transferring to them the direct (debt) and indirect (grant, pro quota) payback need.
+
+Also, whenever you create infrastructure, unless you have allocated funding for the expected life of that infrastructure, you are actually adding further weight on the shoulders of future generations.
+
+Shifting from collecting the roadmap for each transition and associated lifecycle (e.g. phase-in, phase-out, overlapping of old and new demands on existing staff, suppliers, infrastructure), to building a new aggregate one implies obviously starting with your own.
+
+If you do not have a clear idea of what you need, then looking at other external transitions that might affect your own does not make that much sense.
+
+Anyway, after that first step (your own transition), the integrated roadmap is an iterative and incremental affair that will have to work through points of stabilization.
+
+So, while many would see the above as "agile", I prefer to consider it "hybrid": you need to get into an approach based on prioritization and stability/stabilization checkpoints, as otherwise you risk converting something complex into chaotic.
+
+As I hinted above, somebody would say that systemic thinking implies considering all the system- but if you consider systemic thinking as a system of systems, unless you want to get into a continuous chasing your own tail, you need to consider also if lifecycles are (or even should) be considered aligned.
+
+In the end, if you have no control on a transition and its associated lifecycle that impact on your own transition (imagine setting up a new chain of restaurants exactly when everybody in 2020 went into lockdown), you migh have to either realign your lifecycle (e.g. postpone opening those restaurant), dispose of it (in that example, your investors might pull the plug), or adopt the constraints implied within higher-order transitions and lifecycles.
+
+The latter case is what we are living in now, at least within the EU:_ we started initiatives to improve resilience in our supply chains, should other globally disruptive events such as COVID were to occur_ due to the invasion of Ukraine, we had to reconsider also energy provisioning and supply chains (e.g. there had been already trains from China to Spain)_ due to the conflict in Gaza, we have to reconsider potential impacts (e.g. what if Suez were to be shutdown?)_ due to the aging of our population, there will be more demand of health services, and less young people to cover jobs_ in countries such as Italy, aging is coupled with contraction of the population: we will need to redesign services (e.g. maintenance), infrastructure, etc.
+
+I hope that this first article within the publishing approach (shorter and more with pointers than solutions or proposals) will be useful to you.
+
+In two weeks, another article- but along another line, not in "rethinking".
+
+Instead, next week the second article of the EP2024 series.
+
+Stay tuned!

@@ -1,0 +1,41 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_ep2024_20240329_ep2024.png)</center>
+
+The 2024 European Parliament and Regional elections are for both the European Parliament and the Regional Government of Piedmont (there are other regional governments as well).
+
+About this series:
+_the series concept is described within the article [EP2024Series_00 The tumbleweed of EU decision-making European Parliament elections](index.php?page=555)
+_each article will include both an introductory section (approximately 25%), and a news commentary (approximately 75%, but sometimes less, leaving space to addenda and announces)
+_current plan is for a new article within this series every two weeks
+_the introductory section will be released according to the schedule below, while the commentary might or might no be added, or shifted into an "in depth" article published later
+_the current publishing plan is to then collect all the introductory sections and commentary (be it published with the introductory section or as a separate article) into yet another minibook [added along with the case study on program management published online](https://robertolofaro.wordpress.com)
+
+As an additional "feature", [from 2024-03-26 is available also a GitHub repository that will contain data and how-to-convert-data-into-visualizations for visualizations created to support the articles within the series](https://github.com/robertolofaro/ep2024series)
+
+In the end, at the EU level, also if a single party where to obtain an absolute majority, a wider consensus would be needed to operate, as shown also during the mandate of the outgoing European Commission and European Parliament, to cope with a string of crises (COVID, Ukraine, energy):
+
+This picture represents the four phases described within the series of articles, corresponding to a process that followed also whenever a new initiative was to be jointly defined:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_ep2024_20240329_roadmap.png)</center>
+
+The publishing plan outline:
+[_ 2024_week14 EP2024_001_preamble (effective: 2024-04-01)](ep2024_01)
+<b>PREPARING</b>
+[_ 2024_week16 EP2024_002_preparing (effective: 2024-04-10)](ep2024_02)
+[_ 2024_week18 EP2024_003_policy (effective: 2024-05-01)](ep2024_03)
+[_ 2024_week20 EP2024_004_freedoms (effective: 2024-05-16)](ep2024_04)
+<b>POSTURING</b>
+[_ 2024_week22 EP2024_005_lastcall (effective: 2024-05-31)](ep2024_05)
+[_ 2024_week24 EP2024_006_impacts (effective: 2024-06-16)](ep2024_06)
+[_ 2024_week26 EP2024_007_firstlights (effective: 2024-06-25)](ep2024_07)
+<b>CONVERGING</b>
+[_ 2024_week28 EP2024_008_dancing (effective: 2024-07-12)](ep2024_08)
+[_ 2024_week30 EP2024_009_bartering (effective: 2024-07-28)](ep2024_09)
+[_ 2024_week32 EP2024_010_preparing2 (effective: 2024-08-11)](ep2024_10)
+[_ 2024_week34 EP2024_011_settling (effective: 2024-08-25)](ep2024_11)
+<b>SETTLING</b>
+[_ 2024_week36 EP2024_012_spitzenkandidaten (effective: 2024-09-07)](ep2024_12)
+[_ 2024_week38 EP2024_013_incoming (effective: 2024-09-22)](ep2024_13)
+[_ 2024_week40 EP2024_014_next (effective: 2024-11-03)](ep2024_14)
+[_ 2024_week42 EP2024_015_onetwothree (effective: 2024-11-24)](ep2024_15)
+[_ 2024_week44 EP2024_016_halloween](ep2024_16)
+[_ 2024_week46 EP2024-017_endofthebeginning](ep2024_17)

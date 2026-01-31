@@ -1,0 +1,139 @@
+<b>Rationale</b>
+
+In March 2024 worked first on the concept of this series, then published as [EP2024_00](index.php?page=555) the context.
+
+From this article, starts the series that will continue for few months, once every two weeks.
+
+The format that will follow is really going back to the past of publications, as XIX novels that were hundreds of pages long not because it was the original intent, but because the author evolved it across episodes.
+
+Yes, publishing an episode a week or so allowed also back then to see how the series fared, and adjust, evolve, improve, prune.
+
+Exactly what happened in the mid-XX century with TV series, and in this century with countless online publications (e.g. TikTok series- I have a profile there, but never really used it so far).
+
+In my case, I will not collect direct feedback (except in few cases).
+
+Instead, will use news from the EU (not just from Italy) as an inspiration to adapt the content of each episode.
+
+Which, anyway, will contain a rationale that is independent from news per se.
+
+Hence, let's call this first episode, 'Preamble', as an evolution of the episode 00, 'Context', and use it to describe what you will read here.
+
+First and foremost, each episode will start with an introductory section (the 'rationale' part), which will ignore the news and share ideas and concepts.
+
+The concept? It is an approach that can be used as a framework for other multi-party initiatives, not just elections.
+
+Then, there will be the commentary part of the article- the plan is to have a 25% - 75% balance, aiming for no more than 2,000 words overall.
+
+Any visualization that will create explicitly for articles could have a 'data background'- in that case, will share online the material [within a GitHub repository called 'EP2024series'](https://github.com/robertolofaro/ep2024series) 
+
+All the content within that repository will be under Apache 2.0 license, to allow others to reuse as they see fit (I would be glad if anybody re-using that material were to add a link to the repository, so that others could 'fork' their own material).
+
+While the first 25% will be always published, the remaining 75% will be added if and when relevant- and, if exceeding the limit, might be actually published at a later date.
+
+This picture represents the four phases described within the series of articles, corresponding to a process that followed also whenever a new initiative was to be jointly defined:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_ep2024_20240329_roadmap.png)</center>
+
+Yes, the same roadmap [ that you can find within the introduction page of this article series.](ep2024)
+
+The articles in this series will be followed by a book collecting all the content, which will include, beside the 'textual' and 'data-based' content, also a vignette for each article, to represent a kind of 'Tarot card deck'.
+
+Time to switch to the commentary part.
+
+See you online in two weeks.
+
+PS and if I will have to write something more? This is why scheduled a gap between each episode.
+
+
+<b>Commentary</b>
+
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_ep2024_001_preamble_results.png)</center>
+
+As this article is just the preamble of a series, it contains something more than the "what happened over the last two weeks that concerns the European Parliament elections" that you will see in the future articles scheduled up to end 2024.
+
+So, let's divide it into two parts- about the past, and about the future.
+
+The (recent) past is something that will resurface here and across this series: the crises that the European Union has been embedded in since 2020.
+
+When COVID started, we had already a degree of "misalignment" between Member States, on the socio-economic level, notably intra-EU imbalances.
+
+The NextGenerationEU set of initiatives, gradually expanded to various areas after the initial Recovery and Resilience Facility (the one that generated the process to produce, verify, approve, execute the "mission-based" National Recovery and Resilience Plans), introduced significant structural changes not yet within economies, but for now within rules.
+
+More informal, de facto changes than general, foundational rules, which would have required a long political negotiation, treaty revision, etc.
+
+Anyway, those changes piled up, and will have long-lasting effects.
+
+Adding to the COVID crisis we had then the Russian invasion of Ukraine, followed by the need to revise energy import flows and associated agreements, and, due to some side-effects of the COVID crisis, a reconsideration of supply chains for technologies and products critical for an advanced economy such as the European Union (and its manufacturing side).
+
+Add to that, the new ongoing war in the Middle East that is increasingly getting the shape described within "Total War 2007", a book written by a former UK officer (if I remember correctly) that purchased and bought in London while I was still living there, in the early 2000s.
+
+Some of the "quick fixes" created since 2020 at the European Union level were immediately implemented, others are following the timelines set up by the various National Recovery and Resilience Plans, others will take a while to be implements, others frankly are "paper tigers".
+
+E.g. you can make as many announces you want about new energy sources, but energy needs to be transported, stored, and eventually distributed.
+
+Hence, if you lack those facilities, it takes time.
+
+Ditto for the concept of producing in Europe chips: yes, it is a nice concept- but has to be at a price overall competitive with that of the previous sources, which, in Europe, would imply a massive investment in new highly automated facilities, as the labour costs associated with manufacturing (and the initial smaller scale of production) could otherwise make products less competitive.
+
+Somebody said that a key difference of the scenario is that more National Governments and National Parliaments (and, probably, voters' "sentiment") since 2019 have shifted toward the right-end of the political spectrum.
+
+The assumption is that having more centre-right or right-wing Governments while a European Parliament election is held might result in a significantly different set of policies at the European Union level post-elections.
+
+Well, I might agree if we were in 2018-2019, where many still talked about BREXIT as an example, or at least a EUREXIT.
+
+All those crises changed the landscape, and even centre-right or right-wing National Governments had to start coping with a reality that makes national solutions simply either not feasible or counterproductive, a figment of imagination.
+
+The European Union is an ageing space of over 500mnl inhabitants, that since over two decades is attracting a younger population from Africa and Asia, but is still unable to have a development model that consider that into its equation.
+
+On the business level, getting older implies a need to alter business processes and activities to cope with a different mix of labour force, while the welfare approach that we used in Europe (in different ways in different countries) will require a remodulation of resources.
+
+The two wars around the corner (Ukraine and Middle East, not just Gaza), as well as the way Balkan and Libya wars showed how weak is the European Union capability to execute joint efforts when needed.
+
+On the defence side, frankly remember the issue that had Germany in WWII- too many different quarrelling "champion of this champion of that", something that generated a logistics nightmare when went a bit further from its starting point.
+
+It is not just the amount of expenditure, but its quality and, if compared with other countries (including USA), the percentage of material produced within the European Union without paying licenses (or outright procurement from) elsewhere, that matters.
+
+If you purchase from elsewhere, or license from elsewhere, you are subsidizing somebody else's R&D and innovation capability.
+
+Hence, left, centre, right- any National Government will have to copy with these and more realities.
+
+At least in Italy, we saw how on political economy, due to the constraints embedded within the National Recovery and Resilience Plan (PNRR, in Italian) and issues with the national economy (including the impact of tax credits for building renovation issued by previous governments that few nights ago the Minister Giorgetti was reported assessing at 200bln EUR, with a further impact on citizens if you consider future maintenance costs), plus still lingering side-effects of the impacts of COVID on the socio-economic structure, the first National Government led by a rightist party with centre-right allies (and not vice-versa) showed a degree of continuity with the previous Government (which included all the political parties except the current leading party) that was unexpected by many commentators.
+
+The European Union committed to supporting Ukraine in resisting and repelling the Russian invasion, going as far as de facto promising to subsidize rebuilding, while for the time being as an aggregate NATO countries are even supporting current expenses.
+
+And this is just the past.
+
+Shifting to the future, the European Union cannot keep rebuilding or financing new infrastructure (as the energy agreement, and various Mediterranean initiatives) whenever there is limited or not-so-limited conflict.
+
+Also, cannot keep providing a blank cheque to Ukraine without having a say in strategy- as soon, the level of commitment will require funding and investment choices, as well as new initiatives to alter manufacturing: political choices that will have to be "sold" to European Union citizens.
+
+It all depends on how the next European Parliament and European Commissions will be composed, and whatever priorities will be part of the "bartering" that will be done post-elections.
+
+Anyway, the 2024-2029 will be the time when many of the engagements taken since 2020 (from the Recovery and Resilience Facility, to the various "Act")- including how to convert many of the quick fixes adopted in 2019-2024 into structural reforms, and trying to move the European Union toward the next step.
+
+Another bit of the future is redesigning not just internally- but also externally.
+
+Due to obvious reasons, most of the webinars and articles I saw recently focused on defence, the manufacturing side of defence, the strategic independence side of electronics and supply chains, etc.
+
+Looking past current crises (something that over the last couple of decades frankly the European Union gradually became less able to), and on a longer-term, tinkering and quick fixes could be an easy way out to survive for the 2024-2029 European Commission, but would expand existing weaknesses.
+
+Probably, as it happened in Italy with the previous National Government whose head was Mario Draghi, the former head of the European Central Bank, a cross-section of the European Parliament would be needed.
+
+Learning few lessons from the Italian experience, Commissioners willing to avoid running for a popularity context would be needed, as many of the choices needed to "fix" recent and current "quick fixes" and promises, and creating something structurally and organically sustainably would...
+
+... kill the political career of many Commissioners.
+
+I think that, also if (hopefully) both the current wars in the neighbourhood were to be solved before the June 2024 elections, the side-effect will last much, much longer, and will still require tough choices.
+
+The point is: if Commissioners and Members of the European Parliament look just at the 2024-2029 as a transition while preparing to do something else at either the European Union or National level, there is little chance of getting more that tinkering piling up on tinkering...
+
+... until there is yet another ["Monnet" reform moment](search.php?tag=Monnet)- something that would be the wrong message to send to voters.
+
+Anyway, the next six months, i.e. before the new European Commission will start working, will show the political direction that the European Union will choose to take.
+
+Then, will start the "selling", i.e. the communication side, which will have anyway to get used to a continuous two-way dialogue.
+
+As we are in the 2020s and going toward the 2030s, not in the 1950s...
+
+Stay tuned!

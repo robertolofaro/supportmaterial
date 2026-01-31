@@ -1,0 +1,174 @@
+<b>Rationale</b>
+
+
+It is a matter of routine concern in Europe, which eventually became a joke with racist overtones that remind something that in the 1960s and early 1970s was said about Japan: USA invents, China copies, European Union regulates.
+
+I disagree on all the three elements, that are mere intellectual cocooning.
+
+Each one of the three parties (and Japan, that previously had in that joke the role of China) research and invent- only, they have a different approach to dispensing resources.
+
+The only truth in that joke is that the European Union regulates: earlier and with more gusto than others.
+
+In part, this is actually helped by still being a Union of 27 countries that, at least until the COVID pandemic crisis, controlled the course and decision-making as well the strings of the purse of the European Union.
+
+Things evolved, and we are in a transition phase- but still, having 27 different perspectives a replicated industries across at least the main economies in the Union, there is a chance that regulation will withstand the tide of lobbying, and results in a more "super partes" approach.
+
+The flip side of the coin is of course the speed of action and regulation.
+
+As an example, we had at the beginning of the XXI century already a shared framework on privacy, which shifted in 2016 to the [GDPR](gdpr), i.e. a regulation that, while published 8 years ago (end of April 2016), and then enforced in 2018, took a while and some tuning, and it is still evolving.
+
+Anyway, its "proactive" approach to regulation (setting a framework that allowed to be considered guidelines also for future evolution) allowed the strong enforcement that has been repeatedly shown under the [European Data Protection Supervisor](https://www.edps.europa.eu/about-edps/members-mission/supervisors/wojciech-wiewi%C3%B3rowski_en) (in place since 2019) more teeth than many would like.
+
+The "regulation" vs. "directive" approach had another value-added: despite some element of adaptability, national privacy watchdogs, as we were told in Milan in 2018 at a conference on basically on data-centric economy, report to the European Data Protection Supervisor.
+
+The new European Commission might select somebody else with less independence (as also the European institutions repeatedly received a slap in the face), but the since 2019 increasingly the regulation+independence blend showed its value, and the European Union de facto exported its approach to data privacy- still to be see if this will extend also the recent development about the AI Act.
+
+Still, regulating what is done by others is easier than developing positive policy that focuses priorities where each Member State has to contribute on shared priorities- industrial policy.
+
+With all the initiatives that altered the facto the "perimeter" of decision-making at the European Union level (e.g. on debt, investment, bits of industrial and energy policy, defense, foreign affairs) during the 2019-2024 term...
+
+...it will be interesting to see how first the campaign (interacting with two ongoing wars), and then the need to keep competitive in the future a significantly aging and demographically shrinking European Union will integrate a dialogue between States, society, business, and define a new policy framework.
+
+
+<b>Commentary</b>
+
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_ep2024_003_policy_results.png)</center>
+
+There is an old saying: if Athens cries, Sparta doesn't laugh.
+
+It goes back to the Peloponnesian War, over 24 centuries ago.
+
+Decades ago, before one of the many wars in the Middle East, there was a TV show that re-enacted the Peloponnesian War as if it had happened in times when television was available- it happened in 1991, the docudrama had the title [the war that never ends](https://www.imdb.com/title/tt0103235), with Ben Kingsley as Pericles (if you are unwilling to watch a 2-hours docudrama, <a hreF="https://www.latimes.com/archives/la-xpm-1992-08-15-ca-4756-story.html">here is a review article</a>).
+
+In the past, some said that the USA founding fathers used Sparta as their model.
+
+Instead, some said that European founding fathers, just coming out a couple of devastating wars in their own territory, decided to use Athens as their own model.
+
+Well, I never liked the lack of nuances in definitions, notably when using history as a backdrop to justify current choices.
+
+Also because, if Athens is really the originaly model for the European Union inception in the 1950s, we should remember that phrase that introduced this section of the article- Athens gradually turned the League into something else.
+
+If anything, having two conflicts around the corner is resurrecting old debates- including the defence.
+
+Just last week, President Macron said that we need a [d&eacute;fense europ&eacute;enne cr&eacute;dible](https://www.lemonde.fr/videos/video/2024/04/25/video-emmanuel-macron-plaide-pour-une-defence-europeenne-credible_6229830_1669088.html).
+
+And just yesterday Le Monde stated that there is a renewed interest in European Parliament elections.
+
+Yes, two wars after a bunch of crises and Brexit might generated some motivation.
+
+And recent announces and statements, too.
+
+De facto, both France and Germany offered to extend their "defence umbrella" to the rest of the European Union- which includes both missile defence and nuclear deterrent.
+
+There are few elements about the concept of extending that to all the European Union that many forget.
+
+First, after Brexit, there was a hint of UK leaving anything related Europe- but eventually had to confirm European support both on the civilian nuclear energy (Euratom) and military (France) support: otherwise, could not do without.
+
+The reason: the knowledge supply chain of nuclear civilian and military industry is neither cheap nor a quick fix.
+
+Let it decay because you rely on others, and it is gone.
+
+Hence, while I was living in Brussels, I remember attending a workshop on the [African Laser Centre](https://africanlasercenter.org/), jointly by Belgium and South Africa.
+
+The reason? South Africa had renounced nuclear weapons, but to keep the knowledge supply chain Laser (or LASER, if you want to be formal) was a technology that could still use it, and, actually, could help the industrial development of Africa as a whole.
+
+Time for another point.
+
+Second, as described within the 2004 book (yes, 20 years ago) ["L'atomica europea. I progetti della guerra fredda, il ruolo dell'Italia, le domande del futuro"](https://www.librarything.com/work/11889140/book/79487044), when Italy renounced nuclear weapons capabilities, there was a clause: the European variant.
+
+I do not know about the other states, but know (it is public knowledge) that, also after a referendum decided to shut down nuclear power stations in Italy, some Italian companies retained partnerships abroad to avoid losing that knowledge supply chain.
+
+Which is something that now allows some Italian company to work on the next generation such infrastructure.
+
+Talking about policy somebody would find quixotic that I spent almost 500 words about just one policy, defence.
+
+Actually, this could be the one that redefines (or breaks definitely) Europe.
+
+A bit of the defence &eacute;lan to support Ukraine after was invaded by Russia at the beginning sounded a bit like "let's empty our stores so we can get some new toys"- until we started complaining that in Ukraine the bang-to-buck ratio was wrong, i.e. too much equipment and material was used too fast and making less of the expected impact.
+
+Now that we are talking about "building", we are moving toward considering again industrial policy, Bill Emmott wrote about a potential sibling to the national recovery and resilience plans (part of the NextGenerationEU and associated Recovery and Resilience Facility), talking about a really shared external diplomacy, joint management of immigration and borders, and of course all this while also doing the digital and green transformation, and switching energy sources toward greener alternatives.
+
+If I forgot something- allow me, as just doing half of what wrote in the previous paragraph would require something more than a mere "entente cordiale" to produce the expected results.
+
+Therefore, I decided that actually using defence as a starting point would be as much as possible a cross-section of all that.
+
+Because, in modern times more than centuries ago (where many current politicians apparently still keep their head), it is a domain that cover most of the above.
+
+As I shared in the previous post in this series, not too long ago Enrico Letta presented a report, and one of the titles catching media attention was his complaint that in Europe we import a significant chunk of our military equipment.
+
+Actually, it is was not really an original assertion: even your modest scribe in the past, as many more I heard both while living in London first and then Brussels, and working in Paris and Zurich, repeatedly said that.
+
+To summarize, we collectively spend a lot- but by being focused on purchasing and, in many cases, manufacturing on license, we are actually subsidizing the R&D of our major ally- also if sometimes, as it happened in Middle Eastern and Balkan Wars since the Fall of the Berlin Wall, our interests sometimes diverged- up to the point of become part of the motivation of creating our [Galileo satellite constellation](https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)).
+
+In energy production and microelectronics (both needed, if we want to move on with our digital and green transformation plans) we need to develop a local industry- but just issuing edicts to do that in zero time is at best delusional, also if wins praise from media and politicians seeking re-election in a couple of years.
+
+To keep the remainder of this article short, will add references to movies where you can see some concepts described.
+
+In our initiatives, done to "give a message" but without trying to overcome significant resistance and prioritization, we end up often doing what happened in the opening scenes of a British movie called [Dirty War](https://www.imdb.com/title/tt0427157).
+
+A minister attends a training exercise to simulate response to an NBC attack, and asks the leading officer how many people were involved. 
+
+After hearing the answer, asks how many people work in that area (the City), and then asks if that (really small) sample is significant/representative.
+
+The answer? It is manageable.
+
+Which is the way we try to reform, to circumvent resistance- leaps forward on paper and agreements following the Monnet approach, and small interventions such as the "brigade" to show a potential for change, but without even bothering to try to have to do a prioritization vs. other potential investment areas.
+
+Once in a while, whenever there is a crisis followed by initiatives that seek to prevent a recurrence, my mind goes back to a related episode of when was living in London.
+
+It was not too long past 9/11, and everywhere we were doing exercises just in case.
+
+It was a Sunday, was coming back from my Sunday lunch in Covent Garden, and walked through the City, Bank specifically, without realizing that there was a preparedness exercise ongoing (no perimeter access restrictions etc).
+
+So, here I was, a civilian walking through, as usual, the City on Sunday, listening occasionally to the chattering and exchange of what would describe occasionally as not-so-polite remarks against the organizers.
+
+It was a sobering cameo, for somebody who, like me, spent most of the evening of the last month of his compulsory service in the Italian Army to type each night, as soon as we were set on alert, the list of who was going out with which vehicle, then toss it away at the end of the evening when we were informed that it had been an exercise, only to begin the next evening or so.
+
+Reason? Missiles or projectiles from Libya had landed on the shores of the Southern most bit of Italian territory.
+
+Back then, night after night we improved- but we actually were already used to do that "list preparation", as my group (an artillery specialist group) eaach month had a quota going around to support artillery exercises- so, the "test" was just compressing the preparation time to one or few hours, as we routinely already did that activity.
+
+NATO helped to develop interoperability (look at WWII, and see how much the fiefdom wars in Germany resulted in so many different weapons systems with so many different parts to make any long-distance movement a logistical and provisioning nightmare)- but on the equipment and probably selected levels.
+
+Down to the grunt level, if we were to develop a joint defence initiative that were to include also "porting" significant forces in a specific location, we would have probably the same issue that Italy had in WWII: the "interoperability of people"- either you were to keep "vertical lines" from a specific country (same language), or would be a cacophony of languages.
+
+Still in the mid-1980s, when I was serving, we had people from the South or from other areas of the North coming to Vercelli, where I was, and speaking in dialect and not in Italian- sometimes ending up in (thanks to TV and movies) mild misunderstanding- WWI was worse.
+
+Moving forward to do what [Bill Emmott asked for](https://www.lastampa.it/esteri/2024/04/28/news/bill_emmott_pnrr_difesa-14259623/) would generate a Delian League potential issue, as there are few large industrial countries with already an established defence industry in Europe, and many smaller states that, under the NATO umbrella, have got used to talk big while having others e.g. provide protection to their sky.
+
+It is fine to do sabre rattling is the sable you rattle is neither paid nor carried around by you.
+
+If we were to move toward a European defence Mechanism, how would the cost, but also assets and intellectual property, and potential positives be spread across the 27 (or eventually the 30 or even more)?
+
+And how would the choices be made, considering that everyone I heard in workshops from the defence policy side even before the invasion of Ukraine said that our collective decision-making in Europe in this domain eventually became a Gordian knot, not really what you would need in our times?
+
+Just another movie reference on how spreading across multiple voting constituencies a defence program could result in puzzling outcomes, not benefit realization- the movie [Pentagon Wars]() (that I references often in the past while writing about bureaucracies) might help.
+
+Yes, there is always the risk of generating a self-feeding "military-industrial complex" that will have significant influence on political choices (and candidates).
+
+Converting all the concepts currently discussed of "joining forces so that we can obtain more value for less money" into wishful thinking.
+
+So, something that failed in the 1950s (a shared defence for Europe) could make a return in the 2020-2030s, but only if integrated within the framework of the other change initiatives already ongoing- as creating a European Defence Mechanism that is sustainable, viable, i.e. long-term would require introducing changes in decision-making, prioritization, and probably also taxation and the way boundaries and external action are managed.
+
+The alternative? Look no further than the War in Libya in the previous decade, or how logistics for European troops had to rely on non-European (and also non-NATO) transport for airlifting into and out of the various territories were since the beginning of the XXI century European Union Member States ended up joining- for whatever reason.
+
+My commentary about on the potential consequences of an apparently simple choice (extending the nuclear and missile "umbrellas" from France and Germany to the whole European Union) in terms of policy is obviously based on considering the cultural and organizational change side: the Devil hides within details.
+
+Within the European Union, also with NATO, we have a tradition of strong civilian guidance on military issues- but structuring and expanding a shared defence organizational structure would create the need of a joint political coordination with a proper mandate, otherwise the risk would be significantly higher than what President Eisenhower said in his farewell address- we would risk having an integrated command with dis-integrated governance, whiich would result, as usual, in the more integrated culture to build coalitions of the willing on each dossier, not a unified political choice.
+
+To quote a couple of movies: luckily, I did not meet any [Cross of Iron](https://www.imdb.com/title/tt0074695) types, but military in politics often has more than a whiff of "I know better" by ignoring the political and social issues/impacts and focusing on the "technical", and generating the risk to end up in something between [Seven Days in May](https://www.imdb.com/title/tt0058576) and [Twilight's Last Gleaming](https://www.imdb.com/title/tt0076845)- and the ending of the latter (will not share here as would be a spoiler) is a poignant case of lose-lose also when there are the best intentions.
+
+On the specifics, more than on my personal experience, related to what colleagues abroad I worked with since the late 1980s coming from those various environments showed to me in terms of cultural and organizational issues- you would be surprised how much actually finance, IT, retail could benefit from those who had to work in a completely different environment and in transnational cooperation activities.
+
+Now, if we were to start the discussion on shared policy from this domain, we would probably have to come to terms with the shortcomings of our current arrangements- and turn to voters to ask for support toward a different prioritization: we cannot just simply work on unlimited capacity.
+
+Or, accepting the shortcomings, identify other policy areas where we can build a consensus, maybe even just by "circles" of convergence ([reinforced/enhanced cooperation](https://en.wikipedia.org/wiki/Enhanced_cooperation)) as proposed by France and Germany not too long ago.
+
+In any case, policy, and not just politics, is going to be part of the menu of whatever European Commission comes from the forthcoming elections- and the debate on policy was simply accelerated by President Macron statement, Enrico Letta's report, and Mario Draghi's announces.
+
+In the end, shifting the focus to policy, or "what does the EU stand for" is actually a positive step- whatever the reasons.
+
+For the time being...
+
+...see you in two weeks for the next article in this series.

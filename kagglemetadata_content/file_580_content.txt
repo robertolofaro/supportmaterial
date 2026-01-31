@@ -1,0 +1,314 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20241123_12_communicationflows_20241123_article.png)</center>
+
+As you probably know, I started publishing few months before the European Parliament June 2024 elections a series of articles, called EP2024 ([look here](ep2024)).
+
+Well... the original schedule was "once every two weeks", but then events in Brussels evolved- and had to reschedule multiple times.
+
+The latest reschedule actually happened yesterday, 2024-11-22: as at last we have a sort of confirmation concerning the new term of the European Commission, will have a chance over the week-end to complete the next article on the series.
+
+Incidentally: if you followed the link above, you will see that when I wrote "reschedule multiple times", it was an understatement.
+
+The sequence is still there, but the dates and distance between articles varied.
+
+How does this apply to the article that you are reading now? 
+
+Well, it is yet another confirmation of the concept that no plan survives the contact with reality.
+
+Hence, I set it under the ["organizational support"](index.php?section=organizational-support) section, also if I was tempted to post it under ["rethinking business"](index.php?section=rethinking-organizations), as it is really about yet another stepping stone / collection of cameos on the path toward the second volume of my 2015 "QuPlan" (the book- actually the business case was 2015-2018).
+
+This article is actually more a Wunderkammer of components than a mere drafting of a chapter or introduction, so, let's start with the sections:_ recap: learned lessons as a project/initiative phase_ of methodologies, standards, and cultural scalability_ data, more data- the infoglut approach to data-driven _ learning via feed-back cycles, a neglected (organizational) art_ closing the Wunderkammmer (for now)
+
+
+<b>Recap: learned lessons as a project/initiative phase</b>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20241123_12_communicationflows_20241123_article_01.png)</center>
+
+In this article the incipit and the closing section are actually by design the longest ones.
+
+The concept? Each section represents a pointer within a checklist.
+
+And pointers that rummage through thousands of words are closer to needles into a haystack, than usable tools.
+
+So, each section will be closed by a <em>"key element in this section"</em> paragraph. 
+
+In this section, would like to "connect" with the closing "episode" the fictional case associated with [QuPlan](quplan), whose booklet (40 pages) [you can read here](https://robertolofaro.files.wordpress.com/2023/09/quplan_episode2015-6_v0-1_20180615.pdf)).
+
+Do not worry- will keep this section to few hundred words.
+
+In any methodologies or framework about whatever you can think about in business or society, in post-WWII became common to take care of "lessons learned".
+
+Call it "thesaurisation", "knowledge management", etc- the concept is the same.
+
+It is not really an art that was so advanced until we had the first fully industrialized global war, WWII.
+
+Maybe you do not know, but let's say that keeping prisoners during a war, notably following the Geneva framework, has always been considered a logistical burden.
+
+Imagine having to keep large numbers of soldiers-turned-into-prisoners close to the battlefield, and to have to take care of the logistics and supply to both keep them, feed them, etc, while at the same time you are already struggling with the logistics needed for your push forward.
+
+For the Allies during WWII, this applied both to the war in Africa and Continental Europe (I routinely suggest also in business to read the "Liberation Trilogy" to understand what capability planning and planning "per se" do mean).
+
+Not really a popular concept.
+
+As outlined with a book that quoted often, "The Barbed Wire College", in WWII somebody had the idea to have ships from the USA to Europe filled with supplies and, on the way back, prisoners.
+
+Not strictly what expected according to rules of war (keep prisoners as close as feasible to their home country), but if you read that book you will see some unintended consequences.
+
+If you are unwilling to get through few hundred pages, I would suggest the documentary/interview "The Fog of War".
+
+In that documentary-interview, where Robert McNamara remembers, between other points also shared in both the "Liberation Trilogy" and "Barbed Wire College", a funny episode about what adaptation to lessons learned while activities are still ongoing might deliver.
+
+It all was when somebody had the brilliant idea to fly fuel into China, so that they could build a stock to use for flight operations directly from China.
+
+Well... actually some of the flights landing had to get fuel to take off again.
+
+I read many documents since the late 1980s when this "lessons learned" concept was stuck at the end of the activity, supposedly to help future projects and initiatives benefit.
+
+In this century, it is common instead of have at least a blend of approaches that allows to build up in "segments" (call it waves, sprints, iterations, whatever), each one "de facto" with its own lessons learned step.
+
+In reality, while those involved directly into activities might actually need these "thinking breaks" to consider lessons learned, if your organization is either large or complex enough to have somebody doing the orchestration part, this should be a continuum.
+
+A decade ago shared a bit about integrating external experts, and when makes sense instead to build your own internal capabilities (see [SynSpec, here](synspec)), so will not summarize those pages here.
+
+If ain't broken don't fix it, but if whatever you do becomes a ritual, maybe it is time to fix without waiting until most of the intended audience get lost in transit.
+
+<i>Key element in this section</i>: just because it is called "lessons learned", does not necessarily need to be at the end of a phase or even a whole project- should be part of continuous monitoring (and adjustment to reality), a feed-back cycle (more about this in a later section of this article) based on listening more than lecturing and dictating standards.
+
+Anyway, most prejudices or concepts embedded within structured approaches (in project management: both waterfall, agile, and hybrid), and distortions that they generate, are really derived from an almost religious approach to methodologies, standards, and generally organizational action frameworks (yes, including nudging).
+
+By long business experience (selling, designing, customizing methodologies, processes, organizational approaches for customers and partners), I prefer a different approach.
+
+
+<b>Of methodologies, standards, and cultural scalability</b>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20241123_12_communicationflows_20241123_article_02.png)</center>
+
+Just a bit of background: today answered to a connection request on projectmanagement.com, from a colleague from Australia who linked to a previous thread discussing the methodology of the first company I worked for, in 1986-1990.
+
+Back then, that company had (I remember from a brochure of January 1990s, a planner agenda, gift when I left) around 5,000 people out of 70,000 focused on collecting and restructuring knowledge from projects carried out worldwide.
+
+The projects I worked in at the end of the 1980s were of a different type from the usual structured ("waterfall"- one step after another: all the analysis, all the development, etc), as there was an exploratory element (knowledge on the decision-making approaches had to be structured as they were codified into the models and, as in many cases involving humans, what they assumed to be the factors involved into decisions was a rationalization, not the reality).
+
+1980s and 1990s were times when the "standardization and methodology" business engine reached maturity, and turned into a real industry, at least from what I saw first in Italy, then in other European countries.
+
+One element that I always found puzzling, coming from a political background and then serving in the Army also in office activities (when it was normal to feel like a cog in a wheel whose overall structure you did not know), was how often standards and methodologies were based on different layers of interpretation, up to the generation of a consensus.
+
+If my Asian friends were to smell a "ringisho" here, they would not be wrong, as even the most top-down methodology initiative, to be operational, needed to achieve a consensus at the operational level.
+
+Even in the Army, stick and carrot approaches are not enough- eventually, you need individuals' commitment, be if for groupthinking or by their own internal motivation.
+
+Otherwise, why, as I was told in 1985 by a fellow soldier fresh out of NBC training (nuclear, bacteriological, chemical), somebody in the middle of nowhere would wrap into a lead-lined blanked, shot himself atropine, just to live long enough to notify of a position of a nuke explosion?
+
+If you try to generate a consensus between parties that have different motivations, structural dimensions, primary business needs, often you get something that reminds that old business joke: a camel is a horse designed by a committee.
+
+Still in the early 2000s, there were methodologies, standards, frameworks that had been designed for a specific audience and assuming specific organizational constraints (and culture, and capabilities, etc).
+
+The approach to compliance in those cases was akin to Star Trek's Borg: "resistance is futile".
+
+It did not matter if your organization had 5 people or 5,000, there was a long list of "components", "gates", "deliverables"- akin to what I saw in the late 1980s, where only at a later stage we shifted from "all of this has to be produced by each project", to criteria to adapt (scale up and scale down, not downsize).
+
+In the 1990s, in few European countries (Italy included) sometimes heard of "best practices" as if they were not an "aspirational target" coming from a potentially completely different organizational culture and capabilities context, but as a "reference target".
+
+Ignore all the differences between the structure trying to copycat them (as this was what was really done), and those originating them (by consensus, of course, unless dictated by ahttps://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20241123_12_communicationflows_ specific organization)- but then bear the consequences.
+
+In the first two decades of this century instead adaptability became more acceptable, even a phase of the implementation or use of organizational frameworks.
+
+Still, what I described e.g. 2003-2005 within my e-zine on change ([reprint updated in 2013 here](bfm2013)) often continues to be more the rule than the exception: rules defined assuming a structure that is effective only where the rules are defined (e.g. a central office, a standards organization), but whose implementation is requested by even the tiniest structure.
+
+Luckily, the drive toward sustainability is changing a bit, and in this century it became common to have standards developed in a similar way as what my Stadtplannerin German girlfriend in the early 1990s described was common in The Netherlands in her line of business: involve the citizenship.
+
+In the case of standards, still mainly the business citizenship, also if frankly in many cases would make sense to involve, considering full lifecycle (i.e. systemic) approaches, also the upstream and downstream stakeholders (yes, from local politically elected or appointed administrators, to citizens).
+
+And this both in the public as well as the private sector: in the latter case multinational used to be a typical case, in the former the additional European Union layer added even more complexity to local authorities whose structure and resources are so limited that, having to juggle through multiple sources of compliance, you end up in some cases to have a handful of employees that are jack-of-all-trades and receive a continuous stream of updates, information to provide, etc.
+
+In the late 1990s the OECD de facto launched the e-government concept (e.g. [you can read this 2005 report](https://www.oecd.org/content/dam/oecd/en/publications/reports/2005/11/e-government-for-better-government_g1gh47c4/9789264018341-en.pdf)), which evolved across time, but still way too many digital transformation initiatives in the public sector show a cognitive dissonance between what is being "sold" and what is feasible with the resources available.
+
+I wrote in the past my reaction when was asked to participate to a tender for the Italian Government tourism portal in the early 2000s, and how my key element of criticism was the tiny level of budget associated with continuous provision of contents from over 8,000 local authorities- if my memory does not fail me, it was something like 100mln EUR for the overall initiative, 90% for the platform, 10% for the contents... across 10 years.
+
+<i>Key element in this section</i>: matching frameworks, processes, methodologies, and even tools with capabilities implies also designing ways and means to transfer knowledge continuously following approaches that are structurally (i.e. organically) sustainable- helicopter money or parachuting consultants or "experts" from central structures talking their own lingo do not work, you need to a certain degree to build "on the ground capabilities" able to integrate with those experts to care for the evolutions (more about this within the "feed-back" section).
+
+Now, we live in the XXI century, and at least since the first Personal Computers landed on each office desktop in the 1980s, we kept generating data- more data than those that we are able to embed in our decision-making activities.
+
+
+<b>Data, more data- the infoglut approach to data-driven</b>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20241123_12_communicationflows_20241123_article_03.png)</center>
+
+Yes, it is a reference to a scene within the movie Matrix where the "hero" asks for more weapons, and racks upon racks of them appear.
+
+Let me give you a practical example.
+
+My birth country, Italy, has always been obsessed with data and control, even before computers.
+
+Probably you saw that funny meme showing an electronic alert system in another country, and a series of grandmas sitting on their chair and looking from a balcony in Italy, both surveillance systems.
+
+Now, extend that to the State, and you can understand why we, in Italy, have routine scandals of somebody collecting data for a purpose, and then "setting up shop" to spread the data for tribal purposes (Sun Tzu wrote "know thy enemy", but would be surprised to see the piling up of data not used to know, but just to extract if and when needed to intervene against a third party, i.e. publicly shared).
+
+Anyway, jokes aside, also in companies the capability to collect and store data fairly exceed the capabilities to analyze data.
+
+Over the last decade, technology advanced, and so e.g. satellite pictures that were sitting idle for lack of people able to analyze them, now can almost be subject to real-time analysis by "smarter" software.
+
+And this is were the issues arise.
+
+In the late 1980s, the Decision Support System models I designed for customers had to cope with practical constraints: computing, storing, processing, transmitting were all few orders of magnitude (not just a mere fraction) of what we take for granted nowadays.
+
+Hence, we had to be selective on data- also to ensure that they were always up-to-date, and their "lineage" (from source through all the "handover" phases across the data supply chain) took care of not distorting the data.
+
+Jump forward: sometimes, over the last decade, I have been told, read, saw of piling up of data- but without sensible filtering and "weighting".
+
+Or: data from a fridge opening and closing, or cars passing through, put on a par, value-wise in decision-making, with smaller sets of data carefully curated.
+
+If you do not keep a balance and reference to data and their lineage (where they are coming from, and why were originally produced) and lifecycle (i.e. were they a single instance, routine, exception-management, continuous, intentional/unintentional, externalities of other data production activities, etc), you risk piling up assumptions upon assumptions without:_ a set of conceptual capabilities to really define the "timeframe of usability" of data_ access to resources to ensure structural continuity in your data (i.e. verify that the context does not change)_ further elements that you would have access to if you were to produce the data in your own organization.
+
+In the 2020s, it is common to try to find "reference KPIs", kind of neutral "data umpires" that help to keep us collectively on our toes without taking sides.
+
+Which, often, it is an illusion of neutrality, as shown recently by some articles discussing the possibility that China might follow the standard-definition path to influence the evolution of business and regulatory environments.
+
+In Europe, we have since COVID the [Recovery and Resilience Facility](https://ec.europa.eu/economy_finance/recovery-and-resilience-scoreboard/index.html), that discussed extensively in the past (obviously also for its Italian element, the [Piano Nazionale di Ripresa e Resilienza, a.k.a. PNRR- in 76 articles so far](search.php?tag=pnrr)), creating also some datasets about that initiative, plus overall sustainaibility KPIS (see [here](https://kaggle.com/robertolofaro)), from both European (e.g. [Eurostat](https://ec.europa.eu/eurostat)), national (e.g. [ISTAT](https://www.istat.it/)), and supra-national sources (e.g. [IBRD/WorldBank](https://www.worldbank.org/en/who-we-are/ibrd)).
+
+There is no point in going around the elephant in the room: our capability to collect, store, process automatically data is built on layering of concepts that are then turned into universal truths. 
+
+You need just few layers of distance to lose completely control of the source and influence about its evolution.
+
+Also if the original purpose why you collected data from that source was sound, unless you embed within your own operations a kind of continuous monitoring of all the above, you risk generating a circular assessment of reality, akin to the examples within [Bob Woodward's "Veil"](https://www.goodreads.com/book/show/27514.Veil).
+
+Or: let's say that you use as a source A, where A was initiated by your own organization.
+
+Then, others make their choices on your own assumptions.
+
+Then, others make their assumptions based upon those choices and your assumptions, assuming that are two sources.
+
+Then, you have to see what is the trend or consensus- and you end up using the results of the previous steps above to influence your own decisions, ignoring (willingly or not) that actually you are the one who created a non-existing chain of thought.
+
+Which is fine, if you want others to follow you- but not, if you are looking for trends to inform your own decisions.
+
+Consolidated KPIs at a supranational level showed their inherent, structural weakness over the last few days within [COP29](https://cop29.az/en/conference/what-is-cop29): while countries that generate emissions called a success the pledge of amount X, countries that bear the disproportionate consequences stated that it was a drop into the ocean.
+
+If you are the one presenting and defining the KPIs, you can call a win both the current status of the UN SDGs and the COP29, albeit with some shadows and margin for improvement.
+
+Probably, an external observer from another planet would call it cognitive dissonance- ignoring reality as does not conform to what was expected to be now, and tinkering your way through the quest to avoid call it a failure.
+
+The same applies to the facial recognition software: it is practically impossible to read an article in 2024 or attend a conference, training, workshop on AI without collecting a handful of examples of how ignoring data creation distorted systems to the point of making them useless.
+
+<i>Key element in this section</i>: data are not created by some neutral entities- choosing which data to create, collect, curate, process, analyze is too often distorted by cultural and organizational unwillingness to cope with reality, but this does not solve the original issues. Whatever your data source, you have to assume that those data have both a lineage and a lifecycle, and it is up to you, before using them, to understand if they align with your own purposes, and then set in place proper monitoring capabilities lasting as long as not the data source, but its uses within your own organization continue. 
+
+I used often in this article the concept of feed-back, both to highlight positive and negative elements. The next section is focused on the concept of what and how should be feed-back.
+
+
+<b>Learning via feed-back cycles, a neglected (organizational) art</b>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20241123_12_communicationflows_20241123_article_04.png)</center>
+
+Whenever we talk in business about "feed-back", it is assumed to be part of a "measuring", not "adaptive" step.
+
+What is the difference? Well, akin to the difference between applying a stamp on an envelope containing a letter, and writing the letter.
+
+Rubberstamping through feed-back is what often e.g. see whenever attend a conference, workshop, etc.
+
+All of use, whatever online service we use (and, often, also offline: think about the "smiley" faces red/yellow/green to push in shops) we are continuously asked for our feed-back.
+
+In most cases, it is rubberstamping, not really used to influence, and those being asked for their feed-back routinely "inflate" or "deflate" their assessment for reasons that have nothing to do with the actual quality of the (business, service) interaction that took place.
+
+Within organizations, it takes a while (and some sign that the feed-back is really being used), to turn feed-back into a useful tool, instead of being yet another bureaucracies.
+
+I remember how in summer school at LSE (1994/1995) we were asked to fill-in our feed-back, and told to take it seriously, as it really had impact on choices (were told of demoted lecturers).
+
+In Italy, probably whenever I am in town have at least half a dozen of "opportunities" a day to give my feed-back, but I almost never see the basic element that I would expect to see that useful: showing the current status and trends across time.
+
+When I accepted a mission in December 1992 to start from January 1993 taking care of a cultural and organizational change for a customer, I had already few years of experience of delivering training to adults on both technical and non technical elements.
+
+Anyway, my prior experiences had been either to do a continuous knowledge transfer, or to design and deliver curricula (including train-the-trainer), i.e. build a "catalogue".
+
+Hence, "feed-back" was something useful to us, the provider, to tune our offer and portfolio of training courses, but was not really an organizational tool for all those involved.
+
+In this case, as it was a multi-year managerial role where I had agreed to work on a year-by-year renewable mission based on targets agreed with the customer, and there was a large number of potential attendees, and, moreover, had already delivered for a couple of years other training to the same organization, decided that it was the right time to blend my personal interest in cultures and organizational cultures, with "tools of the trade", and designed ways to collect the feed-back that went way beyond the usual [Likert scale](https://en.wikipedia.org/wiki/Likert_scale).
+
+It is not rocket science: I blended my experience in delivering different types of training and presentations (e.g. first political, then sales or managerial), what I had learned on the ground in various business settings, with readings through those lenses, and produced a kind of "standard" to collect feed-back and remove bias (e.g. if you appreciate the teacher as a person, in Italy it is routine to inflate feed-back, ditto to deflate if you dislike), plus extract information ranging from potential value of what was delivered, to points to monitor in application.
+
+Interesting that was then asked to actually "walk the talk" on critical projects and initiatives, by working as an advisor/coach on live activities to managers or project managers- and that preparation worked.
+
+A key element in it all? The mandate I had received, and the acceptance from the customer that I would deliver aggregate results, but would not share the questionnaires containing answers (many multiple choice, but also specific open-ended when relevant).
+
+When I read about regulations on whistleblowing (e.g. [the EU Directive of 2019](https://whistleblowingmonitor.eu/)), a bit after I had wrote a book on GDPR from a business perspective ([here](gdpr)), I wondered how applicable could be in different countries.
+
+Moreover, how much would eventually companies understand that actually while the focus of that directive is illegal activities, conceptually that mental framework could be useful to increase the agility and resilience of any organization.
+
+Accepting feed-back and turning it into a useful organizational tool implies decoupling it from any direct and indirect potential association with HR practices, and instead have feed-back focused on specific points in space, time, content but without turning into yet another charade style way too many performance reviews (I review you on that, you review me on that).
+
+As you would expect, personally I prefer timely and specific feed-back: e.g. whenever I had a project, I asked team members to highlight issues seen from their perspective, so that a common ground was identified on the approaches to use and why.
+
+Sounds a bit hierarchical, but it is not: if you really want to implement "agility", you need to have a shared understanding of what it means and what are the acceptable and shared communication approaches.
+
+Also, I think that in an organization large enough to have multiple teams (by function, by project, whatever), feed-back processing is the only way to keep it "lean" (i.e. as few layers as possible, but not one less and not one more), to ensure orchestration toward organizational purposes, and to enable to "catch the wave" of signals that those on the operational level probably will spot long before those few layers above will see, and viceversa.
+
+Not all change should start from the bottom, and not all change should start from the top, but without a feed-back cycle able to tune and adjust, negative externalities might pile up until are turned into a Gordian knot that can be solved only as Alexandre the Great reportedly did with the original one: cut.
+
+<i>Key element in this section</i>: whatever your level, you cannot expect to be the all knowing and all seeing in your organization, and a degree of orchestration and delegation is needed; but unless this is based also on feed-back cycles that allow real information to get through without risk of retribution, burocratization is never too far away from absorbing resources just to confirm decisions based on bias, not on information that, however disappointing, could help improve the overall ability of the organization to adapt: resilience and emergence are nice concepts, but require something different than traditional command-and-control.
+
+The concept comes of course from other environments, but e.g. during the "Re-inventing the Government" initiative generated material that, 30 years later, often I think would have been useful if read before activities.
+
+On the "gamification side", to develop the approach, there have been in the past many games that used storytelling to actually help build the ability to understand feed-back not just from your own organization, but also from the overall context (call it market, society, etc).
+
+To leave this article with a lighter tone, instead of referring to other "formally serious" material, will share instead a link to an equally old (30+ years) "formally not serious" site, talking about [Board Games](https://c3iopscenter.com/)
+
+
+<b>Closing the Wunderkammmer (for now)</b>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20241123_12_communicationflows_20241123_article_05.png)</center>
+
+Well, I like to outline the first version of the closing section of a book or any narrative before fleshing out the sections between the incipit and the conclusions.
+
+Nothing really original: Aristotle (if you like "old models"), others explaining their own narrative art, Syd Field (if you like movies) all wrote a variation of that theme.
+
+Call it "the collective social Goldberg Variations of narration creation".
+
+In the previous sections, after the incipit, you saw how each section dovetailed with the next one, but also how each section is a kind of "atomic" element (i.e. indivisible) interconnected with other sections.
+
+Due to the specific characteristics of the medium, this is anyway somewhat limited to a sequence- but maybe in the future will host non-linear articles and narratives in this website.
+
+Incidentally: a Popper-esque way to open doors to further venues of reading is of course to add links, which remembers to how "hyperlinks" were supposed to be used.
+
+This article, as you saw, was really focused on sharing some signposts toward the second volume of [QuPlan](quplan), as others before it on the subject of project management and related activities (portfolio, program, initiative, event, etc).
+
+The conceptual element, the "thin blue line" (or "thin red line", considering the disasters that you can do by neglecting the basics) is adaptability, something that, in our times so obsessed with standardization, more often than not is the first casualty of business wars.
+
+I will share again in the future discussions about crisis management as a structural element of change (including micro-crisis generation as a "nudge" mechanism), e.g. within the follow-up article to the recent [the structural elements of change: part 1 - #Utopianhours #Turin](index.php?page=579).
+
+I do not know yet if I will be moving again abroad, stay in Turin or elsewhere in Italy but working abroad (remotely or onsite), or (less probable) stay in Turin and work here for local private or public entities.
+
+Still, while here I will keep blending the local and the non-local, a bit of the old 1990s mantra "thinking globally, acting locally".
+
+<em>Will this conclusion stay the same?</em>, was my question when yesterday I drafted these conclusions after defining the titles sections (call them "milestones through the narrative") of the article.
+
+In this case, the final version is close to the first one, as really developed this article while walking (another lost art, along with the "art of memory").
+
+<b>Incidentally:</b> the previous phrase is really so- as I did not change even a single word in it.
+
+In other cases, the role of the first draft of the conclusion is really to be a "catalyst" (<a href="http://structuralcatalyst.com/">as in the name of the latest, possibly last, attempt, 2023-2024, to set up a management consulting shop in Italy but being paid for doing what I was doing, not other nominal activities).
+
+As described in the previous section: the draft conclusions can be a catalyst to further developing the "roadmap" leading to that conclusion, but along the way this generally results into...
+
+...you guess it, more "narrative Goldberg variations".
+
+The overall concept of the [QuPlan](quplan) books series is really to help discuss pointers referencing what should be "routine", or even "ritual", i.e. well known and almost instinctively played whenever needed, but seen as a toolbox, not as a checklist.
+
+The difference was described above, so will not restate or rephrase it here.
+
+If you read the article above, and the 200+ pages fictional business case on compliance associated with [QuPlan](quplan), probably you already collected your own pointers to which additional arts are often neglected.
+
+Sometimes really structured tools (e.g. [Petri Nets](https://en.wikipedia.org/wiki/Petri_net), or other forms of [(social) network analysis](https://en.wikipedia.org/wiki/Social_network_analysis), as what was discussed with a book I wrote that really started in 2008 but was published over a decade ago, [Business Social Networking part 1 - cultural and historical perspective ISBN 978-1493747498 2013-11-18](bsn2013)), sometimes more qualitative yet still structured approaches (e.g. PEST, or as a collective endeavour [Delphi](https://www.rand.org/pubs/tools/TLA3082-1.html) or even [this one](https://www.rand.org/pubs/commentary/2023/10/generating-evidence-using-the-delphi-method.html), both from RAND).
+
+What really matters is not which tool you use (there are too many internal and external consultants that act if they were to believe that unless you use the latest trendy tool or approach, your analysis or proposals are worthless- hence, "grand strategies" that survive barely their publication before being tossed into the bin).
+
+What matters is why, who, etc, and long down the list how.
+
+Will discuss more in future articles, but for now this short list of pointers actually should help identify key element- and, probably, help to guide you to the "tools of the trade" worth using in your specific case.
+
+<b>To close this article</b>: also all the paragraphs from the previous "bold" element was unchanged- no need to, if you develop a chain of thought and then have just to add material.
+
+Last but not least: as I wrote in previous articles, for a training on database design decided that those attending had lost their ability to think visually, and therefore designed exercises for the following day where they would have to use paper and scissors, to recover their ability to think spatially, not just visually.
+
+It worked, and some still remembered that a decade later.
+
+So, when you design a roadmap, or a narrative, my suggestion is to try thinking by pictures before you convert into words- it is faster, easier to evolve, and you avoid the risk of "getting stuck with polishing phrases", when instead you should still be instead focused on putting down the signposts that will drive your training of thought.
+
+Stay tuned, and enjoy your week-end.

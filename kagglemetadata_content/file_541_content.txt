@@ -1,0 +1,844 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20240109_09_system_20240109_article.png)</center>
+
+As some of my continous readers have already probably noticed, within the latest few articles added with each new article release some "Easter eggs", as used to be called in videogames, i.e. sharing project/product concepts, ideas, or even specific implementation bits from my past.
+
+Yes, beside testing again the "shadow article series", i.e. an "emerging" sequence of articles that actually are a draft of a book, or developing a theme, but without stating upfront that that was the purpose.
+
+The rationale is the same as it was in 2008, when started (as at least had been able to phase-out my activities elsewhere in Europe) to initiate my "settlement" in Brussels: sharing online as a way both to provide a service, keep skills alive, release drafts, and... mental calisthenics.
+
+So, the first section of this article will be about that- describing my personal rationale for the publications.
+
+While the previous article [Moving from words to numbers: conceptual design of KPIs / progress on a data-project/data-product](index.php?page=540) was focused on completing the latest "shadow series", this one is about sharing tools.
+
+Anyway, as I wrote in previous articles within this section, its aim is to actually put out what I could eventually develop if I have time, resources, motivation- but letting others too do that, if they are so inclined.
+
+Actually, I have a habit since my first times as a consultant, probably derived from my political experience in Italy and a bit abroad in a European integration advocacy.
+
+My aim is to have concepts turn into "common discussion ground", and therefore I am inclined, whenever I write something for customers, to remove my name.
+
+Also when I was doing it for my own company, in each deliverable to customers my logo was only on reports attached to the deliverables, minutes of meetings, etc, but not on training material or communication material that I delivered to be distributed and reused.
+
+The concept is something that in Italian is covered by the concept "aziendalista", i.e. really equivalent to stating that a consultant or consulting firm in this case is "hired help" to provide temporarily skills and experience, to let the customer takeover and continue.
+
+The ancillary concept is not to create a capability, in these cases, but to "lend" capabilities, and use them to "augment" temporarily the capabilities of the customer, so that the customer can leverage on what was delived, and move on.
+
+Some customers then tried a copycat- but, frankly, copying the polished results does not imply being able to reproduce the process that delivered those results.
+
+Even funnier when somebody tried to copy, were unable to, and came back few months later asking...
+
+...to help them develop their own idea which was what they had copied- sometimes with so short a memory span that even produced samples that were part of what had been delivered.
+
+Yes, in each project and initiative, again something coming from political advocacy, but augmented by my experience in the Army and then for Andersen, I built a kind of "background communication portfolio", i.e. material to support the communication side before, during, after, and as an ongoing concern.
+
+Because, as I described [within the only book so far that published in Italian](strumenti), my approach to communication is that you need to have more layers than what you disclose, if you want to sustain a conversation and adapt to change.
+
+The articles so far in this section were almost self-contained, and "initiating" (or reporting) each on a single product/service, but each contained references to further updates.
+
+Anyway, from this article on, will start preparing and eventually releasing on [a repository on GitHub](https://github.com/robertolofaro/productsongoing) visual outlines, and that repository will contain a directory for each article within this series that receives additional material- subscribe to it (or other repositories) if interested.
+
+The concept? While, as I wrote on social media in late 2023, I will postpone any product investment or release until I have "settled" (see the "rationale" section for an explanation "why"), I decided that from 2024 will share at least the conceptual "pipelines".
+
+What is a conceptual "pipeline"? Read the description of "copycats" above, and you will understand- but will share a concept presentation later this month on <a href=https://youtube.com/@changerulebook">youtube.com/@changerulebook</a>.
+
+So, what is the purpose of this article? To share something that frankly, is cross-product, cross-service, cross-project.
+
+This is a visual representation of what is within this article- but will be explained within the section "getting across":
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20240109_09_system_quarters.png)</center>
+
+Obviously, it is based on [PDCA](https://en.wikipedia.org/wiki/PDCA), via [Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming), as frankly all the methods that I learned, sold, developed since the 1980s- but, again, more about this in few sections.
+
+It has been in the background of anything that I have been doing since 1990, when I first was asked to work on a cultural and organizational change initiative explicitly, by the CEO of a small system integrator who wanted to move his company a level up.
+
+That initial meeting developed into few months, and eventually implied helping to define the training needs and development paths for managers and projects managers, and design and deliver a training curriculum based on workshops and brainstorming, a training curriculum that they were the "testing ground" for (I recently shared online copies of the material), so that they were billed the use and not the development.
+
+There might be individual talent, but providing a level playing ground is what enables both scalability and "interoperability" (i.e. growing and collaboration).
+
+In the 1980s some customers in Italy half-jokingly talked about "drones", meaning cyborgs, as people coming and going shared some concepts, and therefore even replacing somebody or expanding the team did a "ramp up period" that was limited to the specific business or technological domain needs, not getting tuned to the basics.
+
+I will not share here details of my approach adopted on that activity (and similar ones before and after, maybe in a future article), but it was 1990, after I had completed my phasing out from Andersen Software in mid-January 1990, before I accepted a role as Head of Training and Methodologies for the Italian branch of a French company, which started in July 1990 with around a month at the HQ in Paris.
+
+Anyway, I had done similar activities for different reasons well before being officially hired for my first 1986 role as an employee (will share a bit about this in other sections).
+
+Those who worked with me probably know this already- but my approach to slides is "few, and sparsely populated, to be used as a kind of 'storytelling roadmap'", where you pick-up from the audience signals or "material" to integrate, or add last-minute reference to relevant business or social news, like in those 1980s-1990s videogames where you went around and collected items that had to integrate into your storytelling, but more dynamic.
+
+In any "live" presentation, routinely added on-the-fly commentary derived also from signals from the audience (or signals inspired by the audience's reactions) and, if available, used either a whiteboard or a flipchart to underline points, including also "signposts" from the audience that then recovered and integrated within the narrative- and this both for training, sales to senior management, and project presentations.
+
+With online presentation such as those that released on [https://youtube.com/@changerulebook](https://youtube.com/@changerulebook), I had to blend that with the delivery of a narrative- converting each "sparse" slide into a series of slides, each showing an item, and restructuring messages so that the "filling the narrative" would have to happen within the audience's mind.
+
+In other cases, notably when I had to deliver a workshop or presentation with multiple speakers, the key element was "blending" the various speakers- but you can see on that channel also short examples (due to a course on AI Product/Project Management) of how I would actually deliver a "Soviet TV-style" short presentation with no interaction with the audience.
+
+As for projects and programs, have instead a look at [QuPlan](quplan), the book whose second edition I am currently working on, which included a 200+ pages fictional compliance case study.
+
+In this article, would like to share some concepts that might actually be useful before any project or product or service initiative, adopting a systemic perspective.
+
+Maybe in the future will share "operational" material (Powerpoint, Excel, Project, even Jupyter Notebooks etc- [have a look at the variety of items that I added in the past on GitHub used as a repository of repositories, not for software code](https://github.com/robertolofaro)).
+
+The sections of this article:_ the rationale_ getting across_ where are you ("here")_ where you should be ("there")_ cutting costs ("right")_ shuffling options and priorities ("shuffle")_ conclusions
+
+For now, let's switch to the rationale.
+
+
+<b>The rationale</b>
+
+
+This morning, courtesy of a reader, shared again on Facebook the link to a 2019 article that is relevant to this section, [#Italy: #war of #attrition on #organized #crime and the #gentrification of the latter](index.php?page=366), read almost 4,000 times.
+
+Along with [Il paese dei leader](index.php?page=125) (read over 15,000 times since 2017), actually delivers the context of this section- and of my rationale.
+
+Let's just say that you can safely skip this section if you are just interested in "operational tools"- but knowing the rationale could help in "framing" the material provided, as well as further material that will be delivered in the future.
+
+The key concept is that no matter how creative you think to be, we are still "political animals", i.e. belong to one or more communities, and whatever we do is also part of the times and environment we live in.
+
+Therefore, since I learned to read, I always found interesting extracting narratives and creating new narratives- only, my "tools of the trade" evolved courtesy of countless interactions with other cultures.
+
+Yes, books, but also movies, or chance encounters while travelling- albeit, since I first moved abroad, I must admit that sometimes (actually, relatively often) I collected plenty of cameos of people who tried to pretend to be a "chance encounter", but did not take long to extract from them more information than they were trying to extract from me, and to identify which tribe they belonged to.
+
+In some cases, I applied the "watering hole" approach I was taught in London: could be a physical place (a pub, a caf&eacute;, a restaurant, a library), or even a person- anybody hovering around that "known point of reference" would show varying degrees of closeness or distance, and, if a "fake", would be easy to spot.
+
+Actually, also in business, sometimes you meet fakes: but the point is to "frame" them correctly, as, if they are there, probably have a role and, unless your role is to "cleanup the house", you have simply to consider the elements belonging to the context as structural elements worth including within whatever you are assigned to do that makes them relevant.
+
+If you want instead to be a fence-sitter pinpointing issues but solving none, then probably you are aspiring for the role of Jago within Othello, not of the consultant.
+
+A bit of self-humour: in one of my first projects, I was told that the oldest profession in the world is not what you think- but being a management consultant.
+
+Otherwise: what do you think that the snake was, advising to eat the apple of knowledge (disclosure: according to the Chinese horoscope, my sign is snake, being born in 1965).
+
+Back to more serious concerns: actually some fakes eventually needed just the right amount of incentives and "knowledge transfer" to develop into really useful members of the environment- as, in most cases, they have a chip on the shoulder related to their original appointment, and being able to show that they deliver their own value beyond just being "parachuted" is a urge that many share. 
+
+Since I started sending my CV to unknowns, mainly when I was trying to settle in Brussels, one of the most common points of disagreement with recruiters was when they tried to convince me to "tweak" my already overburdened CV by expanding on something as if I were an expert, and not just somebody who had coordinated experts.
+
+In my case, having been across cultures and interested in studying cultures while learning the value of history and "liquid" relationships such as those that are common in politics and other environments, whatever I collected in business in missions obtained through my usual word-of-mouth "hitting the ground running" was something that pushed me to keep adding to what some call "memory palace".
+
+I simply connect events to people to what seems relevant to them in the now and here, and then instinctively resurrect when we meet again: funny that often I remember a discussion or some points from long ago as soon as the person appears (or shortly thereafter), as if it were a "key" to a visual database, but equally often I do not remember names or official titles- as both, in my experience, are less relevant.
+
+Actually, when I was shuttling around Italy on a daily basis in the late 1980s, some customers said that it was uncanny how I could continue a conversation we had the previous time, as if I had been thinking about that as long as they did.
+
+It is just an instinct: if it seems to matter to you, leaves a mark in my memory.
+
+The flip side was that often I was invited, notably from 1990, when I had my first VAT registration, to meetings that I really had no reason to attend, just to use me as a kind of "sounding board" and "pick up my brain" as it was filled with cross-industry and cross-culture experience direct and indirect, and that could be useful to have, maybe over a lunch or a drink, a kind of "quick reality check"- which often evolved into a request to have a focused meeting where I was to be a kind of "Devil's Advocate".
+
+Funny when this also evolved later into missions provided via word-of-mouth not from customers or partners, but from their competitors who had received a contact from a customer and, knowing that there was this flying Italian going as a ghost around Europe and working on change and business number crunching, wondered if I would be interested in doing something.
+
+To summarize what I wrote across previous articles: I might dislike our market economy and some of its concepts, but I think systemically, and I am under no illusion of having an exclusive to brains.
+
+Hence, if I win, I do not try to "overwin"- if I can help a competitor avoid a minor obvious mistake by pin-pointing to it "in camera caritatis", I do it- and I did so in Italy e.g. just to stay in this century, both in Turin and Romme.
+
+Still, I find annoying some tribal habits common in Italy, where tribes work on a short-term perception of reality.
+
+Once, a couple of decades ago, I told to another consultant in Parma that I had discovered that the methodology manuals I had created for my customer since the early 1990s as part of a cultural and organizational program, blending waterfall and iterative/incremental development as well as "lean" concepts and supporting their certification toward ISO9000... had surfaced in Turin with a consultancy logo replacing the customer's logo (as of course I had not put my logo).
+
+The other consultant told me: you will have another idea- but gave me a taste of how the local market works.
+
+Working by word-of-mouth, I had used my "idea generation" side since the 1980s as a bargaining chip to be remembered whenever a partner or employer had a mission where my experience and skills could be useful.
+
+Usually customers or partners complemented with their own domain- or technology-specific skills  (hence, why I ended up learning a bit of everything, also if I keep my personal focus on "change, with and without technology", and dig deeper only on what I expect to reuse in a short while, or find the topic generally interesting, or potentially of cross-industry value).
+
+Hence, also my routine, since really the 1980s, to follow each activity (and I usually have many in parallel) with something that benefits from my teenager experience in classifying information and knowledge taxonomies such as those used in libraries (if you get on loan a book from either my parents' or my own library, chances are that you will find some classification marks on the first pages or the border- again, I did various experiments on the subject since I was a kid).
+
+Whenever I do a "post-mortem" on an activity, I always end up cross-checking with my library and, since at least the early 2000s, obviously Internet, to mark at least signposts to refer to in the future, or even, if I found the additional knowledge I entered in contact with worth "fixing", dig a bit to cross the Ts and dot the Is on what I saw operationally done by others, but had left an "unfinished business" or "incomplete information" feeling.
+
+When, in 2005, I considered settling in Brussels instead of Italy, I did not know the Belgian or BeNeLux markets, except for business meetings with or for partners and customers or social events in Brussels in the 1990s.
+
+Hence, could not expect to work interacting officially at the Cxx level (the reason of my  rate of 200EUR/h which was even considered "cheap" or even "dumping" by some British colleagues when I saw what I was doing), but I had to find alternative options.
+
+In my case, the concept is simple, and something that I repeat (in other terms) since I first delivered methodology training in the early 1990s.
+
+If you are not "operational" anymore on a domain where you had been operational before, the risk is that you assume to know something, while instead you do not know it anymore.
+
+As described in a 2013 interview/documentary with D. Rumsfeld, [The Unknown Known](https://en.wikipedia.org/wiki/The_Unknown_Known).
+
+In IT, as technology has a continuous evolution, and since decades we got used to have projects and products built on something that in past decades would not have been considered "production-ready", this happens quite often.
+
+My IT side in business is coming from a mainframe environment, where you had tools and languages and software bits that run for decades, the mindset shifting to e.g. in the 1980s-1990s to PC-based development first, where significant technological changes were at least a couple of times a year, changes on which you could not do a "postpone" as would have been in a mainframe environment, and then e.g. a web-based development where change might be almost constant unless you "sandbox", "containerize", etc, can be cognitively stressing.
+
+I remember how in the late 1990s to early 2000s sometimes the fight for dominance in specific market segments took nasty turns that you could not state as such, but, being on the front-end of data-centric projects and products, often had to do a bit of "forensic" analysis to see "why" something had failed.
+
+And, almost invariably, was because somebody had decided to shift to the latest version of a bit of the stack, provided by A (or simply had been automatically updated), while another bit of the stack, provided by B, had not yet been received by B an update aligning with the changes forced by A.
+
+There were other reasons, but that was the most common cause at highly competitive times, also if you could not say if it was intentional or just a matter of too many unsynchronized updates, it was disruptive.
+
+If you had been working on business number crunching for senior management, you would have ended up developing interesting "problem spotting" skills (e.g. see what I described about data-projects within two mini-books [about relevant data](relevantdata) and [about GDPR/data privacy](gdpr)).
+
+Shifting mindsets therefore requires acknowledging that something had to give way to something else.
+
+In my more mundane case, shifting to a market I did not know at all (as I had worked in UK, France, German Switzerland, Italy, and to a minor extent elsewhere) to share an apartment in Brussels, I could say that, after a bit of due diligence (as I had anyway to phase out activities elsewhere before I could settle locally as an employee or manager in Belgium), I was dealing with "known unknowns".
+
+Meaning: I knew, if I did compare with what I knew in other countries, which areas of my activities I would not be credible in for a while, as did not know the local market etc.
+
+Two options: _ move on, tossing away decades of what was still useful experience and approaches to work that I still saw many not use yet_ extract from my experience only what was at the level that I could probably found local use for, and use everything else to develop something that I had already done in 2003-2005- publishing.
+
+Added bonus: doing the latter would imply having to keep up-to-date on other areas, areas where, maybe, eventually could be again involved professinally.
+
+As I previously wrote [BusinessFitnessMagazine](https://businessfitnessmagazine.com) was a quarterly on change published in English and Italian between 2003 and 2005 (whose full history, from the direct marketing project on, was described in another book- but you can [re-read a bit of story within the reprint of the magazine](bfm2013)), something created with a specific audience in mind, and containing tools and practical information.
+
+The online magazine on change was part of my planned return to Italy, and halted it when that return was halted.
+
+Reason? Let's just say that I never got a share or a penny from any of the Turin startups I supported on business and marketing planning, even when were started and reached the point when, according to contract, shares and deferred income had to be paid.
+
+Ditto for local companies that went "creative" with payments, royalties, commissions, up to how IPR that licensed was instead eventually even transferred to third parties as if had been their own.
+
+Or proposed contracts in Rome that were quite entertaining to read, such as one where I had to supposedly help manage the customer base in exchange of a retainer and a commission on the turnover, but in the event when the company would be unable to pay me (how, if I was managing the turnover?), I was supposed to keep working for them until they wanted, as my leaving the company could have affected the market image of the company.
+
+Signing into slavery was something that I was offered more than once in Italy- in that case, when I was told that the lawyer said that it was legal, I advised to ask their lawyer to sign a similar service contract, and turned down the "tremendous opportunity".
+
+So, my choice for settling in Brussels was obviously... to extract from experience what was potentially of immediate use, and shift everything else to publications.
+
+And this I did since 2008, allowing those who have interests, means, motivation to actually have a try at developing their own versions, or looking at what they would do differently.
+
+The parasitical approach I found in Italy since I had to return in 2012 in Turin, requires to be willing to waste time with others looking for "concepts" (and possibly even blueprints or prototypes, not just ideas) to then claim as their own, to the point of asking me to sign NDAs while offering to "pick my brain", or adding non-competition clauses... on whatever I did over the last 40 years elsewhere! 
+
+The sad state of decay of the town is consistent with these habits, apparently: who would invest in a territory focused on extracting value from somebody else's investment?
+
+No wonder then that, at least since 2012, news about organized crime interests on the territory seemed as if were a continuous stream: extracting value from somebody else's investments is what they actually thrive on.
+
+Being the only ones awash with cash, are the only ones able to have a whirlwind of short-term cash-based initiatives that anyway over the long-term would build a local presence.
+
+I do not care about accents, look: I look at behavioral patterns.
+
+So, I prefer to share publicly, as this still requires to work on ideas, concepts, etc (again- mental calisthenics), while I have enough daily readers to consider a potential "diffusion" effect (i.e. reaching through readers "recycling" those I would not reach otherwise), and not just a "local extraction" by those unwilling to pay.
+
+A side effect of that 2008 choice was an opportunity to keep writing for unknown audiences, i.e. "finding your own voice", and carry out various experiments- thousands of pages of experiments that required routinely checking that I had not developed any "known unknowns".
+
+My initial attempted positioning in Belgium? Project management and coordination activities, plus business intelligence, both things I had been working on since the late 1980s, as it was something generic enough.
+
+Had worked across multiple industries, and "project" in my experience was not just necessarily involving technology- it was an approach to flexibility and continuous improvement starting from the identification of a business case.
+
+Anyway, will discuss these themes more within a forthcoming book, the second volume of [QuPlan- A Quantum of Planning](quplan) (you can find at the link the first one, along with a bundle of booklets developing a fictional compliance case across 200+ pages).
+
+Another couple of sides of Turin that saw in full display since 2012 (but probably were already there- I had had hints in the 1980s before leaving de facto Turin, and heard routinely similar stories from Italian and foreign colleagues):_ no data privacy and no data confidentiality really exist, as everything is "tribal"_ the local concept seems to be why you should pay when you can create conditions so that you can get it for free_ and other ancillary elements (e.g. endemic gossip that stretches into mobbing and stalking).
+
+A British colleague, before leaving Turin, joked that was a Stasi-like environment (Stasi was the former-DDR State security- curious that the best book I read about it was written by an Italian, with the title "Il Ministero della Paranoia").
+
+Actually, one of my favorite Italian habits that I observed, played by private and State "observers" and commentators alike, is how to generate a "scorched earth".
+
+Sitting nearby you as a group in a public place, and starting with the others commenting what you do, say, or other personal information, as loudly as feasible but without talking to you and, if they are expert enough, without looking at you or your companions, to try to provoke a reaction from either you or (if they already noticed them previously) those you are sharing your own table with.
+
+I saw first this as a kid in Calabria, it was a typical mafioso type of mobbing to undermine credibility and build a "social quarantine zone", when wanted to obtain something.
+
+As I wrote before: I do not care about accents, looks, or even occupational status- I look at behavioral patterns.
+
+And, as in that 2019 article that re-shared this morning, it seems that the Italian war of attrition actually percolated some behavioral patterns from the "enemy" also between those who should know better- look at the continuous stream of news about individual and organization bullyism across Italy (and I am referring only to those the read about or witnessed since 2012).
+
+Forgot that "scorched" approach until I saw it again "deployed" in Brussels by Italians, after announced I was going to move and settle there.
+
+I shared in the past the funny episode at a table in Schuman involving some... roadwork Italians who pretended to be somebody else and then were sent back to dig holes exactly where they had played their "mobbing" games, so that all could see them- other foreigners called it "scorched Earth" approach, hence my adoption of the name of the concept.
+
+In Turin, since I had to return in 2012, both I am and my companions while having dinner roughly once a month observed the same.
+
+Let's say that eventually my friends too started acting as "sparring dialectic partner", i.e. shift discussion toward something to see when the observers and commentators stopped talking and started listening, or showed sign of nervousness.
+
+It might even become entertaining, this kind of "mobbing dialectic jujitsu", if it is once in a while- but when becomes repetitive...
+
+Jokes aside, considering what I shared in previous articles, not my attitude to dealing with people, confidential or sensitive information, etc.
+
+Actually, people working in my teams probably remember how routinely told them to "stop talking shop" while having lunch, both in Turin, Milan, and Rome, notably to avoid commenting facts-of-the-day-at-work naming names while having lunch nearby... the customers' office (yes, it is another Italian habit, as if there could be no colleagues or other suppliers).
+
+There are remedies applied elsewhere: while working on a KPI project in private banking in Switzerland over two decades ago, was asked to do the project personally also if I was a project manager and my interface was directly the CIO, and had to sign a form that stated that if I were to disclose any customer information there would be a fine of 100k CHF and 18 months of prison the first time, doubling the next time, and so on and so forth (I do not remember if those were the correct figures, as never received a copy of what I had to sign).
+
+If that regulation were in place in Italy, we would need new jails for banking or public service employees scattered around the country.
+
+Example: I remember once over a decade ago having been shown in Turin a credit report that somebody had obtained by an independent cabinet as part of a background checking before negotiating a deal.
+
+The question I was asked was how did I think that they got such detailed information about the financial/risk side.
+
+Well, the leaky employee from a bank who had provided the information by accessing the credit risk system (that in Italy was built around a national central databank where each institution provided information and got back the overall "exposure", plus details of its own- I wrote in the past about my 1990s work in that domain)... had been silly enough to forget to remove the details available only at his/her own level and location.
+
+I do not know if that side of "leakiness" improved, as, being land-locked, people in Turin do not catch the meaning of my oft repeated "loose lips sink ships"- both State and private employees.
+
+Just icing on the gossipy cake: more than once the assignee of the caf&eacute; at the local tribunal had to be replaced after being discovered having links to organized crime, as stated by a [2018 article from the Turin edition of the Corriere della Sera](https://torino.corriere.it/notizie/cronaca/23_luglio_18/torino-infiltrazioni-della-ndrangheta-nel-bar-del-tribunale-4-arresti-32d4c8ce-9f44-4fd7-9c64-ce212b7aaxlk.shtml#), whose title was: "Torino, la 'ndrangheta gestiva il bar del tribunale (6 anni fa era la camorra)".
+
+Notoriously in Italy it takes time, so there was a [further follow-up article in December 2023](https://www.torinotoday.it/cronaca/chiuse-indagini-libera-mensa-ndrangheta-dicembre-2023.html), when the investigation was completed (I will let you read the details).
+
+If it happens once, it is a matter of revising selection criteria.
+
+If it happens twice, it is a matter of revising selection methods and structure, including governance.
+
+My more modest assessment is just to keep at bay local proposers of "tremendous opportunities" that end up always in trying to extract and overinflating what value they bring to the table.
+
+Business contacts in Turin since 2012 more than once made me remind a discussion with an Asian colleague in London, who said that for one of his initiatives he had on board two of the richest families in India, but there was a catch: each one of the partners was ready to contribute an office building for the company, but asked that the other... provide the cash.
+
+Over the last few years I saw repeated announces of renovation plans for this or that building in Turin, renovation and relaunch to be funded... by others.
+
+Let's just say that, counting just from mid-July 2008 at the reduced rate that eventually was paid (basically, it was to be 600EUR/8h, as I had billed for Government projects, but instead was paid 500EUR/8h and with months of delay), when I had to leave a role in Brussels due to Italian interferences, locals cost me way too much.
+
+Therefore, as I wrote before in this section, I will keep following that 2008 approach, working on concepts for my products and projects but mainly for immediate uses, not for the final product or project, and share on that [new GitHub repository](https://github.com/robertolofaro/productsongoing) I referred to above.
+
+Or: my own business and personal plans, as I [shared in a post few days ago](https://www.frype.com/blogs/post/new-year-resolutions_17434300) are a viable "plan B" (i.e. get missions to self-finance both cleaning up my latest attempts of 2018 and potentially 2023, plus funding the future), but this does not imply that time will stop to fly- and that, therefore, it is better to keep going with my 2008 approach.
+
+When I read in a local newspaper long ago that the social habits locally decayed so much that local mafia-like types could openly do their discussions and negotiations at caf&eacute; etc tables in the centre of Turin, started noticing, and confirmed that, frankly, reminded something I saw elsewhere, and I am not referring just at that "mobbing table" approach.
+
+Hopefully there will not need to be a Duisburg-style evolution to get rid of that, also because over the last few decades organized crime in Italy extended so much its reach within the "traditional economy", having obvious benefits from being cash-based across repeated crises that Italy had since the late 1990s, that even organized crime in Italy has a vested interested in being "pushy" (e.g. when gentrification is needed), but keeping a degree of "law &amp; order", as otherwise would affect its own investments.
+
+As the town is shifting continuously toward the gig-based business approach, and liquidity- and micro-transactions based businesses, unfortunately these approaches are bound to become more, not less, common, as less and less will have a long-term investment to care about.
+
+Investments? Apparently, in most cases Turin shifted from industrial investment to building renovations.
+
+With a timeframe accordingly shifting the mindset locally to compulsive short-termism and inability to accept failure (as could happen to any R&D or industrial activity) and assess impacts.
+
+And actually, it is not uncommon to see is a whirlwind of services as soon as a shop closes, to often have also the one replacing it last a short timespan, but generating demands from suppliers, i.e. "burning cash" that becomes legitimate for those that received it, and can then invest it.
+
+A mechanism that was described in the old FBI TV series decades ago, when differentiating between Chinese and Italian mafias in USA- so, it might well be that, being awash in cash, some lesson has been learned by Italians, stopping to claim that countless unknown distant relatives awash in cash had died.
+
+The issue is also the risk that the only one retaining a long-term perspective is the unsavory side of the economy that is awash with cash to "wash", and therefore can simply keep "washing" until generates a profit in legitimate activities, further expanding its influence.
+
+A curious approach that heard more than once years ago while attending local events for startups, was puzzling (but not so much) for the "banking side" of my experience and mindset: some startups were proud of having formally respected their KYC (Know Your Customer) compliance needs, when ICOs (Initial Coin Offers, i.e. a kind of "virtual currency" as popular as crowdfounding to self-finance, few years back) were common, but... 
+
+... having as a disproportionate source of "micro-investors" in people from countries with less developed banking industries.
+
+Follow the money, as said more than one magistrate since the 1980s.
+
+How many of those ICOs whose funding sources where from microfinancing ended up in buying product and services and then folding, but unusually able to pay all their suppliers better than local startups with access just to local funding and that failed in the same way?
+
+Nowadays is not ICOs, but something else- still, the approach to transparency and "inflating" is the same.
+
+So, a "data-leaky" environment such as Turin is for me annoying, boring, and short-sighted.
+
+And if you compound that with what I heard say once "to avoid gets too expensive for what we have in mind for him", the "fence in" and "value extraction" has been an annoying local attitude that lived continuously since 2012 whenever in Turin.
+
+Including interferences from Turin and Rome whenever had repeated interviews for missions elsewhere in Italy or abroad at better conditions than those that locals were willing to offer- and eventually none of the local opportunities delivered what was discussed.
+
+I am looking forward for more timewasting surprises from Turin (and their partners in Rome) in 2024, including those aiming to make feasible forcing a free knowledge transfer, as tried more than once since a couple of decades to do even with written proposed contracts.
+
+Anyway, as I wrote above, each initiative, project, product, or service have to start with a systemic understanding.
+
+And this article within the organizational support series therefore would like to share something that, hopefully, would be more useful to support new initiatives, projects, products, services, startups- before they turn into time- and funds-wasting exercises.
+
+
+<b>Getting across</b>
+
+
+Let's get back to the map I showed above:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20240109_09_system_quarters_00.png)</center>
+
+Yes, it is all grey now, because I will start "coloring" each slice across the next few sections of this article.
+
+The starting point is knowing where you are- which, as I will repeat in almost every section of this article, is not a just a "fact-based" assertion.
+
+I know that everybody and every report states that it is "normal" for startups to fail.
+
+But, frankly, failing in your own unique way should be the aim, not repeat the same mistakes that could have been avoided by a modicum of research.
+
+As I wrote in a previous article, start with ideas and then add observation(s), before having a concept that can be presented or shared, to be then turned into a project or product.
+
+In many cases, I saw half-baked ideas quickly converted, courtesy of Excel and some graphic tools abilities, into superficially convincing roadmaps, plans, even business and marketing plans with the full paraphernalia that some really gullible investors looking for the next big payoff funded.
+
+Then, of course, the game shifted to avoiding to lose- the longer you keep it afloat, the less that "sunk costs" concept becomes relevant, and the more it looks as if you made an investment, not as if you just burned cash on wrong choices piling up on wrong choices.
+
+In our times, what not too long ago would have been a scam can look as a legitimate business, and even attract other investors willing to... keep it afloat to keep extracting; e.g. [have a look at a funny documentary "Bitconned"](https://www.imdb.com/title/tt30317302)- I knew of smaller cases, but this is quite entertaining (except if you actually invested).
+
+Actually, in the 1990s, for my cultural and organizational change activities with more than a whiff of business number crunching, started putting along with my library on utopias also a collection of fraud case studies, to use as reference while discussing why a specific business case or audit result sounded a bit sketchy.
+
+In some cases the misleading is intentional, as it was in cases described decades ago within ["Accounting for Growth"](https://www.librarything.com/work/1059471/book/79481997), by Terry Smith (a bit "technical", but enjoyable and useful).
+
+In other cases bad choices are the result of self-misleading.
+
+That four-steps cycle shown above, as stated earlier in this article, is obviously derived from the famous PDCA, the plan-do-check-act that was "embedded" in any method and approach that used since the 1980s.
+
+I refreshed my knowledge in 2022 as part of my knowledge refresh on the "yellow" and "green" side of [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma), after instead few years ago purchasing and read a few books about WCM (World Class Manufacturing), which extended lean beyond manufacturing- timely choice, as then had to use some of those concepts in a mission.
+
+Within the framework of this section about ["organizational support"](index.php?section=organizational-support), the here/there/right/shuffle is a streamlined and conceptual itinerary that actually has quite a wide applicability.
+
+Let's now go toward an apparently technological digression.
+
+When I started working officially in information technology in 1986 (but had already done a bit before, as I shared in the past), I had already seen personal computers, game consoles, had even modified my first home computer, programmed for a test on punched-cards, then programmed on a VAX and a 3B2 as well as a PDP- the last three in just few months.
+
+Then, had also already applied that knowledge to create an introductory course on information technology for adults in 1984 and 1985, build around learning programming concepts from scratch and associated practical activities.
+
+As there were some issues and therefore had to "prefer" an Amstrad BASIC computers vs. Commodore 64 or ZX Spectrum, had to restructure on-the-fly material and approach to the capabilities of an unknown machine.
+
+It went quite well, as proved by the large number of soldiers and officers who asked to join, and that my proposal of spending a couple of hours a week was accepted, went up to the Divisional level, and went back with an acceptance of the concept of delivering 4 hours a day, 5 days a week training.
+
+My daily schedule, at around 1EUR/day salary as a conscription soldier? Office work 7-16 with a lunch break, 16-1745 conscription soldiers, 1815-20 for NCOs and officers up to Lt Col, the latter not just from the barracks (1200 soldiers) that included my own Artillery Specialists Group, but also other barracks around the area.
+
+Then, as we had free time but was too late to go elsewhere, volunteered also to keep open the barracks library until I think 2130 or 22, and eventually, as my officers disliked that had not been able to "sell" the course as their own invention, was asked also to start doing services- eventually, I decided to take over the "graveyard shift" right before breakfast, as I was tired to have to present the list of those to be punished as they failed to report at sunrise- it wasn't the night watch duty to act as a "concierge" but, as anyway I spent those hours reading to stay awake while walking to check that nothing was amiss, I made a point of acting as a "wake up service".
+
+Little I knew that, a couple of years down the road, due to my work requiring to often sleep each night in a different town, I would become a constant user of that kind of service- the "wake up call".
+
+As some of my older readers remember, once in a while I repeat what could be summarized by the following paragraph: <i>any introduction of a new technology, process, organizational structure has direct and indirect impacts on the company "posture" and corporate culture- both the formal and informal(s) ones, and associated mutual operational agreements, overt and covert</i>.
+
+Decades ago, this resulted being told by a partner that, after a joint meeting with a current customer and presenting the ERP case as a cultural change case where you had to consider the culture "embedded" within systems that covered processes end-to-end, or otherwise would be superimposed on your own and generate costs to adapt both culture and systems as an afterthought, they had asked to have me for some SAP initiative.
+
+My partner's offer was only turned down when they main supplier, a joint venture between an automotive OEM and a computer manufacturer, heard what my daily rate at the time was elsewhere in Europe: Turin already back then was in a bubble outside the world.
+
+Actually, thinking about that... it was then that started being contacted for part-time projects in Turin were the only common characteristics were a) facilitation b) the effective rate and content being different from the agreed ones c) these differences been disclosed only after the activities already started and I had committed to and presented a roadmap, plan, etc.
+
+But this all happened between the late 1990s (when migrated to UK) and the early 2000s (while I was still considering returning to Italy, before deciding instead to switch to Brussels).
+
+When you shift, as it has been done extensively in Italy since the early 2000s, from an internal perspective where technology supports business, to an external perspective where you acquire technology almost off-the-shelf and therefore have to choose between what is being offered, it is a radical cultural paradigm shift.
+
+In the late 1980s, as I wrote in past articles, first at the University and then in the Army, and finally in corporate IT I heard or was part of discussions about "capacity planning", as each line printed, each minute of computer "brain" (CPU) used, each byte stored had a cost: akin to being a metered resource such as water, gas, electricity, but with a consumption not necessarily under your own control.
+
+In those organizations used to have internal computing facilities (e.g. PCs connected not to some external provider, but to an internal server that then opened the door toward the external world, as otherwise everything really happened "in house"), moving to a "metered" model can imply that changes have to occur across the organization, both on the ICT, business expectations, and on the users' side.
+
+You need just a glitch in parameters, or a missing (or simply unavailable) "limiting factor" plus a glitch that uses that to keep open a connection or (for those fond of AI) running a model or number crunching, and you can end up with computational costs that exceed the value that they were supposed to help optimize.
+
+So, over the decades, more than once was also asked to help revise or cut costs, or cross-check billing vs. expectations and contracts- mainly in Italy, but also abroad.
+
+Would you buy a 10,000 EUR tool to use it only once for a fix that somebody would ask you 200 EUR to do?
+
+Probably most rational people would found that at least a waste of resources, also because such a tool probably requires also a specific set of skills that, used just once (when you acquire the tool), would soon decay.
+
+Still, in Italy as well as abroad, often met others, including competitors and colleagues, who told me stories of how sometimes customers (and those providing them insurance coverage for IT risks) having this unreasonable assumption that you need to purchase something plus the associated people, keep them on the shelf, and when needed they would be ready to use.
+
+I think that the COVID crisis showed us all how much useful is to have "shelfware"- be it software, processes (including how to deal with a pandemic), and people (e.g. how many of those hired "trained" then are able to use their training? Just look at recent commentary about how many hours of flight get fighter pilots in Germany now vs. during the Cold War).
+
+As I shared in the past, my routine since 1990 (when I first registered for VAT) has been to "carve" time from my agenda and vacations to work on "proof of concept" projects, generally seeing how I could leverage on technologies to help my own management consulting activities.
+
+And, routinely, my really "minimalistic" more than "minimal" viable products were later useful in being able to deliver organizational or business feasibility projects or reports to customers, partners, startups.
+
+Or, at least, were useful to keep alive or prune or update or replace skills.
+
+Hence, since 1990 I was used also to accept to prepare proposals for customers, even when I had more than a hint that they would never assign the project to me, knowing that in more than one case then would try to do it "solo".
+
+E.g. proposals that I sent for feasibility studies, brainstorming sessions, workshops, often run for seven pages or more- but the cost for me was the half an hour or little more to get the key "boundaries", and then thinking while I was travelling doing something else, i.e. a kind of mental agility kalisthenics, adding on top of that maybe half a day of real work.
+
+Still, some eternal "potential customers" got so used decades ago, instead of spending days or more to prepare something themselves, to have it done within few days for free, that...
+
+... started complaining when I shifted to delivering to those who had made it a habit just one page or two, with price, time, and a milestone plus financial schedule table with associated results.
+
+One went so far to say "you used to send those interesting proposals that contained everything, now just this"- but got the message, and stopped asking.
+
+It is still funny when even since 2018, when again opened a company in Turin, was routinely asked to prepare proposals based upon RFPs (request for proposal) and, when offered either one-off offers, or, if the requests piled up, offered to set up a service desk to prepare proposals, associated processes, coach staff (what in Italian we call "ufficio gare")...
+
+... was again told something as if it were a duty to do that for free for their own business, or even that I should find it entertaining or be flattered that was asked.
+
+I was also used, in the past, to join meeting with partners to brainstorm quickly on new initiatives, projects, products, etc- but it was always a professional activity where my aim was to help build a capability to do something similar, not as when, again in Turin, was asked few years ago to join "business hackatons".
+
+Which were really... requests to have a workshop on a specific customer issue or initiative, where I would be the one providing the management consulting side, others would provide other skills, and we would come out with solutions, scenarios, proposals- all for free.
+
+Obviously I turned down the tremendous opportunity to do for free what used to charge 10-20k EUR to do.
+
+Anyway, what you will see in the next four sections are discussions about the "how" I would proceed for the four elements of the picture above.
+
+To make it visually easier to follow, each section will start with a picture focused on the specific point.
+
+The way I deployed across the years those kind of analyses was a function both of time, resources, and availability not just of tools that I could use, but also what the "customer" on the receiving end of the study was able to process, maintain, etc.
+
+Example: let's say that you collect documentation supporting each point of your analysis, through interviews, brainstorming sessions, and the like.
+
+How would you proceed to deliver the material?
+
+If the customer has already a kind of "knowledgebase" be it a website or database or webportal, it might make sense to produce something that you can close and deliver (e.g. a table of contents and minimalistic database), plus the same material already pre-formatted to be loaded into that environment, and that you actually schedule a "technical" load activity to be done after the final approval but before closing the DVD, CD, USB Key, directory, whatever, so that you have both your "formal release", but also leave behind something that can immediately be useful.
+
+In other cases, actually restructuring and processing should be done before the final approval, as that final section would include also a "presentation segment" to show what is available in their system, so that the presentation material can be shared as a kind of "knowledge guide" to what has been delivered.
+
+In other cases, just used what was universally available within the company, i.e. Acrobat plus a movie plus Powerpoint and Excel plus an Access database with associated documentation.
+
+In other cases, decades ago, actually delivered mini-movies, each one supported by a 1-page "step-by-step", as the aim was to show and document something in a high-turnover activity, for tasks carried out at most few times a year, and therefore the need was to deliver quick access self-training (in case of doubt, the "knowledge keeper" had a deeper layer of material to explain what was in that first layer) on demand.
+
+My suggestion is anyway to cool down your own creative instincts: the simpler, the easier to intuitively access (almost at the "street signs level"), the better, notably when you have a diverse culture and have to ensure access across different organizational levels.
+
+If a chart requires half a dozen lines of 5-point small script before it can be understood, either you selected the wrong one, or you did not tailor it to the audience.
+
+If such a complexity is needed within a single chart, then probably that should be a summary.
+
+Even the famous [Minard Map](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) on Napoleon in Russia was a single picture that actually represented a whole history.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20240109_09_system_800px-minard.png)</center>
+
+You can read at the link above the whole history of the picture.
+
+Anyway, my approach is to use few charts consistently for each initiative, so that the first one might be the "where I do explain the concepts and build the basic knowledge bricks", and the other ones keep rolling and adding.
+
+As an example, [have a look at a notebook that released in January 2021](https://www.kaggle.com/code/robertolofaro/ai-organizational-scalability-and-kaggle-survey): beside the usual presentation charts, I used repeatedly and extensively both tables and "radar charts", a tool that used often whenever had to convert qualitative data into visual comparison information.
+
+Actually, since the early 2000s used radar charts in most projects for another reason: while before I had to use other tools for advanced charts (e.g. I purchased a copy of Visio in London before it became a "standardized" Microsoft product), it can be done with Excel.
+
+I know that even just staying on Excel Word Powerpoint, and maybe also Project, there are plenty of charts that might be useful to get messages across.
+
+But, often, keeping it simple is the best choice- and personally I keep using Powerpoint as a tool to present what was developed elsewhere, including by using the tools to automatically propose e.g. the design of a table or timeline after you deliver a rough version.
+
+Also, whenever feasible, as shown within that notebook linked above, I try to "layer" information.
+
+The first typical layer is the one that should be completed last- the Executive Summary, which should contain "pointers" (at least semantic pointers) to themes further discussed within the remaining material within the report, presentation, movie, etc.
+
+Depending on your narrative, you can actually develop further layers.
+
+The key point is the title of this section: "Getting <the message> Across".
+
+And now, for each "section" of that picture, a short outline explaining each picture.
+
+In the future, will add more material on the [GitHub](https://github.com/robertolofaro/productsongoing).
+
+And, incidentally, the "conclusions" of this article will contain a small sample of how I plan to integrate (already did experiments) AI within business storytelling (of course, it might evolve).
+
+
+<b>Where are you ("here")</b>
+
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20240109_09_system_quarters_here_00.png)</center>
+
+I am boring: again the "where are you" is not neutral.
+
+You will never be able to have universal access to all the information, hence you have to select your focus so that you can assess where you start.
+
+The key point is that there is no neutral "here", unless your aim is to collect a "perfect" picture of your current status.
+
+Something which, as a "perfect contract" covering not just the expected, but also the potential cases, is quite an elusive (and expensive) target.
+
+Therefore, usually I split the task in two parts: first, understanding where we are at an overall level, assumptions vs reality.
+
+Then, when the first "distances" (or "cognitive dissonances") are identified, agree how to proceed.
+
+Who should be involved? Depends on the context, organizational culture, aims, if you are within an organization or working for a pre- or post-M&A case, etc.
+
+I am frankly skeptical of those "painting by numbers" approaches to change and projects that try to minimize the impact of context, and expand instead the repetition of what was already done elsewhere.
+
+In my view, a conceptual "laundry list" of steps should be the following (again, adapt to your context, sponsors, aims, etc):_ the first operational step is then to communicate the aims, roadmap, etc, preferably via a presentation that is really a brainstorming/Q&A_ the first result of this session should be a "sampling schedule" to agree when to meet who when_ the second result is a further feed-back discussed with the sponsor, to help if needed to further tune and highlight potential caveats_ then, the series of meetings, each immediately followed by a summary, all done as fast as possible_ then, a discussion of the preliminary results with the sponsor, to prepare a presentation to those involved- not to alter the messages and results, but to give a forewarning of what could potentially happen.
+
+If and how the sponsor should join depends on the culture of the organization, but anyway the end of the further presentation now adopting more a brainstorming/joint analysis concept is to identify key elements, and also potential further area of investigation, maybe to apply the approach discussed during the meeting.
+
+Once even these further sessions have been done, the concept is to discuss with the sponsor, agree on a presentation outline and structure, and then have a final session with the definitive report, including also, if relevant, a discussion of the next steps (if any).
+
+If, as it happened to me first in the late 1980s to "audit" some ongoing activities (I was a domain expert, so my "audit" was really a reality check, not a formal compliance validation; in other cases, eventually instead had to cross-check activities and status vs. contracts and plans), your results highlight potential areas worth improving or that could generate unexpected impacts, the "how" to communicate is again a function of your agreement.
+
+A caveat: whenever delivering management or key staff training to help build capabilities, routinely I had to use questionnaires that I designed to elicit a blend of "signals", not just the formal answer.
+
+Routinely I was then asked to provide the source, and not just the aggregate results.
+
+Do what you want, but my professional advice is: if you are delivering a series of cultural change activities, your credibility as facilitators or facilitating teams is also, as it was for me in political activities, then in the Army, then as a PMO or consultant...
+
+... to be seen something you can also talk to "in camera caritatis". 
+
+If your assigned aim is to help improve, disclosing what you were told that is not relevant would simply make less feasible to help improve.
+
+As, in my experience, how your present "where we are" is also a political act, that might generate support for change as well as additional resistance to change.
+
+In Italy, sometimes this has been misunderstood- as when a competitor assumed that having avoided a "shaming" approach for a mistake they did implied I was trying to open a negotiation for a business opportunity.
+
+Wrong: as I said recently, my approach is simply that, when doing an assessment, I agree with customers (and, if involved, partners) on the aims, budget, timeline- and also the communication approach.
+
+But I do not consider my future interest as part of what should be affect the delivery: if you work with professionals, you have to expect them to have a degree of professional integrity; if they "bend" for potential opportunities, who does not ensure you that, in the future, they will "bend" again to extract further opportunities?
+
+Hence, also when using in the past external consultants to complement my own network or competencies, I quickly dropped those who were competent but unreliable.
+
+And this bring the concept on the next step that, also if not explicitly requests for a "where are you", is at least a footnote reference that, in the past, actually converted a few days of "where we are" into a potential (or actual) long-term business partnership: "where you should be". 
+
+
+<b>Where you should be ("there")</b>
+
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20240109_09_system_quarters_there_00.png)</center>
+
+Management consulting, but also technology consulting, is quite a market: you are called up for your competencies, expertise, or even just to transfer to you the role of delivering "inconvenient truths".
+
+Anyway, I met often many who ended up believing so much about their own infallibility, forgetting that it is the customer who has to live with the consequences of accepting your advice at face value and without adapting before adopting, that they forced their ideas through.
+
+A typical example is why I dislike having cohorts of junior consultants doing interviews about the organization: they are inclined to show how smart they are, and to repeat lessons that they were taught, and often end up acting more as promoter of their own organization, than collectors of information.
+
+The less experienced "senior consultants" are, the more inclined they are to fall in love with their own proposals and ideas, instead of just doing the role that they were supposed to do.
+
+While during an assessment phase this could generate some issues that can be then result in bad feeling but can be fixed in those closing sessions I discussed in the previous section, having consultants "filter" the emerging needs across the organization can result in what, as either account manager or PMO or "vendor coordinator" catched more than once.
+
+Or: consultants using the identification of emerging needs from users to actually "plug their wares": how curious when I read reports that contain supposed requests from the bottom do do what the consultants have proposed for a long time.
+
+If you selected the focus, you now that have collected information on where you are not as an absolute, but relatively to your focus, again relatively to those starting points you can assess the "scope" i.e. where you want to go and by when.
+
+Then, these two parts will probably require some iteration to further tune focus, status, target, useful also to identify relevant method, KPIs, and potential alternatives/fall-back positions should something fail.
+
+While defining where you are allows, in the end, also to identify potential scenarios, it is usually better to keep separate this development thread- also when in reality the "scoping" of the "where are we" was guided by the initial aims.
+
+I had to work on many similar cases, both for new or potential initiatives, or to recover existing ones, and in each case the aim was to identify different levels of suggested course of action, each one with an associated roadmap.
+
+Except when already informed and structured e.g. by a "here" activity, in reality this is a typical activity that, to be useful, should have freedom to activate further exploration and, in some cases, even subgroups reporting on explorations, to define a shared moving forward.
+
+Hence, usually I suggest to integrate in such an activity from start somebody from the target organization that can act as an "organizational memory".
+
+It depends on the context if such a person is part of the team "doing the rounds", or stays in the background for routine checkpoints and tuning.
+
+Still, as a consultant, I always asked from day 1 to have somebody covering this part, to ensure organizational and cultural continuity, and avoid "spoon feeding solutions".
+
+In some cases, this "background reality check" was done directly with a Cxx-level or other senior management, not directly involved in the "doing the rounds" to avoid influending answers.
+
+If, instead, you have already set the "here", the focus generally shifts toward "how"- but confusing the two aims can generate what solves neither need, a bit akin to that case of what a space-bound vessel had one of the teams working on metric measures, the other on imperial- and discovered the misalignment only when in space.
+
+Often, the activities under the "where you should be" in reality are a stepping stone toward that corporate mantra that usually comes along with any management shuffling- cutting costs.
+
+
+<b>Cutting costs ("right")</b>
+
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20240109_09_system_quarters_right_00.png)</center>
+
+As you can see from the picture, I do not like to say "cutting" costs- I rather focus on "having the right costs".
+
+In marketing and advertisement, everybody heard at least once the old joke about knowing that 50% of the budget is wasted, but not knowing which 50%.
+
+Somebody cutting costs is approached as an "atomic" activity (i.e. a single unit): frankly, any cost cutting activity I ever did really started with a bit of the previous two steps within the picture, "here" and "there".
+
+In some cases, cust cutting is a "whatever it takes", to release liquidity, hence also paying short-term penalties is acceptable for a recovery of flexibility and freedom.
+
+In most cases, before "selling" the cuts, would advise having a look at constraints- as many cost cutting initiatives ignore "details" such as:_ what to do with staff_ cost of releasing/shuffling/retraining existing staff_ even the need to add new specialists_ lifecycle costs before and after cuts_ impacts on resilience of cuts_ etc etc.
+
+A typical example of impacts on resilience of cuts is the concept of firing/retiring those more expensive, and then assume that there is no need to "transition them", i.e. to have a knowledge transfer to somebody younger, as the expectation is that the business is anyway changing, and also technology is changing, and anyway mindsets changed, and training new people on the old ways would be a waste of resources.
+
+It might make theoretical sense- if you ignore the "systemic side" of your costs, and also the need to ensure continuity.
+
+A classical example of this approach was the Y2K case ([have a look at a recent documentary](https://www.imdb.com/title/tt26786629)), i.e. the "crisis" generated in the 1990s by the approaching year 2000, at a time when most computers considered years only with two digits.
+
+Actually, my first banking project in Italy, in 1987-1988, was a banking general ledger and, against all the expectations about Italy, being always the last minute fixer... that project included also expanding from YYMMDD to YYYYMMDD.
+
+Anyway, in late 1990s I was already living in UK, and was curious to see how my colleagues in Italy coped with that, also because since the late 1980s I saw many companies shifting from mainframes to PCs, and "retiring" accordingly not just hardware, but also e.g. computer programmers and administrators used to work just on mainframes, who, being at the end of their career, where more expensive.
+
+First, I saw what I had already seen in that first banking project in the late 1980s: back then, some critical software was still running but had been developed in the 1960s, and worked in... Assembler (as close as possible to the machine), and therefore both some managers (or even senior managers) and retirees were needed.
+
+Then, also on PC-based software, saw something that looking like a circus.
+
+Suddenly, there was in late 1990s in Italy demand for software programmers, all at the same time.
+
+And some good programmers started... switching job on a monthly basis, each month getting an increase of one or more million Italian liras per year (or even a hiring bonus) with no strings attached from new employers, and then... jump ship the next month.
+
+The "circus" side was that each one of the companies I talked with in Turin was proud of having snatched people from their competitors, assuming, for reasons unknown, that nobody else would do the same to them.
+
+Only to tell me later the sad story of how they had just lost somebody to a competitor.
+
+Another interesting concept of "cost cutting" was that, a decade later, many companies decided, even before cloud computing, that buying hardware (computers, printers, etc) was a burden for their balance sheet, and decided to convert CAPEX (investments) into OPEX (operational expenses), by sometimes selling hardware (or even transferring software and people) to suppliers, and then leasing it back.
+
+Nice concept, but with a catch: unless you assume somebody really gullible on the other side, having contracts that prescribe a cut on the initial budget that is not one-off, but a further reduction each year, implies that somehow somewhere your new providers have to make money.
+
+Yes, they could get cheaper and less experienced staff; yes, they could ensure the service but not the choice of hardware or its maintenance schedule.
+
+Still, keeping that pace would not be enough.
+
+At least, you would need to increase utilization, e.g. by having some equipment available but not local, and shared with others (I saw in the 1980s companies delivering timesharing services, and since the 1990s outsourcing connected via cable).
+
+With a couple of issues:_ if you had a peak demand, before cloud computing, you would not necessarily get that immediately, you had to "book"_ if you wanted to switch supplier after the compulsory period, there would be some additional costs that many forgot.
+
+So, if you have a computer or other equipment in house and want to replace it, you can "sell" or dispose of it, but if you actually got it as a loan from a supplier, you might have to still pay what in UK was called "standing fee": use it or not, you still have to pay as if you had the equipment for a fixed amount for a minimum number of billing periods.
+
+Years ago I was asked to prepare a proposal for a cost-cutting project that then was assigned to somebody else.
+
+The key point was to cut down the utilities costs across multiple sites, each one with its own contracts.
+
+If you want to cut costs from suppliers that deliver something embedded in your organization's core products or services, buyers know that there are contractual conditions, constraints, etc.
+
+Instead, for costs that are not related to your products or services, but are really "overhead", e.g. indirects and consumables, such a discipline often is a little bit more lax, and, due to lack of volume or perceived criticality, often standard contracts from suppliers are accepted.
+
+Such contracts limit flexibility that the company, considering how it works with other suppliers, assumes to have.
+
+The idea is that if you buy a commodity, you get the commodity treatment, i.e. all those involved focus on minimizing cost, as it is the main differentiating factor.
+
+If you extend the model to other activities that you externalize, you are actually potentially converting activities where you would need to influence in terms of content, delivery, and even update, into "off-the-shelf" where you get the minimum quality that the vendor can get away with.
+
+So, whenever I got asked how to approach a cost-cutting initiative, I obviously started with... checking if the "here" and "there" had already been done.
+
+If the answer I received was just something on the line of "we need to cut costs by X%", as a consultant proposed a multi-step approach: first, to identify internal and external constraints and potential, then, to define a roadmap for implementation- even before starting the first negotiation.
+
+If the customer instead wanted just a negotiator to strong-arm suppliers, I suggested to use those who were already doing that service across other areas, with a caveat: while the approach works on commodities or "commoditization" of services, in other areas you just risk getting what you negotiate for, while the best resources are progressively transferred elsewhere.
+
+Which is, incidentally, what is currently suffering Italy: companies keep routinely stating how many jobs get unfulfilled, but then, when you compare salaries and working conditions, you understand why, instead of changing, many smaller companies keep proposing to have the State pick up the tab for training and shortening training times- generating a self-fulfilling prophecy for further lack of staff able to relearn/unlearn in the future.
+
+Cost-cutting should be approached strategically, i.e. part of a redesign of supply chains (including talent supply chains), and even redesign of internal systems and processes: just leaving it to "bean counters" implies forgetting what is generating the differentiating value that justifies selecting your products or services vs. your competitors'.
+
+Actually, the concept of "right" within the picture derives from a 1990s book published by Sun.
+
+At a time when everybody was talking to shift from "capacity planning" on mainframes to "downsizing" (cutting down to PCs and LANs, externalizing/outsourcing, etc), Sun wasn't cheap- and their proposition was "right-sizing".
+
+It was before the old (until 1980s) timesharing transitioned into the current cloud computing, but some concepts were interesting.
+
+I could suggest a couple of books, but the concept was again to consider that information technology was not anymore an add-on to business activities, was already becoming a cornerstone, a differentiating element.
+
+I remember how already in mid-1990s in the USA, when my friend had an issue with his Japanese car just before entering the desert, the licensed car repair shop had already access to a database that allowed to check the repair history of the car, and pinpoint to parts that had generated the issue and were not original (a current critical issue in many industrial equipment).
+
+Some 30 years later, even the smallest city car comes equipped with sensors and computers, and cost cutting would require being able to integrate in your corporate information systems also feed-back on how equipment (cars, computers, equipment on the shopfloor, etc) is used, loaded, and maintained, to pre-empt more expensive events.
+
+So, if in the 1990s the concept often discussed was to bring the CIO within the Board, nowadays the concept will probably evolve into having the CIO knowledge embedded in part within other senior managers' roles, and shifting CIOs toward a different role.
+
+The point is that, now that technology (and not just information technology), thanks to our "automated assistance" (as AI can support more than AI, whenever there is structured knowledge) can be increasingly "disintermediated", we will probably need more people able to see "systemically" their own domain, i.e. in terms not just of a collection of components, but a collection of mutually affecting interactions.
+
+To that, others would need to add the "system of systems" perspective, but on a dynamic, and not static, concept.
+
+
+<b>Shuffling options and priorities ("shuffle")</b>
+
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20240109_09_system_quarters_shuffle_00.png)</center>
+
+Currently many companies, notably larger ones, think in terms of "structures", "supply chains", etc- a static concept.
+
+Instead, and this affects all the four areas of "here", "there", "right", "shuffle", living in a data-centric society implies, as I wrote in countless articles, it is not anymore a matter of receiving and transmitting, but also of distributed processing (integrating data from the environment into your own).
+
+While some "skeleton structure" will keep being static (e.g. each company will still need to have some "functions"), if not in size in terms of key processes and activities or constraints, probably future organizations will have to structured more around "organizational domain antennas".
+
+Or: sharing a purpose (the organization's purpose), focused on a specific domain, but flexible in terms of resources involved and processing of the signals from inside and from interactions with the "outside"- call it ecosystem, but should be an extensive concept of ecosystem.
+
+Static organizations where the relevance (and relative power) of a structure is linked to its size will become a waste of resources, when you will have to tailor each product and service to each service/use point, and will have to process whatever signals it provides back, to further tune not just service/use, but also potentially evolutions.
+
+Evolutions not just of future products, but also of the individual product or service, that will be increasingly defined by software and, therefore, by its interactions.
+
+Currently it is considered "state of the art" to have OTA (over-the-air) software updates for devices, cars, and in the future all an assorted variety from self-driving vehicles, to traffic lights, to your own "white equipment" at home: imagine your fridge updating itself and its operation modes according to how you use it, how other learned how to use their own, and improvements identified this way.
+
+Seems far fetched and futuristic, but actually it is within the realm of existing capabilities at least in smart cities: otherwise, what is the point of delivering universal Internet access, broadband, and sensors scattered everywhere?
+
+Therefore, while in the 1990s and 2000s when I was called up for projects to identify options (e.g. alter organizational structures or product/service portfolio by business unit) it was part of shifting from a steady state to another steady state, now and in the near future would make more sense to expand on the concept of what has been our ongoing test at the EU level due to the COVID pandemic.
+
+We got lost in a long list of projects, infrastructure, etc, but the concept with the NextGenerationEU and its ancillary activities, as well as its "operational arm" ("braccio secolare", would have been said centuries ago) Recovery and Resilience Facility was really:_ to create a new adaptive rules framework that could be used also in the future_ to pave the way for future generations that will receive and maintain its results_ to ensure continuity for the existing, while building up capability to adapt.
+
+Overall, it is really an extension of the approach adopted within the "preamble" of GDPR: pre-empt by defining a framework that will guide future choices, instead of micro-managing the future as a projection of the past.
+
+It is a 27-countries ongoing experiment that will require some tuning, but due to its adjustments while keeping that short- and long-term views in sight, it could be useful to deliver some lessons in shuffling options and priorities.
+
+Despite the almost joking title, this is probably the most difficult set of activities, both technically and politically.
+
+In many organization, scrapping a project, even when irrelevant or simply not feasible, is akin to career suicide; hence, organizations keep going on projects also when everybody know that are hopeless and that expectation is to deliver in time, on budget, and with full specs.
+
+In my view, adopting agile is not a matter of rituals, in my view, but of mindset; I started using it as "iterative" and "incremental" blending my experience in PROLOG and PASCAL with a four-pages methodological hint on how our corporate "waterfall" methodology could be adapted to projects whose requirements developed through the first delivery: do something, see how it goes, explore, refine, and either iterate or add an increment.
+
+In the early 1990s, as part of my joining the mailing list of "Re-inventing the Government" in the USA, received a CD-ROM from the DoD containing a library on Business Process Re-engineering, plus documentation and studies on cost improvement, strategic initiatives, and some software tools that the USA Government had developed to allow each branch of the government leverage on the aggregate expertise and produce comparable documents with number crunching, the usual "vision", "mission", "targets", etc- long before the recent "mission-based" approach that became trendy few year ago.
+
+The "package" included also a magazine, called "CrossTalk" ([a summary of its history is here](https://theqalead.com/quality-engineering-planning-strategy/what-happened-to-crosstalk-journal-of-defense-software-engineering/)), which, despite being nominally focused on defense software, discussed methods, approaches, etc that, beside defense and software, could support other data-centric initiatives.
+
+The interesting part of the key tool, TurboBPR, was that allowed adding the data collected, compare scenarios, and generate reports with charts, etc, easing the cognitive load involved in producing such reports.
+
+Pity that worked only up to Windows 2000- anyway, was a useful "training ground", whose concepts actually inspired other applications I did for customers.
+
+The key point is not that software, or that CD-ROM and its content: it was being open to collecting contributions as a way to influence change.
+
+Hence, most complex projects could actually benefit from a blend of approaches- including monitoring continuously and shuffling options and priorities.
+
+As an example, many years ago I was managing part-time a key account for a partner.
+
+My first step was to review all the existing contracts, and identify some key changes:_ redesign the contract as a budget with budget lines_ have a single contract reference (myself and the CIO of the customer)_ add an operational, onsite person of reference, a "resident" onsite_ have monthly progress, not just billing, based on "signals" from the resident_ discussing with the CIO potential reshuffling and prioritization_ alter the way time and resources allocation was reported, so that we could pre-empt changes.
+
+The key benefit for the customer was transparency and halting the practice of having budget consumed and then continuously asking for "top up".
+
+Also, this retained flexibility but with accountability, and allowed us to obtain a series of benefits, both direct (e.g. improving governance and introducing "fast close" to accelerate billing, while reducing the number of discussions about budget, and becoming more proactive in proposing activities, highlighting potential needs and re-prioritization, etc).
+
+
+<b>Conclusions</b>
+
+
+Let's begin from the end: I think that, as I wrote above about my writing experience while in Brussels, you have to find your own voice.
+
+My English language journey started almost by chance (20 hours with a native speaker in the first year of high school, as an experiment, voluntary choice), then formally had a second serving of the same (another 20 hours- which attended only partially, as I was already moving on my own journey using books).
+
+In both cases, when I was 14 and 15, as, beside Italian, the only two languages I studied formally were French and Latin.
+
+Curious how both in elementary, middle, and high-school ended up being in classes that were doing some experiments.
+
+In elementary school, we had just one teacher plus a religion teacher, and the experiment was to "augment" maths with set theory.
+
+In middle school, it wasn't really an experiment, but two opportunities: our art teacher was actually an artist, our music teacher was actually known to the piano teacher that I had eventually to study with as extracurricular activity, and our class was the last having Latin- actually, just for a couple of years, as then the subject was withdrawn, and we had to restart in high-school.
+
+In high-school, as I wrote we had the option to add a second language, while in those late 1970s to early 1980s chaotic years we had also an experiment in self-management called "monte ore": we used the building in the afternoon to organize our own classes and subjects, and, more important, that same "colloborative spirit" was transferred to other subjects.
+
+So, in part to keep me in class (I was always out there doing some political protest which in my case ended up with a long study day in a library on subjects I liked), I was assigned to deliver some class, and had to learn how to deliver (the initial complaints was that I was talking to my classmates as I was used to talk to my younger brother), and of course how to research in libraries (at the time, no computers: paper catalog index and then wait for paper-based books and magazine, maybe sending back what was not really relevant).
+
+Beside what others too had to do (presentation about art history, literature, etc), I also went "solo" on two laws (one about security, one about alternative service to armed services, both new laws), and then was asked by my math and physics professor if I would be interested in delivering presentation on acoustics and music, as well as the physic of... missile engines.
+
+I liked researching further both subjects (I had already a bit of knowledge), and pity that did not have to deliver a presentation on LASER.
+
+All this to say: when I have a doubt, I look for reliable sources, also nowadays, i.e. published books or other material (including YouTube and Wikipedia, of course), looking at those with multiple sources and cross-referenced by other reputable sources.
+
+Works? Well, apparently... better than for many politicians that supposedly have a staff that should shield them from the typical "Facebook-sourced" conspiracy theory, but instead end up delivering occasionally speeches that would be the joy of conspiracy theorists.
+
+And I have no doubt that some of them, in a "circular self-referential mode" occasionally quoted Italian politicians repeating think such as chemical trails and mermaids uttered in recent years within the Italian Parliament as a confirmation of their theory... without realizing that actually, with few degrees of separation, they were the source.
+
+If you are into "Kremlinologist mode", but risk often shifting into "Conspiracy theorist mode", I suggest that you read [Bob Woodward's "Veil"](https://www.cia.gov/readingroom/document/cia-rdp90-00965r000807540002-9) (yes, the link is to a review of a discussion that the CIA itself posted on its own servers).
+
+The concept? Also having two sources, if you do not follow the "lineage" of your sources, might still get you into "circular" confirmation mode.
+
+To make a short (fictional- reality has more layers but the same end result): A says that Z did something; B says that A said that Z did something; C quotes as a source B stating that Z did something; D (you) states that both A and C, unrelated, confirm that Z did something.
+
+Even funnier: a while later, E states that A and D both confirms that Z did something.
+
+So, finding your own voice does not imply mixing fact and fiction, but if you are so inclined, you might actually turn facts and factoids into fiction, as many bored professionals did, some to resounding success (e.g. Grisham).
+
+Personally, I am boring: started scribbling something for fun, then for school, then ghost writing at school after a classmate handed me some of his "customers" (I like researching and I like writing, and it was useful to learn how to write what were then to become "background papers"), then for political advocacy activities on European integration learned how to keep and inject some reference points while scribbling or discussing whatever was the "theme of the day".
+
+In business, even before 2008, assessed the number of pages I wrote each year (considering various versions variants mix-and-match) to over 10,000 pages per year.
+
+Anyway, if you keep writing on few subjects (mainly in English and Italian, but in the early and late 1990s also in French), you develop "patterns", i.e. also your grammar knowledge becomes "codified".
+
+So, that 2008 choice to write for an unkwnown audience actually started in 2007 with few funny elements: I knew I had to learn Dutch if I wanted to settle and eventually work as close as possible, so... started by reading for the first time end-to-end few English language grammars (yes, business English allows to work by "patterns": read a lot, keep writing the same patterns, and grammar knowledge is second fiddle), in preparation of a refresh of my German language knowledge (used mainly passively and to read business documents, again self-taught), as a "gateway" to Dutch if and when needed.
+
+It worked: when eventually saw that all those requests for "French and English" in Brussels for managerial roles really meant "Dutch, also French and English", and was told that I should at least show that I was willing to learn... passed the A2 in one month, and the same day, when I went to register to the Flemish-side employment office, at the end of the interview the interviewer told me that my Dutch undestanding was way above A, as he had talked B-level and more, but obviously when I spoke my German kept getting through.
+
+So, went out an purchased dictionaries Dutch-<versus another language I knew>, including... Latin
+
+And then kept self-studying Dutch up to B2/C1, to be able to read documents and listen to movies, while I still until late 2011 considered feasible settling there (I also translated a Dutch grammar- [you can read about that language journey here](https://nlschap.wordpress.com).
+
+Curiously, it was years before, in 2015-2018, actually that "investment" turned out to be useful, as was able to read documents from Belgium, and support business on BPR activities on a process related to Supplier Quality by starting from... documentation in Flemish.
+
+Yes, I still keep receiving job offers in Dutch: but, frankly, whenever I read (in Dutch) that fluent Dutch is required, I simply forward my latest CV or a link to its online version, and confirm that... my Dutch is firmly passive, for now, but would be willing to recover and expand if and when makes sense.
+
+This digression is simply to share my approach: as 99.9% (at least) of what is on my CV did not derive from formal studies, I have no qualms in stating "I do not know but I can learn"- and, generally, working through word-of-mouth, my experience and key skills were the reason I was called up, as generally there were already business domain or technology experts available, and needed somebody connecting, facilitating, and helping to recover or complete, not yet another vertical expert that, whenever there is an issue, "goes vertical" and cocoons into a specific subset.
+
+It is a matter of orchestration.
+
+Hence, for most of what you read in this article, whenever I had to develop a "narrative" for others (about an initiative, project, product, service), I had first to understand the "available mix", and then understand who would do the orchestration after I left, or if there was any interest in developing "orchestration skills" across.
+
+Despite all the brouhaha about New Ageish teamwork described almost as if it were a ["collective" Star Trek style &agrave; la Borg](https://en.wikipedia.org/wiki/Borg), our current work environment in reality reminds often more Peter Gabriel's song on the the [Milgram Experiments](https://en.wikipedia.org/wiki/Milgram_experiment) (I like the song, but probably it is more useful to watch the documentary ["The Century of Self"](https://youtu.be/eJ3RzGoQC4s)- four hours well spent).
+
+Or: yes, there is a collective thinking that shifts toward groupthinking, but actually the consensus is generated from above, not from below.
+
+Therefore, widespread orchestration skills are really contradicting the real operational culture of many organizations, also if all currently talk of "emergence" as a consequence of our data centric society.
+
+Meaning: remember always to think long-term and what are the "embedded" cultural patterns in some best practices, before introducing them.
+
+Creative disruption is nice after it delivers, but while is ongoing can be... chaotic.
+
+And governance of a complex system is feasible, but if try to turn in zero time a system from structured, vertical into a complex flexibly dynamic system based on self-organization and continuous "emergence" of new organizational postures, you do not need managers, or even facilitators, you need chaos surfers.
+
+Somebody could say that I am an incrementalist: personally, I describe myself as a reformer, as I look not just at the final state, but also the starting state and a transition that is still able to deliver value while transitioning.
+
+In business, my approach to cultural and organizational change (which, in my view, include also introducing processes and technologies that have "embedded" cultures) is built on having, as described above, a "here" and a "there", and then work on the transition, but after having discussed with those providing the mandate their real "here" and real potential for transition, i.e. how each one of the parts affected would be able to cope with demand while changing, and what would be needed to support that transition, and which risks and "indicators" of evolution should be monitored.
+
+If you think that moving from "here" to "there" is a matter of resources and will, and no adjustment will be needed, in my experience you are actually either  paving the way for a disaster, or preparing for significant cost and potential disruptions increases during the transition, and for a while after, and also for a significant "talent release by attrition".
+
+Having talent in house implies also having probably a moderate, controllable level of chaos that allow that talent to express its value and self-realization (as generally talent does not work just on perks and money or medals).
+
+If your system becomes too chaotic, most will lose their points of reference, and the risk is that you will keep only those who have no alternative and will just "coast along".
+
+As discussed above, actually both the typical "cost cutting" (that I prefer to call "cost righting", linking to "righsizing" vs. "downsizing") and "organizational change" (which often is between shuffling what exists and restructuring your prioritization) should start with a "here" and "there", also if often those two elements are underestimated.
+
+When the mandate is e.g. "cut overheads by 25%" (generally- costs that are not linked to how many widgets you sell, or services you deliver), you should also see the overall structural picture: in some organizations, the "overheads" actually are the result of a negotiation, where part of costs and structures that should be actually within the structural costs needed to deliver your products or services, are instead moved outside to improve the short-term accountability of the production or service side.
+
+I discussed a bit of this element above, but the concept here is: do not get carried out with your own narrative, ignoring reality.
+
+As I wrote above, in my "experiments" I am considering also integrating AI- would be silly not to, and this is also a reason why in 2022 added a string of courses on the management side of AI projects/products and, generally, physical-digital engineering, both with and without resources constraints.
+
+Those who attended one of my presentations (including virtual ones) know that I like integrating materials.
+
+Let's just say that my current graphical abilities are limited to "underlining"- if I were to produce a cartoon, would be on the... line of ["La linea"](https://en.wikipedia.org/wiki/La_Linea_(TV_series)), but with much less grace.
+
+In my experiments, instead I saw that, as expected from somebody used to work on coordination and orchestration activities, it does not take that much to be decent in "prompt engineering", i.e. presenting your "case" to an AI chat so that it can provide something useful, and continue on that narrative.
+
+Incidentally: I disagree with those who say that prompt engineering is going to be one of most hot jobs long-term; short-term, yes; long-term... models will become "smarter" at extracting from what you ask a conversational thread that will really deliver the prompt needed to do what you want.
+
+When it comes to narratives, I am good also in business at "treatments", i.e. converting a concept into a short story that covers end-to-end your case, and then in delivery, but I am used to interact with audiences.
+
+Hence, when I move from storyboard to delivery... usually skip the scriptwriting side (also if since I was a kid I was used, for family reasons, to read and reread scripts for theatre or something else).
+
+Therefore, I will probably stick to concepts, treatment, use a visual AI to help in creating faster a storyboard, but either will skip, or enroll others to prepare full scripts, or try developing some (albeit in the past prepared and delivered short scripts, e.g. as part of project presentations and direct marketing, considering the potential reactions of the audience, to be prepared to keep the "story" on course).
+
+As for the delivery, I tested a bit (assuming that was creating a potential cartoon series to use in business, but focusing just on few "frames"), and there is potential to have at least a first draft- but, for the time being, I think that human intervention is still better.
+
+Anyway, for business storytelling, I think that the full cycle is becoming increasingly feasible, and should be able to be embedded soon in publications.
+
+The main reason? Since at least the late 1990s, we like a lot to talk about differentiating business models, innovation, etc, but after you remove the jargon or specific lingo, it is pattern repetition after pattern repetition.
+
+And, as some said, anything that is based on a pattern can be automated- eventually.
+
+Already in the 1990s I remember how often I found in business people who assumed to be creative thinkers, but did not realize how much they actually were part of their own reading, culture, times- and how often they "recycled" elements of all into something that they assumed to be "creative".
+
+Our IPR law current approaches did not help: I wonder how much of our pre-WWII culture would still be feasible if we had had the late XX century approach to copyright and intellectual property, to say nothing if it had already existed in Ancient Greece and Ancient Rome.
+
+Therefore, another area of obvious potential interest is having something less probabilistic and more deterministic embedded in AI models supporting the research phase, e.g. to generate potential scenarios that are credible and can then be discussed by people.
+
+Reason of the "less probabilistic" and "mor deterministic"? Certainly because my AI journey started decades ago with PROLOG, which had a different logic from our current most common models.
+
+And also because I find funny reading some of the "hallucinations" (e.g. when an AI goes creative about who wrote what when- reminds of Borges and Eco with their fictional bibliographies) but, in our current knowledge dissemination environment, quite open to "circular self-referential", the risk is that we end up with reference work and even schoolbooks that contain even more fake or distorted information than they do now.
+
+Only: while our current distortions are really linked to political or other type of bias, the AI-generated hallucinations are potentially more subtle.
+
+It is interesting how the BYOD (use of your own personal devices in your workplace- I published two mini-books on that in the past, [BYOD](byod) and [BYOD2- you are the device](byod2)) now evolved into the potential impacts of the use of generative AI in business to... avoid working.
+
+Personally, I considered a badge of honor receiving this "AI generated" score on one of my recent articles:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20240109_09_system_aigeneration.jpeg)</center>
+
+Each one of the previous four sections of this article could actually be converted into a presentation, but instead will just, eventually, release material that could be useful to implement some concepts.
+
+This article had a simple aim: share

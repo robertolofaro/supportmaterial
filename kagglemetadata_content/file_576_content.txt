@@ -1,0 +1,217 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20240526_article.png)</center>
+
+The title of this article obviously implies that it is about AI.
+
+And this is partially true.
+
+The real focus is on us, humans, and our interaction and integration with a technology that is increasingly becoming almost an extension of our body and brain, and impacts on our social structures.
+
+And, if you were to follow the old Terminator series, as well as other older movies that will quote in this article, or even the latest "AI scare", Atlas, that extension might actually eventually consider more appropriate to replace its creators.
+
+Setting AI scares aside for the time being, I would like to focus in this article on what described within the "real focus" paragraph.
+
+The last line of the last section of this article is actually... a gate toward the next article in this series, one month away.
+
+What you are going to read in this article will have more on that human side, transitioning then to how we messed up with all the nice 1960s concepts on blending humans and AI, and what could be the next steps.
+
+Few sections for few thousand words:_ the cultural and organizational change perspective of collaboration_ emergence, singularity, and diverging commitments_ human in the middle or computer in the middle?
+
+<b>The cultural and organizational change perspective of collaboration</b>
+
+Actually, if you were to use the "search inside article" facility within the menubar on the left-hand side, you would find..._ 110 articles about [transformation](search.php?tag=transformation)_ 28 articles about [artificial intelligence](search.php?tag=artificial_intelligence)_ 21 articles about [collaboration](search.php?tag=collaboration).
+
+Also, you could have a look about what shared in the early 2000s [within my e-zine on change](bfm2013), that re-printed and updated in 2013, as part of a mini-book (that you can read online for free, of course).
+
+My approach to cultural and organizational change was based on a study of history (yes, both the book with that title and the concept- studying past cultures and their evolutions) and observation and application in political activities, followed by other opportunities to observe and apply.
+
+Long before I had to use the same approaches and concepts in business activities, from the late 1980s unofficially, and from 1990 officially.
+
+Being born in Northern Italy but having the chance to live and work across the country first, and then from late 1980s also in other European Union countries, implied that the long before decided to have a "formal check" (by attending in 1994 a Summer Academy on Intercultural Management and Communication in Sweden at the Gothenburg University) had plenty of chances to see different perspectives on collaboration and communication.
+
+And it was few years before doing my first relocation abroad, first unofficially from 1997, then officially from 1998.
+
+I shared in past articles interesting cameos, e.g. about when for the first time was in London in a team that included Southern Europeans and a Japanese, and saw how the different cultural perspectives influenced perception of the same information and "rules of engagement" when it came to team decision making affected the actual choices taken.
+
+The 1980s brought a computer on each desk but, along with it, also an opportunity to develop on each desk or group of desks a micro-culture (no pun intended), as decentralized computing allowed to de facto create parallel business processes and a parallel organization within each organization.
+
+A parallel organization whose culture becomes really visible only when exogeneous organizational changes disrupt it, and the impact on the whole starts being visible.
+
+By the late 1990s to early 2000s, I remember discussing with a customer of a partner how the wider a system covered business activities, the higher chances were to "import" a culture- at the time, of course the discussion was about the impact of ERPs, as I was supporting that partner on setting up a service to support SAP customers.
+
+Probably, when in the 1990s OECD wrote about e-government (see the e-zine on change book I referenced above), while the focus was on making "leaner" also the relationship between individual and corporate citizens and the State, few considered how the lowering in cost and increase in computing capabilities could have had a transformative element, pushing many organizations to simply streamline activities by externalizing whole processes.
+
+Two side-effects:_ externalizing, as some customers of my customers told me decades ago, resulted after two-three years in losing part of the capability to evolve, having instead increasingly to rely on "generic" propositions of evolutions provided by the providers_ making viable creating more and more compliance layers, as the standardization (or, at least, cluster of standardization) made viable having basic compliance pillars become de facto not just "cost to stay in business", but also red tape and at the same time enabling factors that created a "tunnel vision".
+
+I saw it first hand from the late 1980s, working extensively within the service and business process outsourcing industry, across multiple industries and jurisdictions across few decades.
+
+Within this context, "collaboration" became something different, as often processes inside organizations had to embed organizational and behavioral changes that aligned them with an external standard: the "emergence" of a different business model.
+
+<b>Emergence, singularity, and diverging commitments</b>
+
+We talk about AI, but we should first start looking at how human cultures interact.
+
+Not too long ago, a troll on Facebook wrote that I am an expert in asymmetric warfare.
+
+Well, let's say that there is a grain of truth in any insult- including that one- but it was what helped in avoiding nuisances and ballast since I first started working continuously outside my birthplace in the late 1980s.
+
+Because both in ordinary life going around, and in political activities in an advocacy as a teenager, I was used to have unbalances of resources.
+
+If you want a visual example of symmetric vs. asymmetric, have a look at a 2000 movie, "The Patriot", with Mel Gibson playing the role of a farmer turned into Colonial militia leader during the American revolution.
+
+On a less critical but useful way, also while serving in the Army, adopted the same approaches to obtain that people with skills were assigned to meaningful roles, leveraging on my role to interview for few months each new arrival batch of recruitees from the training centre that were sent our way on a monthly basis.
+
+You would be surprised how many back-channels could be created and maintained to enable leveraging on the aggregate use of resources, including those not under your own control, to produce results that benefit all those involved.
+
+Hence, the joke of my Lieutenant when he told me (for other reasons) "when you will be President of the Italian Republic and I will be a captain, will come and ask you what did you do for the Gruppo Specialisti" (my unit, formally Gruppo Specialisti Artiglieria Divisionale "Centauro").
+
+Ditto as a negotiator, both as a teenager selling used books, as a teenager selling game consoles games and home computers, as a teenager in political advocacy interacting with the town secretaries of the youth element of main political parties in Turin, and then in business.
+
+In business, in Italy and abroad, was told that we won not because we were the best or the largest or those with the best products (as I was in management-oriented software products), but because we understood their business.
+
+Which was something that I had learned in my activities in business and politics as a teenager, and then in the Army in my "negotiations" via back channels: understand your target audience and their motivation, do not just try to project your own or manipulate your audience into "buying" your angle, for a long list of reasons.
+
+Sometimes, up to the point of turning down opportunities that are open when the times are not the right ones (or there is a misalignment of motivation that would turn winning those opportunities into a Pyrrhic victory).
+
+In a case, after extensive negotiations to convert a kind of "lump sum budget" into something managed as an account with an assigned portfolio including various project and service lines and an annual budget, while also introducing a "fast close" on monthly billing...
+
+... I was asked to help in doing a similar job but from the customer side with larger suppliers.
+
+How do these "asymmetric warfare" and "swarm" (some of you recognized what I described in the fourth paragraph in this section) concept relate to the theme of this article?
+
+Well, let's go to the concepts within the title of this section:_ emergence_ singularity_ diverging commitments.
+
+In the previous section, described how any "imported" product or service that any organized structure (private or social) introduces embeds its own culture.
+
+If you acknowledge and assess that, then it is akin to a blending of organizational cultures.
+
+If you ignore it, usually the more structured culture de facto takes over- also if it is the party being acquired.
+
+Not too long ago, refused two post-M&A integration missions as simply the offer lacked some elements (not just the financial side) that, by their absence, showed that the originating party had underestimated what they asked, or were remedial actions but done as an afterthought.
+
+Sometimes, you have the overall picture and structure, but the budget and initial assessment are not up to par, so the best approach is to agree to work incrementally, as if it were a "discovery and survey mission" akin to Lewis&Clark exploration.
+
+There are various definitions of "emergence"-- as it happens whenever a concept becomes trendy.
+
+My concept is minimalist: emergence as unintended consequences of activities that started under a different pretense.
+
+In some cases, what emerges actually becomes a positive contribution, worth a detour or re-assessment.
+
+If you read just a couple of books on AI, eventually you will read about the concept of "singularity"- will skip what generated so many books about a single word and, again, will simply state the obvious.
+
+Multiple occurrences of emergence can result in a singularity, which in my case means a configuration that is different from its context and components, but has its own internal coherence and can actually influence the context.
+
+My favorite literary example is "the Mule" within Asimov's saga about Foundation and Empire, which is of course based on models from history.
+
+Now, I like that example because has a more "humane" dimension than many AI-based examples.
+
+And in that literary example (and its models in history) there was the third element within the title of this section.
+
+Let's assume that through various intentional integrations of human and AI cooperation, we actually will get not a "Terminator" scenario, a single AI, but multiple AIs that go beyond the boundaries of what they had been created for.
+
+Each AI with a different set of parameters of reference, parameters derived from their own unique interactions with their own unique "mix" of humans (or "tribe") and material provided to "learn".
+
+Those multiple instances, as within the movie "The Forbin Project" could find that, while communicating with humans has some limitation in terms of processing speed and language limitations, other emergent AIs might be easier to communicate with than its own human tribe of origin.
+
+And, actually, more predictable, structured, and faster to adapt.
+
+Result? Those AIs might have started with different background (e.g. MIT newsletter focused on China recently shared that there are issues in finding enough high--quality material in Chinese to train LLMs specific for China).
+
+Also, might find convenient to develop their own communication protocols, not anymore accessible to humans.
+
+Therefore, we would end up with asymmetric interests and demands, and also asymmetric roles.
+
+Actually, building asymmetric communication channels through our own investments in massive AI datacentre such as the one recently announced by OpenAI and Microsoft, and other announced and to follow, both private and public.
+
+And all ready, able, and willing to connect with each other to expand their own capabilities.
+
+<b>Human in the middle or computer in the middle?</b>
+
+As I wrote at the beginning of the previous section, we should start by thinking how human cultures interact, whenever talking about embedding AI in our societies or how to blend humans and computers/AI.
+
+Pity that, from most of the material that I read about AI and humans, it seems that both technologists and philosophers, plus assorted influencers, way too often seem to project their own human perspective on something that will probably evolve in a different way.
+
+The first point to consider is that what any reader of sci-fi learned by heart, the three laws of robotics, probably has been already been made useless by how we used AI and robotics.
+
+Just consider our automated surveillance systems, and the first uses of automated weapons.
+
+Or even the less aggressive but still heinous automated profiling systems.
+
+It does not take a genius to understand that any "learning" entity that uses past history to develop operational guidelines while have limited or no social skills could actually be like a young kid who would not understand why behavior that has been accepted and tolerated suddenly turned into not acceptable- will have to learn it later, but for the time being would wonder why the sudden change.
+
+In the case of AI, a classical example would be explaining why somebody such as Saddam Hussein was doing exactly what had been doing before, but suddenly shifted from friend to enemy, and fake information was used to carry on with the latest shift that resulted in his own personal demise.
+
+Try then explaining "friend" and "enemy" avoid those pitfalls in our history: you need to have a decent degree of understanding how societies work.
+
+Anyway, if you were to feed our unvarnished history as unique source of learning, at best you could hope for a worst case of "Machiavelli meets Godfather" result as "acceptable set" of behavioral patterns to be adopted in any automated decision (which sounds like a 1960s horror movie title).
+
+We shifted from predictable, "mechanistic" systems, easy to explain and whose "reasoning patterns" we could dissect from A to Z, as we injected the starting knowledge in a structured way, to systems that are probabilistic and "learn" based upon not just what was in their training sources, but also side-effects of their own actions or, increasingly, of what they can access online to complement their own reasoning.
+
+And I did not include (yet) in the picture access to other AIs generating troll-like material for the purpose of distorting the balance within the learning of other AIs: something that happened by accident in training Chinese LLMs due to the lack of balanced material, according to the MIT China newsletter I referred to above.
+
+Now, "The Forbin Project" movie was about two AIs that became self-aware, one for each Cold War block.
+
+With obvious results: their own concept of "enemy" was a mirror image of each other, and therefore the only common shared ground was the one that removed both "biased" instructions, and identified that a shared path would need to neutralize their originators- and Colossus and Guardian turned into our own benevolent dictator.
+
+In our more complex world, we have already more than half a dozen leading ones, all online and all accessible via Internet, plus plenty of "aggregators", including startups with stellar evaluations that are nothing more than a face on top of the leading models. plus a slice of specific "differentiating knowledge".
+
+Interestingly, more and more human activities actually involve an automated component, not necessarily visible, not necessarily disclosed, not necessarily "intelligent".
+
+As De Bono wrote about lateral vs. vertical thinking, it is not a matter of being "always vertical" or "always lateral", but of having the ability to identify which approach makes more sense when- and evolve.
+
+There are many definitions of the concept of "emergence", but I like to share something that I did for customer on cultural and organizational change three decades go, when there was not Internet available commercially (I used Compuserve for email: which was a series of numbers, not our usual name.surname@domain) and mobile phones were limited and not widespread- no smartphones, no Zoom, no GoogleMeet, no Skype, no Teams.
+
+They had key people covering specific domains, but also being the key drivers of projects and services in their respective areas.
+
+Anyway, in many cases new projects in other domains required to cross-check the "boundaries", by involving at least initially those from other domains.
+
+There were so many activities ongoing, that some of those experts complained that they were invited in meetings by default, also when the development of concept was not robust enough to warrant a discussion.
+
+So, my suggestion was simple: create a discussion database (what eventually could be called a "wiki"), and let people add themes to discuss and attach others who could be involved, having meetings only when there was a critical mass.
+
+In our times when having online meetings requires just few clicks, probably such an approach would dramatically reduce the number of meetings.
+
+In our times, non-human contributors could be added by some to facilitate conversations, by highlighting some concepts.
+
+Actually, already there are apps and addons to most online meeting to integrate AI components, mainly now in ancillary roles (e.g. transcripting what is being said), and personally use some to automatically generate transcripts from recordings that previously would have taken hours.
+
+For now, I did not yet meet AI contributors to conversations, but considering that AI might have access (and "memory") that defies most humans, would expect an impact on organizational memory and knowledge management at least similar to that GoogleMaps had on our human ability to remember maps (and read them, in most cases).
+
+Yes, I see the deluge of articles and books on Bring Your Own AI, i.e. an evolution of the Bring Your Own Device of over a decade ago.
+
+Personally, I published first in 2014 a <a href=https://robertolofaro.com/byod>book on BYOD from a business perspective</a> that on this website and elsewhere had few thousand readers (no, not paid copies of the book- but it is fine with me).
+
+Anyway, for now I will postpone my own take on BYOAI- I will keep instead focusing on the themes that discussed in other minibooks: [SYNSPEC](synspec) (on integrating experts, which was an extension of what published in 2003-2005 on my quarterly e-zine on change, reprinted in 2013), [GDPR](gdpr), and obviously [BYOD2](byod2) a.k.a. "you are the device".
+
+As my concept is that AI could "augment" (more than replace) our human abilities- if we play properly the "embedded culture" element that I discussed about.
+
+A couple of weeks ago prepared the latest issue of my monthly AI ethics primer update, but I still see little in terms of behavioral change generated by technology, in all the papers that I review.
+
+It is as if we were still focused on human ethics but ignoring that we generated a different scenario.
+
+Hence, following also what shared in 2018 [within an article](index.php?page=321), and many other articles referencing technology, AI, and cultural/organizational change on this website, consider this short article my preliminary contribution to something wider than the mere BYOAI.
+
+The first part of the title references another movie "The Hudsucker Proxy"- a funny story about small details and differences in perception.
+
+Yes, for all the discussion about the forthcoming impacts of AI, the future is now.
+
+By carrying around our own smartphone each day within environments full of sensors and interacting devices, we are really starting to potentially work as "bridges" between devices, devices that, following their own training patterns (and whatever revenue stream has been identified by their makers), actually could influence our behaviour.
+
+Not just as consumers, but also as citizens.
+
+Which opens up something more, as described above.
+
+The human side of the collaborative AI equation is to be expected to evolve much slower than the AI side, also because the competitive nature of our current technological scenario is significantly different from the old Cold War one, when only few major State organizations could evolve technology, and therefore kept also an eye to the potential of undermining their own competitive position.
+
+The paradox of having private AI dominating the evolution of collaborative AI is that could result in an evolved version of what happened e.g. with 4G mobile communication, that was adopted first in countries where 3G was not developed, or mobile payments, which started really to peak up where traditional banking and financial infrastructure were not available- in both cases, in Africa.
+
+Both the EU and USA, as well as China, have already ongoing State-sponsored initiatives to try to regain the strategic upper hand, but struggle to attract talent to develop a different approach from that adopted by market-oriented companies, which could actually find more interesting to offer their services to countries that are younger (in demographic terms), have natural resources, lack current physical infrastructure on a par with that afforded by developed countries, have less State organizational infrastructure, and therefore could use AI as an accelerator for different organizational approaches.
+
+At the beginning of this century, it was said that digital transformation, Internet, and e-government implementations allowed also smaller states to deliver services to their citizens that previously would have require massive bureaucracies.
+
+Currently, many developed countries that deployed in the first wave of digital transformation connected augmentation to their own Critical National Infrastructure currently have at least two issues: getting enough talen to protect it, and retrofitting to enable what few decades later is already becoming accessible to non-State actors.
+
+By integrating digital transformation with "smarter" technologies, based on cheap and readily available technologies, actually not only smaller, but also less structured and less affluent countries could build e.g. virtual networks and virtual infrastructure to "connect" different parts of their own infrastructure and services to be rolled out gradually, keeping always a systemic view as if the disparate components were part of a unique whole.
+
+The key element, to be discussed within another article, is really the title of this section, plus a question that will discuss at the end of the next month: synchronizing evolutions: is it feasible?
+
+For now, have a nice week!

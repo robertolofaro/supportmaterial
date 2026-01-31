@@ -1,0 +1,210 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20240609_article.png)</center>
+
+
+Yes, this week we had the European Parliament elections- but this article is not about that.
+
+Incidentally: voted today, and by the end of the next week will share another article within my [EP2024 article series](ep2024) about that subject, followed then by a continuation article on the previous [The future is now: an asymmetric scenario on the intercultural side of collaborative AI](index.php?page=576), focused on the theme that closed that article.
+
+Probable title? "synchronizing evolutions: is it feasible?".
+
+And this article? Well, about something that discussed here and there in articles online since 2008, but could be interesting on both "article threads".
+
+We live in a complex society, a society where, to quote an historian, Jay Luvaas, you can intervene on reality only if you understand that it is "an aggregation of details" and "a chain of innumerable links".
+
+As I used to say since decades whenever coaching account, service, project managers, with little linguistic variances related to the context: think in terms of degrees of freedom and identification of the weakest links.
+
+Both elements that require an adequate degree of contextualization.
+
+Which, depending on context and need, might be really self-contained or have to consider a wider range of issues than what a single person might grasp, and require a team effort.
+
+The key elements in this case are, of course, calibration and orchestration.
+
+Professor Luvaas was referring to something and somebody else, but it is quite an adequate description of our society.
+
+Few sections:_ taking for granted reality_ social engineering via structures_ structural integration_ making choices and being made by choices
+
+
+<b>Taking for granted reality</b>
+
+
+If you read previous articles on this website, you know that I like to do experiments.
+
+And also that I like to add a data-side to my publications, both for a single art.
+
+Between others, a couple that would like to use as reference material for this article (you can find a list of previously shared products/projects in various degrees of development from what described in a previous article as "idea to implementation" within the [Organizational Support section](index.php?section=organizational-support) of this website.
+
+Those that I would like to reference are:_ Borsa Italiana, pre- and post-COVID_ political communication in Italy.
+
+While on the former already shared since 2022 a dataset on [my Kaggle profile](https://kaggle.com/robertolofaro), on the latter had to stop collecting material a couple of months ago.
+
+The first project was interesting as required to dig through the financial reports and associated material for few hundred companies (look on Kaggle to see the steps followed and preliminary analysis).
+
+Maybe not your idea of fun, but was interesting to get through plenty of cases that reminded me a 1980s book that studied when was working on Decision Support Systems, in the late 1980s, "Accounting for Growth".
+
+And certainly more useful (at least to myself) that the countless of "tests" that received from Italy, in Turin and Rome but also while living abroad, for over a quarter of a century (basically, since I stopped being based in my birthplace, Turin, notably after relocated abroad for the first time in late 1990s).
+
+The second one implied having to have a look routinely at the evolution of political communication in Italy, both at the national and regional level.
+
+Frankly, stopping having access to additional new material was a blessing in disguise.
+
+The title of this section describes quite well how the communication evolved over the last two months: shifting from reality to taking for granted a distorted projection of reality, equally taken for granted as if it were reality.
+
+When you enter that tunnel, what happens is that unfortunately you start piling up, and communication is replaced by selective research of confirmation.
+
+You enter into the territory of "confirmation bias": as those who start toying on Facebook with conspiracy theories, and, suddenly, it seems that all that they get "informed" or notified about is just... more conspiracy theories.
+
+Try yourself on any social media or website with a catalogue, to "trick" the recommendation engine by asking for a while about something and sidelining everything else.
+
+As in other cases, it can be useful, to have the engine find correlations that you would not think about, but could be easily misleading, if your purpose is searching for information or solutions.
+
+Increaising the noise, not the signal- worth re-reading Joel Silver's book ("The Signal and the Noise: Why So Many Predictions Fail--but Some Don't").
+
+Sometimes this approach is intentional, as the more you are decoupled from reality, the more it is possible to replace it with figments of imagination ("fantasmes", in French) that become the new reality, acceptable only after detaching from the potential interference of reality.
+
+Of course, this is a form of social engineering.
+
+
+<b>Social engineering via structures</b>
+
+
+Building social and physical structures is not the same "art", but both have many points in common.
+
+When I shared project or product concepts within the section organizational support [on this website](index.php?section=organizational-support), each time there was a specific context.
+
+If you talk of structures outside of the context they belong to (or that they represent), you risk getting the same results of the famous < href="https://guardian.ng/life/culture-lifestyle/the-remote-south-pacific-island-where-they-worship-planes/">worshipping of planes identified right after WWII</a>.
+
+The planes per se had their own context (WWII had brought about reaching isles and areas that previously had been simply ignored), but those belonging to the pre-existing context had not been involved in the choices pushing them to the XX century, and therefore used their own "anchor" to develop a rationale about these planes (notably when the planes dropped gifts).
+
+Or so the story go- but will let you look at the extensive debate on the subject between social scientists.
+
+I like to be practical, so will share lessons derived from my own experience in project and activities management since at least 1990.
+
+Also if my first activity management roles, including associated "learning by doing" and mistakes happened well before officially being hired in 1986 by my first employer: funny when you receive formal training on something (in courses or through company material) and you can spot issues or solutions found in the past- helps to "layer" knowledge better than if you had just followed a course.
+
+As it avoids also that "pre-emptive" framing that many who first followed the theory and then had the practice often fall in, as we humans are constantly inclined to look for confirmation of what we already know, but if the confirmation is vs. a "knowledge summary" distilled from experience, without having access to the rationale of that experience, and you do not have other experience, you risk continuously trying to reduce reality to your pre-existing framework.
+
+Hence, in many cases, the need to create a disruption in the structural confirmation bias that "pre-frames" reality and discards details that do not fit that interpretation framework, also if (yes, again) would fit if you were to assess before you judge, i.e. look at information relevant from the specific context perspective, not from the "baggage" that you carry along with you.
+
+Recently I was asked if in my activities as PM, PMO etc did also manage budget. 
+
+As the question was a yes/no, stated yes, as the option "depends" was not available.
+
+Whenever I had to initiate a project (e.g. when the customer asked me to make a proposal on a feasibility study, process, solution architecture, organizational change, or software plus process release), my negotiation started with a definition of the "frame".
+
+I prefer this to the standard "scope" and its associated sibling "scope creep", as many of types of project-based activities I was asked to initiate were of the type where you have a set of boundaries, but the real scope has to evolve, for various reasons that will describe in the second volume of [QuPlan- A Quantum of Planning](quplan).
+
+The "frame" contained also a list of key benefits to be achieved and, if applicable, deliverables, as well as the proposed approach and milestones (content-based signposts across time to check if a tune was needed).
+
+In some cases, e.g. the latest and last organizational change mission that I had over 15 years ago for a long-running customer, this allowed to release part of the budget as the objectives had been already achieved, and therefore one of the usual "cycles" of brainstorming - workshop - planning - implementation was not anymore needed.
+
+If you were to look at my profiles on various professional social networks, e.g. projectmanagement.com, you would see that I "contextualize" my experience: it is always the same, but highlight different elements in different contexts.
+
+For examples, in that website ([as for the others, the link is on my CV page](cv)) highlighted "recovery" and "completion" of projects, but did state little about negotiations or renegotiations of budgets and accounts.
+
+Anyway, when two decades ago a partner asked me, after a negotiation for a merger of our companies that I pulled from due to a conversion from a two-party to a four-party affair, to stay on as a consultant on some negotiations, and then also as account manager to reposition the company and renegotiate plus restructure some accounts, as well as coach staff on some new projects and initiatives, including outsourcing services and some (limited) management consulting to customers' CIOs as part of my role.
+
+My past experience as part of a team long before I started in 1990 to have my own budgets to manage, is that if you have a budget to manage for others, but do not have a clear mandate, your end up being accountable and responsible but then you end up having continuously drains on that budget, such as parachuting of people while other activities are idle or have no budget, critical people removed from your team, or a long list of various elements.  
+
+So, when asked to intervene on those accounts, as shared before went through the contracts, converted multi-project and multi-service accounts into portfolios managed accordingly (e.g. prioritization and de-prioritization), but also did an assessment of the team culture(s) involved.
+
+Aim? To identify what was needed, discuss the scenarios and options with the partner who was CEO of the company delivering those projects and providing those services, agree on the new "frame", and renegotiate the contract plus how the activities were managed onsite and overall.
+
+Including, when needed, holding either one-to-one or team coaching sessions to retune habits.
+
+The visible part were the results, as well e.g. introducing a kind of "fast close" to accelerate invoicing and payments, improving cashflow.
+
+So, social engineering via social structures in this example was done through visible changes (e.g. the contract managed as a portfolio and assigning an onsite "antenna" selected within the existing teams and coached to act as operational interface for the customer) and tuning activities, differentiated on each account (including reshuffling or replacing suppliers and staff).
+
+Anyway, in this case the point is doing such a restructuring while ongoing, and focused on a specific initiative.
+
+A collection of "nudges" within a specific aim can generate intentional and collateral impacts, but can still be managed.
+
+But when you need to cope with the unexpected, you need to go deeper into social engineering, as tossing into the fire mere nudges can actually create a cacophony and add increase entropy, not communication. 
+
+
+<b>Structural integration</b>
+
+
+Europe, long before it became European Union, had already had a long sequence of "social engineering experiments".
+
+So, our current attemps with the national recovery and resilience plans part of NextGenerationEU and the associated Recovery and Resilience Facility I wrote so much about since 2020, are just a confirmation of a natural European inclination to social engineering.
+
+Including, post-WWI, attempts to forestall social organization consequences of industrialization on a larger scale, social experiments that delivered us the likes of Mussolini first, and later Hitler.
+
+Anyway, also "progressive" social engineering experiments often resulted in something unexpected.
+
+In the early 1990s I was personally involved in Germany, and my girlfriend worked as Stadtplanerin in a small town in the Schwaben area, in Baden-W&uuml;rttemberg.
+
+We had met in Amsterdam, and I too had a long interested in both the social and physical side of social structures- including architecture, law, and of course science.
+
+At the time, Germany had already the headache of what to do with the areas left behind by American partial demobilization: as I was to be told again in Brussels, "barracks" were not what I was used to in the Army, as were almost self-contained cities de facto to prevent too much infiltration and fraternization.
+
+Obviously, the more critical issue was integrating also the former DDR, and associated unexpected costs.
+
+Anyway, while going around Germany everytime I went there, and also in Vienna, we went to visit some architectural concepts that were really social engineering for inhabitants, from housing blocks with no social places and no shops, to the famous Hunderwasser in Vienna.
+
+Frankly, the former and its purely functional element made me think of a concept that, almost two decades later, was to refresh again while living in Brussels, via some Yale online courses on political philosophy and history, [the theory of alienation](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation).
+
+Anyway, also in the late 1990s to early 2000s, while living in London and working in Paris, was to encounter again the same issue. 
+
+Back then in the early 1990s, the concept that I was told was that basically were considering bringing back life into those communities. 
+
+I do not know how those concepts evolved, but I remember considering those visits and considerations over the years, while working across Europe and reading about local issues.
+
+Ditto since my return to live and work in Italy in 2012.
+
+Structural integration as a form of social engineering requires something more than adding a meeting hall or few shops, or organizing the occasional "get together".
+
+Over the last couple of years, while European newspapers (notably since October 2023) reported on a daily basis about war events in the neighborhood, obviously other sources were already focusing on what is always missing in most news: analysis of what's could be next.
+
+Foreign Affairs at the end of April released an article with the title referring to the "Forever War" ([see here](https://www.foreignaffairs.com/israel/israels-forever-war-gaza-tom-segev))
+
+As part of my "refresher" on history that might be relevant to better understand, read recently a couple of used books that had purchased long ago but did not have time to read, one on the Iran Irak war, and another one on the Six Days War.
+
+The last phrase of the last page (it is in French, 1968) goes as "the third war of Israel has been the shortest one, but not the last one".
+
+The title of the book is "Israel attacks" (in French), and really picked it up because was curious to see a book with a preface from Raimon Aron focused on this subject.
+
+I will skip a review of the book, albeit is one of the most unusual books on the Six Days War that read so far, and instead will focus on its last chapter, with the title "a logical victory".
+
+You can skip some of the commentary that is son of its times, but it is interesting to read the description of how, at the time, was assessed to work the whole country in the event of war, and how there was a place for everybody.
+
+Probably those few dozens pages are the shortest description of a structural integration that I read so far with reference to its practical side.
+
+
+<b>Making choices and being made by choices</b>
+
+
+The polls in Italy are going to close soon (we are the last one to do it), so I am looking forward to look tomorrow morning at projections.
+
+The projections from other countries already talk about a significant change, starting with [a call for early national elections by the French President Macron](https://www.lemonde.fr/politique/live/2024/06/09/en-direct-resultats-des-elections-europeennes-2024-la-participation-atteint-45-26-a-17-heures-en-france_6238193_823448.html). 
+
+I will post my commentary [within the EP2024 series next week](ep2024), but let's focus, within the context of this article, and specifically this section, on what "structural integration" could mean and imply.
+
+I wrote in previous articles that some said that the model for the founding fathers of the United States was Sparta, not Athens.
+
+If you had read that book about the Six Day war I referenced to above, or the more recent article from Foreign Affairs that linked, you would come out with the same impression.
+
+From a cultural perspective, both the United States and Israel share a varied mix of cultures, with some elements of further cohesion, at least at the beginning of the national history.
+
+There are obvious differences, but in this case I am ignoring them.
+
+It is not an absolute structural integration, as some friend told me that having three people in a room would deliver four opinions.
+
+Anyway, within the European Union we are still far from that level of structural integration that would be needed for all the initiatives that were launched 2019-2024.
+
+Election are choices, but sometimes the boundary between making choices and being made by choices is more a Japanese paper wall than a Chinese wall built of stones.
+
+This year there will be many elections done in various countries that will influence the overall balance- from India to European Union to United States, all will influence also the spectrum of available or preferential choices.
+
+At the beginning of this article talked about "tunnels" built by different types (and levels) of bias.
+
+This article actual0ly should be developed into yet another of my mini-books ([see those published so far](published)), notably the hint about nudges and structural impacts, and some practical elements needed to consider in implementation: but I do not have time right now.
+
+The key element to remember is alway to identify what I called at the beginning <i>"an adequate degree of contextualization"</i>.
+
+If you read again this article, you will see that started with references to other, more wide-ranging material and articles or publications that shared in the past, went onto examples that represented what a methodology called "controlled environment" (PRINCE2, "PRojects IN Controlled Environments"), and then widened the perspective and context.
+
+Good luck with implementation and managing consequences, as those few thousand words above are just an incipit.
+
+Stay tuned!

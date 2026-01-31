@@ -1,0 +1,322 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20240316_article.png)</center>
+
+As you probably noticed, recently started to publish articles once a week (between Monday and Sunday- no fixed day).
+
+The concept is simple: embed into my daily routine- also in preparation of further longer publications to be done exclusively in my spare time.
+
+Let's consider this article a corollary on [Linking heuristics, AI, legacy, and... demographic trends - the case of Italy](index.php?page=547)".
+
+Actually- in two parts, first the conceptual ([on 2024-03-10](index.php?page=549)), and then the structural side (this article).
+
+The key concept is always to think systemically, which implies thinking beyond the now, and, when at a larger scale, also beyond your own time.
+
+Sections in this short article:_ Weltanschauung_ model_ integrating_ threats & choices_ be adaptive
+
+
+<b>Weltanschauung</b>
+
+
+I will start here with the picture contained within the last section of the first part of the article:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20240310_underthehoodoutline.png)</center>
+
+As I closed the previous article:
+<i>"It is curious how technology now is delivering a kind of "layering" that extends the time allotted to each activity that starts with a simple interaction.
+
+Many call this the "age of distraction", but it is more "the age of serendipity".
+
+Trouble is: if all your activity turns into serendipity, then you get a [Wunderkammer](https://en.wikipedia.org/wiki/Cabinet_of_curiosities)... through "emergence".
+
+Which is exactly the issue that will be discussed in the second part of this article, using a "structural" case."</i>
+
+As you probably know, 2024 is a year when the European Union is going to have, beside local and national elections, European Parliament elections, which in turn will result in choosing a new European Commission President- probably one whose charter would include starting a new round of negotiations based on "lessons learned" from the term of the outgoing European Commission, whose term was laced with exogenous crises, and some leaps forward that de facto sidelined subsidiarity whenever expedient- leaving the institutional grudges and debris to sort out for the next term.
+
+Which exogenous crises and leaps forward? Just to make a short "connecting the dots" laundry list (i.e. not the whole list):_ COVID and its impacts_ invasion of Ukraine and its impacts_ first time of joint debt and allocation to nations based on their demands and a central assessment_ energy provisioning rerouting and rethinking the renewable, greening, and nuclear strategy_ bits and pieces of an industrial strategy based on a mix of funding national champions and building joint initiative_ other initiatives linked to what was learned, and often a de facto reversal of the usual decision-making.
+
+No, the "structural case" I will talk about here is neither Italy nor the European Union- but will include a bit of both, as the European Union has some characteristics that could be useful on a larger scale, as shown by e.g. the global impacts of the European data privacy regulation GDPR ([read here the mini-book on the business side of GDPR that published in 2018, and a sample of articles on the subject](gdpr), while as of today published on this website [75 articles where GDPR was part of the discussion](search.php?tag=gdpr)- as befits a website focused on "change, with and without technology" within the XXI century).
+
+Actually, a public service announce: from the next week, every two weeks there will be an article belonging to a new series, focused on the journey to the European Parliament elections and its resulting key milestones (first session of the European Parliament, appointment of the European Commission President, appointment of the European Commission portfolios, etc).
+
+It is nothing out of the ordinary (for my standards): over fifteen years ago, prepared and then created a website called "DirittoDiVoto.Com", as was at the time resident in Belgium, and we Italians started having the right to vote from abroad via mail, but I saw that information was scarce.
+
+Then, when in 2012 I had to re-register in Italy to live and work here (not my choice, but consequences of Italian disturbances in Brussels since 2005, that resulted in having to leave in 2008 the very first temp-to-perm role in Brussels, as until 2008 I had to phase-out all the other activities around Europe, and my plan was to settle in Brussels), I simply continued to follow the election cycles I was involved in, be it European Parliament (2019), or assorted local and national elections in Italy.
+
+I saw how many readers still look at articles about previous elections whenever there is a new election in Italy, hence I assumed that would have been a good service to make those more easily accessible- hence, <a hreF="index.php?page=550">added a new feature on the website</a>.
+
+That "wheel" that showed above and discussed in the previous article represent both the structure of this article and the "viewpoint" that adopt in activities.
+
+While in the previous article discussed the "conceptual" side, in this case will focus on the "structural" side.
+
+As an example of a continuous stream of "structural assessments", i.e. "where we are" but with an obvious framework of reference and a look at the context outside your own organizational boundaries, you can have a look at what has been part of my [weekly update on the European Central Bank's communication](ECBSpeech_index.php), specifically the audio podcast that started in 2019, which has more a "storytelling" side than any other elements within the official communications, [the ECB's Podcast](https://www.ecb.europa.eu/press/tvservices/podcast/html/index.en.html): interesting, as it has a mix of voices, depending on the specific domain(s) involved in each "episode".
+
+Now, this short section was really to explain what would be the structural side of the starting point, but there are more elements to consider, before you can shift to actually building a model.
+
+
+<b>Model</b>
+
+
+Few week ago was asked at a pub in Turin by a former customer from 2015-2018 if my business experience had been all in automotive.
+
+I replied that I have been a curious mix, as actually my two main business domains since the 1980s have been banking (on the organizational, systems, business-crunching side, in various countries) and automotive (eventually, across all the domains (mainly across different companies and business units of the same group, on different missions from 1986 until 2022).
+
+I did not discuss my prior political and Army experience, or how, from the late 1980s, used both that experience plus what I had learned in my first automotive (procurement) and banking (general ledger) projects to "feed" activities in decision support system models for customers, working face-to-face with senior management, financial controllers, etc- an unusual mix for somebody in his early 20s, insatiable curiousity and learning willingness.
+
+I think that for each project I purchased at least a book or two to complement what I found in Andersen's library, and understand the "lingo" and numbers specific for each customer and domain, plus, after the mission ended, to "cross the Ts and dot the Is" on what I had learned.
+
+Why did I give a short reply? It was a direct question that expected a short direct answer, not a presentation of what is anyway available also in my [summary 2-pages CV online](cv).
+
+Anyway, that "mix" of business and non-business experience (plus other activities I shared a bit about in the past) helped to consider the "communication" side of any model (e.g. [in Italian you can read for free a serialized book that published a decade ago](strumenti)).
+
+If you search this website [you will find as of today 89 articles](search.php?tag=audience) referencing the concept of "audience".
+
+Yes, a decision support system model is not just a matter of representation of reality, or a collection of formulas to replicate or implement a "pipeline" from data to results or forecasts.
+
+It is also a communication tool.
+
+In some cases, the mere existence of a model can generate rumors and alter the very behavioral patterns that it is supposed to monitor.
+
+Call it Heisenberg or Hawthorne, but we humans when considered collectively or in a group, are influenced by observation- positively in some cases, negatively in others: it is up to the observer to understand the impacts and try to minimize or maximize influence as much as needed.
+
+Hence, in some cases, the choice was to collect only data that were already provided, as the point was to obtain a "macro" view of ongoing behavioral patterns across the organization and the linkup with performance, before altering not just the model, but the formal side of behavioral patterns, organizational structures, and of course number-crunching that produced the numbers "absorbed" by the model.
+
+Again, it is the cycle you saw above: often, a first model based on what exists or is assumed to exist (in terms of data and decision-making steps) allows to make reality "emerge", and on this reality some "tuning" is feasible- not just within the context, but also generate new model iterations, that gradually result into an "augmented" version of both the model and the context.
+
+Why an "augmented" version of both? If you ask for additional information to use in your decision-making, it is just obvious (not just in Italy) to expect that some rumors will go around about the "why" of that request- no matter what you say officially, if the results are then not transparent, some "castles in the sky" will be built.
+
+Not just in Italy, where we famously find an hidden motive into anything- so often, that an American colleague told me once that, if I had used "dietrologia"  (an evolution of "cui prodest" from Ancient Rome times) in the USA just a fraction of the time that was needed to use it in Italy, he would have been confined as a paranoid; in tribal Italy, not doing it implies... naivet&eacute;.
+
+Generating some interesting adaptations of behavioral patterns within organizations after you just ask to present data in a different way, also if the content is the same.
+
+Now you understand why in the late 1980s, when asked to follow Andersen's methodology in my model activities, focused on two elements that were considered "emerging" but marginal at the time, the "iterative development" and the part focused on product selection and post-production product support for software packages: it was also based on my experience in political advocacy and improving office work activities while in the Army.
+
+I know that many assume that "revolutionary" changes are often needed, but now at 59 (well, in two weeks) as well as at 14 I considered that "revolutions" are an escape route, as do not let time to make changes be diffused and "absorbed into reality".
+
+At 14-15, my concept was that revolutions change the players, not the tune (was playing piano at the time).
+
+Instead, to be "paradigm shifting" in reality, I think, now as then, that you need patience and "layer" changes, so they shift into the "new normal".
+
+Some resistance is to be expected, also without "dietrologia" (in this case, the expectation that an organic, minimal change with limited evolutionary impact could actually be the seed of more hominous changes)- and sometimes there is a need to generate successes and show that the change is there to stay, to actually get most accept the change and introduce it.
+
+Structural change that generates and implements a new model requires time, and once in a while change requires Draconian choices to notify that times are changing- but Attilla the Hun and many other conquerors who crushed opposition instead of converting it did not build a lasting empire: remove them, and the structure will break apart.
+
+It is a matter of building cathedrals which evolve, not 3D-print them following a pre-designed blueprint.
+
+So, a structural side to a model is to consider long-term, not just "low-hanging fruits" or "quick wins".
+
+Those short-term successes are part of communication and building (and sustaining) motivation or defusing opposition for opposition sake, but should be used with care.
+
+If you try to build a model by collecting just quick wins, you end up with what I described in the previous article as a layering by serendipity.
+
+So, it seems a "catch-22": you cannot really design a useful model that is built on an universal blueprint decided beforehand, and you cannot obtain a useful model by simply collating quick wins.
+
+A mix of both sides is needed, to generate sustainable change that becomes organic, instead of moving from crisis to crisis.
+
+Hence, again, the "iterative" (quick wins) and "incremental" (integrating into a structure).
+
+In the next section, will discuss the "integrating" side- but being on the structural side, there is a couple of elements worth sharing here.
+
+If you look beyond the mere boundaries of your own organization, and look at the overall context, there is something more to consider, before you start a journey: reality as it is now but also as it is expected to be.
+
+I will share here what I posted few days ago on Linkedin:<i>"
+I routinely wrote about that in the past and shared the concept both in articles (e.g. discussing Italy and Turin, my birthplace that used to be a company town in automotive and all that that carries along- https://robertolofaro.com/index.php?page=534 in November 2023), our population mix is changing
+
+hence, I still find puzzling when I hear some discuss about attracting investors to set up shop locally with labour-intensive activities (forgetting that future factories will require less hands, more intelligence, and more collaboration and coordination... between fewer humans and more machines and AI)
+
+even more so, when presenting the business case as a future opportunity, forgetting that, considering the demographic trends (the average age in Turin is well over 40, and the average age in Italy for civil servants is well over 50), to make that opportunity viable, we would need to increase for now attraction of a younger workforce from abroad, and make our socio-economic system family-friendly (to keeep it young in the future)
+
+otherwise, it is not just due to the "friendly- and re-shoring" initiatives that our de-industrialization in Europe will continue
+
+but also to the quest of the availability of a viable and highly (continuously) educated workforce over the next couple of decades at least (then, probably more and more work could be done by smarter and smarter machines with less humans-in-the-loop in many machine-to-machine supply chain and manufacturing activities)
+
+which, from this map, could be anywhere but Europe
+"</i>
+
+Supporting that post was this picture:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20240314_popgrowth_site.jpg)</center>.
+
+In that post, I was being softer on reality: as shared in previous articles, a significant chunk of the civil servants is approaching retirement age, at a time when there is a massive injection of technology that would actually require a continuous reference to expertise and experience on what could be the impacts of each and any integration.
+
+It is not just Italy that is complaining about de-industrialization- and today received a post about the new line of humanoid manufacturing robots integrated by Mercedes-Benz within production lines.
+
+Half-jokingly, I shared on WhatsApp with others that, at 5'8" and with a weight-carrying capability of 55lbs, I share the same physical capabilities- I do not have led eyes and lack a chest screen, but that could be arranged.
+
+Out of joke: if you build a 4.0 or 5.0 factory now, you have to consider the return on investment across probably few decades where the factory will see a routine "evolution" of technologies- i.e. a factory build in the 2020s is not a factory build in the 1920s.
+
+The Lingotto factory in Turin that was told to have been appreciated also by Le Corbusier is now a shopping mall and exhibition centre, with a garden and helipad on the top that still retains signs of its industrial past, from a spiralling track linking floors, to high windows with a central "nave".
+
+Future factory would not necessarily be fully automated, but would probably have a smaller human workforce interacting with humanoid robots in some areas, leaving humanoid robots to interact with production (and potential hazardous) highly efficient robots where things happen at a pace that we humans could not sustain, e.g. for a future manufacturing that would have just customized products (from cars to pharma to finance), structurally linked to a specific customer but, of course, assembled from standard components, with minimal non-standard customized parts that are produced with reusable or recyclable materials and parts.
+
+Which could e.g. wipe-out the "used" side of the market, as simply products would be continuously re-processed to convert into something for a different customer, minimizing the actual waste or even the "grind to recycle" (i.e. obtaining raw materials from existing products).
+
+Anyway, it is already happening with fashion: I remember reading recently (and sharing on Linkedin) relatively often posts from those working within that industry stating that the current fashion is so much produced to be "consumed", that a larger-than-expected part of what is donated for reuse or recycle ends up as trash, as it is simply not possible to recover, repurpose, refresh, and resell.
+
+Recently followed remotely a workshop in the USA (see the [link I had posted Linkedin](https://www.linkedin.com/posts/robertolofaro_failures-in-social-systems-converging-biological-activity-7171421449499394048-0SIY?utm_source=share&utm_medium=member_desktop) if you want to access recordings and slides) on "Failures in Social Systems - converging biological, behavioral, and engineering insights" from the National Academies of Sciences, Engineering, and Medicine.
+
+So, building a structural model should consider structural constraints, and the degrees of freedom really available.
+
+The shorter possible summary of that workshop was a phrase uttered during a panel: <i>"I do not want the system to tell me what to do, but I want the system to tell me if what I am about to do makes sense"</i>
+
+And this brings again the <i>"integrating both the exogenous element and your own context- but working on something more than a mere conceptual integration"</i> that discussed before.
+
+
+<b>Integrating</b>
+
+
+In my first banking project, we were supposed to shift from Turin to Verona as a team, joining an existing larger team to complete the new General Ledger for a major bank.
+
+In reality, I had to stay back in Turin on the automotive procurement project to help prepare for the system test, as I had been first developer on the "core" software component (basically, a program that "scored" suppliers' invoices to propose which should be payed without further ado), and then, due to to that knowledge of all the flows entering the system from other sources ("scoring" implies having multiple information "packages" about present and past from various sources), had also worked as business analyst to provide analysis to other software developers- including others with few years under their belt.
+
+So, while the other members of the team who arrived in Verona had a week or more to be indoctrinated on the status and design of the system, I was welcomed by business analysts with something on the line of "for you half a day will be enough"- and was given all the analysis for all the system to review and digest.
+
+Then, started working on parallel roles: both as developer and to help the manager coordinate and report status, while doing also quality assurance and quality control, before doing what is now called PMO, and eventually being shifted to the customer's data centre nearby Turin to act as "resident" technical interface toward the customer's IT, organizational development, accounting department, and... "Cerberus" toward my colleagues.
+
+I sounded sometimes as the accountant in Spielberg's "Munich", as routinely asked for proof of execution of tests, receipts, forms with the information needed to discuss with the IT and scheduling staff the impacts and where/how, etc... a kind of "I want receipts" in that movie).
+
+Anyway, more role was to filter and avoid introducing instability in the system that we were releasing and at the same time implementing for the customer.
+
+Was funny, at 22, working late in the evening after dinner with the Chief Accountant of one of the largest Italian banks, and then being told that he trusted me and I would receive each evening after dinner data he reviewed after the branches closed in the afternoon, and I would have to do what he had done together, with a guard posted outside the door to ensure that nobody else entered the office.
+
+Seeing few hundred billion liras converted into names, surnames, businesses was a significant paradigm shift on "integration" of reality with numbers.
+
+Yes, I still do remember some names and associated numbers, but never disclosed then, never will disclose now: I did not really need decades later to sign that form in Switzerland stating that would get 100k CHF and 18 months in jail if I were to disclose data about individuals.
+
+First in political activities, then in the Army in my office work activities, in both cases had to listen to many- in the former case as was needed to actually cover my advocacy role, in the latter because the Italian Army, in 1985-1986, was still based on conscription (I was serving my 12 months), and therefore each one of those called carried along a personal history and often zilch motivation, while we did not have external service companies providing cleaning, cooking, security, etc: hence, we had to schedule services.
+
+This apparent digression is actually to discuss a side of integration that is often forgotten at a structural level: contextualizing an ethical framework.
+
+In that banking project in Verona, the management was mainly from the American side, and I saw something that I almost never saw in future activities (albeit those working with me know that I routinely liked to share knowledge, as I had done in politics, at the University, and in the Army).
+
+We had a routine of having people expert in various functional domains coming and giving us a kind of "quick workshop and brainstorming".
+
+The idea was to present on a specific subject, and then having a Q&A (sometimes the interaction was across the section).
+
+One session that kept in my mind was an actuarial and banking perspective on life- many of my "classmates" found it funny, but, probably due to my prior political experience and listening each month to about 20 new soldiers dumping their problems to the "confessor-furiere" (in the Army, I let an off-regulatio multi-colored beard grow, so I had a guru-like look), I had a different perspective.
+
+The core of that presentation was to show the lifetime of an individual in terms of security and financial needs as seen from an insurance and banking perspective.
+
+The curious element was the assumption of doing this or doing that at each age: when to study, when to have children, when the children were to shift from toddlers to generating new financial needs, to then leaving home and shifting during the transition, to shrinking down of need after they left, to retirement, etc.
+
+Yes, it was a "one size fits all" lifemodel, and was as chilling as, in my first insurance project (working through a long negotiation and design phase between 1989 and the kick-off in January 1990, when, in my day on the job, was asked... to go and present the project).
+
+The project was of course yet another decision support and model affair, but the datarecord contained something that sounded as if taken from the Old Testament of the Bible: number of limbs lost by type, number and level of injury up to death, type of events, etc.
+
+So, whenever I had to work from 1990 on change in organizations, or integrating technologies, I had those two images in my mind, along with a habit to asses the context.
+
+Example: when I had to work on proposing how to manage a technological transition resorted first focus on the analysis, which was an application of concepts of risks and [triage](https://en.wikipedia.org/wiki/Triage) that I had derived from medical science (respectively reading about risk and epidemiology, and listening plus reading about the issues in emergency care during crises and in history).
+
+The analysis per se should be "neutral", and fact-based- but its communication is something that should consider the context.
+
+Integrating any change, technological or not, implies altering an existing context.
+
+Any change should be introduced in a way consistent with the organizational culture that your organization developed- unless you want to force a change (e.g. in preparation of selling the company or some of its units, or to clean up the house before buying other companies).
+
+The structural side of integration runs the risk of being lost in political expectations (which exist in any organization large enough to have concepts such as roles, promotion, hiring, firing).
+
+Next week will discuss this structural side on a specific case- the European Union.
+
+Anyway, for now, would like the share the "structural" approach, and then give examples.
+
+To summarize the approach that usually followed (with few, contextualized variants):1 having an initial idea of "why" the integration is seeked2 assessing the real status- and converging on how and when communicate about it (audience-by-audience)3 assessing the real current status of each component to integrate- and identify any "buffering" needed4 roadmap (not just plan) the integration5 execute and monitor integration steps6 assess results and then review any amendments or updates of the above steps from 1 to 4 (and the approaches used for 5 and 6, if needed).
+
+Admittedly, in an ideal world step 1 would be executed only once.
+
+In reality, the more complex the integration, and the larger the number actors/components previously not integrated, or integrated under a different framework, the more each integration introduces changes that might require "tuning".
+
+Also because reality has that annoying habit of interfering with any plan: if you had done, say, your planning two years ago, there might be business or regulatory changes that demand adapting both your initial "why" and your roadmap for integration.
+
+Furthermore, integrating new actors/components might result in unexpected variances, that would require further "adjustments".
+
+If you carried out correctly steps 1-2-3-4 the first time, usually "adjustments" would affect further integrations and the roadmap, not the "why" or what has already been integrated.
+
+If the purpose of your integration is really replacing something existing with something different but without altering what is not being replaced, this implies actually pre-adapting what (or who) you are going to integrate into the existing organization or system...
+
+...by making them aware of the existing expectations upstream and downstream.
+
+No rocket science, frankly- simply, you have to:_ assess independently each component_ define communication approaches: who communicate what where and how_ delegate but integrate, i.e. orchestration.
+
+As you probably noticed, I did not use three concepts often used in these cases:_ leader and leadership_ stakeholders and stakeholder management_ hierarchy and reporting line.The reason is simple: since the 1980s I worked in activities that involved multiple organizations, technologies, and also purposes.
+
+Also: both internal and external stakeholders (including sponsors), as well as all those involved with delivery are "audiences", each one carrying an organizational/tribal culture, expectations, motivational key points, etc.
+
+Many of those who talk of "stakeholders" imply a manipulative element in communication, and often seem to consider those involved with delivery (on any side- both business and operations or technology) as "automaton"- ending up generating feed-back (overt and covert) when what would be needed is proactive communication on issues and potential issues, as well as associated and proposed solutions.
+
+In such an environment, the risk is always that some, assuming to actually deliver a benefit, commit to a solution path that has not be shared with those who would have the competence needed to actually implement it: generating entropy, not reducing it, while also undermining their own credibility.
+
+Both for new initiatives, completing existing ones, or recovering (sometimes phasing-out) something that had not delivered the expected benefits.
+
+
+<b>Threats&Choices</b>
+
+
+While most of the focus was on the organizational structure, what really helped was usually having clear "boundaries of competence" and "interfaces", and listening more than micro-managing or barking orders (in voice or emails).
+
+Then, letting within each set of "boundaries" freedom to organize how they saw fit, but provided that:_ gave early warning if they assumed something could generate issues_ routinely get in touch to see how to move forward and if anything unexpected had happened_ jointly solve the issue- sometimes one would lead, sometimes one would follow.
+
+The only critical point? External communication had to remain aligned, but the internal operational lead had to shift, while orchestration kept it all coherent.
+
+Again, not rocket science, but acceptance not just of failure, there needs to be something more.
+
+An integration, even when it is the 11th time you do it, implies adapting and interfacing with unknown elements.
+
+When I wrote in the previous section of the potential need to "buffer" was referring to both the organizational standpoint and to build boundaries/hamornization between different approaches adopted by teams not necessarily used to work together.
+
+It is a matter of risk management: if, instead of trying to build a huge megateam where everybody is linked to everybody else, you adopted a "boundaries" approach, it is easier, through that "buffering" and orchestration approach that described above, to identify and pre-empt potential issues, and have anyway each team not affected continue, while cross-team solution finding allows to keep harmonization and progress, jointly identifying activities needed to recover delays or adapt to changes.
+
+A traditional hierarchy would only result in too many "alignment meetings", when actually really some teams could proceed and just be kept aware (e.g. by one of their team member being part of a solution to help another team recover).
+
+Turning this approach into a structural approach implies another set of choices: _ any new initiative should start with an "induction training" _ the aim is not to indoctrinate, but to build communication_ if needed, the teams involved within the initiative should be a "bubble" within the organization.
+
+The latter is something that saw repeatedly since the early 1990s in various environments: the more critical or visible is an initiative, the more the need to build a "bubble" focused on the initiative, leaving, as I wrote above, the communication to specific channels, to avoid interferences and, again "buffer" toward external pressure.
+
+Of course: the more time is expanded, the less such an arrangement is feasible.
+
+Hence, in most cases, I saw that actually building an integration roadmap based on "boundaries", both sequential (one after another) and parallel (i.e. with a further integration step to "connect the parallel dots"), i.e. with reasonably frequent releases and synchronization points toward a specific goal, is useful not just in the decision support systems projects I worked on in the 1980s, or my management reporting/KPI/business intelligence/datawarehousing projects in 1990s, but, as proved in the 1990s and 2000s, also in projects focused on cultural and organizational change or improvement.
+
+From 2008 until 2022 I had other projects (for customers, partners, and also non-profit) where the same approach produced results.
+
+It is a matter of choices and continuous "threats" identification and monitoring- not of brute force or continuous pushing-and-pulling.
+
+Therefore, the "structural" side of this "threats&choices" section is just a matter of having defined "rules of engagement" that are clearly communicated at the beginning of the initiative (as was e.g. in the early 1990s in my longest cultural and organizational change initiative, to design, deliver, introduce a methodology within a banking outsourcing/BPO company), and then resisting temptation, whenever there is a minor or major crisis, to "shortcut- just this time an exception".
+
+
+<b>Be adaptive</b>
+
+
+The approach is flexibility within coordination in a shared framework, and reconciling everything within the purpose of the initiative.
+
+It is in German (use translate.google.com if needed), and focuses on automotive, but I think that <a href="https://www.automobil-produktion.de/produktion/die-trends-des-lean-managements-in-der-autoindustrie-731.html?emi=bnEJQDE4UL&utm_campaign=2024_03_12_AIT+Update-NL+AIT+Update&utm_source=daily_newsletter&utm_medium=email&sc_src=email_6114529&sc_lid=236442014&sc_llid=1476&sc_uid=bnEJQDE4UL&sc_eh=fc9036e6bb7e32c11
+">this article</a>, a summary of "lean management" trends within that industry, could be useful also to others.
+
+Incidentally: as outlined within the linkedin post that shared above, about demographic trends worldwide, also if you believe that the current wave of "electrification" within the automotive is a transition toward more sustainable approaches (e.g. hydrogen), looking at this picture you can see how the market is evolving:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20240313_bev-market-share-2023_web.jpg)</center>.
+
+Are the current champions just current, or are seeding the future? And what will happen to all those "gigafactories" that have been built or are on the drawing table, few decades down the road?
+
+As shown by Italy and its contraction of manufacturing, each major industrial site (in Italy, in the XX century, generally up to 1970s) implied a significant investment in infrastructure and re-routing of activities- investment that was sustainable only for as long those sites were involved in manufacturing.
+
+The lesson learned e.g. in Piedmont is that if you let sites slowly fade away across decades, then, even if you find interested parties who would like to repurpose the sites, it might become complex- as any site would take probably years before is not just again structurally adequate (e.g. utilities) for production purposes, but also you have in place all the services needed to support a sudden influx of workers, notably if they are foreign workers.
+
+Because that Turin got older across decades implies also a contraction of support services such as those needed by younger parents who either have or would like to have children, and this is even more relevant if you want to attract activities from countries where those services are either free or more easily accessible.
+
+When I read investment attraction documents presented by Italian locations sometimes look to me as focused on "stop-gap" measures, assuming that just because the focus is offices or factories, what is around does not represent it.
+
+It was decades ago that Kotler published a book with the title "Marketing Places", where outlined, as usual, case studies about what towns had done to attract (and retain) jobs.
+
+Investment attraction should be a "package deal" involving both local businesses and local authorities, and not just packages of subsidies, to "generate roots" for whatever you attract.
+
+The key anyway is to start looking before the infrastructure starts decaying, and to remember the human side of supply chain, as called it within a November 2023 article [The human side of supply chains: adapting to a changing social structure #Italy #Turin #automotive](index.php?page=534).
+
+The same applies for the future: introducing structural changes implies accepting also changes within the socio-economic structure, and focusing not just on buildings, technologies currently trendy, and amenities- but also on which physical and human infrastructure would make both sustainable.
+
+There are other concepts worth referencing, but, as I wrote in previous articles, the concept of "agile" I found that it is too often focused on the "rituals" and "orthodox", almost Zealot, implementation- without first building a shared framework of reference that should contextualize that tool.
+
+Because while tools carry their own constraints, tools within a human context implying adapting before adopting.
+
+And, unless you build a shared framework of reference, no amount of Zealots (on the method, on a specific concept or tool, down to Powerpoint Zealots that feel the compulsion of having at least dozens of slides) would efficiently deliver, or bring about the level of efficacy needed to actually implement change (and seed future change).
+
+So, I think that I rest my case outlined in the very last paragraph of the first part of this article, [Under the hood: best practices, transformation, and Weltanschauung in data-centric and AI times- part 1 conceptual](index.php?page=549):
+<i">the sections of this article would require probably few thousand words more each to discuss the theme- but consider this first part of the article an introduction not just of the second part, but of other publications that will follow"</i>.
+
+Have a nice week.

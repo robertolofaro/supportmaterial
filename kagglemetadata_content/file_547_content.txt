@@ -1,0 +1,673 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20240222_article.png)</center>
+
+The title of this article seems a "catchall": heuristics, legacy, demographic trends, AI...
+
+... "embedded" are only digital transformation and green transformation- which instead are the two key components of post-COVID EU Recovery Resilience Facility and other initiatives associated with NextGenerationEU.
+
+Actually, some of the concepts that you will find within this article have already been shared online since the first 2003 issue of my old quarterly e-zine on change called "BusinessFitnessMagazine.com"- the 2013 reprint [can be read online (or downloaded as PDF) for free](bfm2013), or purchased as a low-cost paperback on Amazon.
+
+Still, what shared in the early 2000s was already back then based on what I had learned from books and observation of cultures long before I was in political activities, in the Army, and then started officially to work in 1986.
+
+Learning patterns, notably language or behavioral patterns, is not just a matter of "collecting and collating" what you read or observe.
+
+You have to integrate them within your own personal (or organizational) toolset, through what can be called "experiments", "pilot projects", "minimal viable products", "feasibility study and prototypes", etc.
+
+And those who worked with me since I first registered a VAT in 1990 know that in between missions, or, when I was a full-time permanent employee, I keep doing experiments in my own time and with my own money, to keep improving.
+
+Example: last time I have been a permanent employee was as a senior project manager and then cadre for the Italian branch of a French company, 1990-1992.
+
+Yes, my first VAT in 1990 lasted for half a year, to work with customers on cultural and organizational change, and experimenting on the ground business software selection for corporate customers and also universities, in domains that did not know and therefore had to develop an approach to "hit the ground running", recycling the approach that I had developed to design decision support system models across a variety of industries.
+
+My previous employer, from mid-July 1986 until mid-January 1990, had been a first a Wang then a PC environment (e.g. for decision support systems development I was given my first "luggables": a Compaq "brick", and then a 9kg Toshiba 5100 with a color plasma screen), and when I left I actually purchased for myself an Olivetti M15 ([mine was slightly different from this one, as it was an M15, not an M15 plus](https://it.wikipedia.org/wiki/File:Olivetti,_primo_computer_portatile_M15,_1987_(fond._natale_cappellaro).jpg)).
+
+It came with two 3.5" floppy slots, and to be portable... used as a printer a Philips 4-colors electronic typewriter and printer, which could be used both stand alone and connected, that I used it to print material for courses on "soft skills" and project management that shared few articles ago, so that I could avoid writing by hand slides for overhead projectors (basically, a transparent acetate sheet where you wrote with colored markers and then put on top of a lamp that projected through a lens to a wall or a silver screen- you can still see it in movies from the 1970s-1980s).
+
+My French employer instead used Mac Classic computers for office work, and whatever was needed for software development and delivery (they sold business software packages).
+
+Hence, as I was focused on developing and selling methodologies and associated change services (from off-the-shelf to customer courses, course curricula, and workshops, to feasibility studies and advisory on projects or other management consulting activities), I had mainly to prepare material that was then to by typed by secretaries- and drafted plenty of letters, faxes, etc.
+
+With a catch: as I was always travelling, also when the company gave me an apartment in Milan nearby the Bocconi University, and just few hundred meters from the office, I was also given the office keys, so that at night, returning "home" from a travel and before leaving the following morning... 
+
+... I could get in the office and pick up messages or documents, and drop documents and drafts.
+
+Highly inefficient.
+
+Mind that, in 1990-1992, we still had no GSM, almost nobody used email (eventually got one personally via Compuserve), and faxes or paper and fixed line phones were the routine.
+
+So, out of my own pocket scouted around, and found an Apple Powerbook 100- which was basically a Mac Classic converted by Sony into a portable computer much lighter and smaller than any of those I had had before.
+
+Then, shifted to leaving 3.5" floppy with my drafts, so that logos, etc could be added, printed out, signed- and I could draft also documents and slides while going around Italy by train.
+
+Then, after few issues with response timing (if I was the other side of Italy, it was awkward each time to ask customer permission to call or send/receive faxes, and also there were issues of confidentiality)...
+
+...added to my Powerbook 100 something called "fax/modem card": it was sloooow, but cut out of the loop delays, standing beside a fax machine at a customer office or printing office to avoid others reading it, etc.
+
+An apparent digression, but it is functional (and hopefully funny) for the purposes of this article.
+
+Meaning: you have to develop something that might not be perfect, but still help with a reasonable use of resources within a reasonable timeframe to deliver a result.
+
+And this requires two things: time to focus on identifying your priorities (something that might require going through few rounds, as in my practical example above), and investment of actual resources.
+
+In our times, often we do the other way around: we invest in whatever is trendy (e.g. AI), and then discover our priorities.
+
+As our current technologies have a significant impact on corporate culture and, potentially, also corporate identity, I think that the old approach of starting small, and then developing/revising/reconsidering is better than trying to start with a mini-"Big Bang" and then add further "Big Bang" steps: even the [Project Orion](https://inference-review.com/article/reflections-on-project-orion) from Dyson that planned to send ships in space by exploding micro-nukes had a step-wise approach to amend, tune, and accelerate, not just a "Big Bang" as in a [Tzar-style 100Mt nuke](https://en.wikipedia.org/wiki/Tsar_Bomba).
+
+From our friend [Wikipedia](https://en.wikipedia.org/wiki/Heuristic): <i>"
+any approach to problem solving or self-discovery that employs a practical method that is not fully optimized, perfected, or rationalized, but is nevertheless sufficient for reaching an immediate, short-term goal or approximation. Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution. Heuristics can be mental shortcuts that ease the cognitive load of making a decision.
+"</i>
+
+The discussion within this article will have a wider scope, but the starting concept is that one.
+
+I will use some examples referencing past articles and posts that shared on Linkedin, so that you can, if interested, expand (following links within those articles and posts, not just reading what I wrote).
+
+As usual, few sections- and this article will be "intensive" on contextualization:_ look at the wider picture, and thinks to cathedrals_ the impact of demographic trends- the example of Italy_ the link between legacy and heuristics_ the twin transformations and reality: lessons from Y2K_ why AI requires both explainability and wisdom_ moving forward: again a data-centric society issue
+
+
+<b>Look at the wider picture, and thinks to cathedrals</b>
+
+
+You do not need to wait to have "perfect" information (or a "perfect contract"), to be able to deliver results.
+
+When I write "perfect contract", I consider something more "technical" (as in "techn&eacute;") that what a search on Google returns.
+
+A perfect contract is a contract that covers the domain of all the possible consequences within whatever is covered by the contract.
+
+Yes, my own definition of "perfect contract" would raise some objections from some quarters, but, frankly, I am used to contracts as a transactional element within a business relationship, i.e. a "framework".
+
+In other domains you might attempt to "frame" the universe (e.g. theoretical physics or religion), in business I prefer to be closer to the ground.
+
+Whenever I had to support the writing of a contract, my suggestion was always to make something that was legal but understandable by those having to implement it: both "legal" and "understandable" were needed.
+
+Otherwise, you could end up with something that everybody misunderstood, and started reading only when there were issues- too late.
+
+In business, whenever I was asked to look at contracts that were already in place, it was usually too late- and going on a line-by-line, word-by-word renegotiation would achieve nothing.
+
+So, usually I started by asking to those involved (or those attacking) what was their aim.
+
+More often than not, this defused the situation, maybe, as in some cases, with a minimal upfront cost, but rebuilding or refreshing the business relationship.
+
+Frankly, as I said to an old friend few days ago, whenever I was asked to help manage vendors, accounts, teams, the first thing I did was to review the "rules of engagement"- which could be formal or informal contracts between different parties, including budgets, distribution of skills and assets, commitments, constraints, etc.
+
+I discussed a bit of this subject within the [first volume of #QuPlan - A Quantum of Planning](quplan) (and within its associated 200+ pages fictional case study about a compliance program to deliver in a short timeframe).
+
+The idea is relatively simple: would you build a cathedral, a unique yet recognizable building, without looking at what I listed above, just by starting to pile up its components?
+
+Probably not.
+
+I started using the "iterative" and "incremental" approach in the late 1980s to build decision support system models.
+
+The concept was to bring my expertise each time in a different environment, and start by listening.
+
+Listening to understand the context (yes, still that boring concept that I keep repeating almost in each article).
+
+And help to jointly define a "charter", expectations, and an approach.
+
+The more complex your endeavour, the more potential issues can arise: unless you have a framework and a clear understanding of the current context, the risk is to just keep piling up tinkering, until something complex becomes chaotic.
+
+And while complex is manageable, complex can only be surfed, hoping not to drown.
+
+So, whenever something starts with being chaotic, the first "iterations" in my experience should aim to convert it into something complex.
+
+If still there is some area that is chaotic, you should build a kind of "demilitarized zone" around it.
+
+When you work to build a model helping to make choices, you might start with existing heuristics- but what you get by formally interviewing somebody is a rationalization, not a description.
+
+Look at yourself: if somebody were to ask you how do you walk (i.e. to describe the technicalities of walking) to somebody who never walked before, would you talk about force, balance, joints, direction, intensity, etc, or would you just talk about putting one foot after the other etc?
+
+Clarifying if you what you understood is what was said is an <b>iterative</b> affair: those that you interviewed will probably add something that for them is intuitive, but for you is akin to translating from Sanskrit, and skip few steps- also because those steps are were variations and expertise-fuelled microchoices that compound .
+
+Beware: if you try to extract everything in a single step but know nothing about the domain, the higher the expertise (or the rank) of thoase interviewed, the smaller the amount of patience that you will elicit.
+
+My approach was to actually grasp the "boundaries" via colleagues, the company library, or just plain books on their business domain read before meeting them , to understand a bit of the lingo and, more important, the boundaries of my ignorance.
+
+Being able to connect dots faster than others is useful- but not if you fall in love with your own misguided connection of apples and pears.
+
+Moreover, and this is the incremental part, when converting existing human approaches and behavioral patterns into something less flexible, such as a decision support system model, neither the business domain expert nor you have already knowledge of the results that the model will produce, and, whenever the results vs. your "test" will not match your expectations, you will have to backtrack to find where the logic of the model might need some changes.
+
+Because a model was basically a series of equations that delivery a "story" through data, from inputs to "what if" scenarios by changing some parameters, or "goal seeking" by setting a target and stating which inputs the model could variate while sticking to the formulas that you had provided.
+
+I always found quite entertaining how, actually, web-based (and now again model-based) applications were really an encore of what I was doing in the 1980s for my models.
+
+Use them, and you identify how might make sense to evolve them.
+
+The difference with a cathedral is that you will have to accept to evolve as the context evolves.
+
+A cathedral was a project integrating a community- across generations, and you could evolve but the structure was there.
+
+Models, websites, and also products physical or virtual most often try to build and expand a community- and what links through the generations is the concept (I do not like to call it "brand", as that is just a part of it), not the actual model, product, service.
+
+Do not get carried away with the concept: the key is always to contextualize and know your domain, i.e. your community.
+
+It is always useful, whatever side of the discussion you are in (was a marketing ploy? was a real mistake?), to have a look at past attempts to revise an existing product or service, e.g. [as the "New Coke"](https://en.wikipedia.org/wiki/New_Coke).
+
+
+<b>the impact of demographic trends- the example of Italy</b>
+
+
+Now, just to confuse my readers, I will shift to something smaller and wider at the same time.
+
+I shared yesterday on Linkedin an article that will be within the March issue of a magazine that often contains interesting (and sometimes controversial) articles about the link between finance and development:<i>"
+interesting article on the #need for #new #models in #economics, from the forthcoming March issue of #IMF's Finance&Development Magazine (free both online and on paper)
+
+[the article](https://www.imf.org/en/Publications/fandd/issues/2024/03/Point-of-view-addressing-challenges-of-a-new-era-Dani-Rodrick)
+
+key points (for me):"
+During the Bretton Woods period, national economic management was significantly less restrained by global rules and the demands of global markets. Yet international trade and long-term investment rose significantly
+
+<omissis>
+
+A similar outcome is possible today too, provided the major powers do not prioritize geopolitics to such an extent that they start to view the global economy through a purely zero-sum lens.
+
+<omissis>
+
+craft policies to help governments attend to their domestic economic, social, and environmental agendas while avoiding explicitly beggar-thy-neighbor policies. They can develop new principles that clarify the distinction between domains where global cooperation is necessary and those where national action should take priority.
+
+A useful starting point is the trade-off between the gains from trade and the gains from national institutional diversity. Maximizing one undermines the other. 
+"</i>
+
+The title of this section is about demographic trends, and therefore some of my readers will wait for a reference to few articles I published in the past.
+
+So, I will add a reference to a couple of "human side" articles:_ [2023-10-10 The human side of sustainability: looking at the demographic trends of Turin](index.php?page=529)_ [2023-11-09 The human side of supply chains: adapting to a changing social structure #Italy #Turin #automotive](index.php?page=534)
+
+The first one contains numbers, the second one concepts.
+
+But actually both are linked to the concept expressed within the article that I shared yesterday: we need new models for a new reality.
+
+In preparation of this article, looked around for other material from third-party sources that could dovetail with some themes that I wanted to discuss.
+
+Yesterday apparently was a good day, as again on Linkedin shared another article that I had just received via mailing list, this time from McKinsey, [Top M&A trends in 2024: Blueprint for success in the next wave of deals](https://www.mckinsey.com/capabilities/m-and-a/our-insights/top-m-and-a-trends-in-2024-blueprint-for-success-in-the-next-wave-of-deals?cid=soc-web):
+<i>"key organizational development points:"
+_ Re-evaluate M&A themes and update strategy, invest in capabilities and assets that will effectively evolve the portfolio, and consider divestitures as actively as acquisitions._ Shift M&A themes to mitigate increased geopolitical risks- for example, by emphasizing localization rather than geographic expansion, targeting sectors with stronger market outlooks, investing in vertical integration, and strengthening supply chain resiliency._ Establish a higher bar for value creation to offset higher costs of capital, and think broadly about different kinds of synergies- not just cost or revenue-bound but also capex; not only combinational, but also transformational synergies._ Pursue partnerships and alternative deal structures- such as JVs, alliances, and public market buyouts- to offset the reduced availability of debt financing._ Use alternative structures to reduce transaction risks, such as milestone payments.
+"
+
+it is again a matter of contextualization, monitoring, and capabilities- notably if, in the post-M&A organizational integration phase, you want to control the acquired parties, and not gradually become controlled by them, if their culture is more structured
+
+e.g. [see the following articles and book reviews shared since 2018](search.php?tag=merger_acquisition)
+
+and also the 2013 [reprint of an e-zine](bfm2013) for senior managers on change that published 2003-2005 (as part of my then planned return to Italy), in English and Italian, which had over 800 subscribers from more than 500 companies (not just in Italy)"</i>
+
+Yes, I am boring enough to keep repeating the same concepts not just while working or writing articles or books, but also in simple posts.
+
+If you do not have time to read all the links, would like to summarize my two articles and those two articles that I referenced in this section.
+
+Looking at Turin, it is expected to significantly further contract within the next few decades vs. the less the 900k residents it has now, and consider that the starting point that I lived as a kid, since returned to Turin in the early 1970s after living a couple of years in Calabria (was born in Turin), was an industrial town, the home of Italian automotive and large banks, logistics and other services supporting automotive, and with over 1mln residents and potentially aiming for 1.5mln, while, when I saw the massive building and renovation frenzy right before the Turin Winter Olympic Games of 2006, looked as if it were aiming to reach 2mln.
+
+How small will become? Linear projections talk about less than 600k, but, frankly, as I explained in those two articles, think of linear projects within human organizations is frankly showing that you are out of touch with organizational and human reality.
+
+Any complex organization develops eventually specialization and coordination based on the potential of demand: if you have 1,000 citizens, probably some will cover more than one activity, as that activity will not have enough demand to require somebody focused just on that.
+
+If you have 1,000,000 citizens, that extends to multiple roles, and also to services: there will always be enough demand for public transportation etc.
+
+Most Italian towns old enough to have few centuries of history generally have a centre where the administrative and political side was, containing also offices, shops, etc, and servics supporting them.
+
+Expand such a town, and you get more of that.
+
+Already the COVID pandemic showed what happens when suddenly offices become empty, as people work from home, and therefore they find no need to get into the centre.
+
+It was puzzling when shopkeepers in the centre of Turin asked, at a later stage, to force companies to bring people back in offices.
+
+Why the request? Because, beside public transport, office-dwellers were also used to have lunch nearby their office, shop whenever was convenient, and even come back in the evening in an area that was more familiar to them than where they actually lived (as Turin and its surrounding areas, what is called Citt&agrave; Metropolitana, actually now got to around 2mln- in large part by having people shift from Turin to nearby).
+
+Anyway, if major banks now are part of banks whose "brain" is in Milan, and manufacturing contracted bringing about a further contraction in logistics and other services within the territory, there will be a point where some services and specializations will not be anymore sustainable through the local demand.
+
+I shared in a previous article a documentary about Detroit (Turin was called the European Detroit), a movie shot across over a decade.
+
+It was focused on firefighting, but what really impressed me was how, when business and manufacturing contracted, some areas started being converted into parks and gardens to avoid having what we have had in Turin since few decades: vacated buildings that become not usable for anything than as temporary unofficial dwelling for those living at the margins of society.
+
+Aloing with contraction, both Turin and Italy are getting older.
+
+How old? As shown within the "number" article, in all the areas within Turin the average age is over 45, and generally deaths exceeded births.
+
+Recently, while attending a local event, it was also shared that overall, in Italy, what elsewhere would be called "civil servants" corp (public employees- but in Italy, they sometimes behave as if they owned the State) have an average age of over 55.
+
+Meaning: not only we have the digital transformation (in a country where the "digital divide" is still an issue) and the green transformation, but both are happening at the same time as we are shifting our demographic mix.
+
+And, for the State, this implies having few years to cope with all three- before those holding the current "body of knowledge" will retire.
+
+In Italy, due to salary constraints within the public sector (lower than the already low ones provided by the private sector, if compared with other major EU countries), recently I saw job postings looking to hire younger people while trying to "spice up" the offers.
+
+Offering to hire them not as entry level employees, but as what in the private sector would be middle-level managers, and even some job posting stating the role, but also adding that, depending on experience, they woud be willing to hire them even as managers.
+
+Now, as I said to a friend who actually works for that public sector, there is a small issue with that approach.
+
+You can "parachute" a new CEO onto a large State-owned corporation, and (s)he will surrounded and supported by those who have domain knowledge.
+
+Anyway, heuristics specific to a domain or industry are usually what middle-level managers and their "cadre" reports provide- if they had time to develop that knowledge, usually through a mix of initial formal training, then induction training while hired, and eventually through on-the-job-learning.
+
+Within the Italian culture, where even giving somebody an official title however low implies that they see that as a relative power, the risk is getting people who have no specific knowledge of the specific corporate culture (formal and informal).
+
+Which is fine if you are doing something from scratch, i.e. building a new State as did e.g. Estonia right after leaving the USSR, as even my Baltic friends in the late 1990s said to me that the annexation of Estonia in the 1940s actually was deeper there than in any of the other Baltics.
+
+What can happen? Well, this is where the second word within the title enters the scene: legacy.
+
+
+<b>The link between legacy and heuristics</b>
+
+
+When you have at least over one hundred of years of organizational history, you can wreak havoc by rushing it through the three transformations (digital, green, demographic).
+
+Actually, Italy inherited a bit from all its past across history: some elements are even, conceptually, going as far as the Roman Empire and its successors- and it was only few decades ago that e.g. old laws on cursing or uxoricide were repealed.
+
+So, while rejuvenating the State is fine, legacy should be taken care of properly.
+
+Also, while in some areas the Italian State is already understaffed, while working as PM and BA part-time in Rome for a partner on few projects for State entities, saw how already back then there were few in their 30s or less- and it was 20 years ago.
+
+Because it is not just Turin that is getting older, it is the whole country.
+
+When I was a kid, it used to be that there were few of working age for each retiree- nowadays, the most often repeated concept by politicians and others is that there is one worker for each retiree.
+
+I will let you check on the national statistics bureau ISTAT website if this is true or not, and the associated trends (I shared some data and links from ISTAT within the "number" article about Turin that I referenced above).
+
+Already while writing in 2003 could share what I had seen since the 1980s in companies that externalized activities: it did not take too long for them to lose corporate memory and knowlege, through retirements, attrition, or simple phase-out and reassignment of staff, etc.
+
+Actually, remember the organizational development director of a bank, while working on a project as advisor to the manager of my customer, a banking outsourcing company, telling me how they, after few years of full outsourcing, had identified that were losing part of the knowledge and organizational memory needed to evolve existing products and services, or even just to integrate into them new concepts or technologies.
+
+So, they had to rely on their own provider (it helped that many of those banks were also shareholders, and therefore could influence direction).
+
+There was a book that will eventually find time to re-read, Hofstadter's "G&ouml;del, Escher, Bach: an Eternal Golden Braid".
+
+When I was told about it, I was attending the first year of the University in Turin, in 1984, in "Science dell'Informazione" (which was IT- it was at the time built on a blend of physics, maths, engineering).
+
+Beside other subjects, I was interested in a subject called ["computability"](https://en.wikipedia.org/wiki/Computability) (the link bring up to Wikipedia, of course.
+
+You can read more about the book [on Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach), but let's just say that my first "training exercise" was to develop a program to emulate a theoretical machine that was basically an endless tape that you could move through only horizontally, and execute a limited set of operations.
+
+It was funny that I got a bit carried away from my interest in linguistics (I had considered either philosophy of language or political science, but the former was not available in Turin at the time, the latter frankly assumed would be better after getting a degree in law, something that I was not planning to do, also if the subject of Constitutional law was appealing).
+
+How much? For fun, while in high school I had studied how to build (conceptually) a description of a language, using a formalism called BNF, that first applied in my case not to computers, but in my learning processes with human languages.
+
+So, I applied that knowledge in that very first computer software, and my tutor told me that he wondered if I had spent too much time on it, because it was actually a real compiler for that fictional machine.
+
+Actually, applying that to a real case, and not just to learn and identify patterns in English and other languages, was to become useful almost a decade later, when I was asked to help revise in few days the organizational manual of a large company, and used the PROLOG (an AI language in the 1980s) version of that approach to describe "concepts", and identify where there were "boundaries" between processes within the organization that were not covered.
+
+It was a quick-and-dirty assessment done over few days, but helped to outline the scope of an ensuing organizational (re)design project that I described in the past.
+
+Also, that set of exercises while at the university helped also later, when for another customer proposed to use a tool used to generate automatically software (CASE) to... document an organization and its processes.
+
+Which, again, was an interesting adaptation (not just adoption) of the same concepts.
+
+Key element: if you want to be able to use a "conceptual tool" (or a set of patterns) if and when needed in a different context, you need to know which characteristics they carry along.
+
+Something that takes time- hence, my approach, between missions since I first was a freelance (1990, before becoming a senior project manager and "cadre" for the Italian branch of a French company for couple of years) to identify "testing the ground projects" on any concept or technology that I wanted to know more about.
+
+The idea is that while some "patterns" are developed within a specific domain or context, many can be "transferred".
+
+If the approach worked for me in the 1980s just by blending what I had learned in politics, at the university, and then applied while in the Army before finally going into formal business, it can work for anybody- provided that they are willing to listen and identify the "knowledge providers" that will supplement and contextualize.
+
+The concept is to keep your "organizational memory" alive.
+
+In the next section, starting with the Y2K case, will also use examples from recent investigative journalism in Italy involving something that is going to become increasingly more critical within an aging society: the national health system.
+
+
+<b>The twin transformations and reality: lessons from Y2K</b>
+
+
+I will start by referencing a couple of recent articles that I published about the concept of KPIs, as it is an area (along with the obvious management reporting) where legacy ("organizational memory" included), heuristics (be it part of your own "organizational memory" or imported from other sources, e.g. "best practices"), and context matters:_ [2024-02-07 Organizational Support 10: strategy-oriented KPIs in a data-centric society](index.php?page=546)_ [Designing skills-based organizations in a data-centric world: we are all investors](index.php?page=545).
+
+Beware: together, those two articles make for a mini-book, i.e. over 17,000 words.
+
+So, let's start from the title: the twin transformation, i.e. digital and green.
+
+As I wrote in previous articles, everybody knows that neither is feasible without data.
+
+I would: and also without accepting that we need to shift to a data-centric society where, as in the second of those article, "we are all investors", i.e. we are all not just consumers or unwilling producers of data, but we are active producers.
+
+In the late 1990s, there was the Y2K scare- shifting the year from two to four digits.
+
+I shared few articles ago the link to a documentary that uses material from those years, [Time Bomb Y2K](https://www.imdb.com/title/tt26786629)- for those who lived through that from the business perspective, a funny reminder.
+
+Anyway, what happened really, in many environments, was that companies that had adopted information technology early but had not prepared for Y2 by the second half of the 1990s, discovered that much of the "organizational memory" had been retired.
+
+Dwn to the all the "heuristics" that had been adopted as workaround to cope with e.g. memory, space, cost constraints.
+
+Now that a single program saying "hello" can take up megabytes on your own smartphone this might seem crazy- but there was software that, knowing the logic embedded within the data, "reused" memory locations when not needed, and then restored values, if the instructions to generate that restored result occupied less space than the information stored (e.g. constants), ditto for modifying part of the code itself.
+
+Documentation? If available, was paper lost somewhere.
+
+So, in that case, notably for software developed in the 1960s and also in part 1970s, where a blend of constraints and just simple "wizardry" were common, I heard of retirees, and was even told at customer sites when some of their IT managers, who had started as programmers in those 1960s times, had been asked to dig into their memories.
+
+It is what is part of "organizational memory": some smart newly hired freshly graduate might say "why do not were redo everything".
+
+Until they get used to concepts such as budgets being already wasted by "technological upgrades" forced by suppliers who try to push their latest products by giving "programmed obsolescence": while some software from the 1960s is already there and working.
+
+A decade ago a friend told me that he saw in a bank a mainframe computer software that I had written in the late 1980s- evolved, but still carried my name and "obsessed-with-documentation-and-maintenance" comments style, so that anybody could understand what was doing: i.e. almost 30 years later...
+
+Way too often when I read about digital and green transformation, the feeling is probably similar to those who were there working in developing administrative systems in Estonia in the early 1990s, having to start from scratch.
+
+Pity that we are not in the same context: look just at automotive, banking, retail (the three industries where I had many projects since the 1980s), and since the late 1990s, when the OECD talked about e-government, via the EU we harmonized on countless regulations, data transfers, also when information technology is not explicitly involved.
+
+Just go in your kitchen and pick up any can or box of food, and look at the description of ingredients, expiration dates, etc: it is (or should be) all codified.
+
+I already shared in the past some commentary about how in Italy often digital transformation became what my UK colleagues and friends would have called "sandbagging": we shifted from "the cheque is in the mail" to "this field is missing", or "you need to reserve on our digital availability agenda a meeting before that acconting office can talk with you", and countless variation thereof.
+
+A recent issue of the Italian magazine "L'Espresso" (Anno 70 Numero 06, 2024-02-09, cover on "Sfascio Sanitario Nazionale"- a tongue-in-cheek game on the acronym Sistema Sanitario Nazionale, the Italian national health system with universal coverage) contains interesting material.
+
+I will let you visit the magazine website, but let's just say that what is relevant here is a reference from trainees about "structured" people, i.e. those who have expertise such as the one I described above, and that, as trainees, they should work alongside with.
+
+Most often, they do not, from the articles within the magazine, and even they are not allowed to go for further training elsewhere, cover alone activities where they should be just support, do not "badge" and therefore nobody officially knows how many hours they work, etc.
+
+The key point here is: "structured".
+
+Shifting to business, the concept is the same that discussed above.
+
+If you have structured knowledge, "techn&eacute;" acquired through studying plus experience and often plus on-the-job training, you can evolve it and also transfer it to others.
+
+Whenever there is an issue that is out of the ordinary, experts who use their expertise on a daily basis, and are not just hired for their expertise and then never using it, could be useful to identify how and where the divergence from the ordinary occurred.
+
+Then can eventually, often relatively fast, identify how to converge again, and also explain how to avoid a recurrence.
+
+Let's assume instead that you have just a collation of learning but no structured point of reference.
+
+In business, saw what happens: to "fix", something is done.
+
+Then, having no expertise to identify the "root cause", further tinkering ensues.
+
+As there was no structured approach to begin with, often even the "trace" of what has been done when the issue started is at best sketchy.
+
+So, you can expect attempts to alter but in a different order from what was done.
+
+Or to fix the fix.
+
+Until... finally, a structured expert is called.
+
+Who will identify that... it is a mess.
+
+The two transformations, notably if you ignore the constraints imposed by the demographic transition, are both a risk and an opportunity.
+
+Risk of doing what was done before Y2K, i.e. assuming that you could retain "organizational memory" without retaining the associated people, as if everything was within the formal corporate culture and formal documentation.
+
+And opportunity to do more with less, as technology, notably AI, is a structural need for a data-centric society: we humans cannot integrated in real time such a continuous volume of data.
+
+Just ask NASA.
+
+
+<b>Why AI requires both explainability and wisdom</b>
+
+
+Even before our "agile" times, that at least in Italy since the last two decades often feels more as "undocumented" and "not traceable" than whatever was within the original [Agile Manifesto](https://agilemanifesto.org/), most was "informal", i.e. as somebody said "our assets leave the company each day at the end of the working day".
+
+For companies delivering physical products or "scalable" services (i.e. those that are structured and delivered to a massive amount of customers), some form of conversion of the information into the formal always existed, but also in the most structured companies I met around Europe, some "informal" part existed- notably to keep things moving while formal "rules of engagement" and documentation were aligned to the new context.
+
+As an I example: I remember decades ago, in a tax office in Turin, a complaint from an employee that, considering how often VAT regulations changed, unless they purchased out of their own pocket the same books that we purchased, they would be relying on obsolete information, as had to wait to have those changes converted into internal communications explaining the updates, and maybe even formal training.
+
+In the future, with digital transformation fully unfolded and continuous adaptation within our data-centric society, the temptation would be to rely on the latest version of whatever, without considering the underlying legacy, legacy that might impact on the implementation by many pre-existing as organizations the latest version.
+
+As I said since decades to customers: just because you introduce something new, it does not imply that you can instantaneously switch from old to new (the "Big Bang" approach).
+
+And also if you were, often the same people would be involved in both, plus in the activities to phase-in the new knowledge and processes while continuing to care for the phasing-out of the old.
+
+Meaning: do whatever transition you want, but consider that_ you need to plan both phase-in the new and phase-out the old_ you need to identified which human resources will be involved_ you need to assume that probably the budget will have to expand during transition_ for a while, you will have to keep a fall-back position (and associated resources).
+
+And these lessons actually are what I saw in business since the late 1980s, first while working on a banking general ledger, than while supporting customers to introduce decision support systems models or methodologies I had designed along with them.
+
+Caveat: costing the transition should be highly contextualized- there is no one size fits all in organizational culture change.
+
+And adapting to the digital and green transitions, as well as the demographic side, imply a significant yet continuous organizational culture change.
+
+Now, it is time to shift to how AI will fit into this picture.
+
+Let me have my "boring moment" corner, by repeating again how I think that AI could be integrated in our data-centric society.
+
+As I shared almost a week ago on Linkedin, [re-posting with my comment the announce about the <a href="https://www.linkedin.com/pulse/ai-pulse-26-startup-lambda-raises-320m-15b-valuation-study-ng-uui5c%3FtrackingId=de1g2FmrEl7ngXICTi%252BYNQ%253D%253D/?trackingId=de1g2FmrEl7ngXICTi%2BYNQ%3D%3D">latest issue of AI Pulse](https://www.linkedin.com/posts/robertolofaro_artificialintelligence-innovation-fundraising-activity-7164516613273202688--BpH):<i>"
+you probably know that I am more toward the "collaborative and hence explainable" AI then AI scares
+
+i.e. I see the opportunity for integrating humans and AI into the continuous improvement cycle, and generate benefits for both
+
+in this issue, following that line of thought, three items I would like to highlight:
+
+2. OpenAI Launches Sora: A Revolutionary Text-To-Video AI Model
+
+4. AI Deciphers Ancient Scroll Buried by Vesuvius Eruption in AD 79
+
+7. Discover The Perfect AI Solution For Your Specific Problem
+"</i>
+
+I was doing my first steps in AI by learning and using PROLOG in the 1980s.
+
+I was even member of an association called GULP- Gruppo Utenti Logic Programming, and met on a travel by train one of its founders, but left after academics found that could be a useful tool to attract corporate sponsorship and visibility, created a new organization whose membership followed the principles of way too many Italian guilds.
+
+Anyway, as part of my experiments, in the late 1980s in my scarce spare time started developing a rules-based system to explain the rationale of the decision support system models that I had created for customers.
+
+I did not complete and deliver it as I left the company, but it was yet another example of using what I had learned about language syntax etc- i.e. the same logic that in the early 1990s used in the organizational redesign case I described above, and that in the early 2000s used to develop a "quick fix" to help me assemble quickly organizational manuals for my customers (yes, included RACI- and was called "who does what").
+
+In all those cases, whatever the tool, I always considered delivering a model incomplete if I did not provide its rationale, to allow others to takeover if needed.
+
+It is a bit unusual in Italy, but also in the late 1980s for Andersen Software (the Italian Andersen unit distributing Comshare DSS and EIS software) took care of knowledge transfer.
+
+Even in each mission I had since I first had my own company in 1998, took care of delivering documentation- was funny to purchase a license of a tool to produce CD menus, and, while working in Rome, being told that my project had been selected by my partner's Quality Control for a documentation check.
+
+Were a bit surprised when I delivered a CD with a menu: but, frankly, while the design and content were mine, the concept of its feasibility came over a decade before, in the early 1990s, when the US DOD sent me a copy of the BPR-CD when, as part of my registration within the "Reinventing the Government" mailing list, asked if I could get access to the information despite being outside USA and certainly not part of the Federal US Government or its supply chain.
+
+It was interesting, as the CD contained both software (e.g. to assess scenarios, and carry out analyses), bibliography, and reference documentation.
+
+It has not been available online at its original DoD website for a long time, but [you can read a bit about the concepts and how BPR was applied to the DoD in this thesis](https://apps.dtic.mil/sti/tr/pdf/ADA329815.pdf).
+
+I think that collaborative and explainable AI has the potential to help thriving through not just the two digital and green transitions, but also the demographic mix change.
+
+Let's say that we will live longer- somebody wrote that those born in 2000 could expect to live 120 years.
+
+When I was 18, I considered that I did not want to retire- I had already back then through my "extracurricular" activities accumulated knowledge and experience, and looked forward to keep doing it, and considered a waste not to keep it available when probably would have had (as a retiree) developed (and collected) significantly more.
+
+Now that I am about to turn 59, I keep learning, experimenting, and sharing, not just collecting.
+
+Anyway, while few years ago in some professions in Italy you could retire after 15 years, 6 months, and 1 day of regular work, at the time retiring benefits were allocated, not just related to how much your pension contributions had been.
+
+In the 1990s, the system changed, and Italy increasingly aligned retiring age with life expectation- getting closer to the joke in The West Wing about Bismarck and retiring benefits.
+
+In the future, I expect that more and more activities will be potentially covered by machines and software, collaborating with humans.
+
+Therefore, also work organization probably will imply working less hours but potentially for more years.
+
+While in the 1990s I was an unusual consultant as I kept paying myself a low salary and reinvesting a lot in learning, experiments, and testing ideas that eventually would have used with customers, I was unusual also because, paid by the hours, already worked in something similar to a model that will be more common in the future.
+
+When I was in Paris or Zurich or London, if I was working on a negotiation or a workshop, sometimes the activity per se needed just few hours per day.
+
+Already in the early 1990s I had agreed with my CEO, while working for the Italian branch of a French company, to "buy back" my time using the overtime I had generate while going around.
+
+So, instead of doing as traditionally sales people (selling services, but still selling) do when not in meetings, i.e. inventing work or keeping staff busy, I took hours off- both to visit e.g. art exhibitions or, with my CEO authorization, deliver managing consulting services in financial controlling and management reporting, something that was not part of my role at the company, but this way I would keep alive skills that eventually used also in support to my employer.
+
+When in Paris or London or elsewhere, if feasible took few hours to visit the town, a museum, or just sip a coffee and have a chat with others- networking.
+
+A future collaborative workplace might by not a workplace- at all.
+
+Within the information research phase, heuristics-based AI (e.g. expert systems) are useful to support accessing "organizational memory".
+
+Within the idea design phase, probabilistic approaches such as a LLM &agrave; la chatbot could be useful to spin crazy ideas, as it was at the beginning of the Coen Brothers movie [The Hudsucker Proxy](https://www.imdb.com/title/tt0110074)
+
+In other phases and roles? Frankly, I am deeply skeptical of the use of off-the-shelf LLM models implemented with company-specific knowledge as a top layer.
+
+Why? Well, on Linkedin it has been a funny meme going around the dialogue between such a quick-delivery chatbot that, by using conversational tricks ("prompt engineering") was forced to say what the original training material contained, and ended up with a conversation that was self-criticizing.
+
+True or false, visually represented the same concept, e.g. when those asking an image-generating chatbot provided their own portrait photo, asked to get a professional variant, and found that the underlying base probably was, on the "professional-looking" side, at best unbalanced toward specific group- so professional implied almost WASP-looking.
+
+In some domains might be acceptable, but in most domains where you deliver products or services to others (your customers), if you have a collaborator you expect to have mutual trust.
+
+And mutual trust implies experience- otherwise, it is faith.
+
+If your collaborator were unable to listen or unable to explain, you would probably end up double checking whatever the collaborator does, writes, says, before turning it over to customers- as you would be held accountable for what your collaborators did.
+
+[PWC's magazine "strategy+business" contained a short article explaining some key concepts](https://www.strategy-business.com/article/From-principles-to-practice-Responsible-AI-in-action), with the title "From principles to practice: Responsible AI in action - How can companies unlock the value in artificial intelligence while mitigating the downsides? We asked leaders in this quickly changing field to weigh in.".
+
+Agree or disagree, expect some direct or indirect self-promotion as in any article from consultants or authors (myself included), but it is still useful to have an overview of the theme,
+
+The debate about "how" AI has been constantly shifting from the "how technically" to "how socially" (meaning both "society" and "within an organization"), i.e. integrating.
+
+You probably know that [since July 2023 I release a monthly update to a search engine about the theme, focused on AI and ethics, and using as source arXiv](searchkaggleaiethics.php), where many papers are published from various domains.
+
+It is interesting how, with my focus on "readability from those interested but not within the domain" (e.g. decision-makers considering if and when to use it), over the months more and more case studies and surveys published as papers discussed not the theory of ethics, but its implementation.
+
+You might not be interested about e.g. dual use (civilian and military) of your AI models released to the public- but some concepts might be of interest, also without waiting for somebody to knock at your door and ask about the use of your model to generate a fake video and audio that was used in recent scam ([see here, in Italian](https://www.linkedin.com/posts/robertolofaro_video-fake-del-direttore-finanziario-dipendenti-activity-7161081044606009344-Ml0q)).
+
+To close the circle on the title of this section: yes, let's assume that having 30 or 40 or 50 years of experience does not necessarily imply having wisdom.
+
+So, flipping the coin, consider "wisdom" a relative of experience- albeit, if you worked for 30 or 40 or 50 years within the same organization, you had limited opportunities to generalize your experience, and you might consider universal what instead is just specific to your organization.
+
+In the future, probably more people will have an experience-track similar to mine: working across multiple organizations and, unless they select a "vertical" specific subdomain of a specific industry, and their expertise will be useful cross-industry, also that part will be missing from their CV.
+
+Meaning: will probably have to add a bit of "bridging" or "explainability" skills to whatever specialization they selected (mine is simple: change, with and without technology- albeit then, under the hood, there is plenty, and I keep having to maintain, prune, update, add).
+
+The paradox is that actually AI chatbots might be useful also as trainers to alter human communication patterns.
+
+As I said last week to a friend, I followed some training on prompt engineering (i.e. how to ask questions/present requests to a chatbot), but despite what some offer, I do not see it as a long-term expertise worth becoming a specialist in as a career choice.
+
+Models continuously evolve, in no small measure courtesy of the numbers of interactions.
+
+We have now models that anybody can download and cross-check what their training sources were.
+
+And these models provide something that just a couple of years ago would have required significant resources (both financial and computational).
+
+I think that the best way to develop explainability in AI models and integrate with human wisdom is by developing a continuous interaction.
+
+Which is something that requires a different approach to business, organization, and communication.
+
+This, again, would require a full book: stay tuned in the future...
+
+
+<b>Moving forward: again a data-centric society issue</b>
+
+
+When I read articles about AI, business nearshoring/reshoring/friendlyshoring, globalization, it seems as if the world had just one full harmonized Weltanschauung and way of operating.
+
+Two wars nearby Europe are a stark reminder to most of the rich world that we are still different.
+
+Also within the EU, we are not as harmonized as the hundreds of thousand of pages of shared regulations and legislation would make you believe.
+
+Do you remember what I wrote few sections ago about "perfect contract"?
+
+Well, within the EU, to cope with decision-making processes that involve a wide array of decision-makers in Brussels, plus 27 Governments, plus 27 Parliaments (often time, lower and upper chamber), more than half a dozen of European Parliament macropolitical groups, national and regional...
+
+... yes, "decision-making" is often done by using Alexander's Gordian Knot approach.
+
+Which was barely adequate when it was done by politically (i.e. with a direct mandate) appointed representatives, but when you have that long list of potential actors, and one or few simply jump over and push forward, you are ending up with the same issue that will have organizations who will think that by replacing in zero time digital-ignorant with digital-natives they will become digital-first organizations.
+
+I am afraid that that sidelined legacy will keep biting you back, and you could risk backtracking more often than not, but after undermining yet another bit trust and credibility.
+
+The title of this article is "Linking heuristics, AI, legacy, and... demographic trends".
+
+Let's have a visual look at the world we are living in:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20240221_richest-countries-in-3-metrics.jpeg)</center>
+
+So, harmonization is certainly not achieved across OECD countries- not even on whatever parameter you want to use to assess.
+
+Also looking just at the EU.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20240221_most-powerful-passports-in-the-world.jpg)</center>
+
+Yes, in a globalized world, also if travel less often due to environmental concerns (or even just because "cheaper than a taxy ride" is not true anymore even for intra-EU airplane travel), the "potential" of your passport gives another perception of its usefulness.
+
+Interesting that the most powerful passports, according to this chart, are:_ in Europe: France, Germany, Italy, Spain_ in Asia: Japan, Singapore, South Korea.
+
+Anyway, being the richest country now, with the passport that represents the level of connections worldwide is not enough to keep that position in the future.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20240221_science-clusters.jpg)</center>
+
+This chart is more useful: but then, in Italy we have high density of incubators, accelerators, etc- but apparently still fail to deliver the mythical unicorns with a similar density.
+
+All the building bricks are there, but the architects and building site managers are missing: a consequence of a tribal society where parachuting starts early, and then is supported all along by the tribe.
+
+Luckily, at last to recover yet another privatization gone berserk, the steel production facilities of ILVA, this time the State decided not to parachute, as done in many other State companies, somebody who a long industry-specific expertise.
+
+But do not think that this means that meritocracy is at last starting in Italy: as it has been for other recent cases, it was simply a case of what described above as a mess generated by continuous tinkering.
+
+In these cases, who is needed is eventually called up, but only as a kind of temporary fixer.
+
+Then, when the fixing is done, I look forward, as in other cases, to see more... "parachuting".
+
+Moving forward in a data-centric society requires something different.
+
+The alternative? Moving from crisis to crisis, each time calling up a fixer for the time needed, but each time losing precious time.
+
+It might be useful actually if you need the fixer to take care of those "post-tribal" cleanup activities before e.g. putting the company back on the market, as any industrial partner would need a preventive cleanup, also if might reserve a quota of the "cleanup" to show the shift in ownership (in some cases, instead, the aim is blending and show the expanded value by continuity).
+
+You can read, within that article from McKinsey about merger and acquisitions, what they forecast as trends.
+
+What can we expect by the two transitions plus the contextualization to a different demographic mix and ensuing market, plus integration of AI- and data-fuelled automation also in clerical work and some management roles?
+
+Probably "leaner" organizations that retain a higher degree of flexibility by continuously mutating their portfolio of products and services, thanks to fostering directly or indirectly startups that will take 100% of the risk but without all the overhead, and then going M&A to absorp and integrate.
+
+For larger organizations, this might imply that their key activities will evolve- and acquisition/disposal of units (the latter implying preparing them to be sold) will become continous activities.
+
+For smaller organizations, I hope that less and less will develop some "snake oil practices" that observed often in the past (and not just in Italy)- we still lack the structural abilities, at the society level, to pre-empt or at least spot early the Madoffs of the XXI century.
+
+Also, while Madoff ended up in jail, within the new business environment that has been delivered by the XXI century, we will instead have more cases of investors left with the debris, and those who attracted the investors with a nice, huge, golden parachute provided they go (of course, right before get others think that they take the lead, and instead find themselves ballasted with... financial lead).
+
+Yes, I think that in a data-centric society, both transparency and reaction times should shift to another level, and for now just the latest decade showed more cases than just Bitcoin-type corporate frauds.
+
+Consider technological evolution as a virus, and oversight/governance/audit/compliance as the immune system.
+
+Within the data-centric economy, we are still akin to the indigenous population in Latin American facing the new arrivals from Europe: we lack antibodies.
+
+A 2020 article might probably inspire some ideas on what, on the regulatory and compliance-monitoring side, might be useful within the future data-centric society where AI is a collaborative co-worker not just in the office, but also for "bad guys".
+
+[Historical linkages: epidemic threat, economic risk, and xenophobia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7154503/pdf/main.pdf):<i>"European colonial expansion brought smallpox and other diseases to the Americas and Africa from the time of Columbus to the 1800s.  
+
+These epidemics wrought widespread devastation for indigenous peoples. Simultaneously, Europeans encountered new diseases in the tropics.
+
+Colonisation brought a particular encounter with diseases capable of harming Europeans. The Napoleonic Wars were global in nature and also  revealed the vulnerability of European powers to diseases emerging from their colonial domains, and the capacity of these diseases to emerge  in Europe."</i>
+
+If you have time, I suggest to watch an 2010 course from Yale that followed over a decade ago [Epidemics in Western Society Since 1600](https://oyc.yale.edu/history/hist-234).
+
+I know that it is not really what many expected in this section, but as I wrote in the past, I read books about epidemics in the early 1990s to provide me a conceptual framework to use while learning about banking and business risk- and was useful also in cultural and organizational change.
+
+In a data-centric society, the "source of (data) infection" that generates market distortions might be also benevolent- including just the perception of potential impacts.
+
+A curious case was a recent blog article that [linked to my weekly update of the ECBSpeech](ECBSpeech_index.php), [Digital euro: Debunking banksâ fears about losing deposits](https://www.ecb.europa.eu/press/blog/date/2024/html/ecb.blog20240219~ccb1e8320e.en.html), by Ulrich Bindseil, Piero Cipollone and J&uuml;rgen Schaaf.
+
+The post is part of a discussion started a while ago from the ECB to study, propose, and now prepare for the digital euro.
+
+You [can see a list of articles and posts here](http://robertolofaro.com/ECBSpeech_index.php?tag=digital_euro) (I searched for "digital" and "euro"- but roughly all the articles about the subject were really from 2020).
+
+The ECB has statutory requirements about transparency on these issues, but the same approach could be useful to other institutions and corporations as well.
+
+As an example, when I was delivering a new methodology to my banking outsourcing customer and evolved into a multi-year initiative, part of the activities discussed with the CEO of the customer was actually the direct and indirect communication side.
+
+Which included being an advisor to managers or project managers on key strategic projects.
+
+I know that in Italy many enjoyed embracing PROSCI for change, and Scrum for projects (not just in information technology).
+
+It is something related to the Italian culture.
+
+As I said to my foreign colleagues in the late 1980s, Italy after WWII had been basically with two different and competing "political churches"- the Christian Democrats (linked to the Roman Catholic Church) and the Italian Communist Party.
+
+Both had their own orthodoxy and "rituals", and both had frankly less than acceptance of dissent.
+
+Looking e.g. at the [2020 edition of the Scrum guide](https://scrumguides.org/index.html), in many cases in Italy I heard more talking about the rituals than the concepts.
+
+In my latest mission, without saying so, to help complete a project that I was presented as "challenging" (and some said "a lost cause"), I actually decided to focus my support where I was less structure, and use with the others something that, in retrospective (no pun intended, for those who know Scrum), was actually applying scrum in a multi-team environment.
+
+No, I did not do the 15minutes standing each morning- both because I was a PMO and facilitator, and the point was integrating, leaving to each team self-discipline within a shared framework and roadmap.
+
+Actually, in specific phases we had instead daily meetings to see issues, skipping when not needed, and also synchronization meetings when needed.
+
+With a catch: I met eventually only few of the team members, for most I know their voice but not their face- we all worked remotely.
+
+Incidentally: I am one of those who, in videocalls, asks to switch the camera off unless you really need to (and when presenting, having all those attending have to witness your face is not really needed).
+
+The reason? I delivered presentations first in the early 1980s in politics, then while delivering training in the Army also to officers, and then to senior management of customers while I was in my early 20s.
+
+And I am a theatre actor's son.
+
+Therefore, I know a bit about being observed while talking- and I think that having five or ten people fixed on a screen all looking at each other for all the duration of a meeting is something not healthy.
+
+Would you do that in a face-to-face meeting? No.
+
+Hence, switch that camera off unless is really needed, thanks.
+
+Otherwise, you will just add pointless stress- or have even those typical conference animal instinct emerge: I attended, I am visible, so I must make others acknowledge my contribution by... talking just because.
+
+Or even worse: those who prepare for the conference with their own conference and, when it is Q&A time, out of the blue, start into a long and winding presentation that delivers no value except to their own ego.
+
+In a data-centric world the risk is always that somebody will assume that they have to provide data- even when irrelevant.
+
+So, my concept of a data-centric society is that we should expand not on tools, tricks of the trade, and technicalities, but on contextualizating all that continuously- and this implies investing as much on data skills as on communication skills.
+
+The latter is not about manipulation- but about listening, understanding, etc.
+
+As for data skills: if everybody in business from middle-level manager up has to know a bit about Excel or its equivalents, soon the idea will be that the same "population" will need to have at least a basic understanding of key data-related concepts, about quality, lineage, value, etc.
+
+Tools? Eventually- if you want: but concepts are more important, as you can always find somebody able to use the tools (in the future, will be even easier), provided that you can communicate your needs and understand constraints such as confidentiality, privacy, etc.
+
+Something that, apparently, some "smart" business users of chatgpt and other online AI-based tools to work-without-sweating still cannot grasp, considering that even online AI-based tools had to add caveats to avoid disclosing restricted information, and add options to explicitly decide what you would share or not share.
+
+See you at the next article.

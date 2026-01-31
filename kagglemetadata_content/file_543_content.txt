@@ -1,0 +1,323 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20240126_article.png)</center>
+
+If you have a look at my [linkedin profile](https://linkedin.com/in/robertolofaro), you can see that my "motto" is the same that you can see on the top of this webpage: "change, with and without technology".
+
+In recent articles shared a bit more on the "without", as my background before starting officially to work in 1986 was showing that the "without" technology actually was critical to the success of the "with" technology side.
+
+Fast forward over 30 years, and I frankly get puzzled whenever somebody representing either side ("with" or "without") claims intellectual primacy.
+
+I am afraid that living in a complex society such ours implies accepting that you need both- therefore, the first section of this article has "yin and yang" within its title.
+
+As the title states, this article is about differentiating change from mere tinkering.
+
+Actually, with a twist: we are in the XXI century, most people under 30 are used to live with a smartphone and embedded in data, but our governance approaches still smack of XIX century.
+
+A key element: communication from those at the bottom and their use as "antennas" to influence decision-making is still missing from the picture too often.
+
+Moreover, it is actually actively seeked when it is too late, basically when it comes to apportioning blame.
+
+Anyway, will discuss this in one of the sections of this article.
+
+The sections in this article:_ the yin and yang of "with and without"_ no information is neutral, neither are sources_ contextualize, contextualize, contextualize_ there is a time also for smart tinkering_ augmenting contributors via collective learning_ gamification of social change, 2.0
+
+Incidentally: yes, this article is part of the drafting of the [second volume of QuPlan](quplan), the book on project/program management that released years ago, followed by a fictional compliance program business case spanning 200+ pages between 2015 and 2018.
+
+
+<b>the yin and yang of "with and without"</b>
+
+
+Yes, the title of this article makes it look as if it were focused just on business.
+
+But, frankly, you have been involved in projects, programs, portfolio more than you can imagine- and, sometimes, even actually leading them.
+
+Few sections down the road, will share some elements of reference.
+
+Either from the "with" or "without" side of change, usually it starts with ideas.
+
+Then, get those validated, move onto concepts, and, hopefully blending both sides, if you decide to go ahead, convert into a project, initiative- call it how you like.
+
+It all seems intuitive and ordinary- until you try to apply it.
+
+Note: would be ordinary if were it all under the same organizational roof.
+
+Otherwise, you add further layers of inter- and intra-organizational complexity.
+
+In the XX century we got hyperspecialized, to the point that "unbundling" many organizations converted what used to be a seamless activity into a puzzle scattered across multiple organizations.
+
+Generating a further array of issues: all under the same roof implied at least a potential for converging or aligned motivation and interest.
+
+When you unbundle, there are at least two consequences:_ gradually, the knowledge associated with what was externalized is lost to the organization, ditto its ability to "govern"_ those the knowledge is externalized to will develop their own motivation and interest, which would drive their prioritization.
+
+Obviously, many assume that unbundling has just one layer.
+
+Actually, the same reasons that pushed the first unbundling generally justify more downstream.
+
+I will let you work out other potential consequences on decision-making, innovation, etc.
+
+The hyperspecialization associated with unbundling often increased also a kind of "tunnel vision".
+
+If you read previous articles on this website, you know that when I write "change, with and without technology" I consider "technology" as associated with "techn&eacute;"- structured knowledge.
+
+Therefore, you do not need a screwdriver, computer, or any other physical tool to be involved in "technology".
+
+What is between your earlobes is enough, notably if it takes years of formal studies, apprenticeship, or experience tagging along with others, before moving on.
+
+The title of this section says it all: it is not a matter of alternatives, but a matter of complementarity.
+
+A matter of choices- and informed choices are better at avoiding at least avoidable mistakes- with a caveat, that is worth a whole (short) section.
+
+
+<b>No information is neutral, neither are sources</b>
+
+
+Making informed decisions comes with a risk: sitting on your hands long enough to have 100% of the information needed to make an informed choice.
+
+In real life, often you cannot afford to wait, so you have to decide (or support others to decide) with less-than-perfect, less-than-complete information.
+
+Furthermore, many while making choices assume for some mysterious reason that they are the only one having access to that information and connecting the dots that way.
+
+Well, in my experience this is not the case- and not just in business, also in social and political decision-making.
+
+Therefore, there is another element to consider: risk.
+
+And you are the best source of your own risks: by ignoring them, or assuming that more than you can be realistic are taken over by others.
+
+While most of what you read so far about decision-making assumes a counterpart, as Dixon argued in a book writing about e.g. WWI and WWII, often we are our own best enemy.
+
+You can search this website for [article discussing bias](search.php?tag=bias)- and you will find, between those 52 (as of today), some referencing a nice taxonomy of biases- from those more common, to those more convoluted.
+
+To make this point simpler, let's consider your own decision-making for your own project: do you really think that you have access to all the information that could potentially affect your decision?
+
+As accessing all the potential information is not feasible if you have limited time and limited resources, you have to be selective, and prioritize.
+
+And this is were you risk making biased choices.
+
+Unless you remember that information needs something else: has to be contextualized.
+
+
+<b>Contextualize, contextualize, contextualize</b>
+
+
+It is always a matter of choices: both individual and organizational choices, to be precise- but will discuss the concept of making choices later in this article.
+
+With two wars ongoing around the corner from Europe, both of which involve Europe indirectly, it is surprising how little the immediate and potential impacts are perceived or even considered, when I meet people in Turin.
+
+Actually, what I observe is a kind of "filtering out", and increased tunnel vision.
+
+It is one of the many possible reactions to a crisis, but of course implies that you ignore reality and assume that somebody else will take care of it.
+
+Whenever making choices, to get back to the theme of this article, you have to consider "why" as your starting point.
+
+I wrote various articles where discussed also contextualization ([41 as of today, but if you just look for context gets to 136](search.php?tag=contextualize)), as I think that assessing where you really are is a critical differentiating factor between "change" and "tinkering".
+
+Any project is about change- be it just a single event organized to help build consensus or increase awareness about a theme, building a bridge, or installing and deploying (including training staff) a new ERP system. 
+
+My first "project management" experiences were actually neither in business nor in IT, and while I did not call it that was back then, the source of "method" was reading and observation- from history.
+
+Considering the "why", there are obviously your own choices, but also the size of the expected impacts should help.
+
+What you call "project", if you consider all the context and impacts, might in other organizations be considered a "program"- or called with any other name.
+
+I remember years ago somebody saying that I was mixing project, program, and portfolio: I know the different from experience, but I worked across multiple industries, cultures, and company sizes.
+
+This is a map from my forthcoming CV update:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20240125_20240131_cv.png)</center>
+
+As anybody who worked across multiple domains, I was used to listen to all the voices to identify those that, despite the formal organizational structure, had really the knowledge needed within the informal organizational structure.
+
+Often, the knowledge needed to introduce change (yes, with and without technology) was not documented, and introducing new processes (also without IT) that formalized just an evolution of the formal structure risked to actually disrupt or at least overload operational activities.
+
+
+<b>There is a time also for smart tinkering</b>
+
+
+The concept is: if it is your project, you can call what you prefer: project, strategic project, proof of concept, pilot initiative, program, keystone of a portfolio, etc.
+
+If doing it for a customer, I adapt before adopt: provided that the discipline moving from start to end (even when I was called to help to recover or phase-out an existing initiative), they can call whatever is consistent with their own internal organizational lingo.
+
+Anyway, as I wrote in previous articles, while started studying and using methodologies in the 1980s with my first employer, and designing/localizing/delivering others from 1990 for customers, from mid-2000s followed mainly methodologies ex-OGC, e.g. ITIL/MSP/PRINCE2.
+
+As since my return in Italy (2012) worked mainly in PMI (Project Management Institute) environments, in 2022 did a deep dive, and last year registered with PMI (no, did not certify), so that I could study directly at the source, as I had done for business process re-engineering and software quality in the 1990s with "re-inventing the government" and Software Engineering Institute.
+
+I do not know yet if I will stay in past February, when my registration expires, but I think that it was worthwhile, as it was worthwile to follow various training, inspired by PMI approaches, on engineering and projects covering also infrastructure, as well as AI product/project management.
+
+If you have a multi-company initiative, probably if you have to share coordination roles (e.g. having multiple PMOs) would be useful to do what I did in the early 1990s, e.g. having a workshop to align on lingo, expectations, etc.
+
+Meanwhile, quoting a PMI practice guide (<a ref="http://lccn.loc.gov/2015040373">"Governance of portfolios, programs, and projects : a practice guide"</a>, 2016, page 13):<i>"_ Portfolio governance. The framework, functions, and processes that guide portfolio management activities in order to optimize investments to meet organizational strategic and operational goals._ Program governance. The framework, functions, and processes that guide program management activities in order to deliver business value to meet organizational strategic and operational goals._ Project governance. The framework, functions, and processes that guide project management activities in order to create a unique product, service, or result to meet organizational strategic and operational goals."</i>
+
+The key concept was another element (page 9):<i>"As execution of governance at each of these levels may vary, this practice guide focuses on the common actions and outcomes that may be undertaken by portfolio, program, and project practitioners to effectively and efficiently assess, plan, implement, and improve governance for OPM and individual portfolio, program, and project management levels. This practice guide describes a common governance framework aligning OPM and portfolio, program, and project management and provides four governance domains of alignment, risk, performance, and communications. The four governance domains enable the core governance functions of oversight, control, integration, and decision making, which are integral processes to achieve effective portfolios, programs, and projects."</i>
+
+The purpose is to converge on the aims, not to be the Zealots of the definitions.
+
+Personally, also if you are focused just on projects based on agile methodologies, I think that spending the time and money to get through PMI's practice and standard guides could be a good investment.
+
+As an example, in one of those customers where I converted an account into a portfolio that was then managed accordingly, I coached a project manager so that he could become the "resident" for that account, not just on activities he was directly working on, but also those that he had to eventually coordinate, also if outside his own field of expertise.
+
+Eventually, he certified for PMI, and, when we met after that event for a lunch, he told me that what had discussed with him while working was what he found again while following that training.
+
+Just by reading those practice guides and standards you could get a consensus-based overview that would then be useful to spot signals while working- and avoid avoidable mistakes.
+
+I worked in companies that customized any methodology they decided to use- staying just in this century, from PRINCE2 to ITIL to MSP to PMI to various variants of agile (including <https://scaledagileframework.com/>SAFe, to scale up agile when more than a small team is needed</a>).
+
+So, it is feasible to work: you have just to identify who has to adapt, and do it accordingly-
+
+As will be discussed in the next few sections, the content of this section could actually be useful to consider further evolutions.
+
+Therefore, it is now time to shift to the other element within the title of this article: "evolving data centric project, program, portfolio frameworks".
+
+
+<b>Augmenting contributors via collective learning</b>
+
+
+The concept is relatively simple, its implementation is not.
+
+I have been a project and program manager, and even, for a partner who had large customers with multiple projects, converted the account into a portfolio, and then renegotiated the contract as a portfolio.
+
+Meaning: converting begging for money justified by their business or IT side requests into a portfolio of projects, activities, services, and some "slack" connected with customer's business priorities, and then amended, revised as needed- but within the same budget.
+
+In each case, whatever the reason why I had been called to work as PM (consider the "P" whatever you want), one of the concepts I implemented already in the 1990s was to consider team members as "antennas" within their own domain of expertise or execution.
+
+Listening and tuning while keeping tab with the "why" before discussing distribution/takeover of tasks, delegation etc implies a slightly more talent-oriented approach to management of a team.
+
+I made a point of, formally or informally, always understand and monitor how each team member could contribute, and, when needed, identify specific ways to "nudge" to help team members to develop both as individual contributors and as a team.
+
+The idea is to convert this concept into a parallel project to the project itself, i.e. a project is useful to deliver, as presented in that consensus-based definitions from PMI that shared above, but also useful to develop capabilities.
+
+Developing capabilities requires more listening and support, than dictating or lecturing.
+
+Within agile methodologies such as Scrum, there is a series of "rituals"- more than the rituals per se, in my view what matters is the reason and compartmentalization of each one of them.
+
+For example, as almost always had a different team in each mission, beside that initial assessment, also added during activities what I could call "informal brainstorming sessions" focused on raising awareness, and identifying, if needed, individual need for further training or support.
+
+Incidentally: two things have, in my view, to be removed from the picture if adopting this approach:_ seniority-based possibility to express ideas whenever asking for new initiatives_ hierarchy not based on competence specific for the task at hand.
+
+The latter probably is based on my experience in the Army, as artillery specialist, as we had small teams, and each one had a role, but hierarchy counted only outside the execution of the specific activity, otherwise what mattered was that as a team we covered all the bases, private, corporal or 2nd Lt notwithstanding.
+
+The former is something that still I have to take in my hands occasionally, whenever I see that some junior team members give signals that they can contribute to a discussion, but do not intervene out of respect for the hierarchy.
+
+There is a time for a single team voice, but there is a time for individuals' contributions: in my view, it is up to those called to lead to help develop capability.
+
+In our data-centric times, this implies integrating within activity and management something more, an approach based on collecting signals where they are understood, and continuously monitoring and consolidating to spot trends and pre-empt actions.
+
+How do you implement that approach? First, there is no one-size-fits-all: it has to be tailored to your own specific context, including the mix of talent that you have access to.
+
+Second, you have to consider that ideas and concepts will evolve through a pattern that is not really hierarchical.
+
+It would take a book to discuss the concept, but as an introduction on disrupting a traditional approach to idea development view a 2019 documentary on finding the lineage of a song that, in my mind, is associated with the singing dog within one of the "Men in Black" franchise [Who Let the Dogs Out](https://www.imdb.com/title/tt9617782).
+
+It starts with a straight, linear approach searching for "lineage" of the song, and gradually gets more and more involved.
+
+Whenever introducing change, you are starting from something existing.
+
+Anyway, understanding the actual lineage of the real (formal plus informal) current status is often critical to the success of a change, as will disclose decisions that happened in the past and considered existing strengths and weaknesses.
+
+And this, of course, requires also a different approach to motivation.
+
+
+<b>Gamification of social change, 2.0</b>
+
+
+If you understood the concept of "nudge" that I referenced above, you are already used to a degree of gamification in your life.
+
+The carrot-and-stick approach with memory of both as part of a kind of "scoring system" is deeply embedded in our modern complex societies.
+
+Also ignoring what discussed in some mini-books that published few years ago, e.g. [BYOD2, nicknamed "you are the device"](byod2), our society introduced various elements of social credit, i.e. forms of gamification.
+
+Example: your credit report, but also your tax paying record, or your driving license based on "points" linked to behavior- as if you were in a videogame.
+
+Look around you, and there are many more elements, beyond the obvious "fidelity cards" (physical and virtual) that you are probably getting from any supplier you use.
+
+Companies that adopted the "lean" approach, quality, recycled the Toyota approach, or had initiatives such as those inspired by WCM, Six Sigma, and countless other "frameworks of reference", are used to formal "suggestion boxes".
+
+When part of the product or service design and delivery were externalized, eventually had also to integrate... "suggestion boxes for suppliers"- who had become the actual operational owners of the knowledge that was de facto transferred to them.
+
+Since the 1990s, I saw it across different industries- the only issue: what motivates a supplier to offer advice to customers on how to improve their own operations and processes, or even products, if their contract is shorter than the impacts that they generate?
+
+It reminds me when I was living in London, and newspapers reported that some of the train service issues (from delays to outright disasters) were related to the requirement by those winning the contract on a specific line to do improvements or carry out maintenance whose return of investment was, say, 10 years, while having a 3 years term.
+
+Those that I saw that worked better were decoupling the two elements: obviously if you outsource activities embedding knowledge, eventually you lose it internally. hence it makes sense to separate the knowledge-based from the service- or unit-based.
+
+As an example, between the 1990s and early 2000s, whenever a customer asked to deliver a fixed price project on organizational or process or technological change, but had just a rough idea and required operational details, offered to sell a feasibility study, whose cost, if then they awarded us the actual project or initiative, would be discounted at least in part (for larger projects, in full).
+
+Initially customers complained that I was asking them to pay to tell them how much they would pay for the project, but eventually accepted that the rationale was that they could then decide to do it internally or with other suppliers, and they had contacted us just because they decided that would have been better to ask external experts to provide.
+
+Or: already in the 1980s, while working on designing, delivering, auditing decision support system models for senior management at customer sites, working directly with them, I had a chance to discuss these issues, and saw how common was becoming to see the data, but have lost operational knowledge that would be needed to deliver real governance of externalized activities, even more so to deliver guidance on innovation of services and products.
+
+A caveat: whenever adopting a gamification approach (or just call it KPI, performance, reward, incentive, etc), look at the culture that generates them and that they embed, as I suggested in the 1990s to customers considering moving from internal systems to off-the-shelf ERPs.
+
+And cross-check toward your real existing culture.
+
+As an example, in the first few cases of ISO9000 adoption that I saw in the 1990s, ignoring the "informal" implied that there were actually three layers of activities to be carried out by the same operational staff:_ what was done formally before_ what had been formally defined for ISO9000_ what was needed to comply with the latter while keeping what was done informally before.
+
+Eventually, at least the first and second layer were merged, when ISO9000 was embedded, but ignoring the third could still generate a lack of productivity due to the ignorance of the real operational constraints.
+
+Ditto the adoption of what are de facto gamification schemes such as those performance evaluation approaches that require that everybody evaluates everybody else: you your peers, your peers you, you your bosses, your bosses you, and also in some cases integrating suppliers and customers.
+
+The assumption is that everybody would do objective choices, but in a tribal culture as the one prevalent in Italy, this often turns into "I scratch your back, you scratch my back", distorting results.
+
+My first experience with a performance evaluation system? 
+
+In my first job, 1986-1990, as my company derived from Arthur Andersen (worked for two business units, one service-based, the other product-based), and therefore adopted many of the internal processes and systems that had been developed for decades, first in audit activities, then also in consulting, and from the 1950s/1960s also IT.
+
+E.g. [the IBM system called CICS was Customer Information Control System](https://en.wikipedia.org/wiki/CICS), and I remember reading within an Andersen "training unit" about the first Andersen projects with that system- even when I was still a toddler.
+
+The company had a whole unit nearby Chicago focused on extracting knowledge and lessons learned from any projects (I remember a 1990 brochure stating that there were something like 5,000 employees out of over 70,000 worldwide focused just on that training and knowledge thesaurization centre and related activities).
+
+So, a performance evaluation system (I still have somewhere all the "rating forms" that received) included in that case not just performance on the job, but also related to knowledge transmission and other items that could be of organizational interest.
+
+In most cases, also the selection of the way to measure performance and additional gamification approaches to be introduced within a company is really done by calling up external experts.
+
+Whenever involving external experts, including myself, I said to customers that we are advisors, but the choice on which advice to integrate into decision-making, if any, is up to the customers, who will live with the consequences of implementing decisions (with or without an external advice element).
+
+I will never get tired of repeating that any implementation of a KPI or performance system must be contextualized.
+
+When I was delivering a training curriculum to project managers, managers, and business analysts for a customer, once I remarked that what motivated those who were there when the company was founded, was not what motivated those who were hired while the company payroll was expanding at a fast pace.
+
+This resulted in further activities, and both there and elsewhere saw how avoiding "projecting", and instead tuning to the context helped to actually generate value from active contributions made by those involved, significantly higher in volume and quality than when adopting a value extraction approach. 
+
+In our data-centric times, where staff in any business domain is "embedded" in technology, behavioral patterns that worked in the XIX century, or even the first half of the XX century, and were really top-down, will fail to deliver results.
+
+Just look at talent retention rates and scarcity of skill mix that would be required if the EU were really to nearshore/friendshore or reshore research, innovation, and manufacturing,  that over the years had been transferred outside the EU. 
+
+Implementing a gamification approach that would enable even virtual teams composed only of external experts to actually generate more value beside the immediate quid pro quo exchange requires adopting policies that are more aligned with a data-centric society where each member is both a data provider, a data consumer, a data transformer.
+
+The scope of this article is project management and related but, as within the title of this section, implementing approaches at the project or organization level embedding a kind of gamification that transcends the immediate activity implies introducing a different approach to change.
+
+As I shared in previous articles, in the late 1990s in Italy saw some short-sighted approaches to talent attraction and retention.
+
+At the time, it was due to the [Y2K problem](https://en.wikipedia.org/wiki/Year_2000_problem), i.e. computer memorized dates with just two digits for the year, as a standard approach, and many algorithms obviously checked for date past less than date future- but if e.g. 1998-04-30 was stored as 980430, coming January 1st 2000 the comparison would be 000101 < 980340, which of course would be false.
+
+There were obviously many more consequences, but that is the key element, and why already in the 1980s I was involved in projects that include the choice of shifting (including retrofitting existing systems or data) to something like 19980430 to be compared with 20000101.
+
+While larger companies embedded those changes in projects happening earlier (e.g. a banking general ledger I worked on in 1987-1988), other companies waited and waited- so, there was a peak demand for IT specialists at the end of the 1990s.
+
+It became common what you see now for AI specialists: companies offering a salary increase to extract trained talent from other companies, assuming that that would solve the issue.
+
+Well, I remember being told of cases of people who switched company each month: obviously, it was not sustainable, but lasted a little while.
+
+In our data-centric times, most of the unexpressed value that can be generated by the mix of your talent and your operations walks out of the door each evening.
+
+The XIX century ritual of contracts, non-competion, non-disclosure is just a reason why, notably with younger generations that are more used to understand the value of information they receive, generate, transform, this generates less value than expected.
+
+If you, right or wrongly, assume that you know a way to improve processes, but you get an unpaid internship, it is a one-sided extractive relationship, not the often advertised "talent development".
+
+So, the current system is a negative incentive to generate value.
+
+There are and still will be areas where the XIX century ritual will make sense- but, frankly, in a data-centric society the best choice is to have more balanced approaches that are incentives to value creation.
+
+Anyway, the aim of this section was to share concepts and ideas that I think many of my readers would know how to develop within their own context, in their own specific way.
+
+The key is, here, to adapt first at a project- or initiative-level (i.e. within a kind of relatively controlled environment) that is relevant to your organization, to develop your own approach, and then, based upon results, decide how to evolve it and spread, i.e. embed within your own corporate culture.
+
+In some cases, a single "pilot" would not be enough, but will discuss how to develop and expand approaches within the next article.
+
+But, as the first part of the title says, this is part of the difference between change and tinkering: the latter sometimes seems incremental, but eventually is what my French colleagues called "une usine &agrave; gaz".
+
+The former? In my experience, can be only incremental- by design: you can have a grand strategy that delivers a first change wave, but you better be prepared, as that change, notably if you cut some corners in the "assessement of the real existing" phase, will unleash more changes.
+
+As I will discuss in the next article, part of the organizational innovations needed to design and implement an approach closer to our current sensibilities is to actually integrate lessons from...
+
+... politics at the national an sovra-national level.
+
+For now, have a nice week-end!

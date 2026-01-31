@@ -1,0 +1,479 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20240121_article.png)</center>
+
+This article started as one, became two, and then...
+
+... became one again.
+
+This time, not an editorial choice, but a more mundane technical issue- a physical crash.
+
+And, obviously, if you anyway drafted, researched, and then drafted again a lot before having that crash, at least the "narrative" and main supporting material are quite clear in your mind (or should be: if not, it is worth checking something).
+
+Now, why one that became two?
+
+Because it all started with a simple observation: my most read article is still a short article from March 2018.
+
+The article? [Per una politica industriale che veda oltre le prossime elezioni #industry40 #GDPR #cybersecurity / For an industrial policy that survives election cycles #industry40 #GDPR #cybersecurity](https://robertolofaro.com/index.php?page=138)- read over 20,000 times.
+
+That article started with a discussion about the "timeframe mindset" difference between lawmakers creating laws to support innovation, and that of the receiving audience.
+
+The idea within this article is to see two elements: shifting to the EU level, and seeing how, considering all the regulatory (and funding) changes that happened since 2020 at the EU level, also Italy should probably benefit from a paradigm shift.
+
+Hence, initially those two elements, during the drafting process, became again a 17,000+ words venture (a minibook), and decided to split in two.
+
+Having to start again, as now I had in mind all the material reviewed to support, decided instead that a first article blending both themes would be enough, and from February more articles on related themes will follow, until and after the forthcoming European Parliament elections.
+
+Yes, 2018 was the year before the previous European Parliament elections, and was updated in April 2019, one of the last articles that started in Italian and then got also an English version.
+
+And it was two years before instead suddenly any business (at least in Europe) was flooded with liquidity and grants and other concessions aiming to keep business afloat during the COVID pandemic and its immediate aftermath, while all the supply chains and many operations were disrupted.
+
+I already shared plenty of articles about [NextGenerationEU](search.php?tag=nextgenerationeu) and [PNRR, its Italian component](search.php?tag=pnrr) since 2020 (over 60 articles), as well as material from the preparation of the PNRR ([including a GitHub document repository](https://github.com/robertolofaro/pnrr)).
+
+That 2018 article was focused on Italy, and therefore started in Italian, receiving an English version add-on a bit later.
+
+In both cases, part of the theme was how to generate a meaningful (and impactful) industrial policy in a country that is constantly under a cloak of tribes trying to retain (or wrest) control from each other, and to "lead" (i.e. altering the system to their own advantage, courtesy also of a "spoils system" that stretches from the top to the bottom of any organization that has State or local authorities as key stakeholder).
+
+The actual concept of "leadership" in Italy is more closely identified with individuals, as [discussed here in 2017 (updated in 2019)](index.php?page=125) (and that one too was read over 15,000 times): showing how much we are far away, as a social construct, to understand (and accept) the complexity of our almost post-industrial world.
+
+And how we still apply a mental framework that really comes from a village-based economy (i.e. well after the Fall of the Roman Empire), and at most with some "outsiders" as merchants (i.e. before the first steps of a more complex Italy, first as a collection of states, and gradually as a political integrated entity, also if socially we still have a bit to go, before becoming really a "nation").
+
+With its corollary: the demand to elect "competent politicians" as a way to delegate choices (and risks).
+
+On this latter demand, I always reply with "competent in what?", considering that e.g. representatives elected in Parliament are asked to express their opinion or cast their vote each day on different domains.
+
+Three elements: tribes - obsession with leaders - demand for competent politicians, elements which continuously remind me of what an American colleague who had lived for a long time in Italy, working as IT and management consultant, told me almost three decades ago.
+
+"Troppo complicato" ("too complex") was the common reaction whenever he, after assessing an issue, proposed something that required looking beyond the now and tribal, as often it seems that everybody in Italy assumes that doing something that will take a long time to impact reality is a potential waste of resources.
+
+How does this affect the definition of an industrial policy? A lot- as short-termism and tribalism (the "electoral cycle" within the title of that 2018 article) become almost ordinary, even when decisions are structurally long-term.
+
+Now, talking about shifting to the EU level, actually replace "tribe" with Member States (or even Regions), "obsession with leaders" with the ongoing minuet about EU-level roles, and "competent politicians" with an attempt of bureaucracies to turn into technocrat while bypassing the political level to outreach directly to the citizens...
+
+... and you get an overview of this article.
+
+Now that you know what this article will be about, and its starting point, here comes the usual list of section:_ thinking systemically in 2024: a laundry list of cases_ neither an island nor a fortress: EU vs. the World_ self-referential bureaucracies and cognitive dissonance_ the challenges up to 2030?_ thinking systemically beyond the electoral cycle.
+
+
+<b>Thinking systemically in 2024: a laundry list of cases</b>
+
+
+Many said that 2024 is the year of the worldwide elections: not just in Europe and USA, but also across plenty of countries.
+
+Well, albeit in few countries now we already had elections, and in others the path toward the elections is a long journey.
+
+How can elections in Taiwan and primaries in the USA attended by a little over 100,000 affect choices to be made first in Europe by few hundred million voters, then again in the USA by few hundred million more?
+
+And how having those elections in mind can affect dealing with two wars around the corner from Europe, plus the associated impacts on energy provision, right after the COVID pandemic showed how EU Member States had overextended their "delocalization", to the point of lacking access to critical yet underestimated components?
+
+This section is about sharing elements that will be useful to discuss in the sections that follow, and therefore I will try to keep it short and to the point.
+
+The concept is that "systemic" in 2024, following the experiences and choices since 2020, showed again what we already saw over the last few decades.
+
+It is the old John Donne:<i>"No man is an island,
+
+Entire of itself;
+
+Every man is a piece of the continent, 
+
+A part of the main.
+
+If a clod be washed away by the sea,
+
+Europe is the less,
+
+As well as if a promontory were:
+
+As well as if a manor of thy friend's
+
+Or of thine own were.
+
+Any man's death diminishes me,
+
+Because I am involved in mankind.
+
+And therefore never send to know for whom the bell tolls;
+
+It tolls for thee." ([source](https://allpoetry.com/No-man-is-an-island))</i> 
+
+I wrote a lot about data-centric society, also in the 1980s and 1990s for customers, before starting to post first an e-zine on change in the early 2000s, and then from late 2000s under my own name.
+
+My data-centric approach was in part inspired from observation while first living and the working around Italy, between the early 1970s (yes, as a kid from Turin living for few years in Calabria) and early 1980s (as a teenager digging into data from Brussels etc concerning European integration and policy, while within a political advocacy, and having to interact with some who made of politics a profession and a career).
+
+Specifically, I learned quite early that what I was years later to ear, the famous quip about being entitled to your own opinion but not to your own data is funny but neither politically nor technically true.
+
+Living in a complex world does not imply being willing to avoid "cocooning".
+
+When you are asking for the vote of voters at the national level (as even European Parliament elections are really played at the national level), or trying to blend at the EU level a consensus between elected politicians, usually you deal with "degrees of influence".
+
+Let's be frank: if you are in Europe or USA, would you really think e.g. about ongoing conflicts across Africa while choosing who to vote for, or which "flash mob" against the war to attend?
+
+Or would you just think about Ukraine, Gaza, Israel (not necessarily in that order)?
+
+So, the first step of an assessment leading then to an industrial policy is to consider your "framework" of reference.
+
+Yes, <a hreF="https://en.wikipedia.org/wiki/Framing_(social_sciences)">framing</a>, that implicit, sometimes unconscious sometimes conscious sometimes multilevel...
+
+...way to "see", more than just represent, reality.
+
+I know- many would disagree with part (or even the concept) of that article about "framing" from Wikipedia, but actually this is a way to rest my case.
+
+If even the definition of "framing" or "relevant data" ([see a book I wrote about that few years back](relevantdata)) are not an objective reality, there is something else worth considering.
+
+That poem is talking about an absolute, as befits those sharing about the world of ideas, but this article, as many articles of this website, are about ideas converted into concepts and then action.
+
+If you talk with any expert, at whatever level, they eventually end up talking in absolutes- only lawyers are inclined to talk about relatives and "unknowns".
+
+My favorite blend of absolute and knowns have been since my first project within the insurance industry, in the late 1980s, insurance contracts containing the "act of God" concept, coupled with datasets that seemed coming from the IT implementation of the Old Testament of the Bible, counting the number of limbs affected by each event covered.
+
+A lasting impact of COVID is not just a sense of structural weakness, but a kind of epiphany: we talked a lot about Fortress Europe, and then discovered that we tried to shift toward the top of a pyramid where we transformed what other made, often under our how designs or instructions, and by being at the top of a long chain of transformations, we could:_ extract the most value_ afford to be affluent without resources_ shift elsewhere the costs (e.g. pollution, sweatshops)_ assume that we were a market nobody could do without_ assume that we put the brains and funding, and others would contribute the muscles.
+
+As will discuss in the next section, it was already in the 1950s that in Europe we discussed about a shared defense, but decades later we have still just what resulted from the 1963 French-German Treaty and its consequences, and maybe soon few more bits related to the recent French-Italian Treaty and the update to the 1963 one.
+
+Somebody said that the EU is an economic giant and a defense dwarf: there is some truth, but I think that the first half is overoptimistic.
+
+Also on the economic side, you need a left of sustainability despite external influences that we do not have: we import resources, import what we delocalized to add finishing touches, and export outside; and, anyway, you just need to have a look at the map of Intra-EU export/import (that shared various articles ago) to see how that "strength" is really not widespread. 
+
+Furthermore, the recent string of interest rates hikes set by the European Central Bank tried to tame an inflation that was mainly imported by acting on the internal economy, and then sold as a success the results so far, also if the changes are, again, imported.
+
+Last but not least, many funding measures during the COVID pandemic and since then have, in my view, kept afloat businesses that, if their owners had had to consider the optimal allocation of resources, would have been probably shut down and replaced by other businesses.
+
+Actually, I heard in recent years in Italy more than once something that made me cringe in the early 2000s when I was occasionally in Italy and discussed with startups or SMEs: not "we want to do this, are there any resources that could help/accelerate?", but "what can we do to get funding?"
+
+So, despite being called the initiatives to help recovery and build resilience since the COVID pandemic being called "NextGenerationEU", I keep writing (and saying to those who bother to ask) that I see too much "sustaining the status quo" and too little "building resilience", and that the "NextGenerationEU" should be read as "will be paid by the next generation in EU".
+
+It was almost worth burning at the stake uttering so in 2020-2021, but now it is a routine to hear from panelists.
+
+A further side-effect of COVID was frankly more of the old Monnet approach, but shifting roles: jumping the gun on reforms pushed through that otherwise would have needed a long debate.
+
+Just looking at the "data" side of new or recently (or soon) active regulatory changes and proposed directives, including the obvious GDPR, forthcoming AI Act, and recent Chips Act, I found a dozen (lost the files, but will download again).
+
+For my non-EU readers: the difference between a Directive (e.g. many in the past) and a Regulation (e.g. GDPR) is that the latter is immediately applicable across all the EU Members (plus other countries where specified), the former requires a national "adoption" on a country-by-country basis.
+
+Some of those recent changes, e.g. the RePowerEU or Chips Act, but also the Digital and Green transformation parts of the NextGenerationEU and associated, are actually more directly impacting on a potential EU-wide industrial policy.
+
+Whatever the results of the USA elections, we already saw since the beginning of the invasion of Ukraine and then the attacks from Hamas in Israel and the ensuing invasion of Gaza by Israel that we Europeans are often considered, as I wrote already over a decade ago, worth footing the bill or to be on the receiving end of "face saving" polite listening- but not really direct influencers.
+
+Yes, EU too is not an island.
+
+
+<b>Neither an island nor a fortress: EU vs. the World</b>
+
+
+The title of this section is a bit more precise: the forthcoming European Parliament elections should actually accept the reality of our structural weakness while relating with the rest of the world.
+
+The railway from China to Spain and back has been affected by the invasion of Ukraine, and ditto the energy provision side.
+
+Will discuss in the next section what I think about all the "treaty-signing frenzy" that the EU living now, before the elections.
+
+Incidentally: I keep publishing bilingual articles only whenever there is an election, otherwise since late 2018 shifted to releasing articles exclusively in English (when understood that made no sense to keep open a company in Turin, if I received only offers to deliver management consulting services for free "to build goodwill" from those who had received a budget/appointment/assigned, but needed the competencies).
+
+This year, frankly, I think that instead will consider the whole, i.e. EU and Regional elections, and will publish just in English.
+
+As I shared few days ago, after really had already started preparing this article, what we saw since 2020 (COVID and two wars) generated a paradigm shift, and a demand for an industrial policy, which actually is not just about manufacturing or distribution.
+
+Or: we are talking again (it really was started in the 1950s) about an integrated European Defense- the French-German rapid deployment brigade is not enough, if the USA has no need to access energy resources elsewhere, and has somewhere else to look (APAC).
+
+What I am referring to was [described by a document that you can find online](https://www.europarl.europa.eu/meetdocs/2004_2009/documents/dv/sede050508germanfrenchbrigade_/SEDE050508GermanFrenchbrigade_EN.pdf): <i>"The French-German Brigade has been permanently placed under the command of the Eurocorps for exercises and operations since the foundation of the latter in 1993. The cooperation between the two has been fostered very much by their joint participation in the mission in Afghanistan from July 2004 until January 2005"</i>.
+
+From [Eurocorps website](https://www.eurocorps.org/about-us/history/): <i>"The French and German post World War II leaders understood the necessity to foster friendship relations between them ; this resulted in the Elys&eacute;e Treaty in 1963. Konrad Adenauer and General De Gaulle were the driving forces behind this reconciliation. The treaty already included cooperation in the defence domain.
+
+In 1989 a further step in French German defence cooperation was realized with the creation of the French German Brigade (5.000 soldiers) based in M&uuml;llheim (Germany).
+
+In October 1991, the French President Fran&ccedil;ois Mitterrand and the German Federal Chancellor Helmut Kohl, were eager to increase the visible signs of the reconciliation between France and Germany while fostering simultaneously an idea of European Defence. A few months later, May 1992 both governments decided to set up in Strasbourg a French-German Corps Headquarters, where both nations would share equally the command but also the burden. Eurocorps was born.
+
+Shortly after, the French and German governments decided to open this headquarters to members of the Western European Union."</i>
+
+Also: COVID showed that we probably need to develop a European self-standing supply chain for technologies critical to our dual transition, digital and green.
+
+Also: we need to rethink our energy supply partnerships (as we transform energy sources produced elsewhere).
+
+I attended since 2020 many webinars (and few in-person workshops) about these and related themes, with a focus not just on Europe (a concept wider than the European Union or even its "second circle" composed by Norway, Switzerland, UK) or Italy, but on what was going on elsewhere.
+
+As I shared in previous articles, COVID at last allowed to accept invitations to conferences that I had kept receiving since really the 1990s, but would never had a chance to attend when were "in person-only".
+
+The curious common thread that I found is that, while globally there is a general consensus and understanding, both the European Union and Italy seem to live into a different plane of reality (and [shared online on Facebook plenty of examples from the news about Turin and Italy](https://facebook.com/robertolofaro)).
+
+This article will be shorter than the two that replaces (probably a welcome choice, after [the latest article was really a mini-book of over 17,000 words](index.php?page=541), as I had no time to prepare a proper mini-book, and [even a related recent one was over 11,000 words](index.php?page=538)).
+
+If you read this far, you are probably starting to see why this section and previous one are a such a mix- from microfailures within a supply chain (basically, using my own example of a crashed memory card), to legislative designs attempting to solve in a sweeping act structural issues (e.g. the string of regulations and directives from 2020 or enforced since then- more about this in later publications), to having a target market to test and develop demand for technologies, to building the "knowledge supply chain" needed to keep it all alive and kicking.
+
+There are some key structural issues that even more recent webinars, articles, and conferences about the future of the European Union highlighted.
+
+And, as [I wrote earlier this week on Facebook](https://www.facebook.com/robertolofaro/posts/pfbid02bpobejeAyUnuvqP37gM1oA1ANLT4hJfoemmCZwY4hMHgcyqytDA3YYm35drvyj5Jl), at least in Italy we are entering into a feeding-frenzy that is clearly marked from the lack of a "grand strategy", ideas, and often also a mix of competencies adequate to grandiose speeches, the latter due to the usual local tribal culture.
+
+Which is really what, at a larger scale, is often happening within the European Union: we have the resources, competencies, potential demand- but all partitioned across multiple "tribes" (at the EU level, more Regions than just Member States).
+
+So, "beggar thy neighbour" is often perceived to be a quixotic way ahead, as if there were not already enough competition from outside (from friends and foes alike).
+
+The defense and generally technology industry are a prime case: few days ago attended remotely an event in Turin to present a new "European Integration" manifesto (more about this in the next section), and one of the discussion points was the rivalry with our more organized and structured leading EU partners, notably France (which has been "shopping" in Italy for a while, from banks to utilities to telcos to automotive to high-tech, etc).
+
+Actually, also Germany and other friendly countries (and, before the invasion of Ukraine, also Russia and China were happily taking over industrial and business assets in Italy) have been shopping around.
+
+Europe after the Treaty of Rome still remained what I called a "fair weather alliance", and probably 2020-2024 will be the time to rethink or prepare to fold.
+
+Fold how? As I wrote while still in Brussels over a decade ago, and proved by the map of intra-EU trade that shared a while ago, a multiple-speeds Europe is not out of the picture, and the recent French-German proposal that discussed few articles ago, along with the Quirinale Treaty between France and Italy, is both a step forward and and step back.
+
+A step forward, as at least presents a "position paper" a bit more structured than the usual collection of platitudes about "goodwill and unity" that I keep hearing whenever there is a meeting of insiders or mainstream politicians talking about the EU.
+
+As I did with customers in the 1990s and 2000s: a position paper is not cast in stone, but it is a discussion ground- then, a consensus might be completely different (albeit many would like the petition approach- they set the context, and all the others align, but each one reads what s/he wants).
+
+Not being an island, EU needs anyway to acknowledge that cannot be 27 islands (or up to over 30).
+
+So, a bit more of integration would be needed, as otherwise our cacophony of voices would be even 27 islands an unreliable partner.
+
+Which implies also ensuring that the separation of powers (even up to the bureaucratic "segregation of duties") is transparent and consistent: if for NATO even armies have to report to politicians, media routinely since 2020 reported how the European Commission seemed to decide and then seek political approval, not the other way around.
+
+Notably whenever committing to something that transcends the electoral term.
+
+Becoming a fortress maybe is neither realistic nor advisable, but once a political oversight were reasserted, it could delegate operational choices within a "framing" that would make that relevant and consistent.
+
+And this would impact on the feasibility of an industrial policy.
+
+As shared also in past articles, I am not the only one who says that "dual use" (civilian and military) is an obsolete concept.
+
+In a data-centric world, any technology and its applications is potentially "dual use".
+
+Our USA allies traditionally used the military side also to develop their own tech industry: look at technologies currently in use, and try to identify key technologies for civilian life which did not have, at the beginning or a later stage, funding or pilot projects for potential military uses.
+
+I like to pinpoint to funny movie presenting a case of excessive piling up of demands and its impact on decision-making [Pentagon Wars](https://www.imdb.com/title/tt0144550/) (and actually suggested it whenever procurement was discussed for whatever reason), but the concept is simple: if you start with a market of reference that can both finance and absorb, chances are that you can develop and test technologies that otherwise would never have such a steady, supportive, long-term-oriented industrial partner.
+
+The industrial policy of EU Member States often make me think to a concept discussed a bit while attending in 1994 a Summer School at LSE: "beggar thy neighbour".
+
+I will give you an example from a different domain, and from previous articles.
+
+I agree that allowing citizens to donate to research, notably in a country such as Italy where often research and foundations are treated as a sinecure or "parachuting" appointments, is a way to both allow citizens to vote with their purse, and to build a "common good" one step at a time.
+
+But I strongly disagree when I see that those collecting funding, instead of distributing to existing research facilities, build their own infrastructure, and then even start competing for a slice of existing funding.
+
+Shifting from 27 islands that pretend to be one, only to partition into a variable geometry whenever a decision has to be made with a third party makes simply impossible to be considered more than an afterthought in real decision-making, a kind of "sign here".
+
+As any data-centric technology is inherently dual use, it might make more sense to identify a different kind of "dual use market".
+
+Just consider how highways in Europe doubled for other uses, at least in few countries.
+
+In the XXI century, all the technology needed to allow "smart cities" could actually become a target market to develop technologies and approaches that would then be useful to coordinate "swarms" or drones and their associated logistics needs- and viceversa.
+
+When we think about "shared defense", beside the obvious example of vehicles (on land, air, water, space) and electronics supporting that, there is obviously also the energy provisioning and distribution/storage side, as well as "embedding" e.g. 3D metal printing at point of use of spare parts, to avoid logistical issues- but this, of course, would require redesigning equipment so that it can be "field maintained" and "field replaced".
+
+Therefore, I find quite curious whenever I hear in webinars and workshop about the future of defense in Europe concepts that are really 1970s transposed to the XXI century, as if where had not had half a century since then.
+
+As I wrote in the title of this section, neither an island nor a fortress: and shifting on both sides would require moving past tunnel vision.
+
+And, as discussed in the next section, the associated cognitive dissonance.
+
+
+<b>Self-referential bureaucracies and cognitive dissonance</b>
+
+
+This is the last "assessment" section, but if you read the 4,300 words so far, you already saw how assessments actually generate indirect and direct proposals.
+
+Whenever I was asked by a customer or partner (but as a direct customer I had to bill, alone or jointly) to prepare a proposal, usually the few things that I was told initially were enough to connect the dots with my experience and readings, and consider various scenarios.
+
+My usual first step was always capacity planning: which, in my view, includes also assessing decision-making-level feasibility.
+
+Example: say that you wanted to set up a company delivering solar panels.
+
+First, I assessed if you and your team of founders have background and/or resources.
+
+If you have neither, then I check if you have budget to finance at least a feasibility study to define a proper budget and identify the resources needed (yes, business and marketing planning includes also, in my view, identifying "who"- otherwise, it is just a game).
+
+If you have it, I usually do as learned to do since the late 1980s for decision support projects: create a financial plan that starts with a pre-kickoff payment, and then associates the schedule to milestones, deliveries, etc- to avoid the usual scam of asking a feasibility for free, not pay it, and then use it to actually look for funding and suppliers.
+
+If, instead, you were already an established business, all the conditions above are satisfied, etc, generally I would be involved on a change or recovery initiative.
+
+In this case, there would be a further condition: is there a mandate at the same level or above the change or recovery? As such a mandate been communicated across the affected structures, vendors, etc?
+
+If not, then personally declined to join- as often that was a way to spend as little as possible (or nothing, if it was all for an existing customer and linked just to milestones that would never be reached) to have an information collection on where were the issues.
+
+As I shared in the past, others instead sidelined my decline, went ahead, and then came back and told me that they had been "burned"- but sometimes I even had some who, after not getting what they had expected, assumed anyway to have been successful for having been asked: therefore, I had to explain the sequence of events.
+
+Alternative? If somebody insisted, then I asked the reference customer or partner to take over the payment risk, i.e. worked on a mission paid with a schedule agreed by somebody, or even a temporary mission as employed consultant.
+
+Beside maybe being useful to others willing to work as consultants in a team or freelancers, or considering working by mission, helping them to assess risk before taking on missions (e.g. I always, before signing a contract, check at the conditions and make a financial plan: if it risk is unbalanced, you can guess my answer- for partners actually had to renegotiate more than once contracts, and revised also contract signed by other consultants working with me)...
+
+... the concept above overall is simple:_ any initiative needs resources and should be associated to capacity planning_ just writing a contract or announcing a mission, vision, etc is not enough_ no contract is ever really "perfect", i.e. covers all the basis- notably in intellectual services.
+
+Often, none of those concepts is considered by those taking over an initiative- the paradox is that the more somebody is acknowledged as expert, the less feels the need to consider a systemic perspective, including:_ mandate_ degrees of freedom_ constraints_ a banal [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)_ a less-banal but sometimes critical [PEST analysis](https://en.wikipedia.org/wiki/PEST_analysis).
+
+So far, so good.
+
+Now, many would ask why I still have not discussed the elephant in the room, cognitive dissonance.
+
+Actually, all that you read above is an example of common cognitive dissonance: just because you are appointed, elected, acknowledged to a specific role, does not imply that you have to act as an all-knowing lone ranger.
+
+If you were to read the real list of projects and activities I worked on just from 1986, you would see that beside the specifics of some industries, technologies, market, I worked always with numbers and people, and the cross-roads between them.
+
+So, also when I read about a new initiative, I do something similar to what I did in Italy for [e.g. the L77/2020](datasets).
+
+Implying: I do all what is within that bullet list above- and then look also at the audience(s).
+
+Personally, I still believe that managing something implies also communication: if communicating and dealing with people is not your cup of tea, stay with numbers.
+
+At the same time, if you are just a pied piper selling smoke, keep doing that- but please do not involve me.
+
+If you blend both, and tune the blend to the needs, resources, audiences, then probably you can recover anything that is recoverable, and make that accepted.
+
+When it comes to industrial policy, I already shared in that 2018 article that linked above some comments about the difference between perception and reality ([as well as other articles about "industrial policy"- as of today, 66 of them](search.php?tag=industrial_policy)).
+
+Just because the 2020 COVID pandemic and associated supply chain disruptions showed how much EU manufacturing is dependent on chips produced elsewhere (including those delocalized to have a cheaper production cost), it does not imply that writing a Chips Act makes you immediately independent.
+
+Ditto, after the invasion by Russia of Ukraine, if all the oil and gas supposedly does not come anymore as cheap energy from Russia, and the alternative becomes importing from USA and building the associated infrastructure to make it easier to transport, and then convert back into a gas easy to distribute.
+
+This kind of cognitive dissonance happens not just at the EU level, also in Italy.
+
+And does not represent a mortal sin: it is a more a matter of getting carried away by "Sturm und Drang", i.e. starting probably with something provided by discussions with those who know, and then let too much connecting-the-dots unchecked by facts turn into your communication.
+
+I could share, as I did locally, examples concerning Italy at the national level and regional level, where prior experience delivered a communication connecting-of-the-dots that was puzzling, but that does not affect my consideration: I think that both Mario Draghi at the European Council and Alberto Cirio with a second term as President of the Region of Piedmont are two candidates I would vote for, if given the opportunity.
+
+More puzzling, in my case, is when eurocrats try to get "trendy" by trivializing their own expertise in a futile attempt to bypass politicians and talk directly to the masses, as I saw earlier this week during the presentation of yet another manifesto promoting further European integration.
+
+Really, the impression they gave me was similar to how in large part the same sources presented first the case for the European Constitution in France, and then the case against Brexit in UK: both not really stellar examples of communication that gets to audiences.
+
+Communicating to audiences trivializing also reminds the famous quip attributed to Einstein: "everything should be made as simple as possible, but not simpler" ([see an interesting discussion about Occam's razor and Einstein here](https://www.quora.com/What-exactly-did-Einstein-mean-by-Everything-should-be-made-as-simple-as-possible-but-not-simpler#:~:text=Albert%20Einstein's%20statement%20%22Everything%20should,without%20oversimplifying%20or%20distorting%20the)).
+
+If you try to adopt a communication code that sounds fake, it is akin to a politician with tie jacket and a robotic presence that trying to be cool with high school students, those directly involved could find appealing the "aura" that that presence gives- a selfie moment.
+
+But for external observers, becomes what happened in France and UK: it is patronizing, which always gives fuel to conspiracy theorists.
+
+And which increases distance from audiences/voters, and makes the undecided within reach of any of the alternatives.
+
+So, there are few elements worth remembering if you want to move ahead, but will let your extract your own summary (or just copy the text and have a try with your favorite AI GPT).
+
+Now, let's flip the balance: more proposals but still based on further assessment.
+
+
+<b>The challenges up to 2030?</b>
+
+
+This section and the next will be purely focused on proposals- but will reference prior sections if and where needed.
+
+Hence, if you did not read them, I would advise to do so.
+
+Why 2030? Well, because with COVID and two wars around the corner plus repositioning energy and supply chains, many would like to sweep under the carpet the UN SDGs and, for good measure, the Climate crisis.
+
+Luckily, at least staff papers during the Recovery and Resilience Facility (the "RRF" associated with NextGenerationEU) included also how both the EU as a whole, and each country were positioned in terms of progress toward UN SDGs.
+
+You [can read few dozen articles where discussed the UN SDG](https://robertolofaro.com/search.php?tag=un_sdg), but probably the fastest way is to read just [Resources, timing, purpose: #NextGenerationEU - #RRF and three countries](index.php?page=450), comparing few countries and progress.
+
+There is a key element that already discussed in previous articles: if you want to implement change, you need to consider the "knowledge absorption" possibility.
+
+Just a small reminder of one of my stories.
+
+When I was considering returning in Italy in the early 2000s, beside developing and launching my e-zine on change ([see the 2013 reprint here](bfm2013)), a quarterly published both in English and Italian, including some Q&A and other "operational" material, I also noticed how the stream of documents and "advice" from Brussels etc was dumped on local authorities.
+
+Italy has more than 8,000 towns etc, so did I quick check on structure etc.
+
+Eventually, saw that those before 50,000 inhabitants did not have a structure to "receive, adapt, adopt" what they received.
+
+Those above 500,000 probably did (some did, some did not, as I discovered since 2012).
+
+Then sampled directly and indirectly those in-between, and was told that would be interested in having a service able to advice them- but, at least in Piedmont, had no resources.
+
+Since 2012, both from Rome and from Brussels the stream just increased.
+
+Even if some of the dozen or so data-related regulations and directives I referred to above apply only to some specific businesses, it is worth considering what I was told few decades ago.
+
+It was a small business owner that I met while trekking in the Alps with a friend.
+
+When he told me that he was printing logos on material for companies, I asked him how he did it, as when I was a kid my parents too had a similar business.
+
+He told me that he was actually considering shutting down, as he was too small to sustain so many consultants he needed to have just to ensure compliance- it wasn't just the equipment, was keeping aligned with regulatory changes.
+
+A data-centric society is part of what was within the key elements of NextGenerationEU and the RRF- including both the digital and green transitions, and all the above mentioned regulations and directives (and more).
+
+There is a catch: the opportunity of a data-centric society, as discussed also under the section about the EU being neither an island nor a fortress (yet, on both counts).
+
+Which opportunity? As everybody is a consumer and producer of data, everybody, notably in smart cities, can both extract and contribute value.
+
+Anyway, this cannot imply having dozens of regulations and national bills associated with directives associated with any potential new ideas.
+
+So, there might be those who will afford a legion of consultants, or at least a cohort, covering continuously all the bases.
+
+But within the EU we can do better- notably, we can extend "consumer rights" to "consumer and creator rights".
+
+A first practical step toward 2030 and beyond would be to actually "connect-the-dots", by integrating technological support within legislative initiatives.
+
+I think that we should learn the lesson of the GDPR, but augment it with at least two elements:_ first, more communication and more transparency- flash mobbing is the current approach to political communication, make it informed_ second, whenever releasing a new regulation, directive, etc, why not use the benefits of current technology?
+
+AI Chatbots democratize access to what is based on rota learning- as many more technical than me on the actual implementation of Chatbots never tire to repeat, they sound as experts, but are not experts.
+
+So, any such "add on" would be actually an extension of what the EU did decades ago, by creating a community to keep in touch with all those who were part of projects that were funded also by the EU- [if you are curious, you can see my profile within the latest evolution of that community, now called joinup](https://joinup.ec.europa.eu/user/55173).
+
+To really converge toward the UN SDGs and all that was within the NextGenerationEU and ensuing activities, including future ones, we need to bridge not just the digital gap, but also the knowledge gap that makes impossible to really increase the benefits extracted from becoming a data-centric society.
+
+I will discuss in the next section further elements, as life will not stop at 2030 and, being already in 2024, and in an election year, probably any proposal and its implementation would realistically not be feasible before 2025-2026, i.e. not before the current "wave" linked to the NextGenerationEU is completed.
+
+
+<b>Thinking systemically beyond the electoral cycle</b>
+
+
+I kept my word so far- "just" less than 7,000 words, and this will be another short closing section.
+
+I think that communication is substance, as otherwise the risk is of losing contact with reality.
+
+Prior experience does not represent current cultural relevance.
+
+There is an article that I shared in summer 2021, [Systemic boundaries and the fifth freedom #Italy #EU #NextGenerationEU #PNRR](index.php?page=452).
+
+The original four freedoms reference is the one from FDR, the USA President.
+
+The current understanding within the EU is more "technical".
+
+Or: the original four freedoms compare with the EU four freedoms as the first part of the Italian Constitution compares with the first part of the (failed) EU Constitution.
+
+Meaning: inspirational vs. transactional.
+
+The fifth freedom? Read the article.
+
+Anyway, this final short section is about what happens not just beyond this electoral cycle, but also the next one, that will result hopefully in a future European Parliament election in 2029, i.e. really working from that fateful year of 2030.
+
+I do not expect that by 2030 we will have completed the convergenge across the EU 27 toward being "green" on all the UN SDGs.
+
+But I think that, while talking about an industrial policy for the EU, we can actually start putting on the table what would be needed:_ provisioning better for the future- we cannot just keep supporting "now" by shifting the costs to future generation, and then invoke them in every speech_ accept that probably thinking in terms of "circles of integration" is better than trying to have all the 27 Member States as if they had already converged_ if you want to focus on orchestration, you need to have an orchestra, which implies that roles have to be assigned by competence, and provisioned as needed_ if you want to focus on orchestration, you cannot rule by committee, but develop checks and balances better than we do now_ having an industrial policy EU-wide implies also having resources EU-wide, i.e. expanding the NextGenerationEU / RRF model, but at the EU, not by nation_ building and deploying EU-wide industrial policy would require having a "cadre" that transcends electoral cycles, but follow the NATO model- politics leads _ in a data-centric society, adopting for the future EU-wide industrial policy the ghost of USSR GOSPLAN would produce even worse results, wasting resources_ moreover, wasting resources while getting older and older, and with a welfare state based really on a different demographic pyramid, is shortsighted_ last but not least: in data-centric society that gets older, keeping competitiveness means being open to innovation- from whoever can.
+
+I think that building an industrial policy for Europe (starting with the existing EU, but gradually extending) would imply balancing multiple priorities, including defusing past (and present) fears constructively, considering that anyway all those involved now in this maze of issues are contingent, as anybody of us (myself included) is.
+
+As I shared within an article almost two years ago, [poltronificio vs. cathedral builders - #Turin and #Italy within the perfect storm](index.php?page=477), calling again a theme that those who worked with my heard uttered repeatedly since the 1980s.
+
+The bullet list within this section is a form of "cathedral building"- and, while building cathedrals, you have to play second fiddle to history, as the cathedral you are seeding itself will be take the lead.
+
+This is contradictory with our current obsession with leadership, published [Il paese dei leader](index.php?page=125) in 2017 referring to Italy, but apparently, beside being the recipient of the largest chunk of funds associated with NextGenerationEU, due to its starting point (and not just COVID), Italy is also a testing ground for an integration that still is weak and uneven, despite all the time since its formal unification.
+
+Creating a concept of "common good" implies not abandonding personal interest, but integrating it within a larger whole: curious how I continuously read and listen in Turin and Piedmont calls for surrendering to a common good... by those who keep seeing themselves as leaders and extract value, and are unable to considering that common good might imply blending with others, not just asking others to do what they can do for you (yes, paraphrasing Kennedy).
+
+Few days ago, as an example, as I do expect that, unless there are significant mistakes or unforeseen events, the current President of the Piedmont Region will be confirmed, I proposed an apparent sacrifice from... the opposition.
+
+One of its potential leaders is the current Dean of the Turin Polytechnic, soon to be replaced by a successor.
+
+The current President of the Regione has direct knowledge and experience of how the EU works, but Turin and Piedmont, for all those "empty boxes" created and currently being developed, needs to attract "content", i.e. talent, build a new more global knowledge supply chain to keep alive local universities while older companies fade away, and attract companies, notably technological companies.
+
+In a bipartisan, cathedral-builder mode that could actually test a method to be used later at a wider stage, both the President of the Region and the Dean, as head of the opposition within the Regional Assembly (in Italy, the leader of the losing coalition anyway gets a seat), they could actually deliver teamwork just focused on making the region more attractive, and testing new ground, as the Dean could deliver competencies currently lacking.
+
+You can [read the Italian post on Facebook here](https://www.facebook.com/robertolofaro/posts/pfbid0PuPyTLbNaZiVC3wwb1KKUB8erRhLoe9p3Q5gmKqPBuPjbsqJ6bCjDMotyagb3ZvMl), but that is the concept.
+
+In Italy, some politicians refer to the method used to work across the aisle to get the current President of the European Commission in office as "Metodo Ursula".
+
+But that was just a political convergence, not a combination of competencies.
+
+The preamble to this article was really describing just the assessment side of this article (i.e. the first half), as the purpose of this article, as usual, is to get across the path from idea to concept and, hopefully, inspiring action, not just the routine that since the late XX century became common in OECD countries, the "indignez-vous" type of "leading from the back" that in Italian, half-jokingly but remembering the 1920s-1940s period, we call "armiamoci e partite" (roughly: let's get on a war footing, but then you go and fight).
+
+Just to repeat myself, summarizing what I shared across few hundred articles on this website (and others between 2007 and 2011, i.e. while I was in Brussels, before re-registering in Italy): I am a bipartisan reformist and prefer to walk the talk.
+
+I think that reforms are what will make the system transcend an electoral cycle, as the current balance and distribution of powers at the EU level and between the EU and Member States is based more on an informal evolution than a formal and transparent convergence.
+
+Anyway, reforms that try to be a big bang (changing everything overnight) have the same structural weakness that I found in revolutions also when I was a teenager in the late 1970s, and talking about revolution was compulsory in leftist circles.
+
+Or: back then I used to say that revolutions change the players, but not the really the score- yes, a lot like "Animal Farm" from George Orwell (but you can also have a look a [Land of the Blind](https://www.imdb.com/title/tt0433405), a 2006 movie with Donald Sutherland).
+
+I was called a reformist (meaning: incrementalist, not just reformer) back then- and more than once, since the 1990s, I was told that it was actually an insult, back then (as if I did not know).
+
+Frankly, my early 1980s experience on European integration advocacy only reinforced that side.
+
+Being a reformist does not imply being a tinkerer: sometimes, reforms are unpopular and, short term, generate more resistance than acceptance.
+
+I saw that also when I had a mandate in the private sector, where occasionally had to help "keep the flame alight": it is easy to give a mandate, but requires courage to maintain it.
+
+So, let's see if, after the European Parliament elections, a systemic perspective will prevail, or, unfortunately, the inability of steering across multiple crises at the same time will result in an attempt build it as a collection of partially connected and partially coherent components.
+
+Which, actually could result in a loss of competitiveness, and even incentivate at the EU level what Italy routinely experiences: seeding locally, and then seeing delocalization as the only practical path to growth.
+
+Stay tuned.

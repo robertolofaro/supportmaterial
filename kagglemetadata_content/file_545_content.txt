@@ -1,0 +1,365 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20240207_article.png)</center>
+
+This article is a continuation of the thread about drafting the new version of my 2015 book [QuPlan](quplan)- and it is again within the [Business Rethinking / Rethinking Organizations](index.php?section=rethinking-organizations) section.
+
+There is an interesting element in coming from non-business activities, then in the Army, then in business from the IT side, then business from the non-IT side, then all blended together to work as a negotiator on tech and contracts: nobody sees you arriving until it is too late.
+
+So, I had missions where I was asked to pretend to be just one of the above, but then had to switch side.
+
+And routinely I had those from the IT side who said that I was too business-oriented, those from the business-side that said that I was too deep into tech, and both surprised when negotiations or contract revisions went ahead not based on business-domain expertise, or IT expertise, but something completely different.
+
+The key element is: if you are across "worlds", you might start, as I did in my first mission in my first job (1986) that you have to know or at least pretend to ("fake it until you make it"), and learn that you have to treasure what you learn and... not share it.
+
+But it took just few weeks into the preparation of that first mission, when I was asked to define a budget from a few thousand man/days using the company methodology and preliminary documentation provided (after the fact, my estimate was proved correct), as I had had already experience in politics and in the army of what is "capacity planning" and "effort".
+
+Then, I had the first doubt about what I had been suggested to do at the start, and instead went the other way around (but it was a natural inclination): listen before you talk.
+
+That first mission actually was useful: after few mistakes, was assigned to the "critical" core software bit within the project, a project aiming to release a product to automatically advise on which invoices, based upon data, supplier history, quality feed-back, etc, could be directly paid- all in COBOL mainframe.
+
+Then, it was an epiphany: I knew nothing about automotive procurement until then, and as the business requirements were a kind of "write as you go", with my business analyst designed an approach- he would give me bits as soon as available, also as drafts, and I would "embed" them as comments within my source code, and add and revise code as needed.
+
+The more we went, the more I saw that it was a matter of orchestration, not of "know it all".
+
+Again it was probably an inclination- also if I have had that "polymath" attitude that, when I am curious about something, I have to get through dozens of sources about the subject (while many instead read a book and become an expert on that subject), seeing in my first large project involving (across two projects) over a dozen direct and indirect people, plus various technical and data services, plus various business people was bringing back more memories of what I had seen in political activities (reading documents from Brussels and European institutions).
+
+Still, it showed how, if your result depends on orchestration, the first step is really to understand the context, and then...
+
+...listen. Before you talk. As there are already too many chatterboxes in business and society.
+
+Even funnier when it is, as it was since the following project, in banking on a general ledger, a domain that you do not know at all.
+
+Or, as it was with many from the next year (yes, 1988- in two years had had the chance to "see systemically" across two of the main industries at the time in Italy, the physical and the financial), across many industries for models representing business and business choices based on data- businesses, business models, business choices, and data that I was explained by somebody on the business side who had a "systemic" view of his (as were mainly men, at the time) company.
+
+A personal digression? No, just an explanation of how, beside personal or natural inclination, it is nurture (and curiosity) that matter.
+
+As Edison reportedly said, it is 99% perspiration and 1% inspiration.
+
+The previous article, [Change Vs Tinkering - evolving data centric project, program, portfolio frameworks](index.php?page=543), was focused on the conceptual framework that relates to portfolio, program, project management.
+
+You can read in that previous article some general concepts and potential issues from a methodology perspective, and reference to common consensus on definition (the one represented by PMI), along with caveats to remember to contextualize.
+
+This article instead will move toward proposals.
+
+Anway, whatever the size and purpose of your investment, business value, product/service/etc (to highlight the key item within the PMI definitions that shared in that prior article)...
+
+...no methodology and no budget will deliver by themselves.
+
+The mix of people and their interactions will actually make the difference.
+
+The "mix", more than just the individual level of quality represented by each team member: build a team of individualist primadonnas that try to outshine each other as they focus on positioning for their next role, and you will see what I mean.
+
+In the previous article, I actually closed referencing the reuse of concepts that derive from domains not usually associated with business team-building and talent development.
+
+And this article will be blending in again also the data-centric side of our society, something that is still missing, except as an afterthought, from our management approaches, despite all the nominal attention to technology, AI, data, data privacy, and all our modern business paraphernalia.
+
+This article is actually an expansion and referring to posts that I shared online over the last few days: another publishing experiments, helped also by news items that dovetailed with the themes I was planning to present.
+
+I plan to keep following the same approach also for the next few articles- best way to move ongoing progress on new books, books rewriting, and, of course, new, ongoing, refreshed data products/services.
+
+The sections in this article:_ bridging worlds- expanding on a theme_ what's coming next in data-centric_ going collaborative into the unknown_ some (data-centric) public service announce
+
+If you want to share feed-back, [feel free to direct-message me on Linkedin](https://linkedin.com/in/robertolofaro).
+
+Just remember: whenever I receive messages, unless it is within the scope of a mission for a customer, if you ask for input or share input and ask for feed-back, I will share my input or feed-back online for all to use; generally I also prefer to reference the source of thread, but if you prefer to stay anonymous, just state so when asking me questions or providing feed-back.
+
+
+<b>Bridging worlds- expanding on a theme</b>
+
+
+A couple of the themes discussed in the previous article were hyperspecialization and unbundling, along with their consequences.
+
+I know- I discussed those themes also in countless other articles, including in my 2003-2005 e-zine on change ([reprint here](bfm2013)).
+
+Let's start with the three steps I discussed in a previous article: idea, concept, and then... you know the drill.
+
+The idea is that when you increase specialization start partitioning activities in specialist sub-components, but, do it long enough, that that becomes a "cocoon", a self-contained world with its own lingo, rituals, tools.
+
+It does not necessarily need to be an "inside" evolution- actually, often the evolution involves optimization by externalization to a third party that specializes on specific parts.
+
+Being specialized, also if it started as an externalization of a specific entity, often this implies that, if there is potential interest across multiple organizations, it develops in and by itself.
+
+Up to the point where the business supplier becomes large than most of its business customers, and, being unable to really replicate inside the organization what the supplier provides, the business customer organization turns into a "consumer".
+
+Now, decades ago, between the late 1980s and early 1990s, I had my first projects on the business number crunching and then process design side of what are called retail, FMCG, and the like: but, frankly, I saw what I had seen in banking in my first banking project, a general ledger, where during a transition from the old to the new system I worked every night with the Chief Accountant of the customer on numbers.
+
+Numbers with products, names, and the relationship between the two, with a characteristic: while the numbers were shared between customer and supplier, the knowledge associated with the numbers was mainly on just one side.
+
+Hence, we started eventually to add "in-betweens", in the form of various mediators, watchdogs, etc, to rebalance (often as an ex-post) the knowledge imbalance.
+
+This happened on the consumer side, but, in our data-centric society, where each participant in any transaction eventually will be both supplier and consumer, this will gradually extend. 
+
+Standards are a form of "balancing"- generating at least a potential "transparency".
+
+Anyway, a data-centric society has actually the potential to generate further unbundling and externalization, up to the point where the company is really a temporary collaboration of free agents.
+
+And what about activities that currently are still kept inside the organization, e.g. for confidentiality and business continuity?
+
+Here comes our current wave of automation for most of those activities, automation that, being data-centric, will actually be both knowledge-intensive, but also retain explainability (specifically, not just the of what is done, but potentially how to replicate and rebuild).
+
+Consequence? 
+
+To quote the article:<i>"As I will discuss in the next article, part of the organizational innovations needed to design and implement an approach closer to our current sensibilities is to actually integrate lessons from...
+
+... politics at the national an sovra-national level.
+"</i>.
+
+The concept is quite simple, if you are used to work in environments that adopted "lean" in its countless variants.
+
+In politics, in Europe, the concept is often described as ["subsidiarity"](https://en.wikipedia.org/wiki/Subsidiarity):<i>
+Subsidiarity is a principle of social organization that holds that social and political issues should be dealt with at the most immediate or local level that is consistent with their resolution. The Oxford English Dictionary defines subsidiarity as "the principle that a central authority should have a subsidiary function, performing only those tasks which cannot be performed at a more local level"
+</i>.
+
+Unfortunately, both the concept and the definition refers to "organizations", while I prefer to consider it as an "organizational concept".
+
+Instead, if you follow the idea-concept line that described above, and add "subsidiarity" within the concept, it changes the concept of organization.
+
+
+<b>What's coming next in data-centric</b>
+
+
+Let's start with an idea about how I think should all organizations evolve: a smaller "core" involving contractually what are either free-agents or collections of free-agents mediated through representation entities that "collate and integrate".
+
+Yes, many would say that it is actually what has been done by many companies since the 1990s- the difference, here, is structural.
+
+It is a different, structural concept of subsidiarity: not as a consequence of the current status of an organization, and its externalization choices, but as an organizational design (or redesign) initiative.
+
+Subsidiarity as a design concept from the scratch, not as a form of delegation or devolution.
+
+Moreover: involving both the private and public sectors.
+
+The concept (some of my older readers remember I wrote about this long before "light accounting requirements" were made accessible to smaller companies in Italy) is to actually use the potential of technology to assume that businesses do businesses and, in most cases, they do not actually have the in-house or external capabilities to play with the nuances of the tax system.
+
+Hence, a simple in/out system tracing all flows in and out would be enough- and could be done by the State, leaving the company to focus on doing business.
+
+Ditto for compliance, that could be "embedded" within smart products (e.g. consider the storage of batteries where should not be), if all materials and components were to become traceable.
+
+And this would make for leaner organizations, with less and less people within non-core business activities.
+
+Immediate implication: if you blend automation XXI century-style (smarter, faster, cheaper, more scalable), there are many functions within many organizations that does not make sense to keep within organizations- their input/outputs might be integrated, but...
+
+...as I said decades ago, after my first banking general ledger project and few dozens of models all about financial controlling, marketing planning, control, etc: we are still following what Luca Pacioli prepared for smaller purposes, so what is the real value-added of a continuous redo every few years, just for a technological update?
+
+I saw accounts designs in the 1980s and 1990s, and, frankly, did not find that much more innovative in the 2000s and 2010s, while from the 2020s would expect something more.
+
+If we standardize on IFRS or IAS and other elements, could make sense to keep in-house (and maybe automated) just the differentiating elements that get information from that, or provide input to that.
+
+While this today is still often a matter of a dialogue between organizations, it would be already feasible now to be a dialogue between aggregated free agents, where the difference between smaller and larger organizations is in their ability to aggregate.
+
+Obviously, the organization has still a role, notably when there is a need to develop, retain, maintain physical assets needed to actually convert other services or materials (from raw materials to parts) into products or services.
+
+It would take a whole book to discuss just the content of this article so far, or even just this concept and its impacts on organizational development, but will share just one point: as usual, contextualize.
+
+Decades ago, there were companies that spent billions to become "paperless", and forgot that that was a tool, not their core business.
+
+As I did since 1990 whenever helping customers, partners, startups, I think that organizational design "off-the-shelf" is an old and counter-productive concept.
+
+At best, that way you "purchase" the best practices that were best elsewhere in another context, and might turn into a straitjacket or even shooting on your own organizational foot.
+
+There are some sub-systems that are needed for specific industries, subsystem that "embed" also compliance, not just what they deliver or how the connect with other subsystems- and it is where context- (i.e. domain-) specific knowledge is critical: saw too many organizational charts designed by organizational development maestros who got a little bit carried away with their own paper-wizardry, while they should have instead been advisors to those having specific operational knowledge.
+
+It is knowledge that is potentially evolutive, i.e. you have to keep your own "antennas" on it, as a continuous investment, if you want to tailor to your own organizational needs.
+
+To get back to the closing elements of the previous, "conceptual" article.
+
+If you want to test the ideas and concepts above, the key is, here, to adapt first at a project- or initiative-level (i.e. within a kind of relatively controlled environment) that is relevant to your organization, to develop your own approach, and then, based upon results, decide how to evolve it and spread, i.e. embed within your own corporate culture.
+
+In some cases, a single "pilot" would not be enough, but, as the first part of the title of the previous article said, this is part of the difference between change and tinkering.
+
+Currently the debate on the impacts of data-centric is still too much "technocratic": regulation, technology, and then again regulation, technology- too little about people impacts, except from another type of technocrats, official philosophers and ethics experts.
+
+Within organizations, the new approach would actually require to invest more into team-building and other "soft" skills.
+
+It might sound counterintuitive, if you consider this picture:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20240207_post1_zerohourscontract.png)</center>.
+
+As I shared in previous articles, this approach is actually quite common in Italy, also if it sounds so XIX century.
+
+Part of the same cultural approach that, in Italy, implies that industrialists' associations, whose membership base is predominantly composed of small and medium companies, keep asking to receive newly graduated or soon-to-be-graduated at low cost and focused on current technological demand, cutting corners on what is considered "excessive", but would instead be needed to ensure continuous learning to keep being competitive.
+
+Italian companies routinely complain that they cannot find enough young talent- but then, if the attitude is the "indentured servitude" approach that I saw since the early 2000s in many local labor contracts, they should look into the mirror- and it is not just about salaries.
+
+What is the "indentured servitude" concept? It can takes various names and forms with slight differences, but, to use a funny example, is akin to the [Lord of The Rings "my precious"](https://www.youtube.com/watch?v=Om8iSXUAKh0) scene.
+
+As if before entering his hands that "ring" had not yet existed, and would never be acceptable to see it elsewhere.
+
+Since the early 2000s, I saw in Italy few contracts (and worked in some) that were "balanced", e.g. mission-focused and assuming that it was an exchange of contributions, not just filtering access to the market: imagine if you were to take a taxi for a ride, and then question who could use that taxi.
+
+The concept should be that, in a future employment market based on a data-centric approach, each resource contributes both immediate skills and experience, and that, while specific contextualized experience might stay within the receiving end (the "customer"), stay also with the provider, and is augmented by each successive interaction both of the customer and the supplier within their own contexts.
+
+As a large Italian company said in a conference a while ago, they were actually investing also to help their smaller suppliers to be part of other supply chains, including those belonging to their own competitors, as those interactions might generate new approaches that derived from different perspectives.
+
+And this is the key element: if you want to benefit from being within a data-centric society, you have to expand, not contract, the number of interactions- NDAs, non-competition rules, exclusive but zero-hours, etc are all paraphernalia that reduce instead of expanding value.
+
+In the 1980s to 1990s read once in a while books about risk from epidemiology and overall science, to apply them within business and banking.
+
+Actually, those concepts were useful in cultural and organizational change as well as in helping increase the adoption of technologies and methods.
+
+Nowadays, in part courtesy of the changes introduced by the first COVID lockdowns, you are never too far away from access to even deeper level of knowledge by actual experts, via webinars, workshops, etc provided by reputable sources, not just by consultant like me who can relate what others did or, at most, their own results in their own applications of what those sources provided.
+
+Listening is good to find pointers, but those same webinars and workshops actually are useful to identify both sources to involve, or sources to rely on, if and when needed- also outside your own circles.
+
+A critical issue in a tribal country such as a Italy, where routinely I saw through my business life opportunities lost just because nobody ventured outside the boundaries of his own tribe.
+
+In a data-centric society, there is a key element that turns even more critical than in the past: ensuring lineage of information to avoid "circular self-referential" that described in previous articles.
+
+If you do not know what I am referring about- it is when it seems that you have a number of reliable sources confirming a specific information, but actually you just have one, re-hashed by many.
+
+When this happens, usually there are also other consequences, e.g. you might even eventually discover that that single source of universal truth was out of its depth- as it happened often during the COVID crisis, when some experts, carried away from their media exposure, went into lecturing mode about what was outside their beaten path.
+
+And this, along with the "bridging" / coordination / facilitation part, implies also focusing on extending collaboration: you can keep in-house and invest on your own "antennas" where relevant, but you are better off by having access to the wider picture.
+
+
+<b>Going collaborative into the unknown</b>
+
+
+If Rome wasn't built in a day, neither is the aggregate knowledge of a network of free agents.
+
+You need to proactively develop and also prune, i.e. drop when not anymore relevant, or when the party involved ceases to invest.
+
+This actually implies developing in your circles or even within your own organization not just the "organizational memory" I wrote about over 20 years ago in the first issues of my e-zine on change 2003-2005, and proposed over a decade before that to customers and partners.
+
+You would need a "network knowledge map keeper", again because providers of expertise/time will be really free agents.
+
+Just because you have access to the financial resources needed to hire permanently an expert whose expertise will not be used if once in a while does not need that makes sense to do it.
+
+I shared in the past the complaint, more than a joke, that I as told in an hotel in Zurich over two decades ago by somebody working for a service provider, and had provided as a temporary yet permanent contractor one of his experts to an organization in London.
+
+He was told by the expert that he was tired and bored after having spent six months playing solitaire on a computer, as there was nothing to do (at the time, Internet access was not common in organizations and scarcely available on pre-smartphone mobiles).
+
+The salesrep told the customer that would make no sense to have somebody with that level of expertise stay there full-time, having the expert do nothing for six months, and then assume that the expert would be useful when needed.
+
+The point of the customer? Those 2,500 GBP/day were a way to ensure compliance and to lower the insurance premium.
+
+If the reason you "hire to retire" experts is the same, fine for you, but probably, in our times, give some "slack" to the experts, as otherwise you will keep losing them as soon as they realize what they have been hired for (unless they themselves were looking for golden cage).
+
+Why some "slack"? So that they can keep unofficially using their own expertise, e.g. by attending conferences, workshops, providing conferences, publishing, or even "micro-projects"- you have just to define boundaries acceptable for both.
+
+There is another element: as you probably know, I prefer to consider a "collaborative approach to AI", i.e. integrating human and AI systems.
+
+I agree that there are domains where actually AI can replace at least the human side of execution, but in most cases would need to augment human performance, at least with current technologies mainly based on repetition of what our operational biases have been.
+
+If you consider the approach of "human and AI integration" as of potential interest, then you have to move it to its consequences.
+
+Including: evolution of approaches will keep involving both parties, and also activities such as compliance, law enforcement, etc would have to gain from approaches such as those that hinted at in previous articles, e.g. more recently <a href="index.php?page=538">
+Legislative reforms and direct democracy in a data-centric society: lessons from business and politics in Italy</a>.
+
+As I wrote above, recently the discussion way too often alternated between technology and regulation, in both cases involving also the "techn&eacute;" (structured knowledge) of philosophers, legal and ethical experts, etc.
+
+In recent posts on [my Linkedin profile](https://linkedin.com/in/robertolofaro) shared here and there my commentary, following the line of what shared in 2018 in [a book on the business-side of GDPR](gdpr), and a similar book before on [data and business, based on (then) over 25 years of experience in data projects](relevantdata).
+
+As an example: <i>Actually, the original GDPR already discussed the use of technology to profile, score, etc, and the forthcoming EUAIact, from its previously released text and yesterday's webinar on its legal side and potential further extended
+
+Discussed the proposals above in old and more recent articles on the legislative process, but will explain each of the concepts above within my next article on robertolofaro.com, the announced follow-up to recent ones
+
+Then, will post here on Linkedin as discussion 
+
+While published about GDPR in the past (see robertolofaro.com/gdpr a selection, or search for that keyword inside articles using the provided tag cloud search), currently I am working on few more books and datasets, including one on the EUAIact
+
+As for the hashtag#AIethics side: I do expect to have plenty of papers added to my monthly update of the AI Ethics Primer based on arXiv content that started publishing in July 2023
+
+So, stay tuned
+
+No, I do plan to publish papers, peer reviewed or not, just articles and books, so that my "primer" has no conflicts of interests from my side (the only content of mine referenced is the originating essay that released in July 2023 as part of a Kaggle essay)"</i>
+
+The webinar I referred to was:<i>
+in preparation of further steps related to the hashtag#EU hashtag#aiact , attended this morning an interesting webinar discussing the legal framework and concepts
+
+title: "Panel discussion on 'Deep-dive into AI and data ecosystems: the regulatory approach of the EU'"
+
+more events will follow always from the same source, Data Europa Academy, whose events I was informed about via data.europa.eu - initially via https://lnkd.in/diByfgau
+
+the final version should be released in few months (as an Easter egg?)
+
+still was interesting to hear from the panelists scope, open issues, and potential evolutions
+
+actually shared commentary on the theme and related lastly a couple of weeks ago, within the article "Overcoming cognitive dissonance on the path to a real EU-wide industrial policy" https://lnkd.in/d87bJJYk - but in part already discussed in few minibooks on GDPR and data published since 2012 (and my change e-zine released in 2003-2005), that you can read online on https://lnkd.in/dCpHYd9
+</i>
+
+It was a curious convergence, as then the latest issue of a AI news digest I shared often contained further material:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20240207_post2_aiandgdprpreemptive.png)</center>
+
+The concept is to actually use IT capabilities proactively as part of the legislative "release package", as we have so many overlapping regulations that it is becoming a maze.
+
+Fine for tuning to involve specialists, but in data centric society where everybody will potentially become a producer (AI kids as in the past we had script kids, and AI Lego tm bricks is my concept), better to democratize access to both technology and compliance at the entry level.
+
+Then, those who need or have the resources for, can add experts to "fine tune".
+
+The concept is to adopt also in legislative approaches the same model that we have been used to since the first commercial website was posted online, a kind of "freemium".
+
+In this model, the free part should be provided by the State, both as an ongoing concern, and as a pre-emptive capability to help avoid violating compliance.
+
+So, whenever releasing regulations etc, release also at least a rule-based chatbot (yes, I am old enough to have toyed with PROLOG in the 1980s-1990s as deterministic, not probabilistic chatbots) that does not store conversations, also if this would leave some ambiguity.
+
+A more advanced version would instead to follow the idea, as an incentive to use the the system, to add also a blockchain-based element to allow "marking time" on potential ideas or concepts that might yet to be developed on the market, but whose compliance might be assessed this way via an automated system, and help seed further requests- without violating the intellectual property rights.
+
+If you want to evolve regulations, you need cases; but if you provide cases pre-emptively, they are still on your drawing board- i.e. represent your future corporate value,
+
+Actually, this approach could be used for any "proposal system", in a data-centric society.
+
+I know that many, while reading the title of this section, assumed that "collaborative" was across organizations and assuming just humans in the loop.
+
+Anyway, living in a data-centric society, and extracting value from it, implies considering also, just to be boringly repetitive:_ we will be continuously producing and consuming data, and it does not make sense to broadcast them around_ processing locally what is generated locally does not imply forgetting that there could value in aggregates_ no human could economically and timely process this volume of data without being augmented by technology_ technology has to be not just interpretative, but also predictive- i.e. AI would be part of the picture_ each party involved will have to receive a "value recognition".
+
+The latter point, again, would require a book: I have dozens of "war stories" and discussions I had with customers, partners, staff that I could rely on to provide some basic principles- but will be for a later article.
+
+And now, as I think that I shared enough "pointers" and not just ideas or even concepts, but also "operational drafts" with caveats, time to shift to the last section.
+
+
+<b>Some (data-centric) public service announce</b>
+
+
+This section is really short.
+
+The title of this article is "Designing skills-based organizations in a data-centric world: we are all investors".
+
+I think that the previous sections describe basic concepts (in some cases even building bricks) on how to move from the idea, to the concept, to the implementation of the first part of that title.
+
+Also, discussed the "we are all investors"- but it is not a surprise to many of my readers, as the theme was discussed in previous articles.
+
+Anyway, even if we live in a data-centric world, there will be many who would like to "cocoon" within an organization, cradle-to-grave (an extended version of "hire to retire"), i.e. assuming that not only they will stay until they retire, but also do as some Italian companies proposed, i.e. the fathers and mothers retire, and their children take their place.
+
+I do understand the logic, but, frankly, it smacks for me too much of when, even in the latest decade, I heard in Turin some complaining that the sons and daughters of their service staff dared to get a university degree and did not want anymore to be servants.
+
+In a data-centric society, it is more a matter of creating opportunities so that both individuals and society can benefit.
+
+If you prefer an "entitlement" model, then you are actually setting society on a decay course.
+
+Italy still has resources to have (unless something really stupid is done) a century or two of gentle decay.
+
+Anyway, the way privatizations worked, and how many of the resulting companies have been mismanaged, and a continuous string of scandals about appointments, "parachuting" into roles, etc, usually coupled by foreign takeover of Italian assets show how probably in Italy many have not yet understood that, EU or not, we live in the XXI century, not in the XIX century (to be polite- sometimes social proposals sound as if coming from a pre-industrial age).
+
+I shared in the past why I started, as yet another test of my skills update done to escape boredom during COVID lockdowns, eventually had the idea to see how companies, communication, political parties evolved since then, something that with companies is made easier by regulatory requirements to report data.
+
+I prefer to share what I am doing when it is usable, so, while I first released a dataset on the Borsa Italiana in late 2022, I actually kept evolving it online (on Kaggle) while working on it offline (but will share here and there some information whenever relevant or convenient).
+
+I hope that some will be able to reuse the data beyond the limited scope of my project (comparing 2019 and 2021), hence in my updates to the dataset usually retain as a perimeter, whenever useful, not just the companies I selected, but the full list that originally build in 2022.
+
+As announced yesterday on social media, updated the dataset [https://www.kaggle.com/datasets/robertolofaro/borsa-italiana-listino-as-of-20221119/data](https://www.kaggle.com/datasets/robertolofaro/borsa-italiana-listino-as-of-20221119/data)
+
+The rationale? It is common in Italy for students to search financial reports etc just to extract the same basic data, added a link to the "YahooFinance" page.
+
+For my own project will still rely on direct access to financial reports that retrieved for 2019 and 2021 for a selected group of companies- see the dataset description and development history for more information.
+
+Anyway, I considered that might save considerable amount of time for students, by having a shared resource.
+
+Method: as described within the dataset update, used the ISIN ("ticker" identification) as key, and where not available this way, or ambiguous, the search has been done contextually and by looking at the data to identify the one relevant to the dataset; where even this search did not provide unambiguous results or provided no results, it was marked "na".
+
+Beware: YahooFinancials is dynamic, and contains the data (in this sample) up to four years back, but follows updates (e.g. delisting for bankruptcy).
+
+If you need to understand the rationale underlying each number, use instead the links provided within the dataset to access the webpage with the actual financial reports (if did not change since the latest check- see dataset for explanation- I have a local "frozen" copy, but within the dataset listed the original link, to allow future uses).
+
+A consequence of the analysis of the data on YahooFinance is that, out of the 113 selected for part of my project, having financial reports also in English, identified actually 91 that contained also an element that was within my list of KPIs, and will use that as my reference set for further KPIs development and then publications (always as aggregates- I think that those who need to do a company-by-company study have already done their own homework).
+
+And so, yes: I am doing my own investment for my own project but, following concepts that I shared at the beginning of this article, and then across when I discussed the potential use of AI-based chatbots to support private and corporate citizens to "pre-empt" at a basic level compliance, I shared in the latest update something that cost a bit of my time, for free.
+
+The idea is, as in previous datasets, both to have a "portfolio" of results, and to consider "social sunk costs" the time spent, so that is spent just once, and potentially spawns more relevant uses of other individuals' time which, in turn, hopefully would bring to sharing from their side results that others could use as a stepping stone.
+
+Just imagine: if each one who spends say four hours to collect information has to redo it again exactly for the same information, and one thousand people needs to do that, it means, at approximately 40h x 50weeks, two years.
+
+If, instead, those four hours are spent just once, it releases almost two years of time that could be used in other ways- yes, including to just have a walk in the park, or for more productive activities that could further spawn new activities.
+
+And this is... epidemics for you
+
+Have a nice week-end!
