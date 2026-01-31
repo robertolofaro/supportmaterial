@@ -1,0 +1,138 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210402_article.png)</center>
+This article is the fifth article within the "Going smart (with data): the Italian case" that started on 2020-11-18.
+Consider this article as a "bridge" toward further publications, linking the discussion across the previous articles on "Going smart (with data): the Italian case" with what will follow.
+The content of this article:_ looking at the bright side (and a blessing in disguise)_ rummaging through documents_ going smart (with data) - at the systemic level_ a day in a systemic (near) future
+Just to set the tone, I will share this picture from a post that I shared yesterday.
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20210402_italydiplomats.png)</center>
+The concept? Italy isn't structurally a backwater- it is a matter of a series of misguided choices: replacing hard work with arrogant claims to fame due to past glories is not (and has never been) a viable replacement for a sensible social and economic development policy.
+Something that, e.g. on the industrial side, we lacked for decades ([see what I wrote in 2018](index.php?page=138), as well as [in 2020](index.php?page=410)).
+The previous "episodes"?_ [2020-11-18 introduction](http://robertolofaro.com/index.php?page=429)_ [2020-11-20 a tale of two cities, virtual and physical - Turin example](http://robertolofaro.com/index.php?page=430)_ [2020-12-03 mobility and the new automotive](http://robertolofaro.com/index.php?page=431)
+Two items that you probably noticed already:1) there are only three previous "episodes"2) it has been four months since I posted the previous one.
+Meanwhile, I actually [shared other articles, mainly focused on the #NextGenerationEU](search.php?tag=nextgenerationeu)
+Well, the fourth was supposed to be on finance- but I decided that actually it is worth its own development, also because I still see more and more confirmations on a daily basis that all our existing regulatory framework is inadequate for what is not anymore just "shadow banking".
+But more about that in the new series that I will "spawn" from this one- after Easter 2021.
+So, I will skip to what was supposed to be the last episode.
+As you probably would expect- it is about getting all the elements together: thinking systemically.
+Yes, I write about that in almost each article, I know: just try [this search for "systemic" on this website](search.php?tag=systemic).
+There are many viewpoints that have to converge toward a shared purpose, if you want to really think and act systemically.
+In Italy, easier said than done.
+Another theme I routinely write about is [how "tribal" we are in Italy](search.php?tag=tribal).
+Because we are.
+We keep boasting of our glorious past (the Roman Empire- maybe you heard about it), and how our technology companies are innovating in every domain, and how our food is the best in the world, and how our cultural heritage is above anything else in the world...
+...but all this self-promotion seems to stop right at the front gate of action.
+As, then, we remember that our allegiance goes to a specific tribe, and, within that framework, to temporary alliances between tribes.
+Over the latest 12 months often our rhetorical instincts trumped our willingness to act accordingly.
+150bln EUR later (and counting), in my view we in Italy are about 1/3 through the way - and I am considering not just the #NextGenerationEU around 200bln, but also what will be needed but does not fit the requirements of the EU plan.
+<b>Looking at the bright side (and a blessing in disguise)</b>
+I like to look at the bright side- in my activities since I officially started working in 1986 (actually, worked before), routinely I was asked to bring on board my past experience in change and number crunching, and to get along with those who provided the mission-specific knowledge, not to replace them.
+Albeit it is normal, in a couple of months, to understand what, along with all the minutiae, are the key "signposts through knowledge" needed to have a grasp at least of the boundaries of the whole picture.
+Which, if you worked in multiple industries and countries, could imply a funny range of learnings: from details about the risk management databank management processes and data design in Italy, to SOX-related Italian governance, to immigration rules, on the macro-level.
+To countless business processes (and associated organizational politics) in countless organizations across over 30 years.
+And, as an added "bonus", all the information technology you can dream of (in many cases this involved also hands-on activities, or, when working on the "supplier side" for business software publishers, receiving copies of their software so that I could invest and create a "trial project" to understand the strengths and weaknesses of the specific package, and linkup with my prior experience).
+Hence, my attitude to look at the bright side: you do not stop at the first hurdle.
+The human species is adaptable- and, as I wrote often in the past, in Italy we had since the fall of the Roman Empire (say, 476, from an Italian perspective) to develop specific "resilience skills"- as our country was a kind of battling ground for others.
+Therefore, even we in Italy can learn few lessons from what happened over the last 12 months, assess where we are, and prepare for a better future.
+As I shared yesterday morning in Italian on FB, also during this crisis we have not really had a continuity of all the public announces of national unity- as soon as statements were made, routinely we have the usual tribal unity. 
+All the above (including this latest opportunity of confirming our national tribal inclination) points just toward one direction.
+Specifically, reinforce the urgency of not missing this unique, once-in-a-generation opportunity.
+I wrote in the past reminding what my foreign colleagues worried about in the late 1990s, when even the IMF publicly worried about Italy lagging behind in visible preparations for the Y2K.
+The "Millennium bug" (search on Wikipedia).
+For those too young to remember, the issue was that computers designed in the 1960-1980s to save memory stored dates as two digits or relative points vs. a point e.g. in the 1970s, so that the year 2000 would in many cases become less than the year 1999, potentially wreaking havoc on computations ranging from financial plans to the mere checking account.
+In the late 1990s I was living in London but working weekly in Paris and Zurich, and occasionally other countries, so those questions were a routine.
+My reply? In 1988 was already on a project in Italy that actually covered the Y2K issue, by extending to 4 digits the year, and migrating all the existing data (was an accounting system for a major bank).
+Anyway, in our culture, is common not to do anything until the last minute- as we see routinely last minute changes in laws, rules, regulations- and not just schedules.
+Sometimes, even retroactively- imagine if you are designing or delivering a system based on some criteria that you received as compulsory six month or one year earlier, and few days before the deadline you are simply told "no, do it this way".
+A routine...
+So, yesterday morning wrote that we should probably also see the shared EU deadlines embedded within the #NextGenerationEU as a chance to prepare something that isn't just focused on the forthcoming electoral cycle (and associated current balance-of-power between tribes).
+I added in Italian a corollary: being pragmatic, I do expect that the choices made for the Piano Nazionale di Ripresa e Resilienza (PNRR) as national implementation of the #NextGenerationEU, even under the best condition and national cohesion of intent, will still retain some "tribal influence" mirroring the current balance-of-power ([my December 2020 commentary was part of book that I published on 2020-12-17, this is the free chapter focused on #NextGenerationEU and PNRR](https://issuu.com/robertolofaro/docs/20201217_issuu_preview)).
+Still, doing so within a decent timeframe and sticking to a deadline while abiding to "neutral" criteria would be a welcome novelty.
+And what if in Karlsruhe (where the German Federal Constitutional Court / Bundesverfassungsgericht is based) it were to take a while to decide on some challenges on the #NextGenerationEU?
+Well, while living abroad and the talk switched to the Italian national debt, routinely the point shared was that, if compared with other countries, in Italy the State takes on debt that in other countries would be taken on by corporate and individual citizens.
+Therefore, as reminded recently also by the Italian bankers' association (ABI), the amount of assets left unproductive on current accounts and other forms of zilch risk is staggering.
+Many locally play the "pork barrel" approach to line up for ways to allocate #NextGenerationEU and national funding to simply replace market revenue on a continuous basis with funding and grants.
+So, preparing decent plans for the implementation of an industrial and economic development policy that includes transitioning toward a different paradigm, while then having (at least temporarily) to look at resources from the national constituents, could increase a level of oversight that would certainly ease the tasks of the likes of OLAF ([the EU anti-fraud office](https://ec.europa.eu/anti-fraud/home_en)).
+<b>Rummaging through documents</b>
+The opportunity was given by some interesting preview information from documents that I collected few weeks ago (on 2021-03-15, and then again checked on 2021-03-21) about the proposals from society on what should or should not go into the Italian implementation of the NextGenerationEU.
+In total, 262 documents since 2020-10-06, plus 3 documents from ministries.
+If you are curious, [released a dataset on Kaggle (latest update: 2021-03-19)](https://www.kaggle.com/robertolofaro/pnrr-nextgenerationeu-in-italy-sample), listing the documents, and with a link to each docuent presented by "civil society" (companies, associations, academia, etc.).
+Beware: we are talking about 4149 pages to read...
+...but I am working on something to help those interested in navigating the proposals, i.e. who said what when.
+It has been slightly more than one year since Italy had its first COVID-19 lockdown (March 2020), and since summer 2020 started what eventually turned into the proposals for the Piano Nazionale di Ripresa e Resilienza (PNRR).
+So, this is what currently approximates "systemically" in Italy: each party presenting its own preferred choices.
+Over the last few days I shared few points about the themes discussed above, e.g. [on Facebook](https://www.facebook.com/robertolofaro/posts/10157567284412016), as well (in a slightly different form) [on Linkedin](https://www.linkedin.com/posts/robertolofaro_roberto-lofaro-activity-6783508642445438976-IZ2f).
+No, I have not yet read those document- and I plan actually to browse each one in detail to see and map out key concepts (both manually and using my newly improved number- and text-crunching computer skills, courtesy of the lockdown).
+As for the Italian plan, I will wait to see what is officially communicated to Brussels in full.
+I downloaded the documents from the website of the Italian Senate- [you can see the catalogue dataset that I shared on Kaggle as a first step of my analysis](https://www.kaggle.com/robertolofaro/pnrr-nextgenerationeu-in-italy-presentations).
+From the sample reading and browsing I did so far, it seems to me that anyway many organizations and companies did not use the hearings with the Italian Parliament in a "systemic" way.
+I will "score" documents later on, but, for the time being, let me share my first impressions.
+What would have been a "systemic" way to contribute to the debate?
+The same that I was told about decades ago when asked if I were interested in joining an informal group that had two people for each "business domain".
+The idea being: whenever a discussion is on the table, having two expressing the perspective from each domain avoided having the "single source" that could bias perspective.
+In this case, we had the documents from Brussels that announced the 750bln, the various versions of the documents from the Italian Government that became further down the road few versions of the PNRR, and ancillary material from Ministries.
+If you want a quick recap of the documents from Brussels and the versions of the Italian PNRR, [have a look at what I released on issuu.com in mid-December 2020](https://issuu.com/robertolofaro/docs/20201217_issuu_preview) (the one I linked above).
+In an ideal world, if we all those claims of "national unity of intent" were to be taken at face value, I would have expected the following:_ the "originating documents" are shared between all the participants_ each participants provides a feed-back from a specific domain/perspective, including both analysis and proposals, but separating the two.
+Then, as would happen in a corporate and political environment, would have expected a "mapping", then a discussion, etc.
+Well, looking for a "Delphi" approach for group decision-making ([see on Wikipedia a summary](https://en.wikipedia.org/wiki/Delphi_method)), or its derivatives (as e.g. what was used in some workshops that I attended in Brussels, including guided by RAND), would have probably meant seeking a little bit too much "structure".
+And, at the same time, probably inappropriate: as the concept was for civil society to present different contributions, and then leaving to the Parliament and Government to use that material within the definition of the final version of the Italian PNRR.
+Nonetheless, I saw a little bit too much "self-serving" material, sometimes excessively so- to the point where interesting proposals where hidden within an overbearing framework of self-promotion.
+Lost in transmission.
+Therefore, I am quite curious to see how much of those "proposals" will have bypassed the first "cognitive filter" (skepticism)- even ignoring the traditional "tribal" or "balance of tribes" potential filter that could have informed some of the reviews.
+For now, I simply plan to update weekly the dataset if and when needed (along with some other offline documents and databases) in support to the forthcoming "action-reaction" mapping.
+<b>Going smart (with data) - at the systemic level</b>
+We can say that all the procedures that we had on our books to cope with likes of COVID-19 in the first phase were either less than effective or had some implementation issues.
+Again, as I wrote routinely, in Italy we have at least a couple of other issues that are coupled with procrastination.
+I would like to focus on just one point that is going to be relevant for whatever will result from the current "policy planning" activities represented by the PNRR: we might well make miracles in delivering something at the last minute, but the boring "continuity" and "maintenance" are where we routinely are less consistent.
+You have just to read news about the reports on maintenance and development of our critical national infrastructure after the wave of privatizations few decades ago, and some more recent cases such as that of the bridge in Genoa, and similar reports.
+Instead, when the appropriate mix of financial and human resources (and oversight) is allocated and managed, we can actually obtain quick results- as it was for the rebuilding of the bridge in Genoa.
+Anyway, as I wrote in the past, I strongly disagree with those who advocate extending the same approach adopted in Genoa (which implied adopting a differential set of rules) country-wide.
+The level of focused public scrutiny that was, in a way, replacing ordinary rules, would not be feasible on a much larger scale and across countless interventions all happening within the few years associated with the implementation of the PNRR.
+Therefore, whatever were to become the configuration of the PNRR and, as a side-effect, the projects associated with it, a more robust approach than the one used to oversee privatized infrastructures in the past would be needed.
+Reason?
+In any organization, a sudden injection of funding and projects all starting at the same time, moreover on a scale out of the ordinary, would create some controlling and coordination issues.
+So, it is just about being reasonable- and learning from our national past collective history.
+Whatever choice will be made, will need to have few characteristics: consistency, transparency, communication.
+Across which dimensions?
+At least across planning, progess, results.
+And, hopefully, lessons learned (in progress), to propagate as soon as feasible adjustments needed: we cannot, on this set of initiatives, follow the usual routine of checking years after the damage is done.
+We have just to wait few more weeks to see what will be presented.
+For now, let's just jump into a parallel universe: what could happen if we were to drop our tribal obsessions (that raised their heads even in choosing who should be between the first to receive the vaccine), and consider prioritization on a systemic level.
+<b>A day in a systemic (near) future</b>
+<i>The year is 2022, and COVID-19 is stabilized from a pandemic into a recurring event.
+On a micro-level, to ensure privacy and getting back into an almost ordinary life while streamlining controls etc, "contact tracing" evolved into a peer-to-peer affair, with voluntary reporting.
+On a macro-level, the Italian PNRR to implement #NextGenerationEU developed into two lines: a first one, based on prioritization for restructuring and recovering, started with national resources even before the negotiations following Karlsruhe intervention (to avoid further hiccups in the future) started releasing funding.
+At the same time, the initial interventions focused on a second stream, i.e. developing not just structural plans, but also shared rules and oversight approaches.
+A first set of projects (to "seed" activities) were initiated in summer 2021 to "tune" the processes and dataflows, to enable scalability where the whole set of projects really started.
+The choice was to identify a "sample" by shared features, to build a referential of criteria and identify potential weaknesses within the approach.
+The concept was to generate the information needed to monitor (and amend) as a side-effect of the approaches followed, and not as overhead on activities.
+This implied that, unusual for Italy, streamlining regulations implied both making them simpler (i.e. less human intervention and less pages or collections of documents), and more data collected in a consistent way across the whole "knowledge chain", while until now each "streamlining" meant relaxing control.
+This new approach implied introducing also some changes in activities to add equipment able to produce the data without human intervention.
+This required a different type of oversight, involving at the various levels both the Authorities, companies, and trades unions, to revise some monitoring elements without infringing on data privacy.
+Another change was that all the deliberations and material associated with projects were on the record, and generating data to be consolidated nationally following the approach used in the past to monitor risks and costs in banking, to spot continuously any patterns that might be worth intervention.
+After tuning on the first projects, those involved in initiating the projects in the first phase were able to support in an advisory role the panels at the regional and provincial level.
+Overall, in one year since the inception this approach helped to pre-empt e.g. supply chains for projects that needlessly added intermediaries adding just a mark-up and no value added, with savings in the billions and, more importantly, avoiding interventions to fix projects that would have been significantly more expensive to fix later.
+The monitoring and adjustments will continue, but sample inspections by the various local agencies identified no anomalies.</i>
+Too technocratic?
+No- just the opposite.
+Obviously, being this series focused on "Going Smart with Data", the short story is focused on data.
+The rationale is simple: I think that "task forces" should be just that- akin to a project, a "temporary organization".
+If a "task force" becomes structural, something else is needed.
+In Italy, we have already too much overheads, and way too many attempts to "streamline" existing processes often generated more forms, more oversight offices, more deadlines.
+In Italy, our State has a compulsive-obsessive attitude to data since decades, as I was already told in the early 1990s by some who worked in Italy from the 1970s.
+Piling up data more than processing data.
+E.g. as reported today, even journalists and their contacts with sources have been subject to investigation and collection not for specific crimes, but as a side-effect to investigations affecting others.
+Actually, as I wrote in the short story above, we could use an approach that has been used for decades within the banking industry, both on risk (what the Centrale dei Rischi was for) and structural costs.
+The idea is simple.
+What is a project? "A temporary organization that is created for the purpose of delivering one or more business outputs according to a specified business case" (from MSP 2011 edition).
+The Italian PNRR will be a collection of programs and projects, and therefore each element (project) will generate data.
+The key issue is simply to make it all simpler to process, monitor, collect.
+On a national level.
+The logic is not just to provide data to a central databank, but also to receive a feed-back on:_ if a specific customer is already present, and the level of exposure_ on other information (e.g. costs), how rate vs. other peers.
+In the context of the Italian PNRR, would imply both notifying, receiving alerts, and being able to benchmark.
+If this were coupled with a different approach on data collection, designed to lower human intervention and replace paper with electronic data generation, collection, reporting...
+... the increased transparency and increased volume of (comparable) data collected and processed would actually lower the bureaucratic burden.
+A critical element is anyway what I hinted at within the short story: the why, what, when, how of the collection should be "tuned" to the specifics of each "class" of projects.
+Otherwise, we would do the usual Italian thing: asking data that aren't available so that those providing the data have to work toward the data-collection form, and not delivering the data as a side-effect of the activities.
+As I wrote in previous sections: let's see by the end of this month what will be within the Italian PNRR.
+Technology is a tool, but a tool is never neutral.
+It is how you use the tool that makes the difference.
+So, stay tuned until the next step.

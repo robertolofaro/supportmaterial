@@ -1,0 +1,113 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210701_article.png)</center>
+As you know, whenever I start an article aiming for brevity, end up with the usual 4000+ words.
+So, no claims this time- as this article is, again, another one more about method than about content (and, incidentally, it is "just" over 3000 words).
+As you probably read repeatedly in previous articles published since 2003 in various sites (if you followed my scribblings on "change, with and without technology" since then), or at least since the first time in 2013 released a mini-book (50-100 pages) on change, my experience in business since the 1980s and before showed that what I saw in politics in Italy and outside Italy since the early 1980s, still holds true.
+The blend of humans and data is never neutral.
+The title might seem an oxymoron, but it will take few words to clarify why this is not the case.
+As usual, few sections:_your systemic is not my systemic_building up a mountain out of details_finding the needle within the haystack_making choices and learning from them
+<b>Your systemic is not my systemic</b>
+I shared a status update days ago about a simple observed truth:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20210627_systemicimpacts.png)</center>
+In our complex data-based society (even before the very first smartphones-still-a-little-dumb and social media became all the rage in mid-2000s, I saw and was part of the data-driven expansion since I started working in 1986), we can find self-delusional solace in thinking about what we know and ignore anything else.
+It is a form of "cocooning", that I saw also in the most unusual of venues, as I shared few articles ago- in Mensa.
+Once, during a dinner in London in 1994, a German psychologist said that in Germany she advised fellow Mensa Members against adding Mensa membership on their CV.
+Personally, before joining it in 1989 in Italy, had only occasional chances to meet others who "connected the dots" fast, and usually those who did where so doing on just one topic.
+In Mensa in Italy first, then with penpals in UK, and finally in person in UK and then other countries, I found here and there some "multitopic connectors": it is funny.
+But thereafter saw that what the German psychologist had said was true.
+A Mensan often is akin to any other "expert": keeps defending her/his status, and in way too many cases might jump the gun when there is no risk (e.g. by lecturing on what s/he has no clue about, and without even bothering to observe or listen before, notably if can win an argument simply because there is no "expert" on what s/he is talking about while talking).
+When it is time to jump into the unknown where additional "fact finding" is needed to complement whatever intellectual skills they have or claim to have, many prefer to return to the true and tried where they do excel: chess players play chess, table games players play table games, experts in solving those 3D metallic or wood puzzles do that, etc.
+Confirming the explanation on the "why" the psychologist said so: as she added that they were perceived to refrain from risk- from any risk.
+Corollary that I observed: also when blatantly wrong, often higher IQ people can steer the others toward supporting their position true "logical" arguments- I made that dangerous mistake once in London in the late 1980s, and thereafter have been watching out to avoid that mistake again.
+Because that showed me how an asset can be turned into a liability (at the time, I was spending plenty of time building models around Balance Sheet, Income Statement, and the like).
+As I wrote few days ago, winning an argument does not alter reality.
+Personally, I went as far as to study few books on the culture I had misunderstood (and a bit of the language), and then also to spend a bit of a summer to study "intercultural communication and management" in Sweden in a university, in the early 1990s.
+I think that the same "asset turned into a liability" applies with experts, as happened e.g. in Italy during the COVID19 crisis, where way too many experts forgot the value of doubt.
+The risk is not just on the experts' side- it is the non-experts that, when confronted with experts, do not question an expert taking the lead also when it is completely outside the domain their domain of expertise, and have shown no signs of having developed that additional expertise elsewhere (you do not need a degree in X to be an expert in X, albeit it can help in confirming your status- 99% of what is on my CV was sometimes confirmed formally, but not learned in schools or universities).
+Now, "cocooning" in your real or supposed expertise might be fine if you can steer away from reality.
+Then, nowadays more than in the past, you would need somebody else more inclined to look at reality systemically, and therefore taking the risk of making mistakes, finding those who can help to fill the gap, and try again, until all the elements needed to understand identified impacts are in place.
+Otherwise, you will end up simply being on the receiving end of somebody else's systemic view.
+And this is where, also if you think "systemically", if you assume that you have perfect understanding of all the systemic impacts, and that you have considered all the elements, you fail and fail again.
+Often, your perception of what is "systemic" (i.e. should be considered as relevant) is not static.
+Even if you work on physical products, considering how fast technology and interactions between technological artifacts are influenced by data, what you can consider the boundaries and significant components of your system can evolve.
+At least- in systems that involve humans.
+<b>Building up a mountain out of details</b>
+There is an element that I hinted at in the past.
+It is an element that, in our "recovery and rebuild" times, is often forgotten, albeit quite visible.
+For my [EU recovery and resilience facility current status](https://www.kaggle.com/robertolofaro/eu-recovery-and-resilience-facility-current-status) I had to have a look both at the initial proposals by each one of the 12 countries whose national recovery and resilience plan so far has been assessed, and the ensuing assessments.
+Both are supposed to be "systemic", i.e. aiming to recovery, increase resilience, and pave the way for a future according to six "pillars" that have been jointly defined at the EU level.
+Yet, as each country had a different starting point (socio-economic mix) and aims, just have a look at that dataset to see differences.
+Moreover, we are mere humans.
+Also if we were able to obtain complete, unbiased information about all that could potentially impact or be impacted by our choices, we would be unable to process them.
+Yes, I know, you can use technologies to process huge amounts of data.
+But, without a "decision framework" guiding you in deciding what is relevant, and what is not, it is the traditional "garbage in, gargabe out".
+And "relevance" is a matter of choice, as I shared e.g. few years ago in two mini-books (that you can read for free online, if you do not want to finance my research activities by buying them on Amazon).
+The two books? [#SYNSPEC](index.php?page=87), on the integration of experts in your talent pool, and [#RELEVANTDATA](index.php?page=90), on some lessons I learned in 25 years of data-driven decision support.
+There is a further interesting element that I saw in my 1980s-1990s activities on Decision Support Systems, that resulted in my choice to follow a methodology then called "iterative development" (at the times, "waterfall" was still more common, if any methodology at all was used).
+We had a purpose, made assumptions, built a model on those assumptions and available data, then added new data and saw if the model results still made sense.
+Then, by using the model, it was a continuous verification that it still mattered, i.e. was aligned both on purposes and reality (as both evolved- and, often, the former were influenced by the results of the model).
+I know- would sound familiar to those working today on Machine Learning and the like.
+But, frankly, in any business activity, separating at least data that you use while building your case, and those used testing if the model (or process) representing it is coherent with reality, should be common sense.
+Also if you are not using computers.
+But there was another element: if you built a <i><u>forecasting</u></i> model, in those times you could re-arrange, not expand (we were talking about MB of data- a single image on your smartphone at 12MP is larger than the memory we had to deal with at the time), and maybe the model had only minor adjustments, as in reality represented the decision-making approach that was done manually, simply "made accessible" to less experienced managers, or covering more products, channels, business units, etc, than those where somebody with high levels of expertise was available (and also enabling one person to apply the concept to more parts of the company than what could have been feasible using just spreadsheets).
+When the purpose of the model was <i><u>to highlight exceptions</u></i>, it was by definition a continuous improvement.
+Imagine building a model to identify those fiddling with data to obtain a bonus- after a while, anybody really willing to trick the system would understand what is really being monitored, and which parameters could influence perceived performance, and... alter behavior accordingly.
+This is a reason why, for example, in sales I have always been skeptical of both "success fee" (who is to pay the costs of the gamble of signing a contract?) and its companion, OTE (getting something when you reach a target, but then stopping to get any benefits if you exceed the quota).
+In both cases, behavior is twisted not to optimize results, but to optimize perceived performance (and this applies not just to sales and marketing: I saw plenty of examples across many business domains and industries- spotting "creative accounting" comes with the territory).
+In the end, the data define your concept of "systemic", in human affairs.
+<b>Finding the needle within the haystack</b>
+If you read the previous section, you probably noticed that I referred to "choices".
+Already in the 1990s, while working in banking in Italy, there was an element of "harmonization"- first on reporting risks and customers' "risks collection", then on reporting costs.
+If you wanted to have banking oversight while the number of transactions and use of electronic systems to transfer (not anymore physical) money increased, you needed to have something that could be seamlessly integrated within the system of each bank and, at the national level, enabled to assess each bank across a range of "parameters".
+Aim: spot as early as possible diverging patterns.
+It is what, after 2008, became worldwide part of various evolutions of Basel oversight, including "too big to fail".
+Now, all those regulations, in Italy and worldwide, had in common one point: as I observed in Italy, started with banks, and then kept adding all that were potentially affecting "systemic risk".
+Yes, systemic again- and again, defined by consensus.
+There is nothing about systemic risk that is pre-defined: it is a "relational dimension".
+In mid-2000s, I was working on a project to add a non-banking government agency into those who had to provide scheduled information about their exchanges with customers.
+It was then extended also to other industries: basically, all those whose activities potentially impacted on the volume of risks taken up by the financial sector.
+Long before cryptocurrencies, non-banking entities created their own "banking" units subject to banking regulations, then years ago I remember seeing gradually also telcos and others presenting or discussing applying their own infrastructure or cashflow from operational activities in a quasi-banking role.
+In the future, if we were to consider that each piece of data is, in the end, represented by energy (storage) and uses energy (for transmission), as with any form of energy its costs across its lifecycle could be considered.
+Therefore, just staying on the "risk" side, the generation, storage, transmission, processing of data, also by individuals, could all represent economic activities.
+And each economic activity involves, to a certain degree, risk, and, if you could have few that can generate, as an aggregrate, massive swings, those could generate "systemic risks" and"systemic impacts".
+I wrote in the past that we should reconsider compliance as a concept, practice and, of course, regulatory approach ([I wrote in the past few times about this concept](search.php?tag=compliance)).
+In the late XX century, we considered most often regulations "ex-ante", i.e. if you want to operate using a certain type of infrastructure (physical or virtual), you need to follow an array of standards and regulations.
+But both in the past and e.g. more recently on drones and virtual currencies, we are getting back to how was really more routine.
+When you start considering any data-provider and data-consumer a potential source of impacts on risk (imagine a "data run", with many stopping to provide or give access to distributed data that had become critical to normal activities, akin to the much-feared "bank run", when depositors ask to withdraw all their cash), as an aggregate, not as an individual, you get a different picture.
+To make it simpler: a bank or other financial institution might represent a "systemic risk", for its pivotal role in enabling the rest of the financial markets to avoid massive swings.
+And in 2008, as well as long before at Llyods, we saw what happens when risks are increased by aggregation while instead pretending to spread them around (if you spread a risk across the same group of parties, the risk does not change, no matter how many accounting or "packaging" rounds you do).
+Therefore, those economic organizations that, by their own activity, size, role, etc could have "systemic" impacts, are regulated.
+But how do you regulate when single individuals, as an aggregate, by simply altering their data consumption or production patterns, after those patterns became a founding element of ongoing economy, might suddenly be influenced by external events, and generate a sudden change, that then generates further ripple-effects?
+Imagine a "swarm" of micro-providers and consumers of data suddenly jumping ship, and... you can get massive up and downs.
+An obvious ex-ante choice would be to avoid integrating data provided by parties that cannot be subject to regulation- but that would deny what many companies are now being created on, the "data economy".
+If this sounds as science-fiction, consider e.g. the humble smartphone or fitness band on your wrist.
+How many companies now depend on your data, and how many companies or services will depend in the future on data that those companies will generate based on data that they had collected, plus whatever else they will integrate?
+I read now and then of companies that changed their Enterprise Performance Monitoring by adding "Big Data": well, if you can consider the whole "data lifecycle" and "data supply chain", why not?
+Otherwise, you are shifting from internal risks to external risks (i.e. involving other "structured" economic operators), to the need to consider how to "compartmentalize" data of unknown origin, reliability, and frequency, before integrating them within your own organizational decision-making approaches.
+Otherwise, you risk having sudden changes that would make your "performance monitoring" akin to comparing apples in month X and pears in month Y...
+So, the title of this section is really easy to understand: it is not what you add, but how you can trace it back from source to destination to impacts.
+<b>Making choices and learning from them</b>
+It all converges on a key element in our data-centric future, if we want really to benefit from a data-centric society that cannot rely on anything else than a continuous evolving ecosystem of interacting actors that may actually have only occasional data exchanges, including occasional interactions between usually "close" ecosystems (imagine the cosmology of ecosystem, akin to studying a comet passing by once in a while, and its impacts on the Solar System, including... Sol-3 and its Moon).
+It is another concept that I wrote often about: [interoperability](search.php?tag=interoperability).
+While now we have to consider it at the social level, I saw it first in the 1980s on EDI (Electronic Data Interchange), and then on the first time when I was involved into an Operational Data Store feasibility, in the 1990s.
+The first case was about sharing data between companies within the same supply chain- usually, the (large) customer was leading the dance, if it was structured enough to generate the motivation for a dematerialization of that information (replacing e.g. paper-based procurement information with bits and bits that had the same agrered contractual value, but much faster to process, and with less overhead).
+The second case was more interesting: it was about getting data from different domains within the banking industry, and trying to build a company-wide "across the lifecycle" view.
+There was a catch: while in the first case there was a shared purpose, and the "harmonization" element was "simply" a matter of concurring on shared formats, as both processes and data were more or less already harmonized, the second case required to "break up vertical silos".
+Example: some information was aggregated on a monthly basis, other on a 10-days cycle, or even a "solar week", or other timeframe.
+Curiously, I found a similar yet different situation almost a decade later, while working in banking in another couuntry.
+There is obviously a reason: while some manufacturing industries are at most between one and two centuries old, banking goes back at least to before Renaissance (if we want to consider processes that we can still recognize).
+So, while in manufacturing you can get a whiff of Taylor-style organization, in other industries we still have layer upon layer, and work patterns are learned mainly by transmission from a generation to another.
+But, as I wrote in the past, the mere concept of "banking" will have to evolve, probably way beyond recognition.
+And consider that I started experimenting with e-banking in the early 1990s, the first two times I had a VAT registration and a portable computer, back then still under MS-DOS: as I was the first customer that asked them to use the homebanking on dial-up using a portable computer both for Italian and European wire-transfers, I had to involve in my experiments the IT of my bank, where I had previously worked to revise an Executive Information System project from colleagues, in Sicily.
+Few days ago I shared on linkedin the link to a survey in Italian banks that resulted in a forecast about the demise of most physical bank branches within 5 years.
+I think that that has to be adjusted by demographics (in Italy a large share of the population is over 60 and way beyond the digital divide).
+Therefore, instead of a mere demise, we can look forward to something else- new and different "formats" and "access points".
+But I will write about that in a future article focused on the future of smart cities.
+For now, the point is quite simple: within the dozen or so paragraphs of this short section, I spanned data concepts across few centuries and few different approaches to organization, "ecosystem" (or ecosystem of ecosystems, as the [The nine islands of continuous organizational learning #NextGenerationEU #PNRR #COVID19](index.php?page=438) I wrote about in April 2021, recalling also a much older article about the Chinese historical concept of "nine islands").
+Our data economy will have a characteristic: the more data-creation and data-consumption points will be created, the more potential uses will be both identified and become economically accessible, almost commodities.
+It wil be a matter of continuous choices and enabling a continuous feed-back cycle.
+I think that the first step should be to get used, since childhood, that life is a matter of continuous learning, continuous adjustment, and continuous improvement and continuous choices.
+The first thing that will disappear in banking is... the lifecycle I was taught about in my first banking course in 1987, when a colleague showed us how life (end-to-end) was seen from a retail banking perspective: cradle to grave- scary, at 22 and after you had already been in organized politics since you were 17 (and dis-organized politics since 14).
+If you add multiple learning cycles, and multiple career paths, that model is obsolete- not because it is not working anymore (it can still work), but because that simplistic model is sub-optimal for all the parties involved, and generates more overheads (both on the human and business side) than needed, while each bit of overheads disproportionally undermines the potential of a data-centric society.
+In a data-centric society, innovation points are diffused, and work only if all the parties have some active motivation to help foster new potential shared benefits.
+It requires more than the primitive and, frankly, laughable gamification cases where I saw banks giving as gifts hairdriers or vouchers for a vacation, something so 1950s but dressup with a smartphone app.
+Stay tuned!

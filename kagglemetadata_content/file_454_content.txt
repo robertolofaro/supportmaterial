@@ -1,0 +1,37 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210719_article.png)</center>
+In early July (between July 4th and July 14th, of course) had planned to release a book that has been on hold since few years ago.
+As it is a follow-up on a book that published in 2014, I had actually planned to release it in 2019, as part of the publications to "position" my company opened in 2018.
+Augmented with other themes I published about, i.e. privacy, innovation, digital transformation and data-centric society, sustainability, and related (including what has been moved to the forefront courtesy of COVID-19).
+Both articles and mini-books (my traditional 50-100 pages).
+Well, in early 2019 was actually busy with bureaucracy, after closing the activity in December 2018, and thereafter decided to publish few more articles on the same themes I had planned to write about.
+Therefore, postponed the book for few months- enough to end up into the first COVID-19 lockdown, and see that I could actually add few more elements to my writing, by using well the forcibly free time.
+Hence, recovered and developed some old skills while adding new ones, and testing some ideas and different way to carry out activities.
+Including using past experiences with new tools, and see how that blend could work.
+And, of course, that too resulted in a couple of books, in 2020 and 2021 (no, they are not listed on [my list of books on change](http://robertolofaro.com/published), one on the analysis of State bureaucracies in Italy (we have an clear and present need to improve, to benefit from #NextGenerationEU), the other one on using a survey as an excuse to see what could be needed to expand acceptance and continuous success of AI applications within organizations.
+Which, incidentally, could help also with bureaucracies that have centuries of history.
+Oh, yes- I forgot.
+The theme of this new and old book coming out soon? BYOD.
+Bring Your Own Devices, a theme that was trendy few years ago, before technical, security, and data privacy issues (including GDPR) suggested companies to provide devices, and avoid also the workaround that some start-ups offered, i.e. to build a "software Chinese wall" e.g. in smartphones, separating the "personal" and the "corporate" areas.
+Actually, already in the 2014 book extended the concept of BYOD to cover any device that was not 100% under company control (including "smart" printers and other devices used on company premises, but on e.g. a lease arrangement).
+Nowadays, obviously the issue is not just devices that you willingly bring in, but also those that might be embedded in what you carry around (e.g. smart backpacks, smart shoes, smart clothing), and those your own devices interact with before and after entering the office.
+In a way, all those elements concur to the new data ecosystem of an organization, that is fairly different from the "operational data store" first, and corporate datawarehouse then, that saw in few countries in few industries in the 1990s.
+The book will be again one of my 50-100 pages minibooks, as I still think that "drafting" on this website is the main communication and ideas testing tool.
+Actually, the first draft with the core material is ready, so I can share a tag cloud representing the content:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210719_hedgingtheedge.png)</center>
+As for the catchy title of this short article...
+...well, in 2014 Edge computing was already present yet marginal.
+But now that 4G and 5G as well as broadband are getting integrated into our everyday infrastructure, devices, in whatever shape and form, including devices with a modicum (and soon a lot) of ability to interact with the environment autonomously, Edge computing can become another bit of "critical national infrastructure".
+The book is, as its predecessor, focused on yesterday, today, and a potential tomorrow.
+As it is my habit, the mini-book is a summary that contains also a bit of ideas that will be developed both in the book and in the future.
+The details of many items contributing to that summary are actually represented by this list of articles that I published in the past (the links retrieve the associated list):
+<b><i>Searching for</i></b>...<b><i>You find this</i></b>[edge                   ...101 articles](http://robertolofaro.com/search_edge)[smart                  ...75 articles](http://robertolofaro.com/search_smart)[transition             ...58 articles](http://robertolofaro.com/search_transition)edge+smart+systemic    ...47 articles</a>[gdpr                   ...45 articles](http://robertolofaro.com/search_gdpr)
+The release of the book is now scheduled within the first week of August.
+The first volume had as a subtitle "cultural and organizational impacts".
+This will be more focused on extending the boundaries, hence its subtitle is "you are the device & privacy at Edge".
+While the first volume had a chapter focused on future evolutions, from a business governance perspective within its own boundaries, this volume is about interactions and decentralization.
+A further element: if a decade ago "device" meant something produced by a company, nowadays both on the hardware and software side (including Artificial Intelligence, Machine Learning, robotics, etc) we are witnessing the physical side of the "data democratization".
+Not only with Lego, creating your own toy robot with minimal capabilities is really something that most kids could do.
+So, picture yourself scenarios that this could produce- I will share some ideas within the "future" part of the book.
+This article is, by purpose, short- and will be also part of the book.
+Meanwhile, stay tuned by reading articles here.
+As usual [comments are welcome](https://linkedin.com/in/robertolofaro)

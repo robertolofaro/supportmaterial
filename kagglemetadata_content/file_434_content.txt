@@ -1,0 +1,81 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_article.png)</center>
+I know that you would expect some commentary on the current political crisis in Italy.
+Well, as I wrote few days ago, my focus right now is on the NextGenerationEU and the "semplificazioni", i.e. streamlining of the countless Italian bureaucracies.
+This short article is within the "data democracy" series, and for reasons that will be explained in few paragraphs.
+It is about three themes, each closely interconnected, and therefore is not divided into sections:_ where is Italy now_ NextGenerationEU / Recovery Plan from the UN SDGs viewpoint_ the positioning of Italy vs. other EU Member Countries.
+Nothing more, nothing less.
+Beside the introduction, I will just share links, data, and pictures from some Eurostat documents.
+Aim: as now most in Italy are converging on the need to define "what" before "who", a gentle nudge to consider prioritization while choosing what will be within the programme.
+As, in this case, this is a "once in a generation" political opportunity.
+I will share also links to access source material from Eurostat, but plan, eventually, to add more number crunching via my [Kaggle data-centric profile](https://kaggle.com/robertolofaro), where I already published other material.
+The approach that I will follow? Have a look a my latest [data-centric book](https://leanpub.com/ai-organizational-scalability), on how a specific element could be embedded into business and society- at that page, you can also find the links to the free material, while you can [read for free the whole book (without attachments) here](https://issuu.com/robertolofaro/docs/ai-organizational-scalability-and-kaggle-survey_v1)(174 pages).
+<b>Introduction and rationale</b>
+I gave a hint of my focus in May 2020, when I shared a first application on the [Decreto Rilancio, Government Decree](index.php?page=409), followed then by another webapp, [on the ensuing conversion in law](legge77_index.php), where I added also a [discussion on the discrepancies between commitments, provisioning, and timeline](legge77_timeframe.php).
+You can read the above there.
+As for the current political situation, have a look at what I posted on [my facebook profile](https://facebook.com/robertolofaro) since December 2020, both in Italian and English.
+In my commentary online, since the crisis started, beside general point, I waited until all the meetings at the Quirinale were done, and the mandate to explore opportunities to form a new government with the existing supporting parties was given to the President of the Camera dei Deputati (he has to check if there is a sustainable and stable majority that, hopefully, would keep in office until the next national elections, due in 2023 unless this term will be shortened).
+Also, waited until a day of commentary had passed, and this morning, 2021-01-31, as I did for all the week, saw the results on half a dozen Italian newspapers.
+No, I do not follow the Facebook, Twitter, etc. Italian political posturing: as that is in Italy more akin to World Wrestling-style communication before a match, than political communication or political realities.
+Since I re-registered in Italy in 2012, repositioned myself as only PMO and Change Manager, but I have few more skills that, also "courtesy" of the string of lockdowns since March 2020, I revamped and developed- albeit I reserve the latter (along with analysis) to what I share in articles, status updates, and posts.
+I am still resolutely politically as bipartisan as I was in the early 1980s- what I vote at the poll is my choice, but whatever my vote, analysis and assessment have to be independent from political preferences, in my opinion.
+Or: if you have preferences, not necessarily for a specific political party, even for a political position (e.g. I am considering sustainability, which implies long-term and systemic thinking), state them- but keep them out of your analysis.
+Otherwise: it is just political manipulation or "spinning", not analysis.
+If you want a bit of "political science fiction summary", you can read a status [update on 2021-01-31 in the morning](https://www.facebook.com/robertolofaro/posts/10157436867552016) (in Italian).
+How much "political science" and "fiction", I will let you decide- but certainly, for my standards, goes down as a "summary".
+To close my morning news review, this morning I posted [if in doubt, maybe this could be used as a guideline for the programme for the next Government of Italy...](https://www.facebook.com/robertolofaro/posts/10157436887262016), with a single image- the 17 UN SDGs defined in 2015, and due by 2030.
+Already in 2008, when we had the financial crisis, I wrote how, personally, I saw that the crisis had already started at the beginning of the century, as I said to my foreign colleagues between late 1990s and early 2000s while working in France and German Switzerland.
+I shared yesterday and today also a couple of recent articles from Italian newspapers [on how just 25% of the Italians continuously improve their skills](https://www.facebook.com/robertolofaro/posts/10157434818642016), and how the failure is also on the [business side](https://www.facebook.com/robertolofaro/posts/10157436875887016).
+As I shared with a Facebook friend who relaunched one of those posts: <i>"well, since the 1980s, in Italy I did my best to professionally rebalance the quota
+in high school, for a political advocacy organization I belonged also participated actively in "European integration awareness sessions" (at least once in a high school)
+while in the Army part of my role was scheduling training sessions, and designed and delivered an introductory information technology training course in the Army, to both troops and NCOs and officers up to Lt Col
+in the early 1990s, one of my selling points for training and assessment on methodologies to companies was that, at the time, the average "cadre" in Italy was receiving 1/10th of the number of days of formal training received by a German colleague in Germany
+and, in Italy, the total of 2.5 days included 1 day for the annual company meeting
+personally, since the 1980s I try to apply the "media del pollo", as a writer called it: if the average Italian eats 2 chicken, somebody eats 4, somebody eats zero...
+...so I do the same with training- and, to show that it does not really require that much of investment, whenever I had a project often ended up also designing, coordinating, or facilitating training activities (often involving others)
+continuous improvement and continuous learning are a mindset... not just a matter of budgets...".</i>
+It is not a matter of budgets, but it is most certainly a matter of priorities of allocation.
+COVID-19 is a global pandemic, and since the early 2000s we have already been focused on at least three global initiatives:_ e-government, to enable comparability and harmonization if not convergence_ climate change impacts mitigation_ the 17 UN Sustainable Development Goals.
+So, I think that any definition of any proposals for the Italian version of the NextGenerationEU / Recovery Plan should start from those three points, also to recover the 20 years of falling back of the Italian economy, as well as the risk, by misguided allocation of resources, of seeing our EU partners recover and jump ahead on the anyway expected digital transformation and e.g. circular economy, while Italy loses at least another 10 years (or another generation, if you consider the payback time for those resources).
+And now, the data-centric article.
+<b>NextGenerationEU / Recovery Plan and Sustainable Development Goals in Italy</b>
+I promised a short article, and it will be short.
+You can search on this website [what I wrote about the "recovery"](search.php?tag=recovery) part and [industrial policy](search.php?tag=industrial) (or even just [policy](search.php?tag=policy)) in Italy (and, incidentally EU).
+Eurostat is an underused resource that should enable to bring back some reality within our political planning, notably in Italy, e.g. on [measuring sustainable development](https://ec.europa.eu/eurostat/web/sdi).
+I suggest three sources:_ [Sustainable development in the European Union - Overview of progress towards the SDGs in an EU context - 2020 edition](https://ec.europa.eu/eurostat/web/products-catalogues/-/KS-01-20-192)_ [Sustainable development in the European Union - Monitoring report on progress towards the SDGs in an EU context - 2020 edition](https://ec.europa.eu/eurostat/web/products-statistical-books/-/ks-02-20-202)_ [SDGs and me - 2020 edition (an interactive tool)](https://ec.europa.eu/eurostat/web/products-interactive-publications/-/ks-02-20-414)
+Italy is a founding Member State of the European Union and its forerunners.
+Therefore, any discussion about UN SDGs and Italy should start by seeing where overall the EU is going.
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_overview.png)</center>.
+As you can see, the EU overall is not all well and fine- we have a decade to go on UN SDGs, and still plenty of work.
+Anyway, do not make the mistake to consider, as many do, each goal as an island.
+This is a map of the interconnections:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_connections.png)</center>
+Now, having seen the previous two images, where does Italy, overall, stand?
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_italy.png)</center>
+This is a data-sharing article, and therefore I will let you do your own analysis.
+As I wrote above, I will share my own at a later stage.
+Now, the next step in this "data-sharing" is a little bit unusual.
+The UN SDGs are 17- but each goal has some Key Performance Indicators, that help to monitor the progress on each goal.
+The [interactive website "SDGs and me - 2020 edition"](https://ec.europa.eu/eurostat/web/products-interactive-publications/-/ks-02-20-414) show the status on some for each goal.
+You can visit the website and have a look for yourself to both those selected, and others, but my selection criteria were simple:_ except on 06, as Italy provided no data on the nitrate content in groundwater in 2017 (and therefore used he "inland water bathing sites with excellent water quality, 2018"- which "rhymes" with 14, "Coastal bathin site with excellent water quality, 2018"), used the first indicator in each_ also, on 16 "Peace, justice and strong institutions" selected "Corruption Perceptions Index, 2019" and "People perceive their justice system as very or fairly independent, 2019" _ on 17 "Partnership for the goals", selected both "General government gross debt, 2019" and "Official development assistance, 2019"
+And now, no more commentary- just 20 self-explanatory pictures on where Italy is positioned vs. EU as an aggregate and individual Member States.
+Enjoy.
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_01.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_02.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_03.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_04.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_05.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_06.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_07.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_08.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_09.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_10.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_11.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_12.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_13.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_14.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_15.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_16_1.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_16_2.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_16_3.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_17_1.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_compare_17_2.png)</center>

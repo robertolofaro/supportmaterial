@@ -1,0 +1,143 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210523_article.png)</center>
+Yes, another step after the previous three, as we have yet another step ahead within the #NextGenerationEU journey.
+And, again, within the series "CitizenAudit".
+This article is the fourth of a series:[_01 2021-02-19](index.php?page=436)[_02 2021-04-29](index.php?page=441)[_03 2021-05-11](index.php?page=442).
+Just a couple of days ago, in Italy everybody was talking about the 25bln EUR that should be released in July- forgetting few details.
+Such as a) timing: I do not need to repeat again the number of steps involvedb) consensus: few countries still have not agreed, and few more still have not released their own plans
+Granted- the latter should not be a blocking factor, but the two levels of flexibility given for b) on the #NextGenerationEU were actually two negotiating tools available for the usual bargaining.
+As, despite all the speeches, the politicians who have the real impact are still elected by national constituencies, and, routinely, each country (including Italy) plays for its own "audience".
+We are still far far away from a shared purpose.
+Therefore, newspapers shifted from "July" to "September" in their forecast for delivery (talking also about the actual provision of the funding on the markets).
+Personally, as I wrote in previous "episodes" of this series, I stick to my plan, i.e. to comment on the national proposals only after will have been jointly approved in Brussels.
+If more than 1/4 of the proposals are still "on the drawing table", we can expect few thousands more pages.
+Then, the point would be to see how, beside individual projects, all converge on two elements:1. the prioritization that had been jointly defined2. the overall "moving forward" of the whole of EU.
+If there will be "beggar thy neighbour" elements, I think that there will need to be a further rescheduling.
+In this article, I would like to focus on some samples of elements that could impact on the way forward, and will use both Italian and non-Italian examples.
+So:_testing the waters on data interoperability_an example of "thinking systemically"_the strategic side of streamlining bureaucracies
+<b>Testing the waters on data interoperability</b>
+To test the waters, we can see how it proceeds with the joint initiatives about vaccination, recovering the four freedoms (i.e. being able to move freely and work freely around the EU), and data-sharing associated to that, &agrave; la Schengen.
+In Italy, we are discussing now the issue that, having regional-level health systems within a national system, we lack the interoperability of vaccination information.
+Some would like to make agreements to, say, have the first vaccine shot in Piedmont, and the second in Liguria (where many go on vacation)- or, even, considering that some are already reaping the benefits of the mild weather, have somebody from Piedmont have both shots in Liguria, where maybe has a vacation home, and have the data seamlessly available to both the Liguria and Piedmont health systems.
+Well... multiply that for 27 countries and the associated regions, and you understand how this is not trivial matter.
+Also if you, for a brief moment, set aside any consideration on the logistics of millions of people trying to have a shot where they are not resident, i.e. not on databases used to identify who should get what, plus the additional issue of confidentiality of health data shuttling around on demand.
+In Italy, it has been proposed to have people to stay at least three weeks in their vacation destination and to register with the destination health system- but imagine the overload of systems designed mainly for permanent residents, not for people who will be, for a while, "resident" in two regional health systems.
+Considering how many systems are around, and how, just in my own case (I am again resident in Italy since 2012), I routinely discover old data in various part of just one regional system, I wonder how many "trigger" would unleash having somebody registered in two systems.
+And we are talking about something that should work within days...
+There are ways to solve the latter issue, e.g. in Italy using the SPID to authorize a temporary access to your own data to a doctor at the vaccination center where you are, but on your own regional systems (they are all accessible via Internet, aren't they?), with no shortcuts about residency etc.
+But that, anyway, to be done properly, should be a traced process leaving behind some information in both the source and destination system of the data, authorization, and also a time- or event-related limited availability, if you really want to stay within GDPR, and keep track, for statistical purposes, of the profiles associated with each shot, just in case there are issues later, or even to track side-effect by "lot" of vaccines, demographics, etc.
+A classmate in Frankfurt in 2017 who lives in Strasbourg, going to Germany for work, a while ago showed the results of a COVID19 test that she was given in France to be able to commute.
+When I was living in Brussels, there were also many working in Lille or Paris, and the Thalys/Eurostar network covered back then Paris, Lille, BeNeLux, and a slice of Germany.
+If we resume working, we will also resume commuting- despite all the brouhaha about remote working, many companies have yet to change their own corporate culture and business processes.
+To say nothing about the cybersecurity nightmare involved in having office-bound workers access the whole corporate data, uncontrolled, on computers from home, maybe on connections shared also with their kids experimenting with networks and, out of boredom, hacking- on computer or connections where e.g. would not be possible to enforce security policies such as "no USB keys".
+If we worried about business confidential data on the memory cards of networked copiers and printers, imagine when you transfer that outside your premises and in a computing environment without the same level of protection of corporate PCs.
+So, it is easy to announce: but, when you drop into the picture also jurisdiction, information access, logistics of data, people, vaccines, it takes some preparation.
+There are already article on trade magazines discussing not just the third potential shot, but also having a recurring annual "check" (and potential ensuing further shot) on what I could call "residual potency of vaccination", due both to the diffusion in other countries (many countries still are way beyond EU-27, UK, and USA on vaccination), and the direct and indirect potential of further mutations.
+We do not know yet if we are talking about 2021, 2022, or even the whole "disbursement lifecycle" of the #NextGenerationEU.
+If you consider that the idea was that the "mechanics" of the #NextGenerationEU should inspire also future initiatives (including the "standard" EC budget allocations), and even discussions about converting de facto the #NextGenerationEU into something similar to a "revolving facility" (to make it simple- you have a ceiling, you use a bit, when you repay you "replenish" your quota that you can still access), creating a system that is tested on a specific element, and can then help in finding the key issues to consider when creating a permanent system useful for other "continuous data sharing" across the EU, could help.
+Now, if it seems an excess to "think systemically" on the "vaccination travel pass" or "vaccination EU access", consider that what matters is not just the "what", but, when 27 countries are considered, also the "how"- as there are too many "hows" (at least one per country), and a ill-designed approach could generate so many exceptions, that we will spend more time sorting out differences than using "the system".
+I had another example in mind, but, while preparing today my weekly update on my [ECBSpeech webapp](ECBSpeech_index.php), I saw a speech delivered in Finland on 2021-05-19.
+<b>An example of "thinking systemically"</b>
+I shared this story in the past, but it is relevant now.
+Once, I had a customer, and we were supposed to have a project kick-off meeting.
+As it was a new customer, my routine was to have a significant chunk of the "turn-key" value assessed for the project (if we had elements- otherwise, I would do first a feasibility project, then a delivery project)...
+...as an advance, and to link further payments to "milestones" within the project, leaving a variable chunk (negotiated with the customer) for the final approval phase.
+Now, living in London and working in few countries, it was not so easy to reschedule, and, as until the early 2000s airfares had some "quirks", doing scheduling the proper way could mean, on small projects, the difference between a profitable and an unprofitable "turn-key" (i.e. all travel costs and time&materials and "contingencies" in) project- be it software or (how was most often in my case), consulting about processes, organization, change, negotiations, etc.
+I had been promised the first payment few times, but I had a tight schedule with other projects elsewhere, so, I went as scheduled to the location of the customer.
+At the time, remote and mobile banking were not as developed as today- so, I had to call my bank to check, while on travel.
+Nothing had yet arrived, so I called the customer, and I was told, literally, that "it will arrive, but while you are here, let's start the project".
+My reply was that, as I had never visited their location before, I could be a tourist for a day, but did not know when I could reschedule the meeting and the ensuing activities.
+I was told: call back in a while, we will fix it.
+Few minutes later, I received a call from my bank in London, asking if I was waiting for a wire-transfer from outside Europe (usually received only from Europe or UK), as they saw an amount credited on my business account following an unusually fast procedure.
+I checked with the customer, and I was told that, as in Japan since the introduction of electronic wire-transfers they could deliver in the time needed to enter the message in the system (minutes for final delivery), that was the source.
+The rationale was: wire-transfers, at the time, in Europe still took days- not for any real technical reason, but because, from when you gave the order, to when it was executed, to when it was received, to when it was credited at destination, it took few days of value (availability of the amount, used also for interests, provisioning, etc) that were generally split between source and destination bank.
+Plus, of course, the charges (at the time, was common to "split" the costs).
+In Europe we now have "instantaneous wire-transfers"- courtesy of plenty of "moral suasion", that should help also in future arrangements (e.g. micro-payments without necessarily having to use an intermediary).
+Over the last few weeks, I did some tests: in Italy, some charge 0.25EUR on top of the hefty fee (2EUR) that they charge for a "standard" (next day- in the past was few days) wire-transfer; others started charging 0.50EUR on any incoming amount, and whatever the source in SEPA (Europe and few countries); others charge 0.85EUR, etc.
+You got the picture.
+Now, few excerpts from the speech I referred to above, given by Fabio Panetta, a Member of the ECB Board, in Finland, on 2021-05-19 ([you can find the link here](ECBSpeech_index.php?who=466162696f2050616e65747461)), with the title "At the edge of tomorrow: preparing the future of European retail payments":<i>The next step is for payment service providers to offer instant payments at attractive and transparent conditions. This means that prices should be neither excessive nor hidden to consumers. While the cost for service providers of using TIPS is 0.20 eurocent (&euro;0.002) per instant payment transaction, instant payments are sometimes offered to consumers for &euro;1 per transaction. This must change. For instant payments to become the new normal, they must be cheap and easy to use. We would also like to see providers make instant payments available on all commonly used electronic channels and offer much-desired functionalities such as Request-to-Pay.
+...
+Our strategy goes further. Payments that cross the EU border must become cheaper, easier and faster. We thus contribute to the international work on cross-border payments, and we are exploring with Sveriges Riksbank how TIPS could support cross-currency instant payment transactions.
+To promote innovation and digitalisation, we are also investigating the opportunities of pan-European electronic identities and electronic signatures for retail payments. Finally, the strategy encompasses work on the environmental sustainability of payments and on access to payments for all citizens.
+We are also preparing for the future through our work on a possible digital euro. A digital euro would provide Europeans cost-free access to a safe form of digital money which respects privacy and has legal tender status, ensuring it can be used everywhere.</i>
+I will not add comments- but, if interested, you can read online the whole speech (quite short but to the point), and read also the attached documents about the next steps.
+As you can see, the concept here is the same: having a system is not enough, you have to create a convergence on what is considered acceptable behavior, and, generally, need to have also the means to enforce that convergence.
+Otherwise, it is a case of what, in political economy history, is the ["Gresham Law"](https://en.wikipedia.org/wiki/Gresham%27s_law): bad money drives out good.
+As was happening in Ancient Rome, when some emperors went through what we call in Italian ["tosatura"](https://it.wikipedia.org/wiki/Svilimento_della_moneta), i.e. literally using a file (the physical one, not one of those on your computer) to "trim" a bit of metal from a coin, reducing e.g. the quantity of silver.
+If everybody is converging on the rule, but few shrewd are left free to do as they please, they can actually distort the market.
+In this specific case, of course customers could switch bank- but, also if you do not have a business and are just a retail customer, your "freedom to leave" is, for now, nowhere close to the one you have to enter a shop, give your mobile phone number, and have after a couple of days your number transferred to another operator.
+Anyway, the interesting part in that short speech is how many elements have to be considered, also in something apparently so simple as having a system that enables instantaneous debit/credit.
+I wrote "so simple", because there are few elements that make it so simple:1. EU banks are within the same regulatory framework2. there are already in place, since decades, systems that enable "interoperability" (this is not the case in most other bureaucracies- e.g. when your switch residency between countries)3. being all operators in the same industry, that share also seats where the rules are evolved (e.g. in Basel), and continuously mutually involved, they have a set of shared interests.
+In our health systems, it is true that, now that UK is out, in EU most countries have a convergence of logic on service provision etc, but there are still huge differences in "how" they operate locally, which services are externalized or not, how the overall welfare system (including retirement, unemployment, subsidies to companies, ["flexicurity"-style](https://en.wikipedia.org/wiki/Flexicurity)) is implemented, etc.
+On top of that, add that some countries are centralized, some are federal, some are hybrids, and that the principle of "subsidiarity" is still not really implemented when deciding who does what and how at the national level, from what is reported by news.
+COVID19 just highlighted the differences.
+As for subsidiarity, will go to the source ([EUR-Lex](https://eur-lex.europa.eu/summary/glossary/subsidiarity.html)): <i>The principle of subsidiarity is defined in Article 5 of the Treaty on European Union. It aims to ensure that decisions are taken as closely as possible to the citizen and that constant checks are made to verify that action at EU level is justified in light of the possibilities available at national, regional or local level.</i>
+In an emergency, chaos ensues, notably when you have to make choices that, as I wrote above, impact on your "audience", i.e. voters, and you have elections around the corner (there are barely few months when there is no election going somewhere in EU).
+Therefore, we will see if the #NextGenerationEU will evolve concepts similar to those in banking, or we will still be working on a bilateral basis, or even, as it is sometimes happening in Italy, on a bilateral basis within areas inside a single country.
+As I wrote in the past, I think that to ensure overall EU-wide "resilience" courtesy of the #NextGenerationEU, in the end prioritization should be done beyond the boundaries of individual countries.
+Probably, the [Committee of the Regions (COR)](https://cor.europa.eu/en) could help in looking at EU-27 as a collection of "areas" that have often a convergence of purposes that requires thinking across the national boundaries (I am thinking e.g. again to Lille, or also to Lyon-Turin, or other areas).
+But, again, it is a political will that could generate a conflict of interests between national governments and regional governments.
+And this brings about another point that I would like to discuss (the last one for today, I promise), i.e. what is part of the "convergence" toward higher "resilience" EU-wide.
+<b>The strategic side of streamlining bureaucracies</b>
+Yes, the Twitter and Instagram accounts that I added on 2021-05-23 on the header of this website are both called @changerulebook.
+When I created in 2018 a YouTube channel for my video presentation (no voice, just text, to share ideas and, hopefully, inspire others to think about the same concepts), I called it ChangeTheRulebook.
+But, when I added few weeks ago my new profiles to announce publications, I decided that "the" was a limitation.
+It is not just a matter of change the existing rulebook, it is a matter of adopting a new one.
+So, now "ChangeRulebook" also on [my YouTube channel](http://robertolofaro.com/ctr-channel).
+If you followed by announces, you saw also that every two weeks released a "FridayDataSetTask" series (we are now at number six, it will stop with number eight).
+The aim was to share "challenges" on how to reuse datasets (generally: on laws and UN SDG-related KPIs) that I shared since late 2019 on [my Kaggle profile](https://kaggle.com/robertolofaro).
+Actually, I had already done my own version of the answer to each challenge, but the idea was to show how data, per se, are a "filter" on reality.
+Once you applied that initial filter, you can still identify other purposes.
+And the same applied in most of my cultural and organizational change activities since 1990, as well as in the activities on building decision support systems for senior management in few companies from late 1980s until late 1990s.
+Sometimes, the initial proposal I was asked to intervene on was a huge data collection project to help build the usual "bells and whistles" dashboards (at the time, visually limited, but still a jump forward, compared with pre-existing paper-based tables of numbers).
+But, in some cases, when I asked the purpose to the manager involved, we both agreed that there were some constraints (e.g. &agrave; la Heisenberg: if you ask for new data points from those that you want to check if they are cheating, it does not take a genius to understand the logic of the new data points, and adapt, defying the original purpose), or that maybe the real need was something else.
+So, sometimes the complexity was not within the quantity of data (at the time, we counted kilobytes, not gigabytes), or the complexity of the data structures that contained the data (nothing like current concepts).
+The complexity was in the patterns that data revealed, and, having just mere regression algorithms, albeit multidimensions, sometimes this implied starting with a simple logic that partitioned reality in few subsets, and then finding further ways- the complexity was in the relationships between data.
+Those relationships, represented by "models" (really- a series of equations, often starting with a simple balance sheet and profit&loss, but then sliced across multiple perspectives, and computing various "performance indicators"), were actually a representation of the business flows, business culture as expressed by actions, and so on and so forth.
+What I learned back then is that, to support decisions, it is fine to explore data- but you need to know both the logic of the business, and the aims of the "customer" asking for the model.
+Those three elements, together, should be those that guide the definition of the model.
+Yes, it is nice to discover that maybe what the data say is not what you expected, but without the other two elements, you do not have a "mandate".
+And, as a manager said during a SAP User Group in Germany a while ago, you company might end up having more "pilots" that Lufthansa.
+But while airline pilots are hired to fly a plane between destinations, your pilot projects risk to never "take off"- at most, could "land" on a shelf.
+I saw many cases of "shelfware" since the 1980s around Europe: done, tested, approved- and never used.
+If you get a mandate, what the data say might actually be an "inconvenient truth", but you still have the other two elements that, maybe adjusted, should guide you, and could help rephrase the three elements.
+Who knows, you might even discover that your business could actually become something else, or that could make sense to do a model for other purposes (or, even, that there is no reason at all to invest on a model based on those data).
+But sometimes change did not start from data, it started by choice.
+All this to say: I write about digital transformation, about data-centric society, etc- but I am not obsessed with data.
+Sometimes, data are generated only because then, downstream, there is people consuming those data.
+And they, in turn, are there only because they produce data that are consumed by others.
+And, more than once, few "downstream" steps down the road, I found that eventually all returned to the start.
+Not what we know mean when we talk about "circular economy"- but something that many bureaucracies thrive on.
+Recently I shared in another article how the current Minister in the Italian Draghi Government in charge of what I could call the "make bureaucracies work" portfolio, Minister Brunetta, said that there is no need of a further reform, what matters is implementing those that were never implemented, and that both he himself (in a previous government), and his successors and predecessors in government across all the political spectrum already prepared.
+Implementation of laws is a constant issue in Italy.
+Routinely, at least since the 1990s, each government and Parliament session releases laws and decrees converted into laws that require, to become operational, further implementation measures.
+Sometimes, the "inheritance" left from one government to the next one amounts to hundreds of decrees and regulations not yet produced.
+Streamlining bureaucracy is an old mantra, in a country where few years ago we were said to have 120,000 laws.
+I forgot when was the first time that I heard in Italy, as an excuse for a reform "Europe asks us to do it"- but was decades ago, long before I first relocated abroad in the late 1990s.
+Frankly, in Italy too we need to change rulebook, not just change "the" rulebook- on that, we have more than we can manage.
+Streamlining is now having a resurgence- both the latest government and the current government worked on a decree to "streamline" (in Italian "semplificazioni"- literally "make it simpler").
+The old quip generally sourced to Einstein is that you have to make things as simple as possible, but no simpler than that.
+In Italy, we do not have this worry: routinely, when we try to "streamline", as I wrote above about vaccination outside your own region, we forget what is already on the books, and then have to make some Gordian knots here and there to... enable the "streamlining".
+Example: do you want to give a tax credit as an incentive to relaunch the building industry? Easy- make up a mechanism that requires dozens of bits of information from various sources to be coalsced and presented as a package to an approval office downstream, and then add that the office can revise it for formal issues long after the works have been completed.
+With a catch: many of the bits required are actually already available in various bureaucracies- so, the citizens has to act as a communication and interpretation channel between bureaucracies who, actually, have the knowledge and systems to communicate efficiently with each other (bar few regulations here and there).
+As far as I know, some of the "semplificazioni" that should be released next week should cover that- as well as other issues in other laws.
+Still, I stick to my old mantra while designing decision support models: it is fine to have data about the "real as is", but you need to understand what business you are in, and what is the purpose.
+So, "streamlining", in my view, should consider changes to bureacracies systemically, as a long-term strategy.
+Which, of course, is a political choice, akin to that done by the "Costituente", the elective assembly that after WWII designed the Italian Constitution.
+Yes, I know that I advocated that "let's decide together" also for the Italian quota of the #NextGenerationEU, but what I am hearing about streamlining is getting on the same dimension, as it is being turned into a structural element of the Italian proposals for the allocation of funds, the PNRR.
+So, if the PNRR will implement projects across society, not just on physical infrastructure, and will change the nature of the relationship between (private, corporate) citizens and State, as well as between the various organizational levels of the State (regional, provincial, city/town/village/etc), then...
+...this is Politics (yes, upper case p, as it redefines "the system", does not just act within it).
+It is not a mere need to "tinker" here and there, few fixes to keep going and formally comply with the #NextGenerationEU framework.
+As, anyway, that couple of hundred of billion EUR from Brussels (I already shared in the past why "from Brussels" is a misunderstanding, no need to repeat it here) is just a slice of the aggregate 500bln or more that this overall transition, "pushed" by the COVID19 crisis, but overdue at least since 2000, will cost.
+Say what you want, but there is little chance to be able to sustain a further 500bln (if the currently considered amount is wasted) in few years
+Hence, the matter is to do now the starting steps to do changes that will make the current 500+ bln EUR assessed sustainable long-term, to avoid to have to add a similar amount in the future.
+The strategic dimension of streamlining bureaucracies is nothing less than that: redesigning the State and its network of internal and external relationships.
+And, if you read previous articles, you know also my assessment of the impact of the "tribal" structure of Italy.
+The reforms that we need will not take months, and probably will not be even completed by the end of the "disbursement" phase of the (first round?) of #NextGenerationEU and its Italian offspring, PNRR.
+So, we have to gear up for a long journey.
+Personally, as I wrote a while ago, from 2021 I decided to follow only occasionally what happens in Italian politics and its obsession with "instant soluble leaders": add some praise from the crowd, and, pronto, you have a leader.
+But I wrote about that in 2017 ([Il paese dei leader](index.php?page=125)) and 2019 ([Il paese dei leader / The leaders' country takes a page from Vichy](index.php?page=369)), and shared here and there in [at least a couple of dozen of articles and book reviews](search.php?tag=leader).
+Instead, my focus is on reforms, "semplificazioni", and #NextGenerationEU / PNRR.
+And those three elements all require thinking strategically, not tinkering tactically and "hedging".
+I think that in few months we should know what is the choice.
+As I wrote long ago, quoting... a long journey starts with the first step: and we are, collectively, choosing either to do a first false step, or the first step on a long and tiring yet interesting journey.
+Stay tuned...

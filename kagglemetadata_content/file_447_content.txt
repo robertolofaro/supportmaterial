@@ -1,0 +1,101 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210604_article.png)</center>
+If you had a look at my latest article ([Going smart: intermezzo on the future of compliance and regulation](index.php?page=446)) , published five days ago, probably you read also the last section, <b><i>"It takes a (different regulatory) village"</i></b>.
+If not, and unwilling to read a 10,000 words article, just search for the title of that section- it is only slightly over 1,200 words long.
+With this article, I said that I was going to start a series on the financial sector- as I had already covered the themes of smartwork, smartcities, smartvehicles, and associated elements (from impacts on the automotive and retail industries, to changes in urbanization).
+If you are interested- use the [Search within articles](search.php) option on the menu, and use the "tag cloud" to search by keyword.
+Now, "financial sector" is not and will not be what we all were used to.
+First, as this is an introduction, and anyway part of the ["RethinkingBusiness"](index.php?section=rethinking-organizations), I will keep it short, and share the basic principles.
+This article will be short but still divided into few sections:_a really short digression_(re)thinking the financial sector_integrating or dis-integrating?_the keiretsu of compliance_an embedded publishing plan
+<b>A really short digression</b>
+Recently, Italy announced it will start hiring within the public sector few ["centuriae"](https://en.wikipedia.org/wiki/Centuria) (will probably trickle down to at least a full legion, eventually) of temporary employees to take care of the planning and administrative sides of the Italian side of #NextGenerationEU, the #PNRR (Piano Nazionale di Ripresa e Resilienza).
+No, also if I am looking now for a mission in one of the roles that I have been officially entitled to do in Italy since I had to return in 2012, I do not plan and I am not interested to apply for any role in Italy or Brussels linked to this initiative.
+Which roles? PM/PMO; albeit expanded by getting what was on [my CV](http://robertolofaro.com/cv)- still the price of switching country in EU, in my experience few times across few decades, Switzerland was the only exception.
+Reasons? Many.
+But the key issues why I am not interested (and I think that it is a mutual choice) can be solved only by those up at the negotiating level where "thinking systemically" will (if ever) be done in Italy.
+As my American friends would say- way above my pay grade.
+A "tribal affair", as usual- but I do not belong to any tribe.
+Better to have more people, from all sides, from the outside, continuously prodding and checking ("fare le pulci", as we say in Italian) to ensure that this opportunity does not end being wasted as many before- as, in this case, the impact would last for generations.
+Yes, most of the prodding and checking will still follow "tribal" boundaries- but at least few will be looking at the bigger picture.
+So, if the promise of transparent (and "open") operational data during the "spending phase" will be kept, that should help continuous adjusting.
+End of the digression.
+<b>(re)thinking the financial sector</b>
+Now, back to the financial sector.
+If you read, say, 10% of the articles still online in this website, you know that repeatedly shared ideas about this industry- derived from experience.
+Actually, ideas about my perception of the industry and its potential evolution, based on cross-industry experience since the early 1980s, even before I started officially to work, and was just studying documents from Brussels and Strasbourg.
+I worked on number crunching on the financial side of non-financial businesses at the same time when I was working on the banking side- from the late 1980s until the late 2000s.
+A side-effect of the late 1990s expansion of business uses of Internet was the disintermediation of many activities, i.e. the possibility of both customers and suppliers to avoid intermediaries.
+Nothing really new, here: simply, having the opportunity to use communication networks to generate transactions between unknown parties, using "platforms" instead of what I could call old formal and informal financial intermediaries.
+What I mean with "informal financial intermediaries"? 
+If you buy and pay later, or if you get financed by your customers, also without formal credit arrangements, either party is de facto acting as financial intermediary.
+Actually, "consumer credit", or even the banking units of manufacturers, covered that role at least since the beginning of mass production, in the first half of the XX century.
+Also the famous salary increase decided by Henry Ford so that even his employees could afford to buy a car (and reduce turnover- well, [there other interpretations](https://www.forbes.com/sites/timworstall/2012/03/04/the-story-of-henry-fords-5-a-day-wages-its-not-what-you-think/)).
+If you subsidize demand to keep capacity, you might even have a short-term loss, but, in reality, if it is feasible, you are inflating your own market quota, and retaining in operational state facilities (and expensively trained staff) that would be more expensive to recover later.
+There might be multiple reasons (e.g. going below a certain level would make a plant economically unsustainable, or keeping a plant active due to constraints in financial contracts), but what matters is something simple.
+Since the late 1990s, many online start-ups (and also many "traditional" financial or retail businesses that followed the same approach) built up market presence by using funding from third parties as a temporary replacement to sales.
+Jump forward to the 2010s: while [Paypal](https://en.wikipedia.org/wiki/PayPal) and others since the late 1990s grew along with business uses of Internet, it was in the 2010s that alternative financial platforms turned into something else, almost a parallel banking system.
+Previous cases (e.g. the Linden case, the internal currency of Second Life, that I remembered also recently in another article) were about what could be called "community money", i.e. currency that could be used only within the community (still part of many ["gamification"](https://en.wikipedia.org/wiki/Gamification) efforts to retain customers, online as well as offline).
+Increasingly, the last decade saw start-ups that, de facto, "expanded" their own balance sheet as if they were central banks.
+Their collateral? What was provided by investors and, eventually, members (directly and indirectly: will not explain here what I mean).
+The first phase looked a lot like "fiat money"- what still cryptocurrencies are, as the value is easily "tuned" by relatively few players with no third party oversight.
+<b>Integrating or dis-integrating?</b>
+When I read about some recent news-catching transactions on cryptocurrencies, often I ended up thinking to a Russian movie from the early 2000s, "Oligarkh", that contained various hilarious scenes where the leading character was explaining how his businesses worked, by shuffling around few times the same material, or separating parts of a product- in both cases, keeping it legitimate and profitable.
+For example, I wrote in the past of some cases of KYC (Know Your Customer), where funding for new "currencies" (formally, [ICOs](https://en.wikipedia.org/wiki/Initial_coin_offering)) was provided by a crowd of micro-investors from less developed countries.
+Then, the amounts collected were dispersed with suppliers and other uses, but ventures failed: a good way to "clean" money, in my view.
+So, we would need a "RKYOC" (Really Know Your Own Customer) regulation, as using sources with less-then-stringent enforcement of global standards against money laundering could be an even bigger issue in the future, as the technical and trasactional complexity is getting lower.
+Now, if you:_remove complexity_enable providers of services that actually deliver financial services using "apps"_enable other entities to use such platforms to become virtual financial organizations_keep having jurisdiction-based regulations, or with uneven enforcement worldwide_add a "smart" element to vehicles, objects, clothing (eventually also people)_then, turn potentially every interaction between devices into a micro-financial transaction_...
+...you get a more complex scenario.
+Yes, in the past you had e.g. large retailers and automotive companies that created their own banks (or set up joint-ventures or business process outsourcing partnerships with banks and consumer credit companies).
+But, again, density (i.e. quantity), frequency (i.e. how fast), and size (i.e. amounts, and associated "compliance cycle") currently regulated assumed a different scenario.
+I do not think that the much hyped blockchain is the solution to those issues- current implementations are too slow (transactions per second) and too computationally intensive (to say nothing about energy consumption), even if we were to switch from e.g. the bitcoin to the ethereum o similar models.
+As discussed in the section <b><i>"It takes a (different regulatory) village"</i></b> of [the latest article](index.php?page=446), my point is not to create a new Gosplan of compliance, e.g. expanding the portfolio of regulations created for traditional, "slow" processes to the new, "fast", de-structured forms of finance and microfinance.
+Creating new opportunities to enable also individuals to exchange transactions with other individuals, but without using intermediaries, would require a "scalability" also within compliance.
+Meaning: scale up and scale down.
+We have now the means and technology to actually "embed" some forms of compliance within devices.
+And, why not, also checking in real-time evolutions of patterns, to adjust.
+At the same time, we have already hundreds of thousands of pages of standards, regulations, etc- each one with its own "compliance bureaucracy".
+So, the Gordian knot is expanding the potential sources of interactions integrating financial transactions, while streamlining compliance.
+And all this at a time when technology is able to expand the number of channels and methods continuously.<b>The keiretsu of compliance</b>
+So, my concept is simple.
+Going ahead, looking at various bits of "rethinking business", each adjustment of compliance will probably "emerge" from reality.
+As an example, beside the AI, ML, and RPA courses that I followed in the past fifteen months, over the last few months followed workshops and webinars about the current trends in Edge computing (IoT, etc), something that I followed for a long time as an update, but now is mature enough to start generating an ecosystem that transcends individual suppliers.
+Recently, I heard in webinars about the "electronics side" (IoT, GPU, TPU, microcontrollers, etc) from various suppliers voices similar to those that I heard half a decade ago within the automotive industry.
+Moving from suppliers use of their devices and components, to consumers, implies a different way of integrating: the integrator is the customer using devices provided by various (even competing) business ecosystems.
+We are still at the stage where "cloud-based ecosystems" in Edge computing and other technologies are mainly on a company-by-company basis: more closed platforms, than the ecosystems that would be needed when we have technologies that make data production and consumption, as well as, in this case, production and consumption of financial transactions, highly mobile and involving interactions between people and devices.
+Value added: right now, going to the cloud is a common choice, and even free resources allow micro-entities to test concepts on the integration of consumers and devices with really low budgets.
+Therefore, acceleration by consumer swarming can actually enhance the chances of seeing soon the development of integration between different ecosystems.
+Or, at least, to develop approaches to enable "exchanges", as e.g. it is possible to send a SEPA wire-transfer between different proprietary ecosystems of banks, not just within a single bank.
+As both the "physical" (Edge computing, IoT, etc) and "conceptual" (online services that used to be paper-based) can be potentially interconnected via cloud computing, instead of having to get through intermediaries.
+And now, courtesy of COVID19, within the EU we are expanding the ability to access across the EU data ranging from the "green certificate" (for those with a vaccination or recent test), to, in the near future, "virtual" ID card and papers (all to use your smartphone).
+Considering all the sensors that a smartphone contains, and that generally we all carry it around with us at all times, probably that one too could be a point of "interoperability", i.e. a point where data from different sources can be interconnected (and, of course, if needed, generate or receive new transactions).
+The title of this section references a conglomerate "format" that could actually, in a twist of history, become what will be needed in the future.
+You can read online e.g. within a short article on Wikipedia about the concept and history of [Keiretsu](https://en.wikipedia.org/wiki/Keiretsu), but the key concept is:<i>"The members' companies own small portions of the shares in each other's companies, centered on a core bank; this system helps insulate each company from stock market fluctuations and takeover attempts, thus enabling long-term planning in projects."</i>
+My concept of a "keiretsu of compliance" is probably closer to those that were structured around a bank, but in reality the key element is quite simple.
+The point is to still have, as we will have even more in the future, "vertical" standards, by industry- but having within their definition and oversight a cross-disciplinary element, to avoid what I routinely still read in rules, regulations, standards: a tunnel vision full of biases, and oblivious to what is common knowledge in other industries.
+<b>An embedded publishing plan</b>
+Since the beginning of the COVID19 crisis, it was quite interesting to follow the evolution of the debate about whatever concerns compliance, regulations, data exchanges across jurisdictions, EU and national decrees and statements, and all the associated paraphernalia.
+By choice, I followed the evolution across all the industries I worked in since 1986 (key industries: automotive, banking/financial, gas/logistics, outsourcing, retail, stat-ups)- and there was plenty to go about.
+As the convergence toward the benefits of introducing e-currencies, also other domains showed interesting cross-industry evolutions.
+As an example, from considering financial instrument issued by companies as collateral during the crisis, to relenting constrains on State-issued debt.
+But also self-initiated conversions of production lines by companies that adopted almost a war economy approach, to produce equipment and consumables needed to cope with the crisis, and onboarding of corporate facilities as vaccination centres.
+I am referring obviously to what I wrote about Italy and the ECB, while also following the evolution in Europe of Stellantis as well as large retailers.
+Anyway, what I collected is an endless string of adjustments that, frankly, would not have been possible at all if each component had worked strictly along "by industry" lines.
+There is still plenty of work to do, as also the negatives of other prior conversions to a "war economy" happened, i.e. price gouging, profiteering, contracts that no sane purchasing manager would ever sign with the same level of suppliers scrutiny (zilch), etc.
+Anyway, I think that the time between now and the first disbursement phase of #NextGenerationEU should be a time to extract value from lessons learned since the COVID19 crisis began, and, as I wrote in the past, the first phase of actual spending should help tune monitoring, now and for future uses.
+What we are setting up with #NextGenerationEU is not just what is needed to spend up to 750bln EUR between now and 2026, but also to help with the management of future EU budgets.
+And this, also without considering that others have started sharing as an idea, which could be summarized as: we are doing such an effort, setting up a fine framework, why don't we keep it in place? Or: making permanent #NextGenerationEU.
+And, as I wrote before, why don't we even turn it into a "revolving facility", i.e. raising as much as needed (so far, from requests, less than 750bln EUR), and, based on the quota by country (that should be tuned to some KPIs that define "need" within the priorities), make again potentially available as each country repays.
+I wrote few articles ago that, instead of a single article, I would start a series on the financial side of "Going Smart with Data".
+Well... this article is an introduction, but, following my mantra of "thinking systemically", I shall quote a movie and a WWII Prime Minister, 79 years ago...
+... <i><b>"This is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."</b></i>
+Meaning, in this humble case: no, there will not be a series just on finance.
+Being data- and process-oriented and used to analyze and (help to) change corporate cultures and organizations, i.e. people and their formal and informal structures, my assessment is that all the cross-industry micro-changes that "emerged" during this crisis showed the feasibility (and need for adjustments) for what will be needed in the future.
+So, there will most certainly be articles focused just on specific issues of the financial industry, but, maybe more keiretsu-style by country and eventually across the EU, I think that for a while we will still be a market economy.
+And a market economy within a data-centric society implies that financial approaches (also if not necessarily associated with monetary values) will be embedded in most exchanges.
+Consider it as a useful tool to do what I did e.g. in the early 2000s as PM/BA for an audit project on an application portfolio within the automotive industry.
+The concept was to identify the current status, patterns of ongoing change, target pattern(s), and transition journey(s).
+A kind of convergence as the one we are focused on now in Italy at the national level, and EU-wide convergence.
+The trick that I had used before, e.g. in the 1990s in organizational change projects and vendor/software selection and monitoring, was to convert into measurable what was not measurable, and then compare how we were- the same trick that in January used in a book (and Jupyter Notebook) that you can read for free online (see the links within [AI Organizational Scalability](https://leanpub.com/ai-organizational-scalability).
+I think that more articles will benefit from data collected for various purposes (e.g. the UN SDGs convergence monitoring at the EU level)- and that "financial" will be part of the palette used to represent past, present, future reality, as an approach, not just as a tool with interest for just an industry.
+In reality, I will try to extract something more contextual from whatever will be approved in Brussels concerning the "expenditure phase" (as I do not know yet if what will be approved could count as investment, expenses, expenditure, or... liberality).
+Therefore...
+... stay tuned!

@@ -1,0 +1,116 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20210829_article.png)</center>
+This article is, as [A different model of #Italy - using #NextGenerationEU, #COVID, #PNRR as #leverage](index.php?page=455), more about the building blocks, than about the current initiatives.
+And, actually, will talk about the elements within the title only at the end of this post.
+As I wrote a week ago within [End of a week of focus on #PNRR #NextGenerationEU and #transparency](index.php?page=457), I already started releasing material not just for my own future articles (and books) on the "triad" #NextGenerationEU, #RRF, and #PNRR- but also to allow others to "spawn" their own tracking activities.
+The aim, in this case, is more modestly to say that, as in any data-centric activity, there is plenty of data cleaning and preparation that body wants to do.
+Frankly, I did data preparation when I was 17 in European advocacy activities, I keep doing now 40 years later, when needed.
+As, often, data cleaning and preparation, in my view, as a fundamental step to more "glamorous" data-related activities, should be done by (or, at least, with the direct, hands-on involvement of) those who understand the source data.
+I saw since the late 1980s the side-effects of "barreling downstream" such activities, as then those working on the "glamorous" side of business number crunching might actually unknowingly work using distorted information.
+Therefore, as I since few months ago I have been "cleaning" and "structuring" PNRR information for my own uses, why not share it?
+Why this is relevant to the title of this post?
+Because this post starts from a comment that I received yesterday evening, a quite curious comment, in our lean, agile, continuous learning times, moreover in a town that is spawning half a dozen of various "industry supporting" initiatives (yes, including competence centers).
+This short article is split in few sections:_continous learning and what it entails_cultural change and cultural habits_transparency and competence centers_generations and #NextGenerationEU_actionable intelligence and competence centers
+<b>Continous learning and what it entails</b>
+What is continuous learning? A process, not a destination, to use an old clich&eacute;.
+This "process" requires obviously knowing where you are coming from, seeing where you are, seeing how you got where you are, and define how to move forward.
+Today, in preparation of another book (as I wrote to a friend, two books down the road from the one I will close writing soon), decided to dig into my library a pile of books for the bibliography.
+Due to some technological SNAFU, unfortunately part of my prior attempts to digitize my own paper books ended up in a spinning hard disk that is readable once in a while.
+And so, paper it is.
+As it is my habit, whenever I decide to re-read (or read) books, I had a "preview" (quickly browsing cover-to-cover)- in this case, as it was about books I read before, it was easier.
+Now, the comment yesterday was that keeping track in writing of everything is something for auditors controllers and the like, or large companies.
+Well, it is something really not in tune with our times.
+In a data-centric world, any activity generates data, and it is up to both individuals and organizations to decide how to convert that into a "trace" linking time and activities.
+And traceability has been part of countless compliance frameworks since at least the early 1990s- stating that it is a luxury when Turin is trying to become "the" technological competence of Italy (and beyond, if you read some articles), it is at best a puzzling choice.
+Actually, I remember that there was a politician in the USA, in pre-Internet times, who was famous for keeping tab of all the promises, favours, exchanges he had.
+It was said as a joke: but, frankly, in Italian politics was something I observed more than once.
+One of the books I was refreshing is "Il Successo Continuo - l'eccellenza Toyota dalla Via Emilia all'Europa", from 2017, about the journey of an Italian company through the TPS as a cultural change.
+And the books describes that process as pivotal toward the achievement of further successes in Industry 4.0.
+Including a curious example of "traceability": employees who, when leaving e.g. for lunch, are provided with magnetic "flags" to show which one is the latest unit they worked on.
+Reason? As a reminder to themselves.
+And to show the team.
+And to enable anyone to pick up from where they left.
+Something that I learned in politics as a teenager, then in the Army where I was also planning and scheduling activities, and then in business, where in the late 1980s I was working on multiple projects for multiple customers and multiple units of my employer (and also their Anglo-American partner) all across Italy: keeping track, also for a one-man band, was to become second nature, as customers and colleagues expected that, whenever I "visited" them next time, I picked up from where we left.
+Mumbling and rummaging would not have been considered acceptable, as I was the "expert on call" if and when needed, and not a "bottleneck on call".
+Turin and Italy, as some are "national competence centers", are in the process of leveraging on past manufacturing knowledge as a springboard toward the future, to increase competitiveness.
+But, beside paying lip service to Kaizen, WCM, Lean, there is a need to foster a huge cultural change, to make all those initiative and competence centers turn into profit centers, not sunk costs to support the career of the well connected.
+<b>Cultural change and cultural habits</b>
+In Italy, as I was reminding few weeks ago in a post office while talking with an employee, our digital transformation routinely generates some troubles.
+Both continuous learning and digital transformation, to reap their benefits, require a degree of transparency, accountability, and due-process we are not used to.
+As an example, I often quote the electronic registered email, called in Italian "Posta Elettronica Certificata".
+To open a company in 2018, I had to first get a PEC, as it is compulsory for both private and public economic entities.
+So, I was puzzled when then, sometimes even in writing (and even by sending me a PEC to that end), offices routinely asked not to send PECs.
+Reason? A PEC tracks source, destination, when was sent, when was received, and potentially also certifies content (it can give error messages if it cannot).
+So, if it takes three months instead of two weeks to process a request, it is known- and documented automatically.
+In writing- but there is no need for a scribe, it is all a byproduct of the use of the tool.
+And, if digitally signed, there is no way to alter content (e.g. lose pages- something more common than you can imagine, in Italy).
+Now, it is a routine instead to still have offices release documents supposedly on day X, then have them processed by somebody else, who has then to send normal registered (physical) mails via post- usually much later.
+And you never know if the latter was the source of the delay, or simply received a pile of documents to process later on: because the "old method" does not include a "traceability" (not even an unmodifiable log of the exchanges).
+In Italy, we miss another element needed for continuous learning: we routinely shoot the messenger.
+So, there is an incentive to keep paper in the flow, as you can "adjust" the flow, instead of routinely sending PECs that would show that routinely there is a delay- something that, actually, in a real "continuous learning" (and even "lean"- look for the concept of ["Muda"](https://en.wikipedia.org/wiki/Muda_(Japanese_term)#:~:text=Muda%20(%E7%84%A1%E9%A7%84%2C%20on'yomi,others%20being%20mura%20and%20muri).)).
+And It is not just "shooting the messenger", i.e. anybody reporting an issue with the process as the reason for a failure in delivery, but we have an even older tradition.
+Another cultural element in Italy that clashes with both "continuous learning" and any "modern" management method is the abit of looking for a scapegoat (it was a tradition also in Ancient Rome).
+<b>Transparency and competence centers</b>
+Personally, I think that, if you want to improve, the best source of ways to improve is listening to those who made mistakes, and to keep them involved in designing solutions, not firing them and bringing in a new team.
+Of course, in cases of "errors and omissions"- if the damage is intentional, there is still the concept that those who made it can provide clues to make an encore impossible, but then you need to consider also if it is feasible an involvement.
+Continuous learning implies therefore transparency, and focus on improvement.
+As I shared on both Facebook and Linkedin today (different "angles"), another local habit that has to change is confusing transparency with gossip.
+The former is "embedded" within the process, and goes as far as the process allows (e.g. to keep up with privacy, business confidentiality, etc).
+The latter? Implies using access to information to then divert it toward uses not "statutory", and generally with a preferential access (locally, often linked to tribal membership).
+When I was supporting part-time and also remotely start-ups in Turin in the early 2000s (when I was planning to return to Italy before becoming a UK citizen, as I had almost matured the right), a local contact said to me that he called Turin "gossipville", and had toyed with the idea of creating a gaming site with that name.
+Only reason why he didn't? He said that then he would have needed to move elsewhere to work.
+So, what is so terrible about structural gossip? Instead of adding transparency, and expanding the possibilities of continuous learning and improvement, this misuse of access adds further entropy and disincentives to both activities.
+Creating competence centers that work for multiple organizations generates a further layer of complexity, and makes confidentiality (as well as privacy) even more critical.
+A competence center within a single company is, eventually, under the oversight of the same team that manages the organization, aligned with the same "mission" and "vision" (yes, I hate that mumbo-jumbo, but it is useful as a shortcut).
+And even there, frankly gossiping about those supported is really a no-no: you need transparency and openness to deliver your role of competence center, gossiping with those from your circle of friends or tribe about other tribes? Self-defeating.
+In Italy since forever I had been pulled to enter this or that tribe- not my cup of tea, I am bipartisan, as I keep repeating and writing (and, usually, the reaction seems almost as "ah yes, bipartisan- but you are on our side, right?").
+A competence center working for multiple parties has in reality two missions: its own "continuity of value" (i.e. keeping learning so that can share lessons with its "customers"), and supporting the continuous learning of its customers on specific initiatives.
+I will let you think what could be the impact of gossip, as defined above, on both missions.
+Decades ago, I remember that a large computer manufacturer, to enter a specific industry with its own solutions, made an agreement with an industry partner: the computer manufacturer would develop a software solution, the industry partner would provide the knowledge, and the industry partner would get an exclusive of x months on the solution.
+I saw similar models applied by other companies, across the decades, with few dozens of "Goldberg Variations" (same theme and purpose, but with specific variants).
+So, transparency as defined above (not gossip) has to be defined and managed across time.
+In some cases, e.g. new standard definition to increase interoperability across an industry, probably business confidentiality on the solutions defined will play second fiddle (or could be even ruled out- staying only on the original contributions by each party during the development phase).
+In other cases, there could be a multi-staged approach linked to the level of (financial, knowledge, experimentation, etc) resources committed (to avoid the "free riders" or, at least, have them pay a "membership chip").
+Discussing competence centers design and operation (including if I were just to share my competence in various activities, starting from the 1980s in politics, the Army, and then Decision Support Systems) would require a whole book- maybe another time.
+If you are interested, I can suggest few reading sources (some unexpected)- or you can wait for a forthcoming book.
+Instead, would like now to switch to the concept of "actionable intelligence" and "next generation".
+<b>Generations and #NextGenerationEU</b>
+I will reverse again direction, and start from the concept of "next generation".
+In Italy, I see the #PNRR still too much short-term oriented.
+I need to clarify: I see the #NextGenerationEU, #RRF, #PNRR as "cultural change initiatives", not just spreading cash on projects to keep people busy.
+My concept of "short", on a "recovery and resilience" is approximately the old five year plan- a cultural change takes at least 2-3 years, and a couple years more are needed to implement and adjust, so that it becomes sustainable (i.e. long-term).
+Also when writing about "future generations", "our children", and the like, most Italian commentators talk about 2-3 decades, e.g. up to 2050, as if we were in the XIX century.
+Recap: at the beginning of the XX century, there were in Italy as many 60+ as there were 90+ at the end of the same century, an old article said.
+And other articles that in the late 1990s talked about "living up to 120 by mid-XXI century" actually were referring at those that now already entered the workforce, in their early 20s, born after 2000.
+I will skip the discussion I saw recently about "getting 150".
+Anyway, the point is simple: if people, with appropriate food, preventive health care, etc will routinely get to 100 in 50 years or so, it is probable that they will be working in a different way, but still active well past their 60s.
+Or: if we talk about 2050, we are talking not about future generation, but those born in the early 2000s, who could have a vested interest in something that delivers value for at least another half a century, and more (if they will have children: imagine somebody in the 2030s having a child that could live past 2150, while our society still seems attuned to 50-to-70, i.e. 2080 to 2100).
+Despite everybody stating "once in a generation" about both #NextGenerationEU, #RRF, and #PNRR, most politicians talk about 2050 just because... they personally will still be in politics in 20-30 years.
+When I was living in Brussels, I wrote few articles about the builders of cathedrals, who were working across generations- their generations being about people living routinely into their... 30s or 40s.
+Decades ago, I remember reading an interview with [Abdus Salam](https://en.wikipedia.org/wiki/Abdus_Salam), a theoretical physicist.
+He said, I think in the 1980s, that in physics what was needed was a similar approach, as many projects were to be expected to be completed way beyond the lifetime of a scientist.
+Yes, I think even longer than the lifetime of those born in the 2030s, if e.g. we want to extract energy not just by passive means from our solar system, or even be able to deflect large asteroids, to support the continuation of our civilization.
+Because if you consider our civilization, it is overall at most 5,000 years old, and we are already "leaving behind" something that will need oversight for 100,000 years (I shared long ago links to an interesting documentary from Finland about their nuclear fission byproducts storage facility).
+<b>Actionable intelligence and competence centers</b>
+Now, competence centers (yes, I am reversing the title again) cannot expect to be knowledge islands: they have to act also as a two-way "knowledge conveyor belt" with other competence centers and additional potential sources contributing knowledge.
+Each time a competence center gets involved in a project or initiative, its "knowledge stock" expands, and its value to its context, too.
+What has to be "glocal" (the old think globally, acting locally) is the actual implementation (or support to implementation, dissemination, collection, etc).
+As you can expect, the key element is contextualizing: while a super-competence center in Brussels might be an idea to collect, collate, and disseminate, we still lack some elements.
+Contextualization has at least two elements: one "structural" (where), and one "social" (stakeholders, etc).
+I want to relate my own experience in the late 1980s with my first employer, a company belonging to Andersen (at the time, it was still part of Arthur Andersen, before becoming Andersen Consulting, and then spinning off as Accenture).
+As I wrote few times in the past, I was told (actually I have somewhere a booklet that came with the agenda of 1990) that, out of over 70,000 employees etc worldwide, 5,000 worked within the competence center- collecting, processing, disseminating knowledge and experiences from projects worldwide.
+What is the difference between that private worldwide competence center and a potential EU-wide network of public competence centers?
+Unity of vision, and unity of mission.
+Local competence centers within the EU (not just Italy) have different constituencies, stakeholders, purposes.
+A competence center can (should, at least that was my approach in the private sector) also get the "pulse" on trends etc in the industry (or industries) it focuses on, within the context of the interests of its stakeholders.
+Now, again, how can you compound that with different, competing constituencies across the EU?
+It is already difficult enough in Italy, but across the EU?
+As an example: if you have an automotive competence center in Turin, how will it balance the interests and needs of other automotive districts in Italy, or automotive companies based in Italy but structurally part of the supply chain of German companies?
+If you work for a private competence center, you also know how to define what can be considered "actionable intelligence", but how do you define it when you have multiple stakeholders with overlapping or conflicting interests?
+What do I mean with "actionable intelligence"? I think that an example should clarify better than a long dissertation that would most certainly leave some elements outside the picture.
+Decades ago, there was in Italy a news clipping service.
+It was a kind of "competence center": you told what you wanted to monitor, and they sent you clips.
+So, an old joke was that, in the 1970s, we had a President whose surname was Leone (lion, in Italian), and once a clip was sent about... a lion that had escaped from a zoo.
+Was that "actionable intelligence"? If you were a comedian, maybe.
+But if you wanted to know public statements from the President, I doubt that you would be happy about what that "competence center" delivered to you.
+So, beside the cultural elements I discussed above, and the need to keep having continuous learning and improvement, there are other elements that define the "value delivered" by a competence center.
+It will be interesting to see how all these local competence centers will evolve, and how they will integrate at the EU level: as it should be the all of EU that increases its competitiveness...

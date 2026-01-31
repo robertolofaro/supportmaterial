@@ -1,0 +1,40 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210609_article.png)</center>
+Yesterday it was announced that the Italian #PNRR (Piano Nazionale di Ripresa e Resilienza), the Italian side of #NextGenerationEU, will receive the first funding from Brussels in July.
+Actually, it was announced: ["Up to now, we have received 23 national plans."](https://ec.europa.eu/commission/presscorner/detail/en/speech_21_2887)
+So, this is the right time to share the second part of the "visual side" on the journey from theory (the initial announce of what eventually was to be a package of 750bln) to practice (what will be requested by Member States, approved, and also raised on the markets).
+If you search for "recovery and resilience facility status", the first link that Google returns is <a href=https://ec.europa.eu/info/business-economy-euro/recovery-coronavirus/recovery-and-resilience-facility_en>the one referenced in this article</a> (and in previous articles), shown in this picture:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210609_rrf1.png)</center>
+The allocation distribution of the grants was [shared in a different document (referencing the amount of 338bln EUR)](https://ec.europa.eu/info/sites/default/files/about_the_european_commission/eu_budget/recovery_and_resilience_facility_.pdf).
+Along with other images, that webpage contains also a table with links to documents (or websites) provided by each country:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210609_rrf2.png)</center>.
+Interesting is also the closing section, containing the press releases of the European Commission announcing the presentation of national documents- not all the countries that presented a plan are listed, nor were there before (I referenced this page in previous articles), and the latest update was the release on 2021-06-02 on the top of the list:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210609_rrf3.png)</center>.
+As [the first part of this article](index.php?page=439), this one too is within the "CitizenAudit" series.
+This article is focused just on the Recovery and Resilience Facility part of the #NextGenerationEU, i.e. 672.5bln EUR.
+Therefore, as befits the title, will be short and data-centric: there will be time elsewhere to share commentary in due course, while this article will be useful as a reference.
+To support this article, released today also a dataset with the information extracted from the press releases, [dataset that you can find at this link](https://www.kaggle.com/robertolofaro/eu-recovery-and-resilience-facility-current-status/metadata).
+If further press releases will appear on that page, I will update the dataset, hoping eventually to have a full complement of information covering all the EU27 Member States, as for other datasets that I released on Kaggle (e.g. on <a href=https://www.kaggle.com/robertolofaro/sdgeu-datamart-sample>UN SDGs</a> and others).
+As reported within the European Commission page linked above, there are 7 key areas:_<b>Power up:</b> clean technologies and renewables_<b>Renovate:</b> energy efficiency of buildings_<b>Recharge and refuel:</b> sustainable transport and charging stations_<b>Connect:</b> roll.out of rapid broadband services_<b>Modernise:</b> digitalisation of public administration_<b>Scale-up:</b> data cloud capacities and sustainable processors_<b>Reskill and upskill:</b> education and training to support digital skills
+Two key targets, concerning the twin transitions (green and digital), were highlighted as:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210609_2021feb_rrf_green_digital_wo_hashtags_1.jpg)</center>
+Just as a reminder, from that same page, the workflow for the release of those 672.5bln EUR.
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210609_2021feb_rrf_timeline_wo_hashtags.jpg)</center>
+The curious element: if you look at [the page linked above](https://ec.europa.eu/info/business-economy-euro/recovery-coronavirus/recovery-and-resilience-facility_en), you will notice that the links do not contain the press releases for some countries whose documents are linked to the page.
+My initial purpose in this article was to share something that I assumed to be simple but had not yet found online, a table showing what I outlined within the dataset, extracted by choice only from the press releases (assuming that there was a "format").
+The #NextGenerationEU initiative is routinely touted as the first step toward a new, more transparent and traceable approach.
+As an example, on 2021-04-27 France and Germany [jointly announced their plans](https://www.euractiv.com/section/economy-jobs/news/france-and-germany-unveil-green-recovery-plans/)- but within the press releases listed, only the one about France is available.
+My country, Italy, released first a document of few hundred pages, then it was reported that a further 2,500 pages had been released, as I wrote in a previous article: but even today, also if the page linked above was last updated on 2021-06-02 (or, at least, that is the date of the press release for Czechia), those additional documents are not visible.
+As for the 23 countries- following yesterday's speech, I would have expected to find that information, i.e. which countries presented what when.
+It will probably take some time to tune the communication machine, despite all the task forces etc set up at the European Union and national level.
+For the time being, we can only wait for a kind of dashboard / portal of harmonized information showing what would be expected in any similar case (and I routinely had to prepare since the 1980s mainly in the private sector):_what had been planned for each country (the initial figures and those re-assessed upon the variation in the overall package size)_what has been asked by each country, grant and loans_what has been approved, committed, released to each country (grant and loans)_any associated release (and payback, for the loans) schedule_any measurable checkpoint associated with the release and payback schedules.
+The latter is worth a couple of words: also if I crunched numbers in business since the 1980s, it is not just in politics that, when it is time for a "scheduled checkpoint" (call it gate or milestone, if you prefer), political reality implies tuning what should be done with what can be done.
+Then, of course, more Key Performance Indicators (KPIs), also to compare country-by-country mix vs. the EU expected prioritization, as well as clustering of countries across other parameters.
+Hence, also if that page above, as all the documents since July 2020, outlined conditions, priorities, and all the usual paraphernalia that in our "30 seconds news soundbytes" delivered so far the expected noises, it is just to be expected that, with an initiative this size and with the expected impacts, there will be plenty of adjustments.
+Anyway, adjustments do not necessarily imply losing track.
+Therefore, I expect gradually more information, more harmonized, and easier to trace and use as a negotiating base.
+Even if a renegotiation will be needed (as, in a way, it was expected after the first release of funds).
+For the time being (yes, I wrote it few words ago), the dataset that I released on Kaggle contains the information that I would have expected to find on a reference page (I willingly ignored the national recovery and resilience facility release plan date for each country, using just the press release date).
+Moreover, I extracted information not from the documents linked to each country flag, but exclusively from the press releases (those available at that page).
+This table summarizes the data currently available (the format of this image is awful, but I wanted to show you what you will find within the dataset):
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210609_rrf4.png)</center>
+Stay tuned.

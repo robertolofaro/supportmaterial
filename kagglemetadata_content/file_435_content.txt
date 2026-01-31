@@ -1,0 +1,150 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20210205_article.png)</center>
+This morning I had planned a short article, but then ended up assembling 4,000 (slightly less, after "intelligent cuts").
+Jokes about the title apart, what you will find here?
+First, a short digression on why this article contains, as second section, contains the end section of an article that I published first in May 2020, [Political #times and #political #timing in #COVID-19 times - the case of #Italy](http://robertolofaro.com/index.php?page=410).
+We all now are talking about "artificial intelligence", and, as I wrote recently, also in webinars about how companies restructured their own supply chain to cope with COVID-19, the most common concept was how "data" and their "intelligent" use helped not just to cope, but to adapt changes that probably will be permanent.
+It is a matter of reinforced resilience acquired by using operational data in a smarter way, and this ends up requiring to enforce more transparency.
+As shown by the Eurostat experience within the European Union (e.g. with questions about the reliability of data from Greece long ago) and also by the UN SDG more recently (having all the countries to report on all the relevant indicators is still a journey), transparency is not a free lunch.
+Having data is not enough: you need to have the right data, at the right time, and have also in place processes and systems that enable you to do something "intelligent" with that data.
+If you look at the announces of NextGenerationEU, it was about money, yes, but also about monitoring, control, and, of course, data.
+Or is there somebody who still thinks that, in a complex, multinational economy, disbursing billions of EUR collected from the markets is just a matter of shaking hands and delivering a speech?
+The digression, as I said, is about the "why" I selected a section from a previous article.
+After the digression, I will get back to the next part of the title of this article, i.e. that mouthful alliteration of "toward a systemically sustainable NextGenerationEU in Italy".
+<b>Digression: the law of unintended consequences</b>
+This website is intentionally low-traffic: no advertisement budget, I just share ideas and commentary and other material, announcing exclusively on my online social media profiles.
+Why intentionally? 
+Since its inception in 2001, it serves mainly a "knowledge-sharing" purpose, enabling also to share "ideas signposts" online: those interested reuse bits and pieces, others just skim through.
+Useful, as it was for my e-zine on change between 2003-2005 (currently offline, also the new version), also to share "neutral" material with customers and prospects, i.e. with relevant concepts but not specifically tailored on their own information, to enable focusing on the issues and not on defending past choices.
+This version of the website started in 2007, and currently contains mainly material from 2015.
+Therefore, I was surprised when, two days ago, I saw a sudden surge, focused on a single article:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20210205_cut-and-trust.png)</center>
+I had my doubts, so I shared the post above on various social networks to see the impact.
+And, suddenly as it had started, the flow (which reached 10,000 overall during the day), ceased.
+This is the "most read" list as of this morning:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20210205_most-read.png)</center>
+As you can see, the target article, the one that obtained over 10,000 readers in a day, is on top- followed by others who had "organic" readership, i.e. my routine quantity across a long time, with some "human peaks" associated to specific events.
+It does not matter if the purpose was to remove it (and failed), to use it as an entry point, or to highlight it.
+In my journey through machine learning started during the lockdown in March 2020 (to compound my 1980s AI and 1980s... 2010s business number crunching- you can see examples of results of my latest run on [this page](https://robertolofaro.com/ongoing), while in book form you can read for free [a book that I published in January 2021](https://leanpub.com/ai-organizational-scalability)), I read often concept that I routinely discussed in the past.
+Obviously: correlation is not causation.
+So, just because the end result is to put that article on top, this does not mean that that was the purpose.
+Anyway, in this case, correlation (positive- to push it up; negative- to dump it; neutral- to use it an entry point) was causation for the resulting positioning.
+And, interestingly, to show how much I care about "advertising" or monitoring (the "most read" and other statistics are there just to support readers going by serendipity), I saw something else.
+Beside the English-Italian post on industrial policy in second position, the top readership goes to posts in Italian (on integrating social media in advocacy and politics- material that is almost a decade old, but about principles, not on technicalities, so, from the misuse of social media communication, still relevant), and about Italian and European political culture change issues (e.g. the one on Mattei).
+As you saw above, the post that was the "target" was assessed by Linkedin at 34mins: again, a proof that I am not looking to masses of readers, just to share ideas with interested parties.
+That post from May 2020, was also a "digest" of ideas scattered across hundreds of articles and posts (including most 2008-2015 that are now offline), about some cultural and structural weaknesses of Italy.
+Anyway, decided that actually one section is worth reprinting - the one that gives to this article the first part of the title- without comments and amendments.
+<i><b>Cut and Trust</b>
+I know, it is the title of a 1920s book that I purchased in Rome while working there (subtitle: "The subtlety of the Sabre").
+Italian politics often looks like fencing.
+I like fencing, but admittedly the average match has less moves and lasts less than a game of Go/Weiqi/Baduk - each game has a different dimension.
+Italian politics is apparently strategic, but often in reality is tactical.
+As President Napolitano once said "di tatticismi, si muore" (i.e. tactical move after tactical move, you lose).
+I like to blend both, if and when needed.
+Cutting taxes and cutting bureaucracy are both part of the "panem et circenses" of Italian politics, a simple way to attract voters.
+As I keep repeating, bureaucracy is a need in any complex society.
+It is a matter of organization that does not rely on individual, unstructured, unrepeatable efforts.
+Most processes that are purely repeatable will (and are already in part) become the domain of software and, if physical element is involved, either robots or co-bots (i.e. robots "sharing the job" with humans), or even other devices (e.g. think about many roles that are taken by humans but could be covered by a sensor plus some software, such as opening doors, controlling the status of a patient, or adapting the environment to a new guest).
+There will still be processes that could involve humans to sortout the "unstructured" decision-adjustment, and others that will remain purely human.
+Nonetheless, even the latter should leave behind a kind of "audit trail" that enables to repeat, reconsider, of course audit, and maybe train other human agents that are less experienced.
+If you do not consider "bureaucracy" all of the above, then invent your own name- this is what I consider bureaucracy: mainly, repeatable, auditable, and not (too much) relying on difference in skills of individuals.
+Because, and this is another characteristic that often is missing, a bureaucracy should be "scalable": within some constraints (such as physical space, availability of resources, meaningfulness), once you define a process, you should be able to expand its audience and output (e.g. process 100 requests for funding as well as 1,000).
+Of course, as I wrote above, "scalability" depends on the specific context: beyond a certain level, all processes that are "scalable" if expanded too much become either unpractical, unsustainable, or require additional "connecting" bureaucracy that might add further processes, costs, and, of course, constraints.
+To be practical: just consider what I wrote above about all the commissions, think-tanks, task forces spawned in Italy during the COVID-19 crisis.
+If you had just one such entity, it could deliver "advice" to those who need it.
+But if you have just one pool of recipients of such an advice, and four or five different committees etc with different "timing", and partially overlapping advice...
+...you would either need to add a new "filter", a "meta-committee" that collects from the others and uses the only "communication channel" with the recipient in a way that hides this complexity, or the recipient has to add a "compensation chamber" that coordinates, integrates, and balances compliance with all with... operational reality.
+Beside what I wrote above about bureaucracy and my bureaucratic experience: in the Army, as I was restructuring the filing system of my office to be able to find documents faster, I was called "a perfect bureaucrat"- until I started fighting for change on other issues.
+The point in that case wasn't to decide which documents to dump or not, or restructure the document: my office was exactly in the same position of one of those recipients of advice on COVID-19, with a difference: being within a hierarchical structure, usually what we received was "filtered" at the Divisional level, or anyway "synchronized" before it reached us.
+What matters is relevance of bureaucracy.
+Almost three decades ago, during the business analysis phase on a Business Process Re-engineering on a "pilot-showcase" project, doing the right interviews and right documents collection and assessment allowed to identify how just 1/5 of the pages printed for each customer dossier was needed.
+Most of the others? Phantom offices and phantom processes from a long forgotten past, in some cases the electronic version of paper-based processes that probably were inheriting centuries old approaches (as Italy, along with China, has probably one of the longest-living bureaucracies- we have some "mores" that go back to Ancient Rome, that we understand it or not).
+Whenever I hear about "tax cuts" or "cutting bureaucracy" I reply: streamlining, yes; making it aligned ("bang for bucks", for my American friends), yes.
+But cutting for the cutting sake?
+As I wrote above, we are at yet another round of "cut cut cut".
+I find quixotic to assume that the EU recovery fund could be used to cut taxes.
+Indirectly, through incentives e.g. for transitions toward different business approaches, or associated training costs, or other operational costs that are to be incurred to move toward a greener, more energy-efficient, more "circular" or anyway sustainable economy, yes.
+But outright direct or local taxation cuts? Doubtful, also if I do understand its political value.
+Moving back to cutting bureaucracy, or at least streamlining processes, there are two dimensions (to keep it simpler).
+<b><i>Technical</i></b>, i.e. before streamlining a process, notably when the outputs (physical and not) of the existing process are not completely structured (think about a conversation that is more or less routine but not structured), an assesment on the status quo is needed, to confirm that all the existing elements work, and "traceability" is not a dream but reality; also because, of course, human processes can involve human error- what matters, beside minimizing its occurence, is being able to track down the source of the error so that a "recovery" can be applied.
+<b><i>Political</i></b>, i.e. any process is the side-effect of choices, and choices are side-effects of decision-making processes, and usually processes are associated to a mix of power/people/skills - notably in a country such as Italy.
+So, as discussed in the case of the new "civil assistants", also streamlining a process implies a technical and political assessment, and identifying impacts on both sides.
+Imagine that you streamline a process that is not really traceable, by removing some "steps".
+Currently, each step is a cost, but each step is a "gate" that replaces with human intervention this lack of traceability (e.g. in each step, the following step involves somebody reporting to structure different to the one people working on the previous step report to).
+If you streamline such a process by removing or merging steps, you are actually transforming a controlled human agent into a self-controlled human agent.
+In Italian, we say "se la fa, se la suona, se la canta" (writes the score, plays it, and sings it, too).
+There is another element that I willingly ignored: even in a country where there is a concept of "civil service", the formal organizational structure and formal processes are only part of reality.
+In a country were even laws aren't based on "principles and guidelines" but on detailed lists of cases trying to regulate each and every detail, any organizational structure and formal process end up generating "parallel" hierarchies and "process shortcuts".
+Add to that the "tribal" element, and you will see how to any rule there is an exception: could be for or against you, but it is there.
+Incidentally: this is also one of the issues of our law- or regulation-making: in Italy, often new decrees aren't immediately operational, as a kind of "implementation" covering all the cases and their interconnections with existing operational details has to be prepared.
+As an example, look online at the occurrences of ["sviluppo" (development) within the Decreto Rilancio](decreto_index.php?tag=sviluppo) (the 55bln/150bln Italian Government decree to fund the phase 2 of post-COVID-2 re-opening; I count 55bln as I consider only the new resources).
+This of courses reduces flexibility, to a point.
+Because highly detailed laws that are excessively complex to implement and "pile up" on others create a "wonderful" space for flexibility, in the form of corruption.
+In my view, streamlining laws and regulations implies keeping the safeguards I wrote above, plus a streamlining of the law-making approach upstream.
+Which, in turn, requires a different judiciary approach: if you remove details and live in place principles, you are moving toward a ["prior case"](https://en.wikipedia.org/wiki/Precedent) culture, something already embedded e.g in regulations that Italy is not "inheriting" from the EU (e.g. GDPR has more than some elements of it).
+In business, this could be feasible for internal approaches e.g. to compliance, to avoid shuttling around hundred of pages of details that would absorb too many resouces just to comply with: but, in any case, requires a cultural paradigm shift.
+So, is it possible to streamline bureaucracy (or "cut" as many say in Italy) without changing the whole "legal supply chain"?
+If you go for specific measures, and consider both the "technical" and "political" side (e.g. what to do with people now not needed anymore), on case-by-case basis, yes.
+But if you want to act systemically, you have to think systemically.
+Many say that speed is important in this phase, to recover and relaunch the economy (and society).
+Instead of thinking about "cutting" processes, I think that a first useful step could be to leave processes as they are (so zilch impact on regulations etc).
+Then, instead of flattening hierarchies and cutting steps or procedures, a first "reasonable streamlining" step could be to consider the "inputs" and "outputs" of each norm and regulation, and consider which one could be "inherited" or automatically produced from existing information (the Italian State is a prodigious collector of data on businesses and individuals).
+Then, the "system" could proactively reduce the costs associated with compliance by extending activities such as pre-filling forms, automatically reminding of expiration dates, and, of course, automatically associating information that is already available, without asking (a common complaint) businesses and individuals to keep presenting to each office the same information sliced in a different way on a different form.
+All the "slicing and dicing" that is feasible could be done automatically, releasing resources while keeping traceability.
+Then, as I wrote above, on a case by case basis, according to a prioritization, specific laws and regulations could be instead the target of "cutting"/"streamlining" (but re-reouting the associated human and physical resources: it is a routine in Italy that each "semplificazione" actually generates new forms, and doesn't reduce headcount).
+As I posted only few days ago: more than flattening hierarchies, to restart during the "living with COVID-19" times, we would need a streamlining of communication.
+To ensure that communication reaches where is actionable, and that those who identify signals worth processing have them reach where a decision is made
+As speed of change is an element that can differentiate being able to jump on the "restart" train vs. just tagging along
+Do not forget the context: simplification is often "delayering", with and unbalancing potential on workflows that generates entropy.
+And, as everybody knows, most certainly we do not need more organizational entropy in Italy...</i>
+<b>For a forward-looking NextGenerationEU based on UN SDGs in Italy</b>
+Well, I will not even comment the reprint above: read it, and decide for yourself what it means, if it is still relevant, etc.
+In Italy, whenever there is a crisis, we talk about "cuts"- and then end up in our maze of mutual obligations that makes next to impossible selective cuts, resulting in some "linear cuts", e.g. "cut 5% across".
+Which ends up punishing the gullible (that did not inflate budgets and performance monitoring KPIs) and the best performing (who already streamlined and expanded what they do with the resources allocated), more than those skillfully playing the number game.
+Yes, the title of this section is the same of the [most recent article that I shared here](index.php?page=434).
+In that case, there was almost no commentary- as in the "reprint" above, the purpose was to share some material and thinking points- I wish could arrange a workshop or brainstorming about both that article and the previous section, but maybe could be an idea for a later stage- after I will have eventually set up a run-of-the-mill podcast.
+For the time being, I would like to focus on a couple (or little more): <i><b>sustainability, NextGeneration, systemic</b></i>.
+<i><b>sustainability</b></i>- implies thinking about long-term, not just short-term, "fixes"
+<i><b>NextGeneration</b></i>- implies not just a chronological element (few decades down the road), but also previous element, i.e. increasing our resilience to the unforeseen
+<i><b>systemic</b></i>- last but not least: there are many who think of the previous two elements as a "virtuous collection based on principles", but we have also to consider "negative externalities", "transitioning", and "interoperability".
+Yes, I promised three concepts, and the third one spawned three more.
+This is an example of what means thinking "systemically"- a "system of systems".
+Or, if you prefer current business parlance, "an ecosystem of ecosystems".
+I will try to summarize it all in a single block, try to visualize it.
+<i>_The <b>NextGenerationEU</b> should deliver sustainability from a systemic perspective, i.e. now and as a "baseline" whatever happens in the future can rely on. 
+_This will require significant changes- and COVID-19 just accelerated what "digital transformation" and use of alternatives to fossil fuels already had started. 
+_Any change generates "negative externalities" for some: e.g. think about the horseshoe industry when cars where introduced, or the impacts of highways on small towns who lived on those travelling through them.
+_I know that many in business like the concept of "big bang"- and the COVID-19 crisis actually approaches such a definition, as we had to all change together.
+_But was it sustainable? Doubtful, as there was no planning no logistic rerouting of resources that did not stretch resources, and plenty of shrinking down of the economy coupled with more national debt to keep families and companies (as well as State and local services) afloat.
+_This stretched resources in the rich, advanced European Union, so you can imagine how much we did not see and do not know from other countries that were already struggling through, and certainly not doing a "digital transformation" at all.
+_During a transition, as I like to repeat since at least the late 1980s (while working on introducing data-based decision-making before working properly on cultural and organizational change as well), most often you have three costs and one set of resources.
+_The cost to keep business-as-usual going, the cost of introducing the "new" (phase-in), and the cost of abandoning the "as is" (phase-out).
+_Unfortunately, most forget two elements: that first part (to keep going as usual), plus that, often, the "human resources" needed to make the transition successful are the same that are actually needed to keep going.
+_So, whenever I see a transition plan based on task forces operating in a vacuum, I think that something is amiss.
+_In a complex society, we need to create a "baseline" of understanding what "systemic" means, as, in ordinary times, "transitioning" will happen at different speeds in different parts, and therefore, for a while, you have to ensure "interoperability" across different parts with different degrees of readiness (and transition accomplishment).
+_Otherwise, you end up falling into the "mission accomplished" trap (do you remember that landing on an aircraft carrier, over a decade before the last troops involved in that mission left the theatre of operations?)</i>
+On this website, since 2015 (when the UN SDGs were announced) I wrote often about sustainability as something more than a collection of initiatives and KPIs.
+The good excuse was a book that I actually started writing before ("the century of the commons"), as my experience in Italy and abroad on the "number crunching" and organizational side of companies in various industries showed a common thread- in business, since the late 1980s; in politics, in since the early 1980s, while active in political activities aiming for further European integration.
+Since the start of the current political crisis in Italy (i.e. before the Conte II Government resigned), I started again to read generally before 9am a list of Italian newspapers online.
+In Italy, we can always claim that we are talking about "programme", "purposes" before "people".
+But, frankly, in a tribal society, it always end up in the same way: we talk about people and which tribe they represent, to "read the tea leaves" of what they, as a team, will do.
+Funny that this week twice I heard the same comment, once in Turin while sipping from a glass and talking, and this morning on Facebook.
+Yes, Italy routinely calls for a "dictator" to sort out the inability of its tribes to achieve a consensus, i.e. temporarily given power to somebody to sort out issues.
+But, as I wrote this morning, and often in the past, we are actually talking about something that we did at least since the founding of Rome.
+So, I do not expect that suddenly we become what we have not been for almost 3,000 years: a collection of tribes.
+This morning one of the news items was actually about, of course, who could be called to hold a cabinet post.
+In Italy nothing is ever final- but one of the names catched my attemption.
+I shared over the last few months about an interesting paper from IFRS about introducing sustainability within ordinary reporting.
+The presentation webinar on the consultation report involved Lucrezia Reichlin, in her role at IFRS focused on sustainability.
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20210205_sustainability-reichlin.png)</center>
+For Italy, 2021 is a "perfect storm"- and a big opportunity.
+To recover the lag of the last couple of decades, as well as to work on what used to be called "SWOT" (Strengths-Weaknesses-Opportunities-Threats).
+You can read in this website plenty of material about weaknesses and threats, but also about strenghts and opportunities.
+Some of the weaknesses, as I wrote above and before, are really 3,000 years old: it would be delusional to imagine to sort them out overnight just because, Italian style, we called a "leader".
+We need instead an exercise of "leadership", to use the opportunities (including NextGenerationEU and the current possibility of reconsidering and restructuring the Italian economy) and strengths to move forward, watching out for our structural weaknesses (to remove at least those that we added in the roaring 1950s-1960s), and seeing if current and foreseable threats actually have a silver lining.
+It takes time and concerted efforts- but it is feasible.
+Despite what it seems, Italy has both financial and human resources: only, we routinely misallocate them.
+Personally, I am outside all these games- and the last quarter of a century showed how foreign I am.
+So, I rather be again foreigner in a foreign land, than a foreigner in my own land.
+But I will keep reporting with a watchful eye- being a foreigner in any land, including in your own, has some "systemic observation" advantages- I have no tribe.
+As an "encore" from the article that gave the title to this section, I would like to close with three images.
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_EU_SDG_overview.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_connections.png)</center>
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_italy.png)</center>

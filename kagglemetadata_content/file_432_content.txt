@@ -1,0 +1,93 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/books_20201223_article.png)</img></center>
+Yes, I know that the title is a reference to a book.
+Actually, back then I would rather use to call it "an oasis", not "a village".
+But I rather talk about interconnected [oases](https://en.wikipedia.org/wiki/Oasis).
+In this short article:_connecting the dots? connecting the oases_restructuring and repositioning the European Union_digression: a roadmap for change_introducing the "citizen audit" book series_about the first volume of the "citizen audit" series
+<b>Connecting the dots? Connecting the oases</b>
+On the technical side of my past activities on Decision Support Systems first, then data warehousing and business intelligence (and all along management reporting), often actually to introduce in a new environment "data-based" decision-making approaches we too had to work on creating (virtually) something similar.
+And I rather use "oasis" than "village" not just because, as you probably read in other articles on this site, I have my concerns about the whole concept of "village", which often implies "tribal"- and consider "going tribal" one of main cultural weaknesses of the social-economic environment in my birthplace, Italy.
+But also because an oasis has some further characteristic- it is not just a village as any else- it can provided something more.
+Well, the XXI century is routinely showing us that just "sharing across villages", or building "oases" that those from other villages can visit is not enough.
+When we talk about "resilience", often it sounds as if we were to accept as feasible a "resilience for ourselves".
+We did not really need to wait for COVID-19 to see how our own resilience is affected by the resilience of surrounding countries.
+Within the European Union, there have always been some that advocated a "Fortress Europe", as if we were in the Middle Age.
+Reality is: as in the procurement of vaccine, a 500mln people purchasing power looking to the future should actually consider the broader perspective.
+And this is actually what the EU is doing.
+Yes, we can have wonderful spots where everything is running fine, but if these "oases" are in the desert, unfortunately our society is too complex to keep those oases alive for long.
+We need to connect those dots- and move forward.
+But I will let others to develop a new Weltanschauung- I will content myself to focus on few dots to connect to an end.
+Starting with some ideas about what could happen to Europe.
+<b>Restructuring and repositioning the European Union</b>
+At least in Europe, this 2020 will not be remembered just for Brexit, the mutualization of debt, or COVID-19, but also for a rethinking of the structure and role of the EU.
+If all that thinking turns into action, is obviously a matter of choice.
+And not all the European Union countries are willing to consider that it is the right time to shift gear.
+The way the resources of the Next Generation EU will be really invested (not just spread around) will influence the shape not just of individual Member Statesâ societies, but the overall concept of European Union citizenship and "commons of the European Union polity".
+There are many who likes to start with grandiose schemes built out of thin air- and call that "change".
+Well, often, would not even qualify as "roadmap for change".
+<b>Digression: a roadmap for change</b>
+A mere roadmap for change usually starts with at least a "laundry list" of priorities.
+Which, in turn, are based on the identification of an array of options, out of which a choice is made.
+And, of course, the options, to be identified, need having a look at reality.
+This is not the time and place to discuss about the lifecycle of a change roadmap.
+Also, as I wrote quite often, I am quite skeptical of those who claim to have considered all the information.
+Maybe all that they considered relevant (yes, a matter of choice), or had reasonable access to.
+Why "reasonable access to"? Because information does not involve costs only due to each step that brings up to the point where you convert data into information.
+Unless information is just part of your routine, embedded in your "ecosystem", just access might involve different degrees of costs (not necessarily monetary).
+Any transition of any type has a starting point, albeit often knowledge (or acceptance) of the starting point is as much an obstacle to change as the natural resistance to change by those affected.
+So, this short digression is really to... start spinning ideas- more will follow.
+Anyway, you can read in past articles and books that I published since 2012 more about change.
+This article is actually an introduction to a new book series, following the previously published ["Connecting the Dots"](index.php?page=349) series focused on change.
+What is this new book series about?
+<b>Introducing the "Citizen Audit" book series</b>
+This short article should be part of the ["Citizen Audit" articles series](index.php?section=citizen-audit).
+In reality, as it is a presentation of a book series, it is part of my "book drafting" series.
+Sometimes, there is material that requires something more than a simple article online- and I think that both e-books and paperbacks still have their role.
+The "citizen audit" whole concept actually derives from my past experiences on dissecting events, communications, documents, and, of course, data.
+Aim: that "knowledge value" therein contained could be extracted and transferred to others who could use it as support material.
+Support material for anything, ranging from decision making on new initiatives, to assessing the current status, improve existing activities, or... 
+...just produce more communications, documents, events, data.
+I will not repeat here what you can read within the introductory article of the "Citizen Audit" series, [published on 2020-07-12](index.php?page=420), and instead will focus on the book series concept.
+A first choice is to avoid publishing what I already posted online- so, generally, it will be the other way around.
+Or: whenever I will consider an item within the "Citizen Audit" stream complex or long enough yet delivering useful experiences worth sharing within a book...
+...will publish the book, share a preview (generally a chapter), and produce maybe articles inspired by the book, reusing limited excerpts from the book.
+In the past, I followed a different approach on other, more self-contained subjects.
+As an example, if you understand Italian, you can read [Strumenti](index.php?page=88), a book I published few year ago about using an integration of offline and online activities (including social media) for political and advocacy activities.
+In that case, the cycle was different: first, the articles; then, the book expanding on the articles; finally, the articles were removed, and replaced chapter-by-chapter with the book content- a "serialization" of the book.
+In this case, as an audit anyway is, in my view, always to be based on "fact finding" and "analysis", both in this first book and in future books I will have to collect, identify, classify, select enough documentation to support the "data-based change storyline"- no more, no less.
+The "Citizen Audit" series will have a "method sharing" element along with the data element, and therefore, instead of the usual 50-100 pages of my previous series, will probably be 100-250 pages long, and less frequent.
+A further differentiation is that the volumes in this series will appear in two formats:- as paperback, black-and-white, 8.25" x 8.25", to keep costs down- as e-book, color, 8.5" x 11".
+The two formats complement each other, and as an additional element future volumes will also have a workbook available to those who purchase either version.
+In the past, almost all my books were a smaller 6" x 9"- easier to fit in a pocket.
+The "Citizen Audit" series instead adopts a larger size to allow adding notes, Post It, as the purpose is to suggest recyclable material.
+I do not know how you use paper and e-books, but, personally, if I read business or technical books where I want to get something out of the storytelling, I get inspired for ideas, quotes, concepts- and add Post It markers that I can then remove.
+As this enables to lend books to others.
+On paper, you can pile up Post It.
+On e-books, this is a little bit more difficult- and therefore more space is needed.
+Some of the future books in this series might also be complemented by (free) access to datasets and other material, on links that will be provided in each case.
+Now, what you will find inside this book.
+<b>About the first volume of the "Citizen Audit" series</b>
+As to be expected, Next Generation EU and, as I hold an Italian passport, the Italian proposal to how to commit the funds aimed at Italy (209bln) are a matter of interest.
+I already wrote recently about an IFRS webinar on a consultation paper on sustainability reporting.
+Comments are due 2020-12-31, so early in 2021 should be possible to know if, indeed, we are heading into getting sustainability and more ordinary financial reporting into the yin and yang of corporate statements.
+As you can see, this year end is all converging toward one form or another of long-term sustainability.
+In the 2020s, sustainability implies data- plenty of data, and the distinction between data producer, data processor, and data consumer is not as straightforward as it was before the Internet era.
+Sustainability will have many dimensions- but all will need traceability of data end-to-end across the whole lifecycle.
+This will apply to both corporate and personal data, as any citizen, e.g. in smart cities, will interact daily with corporate and local plus national authoritiesâ systems that will produce, collect, share data.
+So, in preparation of 2021, I moved forward the publication of a book that contains three main themes for the 2020s: data traceability, data privacy, and, of course, the Italian side of Next Generation EU.
+For the last part, [a preview is available on Issuu](https://issuu.com/robertolofaro/docs/20201217_issuu_preview).
+It contains a whole chapter: therefore, if you are interested neither in recycling the "Citizen Audit", you are welcome read that chapter for free.
+Otherwise, I would like to share details from the presentation page to the e-book version (you can [read it here, it contains also the table of contents](https://leanpub.com/citizenaudit)).
+<i>"The title of this book derives from my first choice to relocate abroad, in 1996, but aptly applies to the book contents.
+Three parts: past, present, and future.
+<b>Past</b>: a business autobiography to share how I developed my approach (on the business and political side)
+<b>Present</b>: some documented observations on bureaucracy, used as case studies that could discuss broader future social changes
+two specific cases are followed step-by-step (in most steps, with supporting documentation), to show the process adopted to identify the issue and attempt eliciting information and/or problem solving- as, with bureaucracies, the customer side can highlight issues, but both the communication, documentation, and resolution abilities mainly reside within the bureaucracy itself
+one case is about the follow-up on a process, the other related to data privacy and data usage consent issues
+<b>Future</b>: a glimpse on what we, in EU, are being invited to do within the framework of Next Generation EU (and what we, in Italy, are proposing).
+Overall, this book is a short organizational study offering options and, hopefully, inspiring improvements.
+The aim, more than sharing my experience in developing knowledge or the three cases (the "present" and "future"), is to share organizational analysis patterns that could be reused in other contexts.
+As I used to do in my cultural/organizational change and IT for decision support activities since the 1980s (in Italy and other European countries, both EU and non-EU).
+A book preview (containing the table of contents and the last chapter, on NextGenerationEU and Piano Nazionale di Ripresa e Resilienza is available on [this page](https://issuu.com/robertolofaro/docs/20201217_issuu_preview).
+If you are interested, this book is [available also as a low-cost paperbook](https://www.amazon.com/25-years-long-case-counting-organizational/dp/B08QRVLTB3) that is designed to be used as a note-taking workbook (the link points to Amazon.com, but you can search by ISBN in other countries: 979-8570432130)"</i>
+More books will follow in 2021, starting of course with Next Generation EU and the Italian Piano Nazionale di Ripresa e Resilienza.
+Stay tuned.
