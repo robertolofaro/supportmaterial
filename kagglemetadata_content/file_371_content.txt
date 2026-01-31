@@ -1,0 +1,43 @@
+The <a title="Reverse communication a.k.a. Spinning - game theory and communication" href="https://www.youtube.com/watch?v=7gRuKunlKDc&amp;list=PLFM03iKFWPAfgGmsp219GTa_kpHCpeYRz&amp;index=4&amp;t=0s">video on YouTube</a> is from "House of Cards", 1990 https://www.imdb.com/title/tt0098825/
+
+Personally, I consider the most successful forms of "spin" a form of "reverse communication", i.e. you do not communicate, you let others extract what you would like to communicate, so that they can spread it around as if it were their own.
+
+Retaining two values:<br />1. testing the impact<br />2. deniability.
+
+Currently most consider spin as a something different, often close enough to what in Italy was called "veline" ("suggested" messages sent to newspapers during Mussolini times, that after WWII simply became "friendly newspapers").
+
+Anyway, it would be nice if all the communication could happen all the times via open channels.
+
+Unfortunately, communication is part of negotiation (see the video https://youtu.be/57ziHoJGi80).
+
+In negotiations, sometimes it is better first to find the common ground, then open a negotiation knowing that what all the parties involved presented might have some points of agreement and some points of disagreement.
+
+And, maybe that you have to "tweak" a little bit your communication and options on some minor points so that your major points become acceptable.
+
+Starting a negotiation with a bombastic one-sided statement is something akin to bullying or giving an ultimatum: you might win, but you could pay it down the road.
+
+There is more than one way to make an undesirable (for some of the stakeholder) change pass, and sometimes you have to balance urgency with long-term collaboration needs.
+
+It is game theory 101- so, also if you opened this link attracted by "spin", consider that spinning has to be integrated within your strategy, as otherwise could terminally damage your cooperation opportunities (not only with those that you are currently trying to convince).
+
+I could share few learning options- depending on how much time you have:<br />- follow the Yale course on Game Theory https://oyc.yale.edu/economics/econ-159<br />- have a look at an old book on the "Prisoner's Dilemma" https://www.librarything.com/work/65596/book/91059611<br />- read a RAND report (free online) on "Foreign and Security Policy Decisionmaking Under Yeltsin" https://www.librarything.com/work/11907795/book/92683207<br />- read the wikipedia page on the "Prisoner's Dilemma" https://en.wikipedia.org/wiki/Prisoner's_dilemma - specifically the section on the "iterated" version (linked to Axelrod 1984 book "The Evolution of Cooperation".
+
+If you are into games, an example of how open communication on an iterative game can instead take over a strategical dimension is the game of Go- and you can probably find online (are both out of print, as far as I know) two interesting books on Go as a "profiling" approach for strategy:<br />- Learning from the Stones: A Go Approach to Mastering China's Strategic Concept, Shi (Advancing Strategic Thought Series) <br />- The Thirty-Six Stratagems Applied to Go.
+
+Otherwise, a shorter reading is another RAND report (free online) on "Swarming and the future of conflict (DB311)", at https://www.librarything.com/work/2314401/book/79679434
+
+The video I selected for this point is obviously an exaggeration, but the concept is similar: back-channels that are seen as your own representatives might be useful in another phase, but "spinning" is a way to test the waters before plunging into a negotiation.
+
+And spinning implies also having indipendent parties discovering by themselves the dots that have to be connected, as they have to see by themselves if the logic of those connections makes sense.
+
+It is manipulative? Within the video, to the extreme- but if kept within the appropriate separation of roles, it enables an independent channel to actually retain independence- you do not want verbatim transfer of you communication, that is the role of your PR.
+
+Instead, you want to convey a message- and this implies that the channel has to adapt before it can adopt and convey to the other side of the communication.
+
+The same approach is often within "shadow project management": you do not try to have the official project/change manager do what you would do- such a manipulation usually crashes miserably when the party that has been manipulated obviously will go into further steps according to her/his logic, not your logic.
+
+Instead, you try to have the one covering the official role see any weak link in a line of action or reasoning through her/his own eyes: you have to be a mere catalyst to let the change emerge, sometimes, not lead the change, if the change is to happen.
+
+Another reason to select this video? That closing phrase, e.g. "you might think so, I cannot possibly comment on that" is spread across the whole series to highlight the most manipulative moments through the career of the politician.
+
+Obviously, this choice is a provocation, and I have no doubt that you might make a different choice- but I cannot comment on that.
