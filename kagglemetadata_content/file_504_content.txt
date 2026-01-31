@@ -1,0 +1,322 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230110_article.png)</center>
+
+On December 17 2021 shared the first commentary article on the Treaty between Italy and France (or the other way around) called ["Quirinale Treaty"](https://www.diplomatie.gouv.fr/fr/dossiers-pays/italie/relations-bilaterales/le-traite-du-quirinal/).
+
+As it was a complement to [another one reached in 1963 with Germany](https://www.diplomatie.gouv.fr/fr/dossiers-pays/allemagne/relations-bilaterales/le-traite-de-l-elysee-en-5-questions/) directly at the Elys&eacute;e, and a [further follow-up with Germany in Aachen](https://www.diplomatie.gouv.fr/en/country-files/germany/france-and-germany/franco-german-treaty-of-aachen/), I selected back then the French version.
+
+Also because the Italian version was not available online, as it happened again when the details of the PNRR, the Italian National Recovery and Resilience Plan defined within the framework of the Recovery and Resilience Facility / NextGenerationEU was sent to Brussels.
+
+It is not just on digital transformation than the Italian State is a little bit behind times- also in the implementation of transparency, or "level playing field with citizens", there is still work to do.
+
+Anyway, this article is about the organizational side of the latest Treaty, and not the overall context.
+
+Hence, as I shared in previous articles, will be hopefully short, and focused on "Lego (tm) bricks" foreseen within the Treaty itself.
+
+Then, bits about future scenarios will both appear in the future (call it "organizational development fiction") and here and there appeared as remarks or sections within previous articles.
+
+Where, across the few hundreds of this website (and I set offline most of those published 2007-2011, and also the e-zine on cultural and organizational change and digital transformation of 2003-2005)?
+
+Have a look at the sections:_<a href="index.php?section=diritto-di-voto">Observation and Innovation / Society: EU-Italy-Turin</>_[Observation and Innovation / Citizen Audit](index.php?section=citizen-audit)_[Data Democracy](index.php?section=data-democracy).
+
+Specifically on the Treaty, you can have a look at three of the articles since 2021, to have a bit of context:_[2021-12-17 Moving ahead- the narrative of political change #Italy #France #EU #integration](index.php?page=463)_[2022-07-21 (the main focus) Going practical: contextualizing the #Quirinale #Treaty and sketching a way forward during a government crisis #Italy #France #NextGenerationEU #PNRR #SDG](index.php?page=481)_[2022-09-26 politiche2022_06: ad urne chiuse #Italy #national #elections (in English and Italian)](index.php?page=493) 
+
+Being short, this article will have few sections:_reading a treaty as if it were a partnership contract_starting from the bottom to have a systemic view_converting a contract into an operational agreement_unleashing organizational hell or: implementing_mind your PDCA- and remember to converge it
+
+<b>Reading a treaty as if it were a partnership contract</b>
+
+Just to recap ([you can read a somewhat more detailed summary here](https://robertolofaro.com/cv)).
+
+From the mid-1980s, my first business experiences actually were in IT, but applied what I had learned in data-oriented political advocacy (advocating for more European integration required to have something more structured in your argumentation that "because it is for the common good and to avoid a third World War started in Europe"), in my unusual way to attend the information technology faculty in Turin, some sales activities, and...
+
+...yes, Army logistics and training plus office work organization (try having a service working when you have a couple of dozen of new people coming through and leaving each month, and not exactly highly motivated- except by the end date, a dozen months down the road).
+
+Blend everything together, add that was coming from a political and theatre background, but my parents also had a small company when I was old enough to understand and remember some (4- I remember from 1969 both the landing on the Moon, how my classmates reacted to my attempts to discuss it, and... some tax preparation and bureaucracy taken care of by my mother, plus what was called back then "filodiffusione": mainly classical music delivered via telephone wire).
+
+So, few days into my first official job, I was handed over the task to prepare a plan for a new large project, the first major "fixed price" (in Italian we called it "chiavi in mano", as it were a car- appropriately, as it was for an automotive company).
+
+How was I supposed to proceed? Well, get the Andersen planning methodology (output-oriented, at the time- a kind of [COCOMO](https://en.wikipedia.org/wiki/COCOMO) but done manually), get the promised/agreed deliverable, number crunch (I was used to plan daily the combination of balanced services and R&R for dozens of soldiers), and... you get something aggregating few thousand man days (as we called them back then).
+
+The software development side? Was not on the web, of course (it was 1986), but something called "batch" on an IBM mainframe in COBOL, with a staged approach from requirements to test of individual bits of software, to integration, to overall testing, to having business users confirming that it did what was planned.
+
+I wrote elsewhere about that project, so let's move on- the next project was a new banking General Ledger (actually, the customization of a software package that had been delivered to a much smaller bank), plus integration of what was needed to allow organizational expansion of the target bank, plus support for Y2K (basically- moving from 2-digits years to 4-digits years)- in 1987-1988.
+
+Again: the complexity was visible only if you looked at the overall picture, the number of elements concurring to providing the intended result of that system, but few had that viewpoint.
+
+Next, it was for some number crunching models (basically, linear regression and decision trees) on PCs: which were much, much, much, much less powerful that the cheapest smartphone that you can hold in your pocket.
+
+Still, designing models with financial controllers, marketing managers, etc across few industries showed the contribution of the parts to the whole.
+
+And, despite the data-obsession that we live in now, with gazillions of data not necessarily relevant, sometimes blending few reliable, continuously collected and monitored data points allowed to provide significant value added (I shared [a bit within a book on "relevant data"](relevantdata) that you can read online, on 25 years of experience with business number crunching).
+
+In all those activities, even before, first in 1989, then often in the 1990s and 2000s, I had to prepare numbers for financial reporting, consolidations, negotiations, business&marketing plans, the key element was how the whole was obviously more than the sum of the its components.
+
+Actually- the whole was feasible and sustainable efficiently only if all its components were tuned through some degrees of orchestration.
+
+Remove that, or allow some "slack" or "underperformance" around, and you have to buffer (i.e. add delays, inefficiences, or even layer additional costs) to still be able to provide what you are supposed to deliver.
+
+Each one of those analyses, also when involving just one organization or its components, in reality implied doing a kind of <a hrer="https://fr.wikipedia.org/wiki/Du_contrat_social">"contrat social"</a>, i.e. power in and by itself does not deliver performance, unless you have in place a control system that probably is, in and by itself, economically unsustainable.
+
+And even in that case, as shown by DDR with its Stasi, does not necessarily work that well: remember that the German Democratic Republic was considered the diamond spear of the COMECON, until... it was unified with FDR into the new Germany, and, as I reminded today to a German-American collegue...
+
+...a temporary integration tax was set up (early 1990s), I remember my girlfriend telling me that was to be for those making more than 50k DEM, and to be temporary.
+
+Italian-style temporary, if Karlsruhe not too long ago said confirmed it.
+
+So, remember that, if you accept the concept of "informal organizational culture" and associated "informal organizational structure" plus "informal communication channels", you get also "information Service Level Agreements": it is a consensus-based approach.
+
+The lesser the structural cohesion, the higher the change that this "informal" side will take over more often than not.
+
+I shared in the past how, in the late 1980s, I was able to witness cases where setting rules in the centre did not imply that they would be implemented by those supposed to be "seconded" to peripheral business units just before their retirement.
+
+When the matter was explicitly between different organizations with different organizational cultures, motivation, and even cohesion factors, the issue often was that formal cooperation agreement were formally agreed at a level when those negotiating had no real visibility whatsoever on operational realities- what back then, as negotiator, usually called "degrees of freedom" and "weakest links".
+
+Now probably you understand why the title of this section: it is a matter of shared agreement, but also of operational agreements, and way too often treaties, as well as partnership contracts, deliver lofty targets and statements, but do not involve those who have to turn either into reality.
+
+A State, and not just Italy and its thousands of tribes, is a complex thing that many would still like to turn into [Hobbes' "Leviathan"](https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)).
+
+Or at least believe that such a concoction would be feasible by fiat- just state it, and it will happen.
+
+A little bit as the recent puzzling string of ECB tax rate hikes and the way they were announced, or the design of the Italian National Recovery and Resilience Plan that, as expected, when it met reality, had a different dynamics from the one expected by its designers.
+
+Down to the operational level, it is still a matter of following the formal side when there are formal liabilities that those on the operational level could be subject to, if they were to focus on "the common good" (deliver what was planned when was planned and how was planned), instead of following the due process and associated constraints that nobody high in the negotiating sky bothered to restructure before unleashing such a grandiose set of schemes.
+
+The Quirinale Treaty is a mere 14 pages long, which boils down to less than half than that, if you drop all the expected padding, and focus just on the organizational side.
+
+I had to deal with more than puzzling bureaucracies in Italy, and shared a ton of news items from local newspapers, so allow me to be a bit skeptical about implementation.
+
+Anyway, when I had to return to work in Italy full-time in 2012, as there was no formal demand for my old activities, I went (at a much lower rate) only to what had been part of my past activities (coordination, under the title of PMO plus some adjectives or nouns before and after).
+
+But first by publishing books, then articles, and by attending workshops and continuously training, kept my past skills alive and updated- and quite often was actually informally asked to use those skills.
+
+Yes, I had been first almost signed a contract as financial controller for a mid-to-large company in 1992, and kept doing similar or audit activities for partners until 2011, but I never had in any mission description many of the activities I did since 2012.
+
+And, of course, in all cases except the latest and a bit of a previous one, had anybody, when asked, providing references: still, courtesy of COVID lockdowns, added some further number crunching more attuned with our current information sources (e.g. I remember how complex and expensive was in the 1990s to obtain in Italy information on the level that now you can get on Yahoo or Google Finance).
+
+So, I was intrigued when I saw on Coursera training to apply data analytics to accounting: it is what, by chance, was doing with those models that I had designed in the late 1980s (including various models for the controlling/"horse race" side of Andersen in Italy)- but it is nice to do it today with open source and free tools, and integrating data for free from multiple sources, on computers that at 400EUR deliver capabilities that in the 1980s were not available for many.
+
+Example: a simple regression model I did last week with my chromebook costing few hundred EUR with free software was done in the late 1980s either on a 4500EUR (in 1989 money!) plasma-display Toshiba 5100, or on an equally expensive desktop PC whose touchscreen had a price of 3000GBP.
+
+But what is curious is that, despite all this technological innovation, the knowledge is still the same, e.g. the numbers used were conceptually the same in 1989 as now in 2022.
+
+And despite all our technology obsession, when you have multiparty agreements to implement across multiple complex organizations, it is still more a matter of listening and communicating, than of number crunching.
+
+As I said already in the late 1980s and 1990s to customers: you can define a KPI, but if you set a target and require new numbers from those you are monitoring to then evaluate that KPI, how long do you expect it to be still worth the time and money spent to collect, process, compare, etc?
+
+It is akin to when some companies asked sales managers to assess what was their potential volume of sales for the next year, then defined OTE (what they would get if they obtained that target), and then saw how actually this altered the sales patterns...
+
+A treaty is a partnership contract, not just a service level agreement, i.e. you need to define a framework that will allow it to evolve, along with an operational roadmap, more than operational details.
+
+<b>Starting from the bottom to have a systemic view</b>
+
+As [somebody else is reported to have said](https://www.lexisnexis.com/legalnewsroom/legal-business/b/the-legal-business-community-blog/posts/no-battle-plan-survives-contact-with-the-enemy) "No Battle Plan Survives Contact With the Enemy".
+
+So, whenever I had to read an agreement or contract, either because I had to support its negotiation, or because I had to take over it (e.g. as account manager or new supplier), I usually did a quick read across, but then first looked at the framework, i.e. dispute resolution, constraints, sign-off powers, and the like.
+
+As I had way too many contract that had been literally written by those with no operational understanding whatsoever, or in some cases assuming that the counterpart would not notice some "holes"; there are times when actually turned down the "tremendous opportunity" to sign, and cases when anyway, "obtorto collo" had to eventually sign: as a cost of staying in Italy.
+
+In other cases, the issue is not the structure of the contract, but the unbalanced capabilities of the signatories to enforce its clauses when needed.
+
+As an example: in business, sometimes I saw contracts from long-term suppliers adding penalties to the customer for late payment; nice and fair concept, but would you really risk repeat business to cash in (generally after litigation) pennies?
+
+In politics, I am equally skeptical of provisions or potential penalties embedded e.g. in transnational agreements such as the current round of funding: it is true that the EU could withdraw payments if Italy, the largest recipient, were to fail to meet some targets.
+
+But, as the EU has to return to the market to get more, would it be feasible to admit that the largest recipient (and one of the largest payers except for a marginal reduction in quota, eventually), would not honor its part?
+
+In some cases, once parties sign, the arrow of time cannot be reversed- as there is a shared interest, a kind of moral hazard, in claiming success.
+
+Better to adjust and make amends, and move forward after tuning and fixing, that getting a Pyrrhic victory.
+
+Therefore, for the Quirinale Treaty, I did read it all more than once, eventually to highlight key paragraphs (for my organizational development perspective), but for this section two key articles are Article 11 and 12.
+
+I will convert into bullet lists the parts more relevant to my discussion.
+
+Article 11:- c1: intergovernmental summit each year, to "tune" its implementation and focus on shared priorities; the cabinet-level joint meetings inasmuch as possible would be carried out in parallel to the summit- c2: an outline roadmap would highlight cooperation objectives, to be routinely revised and, whenever needed, promptly adapted to shared objectives- c3: at least quarterly, a Minister will take part to the Council of Ministers of the other country- c4: a joint strategic committee (that should meet one per year before the summit) charged with the implementation of the Treaty and the associated roadmap would be set at the highest level of "Mandarins" within the Foreign Affair Ministry of both countries; while the implementation of the objectives will be overseen by such a committee, anyway the definition of strategies and action plans should be done along with the interested Ministries- c5/c6: this should be actually associated to initiatives to enable exchanging, jointly training, schedule meetings, joint projects involving both bureaucracies.
+
+This last point actually was reported years ago as something that already happened between Germany and France, where bureaucrats could carry out part of their career in each other bureaucracy, without loss of continuity in their career.
+
+Article 12 contains the usual general points about communication about implementation status and what to do if one of the signatories decides to withdraw (as the Treaty is permanent).
+
+Elsewhere within the Treaty, there are highlighted shared areas of interest and operational cooperation between bureaucracies, e.g. in defense, security, health, educational "supply chain".
+
+Anyway, the key element is the ability of the two parties to converge on a shared operational model.
+
+As an example: while the French State is still highly centralized, in Italy since the beginning of the XXI century we developed an overlapping and somewhat a little bit "Italian way to subsidiarity" that showed some issues whenever we had a crisis- be it a natural disaster, or obviously the COVID.
+
+Generally, the Italian approach has been increasingly not to create a new framework, but to create "exception", e.g. the rebuilding of the Genoa bridge resulted in a continuous stream of request to apply the same "model" elsewhere.
+
+If you <a href="https://basedoc.diplomatie.gouv.fr/exl-php/recherche/mae_internet___traites
+">look at the Treaties between Italy and France since the late XVII century, and up to recently</a>, you would see an evolution of the scope and target, and of course how many recently have been European, not bilateral treaties.
+
+Or: inherently assuming a shared framework where instead we still are looking in Italy to develop our own shared framework.
+
+E.g. recently it was proposed to re-centralize something that had been delegated to regions, and delegate to regions what had been so far centralized.
+
+It is not too easy to integrate with an organization that alters every few years not its operational side, but the underlying conceptual design.
+
+In business, in few cases of M&A (including those that failed even before starting) I was involved in, as a further integration is the overall theme of the preamble to the Treaty, routinely saw that the most structured part eventually either took over, or set the "marching tune".
+
+Which could have some benefits, but could risk, if mis-managed, to backfire politically: in business, this usually results in losing by attrition those employees who can easily find opportunities elsewhere, customers, or suppliers that suddenly see a reshuffling that adds costs to deliver the same business.
+
+As part of the Italian Second Republic (roughly started in the early 1990s), we have a continuous flip-flopping between centralization, decentralization, and attempted balancing.
+
+Hopefully, the relatively long-term constraints and view of the reforms embedded within the National Recovery and Resilience Plan should deliver an element of "structural resilience", if the "letter" of the Italian PNRR is to be followed.
+
+Obviously, the implementation will dictate the convergence between plan and reality.
+
+<b>Converting a contract into an operational agreement</b>
+
+In any organizational development initiative, or attempted integration between different organizations, there is first a time for "unconvenient truths", and then a time to look at what could be the upsides.
+
+At least, this is how I worked when negotiating or supporting somebody else's organizational or business development: the Devil's Advocate is never an easy role to cover, and certainly does not buy friendship.
+
+Still, removing the ["Pollyanna"](https://en.wikipedia.org/wiki/Pollyanna) element early on is to allow to set aside differences, and focus on areas of convergence.
+
+Then, when convergences deliver benefits to all those involved, smaller differences can actually be re-assessed under a different light.
+
+As many said, the XXI century key business asset is "trust"- notably when you have a continuously shrinking decision-making time, enforced by continuous streams of massive data that no human can really evaluate.
+
+There is a book that I read long, long ago, "Destroying the village: Eisenhower and thermonuclear war": when decision-making times are shorter than those needed to actually make an informed decision, and any decision turns into irreversible impacts, you need a degree of mutual trust to make conservative decisions whenever in doubt.
+
+Hence, operational-level trust-building should be probably the first element that could turn a mere treaty into a roadmap for integration and convergence.
+
+Probably some paragraphs of the preamble deliver the outline of the shared framework of interests:<i>
+Convaincues que la stabilit&eacute; et la prosp&eacute;rit&eacute; &agrave; long terme de la M&eacute;diterran&eacute;e reste une priorit&eacute; d&eacute;cisive pour les deux pays, et d&eacute;termin&eacute;es &agrave; agir ensemble en faveur de la s&eacute;curit&eacute;, de 
+la promotion des biens communs entre ses deux rives, et de la restauration de son bon &eacute;tat 
+&eacute;cologique;
+
+Convaincues que l'Arc alpin, particuli&egrave;rement touch&eacute; par le r&eacute;chauffement climatique, m&eacute;rite une &eacute;troite coop&eacute;ration et une implication forte des deux pays ;
+
+Attach&eacute;es &agrave; favoriser une meilleure connaissance r&eacute;ciproque de leurs soci&eacute;t&eacute;s civiles, dans une perspective de citoyennet&eacute; europ&eacute;enne, en particulier parmi les jeunes g&eacute;n&eacute;rations;
+
+Reconnaissant l'importance et la vitalit&eacute; de la coop&eacute;ration entre leurs Parlements respectifs, et le r&ocirc;le que la diplomatie parlementaire joue dans les liens entre leurs pays, et souhaitant la renforcer &agrave; travers des formes de coop&eacute;ration permanentes, notamment entre leurs Commissions respectives;
+
+Reconnaissant le r&ocirc;le fondamental des collectivit&eacute;s territoriales fran&ccedil;aises et italiennes et des autres acteurs locaux pour renforcer les liens d'amiti&eacute; entre leurs peuples et d&eacute;velopper des projets communs;
+
+Souhaitant assurer un cadre plus stable et ambitieux aux relations institutionnelles &eacute;troites qui existent d&eacute;j&agrave; entre les deux Parties et ce &agrave; tous les niveaux ;
+</i>
+
+To summarize:_we share the same "boat" (the Mediterranean Sea and the Alps)_we need to build trust at the citizens' level, not in lofty palaces
+_we both have Parliaments that need to build trust and operational cooperation, not to compete_we both have strong local communities that transcend our borders, and need to reinforce that_we need cooperation both horizontally and vertically, not just on paper and summits.
+
+Not really that complex, isn't it?
+
+But try to implement it...
+
+Now, this is the developed across the other articles within the Treaty- but it would be boring to do what I did while living in Brussels, translating more than 90 pages of an Italian Government Decree (and then promising to translate its conversion into law, only to surrender when it went over 300 pages with tons of ["earmarks"](https://en.wikipedia.org/wiki/Earmark_(politics))).
+
+Instead, will give in the next section a bullet list of the clauses worth reading if you want to monitor implementation (also because, in some cases, already we had some "attrition", worth tuning, i.e. walking the talk).
+
+<b>Unleashing organizational hell or: implementing</b>
+
+The title of this section is a provocation.
+
+But if you worked in organizational and cultural change, you know that sometimes you start with more resistance to change than change, and often based on fear, prejudices, assumptions- not on informed choices.
+
+Still, you might have some informed choices to dissent and resist change: in those cases, the point is always having considered the options and how to remove the point.
+
+Recently started reading a funny-but-not-so-funny book about those days in April when a President-elect had to travel to Washington via Baltimore, at a time when already the drums of secession were beating, "Six Day in April / Lincoln and the Union in Peril".
+
+Interesting how flexibility sometimes saved the day- also at the cost of some minor temporary setbacks or calls of "incoherence": it is a matter of priorities and keeping the overall systemic perspective, i.e. keeping consistent what matters, and circumventing roadblocks without tossing the backbone of your arguments away.
+
+So, let's see the bullet list, you can read the text of each article [at the link provided also at the beginning of this article](https://www.diplomatie.gouv.fr/fr/dossiers-pays/italie/relations-bilaterales/le-traite-du-quirinal/).
+
+<i>
+ARTICLE 1 Foreign Affairs- c2: joint operational crisis management and shared planning for key events, and incentives to share operational activities in diplomacy and presence abroad, including joint training
+- c3: synergies and coordination across all the issues related to the Mediterranean Sea
+- c4: jointly promoting in Africa sustainable development, stability, security, democracy
+
+ARTICLE 2 Security and Defense
+- c1: operational (including on weapons systems) cooperation and exchanges, and operational synergies
+- c2: reinforcement of the European pillar of NATO
+- c3: joint development of shared capabilities of mutual interest, and its impacts on industrial policy
+- c4: reinforcing cooperation and structural alliances, including joint projects
+- c5: reinforcing cooperation in aerospace and joint operations in space for security and defense
+- c6: reinforcing military personnel exchanges and joint training and on-the-job training
+- c7: mutual facilitation of transit of armed forces 
+
+ARTICLE 3 European Affairs
+- c5: extending the qualified majority vote within the Council
+
+ARTICLE 4 Migration, Justice and Home affairs
+- c2: support a European migration and asylum policy
+- c3: reinforced cooperation both at the bilateral and European level on transnational crime
+- c4: reinforced cooperation via technical assistance and training of security forces of third countries against terrorism and organized crime, and other transnational crime
+- c5: reinforced cooperation on civil defense and natural/industrial disaster prevention and management; support to the development of joint EU civil defense and associated capabilities
+- c6/7/8/9/10: associated measure to ensure communication and exchange of information  
+
+ARTICLE 5 Economic, industrial, digital cooperation
+- c2: jointly sponsoring the development of a European industrial policy; facilitating the participation of small and medium enterprises to projects
+- c3: reinforce cooperation in e.g. new technology, cybersecurity, cloud, artificial intelligence, data sharing, connectivity, 5G 6G, digital transformation of payments, and quantum computing; also jointly working on a better regulatory framework at the European level, and international governance of digital and cyberspace
+- c4: reinforced cooperation against tax fraud and corruption
+
+ARTICLE 6 Sustainable and inclusive social development
+- c5: strategic dialogue on transportation, infrastructure, sustainable mobility
+- c7: joint interventions on the Mediterranean Sea, to promote pollution removal and sustainability
+- c8: joint interventions at the European level to improve resilience, sustainability and transition, while ensuring EU food souverainity
+- c9: jointly promotion and support of cooperation between protected areas and natural reserve on land and sea, including within the framework of worldwide agreements on biodiversity
+
+ARTICLE 7 Space
+- c2: increasing bilateral cooperation at the industrial, scientific, and technological level
+- c3: jointly reinforce the European space strategy
+
+ARTICLE 8 Education, research, and innovation
+- C1/2/3/4/5/6: mutual recognition, joint development, convergence of educational systems, reinforcement of partnerships and exchange programmes
+
+ARTICLE 9 Culture, youth, civil society
+- c1: convergence of the French "service civique fran&ccedil;ais" and the Italian "servizio civile universale" within a voluntary programme called "service civique franco-italien"
+- c2/3/: cooperation on cultural heritage
+- c4: reinforced cooperation to both facilitate distribution, production and to support the digital transformation of the industry
+
+ARTICLE 10 Cross-border cooperation
+- c2/3/4/5/6/7: reinforcement of cross-border cooperation, both at the local level and with initiatives on infrastructure, security, exchanges, and supporting training of bilingual use on border areas
+</i>
+
+<b>Mind your PDCA- and remember to converge it</b>
+
+Now, what is the PDCA? [plan-do-check-act](https://en.wikipedia.org/wiki/PDCA).
+
+The concept is to plan, then do, then check and improve- continuously.
+
+Well, also if I am agnostic (an option that is almost never available within HR questionnaires), I was raised in a Catholic family, and attended Bible school as a kid.
+
+As you can expect, there too I did not simply "attend": actually read, questioned, etc- so much, that some assumed I could be aiming to become a priest.
+
+A phrase that often many quote (I will use the English version) is "for whatsoever a man soweth, that shall he also reap.".
+
+I am afraid that, from my Bible studying times, reinforced from my experience since the late 1980s on cultural and organizational change in corporations, I would rather quote:<i>
+4 But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.
+
+5 For every man shall bear his own burden.
+
+6 Let him that is taught in the word communicate unto him that teacheth in all good things.
+
+7 Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.
+</i>
+
+In this context, the key element is <b><i>for every man shall bear his own burden</i></b>.
+
+Yes, it is again the same theme I shared in this article so far more than once, and in many articles before.
+
+When meeting structured, systemic views, with unstructured, tribal view, the risk is always the same: while the former can have a reasonable assumption to be representing the overall community, the latter might feel or claim so, but it is only when it is time to implement, that you will see the difference.
+
+Hence, whenever I had to go for a change in an environment similar to the latter, the point was often to create "critical mass".
+
+Those who read my articles while I was still in Brussels probably remember an article referring to the concept of the mass distorting the space, and spheres of attraction.
+
+In cultural and organizational change in a tribal environment it is a little bit more complex, as there are different planes of reality, at least one for each tribe.
+
+So, while the negotiating table might have just one party for each side, probably the Italian side, when shifting to the implementation, will have to add an additional layer of checks and balances, to have an "internal convergence", before pursuing a convergence with France.
+
+Otherwise, you could risk doing what many foreign contacts complained about when dealing with businesses in Italy: you sign a contract, at the end of a negotiation that often is smoother than expected, and then... you are times and again negotiating each operational step.
+
+I shared in past articles various cases, where often the push to change ended up being attrition to extract terms that would not have had any chance of being accepted but, obtorto collo, once in, had to follow.
+
+Jokingly said once in a while that we Italians should go on the [ringisho](https://en.wikipedia.org/wiki/Japanese_management_culture) approach: also if a Japanese friend told me how slow it is, at least you have the "placed" from all those impacted by the decision, and therefore have a better chance to be able, as in those companies using it in the past in Japan, to have then immediate implementation.
+
+I am quite pragmatic: I think that, in Italy, as in any case the constant renegotiation would to a certain degree nonetheless happen (as the balance of power between tribes might change after the agreement), in each intervention a balance has to be found and shared.
+
+Personally, as I am de facto a foreigner in my own birthplace and country, I will just observe, and let other fully-Italians to take care of it.
+
+But, as I wrote in past articles, I think that it is an opportunity to restructure, exactly as the (almost missed, frankly) opportunity presented by the National Recovery and Resilience Plan, the PNRR.
+
+Let's see what happens now: 2023 just started...

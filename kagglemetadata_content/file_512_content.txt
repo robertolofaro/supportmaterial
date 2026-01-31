@@ -1,0 +1,512 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230629_article.png)</center>
+
+According to Linkedin, [my profile](https://linkedin.com/in/robertolofaro) "Talks about #data, #banking, #business, #automotive, and #nextgenerationeu".
+
+Well, the latter of course is true since 2020- before, there were no NextGenerationEU, no RRF (the recovery and resilience facility), and no PNRR (the Italian side of both).
+
+In reality, data, banking, business, automotive have been part of my professional and personal interests since I started officially working in 1986- and some of those items even longer, much longer.
+
+The key element blending them is sustainability and, living in a market economy, this includes also a better allocation of resources in urban environments, where most of the population lives.
+
+Sustainability got another dimension courtesy of the COVID-19 pandemic- just have a look at BBC 2021 documentary, "The Year Earth Changed", which summarizes what has been a stream of news in few minutes.
+
+When I had to decide what to write publicly about for the first time, in the early 2000s, in preparation of my then-planned return to Italy (I had been living abroad since the late 1990s, but had first had political activities, then business activities in multinational environments since the 1980s)...
+
+... the choice was simple: what I had experienced since long before started working- change, notably when it implies either changing cultures, or transitioning not just physical/virtual objects, but also people (and not necessarily due to tech projects).
+
+In change activities since the 1980s, even before starting to work officially in 1986, any change, both involving computers and computer software, or focused on the human and organizational side, had always showed clearly delusional are changes that ignore the long-term (yes, including the "long-tail": e.g. smaller but eventually piling up) impacts and side-effects or even intended effects.
+
+What could go under the overall label of "sustainability".
+
+Recently, I was asked about my experiences to set up coordination activities from scratch- and I said that, more often than not, I was actually, as I shared years ago on my [projectmanagement.com profile]() called up through my network to recover, complete, relaunch and complete, or phase-out, or blend existing activities (including post-M&A or when collaborations had some issues).
+
+Hence, no surprise that, when I had to say a name for my latest freelance registration (that could either serve to support my publications, or ancillary activities, or become the first step in something else), I selected as a name "Structural Catalyst" (the [website](https://structuralcatalyst.com) is just a link to my linkedin profile).
+
+As I shared Friday 2023-06-23 morning on Facebook:<i>
+I think that maybe eventually my local commentators will understand why my Linkedin profile states "change, with and without technology"
+
+And what does entails
+
+Not that matters to me- except when I am asked or suggested countless times to adopt their tunnel vision, that locals try to sell as a success...
+...until they have to explain why instead they spread resources thin across countless initiatives, as lack a coherent strategy to comprehend them all, and make up a different one each time
+
+Stay tuned
+</i>
+
+Yes, I will share a bit later in this article- but first, I will share the "knowledge context", including links that you can use to actually find your own way (or find others more relevant to you).
+
+Not my choice to return resident in Italy in 2012, this time- as instead was in the early 2000s, when I even went so far as starting to prepare for the publishing an e-zine on change from 2003, few years ahead- [you can find the reprint and updated (2013) rationale here](bfm2013).
+
+Anyway, a decade was enough to see that, since leaving Italy in 2005 for the second time (first in the late 1990s), interesting experience abroad added to what I used to deliver in the past also in Italy, but curiously increased the number of offers to deliver the same management consulting services for free and unofficially.
+
+So, consider this article a kind of sketchy roadmap- assuming that of course it is not interesting to work interacting at the Cxx-level in Italy again: the side-effects of a tribal society where most senior roles are "nurtured by a tribe" (what we call in Italian "costruire lo scalino"- i.e. behind helped each step up by providing a circle of supporter, for those "elected to raise").
+
+Having 40 years of experience in business/organizational number crunching (as started in politics when I was 17, for a European integration advocacy) and working across industries, cultures, technologies, sometimes a mix of all of them in a single week, makes up for a collection of experiences, not just a single, unified experience, and something that, as I saw in my missions over the last decade, also if not officially acknowledged, still produces results that generate interest.
+
+And, more importantly, results that help to transfer organizationally, not just as an individual.
+
+But really the theme of this article is linked to another post that I shared Thursday 2023-06-22 on Facebook (and also elsewhere)- the "connecting theme" above:
+<i>
+2023 Sustainable Development Report - the ratings for Italy on convergence toward the UN SDG
+
+7 years to go...
+
+you can find on my website some 32 items I published since 2019 that referenced (and showed also data, including here and there comparing with EU) Italy + SDG: https://robertolofaro.com/search.php?tag=italy_sdg
+
+the articles include also, where relevant, links to datasets that I shared either on my Kaggle https://kaggle.com/robertolofaro or GitHub https://github.com/robertolofaro profiles
+
+coming soon: more (in continuation of the series "CenturyOfTheCommons: since 2015, a book on sustainability on stand-by" https://robertolofaro.com/index.php?section=expo2015diaries ) 
+</i>
+
+The picture tagging along with that post?
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230623_SDG-Italy-Status.jpg)</center>
+
+So, as you probably guessed (or saw in the "breadcrumbs" above), this article is about Turin/Piedmont, Italy, and of course Europe.
+
+And sustainability.
+
+Which implies also having your antennas alive and kicking about your environment.
+
+The sections:_ PEST and compliance: look at the wider picture_ an example: considering impacts of news_ SDGs, a general update- where are we now_ more than a matter of a nudge- compliance_ transitions? think strategically: and expand you toolset- the case of Turin (with a look at Italy and Europe)
+
+<b>PEST and compliance: look at the wider picture</b>
+
+If you followed courses on business planning or business analysis over the late decade, I am quite confident that you can find at least a section "focused" on PEST.
+
+Why "focused"? Because reducing PEST to just filling in a matrix undermines its value.
+
+In politics, decades ago, as the organization I was part of advocated for further European integration, got used to see a continuous stream of documents from European institution about initiatives, discussions, directives, etc.
+
+Actually, that wide array of documents from reputable sources was the first element that attracted me to the organization, not just the concept or political aim.
+
+Getting used at 17-18 to read document from Brussels including data and analysis before officially started to work (or even before serving in the Army my compulsory 12 months) spoiled me- I got used to a level of data and reporting quality that was really inspirational and aspirational at the same time.
+
+In business, if you are coming from that background, you then discover that you have to cope with finite resources.
+
+The blend of the two really helped in developing few key skills: delegating, prioritization, and breeding talent.
+
+Because, in business, my experience is that it is not enough to attract talent- you have to make it thrive, but within the priorities of the organization and delegating sensibly, as you have still to cope with finite resources.
+
+A continuous and evolving balance, but that is based also on a continuous and evolving stock of knowledge (including pruning, when not relevant anymore, and keeping track of both positive and negative choices, should the context change).
+
+Yes, a bookworm forever- as I shared once in a while in past articles, also my choice to accept a lower salary and a lower rank as a first job was due to the huge project library I saw a glimpse of while waiting for my interview.
+
+Little I knew that only partners could have general access.
+
+Was glad when, a couple of years later, in the late 1980s, to able to carry out my decision support model design and development activities (and audit/advisory on models developed by others) across all the businesses covered by the "mother company", I was allowed free access- the first book I loaned was a 1972 book on decision tables published by Petrocelli, to blend it with a marginal part of the company's metodology, the Iterative Development and packaged software support (both covering different lifecycles from those that I had seen in my first two projects, including as QA, QC, PMO-like activities, and on release managment).
+
+Now, both those political and business activities (and something I studied while serving in the Army, and practiced there while working in an office on day-by-day service planning, induction interviews, and support in preparation of travels for field exercises of the Artillery Specialist outfit I was part of) showed what political, environmental, social, and technological impacts (and some of their expressions: regulations, laws, compliance, competitiveness, resource availability, etc) implied- long before I had to study formally yet another framework for analysis proposed by yet another management consulting outfit.
+
+I do not claim prescience- I just was lucky enough to work with those who knew better, both on the academic side (many political science researchers and professors- and I was 17 when I started), including the business-academic side (as the funding and also information was coming from the research branch of a major Italian bank), and on the Army and business side (in the latter, from the late 1980s worked with financial controllers and other senior managers across various industries on building decision-support models: and I was barely 23 when I started working on the first model).
+
+Being a bookworm was pivotal: also in school, I never just took the lesson (which often was a summary of a summary), but routinely went in libraries to dig deeper- and jump around with some serendipity (pre-Internet, this implies a lot of patience: no hyperlink to follow a hunch, you had actually to fill a form, and wait sometimes for a while before being told that... the book was not there, so you had to get back searching something else).
+
+And equally lucky to have, between 1985 and 2011, to be often working with and meeting people from other locations and cultures, often puzzled by my interested in spending spare time learning, and willing to provide access beyond what was needed for the task at hand.
+
+Yes, in many cases I just had to implement a model, but many financial controllers in various industries liked to share cameos from their own experience, the rationale of choices and decision-making patterns, and insight on their own industries- sometimes, going back centuries or at least decades.
+
+Nothing that you can learn in schools, frankly- yes, still the McCormack "What they don't teach you" series...
+
+From 2012 until 2022, all that was useful to keep working in a multinational environment, with daily contacts and coordination activities involving people from different cultures, for few years worldwide, but at least in other EU countries- also if, since COVID, never left Italy.
+
+I already shared since 2020 articles on how COVID forced companies to experiment with different ways of managing a business relationship across their supply chain, up to obtaining disclosure and tracking information that would have been considered confidential until recently, but was needed to pre-empt any potential issues upstream (and even downstream).
+
+Decades ago, when I was asked to redesign the organizational chart and associated "mission" documents for organizational units within a banking outsourcing long-term customer, for the marketing function actually proposed to integrate some "market monitoring" activities that was a little bit wider than what was common back then- ditto when I was involved on a negotiation for a front-desk risk management tool to be provided to branches.
+
+It wasn't a generic "research branch", but focused on what I saw, from my experience with the company over almost a decade as a consultant reporting to the direttore generale, the actual context of the organization- to avoid missing business opportunities, but still while being focused on the core business.
+
+The same habit has been consistent, and actually helped in few negotiations across different industries, also if sometimes generated some issues- as when, in Brussels and elsewhere somebody assumed that I had confidential sources.
+
+My concept of what you are free to call PEST includes also what I described (in Italian) within a now almost a decade old book, that you can read on [my list of published books](published), that I called "strumenti" ("tools"): not a tunnel vision, but a continuous knowledge investment, pruning, reassessment.
+
+Or: when you have to fill that PEST document, you need to have already something available, not just go around and (as many do) collect links online, or ask external advisors "what do you think about"- as they would not know your context, strategy, and overall organizational history (both the successes, the failures, and the blind alleys).
+
+I like to give access to material on this website using a "search by tag cloud", which is something based on mere frequency.
+
+Still, know the limitations of the tool (so, recently, added the possibility to [search articles by as many keywords as you want](search.php), ditto for [search within links to newsworthy items released by the ECB](ECBSpeech_index.php) on their own "press" site).
+
+In the future will extend that to something more contextualized- no, I do not plan to integrate GPT in this website (as I have zero budget, just my own spare time, and do not plan to add advertisement, etc, to finance it).
+
+If you do not manage your knowledge and research stock, beware: when you search online, also using services that provide information, the risk of a tunnel vision is always there, i.e. you will find what is relevant/trendy in research now (for whatever reason) as having more frequency and more relevance that what actually might matter more to you.
+
+<b>An example: considering impacts of news</b>
+
+First and foremost: since last week-end, I read and heard everything and its opposite, from experts- who, in our social media times, when they have nothing sustantial to share, shift to memes, jokes, etc.
+
+Personally, as soon as the Wagner "coup" in Russia was announced, I shared on 2023-06-24 some points related to data and history, first in English, then [summarizing in Italian](https://www.facebook.com/robertolofaro/posts/pfbid0VQcFpEkdXYoNv4ZvdowgiXSJPwHcf49hopbyR1mfY9a3tTvU4Bn3EAnQ5v2iXU6Wl?__cft__[0]=AZUXpJzTf74-tXwSGSDSo3mul7Meiak5EusLyZ9EzZ1OaX5HKN2Fjr9MlTJOf3HdJoQArLD7zD3fvC8OqO3MEpwD-wFDXM2cZzoOFQ9nZcC2LUagAkiaHFEqbgeacY1FqKRPNTQvuP7bwxXHrSgfhNX3llHEkCwNWpIMJQpCN0DOho7Wnct8tFXbh4jJ2KkAbV0&__tn__=%2CO%2CP-R).
+
+The key element, in my view, is to avoid getting an encore of Iraq but with real (not Potemkin) nukes, and a Balkanization of Russia.
+
+As I shared in the morning of 2023-06-25 via WhatsApp with a friend after the deal brokered by President Lukashenko started being commented, we still have to see if and how it was.
+
+E.g. if it was an "attempted coup" following the line of that in Turkey few years back, that was used for other purposes, such as checking who should really consider reliable in case of a further power realignment.
+
+Right? Wrong? As in the past, when asked about other changes that could have impacted a business choice, the point is that you have to clearly state what comes from history, data, experience, or a blend- and what is an assumption: and this is also, on less critical activities, I asked whenever an expert on a specific business or specific technology was involved by partners.
+
+Having a lawyer with no specialization in IT contracts convince a manager expert in his own field to propose a customer a contract with blatant loopholes from a technological standpoint is not really a smart choice: each party should contribute what they can contribute, not generate a consensus on what they like.
+
+On a systemic level, whatever the reason or result of the "coup", I think that, &agrave; la Machiavelli, the run to leave Moscow over the week-end gave useful information to those currently in power.
+
+But, of course, it is an internal Russian matter that, to produce a sustainable result, will have to be settled internally: we had enough disasters generated by a "we meant well", as goes the title of a book written from an online contact.
+
+Those who met me in Brussels and London probably remember my commentary when somebody proposed that a negotiated peace between Israel and Palestine would be feasible only if the Palestinians were to appoint somebody that the counterpart liked: and you know that we are still a long way from a steady peace, there.
+
+Ditto what we did with Iraq and Afghanistan, to say nothing (closer to Italian shores) about Lybia.
+
+So, right or wrong, obviously for my own personal and business interests I will keep reassessing whenever somebody with more access to relevant sources will share analysis supported by first-hand information. 
+
+And monitoring what could impact your business choices should be an organizational habit.
+
+Probably delegated to others, if you lack the talent inhouse, while still retaining access to early warnings, updates, etc.
+
+Only: consider that external experts, unless they are structurally connected to your organization (i.e. know you culture and organizational history), will probably not focus on details of what is specific to you, but on what then they can provide expertise about also to others.
+
+Therefore, whenever you read analyses that say something and its opposite, have a look at how those analyses are contextualized.
+
+If their premises prove to be false, or undisclosed, or end up being turned false by subsequent events, only if you have that initial picture, you can reassess.
+
+I know that many since at least the 1990s are used to add to any analysis or report a "sticker" (I will avoid the "technical" definition) with a percentage of confidence.
+
+And how much self-confidence I saw over the latest five days: funny, when the same people are so confident about what they say one day, and then keep being confident few days later saying something really close to the opposite.
+
+Reminded me sometimes the panels discussing COVID-19 in talk-shows online in the early stages of the pandemic.
+
+As an American colleague and mentor used to say about a company that always stated that they had a 95% confidence, many are "forecasting the past".
+
+Let's assume that you are an expert on something (not just a reader of organizational history as in my case- on Facebook in that post linked at the beginning of this article gave few links to past material, but you can also read the current issue of Foreign Affairs and Le Monde Diplomatique, for a discussion deeper than all those soundbites in online news, and their printed media siblings).
+
+Sitting on the fence so that you can deliver a report with a 95% confidence that was is already turning into reality will turn into reality could still be useful, notably if that report is used by a wider audience that needs a confirmation, not an analysis.
+
+But, if you want to choose between options, your PEST analysis should deliver early warnings, not describe a "fait accompli".
+
+Incidentally: when I attended a Summer School at LSE in 1994 and 1995, "forecasting the past" was also something said of what many economists are good at.
+
+If you are interested in potential biases in analysis, have a look at a course from Yale from Robert Shiller, that I first saw on [on Yale's website](https://oyc.yale.edu) in the late 2000s while living in Brussels, and there was a follow-up.
+
+The approach is behavioral economics, but beside Professor Shiller's (eventually Nobel laureate) lectures, his courses were interesting because he invited many working "on the ground" to discuss also some basic principles via examples- and are quite informative.
+
+As for Russia- I am one of those that, culturally, wanted a Europe from the Atlantic to the Urals, but a democratic Europe.
+
+Hence, I do not like the evolution from the end of the USSR, and keep calling the current "conflict" in Ukraine an invasion from Russia into Ukraine, an invasion whose side-effects will last much, much longer than the conflict itself.
+
+Also if some see this as a "Monnet moment", i.e. a crisis that will allow jump ahead in integration.
+
+Anyway, I already shared in the past my considerations about the continued relevance to our context of what was relevant half a century ago.
+
+The "us vs. them" in my view is always a stepping stone toward a scary trend, a pattern that I think few described as well as [this old BBC documentary](https://www.youtube.com/watch?v=PeBisBQblFM).
+
+Therefore, on any issue that requires contextualization, I prefer to adopt a PEST approach that looks at the boundaries of ignorance, not just confirm what you already know (or have decided to do).
+
+Living in data-centric times implies also that we gradually got used to shared frameworks of reference, the result of a developing consensus, not just a self-referential assessment.
+
+Somebody could consider this a digression: but, as this article is about sustainability and Europe, and of course Turin/Piedmont/Italy, we should stop thinking that we can compartmentalize sustainability: it is fine to have 17 SDG areas so that you can focus monitoring and chart progress.
+
+Nonetheless, if you forget the overall context, you can end up considering a progress on some SDGs, and then have to reconsider as minutiae such as energy provision or supply chain routes are not accessible anymore.
+
+<b>SDGs, a general update- where are we now</b>
+
+History can deliver some interesting material.
+
+I am holding in my hands (moved in March, so I am still unearthing some material already stored, while trying to position what I had moved) the February/March 1991 issue of European Affairs, with an interesting array of writers:_ Richard Nixon_ Zbigniew Brzezinski_ Dominique Moisi_ Leon Brittan_ Gianni De Michelis_ and many others.
+
+It was a time when there was another war starting in Iraq (after the one between Iran and Iraq), while we had issues in the Balkans, and when an article from Eberhard Von Koerber had the title "An Investment Agenda For Eastern Europe", and a Eurobarometer checked the pulse of public opinion in Poland, Czechoslovakia, and Hungary.
+
+Which is, more or less, what we were doing until before COVID-19.
+
+But another article had the title "Yugoslavia versus Yugoslavia" and asking: "Is Yugoslavia fated to become the Lebanon of the Balkans?"
+
+Well, history, even recent history, can teach interesting lessons- if you are willing to listen.
+
+As facts showed just a little bit later from that 1991 issue, and we can see now after three decades, some of those issues are still around.
+
+The war against Iraq that Richard Nixon called in his 1991 article "A War for Peace" gave an unsteady peace, while in the Balkans we still have here and there tensions that were already described back then.
+
+In the early 1990s, I was working for a French company, and I remember that even Member States of Europe did not converge all at the same time on sanctions against Yugoslavia splitting components.
+
+We need to do a better job to get back thinking long-term, and the UN SDGs of 2015 that followed the prior Millennium Goals tried to shift toward benchmarking and communication, KPIs and measurement, instead of mere lipservice to a common consensus.
+
+When people reads "SDGs", often think at a public relations choice, not its substantial impacts on the way of doing business (and integrating business within its context)- i.e. a cultural change.
+
+We live in a data-centric society: hence, and not just for my political past, or work in the Army, or number crunching for businesses, or because in the early 1990s was actually selling methodologies and associated change services...
+
+... I like, whenever possible, to do what I liked in my study of the Italian Centrale dei Rischi on behalf of an English partner and an Italian customer: if there is a shared framework of reference, benchmark to it.
+
+Hence, as I shared in previous articles, when I was offered the chance to be part of the revision of the forthcoming new edition of the PMI's Program Management guide, my remarks were focused on the integration of ESGs (which implies also SDGs) in business case definitions etc.
+
+Yesterday did the same- more about this later.
+
+As was for ISO9000 in the 1990s, integrating the approach within your business since inception is, in my view, a good design practice, not a constraint.
+
+Yes, some business cases would have been torpedoed if the whole lifecycle of quality (in the 1990s) or the whole impact of ESG factors (nowadays) had been involved, but nothing forbids to consider additional reserves if that "loss" is considered a "strategic repositioning".
+
+Anyway, at least, this would avoid saving a penny to pay then downstream a thousand.
+
+<b>More than a matter of a nudge- compliance</b>
+
+It has been a busy month, so far, when it comes to everything concerning not the concept, but the implementation of sustainability in business.
+
+Why? Because in barely one week (this), both a picture of the current status and a framework to push toward convergence were released.
+
+As you saw above, I shared few dozens of objects (articles, datasets, charts, etc) since 2019, when I started using in my articles R to produce some charts (eventually used also other tools), following my first drafting in 2015 of a book, and a tentative in 2018 (creating also a company) to integrate that into service delivery of my old cultural and organizational change services.
+
+The key element is that, as in the case of Italy, we are not where we should be, considering that we have just 7 years left to 2030.
+
+The recently relesed [SDG report](https://dashboards.sdgindex.org/chapters) provides details by country- so you can select your own point of reference.
+
+Yes, most large multinational companies now state their focus on one or more of the SDGs, but are really those reports comparable?
+
+As for ESG (Environmental, Social, Governance) criteria, the degree of comparability is even lower- as there are even more frameworks.
+
+So, while reports and self-disclosure are fine, as it happened for financial accounts, the common consensus is toward something more comprehensive.
+
+If you followed <a hreF="https://linkedin.com/in/robertolofaro">my profile on Linkedin</a>, you probably saw that I shared various links about attempts to extend to SDGs and ESGs an "accounting" approach, including on the identification of corporate and product carbon footprint across the whole lifecycle.
+
+On 2023-06-26 IFRS released the first two IFRS Sustainability Disclosure Standards, S1 and S2.
+
+To quote from the IFRS "Basis for Conclusions" on S1 document, specifically BC5:
+<i>
+"IFRS
+S1 establishes a base for decision-useful and comparable reporting of
+sustainability-related financial information by requiring the application of
+some established practices from financial reporting. IFRS S1 uses definitions
+and requirements that are consistent, if applicable, with the IASBâs Conceptual
+Framework, IAS 1 Presentation of Financial Statements and IAS 8 Accounting Policies,
+Changes in Accounting Estimates and Errors. The ISSB intends that such an
+approach does not, in any way, limit the suitability of IFRS Sustainability
+Disclosure Standards for entities applying other GAAP instead of IFRS
+Accounting Standards."
+</i>
+
+Each one of the two documents is actually a set of three documents:_ the standard itself_ the guidance_ the basis for the conclusions contained within the standard.
+
+All the documents can be accessed on [IFRS](https://www.ifrs.org)'s website.
+
+These standards include also the concept of proportionality: i.e. a balance between the disclosure need, and the costs or constraints.
+
+Since the 1980s, working in a multinational environment did not imply that each foreign branch had the same capabilities, staff, or even size.
+
+It is quite logic: not even when growing through acquisitions, few companies find interesting to "clone" themselves in each market.
+
+So, often at least one site has significantly more resources on a specific issue.
+
+Since the 1980s more than once heard complaints from either the "regulation" or the "regulated" side that were, actually, converging to a single point, as I shared already in 2003-2005 within my e-zine on change.
+
+A central organization might have more resources and be inclined to generate rules, including reporting rules, that its own structure can comply with.
+
+But an organizational structure far away might have few people in a single office covering what is done centrally by different offices.
+
+Incidentally: as I wrote in previous articles, this was a complaint that I heard from local authorities almost two decades ago- about the complexity of the rules designed by teams of experts by consensus, to be applied then locally by an employee that covered those tasks occasionally.
+
+Within ESGs, there is a further degree of complexity: in many cases, data are not available, or would be to procured on purpose, as are not yet part of the operational activities e.g. of suppliers.
+
+Therefore, for the time being, probably only some organizations, who have negotiating leverage with their suppliers, can e.g. have all the information across their supply chain.
+
+Eventually, as it happened for other compliance issues (e.g. to avoid sanctions-busting, or for quality, or to integrate information about country of origin or the presence of hazardous materials), by being part of the supply chain of larger organizations, even smaller organizations would harmonize toward a more structured communication, notably if such a communication were to follow a standard.
+
+The IFRS S1 and IFRS S2 do something more than just allowing companies to follow one single framework, and readers of reports to have information built on the same rationale (good for investors, but also for potential corporate customers, public entities, and even potential suppliers).
+
+The IFRS S2 includes also some [key metrics by industry](https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/ifrs-s2-climate-related-disclosures.html/content/dam/ifrs/publications/html-standards-issb/english/2023/issued/ibg/)- for now limited, but anyway built with industry, and therefore probably will evolve.
+
+Having metrics that define constraints for their production would allow eventually to generate benchmarking data services, helping also to continuously improve and, while defining a business case, to identify elements that make easier e.g. for infrastructural projects to:_ compare on sustainability business cases proposed for different investment or purchasing scenarios_ once selected a specific business case for implementation, monitor benefits realization and impacts evolution.
+
+Compliance is considered by many a cost- and I first heard this objection in the early 1990s about quality within the IT services and software industry.
+
+In the end, already back then it was clear that it was a pure additional cost only if considered tactically, and not strategically, i.e. if added to other operational costs.
+
+If, instead, quality considerations (and now ESGs) were to be part of the inception phase, would allow to actually streamline and reduce both costs and processes, and enable real continuous improvement: the key being the measurability, which enables in turn transparency, and results also in accountability.
+
+Accountability is often still considered a form of scapegoating- but, as often wrote, those who err are probably those best positioned to help improve to avoid further errors- provided, of course, that the eorr was not intentional.
+
+Shifting to CSR to Integrated Reporting to IFRS S1 and S2 would eventually increase the potential of transparency across the whole supply chain, while avoiding proprietary disclosure standards and the need to comply with multiple reporting frameworks.
+
+It took decades for accounting standards, but we live in different, more data-centric times: probably by 2030 we will have already further refinements and even benchmarking data services, maybe even at the product category level (and not just the industry/location as I proposed in the late 1990s while supporting the negotiation to integrate a branch-level banking risk monitoring tool with the Italian Centrale dei Rischi).
+
+There is an added dimension: sustainability (and ESGs) include multiple dimensions, and its components (and measure) are becoming common knowledge not just for corporate, but also individual customers.
+
+Hence, fine-tuning and adding further details or metrics might eventually become part not just of advertisement or marketing, but also of recommendation/lifestyle choices by customers- all embedded within their own consumer smartphone integration with the market.
+
+I would not be surprised if, once enough data were to becomme available and routinely integrated, not just on product creation but also the whole lifecycle, somebody were to offer a service to "profile" customer and generate a kind of "matching" between offer and demand, extended down to... smart appliances.
+
+The risk is obviously the one in many rating systems (have a look at an old movie with Danny De Vito who tricks a rating system), but the concept could be:_ database are available_ customers could pay a service to profile themselves_ then, all their devices, including smart home appliances, would "behave" according to that profile.
+
+As I wrote in my two books on [BYOD impacts](byod) and [BYOD- you are the device](byod2), living in a data-centric society, notably in urban environments that evolved toward smart cities, might imply a "give and take": everybody (individual and corporate) is both a consumer and a producer of data, and therefore gradually services will evolve to allow a continuous feed-back and adjustment, potentially expanding the services available at the same cost.
+
+Example: how many of you use your car 100% of the time? So, now it is normal to get a car when you need it, in many larger towns, without actually purchasing one.
+
+The same might apply for public transport: eventually, while leaving a "skeleton force" quota of services, there might be a demand-driven approach linked to pedestrian traffic, schedules of offices, etc, adjusting the availability.
+
+Therefore, shifting sustainability from the soapbox to the "boring" controlling&amp;monitoring side opens new opportunities.
+
+<b>Transitions? think strategically: and expand you toolset- the case of Turin (with a look at Italy and Europe)</b>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230625_datamaturitymap_2022.png)</center>
+
+What you see above, is extracted from [this report](https://data.europa.eu/en/publications/open-data-maturity/2022).
+
+Yes, the transition requires not just keeping an eye on the boundaries of your context (or having somebody who does it on your behalf, but aligned with your own motivation and interests), but also considering that, in many roles, unlearning and learning will become as important as updating.
+
+As I wrote above, I learned "on the ground" most of what you can find on my CV (not just the summary one that you can find online, also its detailed version).
+
+So, whenever for partners (in the late 1980s up to mid-2000s, also for customers) I was asked to have a look at a CV, more than titles or academic titles, I looked at roles and mindset.
+
+I know that in Italy many companies, due to their size, would like to hire staff as young as possible, and as "ready to hit the ground running" as possible, but then saw too often that their proposals were to solve their current needs, e.g. by removing all the subjects from the curriculum that would help to contextualize and learn to learn (and unlearn).
+
+Meaning: either the company goes down in a decade or less, or those people end up being obsolete and unable to learn or, even worse, the company stays, promotes them where they would need to be able to learn, they stick to what brought them up to promotion, and become ballast for the organization.
+
+You just need few strategically positioned people, and they can sink any strategy to perpetuate what they know- cocooning up to bankruptcy or takeover by a competitor that then, obviously, starts by adopting double-digits pruning of staff.
+
+Since 2017, as I was on a mission in a SAP environment for the second time in a decade, decided to follow open.sap.com training courses, mainly in English (except mainly in German on open.hpi.de).
+
+The reason is simple: as a member of few organizations and used in the past to travel to attend workshops (courtesy of COVID, luckily now I can attend most by going online, including many in the USA that I would not have attended in the past, e.g. NASEM), e.g. when I was a member of IEEE (on-off few times, since 1997), I know the benefit of having a Weltanschauung, i.e. a mental framework of reference.
+
+So, if you follow training on, say, blockchain, as I did, you can find different perspectives from different sources.
+
+But if you follow across the years (say, 2017 to 2023, almost once every two years) a training or workshop or set of webinars about the same subject from the same organization, you can see the evolution in reference to that "contextualization", and therefore it is easier to transpose.
+
+It is akin to what is done with natural language processing embeddings.
+
+Say that you know the relationship between capital Germany = Berlin. Then, by replacing Germany with France, you would get the result Paris.
+
+Obviously, re-contextualizing a conceptual framework that you learn associated to a specific cultural framework requires knowing the latter, and knowing the target cultural framework, so that you can seen what needs to be adapted.
+
+Still, it is easier to see the evolution than if you get, say, in 2017 from one source, in 2018 from another, etc.
+
+Then, on this re-contextualization (which is faster), you can add as control tests what was shown as evolution from other sources.
+
+On sustainability, open.sap.com has released multiple courses, under different titles and "course series" since I started following it in 2017, e.g. on circular economy involving The [Ellen MacArthur Foundation and other sources](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction).
+
+The [National Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org/) routinely hosts workshops on related issues, extending also to technology, organizational and social impacts, etc.
+
+The interesting part is that integrating new technological and compliance trends requires a mindset that is exactly the opposite of that "train 'em fast" that I routinely heard of in workshops in Turin since 2012.
+
+As I wrote in the past, during my mission in 2015-2018, as I had planned to at last settle in Italy, intensified my readings, conferences, and workshops in the territory of Turin, Piedmont.
+
+This included either attending the presentation and reading, or just reading, the report from an independent source in Turin, the [Rapporto Rota](https://www.rapporto-rota.it/) prepared until 2022 from the Fondazione Einaudi for a couple of decades.
+
+Say- the title of the report over the period I observed was as close to a post-mortem as a report can be- and its content even more.
+
+Then, as I wrote the in the past, there were a routine theatrics for few days on local media, always the same: those who were in position to actually generate change went on a complaining and apologizing ritual, which, few days later, was forgotten... until the next year, when the report again marked the "progression" (actually, a regression).
+
+The 2022 report was actually about Turin but also other Metropolitan areas- a comparative effort.
+
+Now, this year, as there was a presentation but not a whole report, decided to attend again the presentation of the report from the research branch of the Region, IRES.
+
+It was interesting- but more a performance than a presentation.
+
+While the report is available, the data were not linked to the report (as it was instead routinely done with the Rapporto Rota, that [shares online the dataset covering two decades of research](https://www.rapporto-rota.it/banca-dati.html)), and therefore it would require more work to see the same data from another perspective.
+
+Anyway, in both cases will share eventually some material, as can be linked to some other data-based research that I am doing.
+
+As I wrote in my comment to the picture at the beginning of this section:<i>
+When few years ago had a look at open data from Italy to create some datasets on Kaggle to support publications, even data consolidated by a Ministry had different coding styles for different locations, and weren't really comparable
+
+During the #NextGeneratioEU #RRF publishing, in order to get the documentation about the #PNRR had to go to archive.org, as for Italy the RRF EU website did not contain the attachments (as it did instead for other major countries)
+
+Since then, used Eurostat as an harmonizer for the open data I needed from Italy
+
+As also other public authorities in Italy, national local industry, had open data that did not survive an EDA, when used them to have a systemic picture
+
+E.g. data that changed in dimensions within the same timeframe, or raw data dumped online without metadata
+
+Hence, look forward to have eventually time to check if that "trend setter" is about quantity of data points producing entities, or quality (depth and breadth) of data released
+
+Still: except private research organizations, in Italy is still a habit to release reports without releasing the supporting data, to allow a different analysis
+</i>
+
+Italy has plenty of foundations, research centres, and, on the startup side, incubators, accelerators, aggregators.
+
+But Italy, and its tribal economy, have an attitude of "take control"- instead of interoperability and communication agreements, routinely, as it was decades ago with foreign direct investment attraction, each national regional local entity large enough to have a group of interest tries to become "the" reference point.
+
+While the mantra in the early 1990s was to have a smaller slice of a large pie, in Italy, to keep all the tribes happy, we keep slicing pies into crumbles, and then discover that...
+
+... the coordination cost within each tiny slice, and between slices, is significant, and makes decision-making activities as lengthy as the most convoluted "ringisho"-based decision in Japan, but with less transparency and stability (as whatever is decided today can be un-decided tomorrow, if the balance between tribes changes).
+
+The value added? Whenever there is a shift in power, you can re-arrange the coordination part- and, since 2012, frankly I lost count of how many "cabina di regia" heard of locally or globally.
+
+As I said recently to a friend, there is a trend in the local economy toward allocating funds (notably the PNRR funds) not to generate sustainable investment, but to generate what I could only describe as a string of instances of a Mausoleum, i.e. a memento to past managers who created yet another container so that others can then provide content.
+
+Curiously, at the same time when routinely the complaint is the lack of resources (sometimes even to fully finance the initial buildup, not the operations and attractiveness, of said containers).
+
+One of the first things I said since the late 1990s, when I first supported local startups, after in the early 1990s a privatization law created banking foundations whose initial assets were the shared in the bank they originated from, supposedly foundation with various "social targets"...
+
+... is that, notably in Turin where two of the largest banking foundations are based, should coordinate, not compete or overlap.
+
+Sometimes simply spread resources thin across a wide range of beneficiaries- again, looking as a mirror to the local tribal economy.
+
+Then, since 2012, more than once wrote about the need to quite giving sprinkler money, but make choices and, for major initiatives, work together.
+
+Few years ago, there was an announce toward that direction.
+
+Then, heard curious statements that sounded a bit again as sprinkler money.
+
+This week, again hints toward a joint effort.
+
+As also local authors wrote, Turin suffers from too many announces that take a while to (if ever) materialize, and often, as it was in the relaunch of Mirafiori (former largest automotive production area) via TNE (Torino Nuova Economia- an Orwell-style acronym, not a good omen), even some insider shared publicly that TNE did not work as expected.
+
+There is at least half a dozen of initiatives that were discussed and/or kickstarted and/or presented over the last 12 months in Turin alone, each one with its own plan and container.
+
+A strategy is not build by juxtaposition of a bucket list of dreams to turn into reality before you retire, but thinking about something that transcends you and supports the organization.
+
+Something that, in a tribal economy based on family-owned companies that way too often just extract value from what prior generations delivered, would require choices that displease most of the tribes most of the time.
+
+It is a matter of choices: if you accept these constraints, i.e. keeping the tribal family-owned companies as backbone and, more importantly, steering all the decision-making points with impacts also at a much higher level...
+
+...you have to accept also the consequences:_ paradigm-shift investment would not be feasible, as mutual vetoes would stop it out of fear_ probably each transition will be based on the "tipping point crash-and-rebuild" approach _ competitiveness within a data-centric global economy where others are nimbler would decrease_ most of the crash-and-rebuild would be done by foreign actors that are outside the tribal scheme.
+
+What is a "tipping point crash-and-rebuild" approach? 
+
+It is when a closed system sticks to the old and true, to the point of developing cognitive dissonance, and increasing self-recognition for being the good choice: and I have never seen so many self-congratulatory statements in workshops, conferences, presentations as I saw in Turin since 2012.
+
+This keeps going on until gradually, instead of being self-supporting, the environment increasingly need more resources and, eventually people, from outside to provide what is needed- and then fails.
+
+The "crash-and-rebuild" has not to be taken literally.
+
+Might simply, as it happened few times over the last decade, sometimes with success, sometimes with failure or outright fraud, mean that eventually there is an acceptance that need to import human and financial resources and, unable to provide attractive terms for a partnership as a peer, becomes a sale, sometimes even with a shrinking down before selling, otherwise (mainly for political/image/brand/social presence purposes) the announce is of a success, and after a while, as with the Jupyter missiles in Turkey with Kennedy after the Cuba missiles crisis, silently the cuts come through.
+
+So, the "crash" becomes a "fade to black (later)", and then the rebuild becomes a "redesign".
+
+In any case, both variants of the "tipping point" consequences are linked to the inability to adapt to change.
+
+Which is, de facto, a recipe to become a colony, not to integrate with peers at the European level.
+
+As changing the decision-making social structure would take too long, probably strategic thinking would require considering a more structured "nudge" approach, i.e. creating unpopular policies that would generate incentives to create new actors and then protect them from tribal interference.
+
+And this would imply also funding outside the tribal scheme available to sustain new actors into the first expansion phase, if they survive the initial.
+
+What I heard instead often is that also access to credit was really tribal, e.g. even EU and Italian funding channeled via de facto "you are in, or you transfer to somebody who is in, or get onboard somebody who is in" structures.
+
+But then, I am a foreigner in my own birthplace, and I saw cases of supposed local talent who had rules changed for so that they could stay in place: which is frankly a puzzling way to attract talent from outside.
+
+My take from the observation since 2012? Again- too many announces, and working as if what mattered was to announce, not its results to last.
+
+With the additional puzzling choice of continuously repositioning, up to the recent "so much of everything" motto with the infinite loop that really represents the lack of direction and convergence on a model (whatever model) of city, beside a bit of this a bit of that, and trying to attract locally anything that extract value from others- from bureaucratic centres, to quangos, to events.
+
+Anyway, if you stay locally a couple of decade and at each step you get a stepping stone toward the next step...
+
+...eventually, you can go outside and say that you have been two decades on- and can obtain recognition.
+
+But I still believe that it is better to have a smaller slice of a bigger pie that you help create, also if you cannot control it.
+
+And, probably, this is why in Turin over the last decade I saw announced more instances of a Mausoleum, instead of more cathedrals.
+
+As you probably read in previous articles, my main complaint about the PNRR, the Italian side of the Recovery and Resilience Facility (RRF) is that too many focus on "spending", not on "investing".
+
+It is sad, as it is part of the NextGenerationEU- but there is little for the next generation (except the debt to repay).
+
+Creating a sustainable environment in a data-centric society, notably if you want to create also a model smart city environment implies that each initiative, each investment should be considered within a shared framework of aims- which, again, cannot be just a collection of bucket list items to do before you retire.
+
+This is something that, somewhat chaotically, Turin has been trying at least two times to do since the end of the 1990s.
+
+If all the above seems too critical about Turin- frankly, it is just a summary: if you can read Italian, [the books linked to this book review](index.php?page=200) are worth reading.
+
+Albeit a shorter book contains even stronger statements about the current state of the town- my review in English is here: [Chi ha fermato Torino?: Una metafora per l'Italia](https://www.librarything.com/review/184867491).
+
+Frankly, to summarize all those books (and more) on Turin and my observations since 2012: local politics in Turin is so much entrenched with the local tribal society, that cannot be considered a source for change.
+
+It is a case of business or external policy influencing, or, as I reported recently, bottom-up small initiatives that, if they manage to avoid getting into the control freak mindset and try to create their own tribe that they can control, could generate change, through multiple points of evolution, and then coordinated efforts between some of them, on a case by case basis.
+
+Anyway, as I wrote in an article [almost one year ago ("Rethinking the future of work while going through the three transitions in Europe #digital #green #NextGenerationEU #repowerEU #business #models")](index.php?page=482), the real transitions are not digital and green, but that as the outside, plus inside- adopting a new mindset.
+
+In our times, if you want to create resilience, you have to embed a flexibility mindset, a structural ability to rearrange while retaining the high-priority elements: so far, Turin did not fare well on either- but there are still resource, time, and, hopefully, motivation.
+
+Unless the locals prefer to sit on the fence, and then write ex-post books such as those whose links shared above.

@@ -1,0 +1,178 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230721_article.png)</center>
+
+I will start this article with a quote from a documentary that watched yesterday:<i>
+"all generalizations are false, including this one"
+</i>D. Rumsfeld in "the unknown known" by Morris.
+
+This article, as you can imagine from the title, is about Italy, but covers also general concepts that could be applicable elsewhere.
+
+Anyway, the article is just to share few thoughts and pointers before the week-end, as currently, along with other things, I am working on few data projects that pave the way for further publications.
+
+Hence, in this case, will try to keep under the 2,500 words limit- consider it an introduction to some more detailed material that will follow in the future.
+
+Therefore, few short sections (generally no more than 500 words each):_ the cultural side of industrialization_ the tinkering approach to law-making_ structural tinkering and tribes_ shifting gears, evolving structures</br>
+_ closing down, moving forward
+
+<b>The cultural side of industrialization</b>
+
+As I wrote often in previous articles in this section of the website, Italy is still a multi-layered tribal society, despite the "industrialized" element within the title.
+
+I should have added "recent" industrialization.
+
+Yes, we had factories in the XIX century, and some would quote that also one of the members of the Triumvirate with Caesar had really what amounts to assembly lines.
+
+But also Carthage had something similar, if Ancient Romans were able to "reverse engineer" shipbuilding from a beached vessel that had markings.
+
+Well, or so Polybius wrote, ([but you can read this 2017 article on Jstor about "The Beginnings of Roman Naval Power"](https://www.jstor.org/stable/26776802), just 13 non-technical pages that outline different perceptions, all a couple of thousands of years after the facts.
+
+Why this article? Because, believe or not the story about learning to compete on the sea with Carthage courtesy of Carthage itself, it starts with a point (having a navy able to compete), and goes back to what is needed to make that possible.
+
+Which, frankly, is something that, as I wrote since I observed laws and decrees in Italy quite often since 2012, often seems to elude my fellow Italians.
+
+Let's start with digital transformation.
+
+Recently, in an online workshop in the USA, somebody was puzzled at Italy's funding industry 4.0 for companies that blatantly lacked the structure, culture, human capital to benefit from that.
+
+Puzzled, because compared with other countries.
+
+Personally, my first questions about the first law years ago was that provided those "benefits" through various elements:_ why a law that is renewed each year, if we are talking about investments that are across few years?_ why a law "sponsoring" retooling Italian companies (which admittedly had really old equipment), but looking at the equipment, not at the organizational ability to integrate it?_ on the latter, why no funding for training and connecting with information systems (if available)?
+
+Yes, the law was cheered, but then started the usual charade of tinkering for years what could have been designed properly.
+
+If somebody coming from outside was able to find those three weaknesses (and others, more linked to the small size of many companies seeing that as a useful tool) just by reading it, I could not believe that those involved in designing it, notably those with a past within manufacturing and business, could not see it.
+
+In that case, as in many others, the point is linked more to the need to get the law through, bypassing critics also within the coalition presenting the law, knowing that then could be "fixed".
+
+<b>The tinkering approach to law-making</b>
+
+Ex-post tinkering has been a routine in Italian law-making for decades, and mostly is linked to the need to bypass objections from the tribes that formally support a law.
+
+E.g. a law supporting business investment but proposed by the centre-left might have some issues in getting votes in Parliament from its own coalition.
+
+Coopting other tribes is done, but risky.
+
+I shared in the past, also while living in Brussels, how a Government decree, less than 100 pages, that I commented online "chapter and verse", when converted into a law, went up over 300 pages: not an exception, as what in USA is called "earmarking" (or even "pork barreling") in law-making takes on a different dimension- it is not just by district, but also by tribe within each district, or tribal alliance (even a temporary one) within a district or across districts.
+
+The curious element, that brought somebody to describe the Italian industrialization as seizing an opportunity, not a design (the title of the Italian book was harsher: "ricchi per caso", [shared my review online in 2018](https://www.librarything.com/review/149792748), containing also links to other book reviews on the same concept- industrial development in Italy).
+
+The title of this article is about business continuity- but actually is [linked to an article that published in 2018 (in English and Italian)](index.php?page=138)
+
+In 2018, shared online a mini-book, [Just another book on innovation (in Italy)](index.php?page=308), that you can read online, and where I shared my observations on the subject, notably after attending few workshops between Turin and Milan.
+
+Promised a short article- and here is the trick: if you have time, you can follow the links that I shared- so far, cover around 100+ pages of previous material (not just by myself).
+
+I was recently positively impressed by some statements from politicians supporting the current government that, at last, hinted at pre-empting law and regulation changes in Brussels, to ensure that such changes are not excessively tailored to other countries that are better equipped than Italy to implement them.
+
+Why positively impressed? Because I have been in favour of more European integration since I was a teenager (actually politically active in that direction).
+
+But since the late 1980s my business experience interacting with managers and senior managers in various industries across Italy to build models resulted in collecting plenty of references to weaknesses in our business culture, notably on the "structural" side.
+
+So, rules designed in Brussels for, say, Paris and Berlin (to compare with countries that we Italian consider should be our peers), are not necessarily applicable in a country where the general concept is "let's start, we tinker later".
+
+<b>Structural tinkering and tribes</b>
+
+Actually, as I shared in the past, it is something that had to share with my foreign colleagues in the 1980s and 1990s while involved in negotiations in Italy.
+
+As many from abroad discovered, the act of signing an agreement is, to paraphrase somebody else, a case of "this is not the end, this is not even the beginning of the end, but the end of the beginning" of a negotiation that will continue as soon as opportunity arises.
+
+The title of the documentary that referenced above is a segment of a phrase from former Defense Secretary Rumsfeld, about known unknowns, unknown unknowns, but also, in some cases, what we assume to know, and actually we discover being an unknown.
+
+My first business experience on disaster recovery (the technical side) and business continuity (simplifying a bit, to ensure a continuation after disrupting events) was in the 1980s, but merely as an observer. 
+
+Prior to that, I saw another concept of continuity, [due to the "crisis" in 1986 when Libya launched something against Sicily](https://it.wikipedia.org/wiki/Attacco_missilistico_libico_contro_Lampedusa), and for weeks, every evening, had to type "departure lists" at my typewriting machine while having my Garand nearby.
+
+Every evening, eventually we were told that was just an exercise- a test to see how much would take should we have to deploy.
+
+A colleague in my first official job in 1986, who was serving in the Army for his own compulsory service but on a different role and different group, told me in Milan years later that he was instead sent in Sicily.
+
+In business, in cultural and organizational change, instead had to consider "business continuity" in terms of building and retaining those capabilities, so often that eventually for a short while had a company called "Business Continuity Governance".
+
+Yes, the focus was on governance: as many organizations, in the 1990s, sounded as if business continuity were something to design, prepare, set in a manual, with a focus on disaster recovery, and then, as if by magic, to activate.
+
+Keeping short this article implies sharing more pointers that guidelines or suggestions.
+
+Hence, it is now time to unbundle the title of this article- and all the apparent digressions so far in this article are actually the background material that should make understandable the following:_ business continuity, in my view, is a matter of both preparedness (as was in the Army) and governance (as the context evolves)_ an industrialized country and society needs to have a structural perception of needs, i.e. beyond the now or past or known_ a tribal society has a major weakness- whatever choice, is always contextualized not within the overall system, but "cui prodest" (who gets the upside).
+
+<b>Shifting gears, evolving structures</b>
+
+This is a short article (for my standards), but would like to add a section that is even more information-packed than the previous ones.
+
+And what about the data dimension I referred to before, dimensionn that has been another side of my past cultural and organizational activities?
+
+Let's just say that adds a further layer of consequences- in method and structure.
+
+To understand the method, you can read a book that published almost a decade ago to discuss a quarter of a century of experience, [relevant data](relevantdata), preceded since the early 2000s by others (collected in [BFM2013, a reprint of my 2003-2005 e-zine on change](bfm2013)), then jumping forward to [data privacy and GDPR](gdpr), and, more recently, to [an article associated to an essay on AI and ethics that published on July 4th](index.php?page=512).
+
+But those few hundred pages can be summarized as follows:_ start with observation and analysis, then add data not to confirm your analysis, but to have as much as possible (within time and budget constraints) an objective reality check, as also analysts and auditors can have an anchor bias along with plenty of others (see on Wikipedia "bias", and look at how many possibilities of distortion we carry along)_ the rationale is the reverse of the "think globally, act locally" that quote again recently, as you have to think as an insider, but act and analyze as an outsider, something not so easy in a tribal society where each statement is weighted not "per se", but as a crypted message pro or against tribes (my American friends would refer to an old skill from Cold War, "Kremlinology", in Italy we say "dietrologia"- but I discussed both in past articles)
+
+Use your brain and heart, but let the data speak, remembering that, however objective we claim to be, we do not have infinite time and infinite access to information, and therefore any analysis is always based on a selective access to reality and data, and only that insider/outsider dualism helps to get a realistic external observation point.
+
+Yes, even your favorite GPT has a selective access to knowledge... so please do not start saying "<name>GPT said that": if you remove content from the training, you are actually deciding its Weltanschauung- as the centuries old habit of burning books, or the more recent habit of "cleansing" libraries and textbooks.
+
+All this is also a reason why, in our data-centric society, where access to informatioon is cheaper and less resource-intensive, including in the "ramp up" (learning how to move around a new environment), would advocate making significantly shorter "observation roles" such as audit, to avoid that the insider perspective takes over.
+
+In the 1980s, was told that was 1 year trial/parallel, and overall up to 9 years assignment, for an audit role assigned to external auditors.
+
+Frankly, 1+3 or 4 nowadays would avoid potential risks of shifting mindset, and would of course for the same reason need to be coupled not with a paper-thin Japanese wall from other services provided by the same "coalition" of suppliers to the same "coalition" of customers, but a rock-solid Chinese wall with exclusion clauses similar to those that I read when applying years ago for roles at the ECB, to avoid "revolving doors", both before and after (but paid for the nuisance and restriction, not the "all inclusive" I routinely read in Italy about non-competition clauses).
+
+And, frankly, advocate similar rules for separation of powers between legislative, judiciary, executive.
+
+The latter, in my view, includes both national, regional, local elective offices to executive/administrative roles.
+
+Notably in a tribal economy where routinely we hear "the (informal, cross-political spectrum) party of" mayors, judges, prefects, public servants, etc: yet another tribal layer, along with the "guilds" ("albi professionali": I wrote in the past how many in Italy tried to get new ones started, but with admission criteria that would have excluded even the founders- weren't for the exception of course given to themselves).
+
+The consequences? If you are a public servant, a judge, a mayor, a prefect, either you should not be part of the legislative side, or should be a one-way door- once you become a candidate for the Parliament, there should be no way back.
+
+In other countries, where the is still a tribal element but more a sense of the "commons" (the State, its basic working patterns, etc), this could be avoided- State still trumps tribe.
+
+Somebody called the Italian system "caste" ("casta"), as once in, you set your own rules and stay in.
+
+But if you belong to a caste in other cultures, it is a restrictive, not a "join the bandwagon" element.
+
+Yes, also Italian "casta" has an hereditary element, but is derived from the Ancient Rome "clientes", i.e. extended to friends and relatives, as well as to the tribes you belong to (on this, we "evolved" if compared with Ancient Rome and its voting system that tried for a long time to balance structural expansion with power retention through a weighted distribution of votes across tribes).
+
+Anyway, the "bandwagon" is not limited to getting on the winners' chariot: in Italy, it is more complex, as everything is temporary, and therefore might make sense for some to join alternative chariots. 
+
+Also, in Italy, shooting the messenger is almost structural: as shown over the last decade, we had government with everybody joining everybody else, hence the "opposition" and "majority" that, mimicking UK and USA, often you read about on Italian newspapers is a figment of imagination.
+
+The Italian politics I observed on a daily basis since 2012 is more akin to what a British former military mercenary told me in London when I was in one of my usual watering holes, a South African pub: you live to fight another day, not to die for a cause. 
+
+<b>Closing down, moving forward</b>
+
+That "positively impressed" few paragraphs ago should actually be qualified: pre-empting rules-design to avoid rules designed for somebody else is a laudable choice, but requires the willingness of all the others affected by the rules to agree.
+
+Therefore, probably such a pre-emptive approach is more a stop-gap measure, than a systemic solution.
+
+Moreover, requires credibility in the ability, once such an adverse design is pre-empted, to stick to what was agreed.
+
+And, as also a Minister of the Italian Government recently said, let's just say that, historically, Italy's ability to allocate resources and stick to commitments as planned and agreed has not shown a stellar performance.
+
+Not because of a structural unwillingness, but more because, frankly, nobody can claim a "chain of command", despite all the appearances- just read judicial history linked to terrorism, organized crime, and the like since WWII: again, tinkering.
+
+The Italy that I observed is closer to a "swarm" attitude, following the tide of the prevailing winds, not a long-term rationale.
+
+And this becomes often a guiding principle: everybody tinkering just in case, as you never know who is going to be a friend or an enemy tomorrow- spineless.
+
+Therefore, building a common wisdom that accepting something to tinker later is not going to be sustainable in the future is probably a key element: we need to have a cross-tribal consensus, if we want to ensure a sustainable business continuity, and not just playing a frantic catching up.
+
+If Italy is to be considered a mature democracy, there have to be the acceptance of wins and losses, not continuous shuffling in an amorphous "blob".
+
+It is a matter of choices- and considering that rules are not tailored to the current incumbents, but to retain systemic sustainability and the ability to have a business continuity that transcends tribes and tribal alliances.
+
+So, what's next? You guess is as good as mine.
+
+This emerging attitude of not doing while in government what you could do as would potentially lose votes, and then, in opposition, suddenly becoming a champion of causes that you ignored or paid just lip service to, is frankly not a sign of a mature democracy, but of a "politics as flashmob".
+
+Superficial, temporary, and self-referential: leadership is something else- both in business and politics.
+
+The examples of laws that I quoted above ([and more that you can find in my datasets list](datasets)) are across the political spectrum: my vote is my vote, when I decide to vote, but that does not imply that I find always reasons to avoid criticizing also my political side when it does what others do.
+
+As you can see, the less than 2500 words above barely scratch the surface and share pointers to further material.
+
+And, actually, this "tinkering to avoid confronting" is becoming endemic also in other countries- again, not a sign of a mature democracy.
+
+But I prefer to consider this article as an introduction to a potentially much larger material that will release later this year.
+
+For now, thanks for reading so far.
+
+Have a nice week-end, and stay tuned.

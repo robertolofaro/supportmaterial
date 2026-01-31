@@ -1,0 +1,108 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20230726_article.png)</center>
+
+My latest post within the CitizenAudit series was almost 7 months ago, on 2022-12-31 ([Year end and implement(ing) sustainable reforms in a tribal society #PNRR #NextGenerationEU #RRF](https://robertolofaro.com/index.php?page=502))-
+
+That article was focused on a side-effect of the COVID crisis, the RRF (Recovery and Resilience Facility) part of the NextGenerationEU European Union initiative, specifically the Italian PNRR (Piano Nazionale di Ripresa e Resilienza).
+
+On PNRR, shared both datasets ([on Kaggle](https://kaggle.com/robertolofaro) and [on GitHub](https://github.com/robertolofaro/pnrr)),  and articles ([here the "live" list so far](search.php?tag=pnrr), 56 articles as of 2023-07-26).
+
+Defining the PNRR involved, in Italy, civil society through their association presenting their case to the Italian Parliament (and shared in the past at the links above the documentation, and will prepare more datasets and search facilities in the future).
+
+The sections in this short article:_ focus and context of the project_ creating a dataset to support a project_ from data to content: what information says_ next steps
+
+<b>Focus and context of the project</b>
+
+There is another subject to consider, when looking at how COVID impacted: how society and companies adapted to COVID ([and, as of 2023-07-26, ended up sharing in 85 articles considerations on the subject](search.php?tag=covid)).
+
+I will let others to do to the "on the ground" research on the social impacts- I can keep sharing what I observe, but do not have the structure and resources of the proper research that I have in mind, on that side, as would be closer to what I did, on more limited "targets" and for specific partners or customers when I was tasked in the past on proposing organizational/cultural change interventions- a different role for different times.
+
+Instead, late last year, as none of the projects I had been in standby for since the summer started after few rounds of procrastinations, along with my training update and publications, decided that a good project case to test my refreshed data skills would be seeing how companies did cope and adapt.
+
+I think that most of my observers in Italy and abroad, since I started the project, and started talking about it, got sorely mistaken about my purpose.
+
+Yes, part of my activities have been as a "quant" since the 1980s, but at the same time, coming from a political and cultural anthropology background (in both cases, for personal inclination), I never forgot that data related to human activities do not transcend the human side- data are a visible and (sometimes) quantifiable element of a larger whole- often symptoms, more than causes.
+
+So, while many expected just a number crunching of financial reports and the like, that is just a component.
+
+A short digression on the cultural context that defined the scope of my project.
+
+Italy has many small and family-owned companies, and few bother to go the IPO way, in many cases for fear of losing control and due to the additional layer of rules, transparency, overall bureaucracy, and constraints on business evolution.
+
+In Italy, from what I saw since the 1980s, most financing is not risk-based, but collateral-based, i.e. via banking or private networks, or self-financing.
+
+This structural limitation therefore had a consequence: while any company has to share data derived from its operations, only companies on the stock market have really a requirement to communicate often and in a structured way with potential investors.
+
+For others, the communication is really toward their own ecosystems (at least customers, sometimes suppliers, sometimes local communities), but more in a market-shaping than market-reporting perspective.
+
+End of digression.
+
+<b>Creating a dataset to support a project</b>
+
+Considering the focus defined in the previous section, my point was to see how companies evolved across the COVID crisis not just on data but also on how they positioned and projected themselves.
+
+Therefore, went to the stock market, and selected:_ all the companies within the list on Borsa Italiana_ within that list, all those that had a profile page_ for each one, checking if it had also a details page_ within those that had a profile page, those listing a web link for investors.
+
+The resulting dataset, updated as of 2023-07-11, is on Kaggle [here](https://www.kaggle.com/datasets/robertolofaro/borsa-italiana-listino-as-of-20221119), while a Jupyter notebook accessing the dataset to show how are divided by market is <a href="https://www.kaggle.com/code/robertolofaro/borsa-italiana-listino-as-of-2023-07-11
+">here</a>.
+
+For reasons that will be clear by the end of this article, eventually decided not to include (for now) within the dataset the web link for investors available on their profiles: to summarize, too many did not lead on a single page where a potential investor could find financial reports and their associated narrative.
+
+Note: both will of course evolve, as did evolve since late 2022, when I first shared the information- hence, consider this article as a quick introductory/explanatory note to allow reuse (or follow and reuse when the dataset or associated notebooks will contain the information you need).
+
+As of 2023-07-11, the list contains 594 companies, including:_ 42% Euronext Growth _ 27% Euronext Milan_ 30% others => details within the notebook 
+
+If you are used to other stock exchanges, you could have expected to see online a "format" followed for each company.
+
+But there is a catch: the profile and details page, as per description online, are filled/revised/provided by the companies, not by the stock exchange (hence, there is a footnote offering support if needed to amend the page).
+
+Also the web link for investors, when present, does not necessarily link directly to the "investors" section.
+
+This is to briefly summarize the content (in the future, as more data will be added, will expand the notebook to add further visualizations and analysis, and will add further notebooks on specific themes).
+
+The dataset and notebook will always cover the whole of the market, also if my project, as described in the next section, focuses on a subset.
+
+<b>From data to content: what information says</b>
+
+As I am based in Italy, and Borsa Italiana mainly lists Italian companies or companies listed both in Milan and other stock markets, added further selection criteria:_ stocks whose ISIN (identification code) starts with IT (Italy)_ stocks that have both a profile and a web link_ stocks whose provided web link contains financial reports and associated narrative (not just numbers or charts) covering 2019-2021.
+
+These further selection criteria are to reinforce the concept: narrative has to be public, not private.
+
+If a company has a narrative that is not easily accessible, it really talking to itself, not to external audiences.
+
+Therefore, having an updated profile where anybody can access it, and having information for investors easily accessible are two criteria that fulfill the aims of my project.
+
+Others might go and dig where the narrative is- but my point is to analyze what anybody has been given access to, not what requires a Data/Forensic Accountant Sherlock Holmes to be found.
+
+Anyway, would find puzzling companies focusing on creating new ecosystems, or heralding their own sustainability posture that then are being difficult in sharing information- would not name names here that I found so far, will be part of the analysis, but it is a point worth considering, if you are on the "data publishing" and "sustainability" side of a company.
+
+A note on the period: I considered financial reports for 2019 (generally published in 2020), i.e. the year before COVID, to 2021 (generally published in 2022), i.e. the year after COVID.
+
+The year 2020 was for some companies a year that really ended in early March 2020, when the first COVID lockdown was announced in Italy.
+
+As an example, a large retail company shared that they had a 60% decline in business.
+
+Therefore, while 2020 is interesting from the narrative/communication perspective, I was more interested in the narrative and data "before" (2019) and "after" (2021).
+
+Incidentally: for some companies, the side-effects of 2020 actually are still lingering, but will share more details after completing the analysis.
+
+Going back the purpose of this article, I can share some first impressions on narratives retrieve:_ some companies used the web link for investors to land on their main webpage, and finding financial reports requires digging around_ other companies shared only the minimal set of information, no narrative_ between those who have a sustainability reporting in place, many decided to split the sustainability from the financial side, while some (also those not using integrated reporting) decided for each year to share both the financial and non-financial side_ some companies blended all into a single page containing whatever they announced, while few companies added tools to help navigate data and narrative_ few companies had assorted puzzling choices: from one linking the latest financial report (2022) to all the links also for previous years, to one with dual listing and IT ISIN that shared different information in different markets (specifically, financial reports are available only on another market, not Milan, hence excluded the company from the sample for this analysis)_ and, as you would expect on the web, some links are simply dead, sometimes just for the financial reports (where are alive for other information).
+
+A last general point: I wrote above "2019 (generally published in 2020)"- in reality, also for companies whose "year" is aligned with the traditional Jan-Dec year, the publication online is not necessarily under the relevant year (e.g. 2019), or even the publication year (e.g. 2020), but sometimes there is a switch between the two, or even, in case of adjustments/revisions, spread across multiple years.
+
+Just for reference, beside the data, narratives, financial reports, saved also the pages where the documents were provided, to retain a "snapshot" of the status.
+
+<b>Next steps</b>
+
+As I wrote above, my purpose with this project is to see the evolution not just in data, but also in narratives- and will take a while just to complete retrieving and then revising the completion level, to finalize the list of companies to focus on (and potentially to go online for more information on the narrative and financial side).
+
+It is relatively easier to get the "numeric" information, as there are various systems publishing those data.
+
+Personally, for this project, selected only open source tools and free resources accessible without registration- to allow others to explore data in a different way and for different purposes.
+
+The dataset is and will be therefore "generic", ditto for the standard notebook.
+
+Will add more notebooks in the future, once the data collection and cleaning is completed, to share which companies end up within the "sample" that will use to see the evolution of narratives, and to discuss specific themes.
+
+As for the analysis on both the "numeric" and "narrative" side, will be shared as usual for free online- and the target is end of this year (as will do it during my spare time: July-August is the right time to do data collection, as there is a kind of "summer pause" in Italy).
+
+Stay tuned!

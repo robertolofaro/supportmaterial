@@ -1,0 +1,424 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230602_article.png)</center>
+
+No, I will not talk in this article about the invasion of Ukraine and its side-effects, short/medium/long.
+
+This article is divided in two parts: _ [part A: framework- defining some shared points of reference](index.php?page=509)_ part B: application- few ideas on the Turin, Italy, EU case
+
+Both parts share this preamble.
+
+In Italy the new government (basically operational since November 2022) has completed another round of "spoils system" appointments (it will take a while to have the full effect in place, as in Italy de facto that extends vertically and horizontally).
+
+An ongoing bipartisan debate is gearing up to get back on track on the Italian side of the EU Recovery and Resilience fund (henceforth RRF), the Piano Nazionale di Ripresa e Resilienza (know in Italian via its acronym, PNRR).
+
+Shared in the past material on the genesis and development of the latter both on this website ([e.g. this is a shortlist of articles I posted around the subject](search.php?tag=pnrr)), on GitHub ([see this repository](https://github.com/robertolofaro/pnrr)), and on Kaggle ([few datasets](https://www.kaggle.com/robertolofaro/datasets))- as well as on [my Facebook](https://facebook.com/robertolofaro) and [my Linkedin](https://linkedin.com/in/robertolofaro) profiles.
+
+Yes, there is the usual barreling down to the next Government of the issues, and recriminations betweeen the incumbents and their precedessors of who is responsible for delays, plans, etc.
+
+But, frankly, the key issue is: the lack of structural continuity says more about the way the Italian State and society are organized from a cultural perspective, than about this specific issue or series of events.
+
+Or: we are still tribal, and it is still elusive, for us, to be able to develop a plan whose implementation implies looking beyond the current electoral cycle, or even the current balance within and between tribes from the perspective of the current context.
+
+Gone are the times when we built cathedrals- at most, we routinely shuffle chairs on the deck of a Titanic whose iceberg is, luckily, akin to "Waiting for Godot"- it never arrives.
+
+The theme of this two-parts article will be change, integrating current technological trends and some of the potential social and business impacts.
+
+And, of course, a bit of personal elements, to show an example of, as in all my articles, both past, present, and future choices.
+
+As my framework is obviously linked to a context, not just theory, a context derived from experience, observation, study, and collecting cases.
+
+The sections:<b><i>part A: framework- defining some shared points of reference</i></b>_ contextualizing a personal Weltanschauung_ knowledge-sharing as asset-building_ changing cultures is not painting by numbers_ the Lego(tm) brick of a positive change_ keeping the knowledge stock operational <b><i>part B: application- few ideas on the Turin, Italy, EU case</i></b>_ experts, tribes, and continuous learning_ tribal/vertical events and systemic needs_ techn&eacute;, technology, technologists_ space, the new frontier: inside and outside_ it takes a Trantor, not a village_ publication announces
+
+<b>Experts, tribes, and continuous learning</b>
+
+According to a statistics shared on Linkedin, this is the current demographic trend of Italy:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230602_demographictrends.jpg)</center>
+
+Today is June 2nd, which in Italy is "Festa della Repubblica", as Italy was a monarchy until the past the end of WWII.
+
+Demographic trends are not switched in a night- hence, will take something more long-term: let's hope that the current habits will change- otherwise, beside older people like me able to share experience acquired in more ordinary countries, also many of those that are in training in subsidized universities and research centres in Italy will probably go and contribute their potential elsewhere.
+
+But today is a national holiday, hence, time to celebrate.
+
+In my own way, I have no better way than to share further more, to celebrate: since publishing the first part of this article, I decided to start working on a couple of updates on my website to add features making easier to search material.
+
+So, a "public service announce"- that matches the first and third element of the title of this section (more later on the second).
+
+I know- over 300 articles, a dozen books, and also an app that I update weekly and contains a directory of more 3,000 elements make not that easy to search.
+
+My choice was to share online the same tools I use to search within my material, so that a) anybody could access b) as my website is really a drafting for future books and products/projects, I too could search whenever I am and I have an idea to write about.
+
+The approach that I use to release new features or new concepts has been the same since the 1980s: first, play on the concept by myself, leaving some time in between (to be able to play my own "Devil's Advocate").
+
+Then, share either with a few, or on a specific area where I can assess and control the impacts.
+
+Then, extend as needed.
+
+To make a long story short: I extended the tag cloud search facility of both articles and ECB Speeches directory.
+
+How it works? If it is fine with you to click on the tag cloud, and see what is associated with a single word, fine- still works the same way.
+
+But both on the articles, and the ECB Speeches, you can now follow your own train of thought, i.e. see the resulting list, and change or restrict the keyword, by adding one or more keywords, separated by _ (underscore).
+
+To make it even more flexible, it is all filtered, but you do not need to write a keyword: also part of a word (useful if you do not remember) is enough. 
+
+And, of course, my experiments on Machine Learning (to update my early 1980s-early 1990s AI knowledge and limited experience) and AI since the first COVID lockdown will eventually impact on those features- again.
+
+For now, let's assume that you want to search for all the articles concerning Italy, COVID, risk - both my own, and published items from the ECB since 1997.
+
+You get (uppercase or lowercase does not really matter):_ within my articles (as of 2023-06-01) [263 articles with "Italy"](search.php?tag=Italy), [85 articles with "COVID"](search.php?tag=COVID), [150 articles with "risk"](search.php?tag=risk)_ within ECB Speeches (as of 2023-06-01) [158 articles with "Italy"](ECBSpeech_index.php?tag=Italy), [78 articles with "COVID"](ECBSpeech_index.php?tag=COVID), [2123 articles with "risk"](ECBSpeech_index.php?tag=risk).
+
+If you apply the new logic, i.e. italy_covid_risk, you get:_ within my articles [66 articles](search.php?tag=italy_covid_risk)_ within ECB Speeches [1 article, in 2020 and by Isabel Schnabel](ECBSpeech_index.php?tag=italy_covid_risk) (because the ECB Speech web app I built for my own uses lists both by author and years for the selected tag).
+
+Now, let's shift to the second element of the title of this section.
+
+As I wrote in the first part of this article and recent articles, gradually shifted to publishing articles less often, and share instead comments up to 400-500 words (and news links with my commentary) mainly on two profiles, [Facebook, for the social-political side](https://facebook.com/robertolofaro), [Linkedin, for the business-political side](https://linkedin.com/in/robertolofaro), with occasional "cultural background" bits about th progress of my time in Italy on [Frype/Draugiem](https://frype.com/robertolofaro/blog), a social network that I joined by invitation in 2007 (actually I was invited long before), before my latest travel to Latvia to meet friends there.
+
+Why the latter? Because, frankly, while in Brussels, in 2007 started releasing first on stage6.divx.com blog posts and pictures under the pen name "aleph123" (as I was still working as management consultant, wanted to keep a Chinese wall between business and personal commentary- the former being delivered only to partners and customers, also as reports, essays, feasibility studies, market reviews, etc).
+
+Then, in 2008, as at last was able to phase-out most of my activities elsewhere (except non-profit and startup support), could work on settling in Belgium.
+
+Hence, my own website became where I shared about business and social change (under various domain names, before settling years later on converging everything on robertolofaro.com), and frype.com where I shared a kind of travelogue/resettlement log, as (my contacts in Belgium, UK, USA probably remember that) since moving abroad in 1997 (also if officially became resident in 1998) I had curious interactions and "pull-back" initiatives from Italy, specifically Turin (and, later, Rome and Milan).
+
+It is a funny country: you develop your experience elsewhere (from the 1980s mainly outside Turin), you are never a candidate considered for any role as there is always something missing, but then, when there is something to sort out, you get routinely asked to work for free to support your town, your country... generally by proxies of those who instead play paid musical chair (and routinely even change the rules to stay in roles that they like).
+
+Between the late 1990s and late 2000s, routinely supported for free (or its equivalent) startups and small companies in Italy, but first working in Rome on Government projects part-time as project manager and business analyst at a discounted rate (or even for free- i.e. paying to work in Rome, when my side of the budget finished) generated some doubts that resulted in a second relocation abroad, and then, my experience in Italy since 2012 showed a bit more of how things work in Italy.
+
+Hence, stopped subsidizing the careers and paid musical chair activities of others (e.g. creating activities where the founders had no real commitment, just to have on their CV titles that year later their tribe can sell to justify landing a specific role, "scalino" is the name used in Italy).
+
+And expanded/renewed what I had started in 2008 in Brussels: putting offline most of the websites and articles I had already published since 2008, shifting online all that was not within my official roles- if it is free, I see no reason to limit the audience to one or more tribes, as anyway I never belonged to any, and routinely turned down already decades ago "tremendous opportunities" to be a sherpa in a tribe for those with a "manifest destiny".
+
+The way in Italy generally works is that you get involved when you have something to contribute to the tribe, and in exchange your children or relatives get on the fringes of tribal spoils and, maybe generations later, rise up within the tribe.
+
+But this was credible long ago, and already in the early 2000s in Turin, Rome, Milan heard different stories.
+
+As I wrote in the first part of the article, I was lucky that I never really cared for title, and therefore had no qualms about sharing, and also was not really interest (except on the intellectual side) on applying for patents, etc.
+
+And actually in November 2012 reused my travelogue on frype.com for my first travel to Berlin- as I shared in the past, I started blogging on that travel before it started, making a promise: if more than 50 people read it, I will post another one.
+
+Some days, I posted two times, and eventually came up the idea of making a book out of that. 
+
+As usual, you can buy it on Amazon on paper, but you can also read it online for free: [here on slideshare](https://www.slideshare.net/robertolofaro/berlindiaries-a-personal-journey-through-the-new-nervous-centre-of-europe-v20-downloadable-book).
+
+But in preparation of this June 2nd holiday, I did not just release those two updates- I also revised the online presence of my books, selecting twelve that [are now available on leanpub.com](https://leanpub.com/u/robertolofaro)- where you can either read the digital edition for free, or buy it (if you want to support further publications and research activities); if you prefer, after reading a book, to have it on paper, you can [find here the links to each book and their Amazon paperback page](published).
+
+Why did I write those mini-books? Actually, it was something that until the early 2000s did only to support my projects and interactions with customers, i.e. preparing reports or documents to summarize a concept and share a bibliography, a kind of "position papers".
+
+In this case, self-publishing on Amazon was not really to sell copies (but buyers are always welcome- and few did), but to be able to have a reference point in time on position papers- and then either direct customers and contacts to them, or even giving them a copy when useful or needed (as I did e.g. for the book on [GDPR](gdpr)).
+
+I think, as I wrote repeatedly, that experts are useful if they understand the boundaries of their own ignorance: and this applies to myself too.
+
+I learned the hard lesson in business in my early 20s: hence, my bookworm habit of asking questions and then digging into supporting material, before starting activities, stayed with me.
+
+My main expertise? Change and business number crunching for decision support- and coordinating the activities associated (call it project manager, program manager, portfolio manager, PMO, change manager, vendor manager: it depends, and involves different tools, but, in my case, it always requires making different subsets of experts and non-experts work together toward shared goals).
+
+As promised at the end of the first part of this article, I would like now to share again its closing paragraphs:<i>
+In our times, we can be more "lean" and automate various activities, and in many environments probably something even leaner would deliver a good balance cost/benefit: still, in most roles of coordination and management, communication and "organizational memory" should be part of everyday life, not just a patch-up done once a quarter, or once a year to check few boxes on a rating form used to decide careers and assignments.
+
+Also, the potential of technology could help a country such as Italy, where smaller companies, often family owned, lack the organizational structure (and budget) to develop such a structure internally.
+
+Imagine e.g. an organization representing many of them within the same industry adopting the same approach that decades ago was used in Italy to create the Centrale dei Rischi, i.e. a single databank collecting risk from across the banking (eventually financial) system at the individual level, and then reporting back to member organizations, with details about their own customers for their own positions, and less and less details for their customers having also positions elsewhere (to keep confidentiality) and overall exposure for potential new customers.
+
+Such an approach could help e.g. to create a ChatGPT for, say, the fashion or food industry, and then allow as "transfer learning" to put on top of that only what is proprietary for each company, so that the same "AI infrastructure" could serve many, allow them the benchmark and compare, but still retain a unique "our company" layer that would be not disclosed to third parties.
+
+The key element? Making accessible the ability to "teach our way", and, of course, an organization with resources and credibility available to represent an "umpire" for all the companies within each industry, without the risk of human intervention that could create issues about conflicts of interest.
+
+Anyway, this is just an example, and will serve as a link to the next part of this article- actually will start the next article with the above paragraphs, and look at more existing cases, and how then the approach could be used, integrating, as my motto says, "change with and without technology".
+</i>
+
+<b>Tribal/vertical events and systemic needs</b>
+
+I am a member of few professional associations, and have been a member of few more in the past (you can have a look on Linkedin), but I do not feel any tribal identity, and this helps in avoiding that "third nostril" habit to justify a tribe.
+
+Ditto when I was a member of a political advocacy association (the closest I was to be a card-carrying member of a political party- never had one), and some other associations: if I take a card, I do not surrender my brain.
+
+Hence, bipartisanship: there is always something to learn from listening somebody else's ideas and sharing your own- unless, of course, the aim is proselitism.
+
+Anyway, the latter is easy to spot: when anything but what is proposed by the "converter" is discounted as folly or not worth listening, or at best motivated by greed or some other capital sin, probably trying to have a bipartisan dialogue is making little sense. 
+
+Now, I would like to repeat (verbatim) what I wrote at the beginning: (in Italy) we are still tribal, and it is still elusive, for us, to be able to develop a plan whose implementation implies looking beyond the current electoral cycle, or even the current balance within and between tribes from the perspective of the current context.
+
+As I was told in Rome almost 20 years ago when they heard that I had moved to London but was from Turin, in Turin tribes anyway converge when it is time to make choices- but if you belong to no tribe, that is not necessarily a benefit, as that convergence is a blend of interests, not for the "common good", as proved by the routine I described in previous articles.
+
+Or: the same people rotate across multiple roles, and also since 2012 saw a couple of times when rules were even altered to keep in place some in public places- sometimes, feels like those videos on Instagram where somebody acts both sides of a negotiation.
+
+I wonder what many of those Italian young graduates that each year move abroad after starting their career in Italy, or even just after graduation, would have been able to develop in Italy, considering that, despite all the appearances, resources are available, but what lacks is the human capital.
+
+Funny how often since 2012 read on newspapers, or heard in conferences, workshops, etc about the danger about the lack of talents or brain drain- but always from the same people, sometimes simply shifting from chair to chair.
+
+It is akin to have had in France before the Revolution [Cahiers de dol&eacute;ances](https://en.wikipedia.org/wiki/Cahiers_de_dol%c3%a9ances) written just by the clergy, but "representing" everybody. 
+
+Anyway, as I wrote long ago in another article, almost exactly four years ago (2019-05-19, [](2019-04 #Italy, A country between Milgram, Zimbardo, Hawthorne, and... a Gaussian distribution ( #RegionaliPiemonte and #EuropeanParliament2019 during #Brexit series ))), few months before the COVID-19 epidemic was announced de facto in January 2020, we are still waiting for a set of systemic decision-making.
+
+And not just in Italy: EU, too, has some issues within the separation of powers, since 2019, and the European Commission took the initiative that, in the current formal structure, you would have expected others to take.
+
+As I wrote in that 2019 article, [and in many other articles](search.php?tag=lining), there is often a silver lining- even in Brexit.
+
+This silver lining has been in part to force all the parties involved (both EU and UK) to remove an alibi that acted as a justification for tinkering without making choices- except choices that bypassed completely what we preached about the World at large- democratic legitimacy of choices.
+
+Something that, as I wrote in the past on articles about the "Monnet" approach, had some justification in the past, notably during the Cold War, but increasingly is weakening the EU potential, instead of strengthening it.
+
+As I wrote in the shared incipit of this two-articles series, this part was going to be about examples about EU, Italy, Turin- and you already read few above, and will read few more.
+
+The concept is that in Italy we still lack a shared concept of "common interest"- something that transcends current tribal balances.
+
+It is still common to change rules just because you have the opportunity: look at the actions by the European Commission since 2019, and, on a more local level, I observed since 2012 how all those complaints about about lack of human capital was not solved- just its costs shifted elsewhere (or attempted to do so).
+
+The real issue is: are those changes systemic, i.e. sustainable long-term (my concept of systemic includes that), at least condition change, or are just "tailor made" for the incumbents, and could raise issues if others were to hold the same place?
+
+In Italy, we are currently doing a socio-political experiment, as, also if two of the three main political parties of the new Government have been there until few months ago, the leading political party was not really there- ever.
+
+Hence, frankly I discount many of the complaints even from political parties that I voted for, as our existing rules allowed political parties that did not win elections to stay in government for a long, long time, through various mechanisms.
+
+And, as in many cases I observed in Italy since the early 2000s, it is quite easy to "smoke 'em out", i.e. see the motivation- however grandly wrapped.
+
+So, an experiment: changing rules so that we can become a more ordinary country would be a first step toward developing a national industrial and development policy, something that eluded us for decades.
+
+<b>Techn&eacute;, technology, and technologists</b>
+
+It is curious that instead we are starting the other way around: the Recovery and Resilience Facility part of NextGenerationEU, as well as its Italian element PNRR, de facto were another "Monnet moment"- actually, if piled up with the additional energy initiative, and all the others linked to the invasion of Ukraine by Russia, it would be interesting to tally (and track the evolution) of all the commitments and structural changes that have been de facto introduced.
+
+Usually, we a debate ex-post, not a political choice ex-ante, followed by an implementation proposal by the European Commission, etc.
+
+And, frankly, that we are unable now to allocate those PNRR funds, it is no surprise, if even an external observer as myself wrote that since the beginning, and apparently none of the President of the Council of Ministers since at least a decade was able to implement the reforms needed to make that work. 
+
+I am not referring to Conte II 2019-2021 and 2021-2022, as both had to fix the engine while driving. I am referring to those between 2013 and 2019 (Letta, Renzi, Gentiloni, Conte I).
+
+Yes,as you saw in the sections "Changing cultures is not painting by numbers" and "The Lego(tm) bricks of a positive change", I am not really a fan of those theories that have a mechanistic idea of why we humans makes choices.
+
+Do not consider ESGs just something nice and trendy and useful to get likes while changing your balance sheet- as OECD Guidelines for Multinational Companies, and SOX, it is a matter of Weltanschauung- a kind of guiding light that shold be "embedded" as a background in your choices.
+
+Personally, also when I had a chance to say my five cents on the new forthcoming version of the PMI reference guide on Program Management, my suggestions were aiming to "embed" ESGs within the business case definition for a program.
+
+If you follow my Linkedin profile, you can have a look at the courses, workshops, webinars I keep following.
+
+It might seem an unusual mix, but, as you saw here and there in articles, projects, applications, books, it is actually a reasoned selection to keep looking at trends while focusing on my own bits, and keep the mind open.
+
+Also, often this helped, in the past, to be able to share pointers or contacts on a mission where I covered a facilitator or coordination or negotiation role.
+
+It is a risk: just because you worked on a project with experts in A for few months, and (as I do) went deep-dive into books, material, etc up to the point of acquiring the lingo and getting an understanding of their mindset good enough to be able to pre-empt them, it does not mean that you are "operational", or able to work autonomously on that.
+
+The risk is doing as those who followed course based on a single book and multiple-choice questions exams, and then... convert any problem into a nail apt for the hammer that they learned to use in that course.
+
+So, I wil not list here course, webinars, workshops, or even books- just have a look at my profiles on Linkedin or Facebook, or my [online book catalogue](https://www.librarything.com/catalog/aleph123) (where usually mark a note whenever I read a book worth sharing about, and when I have time also a review- but I am always few books behind schedule).
+
+As an example, both COVID and the invasion of Ukraine altered our perception of supply chain resilience, and that generated a change within concepts that were traditional in e.g. defining suppliers-customers relationships.
+
+You have to contextualize business within the geopolitical trends- something that I learned by reading and observing and political activities (as well, later, business activities on decision support) long before attended in 1994 my first summer school at LSE in London on International Political Economy.
+
+It doesn't take that much effort- e.g. just reading Foreign Affairs can show you how policy debate is not restricted just to politicians or political scientists, notably in our data-centric times.
+
+There is a place for "vertical expertise", but even in those cases, if you get up to the strategic level, a look at the World at large can avoid significant business blunders: you get promoted for what you did, but you need to have a look at what your new role requires.
+
+You might have been a "techn&eacute;" guru in finance, IT, logistics, production planning, product development, R&D: but when you get exposure to the World, you need to blend that with something else, as otherwise you risk "cocooning" in what you know whenever there is a need to make decisions under uncertainty.
+
+A good starting point is having the possibility to "fail early, fail fast", e.g. by having entrepreneurship programs (for larger companies, probably in house; for smaller ones, maybe as part of an industry association), to test the boundaries of your ignorance, and learn how to cope with them, while retaining your expertise (if that is needed). 
+
+<b>Space, the new frontier: inside and outside</b>
+
+Well, the title of this section shifts from down to Earth to up in space.
+
+But, really, it is something wider than mere physical space.
+
+My birthplace, Turin, has some activities within that industry.
+
+While the "aerospace city" is yet another of the local "ompetence" and "manufacturing" centres, it is something that actually comes from decades of activities, not something improvised as a launch pad for space tourists.
+
+Something that requires a continuous development of human capital- covered also by the local Polytechnic and its collaborations within the industry- both in Italy and abroad
+
+While today at 18 CET will gladly (connection permitting) watch the first "live" in a long time since March (I remember the 1970s images, and watched live as a kid the first walk on the Moon broadcast live in 1969), this section is about something more.
+
+Consider "space" as a frontier, and consider what this implies.
+
+In our times, often both politicians, industrialists, scientists talk as if we were in a "mass production" industrial society.
+
+While building a space station will probably stay a multi-decade and multi-billion business that requires government- or multinational-level funding and management, diffusing knowledge about technology, data, and their integration could actually alter something else.
+
+I do not know if you remember, but probably in large part as a publicity stunt, some of the Shuttle experiments were at least selected by what now would call "citizen scientists" (schools, etc), not just State or corporate or academic sponsors, e.g. [these](https://www.nasa.gov/missions/shuttle/experiment.html).
+
+Having "citizen scientists" integrated within science would require extending the access and sharing of basic STEM knowledge- probably starting from kindergarten (and the same applies for other skills).
+
+I think that this should happen through hands-on, not the usual "one book, one multiple choice exam": and I am not one of those who thinks that it is important to have ChatGPT constrained, confined, or even ruled out.
+
+In the end, while it would require a different response logic (similar to the one adopted by Microsoft), but, if you consider the average quality of human responses, even that shown by "experts" on TV during COVID, where in debates often experts in A started lecturing on B C D with visible (if you had just read and studied a bit about B C D) "thin ice skating" and sometimes curious "padding".
+
+So, it is more a matter of knowing and monitoring weaknesses- which is easier with a software than with a human that has a social status to defend.
+
+The space industry is promising (again) to add more materials, more innovations, etc.
+
+If it will be integrated in our economies, will require real embedding in our processes- beyond the usual actors (State, multinational organization, corporate).
+
+What does "embedding" imply, in this case? Any result and information exchange will have to generate benefits across, i.e. help to improve or tune services and products.
+
+Including what will be done by citizens in our data-centric society.
+
+The risk is always the same, when integrating technology within society- including space technology with data and e.g. Edge computing technology.
+
+In business, not just IT, and also in policy making, often way too many have more than a whiff of "homo economicus" as a fair representation of human behavior, that hyper-rational decision-maker.
+
+Instead, I am more inclined by experience, study, observation to integrate the context (cultural, social, economical).
+
+Yes, over the last few decades the number of specializations and certifications skyrocketed, in business.
+
+And this is the paradox of hyperspecialization: we expanded the number of narrow fields of expertise, expanded therefore the number of experts, but then kept as a reference of success.
+
+In order to achieve the latter, we had side-effects such as countless debates between specialists during the COVID-19 early stage, in 2020.
+
+Many known for a specific segment of a specific domain, suddenly had the urge to appear continuously on TV and other media, presented as experts in their own domain, quarreled with others about different domains.
+
+The Dunning-Kruger effect is akin to the "Psychologie de la connerie": while some claim to have a clear idea of what is a stupid (a bland translation of the French "con"), as soon as they define with absolute certainty how others are "connards", end up behaving as those that they describe.
+
+As for the public: got used since the 1990s to see countless experts fill first TV stations airtime, then YouTube, Facebook, and also Tik-Tok.
+
+No expertise needed also to provide medical advice, apparently.
+
+In our times, appointing an expert in whatever to lead a team would require first to assess if, beside being an expert, is also to act as a "bridge".
+
+Otherwise, sometimes experts could be charismatic and convincing enough to silence others within the team: yes, even those assuming or recognized to be smart can be "connards".
+
+But if you prefer, you can read also C M Cipolla "Allegro ma non troppo", which includes "le leggi della stupidit&agrave; umana"- I wrote a post commenting it over a decade ago, while living in Brussels and after experiencing from Italians both in Italy and in Brussels a taste of the tribal mobbing habit I then routinely observed in Turin since 2012.
+
+Curious when those that should know better adopt behavioral patterns that you would usually associate with significantly different types, and I had first observed in Southern Italy in the early 1970s from people that now we wold define organized crime.
+
+But this is an element of tribal behavior in advanced societies: the social status of members of a tribe shields them from assessing their actions as they would assess the same actions if carried out by members of another tribe- in Italian, we call that "terza narice" (third nostril, i.e. smelling only flowers whenever something comes from your own tribe). 
+
+Integrating across the board the "inside" (how we humans interact with the environment) with the "outside" (i.e. up to all the technology we are embedding into anything, eventually integrated also with what will orbit around our planet) is something I read about since at least the 1990s, when Internet started being available for commercial uses.
+
+Often, even recently, that debate is again a little bit mechanistic: as if we humans were that hyper-rational decision-maker.
+
+Designing services and product that, in the future, will integrate with our environment on a data-centric perspective should consider also the "inside" element- which is what makes us unique.
+
+Otherwise, we will lose what allowed us to evolve as societies since we were cave-dwellers- and makes us different from machines.
+
+Hence, a paradox: it is how we will decide to integrate, at a systemic level, all that technology with us human, that will define the future.
+
+Which reminds why political choices, even when made by businesses (as it happened since forever), should have a social framework of reference.
+
+As I said decades ago to prospects who looked for somebody to work on introducing the first ERPs softwares but had no map of what made their organization different from another one: if you do not include your own culture within the picture, you end up importing the "standard" culture implied by those end-to-end platforms.
+
+Which makes sense, if you can identify specific domains where your needs and culture match the proposed one- but, as a large Italian company said at a user group conference years ago: they learned the hard way that the key is to use what matches what you want, and not use what does not, instead of trying to alter it- as it will be a recurring cost to align and will "constrain" your own evolution.
+
+So, you need your own systemic view, not just pile up bits that have their own culture embedded- and ignore both yours and theirs.
+
+<b>It takes a Trantor, not a village</b>
+
+Going back to examples, [shared in the past at least 12 articles where I quote "Frankenlaw"](search.php?tag=franken_law) (as of 2023-06-01), when writing about Italy's approach to law-making over the last few decades.
+
+Say: we need a comprehensive law on A to replace our traditional tinkering assortment delivered over decades (or even more)?
+
+The idea could be have a look at what others do- and their context.
+
+Instead, we go the "village" way: we get a bit from the "village France", a bit from the "village Germany", a bit from the "village UK", and of course a bit from the "village USA".
+
+Why "village"? Because, whenever carrying out those activities while ignoring the context, we end up considering each source as a self-contained system, ignoring not just its internal context, but also its external context.
+
+I jokingly started calling my birthplace Turin "Macondo sul Po", for its habit of presenting itself as the measure of the universe.
+
+Or even "Macondo am Po", when locals present a less-than-realistic plan as if it were a Blitzkrieg plan that has no alternative.
+
+And curious how the local mindset acts as a virus: once local, many from outside align (I remember a joke in a conference decades ago about somebody who, despite coming from another region, had understood the locals quite well and was integrated with another tribe).
+
+Actually, if you were to read the local pages newspapers, it is something that many from outside understand: and pay hommage- reminding me of the funny story of when the UK Ambassador had to send a letter to the Emperor of China as if UK were a vassal, not just another country.
+
+As those who worked with me across Europe (and, to a more limited extent, in person or remotely, outside Europe) know, I try to understand the context and the mission as soon as I get onboard- up to the point of spending time after signing the contract but before the official start to be able to "hit the ground running".
+
+So, I had sometimes, for different customers but over the last decade also for the same customer, multiple projects where I covered different roles: in some was officially project manager, in others senior BA, in others facilitator or negotiator, in others coordinator, etc.
+
+In the Army, we trained a bit (unusual, in Italy) before field training, as artillery specialists sending up balloons in the air to give information about wind etc to artillery.
+
+Most of our training between field exercises was actually in classroom, also due to budgetary constraints, but the idea was to keep the key concepts alive (and, later, when I became office-bound, I had a chance also to read books from my Lt coming from the Artillery officers' school).
+
+The key element was that when doing our activity with balloons we had a hierarchy- but based on knowledge and skills, not on rank.
+
+So, the 2nd Lt coordinated the team, and in my first training field, as I was the fastest to roundup numbers, I was... giving numbers.
+
+That experience reinforced what I saw in political activities abroad: there was a time for talking, but in some events I just spread leaflets, or helping clean up after, or even held (it happened once) a flag over the head of a politician that was talking below me.
+
+I think that there should be pictures around- frankly, I never collected my scribblings from others, before I had to do for work and traceability, and never collected pictures of myself: I liked being invisible, until somebody decided otherwise in the early 2000s.
+
+Which means: the service in the Army, a completely different environment for a completely different role than the one I had in few political activities, taught me about flexibility of roles within a team- based on the shared goal.
+
+Something that I kept doing- e.g. in my latest mission used a bit of my unofficial Jupyter and Python skills to leave behind a simple data-conversion script, when nobody did it.
+
+Ditto in the early 2000s, in a web project where I was supposed to know nothing about technology (that was the request from the customer when asked me to be part-time project manager), but saw that the architect knew nothing about web vs. client-server architecture: I shared with my team a document of a couple of dozen pages on the approach I had designed and applied at the time for my own website (I had my own website since the early 1990s, and registered my first domain in 1997, selecting immediately to host it elsewhere, not on my own server), for session management.
+
+So, this is the background: be flexible- but have the skills needed to know what you do, understand what the others in your team do, and, as soon as the team is stable entity, roles are linked to need, not to status (albeit accountabiliy stays, in most projects, with a one person- the "all the team is accountable" is a nice concept, but it is easier to replace a person leading a team than a team, after activities started).
+
+Back to "Frankenlaws": the first issue is of course losing the internal context of each "village" where you source each component; the second is, of course, losing the context of which interfaces with other "villages", and the relative strenght and status of relationship, that they have.
+
+So, even if you assume that juxtaposition of those components that are virtually marked "made in Village A" into a coherent whole, you still risk assuming connecting them using your own logic before understanding their own logic (you removed a part from an unknown whole), and adding on top assumptions that, probably, due to time constraints, will interface them together assuming what would work with you.
+
+It is fine, as long as nothing changes and you are lucky enough to "inherit" a context compatible with your own.
+
+What is Trantor, in the title of this section? If you read Asimov, you know- otherwise:<i>"The Galactic Empire is an interstellar empire featured in Isaac Asimov's Robot, Galactic Empire, and Foundation series. The Empire is spread across the Milky Way galaxy and consists of almost 25 million planets[1] settled exclusively by humans. For over 12 millennia the seat of imperial authority was located on the ecumenopolis of Trantor, whose population exceeded 40 billion,[2] until it was sacked in the year 12,328. The official symbol of the empire is the Spaceship-and-Sun. Cleon II was the last Emperor to hold significant authority.[3] The fall of the empire, modelled on the fall of the Roman Empire, is the subject of many of Asimov's novels."</i>
+([source on Wikipedia](source https://en.wikipedia.org/wiki/Galactic_Empire_(Asimov))).
+
+So, a fictional planet that is kind of bureaucratic centre of an empire- a kind of systemic, collective brain in a galactic Leviathan.
+
+Anyway, it useful as a concept: imagine a planet with 40 billion inhabitants that is just a single bureaucratic centre- containing only bureaucrats, their families, those providing services to them, and the families of the latter.
+
+If in such an environment what concerns all the other 25 million planets is known and collated, then you have to decide how much stays local, how much is shared and how, and how much is central.
+
+One size fits all probably will not work- as I heard from branches of multinational companies in the 1980s, complaining that centrally-defined rules were fine for the central offices, where they had dozens of people for each function, while in some cases locally they had just a couple of people covering all the roles.
+
+Jump forward to the early 2000s and, as I wrote years ago, I found myself defining an information service for local authorities.
+
+The business proposition? Brussels and Strasbourg were issuing countless documents and practices that should be implemented locally, or at least required local understanding to access central facilities (and, often, funding).
+
+Anyway, reading some of those documents, I questioned myself: well, I understand most of it because worked across different industries and technologies, but who, in local authorities, would be able to?
+
+I selected those betweeen 50k and say 500k or a bit more, as the smaller ones would have had no budget and no people to interact with- maybe just one receiving everything and then dispatching what (s)he understood.
+
+Had few checks, and confirmed there was interest, but... most regional governments had assigned the budget needed to a single entity, that decided what was needed for local authorities.
+
+But that was not reason why I pulled the plug to the concept (I shared the reason elsewhere- it has to do with my choice of being bipartisan): I learned a bit of how the business side of politics works in Italy.
+
+Anyway, that feasibility study and market prospecting was useful to revamp my interest in how Italy worked- also if then decided to halt my return to Italy and, by 2005, applied for a residency permit in Brussels after having an apartment there.
+
+The key element is therefore the design of your information flows and their contextualization within the organizational capabilities.
+
+In our technological times, it will soon probably feasible to streamline most of the "filtering" activities, e.g. as I wrote at the end of the previous article- by having a central interpretation model able to process all the hundred thousand pages of laws regulations etc issued by Brussels, and overlay on that when needed a layer for the national level, plus a layer for the local level.
+
+It is a matter of definition of the degrees of freedom within laws and their implementation, but integrating also monitoring and feed-back cycle to enable continuous improvement.
+
+How this will evolve from a democratic process standpoint, is to be seen- but, if you think that this the same mechanistic trap I was discussing above, consider that in this case at least will be traceable and transparent, if that is the shared intent- better than the latest trend of having the "executive branch" present pre-packaged, almost monolithic (take-or-leave) policies to the political level, that then has de facto a take-it-or-leave-it.
+
+As I wrote above, it is a trend that we had in Italy for a couple of decades, but frankly since 2019 it is increasingly the perception from outside the building of what Brussels is doing.
+
+Still, I think that a Brussels-Trantor could make sense but only if it were less imperial and more collaborative and with higher democratic legitimacy, not an "appoint and forget". 
+
+How will the EU integration evolve is yet to be seen- personally, I think that we need more integration but also more democratic accountability and oversight, not less.
+
+I saw in the late 1980s and early 1990s how this would be an excessive burden in business, and how eventually companies altered their own culture to integrate e.g. ISO9000 in their mindset, not add compliance as an ex-post.
+
+If regulations are designed assuming a specific "way of doing", those who have a different approach risk at best to have two layers of compliance- internal and external.
+
+But how the integration will evolve could actually imply how much cohesion will increase or decrease, and if we will go toward a multi-speed (or multiple circles of integration) model that already commented while started living in Brussels, almost 20 years ago.
+
+It will be interesting to observe how the next laws and policy choices in Italy, as well as the next evolutions of the EU due to Russia's invasion of Ukraine, will affect the overall systemic integration and resilience.
+
+The NextGenerationEU was a nice concept, but it is the execution that will increase or decrease cohesion, and steer further integration.
+
+And now, to close this long article, the last section.
+
+<b>Publication announces</b>
+
+This will be a really short section- I shared in the first section of this second part of the article the announces about what I already did- so, you can read and access the material now.
+
+In this section, I would like to share instead what I am working on.
+
+My approach to project management is [on my projectmanagement.com profile, under the "PM Expertise" tab](https://www.projectmanagement.com/profile/profileFinder.cfm?theUsername=aleph123#_=_).
+
+In politics, I observed, as I shared in my only book published in Italy ([you can read it here](https://robertolofaro.com/strumenti)), the concept of short-, medium-, long-term preparation.
+
+Will keep sharing online, so if there is anything worth recycling locally, I will not be the management consultant doing it, but I have no doubt that there are others who could develop those ideas and concepts, or criticize them to find better and new ideas.
+
+The key element, as hinted above, is that part of continuous learning is to apply what you learn to "cross the Ts and dot the Is"- it is how designed courses when delivering them, but my concept is that you have to "own" the activity you work on: just acting as a trained montly, as many courses assume that you do, repeating step-by-step exercises without explaining the logic, is not enough.
+
+In German there is a nice saying "&Uuml;bung macht den Meister"- i.e. exercise is needed on the path to expertise.
+
+Therefore, I am currently working on more books that will again be released [on leanpub](https://leanpub.com/u/robertolofaro) in digital (free with the option to pay), and as paperback on Amazon.
+
+In order to support both new articles and those forthcoming books, I will also release new datasets and update existing ones ([always listed here](datasets)), albeit some elements will be added online only upon release of the associated article, book, course.
+
+Meanwhile, you can follow [my facebook profile](https://facebook.com/robertolofaro) and [linkedin profile](https://linkedin.com/in/robertolofaro) for interim updates and news commentary, or, if you work in project/program/portfolio/change/vendor management and PMO, can [send an invitation on projectmanagement.com](https://projectmanagement.com/profile/aleph123).

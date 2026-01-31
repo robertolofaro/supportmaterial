@@ -1,0 +1,215 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20231029_08_jacket_20231029_article.png)</center>
+
+If you were to print the 7 articles in this series that published before this one, you would get over 100 pages- i.e. approximately as long as the [longest of my mini-books published since 2012 to potentially support consulting activities](published).
+
+And this, despite articles in this series being generally shorter than my standard fare (e.g. this article contains less than half the words within the article that posted yesterday).
+
+Hence, this article is to share not a conceptual architecture or a work in progress, as it was in many articles within this series, but the completion of the first stage of a product- a usable prototype that will use as a platform for something else, and the overall concept of the next phases of this product, and how it overlaps with data products discussed in previous articles of this series.
+
+The reason is simple: I had released other digital products in the past, and worked already since the 1990s to support the delivery of both physical and digital products from various companies and startups, in my organizational development and business number crunching management consultant roles, long before supported startups in Turin on business and marketing planning.
+
+Anyway, so far what I had personally done or designed on the physical side was mainly to solve my own needs: if you travel often, sometimes products you purchase lack that small detail that makes them useful to you.
+
+And if you buy electronic products but have also at least in part a science and technology background, you end up thinking of and applying improvements.
+
+Actually, all the digital products that I released since the 1990s were derived from personal needs, also the first one I sold in the early 1980s, a computer software to solve visually and symbolically 2nd degree equations to be used on a home computer called ZX Spectrum (using concepts derived from gaming features, with multiple windows), and my interest in understanding more on various subjects.
+
+When do I call something a "product"? When the audience is wider than one (person, company, organization, etc), and has to be managed across a lifecycle, including versioning, integrating, etc.
+
+Formally, [using ITIL V4 Glossary](https://purplegriffon.com/downloads/resources/itil4-foundation-glossary-january-2019.pdf): <i>"a configuration of an organization's resources designed to offer value for a consumer."</i>
+
+What is a product lifecycle? [from PMI PMBOK Lexicon](https://www.pmi.org/pmbok-guide-standards/lexicon): <i>"The series of phases that represent the evolution of a product, from concept through delivery, growth, maturity, and to retirement."</i>
+
+You can find many of the digital products that I realized to support my activities "embedded" within this website, albeit, on purpose, the <a href=index.php?page=519">products available</a> and [products on going](index.php?page=520) sections of my website are still showing "coming soon", while some of the most complex products that realized since the 1990s instead are offline.
+
+The rationale of those two sections [is described here](index.php?page=518), and will be part the next volume of [#QuPlan - A Quantum of Planning (vol. 2 of "Connecting the Dots") ISBN 978-1508673422 2015-03-23](index.php?page=89).
+
+If interested, you can read that book (along with all those part of the "Connecting the Dots" series published so far) for free [here](index.php?page=349), and later this year some of my past books will get a new edition in a different format.
+
+Back to the main purpose of this article: a couple of years ago, at a local event organized by the Club Dirigenti Informatica in Turin, we were given a badge showing which "tribe" we were assigned to: from my badge, I was assigned to a blend of physical and digital.
+
+Well, part of my activities during COVID lockdowns in 2020 were on updating my AI skills (something I had already started in 2018, when I studied R and purchased and tested an [Intel Movidius](https://movidius.github.io/ncsdk/ncs.html), neural network on chip), and part on recovering older skills- which included buying electronic components and low-cost SOC or processors.
+
+Anyway, I always blended the digital and physical- albeit not necessarily on digital or physical products.
+
+In 2012, after a mission in Turin that brought me also in Brazil and USA, while lived for a year in the mountains of Piedmont while studying and preparing new digital products, learned some practical wood-cutting skills that never had before: Internet is useful, beside pictures of cats, if you want to learn new skills, not just within the digital realm).
+
+My "skills recovery" from those 2020 lockdowns included also recovering and expanding some... sewing skills.
+
+And, after applying my usual approach to skills recovery and development (more about this later, if you have not read articles about the concept that I posted before- otherwise, skip the preamble), and some practical results (modifications, a simpler physical product that had just an audience of one- myself, repairs of increasing degree of complexity, etc), shifted to creating something a little bit more interesting.
+
+Therefore, just a short preamble to contextualize background and project this prototype is coming from, and then the concept itself:_ preamble: the background_ introduction: the project_ testing ground_ appendix: key structural elements
+
+<b>Preamble: the background</b>
+
+A quick digression: my approach tested in business since the late 1980s, but before in other environments, whenever I have to develop or recover a skill or competence is simple.
+
+Find something understandable or relating to something you already know, and then expand from that.
+
+In the past, books were the only option, unless had to work on activities with those who already had those skills.
+
+Nowadays you can find some interesting bits also on YouTube and countless online learning platforms, as well as physical and digital books (and even online discussion groups where some are willing to share their expertise).
+
+I consider GPTs such as ChatGPT and others useful for formatting or exploring, but would not reuse what they provide, unless I have checked it elsewhere: they are mainly probabilistic, not deterministic as used to be PROLOG.
+
+Whatever the initial source, then, as I did on various subjects, I still prefer to blend books and experts and courses- the latter preferably in videos, as then I can "tune" speed or re-run according to my understanding (and integration with what is already known).
+
+I remember that once, a couple of decades ago, while visiting my brother in Brussels (I was living in London and working first in Paris, then Paris and Zurich), I was offered to join a group- and they met routinely, and had two experts for each domain, to avoid having a single influencer take them on a wrong path.
+
+Hence, it is not just journalists and myself who look to avoid single-sourcing of knowledge (and, frankly, also products and materials).
+
+Another point: whenever I have to approach a new domain, of if I had to update on a domain that I worked in long ago, beside doing what covers immediate needs, I also try to identify introductory material to hand over to others if needed to get somebody else onboard.
+
+Seems quixotic, but it is, in the end, how I started developing my own personal library.
+
+And, in past projects where I was project manager or covered other coordination roles since the late 1980s, routinely happened that it was useful to have at hand a book (or a report I had written as part of feasibility studies or assessments) to share.
+
+As I wrote long ago, on the Internet many read a book or follow a course and then call themselves "experts"- personally, I prefer to "integrate", hence the "Connecting the Dots".
+
+Which requires more that a "single shot" to nail it.
+
+Also, it requires continuously looking at your context.
+
+This series of articles started on 2022-09-15, just before national elections in Italy, and therefore it is quite coherent that a further article appears right after wrote of further forthcoming elections in Italy.
+
+I am referring to the 2023-10-28 article [The Italian way to economic policy: from Mattei to a cacophony of tribal actors #recovery #sustainability](index.php?page=530), which in turn was an evolution of an article published on 2018-03-15 [Per una politica industriale che veda oltre le prossime elezioni #industry40 #GDPR #cybersecurity / For an industrial policy that survives election cycles #industry40 #GDPR #cybersecurity](index.php?page=138).
+
+Somebody, half-jokingly, would say that actually this is not so unusual, in Italy- 2018, 2019, 2020, 2021, 2022, 2023: in each year, we had some elections somewhere, and, whatever the scope, the elections were discussed and heralded as a "sign of a trend".
+
+Hence, while I wrote routinely my commentary on how things are evolving in Italy, on the social, political, economic side, in background I keep working on applying what I learned in my activities since the 1980s, and routinely updating, doing experiments, pruning when needed.
+
+As a teenager, I liked to design clothing, furniture, buildings, and associated ways to integrate- e.g. thinking about how a city built from scratch would make sense.
+
+Due to obvious means and knowledge limitations, then I applied most of those concepts to black&white architectural photography (I also developed my own B&W film)- no wonder that people sometimes complained that in my pictures there were no people.
+
+On the clothing side, I had time just to learn "fixing" and try to develop small modifications to existing clothing, e.g. adding a pocket or altering a design, while picking up "component skills" (sewing, knitting) that never really used for a long time.
+
+Then, around 14 or 15, shifting to high school, gradually my interest in studying cultures, politics, science, and of course computer science took over, removing all the other skills from when I was 17.
+
+Still, those sewing skills were useful when, from the late 1980s until the late 2000s, I was often travelling, mainly for business (my concept of "vacations" is to carve time or few days, unless it is a "culture exploration" or "continuous learning" that requires few weeks in a specific location): you would never imagine how easy is to tear something when you keep shuttling around, or, as I wrote before, how often products (from clothing to luggage to computers) that you buy could better suit your needs after some minor changes.
+
+In my view "hacking" has nothing to do with what most computers hackers do- should be about improving and expanding (ditto for hobbies), not to undermine or build a tunnel vision.
+
+In 1994, after being for a while a pen pal of somebody in Mensa in UK who had covered organizational roles internationally, was invited for another dinner where there was a psychologist from Mensa Germany and the co-founder of Mensa (I should have still somewhere in my boxes his business card with the Athenaeum Club address).
+
+At that dinner, the psychologist said that she advised against putting on your CV your Mensa membership, as most employers considered that high IQ implies less willingness to take risks and adapt.
+
+And, frankly, after meeting many Mensa members around Europe (and some from outside Europe), I have to agree: many like to be perceived as superior or perfect, hence take no risk once they find something they excel in.
+
+Well, I am of a different breed: over 99% of what is on my CV did not came from school- learned and keep learning all across my business and non-business activities since the 1980s.
+
+If you use my approach whose purpose is to "embed and connect", you are actually opening to doors to more failure- "fail fast, fail early" is not just a slogan.
+
+If you focus instead continuously on saving your face... you end up as in my country the day after the elections: it was (and still is) a routine to all identify some reason to rejoice also after being trashed by your "competitor".
+
+And getting a new knowledge domain is not a matter or reading one book- but a dozen or more, and then trying the "embed and connect" as often as you can.
+
+Finally, it is a matter of collecting, collating, summarizing, thesaurizing information- which allows further "embed and connect" in the future.
+
+As somebody said (and shared with consultants that I had to transfer knowledge to in the 1980s in decision support systems model building), when you are able to teach something after doing it, it is when you start really understanding.
+
+Therefore, also when it comes to sewing, this project was just a first step.
+
+And now, the project and its lifecycle.
+
+<b>Introduction: the project</b>
+
+If you read the previous article in this series [Organizational Support 07: Experiments in prototyping human-IoT interactions in decision-making using open source and low-cost](index.php?page=517), focusing on the "project" section, the discussion was about data and integrating theme within an architecture that includes we, then humans, and our environment, notably sensors within an urban environment.
+
+But also your car: while some insurance companies already offered a discount if you accept to install what is basically a box with sensors monitoring how you use the car (or even integrating with data produced by the onboard systems of your own car), I think that eventually also other financial institutions will use that kind of approach.
+
+E.g. to pre-empt fraud, notably now that many credit cards are virtual on your smartphone- lose your smartphone, lose your identity, unless...
+
+... the patterns identified by sensors on your smartphone do not match with your patterns, and therefore generate an alert.
+
+I wrote at the beginning that a couple of years ago at an event was assigned a badge stating "digital and physical": and this is what happened with this specific product.
+
+It all started with a simple need: there is a jacket that I like but had its internal lining severely damaged: it started with a small hole from a nail, then a door handle catches exactly that hole... and you end up with something that cannot be fixed, has to be replaced.
+
+If you looked at the books I published, there is one with an unusual subtitle, that published in 2021 ([Book12. The business side of BYOD 2: you are the device & privacy at Edge 979-8539685225 2021-12-29](index.php?page=465)), as a follow-up to a previous book published in 2014, always about devices, humans, and built up on what I had learned on IoT and sensors via IEEE and tech events, e.g. a 2012 workshop in Milan, Italy, and prior events while I was living in Brussels from mid-2000s, and before that while I was living in London from late 1990s.
+
+So, my immediate need was to do a replacement, while, along with what I wrote in articles posted in this series since September 2022, wanted to integrate also myself as a tester.
+
+Hence, decided to look at the overall picture, by asking few questions:_ how often do I need to replace or fix the internal part of a jacket, overcoat, etc?_ if I were to "smartify" clothing, would I like to do that on a piece-by-piece basis, or have a setup to migrate?_ what would be needed?
+
+The simplest way to fix and replace would have been to have... somebody else do it, i.e. sew in a new lining for my jacket, keeping also the original pockets etc.
+
+If I wanted to do it as an experiment to test my skills, would have to first develop those sewing skills way beyond what I did in the past.
+
+So, I started first to get increasingly complex fixing or alterations to do in my spare time in week-ends or evenings.
+
+But while developing those skills, identified some answers to those questions and further questions:_ if it were a clip-on, clip-off, wouldn't be easier to keep the configuration?_ for this specific jacket, as it is relatively tight, would not be possible to have a kind of internal "smart jacket"_ for this or other similar cases, should I use zippers or buttons or something else?
+
+<b>Testing ground</b>
+
+Those questions, and more derived from them, guided me to do some experiments and develop incrementally a choice.
+
+First, as the jacket I liked anyway has some life left into it, but I do not know how much, could be used for smart wearable experiments.
+
+Hence, decided some answers, and I will share the choices made in the order were taken- I will not share for now the dead ends.
+
+What are dead ends? Learning opportunities.
+
+In any experiment that you build incrementally on, there are bound to be dead ends that generate iterations to maybe undo-redo or just fix.
+
+Something that anybody who worked even just to build a relatively complex Excel spreadsheet is well used to.
+
+In this case:_ selected the clothing lining fabric_ decided to build an exoskeleton in Velcro_ selected to remove completely the existing lining fabric _ designed and developed a really light internal, detacheable jacket_ installed the exoskeleton in Velcro within the jacket_ then worked on completing and reinforcing the whole. 
+
+It is now completed, but will share the pictures of the process and structures in a forthcoming book- I share a picture within the Appendix.
+
+The next step?
+
+Testing by wearing, fixing anything that might needs structural improvement, revise the full Bill of Materials and process to assemble, and then...
+
+... the next increment will be to "merge" it with the IoT side that discussed in the [previous article in this series](index.php?page=517).
+
+As in the end what started as a simple more flexible replacement for the lining of my jacket in reality became a platform to be shared across multiple pieces of clothing, and not linked to any individual one, allowing to blend choice of clothing with choices of smart integration. 
+
+So, if you are in Turin and will see me with this jacket...
+
+... you will now that it is an experiment that will grow incrementally.
+
+As I wrote in previous articles: I will do other experiments- from batteries, to sensors, to other elements I already wrote about in 2008 within articles now offline, including as an April Fools' joke.
+
+No, I will not share for now the Bill of Materials- but will be part of a future mini-book, after will have done the first "smart" implementation by adding some electronics.
+
+Stay tuned for the next line converging in this series.
+
+Meanwhile, a short section with key structural elements.
+
+<b>Appendix: key structural elements</b>
+
+First, why Velcro?
+
+Easier to install and remove than zippers and, while less "cool", more able to accept minimal damages.
+
+Downside: if you are like me, on a windy day you could be a [static electricity](https://en.wikipedia.org/wiki/Static_electricity) generator... 
+
+I remember an experiment as a kid to build a <a href=https://en.wikipedia.org/wiki/Van_de_Graaff_generator">Van de Graaff generator</a>: it will be part of my wearing experiments.
+
+I selected not the adhesive ones, but those that can be sewed, to be able to improve resistance to multiple strap-and-attach cycles.
+
+To have stronger sewing than the original one in the jacket, decided to do it manually and not by machine, to avoid having superficial threads where you just need to cut a point to loosen the whole thread.
+
+As a consequence, on the bottom, side, top of the collar neck, and back added a further lighter cover.
+
+This allows both to easily replace parts that will be subject to more tear and wear, and to allow to have stronger sewining beneath.
+
+This is how it looks completed but without the side covers (i.e. showing how the sewing is done under the cover that you can see already in place at the bottom)..
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20231029_08_jacket_20231029_minigonne_f1.jpg)</center>
+
+This being a prototype, of course its purpose was also to develop the measures and process to assemble, so that the next one will be faster to make, and show less imperfections (which are fine in a prototype, if you want to test it faster- adding bells and whistles can be done later).
+
+It was again an iterative approach to prove the concept, and then an incremental whenever a "layer" was completed.
+
+While this version is royal blue (as the external jacket is dark blue), preparing a second version would benefit by:_ having all the cutting done upfront_ having an assembling process to follow_ leaving as a choice only to decide color and color of the thread to be used.
+
+In this one, to test and more easily identify issues, while the visible (i.e. "cover") thread was dark blue on the lining, and black on the jacket, the sewing on the lining was grey, while the Velcro was white (easier to spot if the thread is lost or misplaced).
+
+In a "production" version, If the color choice of the lining had been black, probably would have chosen black for the former, and as well as for the latter, and I would have used black Velcro.
+
+It is not industrialization (yet), but it is engineering for reproducibility- from the Bill of Materials down to the application and (after will have produced the final version) the quality testing to ensure that is within the specifications.
+
+For now, will first have to "test drive"...

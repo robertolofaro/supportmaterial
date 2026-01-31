@@ -1,0 +1,205 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20230815_article.png)</center>
+
+This morning shared on linkedin:<i>
+"I wrote a long post about #contextualization of #continuous #learning and its side-effects in terms of a #Pavlovian reflex
+
+Well, it was lost due to a Linkedin SNAFU
+
+Let's just say... will add a section within my forthcoming article (later today)
+
+Meanwhile, a link to a relevant book that published a decade ago, https://lnkd.in/d9kc7Bsx
+
+The only one that published in Italian (but might release a second edition in English, eventually) ð
+"</i>
+
+Yes, I have that bad habit: observing reality, thinking, and then using my smartphone to jot down notes that might or might not eventually evolve into articles, books, projects.
+
+As I wrote in previous articles, it has been actually something that did since the 1980s (back then, was using paper), to share knowledge.
+
+But, as you can imagine, such an habit is not born out of thin air.
+
+This article will discuss the concept outlined above, but starting with the background, and then extending on what this implies in an organization.
+
+I will use plenty of examples from my own experience since the 1980s, but to derive learning points for the future.
+
+Few sections for a short article:_ some background: sharing knowledge as a habit_ continuous learning: what really means- and doesn't_ it takes a collaborative environment.
+
+<b>Some background: sharing knowledge as a habit</b>
+
+My parents had a typewriting machine, so at 9, beside learning other things (including knitting, ironing, sewing- I am not joking: I never understood what something was restricted to boys, and always liked modifying objects, including clothing)...
+
+... learned to use that mechanical typewriter to write relatively fast.
+
+If you ever used an old mechanical typewriter, punching each key is akin to throwing fingers into something semi-solid.
+
+Sometimes, I wrote something short for myself, but was also used to sit down and just write, as I was used to sit down and read... also when I was forced to play, as the other boys, soccer- I liked to be a goalkeeper, those few times, as I could read while the others were kicking themselves around the field, before moving my way.
+
+Well, yes, I liked to jump on the ball, but let's say that I was never that much involved into soccer (unusual, for an Italian kid)- books were just more entertaining.
+
+The first case when I remember being asked to write something for my classmates was at the beginning I think of middle school, which used to start around 10, after ending elementary school.
+
+I selected as a subject the impact of pollution, discussing at length the impact on e.g. the Parthenon.
+
+When I delivered my paper to the teacher, the first reaction was a surprise that was written with a typewriter, then, as it was a bit long (I do not remember, probably over a dozen sheets front-and-back), the teacher asked if I had done a copy for each one of my classmates- seriously.
+
+Then, probably assumed that somebody else had prepared it for me (a routine innuendo, as others remember from high school, university, and also in business).
+
+Anyway, the idea of converting what you read and what you think into what you share, thinking about the audience, was in part also derived from my observations by tagging along wiht my father when he was acting or learning the lines of a part, and with friends of my parents to attend concerts and openings of new art exhibitions, and listening to discussions about the market side of art,
+
+Funny when you are not even yet a teenager, to learn how things work, before even having to learn in school how things are supposed to work... from those who are from outside the environment that they are describing.
+
+But then you also learn that, despite what you learned to consider as knowledge, you have to consider also what is perception of that knowledge from those who do not share the same depth and breadth, if you want to convey some key messages to them (or just collaborate with them).
+
+Knowledge transmission, as any cultural change, is never neutral: implies a context, choices, and purposes.
+
+And this brings about the next section: what is continuous learning.
+
+<b>Continuous learning: what really means- and doesn't</b>
+
+As described into that short post on Linkedin that opened this article, "contextualization" of "continuous learning" is quite important.
+
+Actually, often that contextualization is even more important than the actual content that that continuous learning tries to convey.
+
+Over the last couple of decades, I saw routinely, in Italy as in other European countries, how continuous learning turns into an "ethical mandate".
+
+You do it because it is trendy, makes you feel good, and makes members of your organization feel good and part of a company that cares about investing into the future of its talent.
+
+Well, that's actually the official story I heard often.
+
+But, frankly, it assumes that you can integrate continuous learning into your corporate culture as if it were a matter of collecting off-the-shelf courses.
+
+I also saw the declination into routine micro-courses without any application- just one course after another.
+
+My first employer was a company that invested continuously on learning- was not just continuous learning, was learning to integrate within a corporate culture, and become part of it.
+
+I remember a customer in Milan telling me that he considered us (but I was from another side of the company that had not that continuous learning in the USA)... kind of clones, using our green learning units as Ghaddafi in Lybia used his green book.
+
+Well, it was a bit extreme, but, frankly, contextualization implies that your training allows you to potentially hit the ground running into a new project, learning just the basic additional local context, and be part of the team quickly.
+
+Actually, in my first project in 1986 (automotive procurement) was asked by my branch manager, few days into the job, as I had had already experience in planning (for political events first, then for daily activities in the Army), to... apply Andersen's methodology to convert the specifications of a project into a budget expressed in man/days, based on deliverables.
+
+Much later, my manager told me that, also if the "sold" project assumed a smaller size, the final tally was what was within that initial budget.
+
+Meaning: courtesy of prior experience on that subject (not on large software projects, but on capacity planning based on deliverables), I needed just a short while to get into the new (for me) methodology, apply a boring yet not impossible approach, and produce something that was consistent with the expectations.
+
+The prize? Well, in 1987 I had to stay on that project to help prepare the system test, while my colleagues were switched to the completion of another even larger project, a banking general ledger produced in Verona for a bank in Turin.
+
+Then, when eventually joined the others in Verona, was told that... they had had one week to get through the functional requirements, to understand the project, but I had been smart enough so far that had been decided that half a day should suffice.
+
+Then, on that project, while started again as mainframe programmer, was eventually adding (as I had done in the Army) additional roles, quality control - quality assurance  checking progress status (overall, what often more recently was asked to do as a PMO), and then switched to the customer site to act as a technical interface with the banking customer (Chief Accountant to clean up data daily for a while, organizational development, CIO and his structure).
+
+Plus "Cerberus" to filter what my colleagues were releasing.
+
+This second project, plus prior experience on AI, and probably an ability to learn fast and work long hours, landed me an opportunity to shift in 1988 into a new units focused on selling a decision support systems platform (basically, a multidimensional Excel ante-litteram that allowed to use multivariate linear regression).
+
+It was a significant knowledge boost, as I was able to work across multiple industries with senior managers and financial controllers to build models out of their own decision-making patterns or needs, iteratively and incrementally (start simple, apply, understand/tune, revise and add).
+
+My expertise of course had become building and fixing or auditing those models, so many of them that it became... a Pavlovian reflex.
+
+You turn a demand into a kind of mental hypercube where each element is checked across multiple dimensions: does it apply e.g. by distribution channel, product line, region, specific mix, specific timepoints? do we have relevant past data on the same element, or do we need to generate them to re-align with the new distribution of dimensions?
+
+Again, each project was part of continuous learning, as I had my "toolset" (Andersen's methodology tweaked to be used of DSS projects, plus best practices on DSS from Comshare, the software publisher), but in each case I had to contextualize with the specific needs of the specific customer.
+
+Even two DSS models for two financial controllers in two different companies were not the same- I had first to listen, than to talk and propose.
+
+So, continuous learning, in my case, meant integrating in what I knew or had learned what was relevant for each different customer- then, repackaging from my toolset what could be integrated in their own mindset and experience what was needed to maintain and evolve the model.
+
+If they needed some major work, could still contact my colleagues- but for day-by-day activities, could "fly solo".
+
+So, I think that continuous learning works both ways, if really is such: and also when delivering courses on various subjects, as usually was delivering them to experts in their own field, it was a learning experience for both.
+
+Half-jokingly, years later, at one of the annual meetings of former Comshare employees (I wasn't one, but was invited) a colleague announced that he had shifted to the "guru" business.
+
+His description was a structured approach to what I had been doing both on DSS, methodologies, and other software products (I was actually delivering training first as presentations in political activities, where I learned to overcome presentation-shyness, then also in the Army).
+
+He said: when you become a guru and deliver your guru events, you start with what you know, but then those attending volunteer plenty of cases that could actually augment and keep fresh your material (and you yourself potentially can spot and pre-empt trends).
+
+Again: continuous learning as a collaborative effort.
+
+Now, what I do not consider continuous learning is continuously following training courses.
+
+Yes, I do it- but select domains where I want to "dig deeper", and the others are (also if technical- or business-expert oriented) awareness building.
+
+I want to known what I need, and I want to be informed about what could be useful- in the past (1980s and 1990s), this meant keeping in touch with people with a similar focused "need" on what for me was "keep informed", with associated mutual exchanges.
+
+Since the late 2000s, it is increasingly a matter of monitoring channels.
+
+Getting off-the-shelf courses could be useful for some specific domains, but as I used and delivered CBTs since the 1990s, frankly know fairly well how converting that into continuous learning implies adding a "community element"- either part of the activities in a shared physical environment, or at least having ways to help contextualize for those attending what you deliver, and getting their feed-back that could help re-tune your own material for the next release.
+
+As I wrote above, I was not directly involved, but when I eventually got access to the courses library, was able to see the material from both courses and projects (if I had to work in industry A for few days, I needed a crash course aligned to what Andersen could then deliver), and then also went into bookshops and purchased books.
+
+And, frankly, those "green booklets" that were much despised by some, in my view were actually delivering "structured technical knowledge" (not just in computer science, but also in business), but always within a specific "corporate culture" context.
+
+Or: through "techn&eacute;" those courses were building a forma mentis.
+
+As I said in the early 2000s to a customer of a partner while talking about ERPs, anything that stretches across multiple parts of your "way of doing things" is actually carrying as a side-effect a cultural change.
+
+Hence, also training delivered as a continuous string of courses should be treated as a cultural change activity.
+
+Would you let somebody carry out cultural change in your organization to make it closer to the organization you assigned the cultural change project to?
+
+Or would you like what they delivered blended into what you want to obtain (and maybe retain some elements of what you had before the cultural change)?
+
+As a customer once told me, also if apparently had converted his managers into a "sect of lofariti", that had been intentional- as they wanted somebody able to change the mindset (and anyway both each year, and routinely, set and assessed/retuned objectives with my customer).
+
+Creating "standard courses" in house to repeat as often as needed, even as self-learned CBTs or MOOCs can be expensive (on methodology, my courses required approximately 20 days of work for each classroom day, if you considered also case study, ex-post assessment material, etc- not just slides).
+
+And, probably, many smaller organizations (or smaller national branches of larger multinational organizations) cannot afford or justify the cost, moreover if you consider the need to keep them up-to-date and relevant.
+
+In my case, the courses I designed were "standard" to be delivered across a wider range of customers, but with a "tailored" element to contextualize some material.
+
+I saw some electronic courses where each slide contains exactly what is said- verbatim: impossible to contextualize.
+
+So, if you have to select the "off-the-shelf from the market" path (purchasing courses from a supplier), at least focus on contextualization material.
+
+Another point to consider is: as I wrote above, those "green booklets" were within a consistent culture- the one of Andersen, to be delivered by Andersen's employees to other employees.
+
+Course material that you find online, to build up your own curriculum, could probably derive from difference sources with different approaches- and require your own connecting material, if you want to avoid just piling up "done the course".
+
+Actually, probably the connecting material could be, as did in the past for some, be not really material- but ex-post brainstorming sessions with an expert who routinely supports your organization (or somebody from your own organization focused on the course subject, somebody involved after each session in a discussion on "our way of doing it").
+
+The idea is that continuous learning, within an organization, should be aiming to organizational objectives, not just individuals' objectives.
+
+Or: keeping the flame alive.
+
+But the is another element: what is really needed to have an efficient continuous learning within an organization?
+
+<b>It takes a collaborative environment</b>
+
+Yes, the title of this section says it all.
+
+I saw over the last 20 years the two extremes: let everybody choose what they want to learn, or build a strict point-by-point learning path.
+
+In my view, neither is an efficient approach.
+
+The former implies that either each individual assumes that there are specific organizational objectives, or thinks what would be useful in the future for such individual.
+
+The latter instead implies that somebody assumes that a "central brain" can foretell what would be needed now and in the future.
+
+Exactly the same approach that in the late 1990s to early 2000s killed many knowledge management initiatives- delivering neither knowledge, nor management, nor extracting value from knowledge.
+
+As you probably saw from some of my previous articles, I think that living in a data-centric society implies involving those who are closer to each data point into contributing their expertise.
+
+And this applies also to continuous learning: integrating those who know, and are "antennas" on specific data points.
+
+They should help identifying what could be evolutions worth sharing across the organization (the "keep informed" I wrote about above) and training others on their own specific knowledge domain ("need")- on a continuous basis.
+
+This, of course, requires a different concept of "collaborative environment".
+
+You probably saw that on this website recently added a section called "Portfolio" that contains three elements:_ concept_ products available_ products ongoing
+
+Actually- the last two are for now just "coming soon" (but I have already material to insert in both).
+
+The idea is to apply the same concept described above: all my "products" within the portfolio that will be shared are data-centric products.
+
+And will keep them evolve online, as a case study on the approach.
+
+Overall, as I wrote in previous sections, I saw both positive and negative implementations of the "continuous learning" approach.
+
+But what, in my view, is really needed, is to reconsider who decides when, before focusing on what and how.
+
+Notably, in times where our workforce will increasingly become more dynamic- even allocated across multiple organizations, or routinely shifting from organization to organization on a project- or initiative-basis.
+
+If you keep planning your continuous learning as if your workforce were to be cradle-to-grave, you would risk losing both key elements of the workforce (by "pigeonholing" them in a market where there are opportunities), and a significant chunk of your continuous learning budget.
+
+As somebody said about marketing/advertisement decades ago "I know that 50% of my <your pick> is a waste, but I do not know which 50%".

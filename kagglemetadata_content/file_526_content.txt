@@ -1,0 +1,317 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230920_20230924_article.png)</center>
+
+This series of articles, whose preparation was started on September 15th, will be completed by September 30th, and complements other articles that I released earlier in September.
+
+Specifically, if you want to understand more about that overall concept and where it comes from, the latest three articles released before this new series had just that purpose, from three different perspectives:_ [Accelerating European Union rights integration: from directive- to regulation-based harmonization](index.php?page=522) (published on 2023-08-24)_ [Enablers vs. extractors - shifting the airpods social model toward value generation](index.php?page=523) (published on 2023-09-08)_ [Adding enablers to a data-centric society: it is not just about technologies](index.php?page=524) (published on 2023-09-12).
+
+On the overall concept of "project that starts with a target and then has to evolve while keeping focus", [recently posted again online a 200+ fictional compliance business case](quplan), that had released between 2015 and 2018.
+
+I had prepared this series of articles to be part of a mini-book to be published later this year- but, as I received around mid-September a notification on the Italian TechWeek 2023 held in Turin from September 27th until September 29th, decided to streamline the content and share online before the event, posting the last one right after the event will be closed, as a kind of integrative summary of both what I wanted to share and what will see.
+
+<b><i>This is the second article of the series</i></b>, and it is focused on <i>technology</i>, also if routinely I prefer to talk and write about "techn&eacute;", as "technology" is way too often referred to something physical, or, in our times, computers etc.
+
+The first article, ["A systemic journey toward TechWeek2023 in Turin: 1 of 4 - sustainability"](index.php?page=525), was focused on <i>sustainability</i> seen as a component of strategic (vs. organic) organizational development.
+
+And, to make easier to cross-reference and read the articles, all will have the same structure:_ preamble: a (really long) rational for the series_ starting point: common wisdom_ what is available in the toolbox_ next step: some ideas about the future
+
+The preamble will be shared across all the articles- so, skip it if you already read it, as the aim is to have it as the longest section in each article.
+
+<b>Preamble: a (really long) rationale for the series</b>
+
+After a mission ended mid-July 2022, went through my usual routine knowledge update/prune/refresh, while also also started working on additional data-centric projects and publications that I had had to postpone for a while.
+
+Incidentally: the main reason to postpone the inception of those projects had been that in real data-centric projects I had since the 1980s the hardest part is defining (and streamlining/polishing) scope and data, not all the bells&whistles that range from an essay, a report, a set of visualization, up to assorted paraphernalia called "models" (and sometimes also physical elements, not just software and/or paper)- and that could have been generating perceived conflicts of interest with my ongoing missions.
+
+As my former colleagues who were from the "main side" of Andersen know, I followed both the blue Personnel Reference Binder that I received in 1986, and the burgundy Ethical Standards that I had to borrow from a colleague (as in my "side unit" we did not receive one).
+
+Hence, really my interest in data confidentiality (see [#relevantdata](relevantdata)), data privacy (see [#GDPR](gdpr)), and business ethics/organizational/cultural development (see [#BFM2013](bfm2013)) are not just something that started in mid-2010s because it was trendy- but goes back to my political activities in the early 1980s in a European federalist advocacy, experience in the Army, and overall interests and business experience since 1986.
+
+If you have to then integrate both the physical, digital, and behaviors/organizational elements, that is yet another layer of complexity.
+
+Each layer carries along its own "forma mentis"- or even "mind palace": look no further than the old but still fresh "Art of Memory" of Frances Yates where she quoted [Quintilian's "Institutio Oratoria"](https://en.wikipedia.org/wiki/Institutio_Oratoria) , or, if you want a Cliff Notes-style summary, [Wikipedia on the Method of Loci](https://en.wikipedia.org/wiki/Method_of_loci), or any article about e.g. [Giulio Camillo's "Theatre of Memory"](https://en.wikipedia.org/wiki/Giulio_Camillo).
+
+Yes, I think of the forma mentis conveyed by e.g. traditional university studies in Italy as a way to build specific "behavioral patterns", and also associated... Pavlovian reflexes.
+
+In my experience as PMO and project manager since the late 1980s, frankly I saw often a side-effect of the reform of university studies in Italy, that split in parts where often the "magister" cycle repeats most of what has been delivered by the previous cycle- maybe even by the same structure.
+
+Side-effect? A limited expansion of the depth without having first built, through repetition, a forma mentis, resulting in a tunnel vision and focus on quick results.
+
+And a difficulty on tackling on issues that you had not got through before (but this happens with many "certified" on specific professional skills, who are inclined to pick up from their rota learning through pre-packaged exercises and solutions, not to look at the rationale).
+
+Therefore, when I was on missions in Italy since the early 2000s, often was asked to help "refocus" into a more structured whole, as what actually decades before would have been delivered by a 4-5 university curriculum (a "forma mentis", and a habit of having a mix of short- and long-term items) was lost in a collection of single-shot exams, that looked more as a bookshelf on what was trendy, than a gradual deepening of knowledge from one stage of learning to the other.
+
+It is not a structural change: as I was able, by lending books and then debriefing casually on them, or having meetings that had a pre- or post-meeting that sounded a casual conversation but were really response tests, to see that it was possible to get those results.
+
+And, actually, met many who, by their own volition, having understood what was missing (probably by comparing with older siblings or their parents who had graduated from old-style university, or because instinctively looked at the bigger picture, not just focused on passing exams as fast as possible), picked up a subject or even a hobby to build that missing link.
+
+If you have a forma mentis, any, it can be "recontextualized" with relative ease (e.g. when I had people with a degree in literature who had done interviews, I knew which questions to ask, as a facilitator called up to help recover a portfolio of projects, to understand which issues could have been generated by the approach followed).
+
+If you do not have it, to recover implies actually doing training-on-the-job on how to see something from A to Z- even what you never saw before (and know your own limits and when makese sense to call in others- I learned it early in my business career).
+
+Hence, as will be better discussed across this series of articles, notably in the last one, integrating different components expressing different "cultures" is often not just the sum of the parts.
+
+Despite what became trendy in the 1990s to say, "more than the sum of the parts".
+
+Instead, integrating elements that share a different background implies shifting toward a new plane of reality- that expands on each of them, but also subtracts from each of them the elements that would be incompatible with the new whole (or even irrelevant).
+
+Down to earth, sticking just to the physical + digital + behavioral/organizational: consider just sheer physics- in a videogame (as often as in movies), you can defy natural laws, or twist them as you need to fit your narrative; but if you e.g. build a theme park, your rollercoaster needs to stay within the law of gravity as it is on Earth, not on Jupyter (albeit you can trick minds to think otherwise).
+
+Back to my data and publishing projects: think about a scope/aim, reality check with data, and then tune back-and forth maybe by releasing preliminary items to see how contact with reality makes or breaks your concoction (and, as the saying goes, fail fast and fail early).
+
+Net result: a minimal commitment of resources and time delivering an iterative yet incremental rapprochement with the target agreed to, so that you avoid trying to build a cathedral on stilts.
+
+My current projects aim at blending the two sides of activities since the 1980s, represented by the motto posted on Linkedin "change, with and without technology".
+
+Once in a while I was asked what does that mean- and I generally reply with something attuned to the audience, but blending cultural/organizational change and business number crunching.
+
+As I shared often in the past, any change within any organization, including any technological change, involves both cultural and behavioral change.
+
+Actually, the former implies changing the collective, while the latter, as I was told once by some who do "converting" as a lifestyle to bring new people to their own closed community, aims at the individuals.
+
+But, again quoting them, it takes much more effort to try to "convert" one individual at a time.
+
+Or: it is easier to convert a village than to convert individually each one of its members.
+
+As will be explained within the last article of this series, the number of potential interactions makes not feasible a traditional "indoctrination" (or even plain vanilla traditional "training")- collective knowledge transfer and convergence has to happen as part of a continuous improvement and mutual adjustment that, in the future, will be lifelong (as it has always been), but built on shorter and shorter cycles of alignment.
+
+The key element to consider while reading the articles of this series? 
+
+Technology is still way too often considered as a driver, but I think that, as expressed in that long previous discussion on "forma mentis", should be considered an enabler, if you want to generate value that is structurally sustainable.
+
+Implications: often vertical experts (i.e. experts on a specific "techn&eacute;", not necessarily technology) "drive" while having limited understanding of the overall business and social context as well as potential impacts.
+
+Therefore, define constraints that, when such a knowledge is then added, often are easier to circumvent with "stilts" than to reverse: it would be better and easier (and would build resistance to future changes) if vertical experts either developed or were paired with those able to "walk in their audience's shoes".
+
+And, yes- in the future a book and further datasets will be released online- for now, [previously released books on change are here](https://leanpub.com/u/robertolofaro), while datasets (and webapps) that created to support either those books or articles or data projects [are here](datasets).
+
+To close this preamble: some of the themes this section pinpoints to...
+
+...are actually going to be developed across all the articles of this series, and the last article (focused on a systemic perspective, including on my proposed five cents) will end with a kind of thread that will link both the articles and this preamble.
+
+A caveat: to have a coherent set of cases to discuss under the different dimensions, will here and there reference again Italy and books with further analysis about Italy (and EU)- if interested, you can dig into the references provided at the end of each article, but it is not needed to follow the argument across this article series.
+
+Also if could be pivotal in moving from these articles toward your own model: due to space and time (yours as well as mine) constraints, these articles will barely scratch the surface of something that would require probably a chapter for each section of each article.
+
+<b>Starting point: common wisdom</b>
+
+Within the first few paragraphs of this article stated that <i>routinely I prefer to talk and write about "techn&eacute;", as "technology" is way too often referred to something physical, or, in our times, computers etc.</i>
+
+Therefore, I will start by sharing a definition, to set a common ground:<i>
+The word techne comes from the Greek word for art. The modern-day English word technology comes from the prefix techne and the suffix ology; both words are of Greek origin combined to mean "the practical application of knowledge".</i> (from [Wikipedia](https://en.wikipedia.org/wiki/Techne)).
+
+As I wrote in previous articles and books, while already Napoleon used logistics to his own advantage, it is really the industrialization and mass-production of military equipment of WWII that generated most of the approaches that made our current world feasible.
+
+Just as an example: I shared in past articles how, after WWI, it was proposed to bring back Germany to a pre-industrial state, and how, after WWII, it wasn't just ["Operation Paperclip"](https://en.wikipedia.org/wiki/Operation_Paperclip) (the USA-led program to take a large number of scientist and technicians across The Pond), or its USSR counterpart- but a more structured "encore" of the previous proposals.
+
+There was a catch: going back to a pre-industrial level of development would imply that Germany would not be able to sustain all its inhabitants (you can read a description of the concept [here](https://en.wikipedia.org/wiki/Morgenthau_Plan)).
+
+If in Italy was assessed that we had as many people in their 90s at the end of the XX century, as there had been people in their 60s at the beginning of the XX century, we have to look at how Italy was able to achieve that result: and it was not just by improving the diet (something that, incidentally, would anyway require to make a better variety of food affordable to many and easier to store, distribute, consume- i.e. mass production).
+
+Developing an industrialized economy with logistics able to distribute with a higher degree of efficiency from production, to processing, to consumption centres expanded the opportunities. 
+
+Do not forget that as the XIX century turned into the XX century, the recently (1861) unified country was exporting people to the Americas, and after WWII we were again exporting people across the World, including within Europe, due to the needs of rebuilding the country after the direct and indirect damages of WWII.
+
+Anyway, those advocating a "contraction of the economy" are nothing really new: already when I was at the end of my high school times in the early 1980s, I met some who announced that they were tired of technology and our society, and would move to Tuscany to live as in the Middle Age.
+
+Of course- nobles in the Middle Age, not those working for them... a different form of "gentrification".
+
+Hence, as a boring consultant, would just say: let's start with what we have, and think forward in a different way.
+
+Again, time to share few further reference points.
+
+Technology, considered as "the practical application of knowledge", has a couple of significant side-effects:_ is incremental, as each technological "acquis" (more about this later) becomes the basis for future development_ each increment adds up to complexity and, often (but not necessarily), reduces resilience (i.e. requires access to and knowledge of priors- lose that, and it is a house of cards), unless it is properly managed aiming to resilience and continuity_ while we routinely discuss technology as a way to open opportunities, it is actually intrinsically building barriers to entry_ the more developed, the higher the level of vertical expertise it requires, a.k.a. specialization.
+
+Obviously, many would disagree, but I see technology (as defined above) in terms of cultural and organizational development, not just in terms of short-term benefits (or even negative externalities), or physical manifestations.
+
+I shared in the past articles where I discussed the concept of "knowledge supply chain", but I like to repeat often the example I saw in Brussels, where attended a workshop about the [African Laser Centre](https://africanlasercenter.org/), where those from Belgium presented how, when Belgium abandoned the concept of military uses of nuclear weapons, retained through different technological ways the knowledge supply chain. 
+
+At the time, the discussion of the African Laser Centre was also linked to South Africa's shifting away from nuclear weapons capabilities, and its potential new regional role within a future unified Africa.
+
+And this brings about a concept summarized by President Eisenhower at the end of this mandate: I consider his farewell speech an ex-post assessment from an insider, and not restricted just to the overlap of industrial and military.
+
+In the 1970s, there were many movies that explored and discussed "what if" our society dissolved, and we needed to retain the ability to keep technology operational and, at the opposite extreme, "what if" technology becomes so complex that takes care of itself.
+
+On the former, bleak side, the concept e.g. in ["Chosen survivors"](https://www.imdb.com/title/tt0071318/) was that a nuclear holocaust required to consider continuity of the human race- including its technology.
+
+On the latter, it started as a positive concept, freeing human beings from mundane work, then making choices impartially, then "taking care of us"- until our own competition actually generated a self-awareness, e.g. as the diarchy in ["Colossus: The Forbin Project"](https://www.imdb.com/title/tt0064177), which probably many worrying about Artificial Intelligence (henceforth, AI) taking over would recognize as a theme.
+
+It is curious how we worry more about the consequences of AI (that could anyware be reverted or evolved toward a more cooperative model) than those non-redeemable of our continued stockpiling of nuclear, biological, and chemical weaponry with de facto diffused "trigger control" at the operational level, and potential of leaks that wipe out the lives of many.
+
+If only we were to devote the same attention we focus to AI-generated fake-news, deepfake, and potential copyright issues, to those and other existential threats (see e.g. [here](https://en.wikipedia.org/wiki/Global_catastrophic_risk)), we would be better off.
+
+Anyway, those "side-effects" of technology discussed above are with us from long before WWII: the industrialized, mass-production side became ubiquitous in the XX century, but already Ancient Carthage had its own "industrial assembly lines" for ships, and also one of the associates of Caesar had his own "repeatable" products.
+
+As I shared in past books and articles about digital transformation and the impact of 3D printing as well as communication and sensing technology on manufacturing and logistics, with the diffusion of 3D printing technology, it will be even more so in the near future: it will be possible to deploy everywhere the final production link, without the need to have all the component manufacturing and maintenance facilities required by traditional manufacturing.
+
+Will add more material in future scribblings, but the basic concept here is: technology is part and parcel of what makes our modern societies viable, via structured knowledge management by experts who often project their vertical expertise as the shared interpretative framework.
+
+A corollary: if you consider the extensive definition of technology side-effects that shared above, then you end up with experts (protected by their peers plus exoteric communication) who assume that they have exclusive rights to make structural choices.
+
+Non-experts (politicians and business leaders included, not just ordinary citizens)? At best sit on the fence, and pit experts against experts to get a technocratic consensus that has then to be implemented by all- without necessarily having on either side full grasp of the long-term impacts, as each party has just a vertical slice of the knowledge required to achieve an understanding of systemic impacts.
+
+<b>What is available in the toolbox</b>
+
+When I wrote above <i>is incremental, as each technological "acquis" (more about this later) becomes the basis for future development</i>, I was of course referring to the EU institutions concept of "acquis":<i>
+
+acquis (uncountable)
+
+Short for acquis communautaire.1. (law) The accumulated legislation, legal acts, and court decisions which constitute the total body of European Union law. 2. (international law) The accumulated legislation and decisions of any international community. </i> (from [Wiktionary](https://en.wiktionary.org/wiki/acquis))
+
+Curious that was preparing the first draft of this article before was released the [French-German report on the future of the European Union](https://www.politico.eu/wp-content/uploads/2023/09/19/Paper-EU-reform.pdf) that discussed in the previous article- so, I had time to read about similar concepts more than once, albeit from a different perspective, in those 60 pages.
+
+No wonder: the next European Parliament elections are scheduled for 2024, but since 2019 we repeatedly had opportunities to see how the European Union needs serious structural and structural dynamics changes (i.e. how it is and how it copes with reality).
+
+If even countries created in the 1990s that until recently extolled the virtues of their innovations now start talking about the issue of legacy systems created for another world, another time, another technological context, imagine countries with centuries of history that found a preliminary, limited, shared middle way in the 1950s, and then bumped their way to the 2020s: what we already developed since the Treaty of Rome cannot be simply tossed away.
+
+Which is exactly what happens with any structured knowledge: implies that somebody developed a consensus on how to structure it, and therefore, as you can expect, any structured set of knowledge implies also that some organizational entity (not necessarily formal) exists to keep the structured knowledge either evolve or (more often) steady until the next (forced?) evolution.
+
+Over 2,000 years before, Carthage and others had discovered the benefits of specialization when you have enough repeated demand, long before Marx wrote about what I could call "diffused factory" of Chaux-de-Fonds (the birthplace of [Le Corbusier](https://www.chaux-de-fonds.ch/histoire-patrimoine/le-corbusier)), where all the village was involved in watch-making (see [the UNESCO page](https://whc.unesco.org/fr/list/1302/)).
+
+But the key element in moving from single, individual cases, to the XVIII/XIX/XX century development is that it became systemic, and generated enough demand for really tiny niche expertise to justify the training and continued development/update of experts (and spawning new, even smaller, niches of expertise).
+
+Look around you, and you will find experts in anything anywhere (including those buying a title of expertise while having zilch experience in "practical application of knowledge"- only what they read or where told, but can add that rubber stamp and command the appropriate lingo to pass as "experts").
+
+Moving onto what is within our available (but used not often enough) collective toolbox, I referred above to logistics.
+
+If you read the books on WWII that I added as suggested readings at the end of the previous article in this series, you probably remember the discussion about the complexity of logistics that allies developed first in Africa in 1942, and how instead Germany had continued issues across all their invasion of the USSR, as Napoleon had had over a century before.
+
+Imagine reading about a WWII German invasion of the USSR where, instead of having countless different spareparts to provide for countless different models of mechanized equipment- and have instead basically just to provide generic mixtures, and then have a catch-all 3D printing on site to provide components when needed.
+
+It is not yet for today (as, anyway, we still have stockpiles of what was already in the field when I was in the Army, in 1985-1986), but soon could become feasible.
+
+Technology often, as in the case of Edison's development of the lightbulb, takes a long time to achieve a viable, reusable result.
+
+Hence, it makes sense that such a new "plateau" becomes the springboard point for further developments- including those using just the lessons but sidelining the existing.
+
+I do not really like that much universal models such as [Gartner's "hype cycle"](https://www.gartner.com/en/articles/what-s-new-in-the-2023-gartner-hype-cycle-for-emerging-technologies), as in most organizations large enough since the 1980s actually observed overlaps, backtracking, jumping forward, reaching a plateau, and also unrelated how parallel development gave new life to pre-existing or even sidelined solutions.
+
+I referred on purpose to Edison's lightbulb: on Linkedin, I routinely saw what I could call "survivor bias"- presenting as a universally applicable pattern of development what was in good part the result of convergence of both investment, knowledge, and... sheer luck. 
+
+Hence, we are overobsessed with the need to show success- while, instead, anything complex develops through a journey, not a roadmap based on 100% insight: adjustments are based also on blind alleys, failures, and the associated lessons learned.
+
+A data-centric society requires contributions from many, actually from all those who are generating and using data from our social and economic context, if we want to benefit from that ubiquitous availability of our largest resource: brains.
+
+Also, even large organizations do not necessarily have the need (or resources) to test all the new "trends" at the same time in parallel pilot project, as the point in their case would be to have something that is organizationally sustainable (see [previous article on sustainability](https://robertolofaro.com/index.php?page=525)), not testing new toys.
+
+This implies evolving a different way of "filtering", sorting the wheat from the chaff.
+
+Probably also [Nate Silver's "The Signal and The Noise"](https://en.wikipedia.org/wiki/The_Signal_and_the_Noise) and similar books could be useful to influence adding as basic skills not just being able to read statistics and charts (and understanding distortions), but also, a citizens in data-centric societies, how to become active data contributors and consumers.
+
+The technological toolbox in 2023 available in 2023 is not only extensive, but also relatively affordable.
+
+Yes, it is far from perfect- but, frankly, do you really think that it was perfect to have a single know-it-all person or small team that actually tried just to sell to many what did experiment once (as it often happened)?
+
+<b>Next step: some ideas about the future</b>
+
+Obviously, the "corollary" closing statement of a previous section was a provocation: as in many other fields where expertise developed to the point of becoming almost an absolute truth, there are really alternatives to a mere technocratic-first society.
+
+In business as well as in society, already in many cases the idea is to involve them upstream, but anyway after having identified a shared, "common good" framework of reference that transcends specialization.
+
+I am an agnostic bipartisan reformist who was raised as a Roman Catholic in a communist and Catholic family: hence, I see the irony within, in our supposedly pragmatic society, to make it workable in the future, to develop a shared Weltanschauung based on "common good" as a preliminary concept that should "frame" any specialization. 
+
+It is not easy- but it is better than just routinely wait, with a technological (again, structured knowledge, not necessarily physical) that frankly reminds statements at the [Nuremberg Trials](https://en.wikipedia.org/wiki/Nuremberg_trials) from various "technicians" about how they just were following orders, or just following science, etc.
+
+Followed then by professional commentators, moralists, ethical experts, and assorted rabble-rousers who vie for visibility by showing how it could have been done.
+
+Somebody said in the early XX century that "Work Is the Curse of the Drinking Classes" (see [here](https://quoteinvestigator.com/2017/01/12/drinking/) for who might have been).
+
+So XX century. In our XXI data-centric century, I would paraphrase that as "20/20 hindsight is the scourge of the commenting classes", who feel a compulsive need to wait, and then find ways to reposition what they shared before in such a way that becomes relevant to what is current.
+
+Feasible, if you always sit on the fence and never take a position: but is it useful? I would rather see experts deliver without "padding" what they can deliver based on current knowledge and insight as soon as professionally possible, and then recant later, then deliver Nostradamus-style "catch all" that allow them to be always relevant, in a twisted way.
+
+So, abandoning fence-sitting is both for non-experts and experts alike, but implies a society that accepts learning from mistakes.
+
+This requires stepping down from that fence where politicians and business leaders, and not just ordinary citizens, have been sitting at least since the 1970s, where was convenient to stay, as any negative externality might be attributed to "technocrats", "bureaucrats", etc.
+
+At the same time, we need to avoid the opposite risk, that has become so common in this century (and not just in Italy): simply ignoring experts and developing a consensus based on who is best at presenting a case.
+
+Our current technological (again- meaning structured knowledge) toolbox is a collective and continuously moving and evolving point of reference: even famous companies that used to deliver advice to other companies now integrate and expand on what others do, in a continuous feed-back cycle.
+
+Already shared in the previous article some free online sources- but through them you can also access others-
+
+When you attend a workshop online, have a look not just at the panelists, but also at the profiles of those attending, you might easily find some complementing the skills and experience already available within your own organization.
+
+Also, in our context, get used more often than not to "go lateral": look beyond your own industry or area of expertise, if you want to, again, benefit from living in data-centric society where collective knowledge will have to coexist with an evolution of our concepts of intellectual property that really echo the original concept that was applied to William Shakespeare's works, centuries ago. 
+
+Living in the 2020s has a significant advantage, vs. what I saw in the 1980s and even late 1990s: thanks to the advances of technology, we have been lowering the cost of computing and storage resources.
+
+Low enough to enable our current uses of AI, including forthcoming dissemination of "Edge" AI, i.e. coupling ubiquitous computing with localized at least "task-specific" intelligence without human intervention (imagine in the near future a smart trashcan telling you if what you are tossing away should instead be tossed elsewhere).
+
+Unfortunately, what is available in the toolbox for now, in my view, requires a massive re-investment in "human capital", not limited just to developing again critical skills.
+
+If Millennials never knew a world without Internet, already during Covid remember reading articles where our primitive humanoid toy robots started becoming "friends" of children, or used to deliver remote schooling.
+
+Or: soon, teenagers, that in our data-centric society are actually increasingly entering the informal side of work (as influencers, etc), will have known no world without AI-supported digital assistants, and will have a different concept of "fact checking" or even "memory" than those even 20 years younger than me (I am 58, but I keep learning, relearning, unlearning as needed).
+
+Most of the technologies that I hinted at within this article are actually available as toys- from 3D printing, to Edge computing, to ubiquitous "smart" technologies: in my generation we used Lego (tm) bricks, then there was the "mechanic" side (adding levers, pulleys, etc), then more recently some electronic components, but now is it becoming affordable and accessible from a cognitive perspective technology that just two decades ago was only in labs- and for single-digit (in EUR) prices.
+
+This kind of change requires more than the tinkering we got used post-WWII.
+
+As somebody wrote, long before being about technology, [Nokia](https://en.wikipedia.org/wiki/Nokia) was about trees, and Samsung was about something else:<i>
+Samsung was founded by Lee Byung-chul in 1938 as a trading company. Over the next three decades, the group diversified into areas including food processing, textiles, insurance, securities, and retail. Samsung entered the electronics industry in the late 1960s and the construction and shipbuilding industries in the mid-1970s.</i> (from [Wikipedia](https://en.wikipedia.org/wiki/Samsung)).
+
+Such an evolution was not just "pivoting"- but organizational development, and included also dropping or transferring business lines when not relevant anymore or stopped having potential: actually, more than organizational development, organizational evolution.
+
+If you were to build a house right now, I do not think that you would design it by re-thinking how to develop pipes, cables, etc: in developed countries, you will have standard to comply with, standards that will be easier to comply with if you pick off-the-shelf cables, pipes, maybe even pre-build sub-components, etc.
+
+And on each activity you will involve experts, to ensure... compliance.
+
+When I write "technology", as I said in the beginning, I do not consider just physical or computer- also a lawyer, a judge, a psy-whatever are, in my definition examples of "technologists": they start from an "acquis" that is their own barrier to entry and, as often in the past, also a barrier to innovation, courtesy of [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias).
+
+In business and other activities, often saw that the longer expertise became "codified", the more there was a group-thinking orientation that focused on maintaining "gatekeeping" roles to expertise, more than extracting value.
+
+In Italy, we have still what were centuries ago "guilds", now called "Albi"- and, routinely, during the 1990s and 2000s, I read about new professionals trying to create (or even creating) new "guilds" with exclusive access to their own profession.
+
+With a catch: almost always, the formal requirements applied to new members would not have allowed some of the founders to join it... so, it was not about quality or market projection: it was protection from market competition.
+
+Many complain about the side-effects of Internet as it removed filters to access: but in many cases it is simply used as an expanded and enlarged "echo chamber", preaching to the choir, while few access Internet directly, and many instead see it through the prism of social networks (that I would rather call "bubbles"): instagram, tik-tok, facebook, youtube, linkedin, discord, etc in my view are all potentially positive and potentially negative- depends on how you use them, and how you get into what by definition their information presentation model generates, i.e. a tunnel vision. 
+
+As, also when unfiltered, you have to select a channel, and then each channel has its own rules of what is relevant, and it is quite common to read online in question boards some stating "this was already answered there" (also when there is a different nuance within the new question), or "this does not belong here" (also when this is true only if you project your own perspective, not if you try to empathize with those asking, and understand what they mean)- i.e. the insiders (notably those who achieved the status more recently) acting as Lord of the Flies, not as Virgil guiding Dante through Hell.
+
+Another curious element that I saw in business since the 1980s (i.e. before Internet was accessible, but after we started having widespread use of experts, gurus, etc) is that having access to reference experts generated a peer-pressure to align.
+
+Often, surrendering critical thinking to experts only increased with increased demands for compliance with an endless stream of rules- large organizations can afford all the relevant experts needed (but not necessarily define a coherent whole), smaller organizations simply try to cope with "best practices" without having the resources to dig into them and understand the rationale and context that generated that "best practice".
+
+Therefore, sometimes found in smaller organizations rules that were blatantly designed for a different context and much larger organization- that "technology" (structured knowledge) and associated tools were a massive overkill and self-imposed bureaucratic burden that did not add any value (since the early 1990s, I heard in such cases routine complaints about "we are doing what we did before, just with more time-absorbing paperwork").
+
+Obviously, Internet allowed easier access to structured knowledge without the need of "knowledge brokers"- the key element is therefore not access, but having the critical thinking skills needed to understand what you are accessing and your own limitations.
+
+Just because it is available online, does not imply that it is true.
+
+And even if it is true, might require a "decoding key" (i.e. experts), to be integrated within the boundaries of what you know or need- an expert might answer to a question by catching key information items within the question, and the answer might apply just to that specific mix of conditions.
+
+Furthermore, being true does not imply that is presented within the appropriate context to make it meaningful.
+
+Or: does not imply that those sharing it have access to the information needed to contextualize, i.e. have the "depth" needed.
+
+Somebody just googling what assumes to be key element, might land to that Q&A, and consider the partial match as relevant, and then generalize the answer as universally applicable to a larger domain, but presenting it as "expert advice".
+
+Few hoops down the communication line, if you have somebody able to "convert", you can have an instant flash-mob built out of a misunderstanding.
+
+Courtesy of our attempts to make technology "autonomous", in my view we are just starting to discover the biases embedded in our experts and structured, formalized knowledge that we have developed for centuries.
+
+Most of the recent AI ethical d&eacute;bacles (e.g. [see a sample within my monthly updated AI Ethic Primer](aiethicsprimer), enabling searching within a subset of papers from arXiv) therefore just made our structural biases "emerge".
+
+In the end, most of those cases represent the approach used by private and academic technological research for a long time, assuming that you start from a good starting point, and then develop on that: simply, by allowing continous access to a larger audience, side-effects on e.g. [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) are doing tests that no ethics boards with a shared perception of reality (or even diverse, but still limited to shared physical reality perception) could deliver probably in decades.
+
+But when we put that into a logical (or probabilistic) mixer, the bias that was embedded in our data and approaches that had been vetted and prepared by human experts becomes the starting point for what our AI generates.
+
+And makes it visible.
+
+Therefore, I do not think that we need to develop a new approach or regulation just to AI, or even just to computing technology once made ubiquitous.
+
+We need to redefine what identifies, regulates, and makes worth complying with any kind of "techn&eacute;", structured knowledge.
+
+That we still lack a regulatory framework is not necessarily an issue: we have an opportunity to develop a new approach to regulation, where research, application, rule-making are evolving continuously, adopting an orientation toward experimentation and continuous adjustments.
+
+As I like to repeat once in a while, paraphrasing somebody else: technology (my definition thereof) is too important to be left just to technologists- we need a collaborative effort.
+
+I will repeat here again what I shared above, as know, after having contextualized through few thousand words, probably is easier to digest:<i>
+Technology, considered as "the practical application of knowledge", has a couple of significant side-effects:_ is incremental, as each technological "acquis" (more about this later) becomes the basis for future development_ each increment adds up to complexity and, often (but not necessarily), reduces resilience (i.e. requires access to and knowledge of priors), unless it is properly managed aiming to resilience and continuity_ while we routinely discuss technology as a way to open opportunities, it is actually intrinsically building barriers to entry_ the more developed, the higher the level of vertical expertise it require, a.k.a. specialization.
+</i>
+
+This time three books, two in English, one in Italian (which is actually a collection of speeches):_ Jones' ["Most Secret War"](https://www.librarything.com/work/139321/book/99872530)_ Womack's ["The Machine That Changed the World : The Story of Lean Production"](https://www.librarything.com/work/220908/book/111584725)_ Mattei's ["Il complesso di inferiorit&agrave;"](https://www.librarything.com/work/23977651/reviews/176207518) (link to my book review of 2019)
+
+Technology is never socially neutral: so, should be considered systemically. 
+
+Until the next article.

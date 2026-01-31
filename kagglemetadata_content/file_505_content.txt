@@ -1,0 +1,317 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230117_article.png)</center>
+
+Yes, the title seems one of those open sandwiches that I liked so much in Sweden, where I piled up whatever came to my mind.
+
+Anyway, it will all eventually make sense.
+
+In this article, few bits of apparent serendipity:_infoglut and data flood in open data times_orchestration in uncertainty_human sustainability and blending control_joining strengths and dynamic roadmaps
+
+<b>Infoglut and data flood in open data times</b>
+
+I used the concept of "infoglut"(tony) since the 1990s, first as part of a software product that realized as a summer project to test few technologies.
+
+The concept was to create a service and framework/repository (it was the early stage of the web 1.0, and therefore storing massive information online was not feasible) to deliver a "subscription based" update on knowledge- the first test with a partner was to deliver a "windows and windows apps patching service".
+
+While on IBM Mainframes that skills was a core skill of senior system experts (they knew when to apply a patch and where to find, in a gazillion documents from IBM, answers), on Windows PC, at the times of early Client-Server, it was somewhat chaotic: add an app that asks to change a config, and you could wreak havoc elsewhere.
+
+Yes, it was before the current self-contained "virtual machines" (which, incidentally, remind me a lot 1980s mainframe environments, e.g. stacks of IBM CICS), and I still think that in many cases our current cheap computing resources generated sloppy practices that, in a more sustainabile world, we should revise: that you can use green energy to supply your overconsumption is still a waste.
+
+I attended in person the first IoT workshop I think in 2012 in Milan via IEEE, but my first forays with similulation and sensors to support customers happened before- also if I was never a specialist: my main skill has always been "bridging" people with different domain expertise, different "forma mentis"- and make them work together toward a shared purpose.
+
+In the process, I built up occasionally "deep" knowledge on technology or business processes, that was actually needed for just few missions, then set aside: as nothing is more detrimental than somebod who had a decent level of expertise in something, and decades later still assumes that was did back then should still be relevant- life evolves, including corporate life.
+
+Otherwise, we would still have triremes...
+
+Within the latest issue of Foreign Affairs, there is an article about [Open Secrets / Ukraine and the Next Intelligence Revolution](https://www.foreignaffairs.com/world/open-secrets-ukraine-intelligence-revolution-amy-zegart) that, from a data-centric perspective, is quite interesting.
+
+Probably most of my readers would not find anything new, but it is worth repeating:<i>"Intelligence is often misunderstood. Although spy agencies deal with secrets, they are not in the secrets business. Their core purpose is delivering insights to policymakers and anticipating the future faster and better than adversaries.
+
+...
+
+Technology makes today's threat list not only longer but more formidable. For centuries, countries defended themselves by building powerful militaries and taking advantage of good geography. But in cyberspace, anyone can attack from anywhere, without pushing through air, land, and sea defenses. In fact, the most powerful countries are now often the most vulnerable because their power relies on digital systems for business, education, health care, military operations, and more. 
+
+...
+
+Intelligence agencies must deal with a data environment that is vast, not just fast. The volume of information available online has become almost unimaginably immense. According to the World Economic Forum, in 2019, Internet users posted 500 million tweets, sent 294 billion emails, and uploaded 350 million photos to Facebook every day. Every second, the Internet transmits roughly one petabyte of data: the amount of data that an individual would have consumed after binge-watching movies nonstop for over three years. 
+
+U.S. intelligence agencies are already collecting far more information than humans can analyze effectively. In 2018, the intelligence community was capturing more than three National Football League seasons' worth of high-definition imagery a day on each sensor they deployed
+"</i>
+
+Yesterday shared a new mini-book ([you can read it for free here](https://leanpub.com/thecenturyofthecommons)) that is really a data narrative that I created while preparing material for a forthcoming book. 
+
+I shared it as potentially free (you can also buy it, but what matters more is that the information is shared), and it will probably evolve (e.g. by adding further material on the book page, and datasets on [my Kaggle profile](https://kaggle.com/robertolofaro)) while I am working on the book.
+
+The key element is really to show how, by shifting from generic platitudes about environmental concerns, to initiatives such as the joined worldwide efforts on CFCs, and then the reaction after the [2005 Tsunami started in late December 2004](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami), we saw that, as the saying goes, "we are on the same boat, hence we should be rowing together".
+
+Also, the evolution from [Millennium Goals](https://en.wikipedia.org/wiki/Millennium_Development_Goals) to the [2015 UN Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals) happened at a time when computing and data storage resources sharply declined in costs, cloud computing resources (including free) expanded, and, at last, the number crunching side of artificial intelligence became affordable to many.
+
+Say what you want, but in my personal business experience since the late 1980s, I saw how we shifted from few data collected and processed willingly to generate/monitor/assess "signals" and injecting data analysis into decision-making, to having more data than we can understand and process in human times, with the direct consequence that, even before [Big Data](https://en.wikipedia.org/wiki/Big_data) and [Data Lakes](https://en.wikipedia.org/wiki/Data_lake) (that often I nickname "data swamps" or even "data garbage dumps"), there was a de-responsabilization of decision-makers, as if data were a kind of IT version of the [Oracle of Delphi](https://en.wikipedia.org/wiki/Pythia).
+
+Anyway, global convergence on initiatives requires data and measurement harmonization- something that even in corporate environments requires a degree of multilateral negotiation and agreement, imagine when it is a political choice.
+
+Within the European Union we are used since the 1950s to a kind of shortcut, i.e. using crises to "push through" initiatives and choices that are increasingly self-referential and not subject to pre-emptive, reasoned political scrutiny- but I [criticized this approach in our data-centric and open data times in few articles](search.php?tag=monnet)- you can read my rationale there.
+
+The point being: while technology is by many considered equivalent to technocratic, I think that, instead, our current crop of technologies have the potential for further democratization and reasonable/reasoned continuous integration of citizens' capabilities within decision-making processes.
+
+I shared over a year ago [the proceedings of the Italian Parliament dialogue with society while preparing the National Recovery and Resilience Plan for Italy, PNRR](https://github.com/robertolofaro/pnrr), including [a detailed catalogue on each contribution](https://www.kaggle.com/datasets/robertolofaro/pnrr-nextgenerationeu-in-italy-pres-details).
+
+All those above share, now as in the 1980s and 1990s, a common point: if you bring to the table "data, more data" (yes, I am misquoting "The Matrix" famous scene when the hero is asked what he wants), you should also bring "knowledge, more knowledge"- to assess dynamically which data is relevant.
+
+Anyway, the difference between the 1980s-1990s and now is that we do not just have more data, but that, while in the Foreign Affairs article there was a reference to data from sensors that you willingly set in the field, we are increasingly dependent on data whose rationale, history, even lineage we have no control whatsoever.
+
+There is a book from the 1980s that in Italy would have been impossible to publish on local information, but was feasible for Bob Woodward in the USA, ["Veil"](https://www.amazon.it/Veil-Secret-Wars-CIA-1981-1987/dp/0743274032).
+
+One of the examples from that book that I quote once in a while, whenever I had to explain the risk in our current data-centric world for decision-making system based on data whose lineage we do not know, is a case (that you can find also in other books about the same "cloak-and-dagger") when you start spinning something to collect reactions, then that turns into information feeding for somebody else, then spins further around, and, before you know it... you have multiple sources confirming information that actually originated from another part of your own organization- and was never true.
+
+In business, while working on decision-support systems for commercial or financial controllers in the late 1980s, one example that I was repeated often is that, when setting targets, but explicitly linking them to bonus etc, sales managers often then adjusted projections and even delivery to be within target, but avoiding e.g. to exceed targets (as they just had an [On Target Earnings](https://en.wikipedia.org/wiki/On-target_earnings), capped at that target: so, better to roll-over extra turnover to the next year), or setting under-ambitious targets.
+
+There are other side-effects, that already heard in the 1980s in my political activities, when Italian bureaucracies added a "performance bonus": if you are committed and over-achiever, you risk re-phasing the results for everybody; hence, I remember a political connection who was depressed as, to deliver the message, found himself a quota overload because his performance was outshining the others.
+
+So, the "it is within the data" concept is no excuse for a lack of a convergence of interests and rationale, that might be temporary or structural, but still requires an organizational choice.
+
+<b>Orchestration in uncertainty</b>
+
+I was planning to release a couple of draft projects to complete the last course in each one of two strings, Six Sigma Yellow and Six Sigma Green, that I have followed over the last few months, to update and deepen some skills (I worked on process improvement occasionally and a side-effect in the late 1980s, and as a major focus in the 1990s-2000s, and again as a "collateral benefit" in the 2010s and so far in the 2020s).
+
+As since 2012 I had only missions that nominally were as PMO (at the business unit as Senior PMO/Demand Planning, global portfolio as ICT Global PMO Consultant, EMEA initiative level as PMO/Senior Management Consultant), routinely had to dig into this or that part of my experience and background- and, in the process, update it.
+
+My first role as PMO was actually decades ago, in 1987-1988, on the completion and release of a new General Ledger for a major Italian bank, for the Italian branch of an American then-Big8; it actually had started in Verona as Quality Control, then Quality Assurance, while also monitoring planning, deadlines, and then acting as "resident" at the bank's ICT premises nearby my birthplace, Turin.
+
+Once in a while, I was asked "what does a PMO do"-and I shared my experience, replying that in my view actually depends on the level of seniority: could range from merely counting the beans and beating the drums, to getting involved into roadmaps, pre-empting potential scope changes, etc.
+
+I know that in many cases a "pure" PMO is instead blended with a mix of project/program/change management or even software development, DBA, knowledge manager- but, unless you can compartmentalize, the risk is that, whenever there is a crisis, or even to fill time, the PMO will cease having a systemic view, and cocoon into "hands-on", while the initiative drifts aways.
+
+I know that many would disagree with my characterization, but also when I helped set up project coordination/management activities, or to bring under coordination disconnected portfolios of activities, the risk of avoiding to cope with uncertainty is embedded within the role: in some cases, the PMO might instead cocoon within bureaucracy, as if more paper or more documentation could replace the need to discuss with management and sponsors issues.
+
+I also trained project managers since the 1990s, first as part of my role in selling, localizing, designing, delivering methodologies, and then to support partners or customers in improving their project or service management activities: again, I found that many, when having to deal with uncertainty, were inclined to create their own "certainties"- generally focusing on what they did before being appointed to the new coordination/orchestration role.
+
+Why "orchestration"? Because, frankly, the more experienced people you have, and the smaller the team, the more what I found useful is to deal with them as adults in their own domain, gradually increasing their "circle of influence"- notably when I was called up just for one or few missions for the same partner or the same customer.
+
+In a data-centric environment, as I wrote in the previous section, my experience tells me that you need to avoid what I saw often in the 1990s-2000s, i.e. having knowledge centralized but detached from the source that understood the degrees of freedom, weaknesses and "choices" that embedded.
+
+Otherwise, it would be transformed in such a way that the source could not provide insights to those using that if the uses had to evolve.
+
+And this is a reason why, while designing and delivering methodologies, said routinely that you should keep track of both the positive and negative choices, i.e. noting not just what was selected and why, but also the rationale of what was discarded, as the context could change.
+
+I learned that first in political advocacy activities, in the early 1980s, and then when working on projects for Andersen, 1986-1988, first in automotive and then in banking, on projects complex enough that we had few "redo cycles" (it was in [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) times), where for my decision-support systems role, to expand the number of projects I could support as "resident expert" (roaming Italy and Andersen's industry-based divisions) I instead blended the "iterative" and "product-based" side of Andersen's methodology, Method/1.
+
+In our times, when the number of potential channels of interaction expanded faster than our organizational cultures ability to "adapt before you adopt", a continuous governance and orchestration is probably more relevant, but while both often are considered toward a "static" set of choices, I think that we should add more constraints to associate data with quality of the sources and access to them to confirm/expand/revise uses.
+
+And this is were, of course, technology could help.
+
+As I saw for few customers in the 1990s, while designing and selling methodologies, you often need to reason in terms of "critical mass" to allocate the scarce time of Subject Matter Experts (SMEs).
+
+At the time, used Lotus Notes Workgroup discussion databases to "pile up" with a kind of system akin to our "like", to differentiate themes and make "emerge" those worth e.g. a meeting or not- as, otherwise, the SMEs would not even have time enough to manage their own projects where their expertise was pivotal.
+
+The alternatives, before that change? Ranged from those able, through social engineering, to have plenty of meetings with plenty of people continuously, also on trivial or half-baked ideas, to those who involved SMEs only when they were beyond recovery, due to misinterpretation of prior information.
+
+It was still more craft that art, and at the time considered building a small PROLOG Expert System to "filter" the basics (but never had time- eventually, with other customers, simply released one-page Q&A and similar written/visual tools), but, in our times, conversational AI might help to "dig" in our aggregate documentation storage, to at least have a preliminary filter.
+
+But discussing further the characteristics and dynamics of orchestration would require few thousand words more- and wrote a bit about that, on various subjects, in the past (see [on orchestration](https://robertolofaro.com/search.php?tag=orchestration) and [integrating experts](https://robertolofaro.com/search.php?tag=synspec)).
+
+At this point, I had planned to add a section on "two data-oriented service improvement initiatives", i.e. what I had planned as a case for Six Sigma Yellow and Six Sigma Green, but probably articles focused just on that would be a more interesting integration within this section.
+
+Anyway, both were about data privacy / GDPR and associated activities.
+
+<b>Human sustainability and blending control</b>
+
+As the previous two sections delivered the main "signposts" defining the boundaries of the rationale, these two last sections, before spending most of the afternoon on something else, will be focused on two key elements of a data-centric concept.
+
+I would like to start with sustainability.
+
+None of the initiatives discussed above would be feasible unless we were to be able to process massive amount of data in a coordinated way and by generating a further integration down the road.
+
+Within the mini-book that I released yesterday, added a concept that, eventually, the UN SDGs could extend to the individual level.
+
+I am not advocating the kind of model currently adopted by China and, without telling it, many Western democracies.
+
+As that model is just the XXI century transposition of Bentham's "Panopticon": nothing new, and focusing on sterilizing a shared mediocrity, not on integrating the full potential across society.
+
+Many of the AI models focused on ["nudging"](https://en.wikipedia.org/wiki/Nudge_(book)) that I read about actually start by putting the cart in front of the horses, i.e. deciding the end and having a convergence toward that end.
+
+It can be reasonable, and also useful (e.g. as the examples of rewriting tax office letters to increase satisfaction and compliance).
+
+Still, assumes setting a goal, and reaching it- without adapting to the impact that interim results of that goal could deliver.
+
+In the 1980s, on decision-support systems, often the first models started that way: the "waterfall way"- step after step to achieve a static target.
+
+The reason why I designed a "blended method" that diverged from that "sequential" approach was because, as I had seen before in political advocacy activities and in my prior studies-for-fun on cultures etc before that, human activities in decision-making or with social impact worked the ["Heisenberg Principle"](https://en.wikipedia.org/wiki/Uncertainty_principle) way.
+
+The funny part of my experience in Turin since 2012 is that the local commentators are spending so much time commenting, instead of getting inspired in doing something different, that get lost.
+
+I was born in a house with a library, and as a kid one of my first choices was to start building my own side of the library and, early on, to attend local libraries- it was funny how both in elementary school (I had small moustaches by 9) and high school (had a full beard before 15), when went to register first for the town library, then to the national library, tried to divert me to one appropriate for my age range, not for my past readings.
+
+And this is still the Turin mindset.
+
+In my activities, first in political advocacy since 1982, then at the University from 1984 (never finished- too many travels in my work), then in the Army 1985-1986, and finally in business from 1986, routinely had to dig into my own library, public libraries, bookshops.
+
+But the secret was always "embedding": while in my online and book publishing routinely add links, that is to allow you, the readers, to follow your own path and maybe, you can guess, find alternative routes- sharing information sources has that purpose.
+
+When I was a teenager, somebody in Italy published a book with the title "citarsi addosso" (a word play that I rather not translate, but let's say is exceeding with quotations and even quoting yourself as a reliable source): and I still routinely see those who do not simply share information while discussing, but keep referring to sources to confirm their own authority.
+
+Talking is not writing: in talking, you can refer to sources indirectly, but in writing I prefer sharing the links.
+
+So, in my activities, it was funny when others picked the references- functional references: as re-inventing the wheel is not that much innovative (something that I said over a decade ago when somebody from Italy routinely proposed as "innovative" a grandiose scheme that was either a copycat of existing USA sites, or a business scheme that sounded too much as a Ponzi scheme).
+
+If you are in technology, please do venture once in a while in other domains, in your readings.
+
+And if you are not in technology, please do the other way around.
+
+In our times when we are a "cog in the technological and data wheel", being oblivious to structural impacts (society, business, but also State behavioral patterns embedded in how you use technology) is a dangerous choice.
+
+Therefore, instead of the "cart before the horses" approach, I would rather see more "continuous re-assessing", as it was on decision-support models.
+
+In business, said that routinely about "Key Performance Indicators"- in society, in monitoring results of laws "nudging" toward an accepted set of behaviors.
+
+It is obviously easier to be "static", but, frankly, would you adopt a "best practice" that is the one adopted by your competitors 30 years ago?
+
+I know that there are some eco-extremists that, without noting the contradiction of their own actions, do as some communists did 30 or 40 years ago "using the tools of the enemy against the enemy": well, look at recent scandals, and you see how some of the latter, after 30 or 40 years, look a lot like already George Orwell described in ["Animal Farm"](https://en.wikipedia.org/wiki/Animal_Farm):"
+The original commandments are:
+
+Whatever goes upon two legs is an enemy.Whatever goes upon four legs, or has wings, is a friend.No animal shall wear clothes.No animal shall sleep in a bed.No animal shall drink alcohol.No animal shall kill any other animal.All animals are equal....Later, Napoleon and his pigs secretly revise some commandments to clear themselves of accusations of law-breaking. The changed commandments are as follows, with the changes bolded:
+
+No animal shall sleep in a bed with sheets.No animal shall drink alcohol to excess.No animal shall kill any other animal without cause.Eventually, these are replaced with the maxims, "All animals are equal, but some animals are more equal than others", and "Four legs good, two legs better" as the pigs become more anthropomorphic. This is an ironic twist to the original purpose of the Seven Commandments, which was supposed to keep order within Animal Farm by uniting the animals together against the humans and preventing animals from following the humans' evil habits."
+
+Again, in business activities sometimes it happened that there was a similar "we are just hence we can do not harm hence whatever we do is good".
+
+Actually, also in the XXI, was embedded in some statements- ironically, sounds a little bit like the old ["Gott mit uns"](https://en.wikipedia.org/wiki/Gott_mit_uns).
+
+Sorry, but as I wrote repeatedly... I was called a "reformist" when I was 14 (at the time, that was an insult, for somebody in Italy on the left), and I still dislike Zealots and extremists- including data-extremists.
+
+If you "attach" data with the rationale of its source, you need to have an expressed consent on data uses, delivery, and sharing.
+
+I will skip a reference to a specific book- you [can have a look and read what you like on data and privacy](https://robertolofaro.com/published).
+
+Actually, applied the same approaches for decades (I remember that once a CEO of a company asked me, half-jokingly, if, in the times when ideology still mattered, I had been a socialist): a little bit ante-litteram, if you want, but, being embedded in data-technology since the 1980s, it was visible probably not just to myself how the competitive advantage of both companies and societies eventually would be based on the active participation of those who had the data-point knowledge and understanding.
+
+Let's be frank: any data choice is a selective, political choice- including in business, as it represents a selection between a portfolio of opportunities and risks, based upon a ["teleological"](https://en.wikipedia.org/wiki/Teleological_argument) perspective.
+
+As I wrote before, I dislike "data-zealots", those who select the data that support their thesis, and then "sell" it as if it were the one and only truth: it is a mere peddling of your wares.
+
+Hence, we need a little bit more of "data intelligence" also from non-technical sides, to avoid falling into the ignorance trap that observed once in while since the 1980s, when a choice was done blindly, simply because... everybody else did the same choice.
+
+Meaning: I think that we do not necessarily need to train every manager on data-based decision-making hands-on (albeit, eventually when tools will be more user- and less nerd-friendly, it will happen as it happened with Excel), but in data rationale yes.
+
+And scientist too should understand better their impacts: otherwise, as I wrote repeatedly, their model is not Aristotle, or Einstein, but Mengele.
+
+Let's say that by 2030 we will achieve all the UN SDGs in at least 50% of the countries.
+
+We will still be way behind toward the path of global sustainability.
+
+And, in those countries that will have just a "green" across all the 17 goals, that would be a starting point to continuously improve, at the micro-level, with a continuous feed-back cycle: as I shared yesterday within the mini-book, actually the model proposed by some years ago for "smart mobility" in the XXI century could be a viable balance between the obvious need to retain a form of "teleological control" (controlling the ends), while integrating and identifying potential adjustments- continuously.
+
+Better than Bentham's static "Panopticon" or Hobbes' "Leviathan". 
+
+<b>Joining strengths and dynamic roadmaps</b>
+
+I did this morning a couple of experiments with ChatGPT.
+
+First and foremost, few jokes about ChatGPT.
+
+I do support the campaign "stop bullying ChatGPT"- of those who send up questions just to put in a corner ChatGPT so that it can give no answer whatsoever.
+
+And, as I shared with a friend yesterday, this could be another potential use of ChatGPT: give an account to those you potentially plan to "elevate" to managerial roles, and give them 1h to chat with the system, without leaving the keyboard.
+
+Such a conversation would end up better than the 1960s Eliza that used in the 1980s-1990s with PROLOG, in showing how "mean" somebody can become...
+
+...before (s)he will be promoted to where can maximize the damage to your expensively built talent pool.
+
+Now, second joke, proposed a game to be done integrating ChatGPT with a human team, to see how group conversations would evolve:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230117_proposalChatGPT.jfif)</center>
+
+More seriously, tried to have ChatGPT produce a summary of the text part of the mini-book (too long, turned my down), and then instead presented a structured question to see how "generative" it could be.
+
+And I was not disappointed: what it proposed was what any reasonable human would have proposed- but the difference with human experts, as shown at least in Italy during the COVID crisis, is that the system knows its own boundaries:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230117_ChatGPT.PNG)</center>
+
+As you can see, my question was a "leading question", as the aim was to have the generative side of ChatGPT to extend on my short phrase replete with keywords and hints, and obtain a reasonable proposal: frankly, something that even with humans is not so easy.
+
+I met sometimes people with plenty of vertical experience highly focused on a tunnel, and... for them, any issue was a nail that their hammer was applicable on.
+
+I do not know about you, but after 40 years of revising proposals, contracts, listening to demos, presentations, reading laws and political platforms...
+
+...most humans would have answered to my loaded question with a bombastic proposal- like I heard somebody answering to a question about improving access to some bureaucracy with a reference to flying cars.
+
+And then, you can see the net results of what I witnessed since the early 1980s "operational" Italian politics- as shared within the mini-book, this is the "scorecard" of Italy re UN SDGS:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230117_italymap.PNG)</center>
+
+So, I wrote above (and to anybody I shared the proposed game with), that it was a game.
+
+Actually, it was similar to something I did, but I was toying with that ideas to be able to do e.g. typical Delphi or brainstorming sessions but either doing it as a self-administered activity by a team without a facilitator, or to have a smaller team of facilitators acting as "second level support" in a round-robin done by, say, 10 humans, then a conversational AI, involving the human facilitator only as adjudicator when the conversational AI goes berserk, or when the human team goes into "kindergarten mode" (it happens).
+
+Frankly, the experiment is with ChatGPT- but, as I do not know the "cultural background" of ChatGPT, in a corporate context probably would do something akin to integrating ["organizational memory"](https://robertolofaro.com/search.php?tag=memory) within the context.
+
+Probably, could be a case of "transfer learning", i.e. having a "shared culture" model, and then add on top additional "layers" to reconcile that "shared culture" with organizational culture specifical elements.
+
+This could actually apply also on "framing" tuning discussions about the Italian PNRR with multiple groups: the overall structure of the plan is there, the hundreds of potential projects are there, the information about the status of each is there, it could make sense to involve again society in sharing an audit/assessment on the status of each project- something that would require field experts.
+
+Personally, as I shared both in person and in writing since 2012 in Turin (and a couple of times in Rome and Milan), I am tired of this obsession of bringing into elected office people who are "competent": we should instead stop injecting political appointees in "tenure track" bureaucratic roles.
+
+A member of Parliament, but even a locally elected official, might have a specific field of expertise, but will never have global knowledge of everything that comes through their desk.
+
+They should receive some basic induction training on the rules of the game (we still have, in Italy, way too many corruption cases or puzzling choices that a minimal grasp of the basic rules of the game would have avoided, and it is not true that everybody enters politics to get rich, lacking other skills).
+
+But then, they should deliver political guidance, and have a cadre of bureaucrats to rely on, plus a continuous monitoring outside their own control to monitor what in Italy we call "la manina", i.e. a bureaucrats adding some twists to a law, decree, regulation, to generate unfair advantage for a tribe or more.
+
+The strengths of automated systems that are "self-learning"?_they can process the same information one million of times, and one million of times different information, but will never get bored or tired_while they might be biased (and it is up to humans to solve that), at least their bias is constant, does not change according to "bribing levels"_whatever they do can be logged and analyzed after they deliver the proposal- might slow down their reaction, but still feasible
+
+The strenght of humans?_we can "complete information" according to the information available, not some fixed rule_we can react to completely different information by assembling new patterns from other patterns_unless we choose so, we are not limited to learning within a specific domain: our brain is flexible.
+
+I skipped the creativity side, because, frankly, I liked a joke shared the other day on Linkedin: we should have more AI and more IT focused on automating repetitive or predictable tasks, so that we humans can generate more art, not have AI and IT generate art.
+
+Anyway, AI assistance can augment our capability to deliver decisions with a complex environment, without leaving behind information that is blatantly relevant, and keep a "trace" (to allow backtracing) of how that was achieved, while also accelerating our speed in communicating results.
+
+Or: we humans sometimes spend an inordinate amount of time, notably in corporate environments, to generate "the perfect Powerpoint"- one hundred times.
+
+In some cases that makes sense, but in most cases that I observed since Powerpoint has been around "en force" (at least early 2000s), frankly, it would have made more sense to have something generate those presentations (if we had had back then the capabilities), and then choose, instead of seeing a presentation volley for weeks to deliver frankly marginal value.
+
+And, as a consultant who worked also in organizational improvement, financial controlling, and budgeting plus budget control...
+
+...if we were to have AI as a "virtual assistant" in meetings, it could easily measure also our consumption of time in pointless meetings, releasing people from the "duty" to attend pointless meetings, and letting them work on something where human skills are more relevant.
+
+Incidentally: whenever attending meetings, I used to be typing fast- so fast that, once a manager could not attend a meeting, while I was typing the minutes as if the meeting were a script, the manager wrote me that actually reading my real-time notes was akin to attending the meeting.
+
+The only thing missing... were the script notes (such as "Fade In" or "raising the left arm") that you would find in a theatre script.
+
+In the 1990s, to support a partner, a small project I did was actually evaluating and comparing software tools that were able to convert voice into text, as had been seen e.g. in sci-fi TV series such as "Galactica".
+
+Tested a few, used a few- but I am quite confident that with current tools, we can do better, and actually will share something in 2023, using online (free and partially free) online tools.
+
+Again, the point is: if we want to integrate our mutual strengths, we need to remove the "nerd" side: I do not see AutoML (did some test for a course) already there, but that system and its "siblings", if were able to be less resource intensive, faster to react, or at least able to work all by themselves a portfolio of options and then present the results, as a human analyst would do, would be a step forward.
+
+Also, in such a "collaborative scenario", interactions could eventually blend activities, as it is already happening with ["Cobots"](https://en.wikipedia.org/wiki/Cobot), i.e. robots able to interact with humans.
+
+Often, we humans stick to plans and roadmaps both for their "political value", i.e. would be detrimental to the career of some to drop a project or re-tune activities, but also because those plans and those roadmaps, notably in complex activities, have been the result of extenuating rounds of negotiations.
+
+In a tribal country such as Italy, the "organizational structure" embedded within the territory often adds further layers of "lack of flexibility", as each change would involve bartering across tribes, with potential impacts lasting on decision-making for years (or even longer).
+
+Therefore, while the interaction between humans and AI, each one contributing its own abilities, would "technically" enable dynamic roadmaps, as I did as account manager for a partner, interacting with few CIOs while dynamically re-allocating priorities within a portfolio of activities but retaining a neutral impact on budget, and did also for some direct customers, this obviously required the ability to work directly with the unique decision-maker and with a unique "entry point" on both sides.
+
+Or: in each customer, also for partners, whenever negotiated or renegotiated a contract, tried to "embed" within the contract a single contact point on both sides.
+
+Therefore, while my past experience and technical side say that this is feasible, my past (and also recent) political and corporate political side says that it is a matter of consensus building.
+
+As I wrote above, I was a reformer at 14, and, despite what locals in Turin say since at least 2012 (but actually also since the late 1990s, when I was called back to support re-reouting some activities, and then to support start-ups), I have a clear understanding of the balance of powers and need sometimes to "push", sometime to "balance", sometime to "nudge", sometime to "barter".
+
+The only point is: as I said in Paris when somebody tried to use me as a ["Belier"](https://fr.wikipedia.org/wiki/B%C3%A9lier_%28astrologie%29) (a "battering ram", which is actually my horoscope sign) to unsettle their enemies, I do not fight somebody else's battles at my own expenses (notably after they kept attacking me first).
+
+So, I rather share concepts and then help "fight battles" where I see a joint long-term interest in a joint effort. 
+
+The others can find wonderful consultants (if they look outside their own tribes), but have probably to pay for them.
+
+Or can keep doing what resulted in the current status of Italy: you cannot waste shared resources to support your tribe and then call for the "commons" to share the resulting burdens
+
+Using technology to enforce an existing balance is equally dangerous, as it risks perpetuating the biases that produced the current state of affairs, further reducing the ability to integrate a different perspective.
+
+As I wrote above, Italy could actually, due to the complexity of its inter- and intra-tribal relationships, benefit from a "neutral" perspective, as the one provided by models continuously applying e.g. on PNRR and other public projects or initiatives the same framework that the Corte dei Conti applies ex-post.
+
+But this would first and foremost require the shared political will of all the tribes to join forces at least to define the reference framework.
+
+Otherwise, will risk generating what I called above "data zealots": selectively using data to justify their own perspective on reality.
+
+If you re-read this article, you will find an array of potential micro- and macro-uses of technology co-operating within the human decision-making.
+
+I would suggest first to have a look at that mini-book that I shared yesterday, that contains more bibliography worth reading before defining a framework.
+
+Then, good luck! But would be interested in knowing if any of the proposal has been implemented by some, and the results/caveats derived from the experience.
+
+As, anyway, also ChatGPT is a beta, and its purpose is to tune, with occasional intervention of human "auditors" (you can actually raise the flag if you see that something is going berserk- the same reasonable approach to automation that also in the 1990s applied to that "wiki ante-litteram" used to reduce meetings).
+
+Have a nice week!

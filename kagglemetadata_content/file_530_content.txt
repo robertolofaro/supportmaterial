@@ -1,0 +1,429 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20231028_article.png)</center>
+
+The title would need a whole book- but instead will shared here some humble ideas derived from observation.
+
+Let's start with a copy of what I posted yesterday morning on Linkedin:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20231027_20231027_mattei.jpeg)</center>
+
+Yes, I shared in the past more material on the subject, what I called in that post ["my five cents"](search.php?tag=mattei).
+
+This article is unusual: generally, I write a draft following a concept, and then add material.
+
+In this case, shared since Saturday 2023-10-21 in posts on both my profiles on [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro) some information and commentary.
+
+I will let you browse my Facebook profile, but will reprint here some of my Linkedin posts since then.
+
+The sections of this article:_ a tribal society that wants to survive the XXI century_ Janus in Turin - when less is not more_ Investments and territories_ Looking at the wider picture_ Two planes of reality_ Elections, elections, elections
+
+Will start from Turin and Piedmont because this is where I was born in the 1960s, I moved away from first in the late 1980s (before relocating abroad in the late 1990s after working also abroad for a decade), then I was made to return from abroad in the 2010s, and where next year there will be both regional and European Parliament elections.
+
+Do not worry: if I had any emotional attachment to the territory, already in the early 2000s, and even more intensely since the 2010s, locals did their best to shift and consider the territory and those (foreign and domestic) dwelling into it just as a study target to keep doing what I was doing from the 1980s, and officially for work from 1990, i.e. cultural and organizational change, and business number crunching to support managerial decision-making.
+
+Skills that, since 2012, often I was asked to use also if my official roles were something else (basically, PMO at various levels).
+
+Let's begin anyway with a bit about my phases of observation of the Italian business environment, before and after leaving first Italy for good in the 1990s.
+
+And, of course, this is about [tribes and tribal attitudes](search.php?tag=tribe).
+
+<b>A tribal society that wants to survive the XXI century</b>
+
+Yes, "survive", while instead would have all the resources to reposition and thrive.
+
+I will begin with a chart.
+
+Let's say that you want to obtain some results- or implement some changes.
+
+This is the picture:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20231027_20231027_sieve_normal.png)</center>
+
+Those three key inputs do not have necessarily to be considered in that order.
+
+In some cases, e.g. the issue was achieving compliance at a minimimal cost and within a specific timeframe, and therefore "aims" guided an "assessment" how to be compliant with minimal "resources".
+
+In other cases, e.g. when compliance was seen as an opportunity to feed some changes that had been lingering for a while due to a lack of organizational grit or of a Trojan horse to embed them in, there were multiple iterations to the define the right mix between the three elements.
+
+In further more cases, the real purpose of the initiative was e.g. to keep people busy while waiting for customer projects, and therefore there were both multiple iterations to find the right mix, and then multiple iterations of the whole to generate incremental results, starting from a basic "minimum viable product" to test the market, and then adjust and have a further iteration, but only if there was interest- or if the people allocated was still available and not allocated on customer projects.
+
+Why this latter case? Well, reminds me a chat with an account manager from a tech company at the hotel bar in Zurich while was working on some management reporting projects.
+
+He told me that a bank had requested an expert "tech" that was billed at 2,500 GBP a day.
+
+Few months later, the expert kept complaining that he had nothing to do, and was spending all his days playing solitaire.
+
+The account manager proposed cutting down presence, and using the "tech" elsewhere, as having the "tech" there sitting idle for months would have affected his ability to deliver his expertise if and when needed: a reasonable assessment, assuming that the presence was needed to provide a service.
+
+In reality, the customer said that the "tech" was needed due to the requirements linked to insurance, not to be used.
+
+Therefore, sometimes, if you have somebody with critical skills, it is better to do what I did since had to return to Turin: also if officially not asked, keep those skills based on experience alive (i.e. updating, expanding, but also un-learning and pruning skills not relevant anymore) by working on speculative/experimental projects.
+
+Actually, already in the 1990s was designing and delivering speculative mini-projects to generate a new product or service, based on needs that I had identified while working or observing what was already available on the market.
+
+More than once those "micro-sabbatical" ended up being pivotal in the ability to "hit the ground running" in coordination activities that required an understanding of that domain, or even with partners or customers ended up using my half-baked MVPs (usually, the "backoffice" part was fine, the front-end was minimal, not market-worthy), e.g. to audit knowledge management practices or to revise organizational structures and associated distribution of roles, processes, tasks across organizations.
+
+Even if I and few others ended up being the few obtaining benefits, it was already a positive side-effect the "structuring" of ideas and identification of knowledge or experience gaps, as helped in future initiatives to avoid sitting idle while identifying which mix was needed, and then finding the right people.
+
+Why I was able to do that? Because I was lucky enough, from the early 1980s (first in political activities), to work alongside those who had more experience and relevant knowledge acquired in countless activities.
+
+Then, from the late 1980s, working on delivering projects based on corporate software products, and also work with those who delivered those products and sometimes had to add new modules or functionalities, manage releases, etc.
+
+Unusual for an Italian free-lance at the time, in the late 1980s and early 1990s was actually coached and trained first in UK and then in Paris, and worked in Italy with foreigners that had an approach to product and services that I was later to understand being more robust and structured than what was (and often is) common in Italy.
+
+As an example, in the late 1980s the areas of the methodology of the mother company I focused on, after my first project in 1986-1987 (automotive) and the beginning of the second 1987-1988 (banking) were iterative development and another part that focused on supporting and selecting software products.
+
+And then in the early 1990s was actually selling methodologies as a product, first associated to CASE software packages, then as self-standing cultural and organizational change services, dealing with Paris and UK as competence centres for a national methodology (MERISE) and a market one (Yourdon), as well as their evolutions.
+
+When you sell software packages that could be used by hundreds or thousands of employees within an organization, or methodologies that will require changing behavioral patterns that have been there for decades, you have to think long-term, and consider how to make that sustainable and able to be self-supporting with minimal (and focused) external intervention.
+
+Hence, I always assumed that you should plan from day one to pave the way so that as soon as feasible the day-by-day should be taken care of by internal resources who live their own organizational culture.
+
+Whenever I see change initiatives that then require a full-time permanent team of external consultants, I see a nice business stream for the consultants, not a sustainable change initiative, i.e. what I see is a "cultural bubble" embedded within but detached from the organizational culture of the customer.
+
+Often a hybrid approach is followed, at least in the initial phase, as maybe the people with the right mix of skills and corporate culture knowledge is either not available internally (e.g. because critical for other activities) or would take too long to bring up to speed.
+
+Anyway, the key point is: results are a function of the inputs that you provide- as I learned almost 40 years ago while learning PASCAL (a programming language) at the University in Turin, "garbage in, garbage out".
+
+In a tribal environment, sometimes the results are pre-defined by tribal boundaries:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20231027_20231027_sieve_italian.png)</center>
+
+Probably you did notice that the description "aims" is flipped upside down.
+
+The reason? While results are pre-designed to keep the tribal balance intact even after change (or, at least, to keep a temporary tribal coalition ahead of competing tribes), often aims are presented with grandiose systemic perspectives, as if the upside for the few making the choice were a universal benefit for all the tribes.
+
+Therefore, the communication becomes a "blue sky" helicopter view, the execution is tinkering to avoid losing control.
+
+With all the obvious consequences that I shared in previous articles on this website, e.g. what happens when, before the initiative is completed, the tribal balance changes, so that some components of the existing coalition de facto shift allegiance, first by voicing doubts, and then by finding grand-standing to justify their shift of allegiance which elsewhere would be simply called "carpet bagging".
+
+I wrote few hundred words ago that would use Turin and Piedmont as points of reference in this article.
+
+Not too long ago shared on Facebook the cover of two books that I read about the history of Turin and the history of the Savoy family, that started in France and expanded up to the unification of Italy, and gave way to the Italian Republic after a referendum that followed WWII, when Italians selected to shift from being citizens of a monarchy, to being citizens of a republic.
+
+I was not born back then, obviously, but would have voted for the latter: I prefer rulers that can be removed via an election, to those that inherit power.
+
+Beside other books, ["Storia del Piemonte. Dalla preistoria alla globalizzazione"](https://www.librarything.com/work/book/251424764) is a funny run through the history of the region where Turin is located, from prehistory until the early 2000s.
+
+Anyway, you can have a look on <a href="https://www.librarything.com/catalog.php?offset=5&view=aleph123&collection=469484&shelf=list
+">librarything</a> to a collection of books about Italy and Europe that read, in some cases also with a book review or at least a rating- plan to add more books that read (but did not report online), and, whenever relevant, to add a book review.
+
+Also if centuries ago other locations in Piedmont had more relevance, when I was born Turin was both a company town and the key urban area in Piedmont.
+
+<b>Janus in Turin - when less is not more</b>
+
+Who was Janus? Well, [have a look on Wikipedia](https://en.wikipedia.org/wiki/Janus):<i>"
+In ancient Roman religion and myth, Janus is the god of beginnings, gates, transitions, time, duality, doorways,[2] passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius).
+...Janus presided over the beginning and ending of conflict, and hence war and peace. The gates of a building in Rome named after him (not a temple, as it is often called, but an open enclosure with gates at each end) were opened in time of war, and closed to mark the arrival of peace. As a god of transitions, he had functions pertaining to birth and to journeys and exchange, and in his association with Portunus, a similar harbor and gateway god, he was concerned with travelling, trading and shipping.
+"</i>
+
+Yes, a kind of ubiquitous presence.
+
+Why this choice as part of the title of this section?
+
+Because, as I wrote above, this article is composed by existing material, connected with new material.
+
+Also, the aim of this article is to act as a first publication step before further publications, publications that will have to wait for further news updates.
+
+My original plan was focused on innovation and sharing some information about another one of my ongoing projects that reached the prototype phase.
+
+Technically, MVP- Minimum Viable Product, as became fashionable to say few decades ago.
+
+Actually, since I started working officially in 1986, more than once products could be really called prototypes dressed up as MVPs to achieve a series of advantages:_ minimize the cost of testing a product with the market_ identify how to improve the product courtesy of market's feed-back_ last but not least, occupy a corner of the market before others did.
+
+Yes, I know, I think in terms akin to a Go board: you focus on "surrounding territory" by making it less than wise for others to enter what you surrounded.
+
+Since the first COVID lockdown started, as part of my skills recovery and improvement, beside following training to update my data/AI skills, focused also on the physical side, i.e. skills that developed decades ago, but again updated.
+
+As I write routinely about "data-centric society", and about a decade ago published first a book on using your own personal device for business purposes ([The Business Side of BYOD](byod)), but already was over a decade ago attending events on IoT ("the Internet of Things"), eventually did blend the two in another book, with the subtitle "you are the device" ([obvious title: The Business Side of BYOD2](byod2)).
+
+The lockdown time, if you look at my Linkedin profile under "certifications", was quite productive: if you cannot go out for a month or more, and do not know even when you will be allowed, then a bookwork has a obvious way out: books, digital books, learning, and, in my case, trying to implement.
+
+Eventually, shifted to the real side, and started adding components and elements to my personal "travel lab" using AliExpress as a source of electronic components and computing elements.
+
+Will share something in few days about a bit of physical-digital product concepts.
+
+Anyway, over the last few days local news, and re-opening my material on patent application and management, converged on something that I saw via Internet just because I had a hunch when I listed the events of the day in Turin (well, also because I kept receiving reminders about an event that I not decided to attend).
+
+I will not repeat what is summarized ([just two pages](cv)) on my CV, where highlighted key experiences across Italy and abroad from 1986 (a real CV right now would be a mini-book, if I were to just add a typical why/who/what/when/how/results description).
+
+Let's just say that in 1993, knowing that in two or three years my cultural and organizational change initiative would be transitioned toward internel staff (as this is the way I work- first recover and stabilize as fast as possible, then build "organic" capabilities), went in 1994 and 1995 to spend my summer vacation in universities (Gothenburg and LSE in 1994, LSE in 1995), to pave the way for a shift toward something different by getting a formal Master in Finance, to blend my cultural/organizational change and business number crunching at the financial controller and Cxx-level experience.
+
+Was accepted thanks also to the introduction letters from a non-Italian management consultant and a CFO, but was offered only a residential full-time option- which was a non-starter, as would have been an excessive risk, to abandon all my customers.
+
+So, I kept working in Italy, until some business events showed the tribal side of Italy, while from abroad had already since 1993 added contacts abroad that invited me to help on some challenges abroad.
+
+When I relocated abroad in the late 1990s for the first time, then in the early 2000s considered returning to share in Italy full time my experience, with a basic idea: work in my line of  business, subsidizing a longer-term, higher risk activity to help develop the local business ecosystem by sharing what I had learned and "tested" in multinational environments since the 1980s (first politics as a kid but in Europe, then multinationals in Italy), localized.
+
+Therefore, already in the late 1990s, when I was asked to cover a facilitator role a couple of days a week to recover a datawarehousing initiative within the automotive industry, I also helped startups by developing business and marketing planning, and in other organizational development- my travels across Europe for business and my quiet time at home in London have me enough travel time to spend on either reading or working on concepts.
+
+Ditto I accepted another part-time opportunity as PM/BA for an audit again within the automotive industry, on end-to-end product management reporting: from R&D and engineering to sales.
+
+Actually, in the early 2000s, when I also published (2003-2005) my e-zine on change for managers whose [history and reprint can be read online](bfm2013), the idea of my eventual return to Italy in 2005 was to merge my UK Ltd with an Italian system integrator, to provide them with a UK office: they had IT experts (internal and external), and UK had demand, so we could do a near-shoring.
+
+Pulled from that when our merger of two became a merger of 4, as (and I was then proved right) did not see it feasible (I was eventually to help sever some of those ties as a negotiator and almost "paralegal" to support the legal side of the definition of the severance contract).
+
+Then helped anyway, when asked, to try merge that company and another one, to achieve the minimal 5mln EUR turnover needed for investors- but then halted the negotiation when I saw that the number and staff were there, but it would have been a merger between two who tried to takeover each other, i.e. would have made sense only if I had been involved from the investors' side and kicked out existing management, something that did not want to do.
+
+My plan to return to Italy was to help develop, not to go empire-building in my birthplace, Turin.
+
+Anyway, when I saw also through other companies and startups in Turin and Rome, including as part-time PM/BA in the public sector, how really Italy had "evolved" since the 1990s...
+
+... accepted an invitation to move to Brussels, not to resettle in Italy. 
+
+Less, in this case less structure and less transparency, is not more: as reality is dynamic, lack of structure and transparency implies that each further step, instead of being focused on opportunities to jointly develop, turns into a continuous check if the balance altered.
+
+As I said in the early 1990s while working abroad with foreign contacts, the trouble in Italy was back then (and did not improve) that, while people at the top also in other countries are more "political", spending a large chunk of their time preparing for what's next, in Italy also those far away from Cxx-level often spent so much time strategizing and networking or keeping up alliances (gossip too is useful to that end, if you have nothing better), that you wonder when do they work.
+
+While abroad, I did not consider that Italian tribes extend outside the Italian territory- but I was soon to learn that also Italians abroad, moreover if there just temporarily, are anyway a gateway or antenna for their own tribe.
+
+So, having interferences from Italy in Brussels started already in 2005, as soon as I moved there, and eventually in 2012 had to become again resident in Italy, and my first local opportunity in 2012 was... again in automotive in Turin.
+
+After my experience living and working across few European countries (and remotely elsewhere), mainly in English and French (also as a negotiator) and passively in German, found quite stark the difference with Italy, notably bureaucracies in Turin (once in a while visited also Milan and Rome, but that was marginal).
+
+Frankly, after a decade here where I saw how the slow decline since the 1980s produced, as expected, more tribal entrenchment and internecine virtual warfare to allocate dwindling resources, instead of the much overdue shared identification of common long-term investments, my bipartisan view is the same I had when offered in the past to work on some cultural/organizational change programs/projects or new initiatives (including startups).
+
+To summmarize: if you are unwilling to assess and accept reality and then moving on from there considering your starting point and potential, and then expand by attracting further resources, it means that there is no mandate.
+
+I still think that the territory in Turin and Piedmont has more resources that many other territories, if and when they move past their tribal obsession.
+
+And, actually, wrote the same when first wrote about local organizations derived from an early 1990s law that altered the ownership of Italian banks.
+
+<b>Investments and territories</b>
+
+In the 1990s, before I first moved abroad, my main customer was within the banking industry, an outsourcing and BPO company belonging to a group of Italian regional banks.
+
+As I had had already past experience in banking since the late 1980s (also the political advocacy where I was in the early 1980s was supported by a structure within a leading Italian bank), whenever had meetings with the organizational side of the banks, coffee or lunch breaks were always an opportunity to update my knowledge of the Italian business environment.
+
+A significant change within the banking domain in Italy happened in 1990, as was remembered by a book published in 2020 with the title [Fondazioni 3.0: Da banchieri a motori di un nuovo sviluppo](https://robertolofaro.com/index.php?page=415) (the link is to my book review- includes a link to a short history of the laws and regulations, including self-regulation, of the industry in Italy).
+
+What was the change? The privatization of Italian banks went through the setting up of foundations, and eventually included a dual mandate: shift ownership to the markets, by reducing the shares and votes held by Fondazioni, and take over a social impact role, linked to their territory of reference.
+
+Then, also, an incentive to merge smaller Fondazioni.
+
+As often happens in Italy, things do evolve as the tribal balance evolves.
+
+Another significant change at the time: the crisis of the First Republic that paved the way to one of the many new political parties expanded role- what is called the Second Italian started in the early 1990s.
+
+Or: the same political establishment that set in motion privatizations and designed ways to control the resulting new economic agents who were actually implementing economic policy (not just Fondazioni, also former State- or local authorities-owned large industrial and energy and utilities giants) lost control, opening the political landscape to those who had been either second-line or party bureaucrats.
+
+And also opening the door to those who had not raised through the ranks of traditional political parties and associated schools, either because they were outsiders, or because were stepping into the arena to take over the space left from they now fading away political patrons.
+
+Consequence: in Italy it was never popular to focus on long-term reforms, as would require a shared understanding of common good, not a mere extraction of value by whoever was at the helm in a specific moment in time to try to keep at the helm.
+
+Also, it became a continuous tinkering to keep being popular- and you can see the results in the "development" of the Italian State debt, and gradual expansion of organized crime embedding within the economy.
+
+New times anyway heralded a new political discourse, and the lack of fixed points of reference created the opportunity for a re-arrangement of political tribes.
+
+I remember decades ago seeing a map of the mutual ownership within different European countries: while many focused on Germany, the equivalent map of Italy was similar to the object in the background:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20231027_20231027_tumbleweed.jpg)[source on Facebook](https://www.facebook.com/EverythingLasCruces/photos/a.221822137974838/2046825235474510/?type=3)</center>
+
+Yes, tumbleweed...
+
+Let's just say that the picture has been streamlined over the last 30 years, but what had been foreseen for Fondazioni by media was not what, instead, more aligned with ensuing changes both on the regulatory and political side, had been the practical result.
+
+As I wrote within the review of that 2020 book, and was discussed within the book itself, often Fondazioni took over a bit of the role of both the State and local authorities, and this was also helped by, as I wrote in a previous article, a significant role of local authorities in leadership appointments.
+
+So, while nominally would have expected in the SDGs and now ESGs era to have an equalizer role, instead became increasingly active parties, i.e. a de facto political and policy role through their choices.
+
+Anyway, as I wrote in another article, ESGs imply that you cannot delegate to a third party your sustainability posture: have to become part of your own strategic posture.
+
+Hence, while recently at the Stati Generali della Cultura a leading bank presented its own activities in that domain that would have previously done by banking foundations, also on the welfare side announces showed a return within the portfolio of activities carried out by banks.
+
+As for the territorial limitation to Fondazioni, already within that book was summarized how the trend was to make joint initiatives to expand beyond the territory, and it was confirmed at a roadshow Turin event organized by the Cassa Depositi e Prestiti (usually referred to as CdP), which represents savings held by Italians at Poste.
+
+I [shared last week on Linkedin](https://www.linkedin.com/posts/robertolofaro_fdi-investment-attraction-activity-7122463730134622209-wOZM):<i>"
+yesterday was unable to attend as I was busy preparing for something else
+
+the event page is this one: https://www.cdp.it/sitointernet/page/it/roadshow_cdp_torino?contentId=EVT44706
+
+anyway, checked via Internet the regional news, and was puzzled by the newscast mix
+
+the potential is there, but too much focus on minutiae that serve few and cost many is still generating too much entropy and showing a lack of strategic commitment from the territory
+
+but shared my commentary on FB
+
+here, would like to share only what could actually be part of #FDI #investment #attraction to complement what the territory can offer long-term
+
+as it is not a couple of events lasting few days and done by sinking resources what increases attractiveness, but what changes structurally the social and business ecosystem of the territory in a sustainable (organically sustainable) way
+
+otherwise, it is a Potemkin Village approach to industrial development...
+
+stay tuned
+"</i>
+
+It was an event focused on investments within the territory of Piedmont.
+
+It was curious to hear the President of the Regione and the Mayor of Turin start their introductory speeches by stating...
+
+...how many millions they are giving back each year to CdP.
+
+Adding of course the note that it was their predecessors' fault.
+
+Respectively 122mln and 250mln, if memory does not fail me- but you can [have a look on YouTube](https://www.youtube.com/watch?v=oFtNXc6f1Rs): checked that you can watch it at 2x, and that the English subtitles, also at that speed, are readable and aligned enough with what was said in Italian.
+
+It made me think to another event, to celebrate ten years after the 2006 Winter Olympic Games held in Turin, where three Mayors, the one before, the one during, and the one after the Games, were invited.
+
+The latter opened his speech with the phrase that gave the title to one of the most read articles on my website [Amministrative 2016-03 "io sono quello che ha pagato i conti"](index.php?page=75).
+
+During the CdP event was remembered that there are more than 20 "accelerators" to support spawning new companies.
+
+But as I wrote in my post on linkedin, if you keep adding events and never developing a consensus on long-term choices at least between those able to provide resources but under political guidance, it is akin to having a fa&ccedil;de: political economy should be decided by elected officials looking to a common long-term interest, not to an increasingly cacophonic array of economic actors that design their own concept of "what society needs".
+
+Notably if they are using public funding.
+
+<b>Looking at the wider picture</b>
+
+In a tribal society with dwindling resources and reduced leadership perception of legitimacy, what happens is that anything created to move toward a more systemic perspective turns into yet another self-referential tribe that carves its own space within the market.
+
+It is interesting to see how many of State and local authorities assets that had been privatized in the 1990s, even to the point of externalizing functions and processes that elsewhere saw still under the purview of State while formally keeping a State oversight (which really impacted only on choices of top managers and staffing), eventually overcame tribal deadlocks...
+
+... by selling at a discount to foreign companies.
+
+It happened with Alitalia, it happened with ILVA, and it is now happening with the telco infrastructure.
+
+Let's hope that the latter will work better than the previous two, where billions of taxpayers' money were pumped within supposedly formally or informally privatized entities, only to end up with a "sale of the century" (to remember the title of a book about USSR during the dismantling phase), i.e. selling assets for a fraction of what would be their development or replacement cost.
+
+Actually, when started working in 2012 again in Turin, as shared in previous articles, decided to have a look via public libraries to what had happened since I left (actually before- as formally left Italy in the late 1990s, but really left Turin in the late 1980s).
+
+It is a two-faced approach to privatizations: invoking the free market and competition, and then having the State work as fixer of last resort (no, not a "lender of last resort").
+
+According to this chart, Italy shifted from being the 6th to the 10th largest economy in 40 years, and in less than 30 years will not even be within the top 15:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20231027_20231027_topeconomies_1980-2100.jpeg)
+([source](https://www.linkedin.com/posts/robertolofaro_economy-money-globalgrowth-activity-7121534754813882368-570s))</center>
+
+Italy had in the 1990s a season of privatizations that many nicknamed "wild".
+
+Privatizations Italian style did not slow decline after being heralded as a new birth.
+
+Look at the state of italian infrastructure and its maintenance.
+
+The cacophony of economic actors taking over purposes of the State (from non-profit investment in culture and society, to welfare) generates another issue: you get favorable tax treatment, which removes resources from general taxation, but then develop your own interventions that do not necessarily align with what voters selected.
+
+In our tribal society in Italy, the reduced ability to have an impact generates more tinkering from the political side, usually countermanded by more expansive announces within the same areas from private economic actors.
+
+Which, in turn, undermines the democratic legitimacy of elected officials- and recent local elections where less than 30% of the voters bothered to vote shows how much distance between voters and elected representative has been building up during the Second Republic.
+
+<b>Two planes of reality</b>
+
+Personally, since the early 2000s when I accepted an invitation from a consulting company to work part-time as PM/BA at a discount on Government projects in Rome, had a look at what had been done in Italy in the public sector on communication and management development.
+
+Since the first COVID lockdowns in March 2020, it was easier, as most shifted to webinars.
+
+As [shared on Linkedin](https://www.linkedin.com/posts/robertolofaro_mise-sviluppoitalia-invitalia-activity-7122158407834320899-Nswn) few days ago:<i>"
+thanks #MISE for sharing an attendance certificate
+
+as those who worked in my two projects for #SviluppoItalia (now #Invitalia) or met me at #ComPa almost two decades ago know, also if most of my activities since the 1980s have been in the private sector in Italy first and then abroad, I always advocated more audience- vs. internal-focused communication, as it is the only way to then build a virtuous feed-back cycle from #society to #State and back
+
+and to avoid piling up on the tribal attitude typical of private and public organizations in Italy also a self-referential attitude, attitude that documented in articles and books
+
+of course, I walked the talk: some in the former Sviluppo Italia FDI Attraction function probably remember that, when asked to contribute to communication, as it was outside the scope of the project I led part-time, simply did it pro-bono outside business & billable hours - as those few hours would not change my personal bottom line, but could help others in doing what only they could do for the sake of #Italy
+
+way forward? I would start from dissecting the #PNRR from its inception, to see why the initial opening of the doors to civil society did not deliver from start the #common #good attitude and plan that the ongoing crisis required
+
+anyway, since 2020 shared commentary and ideas as well as material, both as posts, articles, datasets on my website and other platforms, in CC-BY mode
+
+and will publish more soon
+
+https://lnkd.in/d-eKgcz7
+
+stay tuned!
+
+meanwhile: why don't you visit #MISE #ATC website to see planned seminars?
+
+this is the link:https://lnkd.in/drd56VCw
+"</i>
+
+The PNRR was a "tremendous opportunity" to do at least an assessment of how Italian society is faring on the "common good" development- which is what I did with e.g. [some sharing on GitHub](https://github.com/robertolofaro/pnrr), and plenty of articles on my website.
+
+As I wrote within the Linkedin post that I shared above, I think that Italy has both the financial and "human capital" resources needed- it is just a matter of distribution and allocation.
+
+Creating more tribes that then go into "empire building" is going to generate less value per unit of investment, not more.
+
+So, probably, a good start would be not to loan high-ranking managers who have not a clue of how the public sector works, but instead of shadowing internal staff and managers with those from the private sector who could help in introducing new practices, while having in place somebody with the level understanding required to make those changes matter and stick.
+
+Otherwise, we will just get more announces, but at the same time we will have to deal with less competitiveness for the future and less ability to attract real long-term investments, not just that factor in tax credits and short-term funding, and...
+
+... delocalize as soon as that dries up, leaving behind empty boxes.
+
+At least in Turin and around Turin, there are already too many empty boxes from its mass-production past, empty boxes that lack what is needed to reuse them in our present and future, as shown e.g. recently by an aborted "battery gigafactory" investment that went elsewhere.
+
+As I wrote at the beginning, in Piedmont we are heading toward two elections (hopefully done at the same time, also if political opportunity for some would make more interesting one in March 2024, and one in June 2024).
+
+<b>Elections, elections, elections</b>
+
+As [shared on Linkedin](https://www.linkedin.com/posts/robertolofaro_rating-italy-sustainability-activity-7121410009791365120-_UiE):<i>"
+S&P confirmed its #rating of #Italy
+
+I never voted for any of the political parties currently part of the Italian Government
+
+So, my commentary is bipartisan- and find more puzzling than disingenous when somebody keeps saying that it is all the incumbent's fault
+
+As it is something that already discussed in the late 1980s when first worked with foreigners, after some political activities also in number crunching, and organizational/technological change and business number crunching with financial and other business controllers across Italy and across industries
+
+The journey to change starts with the first step
+
+In my first book within the series "citizen audit" shared few years ago documented examples of how Italian bureaucracies work, and hopefully, while not solving the specific case, could inspire some changes
+
+The digital version: https://lnkd.in/dfvv5jwc
+
+Since 1990, in cultural and organizational change activities that also used the number crunching side, always reminded my customers that first you have to accept an assessment of reality based on data
+
+Officially continued around Europe until 2010, but in reality was asked informally to do until few months ago- unofficially and unpaid ðthat's Italy after spreading budgets across tribes...
+
+...which is a reason why, since 1983, when I actively participated to my first and last political campaign, decided to stay as I had been before: bipartisan
+
+Stay tuned- will be interesting to see if and when there will be a joint effort to promote structural changes that look at long term accessibility for any citizen to rights
+
+Which is another definition of
+... #sustainability - i.e. the "Social" part of #ESG
+
+On e-partecipation from citizenship, I can also share a link to the proceeding of a study promoted by European institutions and steered by Rand in 2010 (as you can read from the experts list, I attended the final EUReGOV workshop, basically using Delphi)
+https://lnkd.in/dRmgP7e5
+"</i>
+
+The interesting part of those workshop in Brussels was that they were what often is still lacking in what I attended in Italy since 2012 (from 2020, mainly in person in Turin, virtually elsewhere): they were really multidisciplinary, and actually often some key concepts were shared across all of them, no matter what the specific domain, as were part of the concept of what the European Union stands for.
+
+In many events attended in Italy, I saw often the same people deliver different information in different events for different audiences- which is adequate considering the cacophony of de facto economic policy agents, but not if you want to build a consensus.
+
+Recently I went back to books about a time when Italy was trying to become a country, in the second half of the XIX century, and shared already before how short-termism presented as long-term was already in place, e.g. all the investments done to develop Florence as the new capital of Italy...
+
+... only to leave behind debt, infrastructure, and move to Rome.
+
+It kept going on for a while, and it is interesting that the "treasury" of the new State was held by somebody who moved from the Alps of Piedmont down to Rome, Quintino Sella.
+
+Will share somebody more serious within another mini-book, because, as you probably understood, this article is actually an outline- each section would deserve more, not just the title.
+
+Meanwhile, as I am posting this article on a week-end, I would like to share how Quintino Sella was see from his contemporaries, through... cartoons on newspapers and magazines.
+
+This is the book: ["Dalle Alpi alle Finanze"](https://www.librarything.com/work/31144082/book/251424388), published in 2019.
+
+For myself Turin and Italy are a market- but, as I wrote in past articles, I consider that in a data-centric society business and "experts" cannot really claim "political neutrality": they are political actors- also already shared almost a century ago [Schmitt](search.php?tag=schmitt).
+
+And the same applies actually, in my view, to behavioral change (both in organizations and with a wider scope), as [shared in an article in 2019, "The unbearable impossible #neutrality of (#behavioral) #change"](index.php?page=353).
+
+No, I am not observing as a potential political candidate.
+
+Whenever told to consider that option, I replied that Italians nowadays do not want to cope with reality, and therefore I remember that in the early 2010s said that, even if voters were to ignore anything else, my own political ideas and approach to change would get at most a 2% vote, and only after building a "coalition of the willing".
+
+Also, my "community" would be centre-left reformists that look at social impacts but also look at sustainability, "guardian" of resources for the next generations, not just extractor: something that probably would shift that 2% to 0.00002%.
+
+As you probably read in previous articles, last year, after yet few more rounds of interviews focused mainly on keeping on the territory but leading nowhere, decided that it is was worth in November to spend time investigating the level of access to corporate information for ordinary citizens provided by the web side of Borsa Italiana, notably to see which information company provides.
+
+In the end, of the over 500 items listed, only slightly more than 300 survived my criteria ([you can find the rationale and dataset with links etc here, on Kaggle](https://www.kaggle.com/datasets/robertolofaro/borsa-italiana-listino-as-of-20221119))- and retrieved the balance sheets published for 2019 and 2021 (and also other material).
+
+So, I am now blending three elements:_ my observations on the ground and in business since 2012 (and a checkpoint vs. what I saw in the 1980s and 1990s)_ what is shown in data, including the above and other material that collected since 2018 on EU, Italy, etc- notably on SDGs_ and added since July what has been the "pulse" of political and social communication as represented by media.
+
+I am still puzzled by some presentations, but it is quite curious to have also local newspapers as well as local news unable to set on the tone, and mix Miles Gloriosus announces side-by-side with news worrying about the future and reporting what is really going in the opposite direction of what the announces within the previous news item said.
+
+In business might happen that you have internal worried news and external bombastic announces.
+
+Here, probably the idea is that a different public would need different messages, but when the audience is shared, and the communication channels are online, one wonders if the territory is really willing to solve issues.
+
+Claiming successes not in what they do, but in what they mend of what others had done (including from the same political side) is fine in other contexts, when you are called up to recover and meanwhile "freeze".
+
+As those coming later will pay the cost of focusing on fixing yesterday instead of keeping it working today and tomorrow- and making choices.
+
+Which is my view since 2020 of the Italian PNRR: too much focus on recovery what actually had been fading for a couple decades, and too little on resilience to build sounder foundations for a future.
+
+All the while shifting the reimbursement of today's profiglacy to tomorrow's taxpayers.
+
+Stay tuned- I think that the next few months until the June elections could be interesting to observe and report on.

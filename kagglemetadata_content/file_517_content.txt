@@ -1,0 +1,259 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230808_article.png)</center>
+
+This article is actually sharing a conceptual architecture.
+
+As all the articles within this section, the idea is to share the concept.
+
+Therefore, just a short preamble to contextualize background and project this conceptual architecture is resulting from, and then the concept itself:_ preamble: the background_ introduction: the project_ testing ground<b>Preamble: the background</b>
+
+First and foremost: it is a project to share and apply a concept, not a project of a startup.
+
+Hence, will discuss here only the project that I am doing as a proof-of-concept, streamlining what, in a real, production-oriented product/service, would require different concepts.
+
+If I were to share the background story, should really start in the 1980s, first in political activities, then in the Army, then in business number crunching in automotive, banking, and a wide-range of other industries.
+
+Shifting then, from the 1990s, to consider, as a customer told me while asking if I would accept a long-term mission, to change the way their people was thinking and working.
+
+All while retaining a watchful eye on technologies supporting both the 1980s and 1990s concepts, courtesy also of the collaboration with more than a handful of companies producing software for business number crunching (many eventually were absorbed by others): I gave my cross-industry and change expertise, they helped me, willing or not, to understand their business software packages (and before that also timesharing, the initial SaaS, and outsourcing).
+
+But, as I wrote above, I prefer to share the concept, which, due to a series of consequences (in no small measure also my membership with IEEE on and off since 1997, courtesy of a fellow American Mensa Member I was working with in Italy), and countless projects I was either part of, supporting, auditing, of advising.
+
+As I wrote in previous articles, the COVID crisis had in my case a stressful yet positive consequence: when the first Italian lockdown started in March 2020, we did not really know how long would be.
+
+And, anyway, having recently closed an activity after completing a mission and being in "scouting for new missions" mode, I had to consider that, even if it were to end soon (did not), would have at least 4-6 months before business returned as usual and, for my roles since 2012 (PMO and the like), companies would contact me.
+
+Actually, de facto since late January 2020 (when WHO did the announce), I had done my best to avoid unnecessary risk, to the point of trying to avoid going to an emergency room after having been bitten by a dog- as I had studied models of risk using books coming from the medical side of risk, in the early 1990s, as part of my studying to be able to consider how risk management could evolve in the industry where was most of my customers were- banking.
+
+Well, it was not so far fetched as an approach, as also others, decades later, used epidiomology concepts to study the dissemination of risk in banking, but also the physical Euro.
+
+So, I had time to build a project for myself, with intensive training and update, data preparation and dissemination, and testing concepts on data that were real or based on my political and business experience since the 1980s, not just the usual "Titanic" of "Flowers" datasets.
+
+Actually, [you can see that eventually this grew up in a long list](datasets).
+
+This apparent digression is to introduce visually a key element of the conceptual architecture that will clarify: while having a "vertical" expertise (in business, technology, others) is a needed element to the mix to convert a concept into an architecture, prototype, MVP, and a product that reaches an audience, you need to blend various elements.
+
+Otherwise, you end up as many startups: they weren't too early for their market, most often than not they had their own idea of what they customers could need (sometimes after being helped to see it- a new market is often not created by the customers, but attracts them), they fell in love with their own plans.
+
+I saw proposals claiming that they would get a double-digital slice of a market starting on a shoestring, as supposedly nobody would dare to enter their market.
+
+It might have been correct in few cases, but when what you offer is basically a different way of doing the same, and what you offer requires the active collaboration of everybody in the market, including your potential competitors who are actually well positioned to pre-empt your product/service as soon as it is announced, by repurposing what they already have, once you have proved that there might be demand...
+
+Anyway, each case is different, albeit in the past, whenever prospective startup founders contacted me I always tried to understand if they had "techn&eacute;" (roughly- structured knowledge coupled with experience, direct or indirect), or financial resources, or people with either, or at least had done their digging and research.
+
+Curious how many simply saw that, according to them, something was missing, but never bothered to ask "why".
+
+Or, in some even more curious cases, it did take few seconds to understand that they had just indirect and superficial knowledge: never worked in their target industry/market, just read something and found it interesting- also if they knew nobody with resources or skills, assumed that "their idea" would be able, if packaged into a business and marketing plan that sounded as credible, to generate a new business that would then allow them to "exit" rich in a couple of years.
+
+Frankly, also recently, when talking with startuppers, often the latter was the real motivation, not a dream, an idea, or a purpose.
+
+Hence, when startuppers contact me in Turin, Rome, Milan, generally let others have fun- time is a scarce resource, and turned down in the past also paid opportunities to "package a credible business and marketing plan": I am not into snake oil peddling...
+
+My Italian experience since the late 1990s part-time, 2012 full-time is what I could summarize as: grandiose schemes.
+
+Grandiose schemes unsupported by willingness to make choices, while expecting to have all the services of an utopian clockwork society of the XXI century, in what is still in reality a tribal extractive society.
+
+I keep being lectured about common good by those who either extract as much as they can as if it were an entitlement, or seem to consider that there is no common good unless they are the one ruling it: I am afraid that, in my view, if you want to remove "mafias", you need to have a thousand of flowers (i.e. socio-economic actors) blossom, not have, in each sector, just one "champion" that acts as a gateway and certifies the "common good".
+
+I still prefer startuppers (profit or non-profit) who create something that they believe could make a difference- from society to also just a product or service- but not just "exit oriented", or just positioning themselves as the "filter" toward a specific domain (including by often posturing as if any public funding in that arena should get through them- hence, we have many accelerators, incubators, etc- but few "unicorns" who stay in Italy but operate globally).
+
+Equally, I still prefer those providing their expertise for the common good, but not to build a sinecura for themselves: we have enough of that from our politicians and business people who apparently assume that they can be full-time holder of visibility offices, while also developing their own company.
+
+I routinely, in the past, discussed the Italian spoils system where apparently each job that gets directly or indirectly (i.e. also in the private sector, if influenced by public procurement) is "allocated pro quota", therefore while I think that "giving business talent on loan" to public affairs is fine, or viceversa, should be mutually exclusive.
+
+We have already enough politicians who, when fail to get re-elected, end up in a wide range of non-profit, foundations, etc that they really use as a trampoline to stay at the forefront of politics.
+
+Again, would have no qualms about politicians who, after ending their mandate (an unusual event: over the last couple of decades, almost all those "on loan to politics" once in, never left), were to share their knowledge, expertise, etc, by jumping on the Board of non-profit, foundations, or even companies (but would like to see more rules such as those that I read years ago as pre-conditions to work for ECB, and restrictions after leaving ECB).
+
+Since 2012, I heard way too many times in Turin social engineering concepts really built around the idea that those presenting them had a "manifest destiny" to hold a leading role- and apparently some found almost as an insult that locals (I am not that local anymore) not coming from the environment where they were now, would dare to have their children study to get ahead in society.
+
+Luckily, while working abroad I saw that a "caste" system is not the only one reasonable (albeit also abroad obviously having a silver spoon helps).
+
+And, as shared in previous articles, while I was used to do so in the past (learned the art and benefits of delegation in political activities), working and living abroad made me better understand the value for the "market" (or "ecosystem", if you prefer) of helping to develop talent wherever found- friend or foe, if you avoid trashing and help develop, we all will benefit, in the end.
+
+Somebody mistake that for altruism: it is just common sense and extending to the common good self-preservation.
+
+Italy is still deeply pre-industrial in culture, on this count, but Italians would like to have all the benefits of a post-industrial, data-centric society, while retaining the flexibility of having rules tailored to themselves individually.
+
+As an example, I remember how, in the late 1990s, people were stealing each other's employees... on a monthly basis.
+
+And also recently, I saw how many job postings in Italy actually described for junior roles experience that would be feasible only if they had already been working for competitors: as when I was selling training in the early 1990s, in Italy training is a cost that you rather have somebody else take over on your behalf.
+
+My personal experience in Turin since 2012 (first time full-time since the 1980s, also if I was born here) is that both personal (relatives, friends, colleagues) and business relationship are linked to that cognitive dissonance.
+
+To get into the XXI century, there is an urgent need to develop a mindset that locals preferred to barter with tribal connections and a social mobbing approach.
+
+I found laughable enough to be offered in Turin to do what some called "business hackatons" to feel trendy.
+
+Which, in the end, was unpaid management consulting to train other consultants and managers belonging to tribes- often, from the same who ask to be paid for any kind of advice or activity, and such free consulting activities were disguided under various concepts, from practical sections of workshops in public courses, to informal discussions with a pint of beer, to personal invitations. Parasitical.
+
+Until this cognitive dissonance is solved, personally I think that I had lost enough time in Italy.
+
+So, to close this section, I will repeat what I wrote at the beginning: this article s a project to share and apply a concept, not a project of a startup.
+
+<b>Introduction: the project</b>
+
+If you had worked with data from business and society for almost 40 years, interacting at all levels but, since an early age, starting with interactions with senior management and seeing through their perspective what was relevant to their decision-making, you would have eventually seen how, with all the technological evolutions, time contracted and volume expanded.
+
+Data generation/delivery time and data volume and data storage: also because the cost per unit lowered.
+
+But, gradually, more and more data started being decoupled from the people involved in producing the data: data as a side-effect of human activities getting directly embedded into your business and social system, unfiltered from humans.
+
+In the 1980s, data was most often willingly entered by some human, not simply produced by human interactions in their daily activities.
+
+Look just at your car: chances are, it contains a large number of "computing units", not necessarily accessible and visible to you, but while in the past the data needed a visit to a car shop to be extracted, now increasibly will be "spilled" just by interacting with the infrastructure of your city, other vehicles, and, eventually, also individuals with a smartphone in their pocket, or a fitness band at their wrist.
+
+So, my project is built around the idea that not only data will be democratized- also processing, or building new products/services could, as it happened in business decades ago, when those activities shifted from the "priesthood of IT", to any business executive (I was also selling those platforms, so I know a bit about this).
+
+The concept, now and in the future, is to do what I shared in past articles: I do not see AI and humans as competitors, but as a potential for co-opetition.
+
+Each side could influence and complement the behavioral patterns of the other, and accelerate innovation in products, services.
+
+What is needed, is to my as simple as possible the interactions and integration.
+
+If you still need a continuous and structured effort to do that integration, we are back to the early 1980s, the beginning of "a PC on each desktop" era in computing.
+
+Instead, we should build "computational Lego(tm) bricks" that allow to mix-and-match based on purpose and "associated baggage".
+
+Today, if you want to compute the payments for a mortgage, you do not need an expert: you can go online, fill a form, and get the results.
+
+Or, if you have access to any spreadsheet software, to keep your data confidential, you just need to look online at how-to instructions, and do it yourself.
+
+The concept architecture that started experimenting with is built around few components representing different "ingredients" of a future mix:_ subsystems close to where the data are created and collected ("Edge"), that adapt their behavior to local and shared data_ humans generating and consuming data, they too adapting_ intelligent "connectors" that get human and machine data to help both adapt their behavioral patterns.
+
+As an example, in this project, will test different kind of compositions for subsystems, just to see how this human-machine and local-central feed-back cycle could influence.
+
+For the first phase, to test the concept but without much complexity, will assume an approach that worked well as with humans and distributed organizations, in my experience, i.e. "management by exception".
+
+I know that many assume that plenty of data and cheap communication mean collecting everything continuously, and then digging.
+
+But, frankly, de-contextualizing what we humans produce as side-effects of our activities (and also sensors) in my view would increase the "noise" in your data, not the signal.
+
+Hence, will follow an approach that I called [relevant data](relevantdata).
+
+Not anything anywhere continuously, but only what, in the local (human or machine) context makes sense to share to influence others: i.e. "local intelligence" that helps to convert raw data into information that could influence.
+
+In other applications, obviously this would not work, as maybe you would need to get everything.
+
+But, as I wrote above, this is my project.
+
+A general conceptual, visual representation is the following:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230808_arch01.png)</center>
+
+Also in human systems, I think that KPIs (Key Performance Indicators) should evolve: whenever I see a report showing that KPIs are all 100% or close, month after month, I think that the potential benefit of continuous improvement and innovation is lost, and replace with a sense of complacency akin to what I observed in my birthplace (Turin) since 2012 full-time, and in both Turin, Rome, and often Milan since I had my comparison in the late 1980s with life and business abroad.
+
+But if you add "intelligence" both to humans and devices that are "local", you need to "learn to unlearn"- which is something frankly easier with machines than with humans.
+
+Witness that today the Italian Government announced that have been stricken off the books some over 20,000 Royal Decrees and their consequences out of over 30,000 still on the books.
+
+If you consider that, since the end of WWII, Italy is not anymore a monarchy, and became a Republic, you can start to get the criticism I shared above (and in many past articles).
+
+Also, in this conceptual architecture, would like to make the "coordination part" simple, to avoid additional costs and overhead.
+
+Hence, will do what I did with humans systems, and tested with sensors.
+
+When I was working to help a partner in different locations (and different customers in different countries), I covered roles ranging from negotiator, to project manager, to account manager, PMO, etc- all the same time.
+
+Obviously, avoided doing four phone calls at the same time (also if, in recent missions, as a kind of local test, sometimes I found myself invited in two or three calls "that you cannot miss" at the same time).
+
+What did I do? Worked on a schedule and routine/"ritual", and exceptions- i.e. never allocated 100%, but left a chance to get on emergencies/crises, while also ensuring a continuity across all those dossiers/missions I followed.
+
+Which all made for some funny billing methods- when I was working for an Andersen company in the late 1980s, we had a timereport to fill every two weeks.
+
+Fine, if you worked on just one account/project, plus training (the main Andersen company, I was in an ancillary unit, had a continuous training along all the career, from rookie to partner).
+
+As I was from 1988 on too many accounts, managed to convince to allow me to allocate my time in slots of 15mins, i.e. 0.25 hours.
+
+Eventually, became a shared standard- and carried it along in each job, customer, partnership.
+
+Why?  Because I think that, beside hating double-billing (i.e. charging two customers or projects for the same time), I think that tracking time is useful to build organizational memory, i.e. to identify how much effort is needed for a certain type of activity.
+
+Also, as somebody selling projects... to turn down projects that start already underbudgted and overpromising.
+
+Therefore, I kept doing my "ritual" of contacting project teams, customers, etc.
+
+I am for ultra-quick meetings, better, relevant meetings: those doing a ritual of one hour each week under the concept "we have one hour, we already finished, but let's use the hour anyway" are getting on my nerves.
+
+And also when I was doing a presentation on a portfolio each fortnight, did not keep all the time if it was not needed, or nobody else had anything to discuss/propose/etc.
+
+Converting the concept to the subsystems (humans included) to processing engine conceptual architecture shown above, keeping it simple implies having something that "pulls" at specific intervals any pending data provided by a subsystem, and then unleashing a sequence that shares the resulting influence (if any) across all.
+
+Again: this might not work in other cases, where "management by exception" requires what, in older times with electronics, called "NMI" (i.e. a signal that would immediately require attention), but this is a conceptual project to integrate human and digital sensors.
+
+So, this is a representation:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230808_arch02.png)</center>
+
+The "steps" are the time frame.
+
+A funnier concept to explain an application is what I found long ago within a book about the USSR space exploration activities.
+
+According to that book, whenever there was a launch, there was a number of telemetry/observation/etc stations that should be "online" to properly follow a mission.
+
+So, when everything was ready for a launch, before the launch, suddenly a first station made a sound, the second made first and its own, the third one the first two plus its own, etc (I think there was more than a dozen of stations).
+
+In the end, it was a tune- and only when it was complete, meant that each station and the next one, as well as all the others, were online.
+
+The approach is the same- but I do not know yet if I too will add some "music" to the data.
+
+The key element here, in this project, is only streamlining the communication, avoiding conflicts, and letting each "station" start only after gets the "signal" go ahead.
+
+Example: if I do not have data to send, would send just the signal, and the system would send back the invitation to the next.
+
+If I have data, should be "vetted" by the system to decide if it is worth (a threshold, maybe piling up on other data from other subsystems) an update to the "baseline" all the subsystem consider as "reality".
+
+So, only after completing this update the "invitation" goes to the next- and so on, in a circle.
+
+As I said, it is a conceptual project, so will limit to few "subsystem" to try having:_ human_ simple (single processor, single sensor) subsystem_ subsystem that has a more complex interactions with reality.
+
+Or: just three- but, if working, could be "scalable", as the concept of "piling up signals until reach a threshold justifying update" and "management by expection" (i.e. not sending every single data item) should make relatively routine and fast each cycle, unless something is needed.
+
+Obviously: also the central model will be relatively simple, to test the conceptual architecture- but could have multiple levels of filtering, analysis, thresholding, including "pushing" only toward some subsystems and not others, if, beside a shared baseline, there are some relevant only to some subsystems.
+
+If it is seems complex, think again.
+
+In multinational companies, that cover maybe different businesses, there are management reports and updates to KPIs that are relevant only to some business lines, not to others: is that any different?
+
+The only difference is that this is human-machine integration, not just human.
+
+<b>Testing ground</b>
+
+To make it easier, will use only cheap processors (but you could replace them, in your own implementation, with something else), and free services.
+
+The idea is to democratize prototyping and developing product/service concepts.
+
+Hence, if I were to build something to be used with consistency, a degree of continuity, and significant allocation of resources, would use online providers (e.g. for the subsystem-to-data-central, could be something like [Edgeimpulse](https://edgeimpulse.com) or <a hef="https://ifttt.com">Ifttt</a>- I have a free account on both, but could evolve in the future).
+
+But for prototyping, also to share online to allow reuse (once my experiment is completed), will use instead [Kaggle](https://kaggle.com).
+
+To summarize (hope in few months to have a full example to share online, to allow you to recycle, if interested), Kaggle's API has a couple of functionalities that would be used in this test project:_ you can create/update a dataset_ you can create/update a "kernel"", i.e. basically a jupyter notebook_ you can extract data from the former, and results after an execution from the latter.
+
+There are other features that will not be needed for this proof-of-concept, but [I will share more technical details on a thread that I started few days ago on Kaggle](https://www.kaggle.com/discussions/getting-started/428422).
+
+That post on Kaggle includes both links to documentation and more details about Kaggle API features relevant to this project.
+
+As you can see, as it is my standard, I have no qualms about writing in a public place "I do not know- is there anyone who already tried", and then share not just answers, but also my own evolution on a concept.
+
+Beside what I will share on Kaggle within that thread (including sample notebooks, datasets, etc), once completed will also add on [my GitHub account a new repository](https://github.com/robertolofaro) will all the concepts, technical etc.
+
+Why I am doing that?
+
+I had plenty of support online since the late 2000s, while I was living in Brussels, support that otherwise would have cost me not just money (which was less of an issue when I charged what I charged back then, 200EUR/h- I also sometimes paid others to do experiments on my behalf, focusing on the design and concepts or overall business/technical architecture), but, more importantly, plenty of time wasted to learn what somebody else had already learned.
+
+Therefore, [as with my mini-books](https://leanpub.com/u/robertolofaro) (that you can get also for free online), will keep sharing concepts etc.
+
+Decades ago, to test some concepts about data encryption, designed a framework for my website to validate both PHP obfuscation, some security concepts, and a quick approach (again, a proof of concept) on encryption based on public algorithms, but basically the "book approach".
+
+With a catch: it was designed to allow to eventually replace that with a selection of a key that would reference a specific Gutenberg.org book, a website that contained the text of books out-of-copyright, now defunct (thousands of books).
+
+I shared years ago the concept within a now equally defunct Mensa UK SIG group about cryptoarcheology- hence, if you have access to it, you can find it.
+
+Then, tested it on my 2003-2005 Business Fitness Magazine (yes, each article was decrypted from the content of the database, and also part of the logic was retrieved and decrypted, using a taxonomy, i.e. used MySQL with less than a dozen tables that contained dozens of different "associative structures")
+
+Then, shifted to using various platforms (e.g. Drupal, Wordpress, Joomla), but eventually was bored by the administrative overhead (e.g. updates) that required using plugins, and instead decided to start again from scratch.
+
+And this has been, for few years, my website: lean and mean, and also if it is minimalist to the point of being primitive, is allows two key points:_ is relatively fast and accessible_ by integrating MySQL for something, and SQLite for something else, can have local editing and experimenting on a tablet, and then "publish"_ it is easy to add new features (e.g. all the "search" features, plus many of the features into some of the "data democracy" examples).
+
+I simply plan to do the same with the physical (IoT) - digital (online, offline) - human (people and organizational structures).
+
+I think that it is about time that we redesign business processes to "augment" humans and technology by integrating them both within the organizational memory.
+
+But, frankly, this is outside the scope of this article: will share another article in the near future.
+
+This is all for now.

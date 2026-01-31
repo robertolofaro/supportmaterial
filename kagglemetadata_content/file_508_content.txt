@@ -1,0 +1,214 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230429_article.png)</center>
+
+This article section is focused on sharing material that could be reused (or ideas and concept that could be developed, integrated, expanded) within a corporate environment or structured organization.
+
+Anyway, this short article has been developed the other way around, starting from the rationale, and then going onto the material.
+
+Focus: PMI-based project management and associated documentation, using a case study I had to work on for few courses.
+
+A case study concerning drones.
+
+Two sections to contextualize my past experience:_ project management methods: a journey _ project management tools
+
+Then, two sections sharing the material:_ knowledge sources and tools choice_ sharing case studies' material.
+
+If interested, you can read online some of my previous books, where I shared other information and examples:_ [on organizational change](https://robertolofaro.com/bfm2013)_ [on project management](https://robertolofaro.com/quplan)_ [on data](https://robertolofaro.com/relevantdata)_ [on privacy and data](https://robertolofaro.com/gdpr)
+
+Anyway, all those listed above and other publications on change are available at [https://robertolofaro.com/published](https://robertolofaro.com/published).
+
+Hence- you can skip the first two sections, if interested only in the material derived from my activities on the case study produced while following the courses.
+
+<b>Project management methods: a journey</b>
+
+My first formal contact with project management methodologies was in 1986-1990, where I used the existing main methodology within the first company I worked for, a methodology called Method/1.
+
+Previously, my experience in methodologies to coordinate activities was acquired by working in support to those organizing political events, and in the Italian Army, to schedule daily services and fit the blend of training, field exercises, barracks services, and of course various absences and unavailabilities.
+
+The latter was office work to support my officers on the bureaucratic side (including procurement requisitions, exchange of communications with various offices for authorizations, some other preparation activities, etc).
+
+Both in political events and the army there were two key elements: delegation of authority and having to work with finite resources.
+
+And it helped that, due to my prior experience in those environments, the first activity that I was assigned to by my manager on my first project in business was... to use our company methodology to convert the approved proposal to a customer for the first major fixed-price project taken (so I was told), to identify how many man/days would be needed.
+
+It was funny that my initial number crunching, not that negotiated down, was eventually to be (I was told) proved correct.
+
+But it was mainly a function of the material I had received and the method, I just had to apply my experience on the "logistics of people".
+
+Then, in the early 1990s, for the Italian branch of a French company, had to complete/revise the localization in Italian of training material for a French methodology (Merise) and localize an Anglo-American one (Yourdon), while I added also some elements (e.g. iterative development, others derived from my prior pre-sales and presentation/training experience to senior management) whenever of potential interest for customers' needs.
+
+Later, in the late 1990s, as since the late 1980s was used to work in Europe in multinational environments but mainly interacting with UK-based companies, picked up on OGC approaches (first MSP on program management, then ITIL on service, and only later PRINCE2).
+
+And, across the journey, had to learn (and then forget when not needed anymore) other approaches, company methodologies or processes, etc.
+
+Now, since returning to Italy in 2012, my main missions were in a multinational environment that actually follows something closer to PMI-inspired approaches, and therefore, while I had been a member of projectmanagement.com well before became part of PMI, in summer 2022 decided, while waiting for a new mission to start, to follow some training before joining PMI itself (no, I do not have a certification), using Coursera on a paid rolling monthly basis.
+
+As in the 1980s I had also learned some elements of AI to support my interest in PROLOG (or the other way around), and during COVID-19 lockdowns had (not my choice) time to plan and doing something more than reading a book here and there, decided also to expand/update on AI- but checking for product, project, service management activities.
+
+The start of my mission in summer 2022 kept moving forward, so I kept each month renewing Coursera, and following more courses to update/complement past experience and knowledge.
+
+Luckily, this allowed to have a much faster pace (e.g. a typical 1-week requires 3-4 hours of work, but in some cases I could do a 4-weeks course in a long single day, courtesy of what I did before, and the ability on Coursera to listen to videos faster than 1x).
+
+Eventually, as by October there was no beginning in sight, decided simply to expand on PMI, selecting courses that both updated my experience (actually "experiences", as often was in different industries, business domains, technological frameworks in each mission since 1990- a learning and personal journey), and added a bit of depth on what I marginally saw in my activities since 1986.
+
+Meaning: adding more about engineering, infrastructure, physical products, and related services- something that actually brought me back a bit closer to some concepts that I had to learn in 1985-1986 while in the Army (I was in an artillery specialist group, so had to learn e.g. that equipment has scheduled maintenance, spare parts, consumables, wear&tear, and of course procurement and logistics).
+
+In [my latest CV update](https://robertolofaro.com/cv) selected a subsection of courses that could be useful to others interested in replicating the journey.
+
+On my CV listed only multi-course curricula, while since last summer, as my habit as an analyst on new business activities/initiatives, I had multiple sources, i.e. doing the same training from different sources and with slightly different angles.
+
+For various multi-course curricula decided to follow only those that were relevant for my schedule, but you can have a look at the (partial but longer) list on [my Linkedin profile](https://linkedin.com/in/robertolofaro).
+
+But since the late 1980s I had the chance to use and learn generation upon generation of tools used to initiate, plan, execute, monitor, and complete projects- whatever the methodology adopted by the customer or my employer.
+
+<b>Project management tools</b>
+
+What you will find in this section is not what you would probably have expected: as, within the context of project, program, etc management, "tools" are often more organizational and conceptual than just mere software (or hardware).
+
+While serving in the Army started looking for a job after I completed my compulsory service.
+
+Recently I was asked (at 58) by a recruiter what would be my motivation for a role: I replied first content/potential, then of course salary etc, and finally the location.
+
+Funny but... these were the same criteria I used in 1986: due to my activities in the IT lab of the University of Turin during the first year there, in 1984-1985, before serving in the Army, I was offered a significant salary way above the standard entry level, but instead accepted a lower salary (almost 50% lower) and an entry-level role that required even to do an initial training with a modest stipend to cover for expenses in Milan and, only if I passed an exam, becoming an employee.
+
+Why taking those two risks? Because when I visited the company whose offer then accepted, I had a glimpse at their library, which contained both books and documentation of projects, as well as, was to discover later, key knowledge extracted by all the projects carried out by Andersen worldwide.
+
+And, for a bookworm, meant plenty to learn, and plenty of potential. 
+
+Eventually, I was told that out of 70,000+ employees, around 5,000 nearby Chicago were focused just on that side: what I would later call "knowledge retention and management".
+
+As I wrote above, my first assignment on my first project was actually based on what others had collected, and their aggregate experience, plus my personal prior experience in "people logistics".
+
+So, the first project management tool that I learned to use in business was consistent with my bookworm attitude: collect, extract, classify, summarize, add to the index, and, eventually, share and communicate.
+
+This helps a lot in "contextualizing", so that you can help to retrieve and embed in something else when needed.
+
+If interested, beside past articles since the early 2000s, and books since 2012, shared earlier this week a short discussion of this concept [here](index.php?page=507).
+
+Also when I had to deliver training on project management, or help set up / revise / improve coordination or what we know call centre of competence, understanding the organizational culture was a key element.
+
+Hence, I personally found more interesting to have a class of people belonging to the same organization, as their aggregate "recovery" of different elements of organizational memory converged toward a shared understanding that helped to integrate the material delivered during the training at a deeper level than what would have been achieved by a generic crowd of unknowns with no shared organizational memory, however small.
+
+This "shared organizational memory" also was pivotal, after the training, to create a sense of community and initiate change.
+
+Shifting to the software tools in project management, it actually all started using what many are using nowadays, a spreadsheet.
+
+Specifically, Lotus 1-2-3 and Multiplan, followed by tools that, already under MS-DOS and before Windows, allowed to build Gantt charts and do basic PERT/CPM analysis.
+
+Then, of course, plenty of Excel, followed by various versions of Microsoft Project.
+
+The most recent version that I used and formally learned also for my own activities, not just for customers, is Project 2019, the last version working both on 32bit and 64bit, as for my own purposes I prefer to use it on a tablet.
+
+But, as described above, there is another element in project planning and management: documenting the progression in defining and executing the plan.
+
+My first experience with this kind of software was with Manage/1, a product that was still a test in the late 1980s when I was asked to start using it instead of Lotus 1-2-3, on a banking project, the second project for my employer.
+
+The tool was build on concepts from the company methodology, Method/1, which was conceptually waterfall (except for the two components I referred to above, iterative and product support), i.e. assuming a sequence roughly from identification, feasibility, initiation, analysis, design, implementation, test at various levels, and finally delivery.
+
+I was asked to work on project monitoring and delivery coordination, and to that end revised and expanded an existing Lotus 1-2-3 spreadsheet to allow weekly progress report, and we were focused on number crunching and what would call now KPIs.
+
+It was a part-time role, as my main occupation was mainframe software programmer (and eventually also business analyst etc).
+
+Manage/1 instead was built to act as a collector of information and producer of reports- but eventually was asked who, in my view, could be the right person to pull from development and shift to working full-time with Manage/1, and I shifted eventually to PMO/QA activities, and the release management on the customer side (where again saw also the planning part, and scheduling issues).
+
+Jump across the decades, and I saw routinely these two large "tool-based tribes" along the two main elements: number crunching and KPIs, vs. documentation.
+
+In 2000s and 2010s, I was able to use both online and offline tools that blended the two elements, both open source, freeware or with a subscription-based access to further functionalities, and pure SaaS (Software as a Service) web-based delivery.
+
+In reality, you need both, and the balance depends on your needs: in some cases, documentation was loaded in other tools focused on both documentation storage and versioning; in other cases it was stored in folders, keeping within tools similar to Microsoft Project references to the specific version of each document.
+
+Most use either basic Gantt chart tools (to be able to have at least an indication of the critical path) or Excel plus Powerpoint, instead of Microsoft Project.
+
+Personally, I prefer to use Microsoft Project at the macrolevel to keep track of dependencies and timeline, whenever it is feasible to divide activities in "packages", "subprojects", "waves", "workstreams"- or whatever definition you prefer.
+
+Anyway, in the early to late 2000s, when I was supporting startups and revising initiatives or managing part-time accounts for partners, I used an open source platform that can be installed in a web server and can be extended, called DotProject.
+
+The interesting element? Dotproject contained basic Gantt features, but its strongest side was the communication and collaboration side, linking people to tasks and projects plus potentially multi-project charting, if you added some components.
+
+As an example, for each initiative I followed created an associated forum, allowing anybody who joined the team to access the most relevant information and ongoing open points, and allowed to store documentation, assign and monitor progress of tasks, etc.
+
+Later, in 2018, did some experiments in using Slack to cover at least the communication and collaboration side.
+
+In 2021-2022, my latest mission in a multinational environment, I actually blended unofficially Jira/Confluence and Microsoft Project, to have the documentation and details tracking side (with Confluence for approvals), to cover both the knowledge collection etc and the communication/tracking/reporting side, while Project, notably since the 2013 version, has other interesting features.
+
+I know that many dislike Jira/Confluence and prefer other tools, but its large customer base and relatively easy learning path (I had followed training by chance in spring 2021, before I was even contacted for the 2021-2022 mission, and further training during summer 2021) makes it useful.
+
+The Cloud version is basically free for smaller teams, and you can add components (some free, some by subscription) as well as integration with other tools or social networks.
+
+Anyway, I will share in the future other project dossiers, after I will complete preparating some datasets I want to build mini-projects and associated webapps on ([see here for examples of existing webapps that I published online since 2019, generally mixing R/PHP/SQLite/MySQL](https://robertolofaro.com/datasets)).
+
+<b>Knowledge sources and tools choice</b>
+
+This section and the following one are focused on sharing material that I had to prepare to submit for peer review in three courses (see the information about the courses in the previous sections).
+
+The phases of a project often in PMBOK-/PMI-related material are described using a "chevron", i.e. sequential arrows.
+
+Following an approach that learned in the early 1990s while studying quality etc, I prefer to consider something closer to what you are probably more familiar with in DevOps, i.e. a never ending cycle.
+
+This is also because, first in politics, then in my decision support system model activities, a successful completion of a project (or of a sub-cycle/sub-project thereof) delivered material that was then available to further projects.
+
+And, in most decision-making or managing reporting, change, KPIs projects, when you have completed and delivered, that is the end of the beginning, as using or applying what has been delivered by the project generates further evolutions.
+
+Hence, this is my representation of a project lifecycle:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230429_05_flyingprj_20230429_00_process.png)</center
+
+The idea of the case study within this 3-courses cycle was that you worked as project manager for a company delivering drones.
+
+The company had been offered by a chain of 8,000 pharmacy stores to do a pilot project, with the aim to deliver prescriptions via drones.
+
+This is how the case study was developed across the three courses:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230429_01_course1.png)</center
+
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230429_02_course2.png)</center
+
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230429_03_course3.png)</center
+
+
+
+<b>Sharing case studies' material</b>
+
+In my interpretation the project statement, along with other constraints, required at least the following elements:1. stick to the constraints identified by the CEO and "sold" to the customer2. assume that there should be an engineering subproject to modify the drones3. privacy and security would be critical success factors4. integration between the systems of the two companies should be done5. data exchanges should be on a "need-to-know" basis6. training to the 4 stores part of the pilot should be delivered before operations start7. both the engineering subproject, IT integration, and training should help "tune" operational procedures.
+
+From a budgeting perspective, due to its critical element (could either become a jump forward for the drone company, or become a serious setback, challenging its credibility as a technological partner, affecting also the existing customer base and current market), as I wrote within the documents that provided, all the contingencies are kept as management reserve for the CEO of the drone company, so that he can decide if, when, how to allocate or shift resources.
+
+In a real project, there would have been additional activities and costs- but this was an exercise for a course, and therefore there were some "shortcuts".
+
+Hence, do not take the examples as documentation from a real project.
+
+I will not share all the documents produced for the case study across the three courses, but just a selection.
+
+Each document produced was subjected to "peer voting", i.e. other students had to cross-check vs. a rubric of elements to check provided by the instructors.
+
+[From course 1: Project Charter](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230223_pmeng1_03_project_charter.pdf)
+
+[From course 2: Project Scope](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230226_pmeng2_01_project_scope_statement.pdf)
+
+[From course 2: WBS](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230226_pmeng2_02_wbs_and_wbsdictionary.pdf)
+
+[From course 2: CPM](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230303_pmeng2_03_schedulecpm.pdf)
+
+[From course 2: Project Budget](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230315_pmeng2_04_projectbudget_v2.pdf)
+
+[From course 2: EVA (Earned Value Analysis)](https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230315_pmeng2_05_projecteva.pdf)
+
+If you are interested in trying to evolve the documents into a Microsoft Project 2019 file as it had been produced during a real project, I prepared a draft assuming a start of the project on 2023-11-01, completion by 2024-11-05, and planned in weeks.
+
+What would be the difference in a real project?_ the file linked here would be a draft_ potentially there would be two subprojects (drone engineering, IT integration)_ once the project scope were to be initially defined, a baseline (point of reference) would be defined_ project tracking would be done against the baseline_ if and when needed (e.g. the allocation of part of the management reserve), a new baseline might evolve_ some reporting standard to mark progress would be needed.
+
+When building a draft, often it is common to use Excel or another spreadsheet; for this project, as it was feasible and there were two clearly identified subprojects, used instead a Powerpoint, which could be useful also to communicate project status.
+
+From the draft Microsoft Project 2019 file, this is the timeline (right-click to download it, it is scaled down to fit on the screen):
+
+<center><img src="https://robertolofaro.wordpress.com/wp-content/uploads/2026/01/20230429_project_01_draft_timeline.png" width="70%"></center>
+
+Instead, the Microsoft 2019 project file is [available here](https://github.com/robertolofaro/supportmaterial)
+
+Anyway, I will actually have a project using some of these concepts, and maybe I will share eventually the material.
+
+As I have been working in multiple industries, I am used to start first from an understanding of the regulatory framework- and my "drone" sample project will make no exception: and, after a preliminary assessment, I saw that within the European Union and in Italy the associated impacts are not minimal, if compared with the case study framework as presented from the course provider in the USA.
+
+But more about this maybe in the future.
+
+For now, have a nice week-end.

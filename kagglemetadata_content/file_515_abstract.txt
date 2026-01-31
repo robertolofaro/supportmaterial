@@ -1,0 +1,5 @@
+515
+You are here: Home > Citizen Audit > Reading pre- and post-COVID corporate narratives, the Italian case: a dataset in fieri
+Reading pre- and post-COVID corporate narratives, the Italian case: a dataset in fieri
+An article about an ongoing data project (partially already released since 2022 on Kaggle) looking at the impacts of COVID through the balance sheets of companies listed on Borsa Italiana (which are not necessarily just Italian companies)
+Characters: 12263

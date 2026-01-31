@@ -1,0 +1,267 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20231106_article.png)</center>
+
+As I posted over the week-end on Facebook:<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20231105_reforms.jpeg)</center>
+
+This is the [link to search on this website retrieving articles about "reform*"](search.php?tag=reform) 
+
+From the searches on this website since the latest round of reforms to the Constitution was announced (I see what [you can see](index.php?section=latest-read), as I do not use cookies etc), routinely some are looking for articles where, in the past, commented since the early 2000s various rounds of attempted reforms.
+
+This hopefully shorter-than-usual article is about reforms and sustainability beyond the mere realm of Italian and politics.
+
+This article could probably belong both to the ["Organizational Support"](index.php?section=organizational-support), ["Business: rethinking](index.php?section=rethinking-organizations), ["Society: EU-Italy-Turin"](index.php?section=diritto-di-voto), but, as will explain later, both ["Ongoing: news about my current book writing projects"](index.php?section=books-blog) and ["Communication: Strumenti"](index.php?section=strumenti) would be equally correct.
+
+Anyway, in a country of Kremlinologists who do not read but share their "analysis" on whatever they derive from newspaper or broadcast news titles, I will follow what was in an old movie called "Non ci resta che piangere": I will pay "un fiorino", i.e. my social dues...
+
+Also if you do not understand Italian, I think that [this short clip should be understandable](https://www.youtube.com/watch?v=KF0VYpzsZYE) (but you can ask YouTube to provide subtitles).
+
+The concept? In Italy, whatever you say is often read to mean something else, as "talking straight" is considered both less than polite and foolish.
+
+Reason? Nothing is ever cast in stone, hence talking straight would probably ruffle some tribes' feathers, and could come back to haunt you.
+
+Hence, the "minuet" that you can read in newspapers whenever there is a power change, or whenever apparently the incumbents are weakened.
+
+While I played the game when needed, first in political activities, then in the Army, then in business, whenever I see it as systemically more useful, I prefer to "bite the bullet".
+
+I will not comment directly just on the proposed reforms: as both the direct election of the Prime Minister (yes, because if implemented we are really shift from the President of the Council of Ministers toward something closer to a Prime Minister) and giving over 50% of the seats to the winning coalition are, in my view, part of a dialogue that will have to start first within the current ruling coalition, and not just a dialogue with the opposition parties.
+
+Instead, I will focus on the the latter.
+
+Therefore, this is the list of the sections:_ setting aside the Damocle's sword: reforms in Italy and EU_ cultural and organizational change as reforms_ moving next.
+
+<b>Setting aside the Damocles' sword: reforms in Italy and EU</b>
+
+As I wrote already in various articles, [I do not like anything that "smells" of a new Legge Acerbo](search.php?tag=acerbo).
+
+What was the [Legge Acerbo](https://en.wikipedia.org/wiki/Acerbo_Law)? Something created in 1923 (yes, one century ago) under Mussolini to give a disproportionate number of seats to the political party winning the elections.
+
+From Wikipedia: <i>"The Acerbo Law stated that the party gaining the largest share of the votes - provided they had gained at least 25 per cent of the votes - gained two-thirds of the seats in parliament. The remaining third was shared amongst the other parties proportionally."</i>
+
+Which, incidentally, was not needed, as Italians, feeling where headwinds were and with some questionable practices during the elections, anyway voted in that direction.
+
+I do not care if it is proposed by the left, centre, or right, but this obsession with "stability" won not at the polls by attracting more voters, but through some electoral gimmickry is the opposite of what is the spirit of our Constitution, in my view.
+
+Anyway, as the Constitution allows it, and it does, the Parliament, or, if less than what is needed, the Parliament plus a confirmation referendum can generate yet another round of electoral law reforms- such as the "Rosatellum" that years ago (in Italian) described visually with a mindmap as something that reminded me the Tabula Peutigenriana ([see here the visuals](index.php?page=135)).
+
+Meaning: a bit of balancing to keep it all together, resulting in a roadmap where everybody can find a bit, not a law.
+
+In Italian, we like to pick up something that sounds like Latin, so we had the Rosatellum and also an electoral law nicknamed by its own source as Porcellum.
+
+Our 2022 national elections had some impact from the structure of our electoral laws- in part unintended consequences.
+
+Ditto the centre-left inspired reforms of the Constitution in the early 2000s, that created what during the COVID crisis showed some issues, and still does at every major climate-related disaster: trying to restructure Italy into a federation but while keeping it centralized, and while also decentralizing further downstream.
+
+Which resulted mainly in creating [Satrapies](https://en.wikipedia.org/wiki/Satrap#:~:text=A%20satrapy%20is%20the%20territory,king%2C%20though%20with%20considerable%20autonomy.), i.e. existing or attempted personal political fiefdom (something that, on a more limited scale, existed anyway even in past Italian history).
+
+As for the results of the 2022 elections and impacts, I would like to share two articles (in both English and Italian) that posted back in 2022:_ [politiche2022_05: una finestra di 34 interviste #Italy #national #elections](index.php?page=491) (a visual review of 34 interviews with political leaders)_ [politiche2022_06: ad urne chiuse #Italy #national #elections](index.php?page=493) (posted the day after the elections).
+
+Talking about direct election of the Prime Minister- I think that would require something a bit more complex that what newspapers reported for now, to rebalance the powers of the new Prime Minister and the "watchdog power" of the President.
+
+And this is were I dislike the idea of giving over 50% of the seats to the "first past the post" coalition.
+
+If the "watchdog President" is elected by the Parliament, then our current Presidential election system, where the Parliament plus few others vote for the President, but only in the first few rounds is required a higher threshold, is not enough.
+
+You [can download the Italian Constitution in English from the website of the Italian Senate](https://www.senato.it/sites/default/files/repository/Costituzione_INGLESE_2023.pdf).
+
+Article 83:<i>"
+The President of the Republic shall be elected by Parliament in joint session of its members.
+
+Three delegates from each Region, as shall have been elected by their respective Regional Councils so as to ensure the representation of the
+opposition, shall participate in the election. Valle dâAosta shall have one delegate.
+
+The President of the Republic shall be elected by secret ballot by a majority of two thirds of the assembly. After the third ballot an absolute
+majority shall suffice."</i>.
+
+Or: after three rounds, those winning the elections, also if they did not win the popular vote, would be able to elect a "partisan" President: Alexis de Tocqueville and others would roll over in their graves.
+
+Moreover, if the direct election of a Prime Minister were to be the choice, then would make sense that, while the President would confim names proposed by the Prime Minister, then the Prime Minister could dismiss individual Ministers.
+
+With another set of consequences: to avoid concentrating "interim powers" into somebody who had not been approved by the President to cover that role (in the past, we had similar cases), could be useful to have the Prime Minister have to present to the President a list of potential names to replace the dismissed Minister, before dismissal is formally signed.
+
+Shifting to the European Union level, again will bite the bullet: did not like that much the Von Der Leyen term of Presidency of the European Commission.
+
+Seen from outside, it looked really as if the "Monnet Method", that since the 1950s has been used to "jump forward" on European integration, but bypassing de facto European Union Member States' Parliaments (and, until really well after the Lisbon Treaty that recovered the failure of the European Constitution, also the European Parliament), had been taken over directly by the European Commission.
+
+What I think about the viability also of the old version of the ["Monnet Method" is spread across many articles](search.php?tag=monnet): the method belongs to a different political era.
+
+Anyway, puzzling when somebody who nominally helds an office for five years, and had no voters mandate to be a President of the European Union should remind so often the [Lone Ranger](https://www.britannica.com/topic/Lone-Ranger).
+
+I know that in business "servant leadership" is alternating between a mantra and a fad, but anybody leading an organization that existed before and will (hopefully) exist after her or his tenure should set ego aside, once in a while, and look at a long-term where this temporary leader had just become a footnote of history.
+
+The next President of the European Commission will have to deal with all the commitments made by the current European Commission, no matter how shaky their ground (political and financial).
+
+Personally, on Ukraine as well as on our (EU, not just Italy) position on the Middle East conflict, I still think that, if you are a strategic partner, you need to have a say in strategic goal-setting, not just support whatever your partner does.
+
+Despite all the Treaties and the overwhelming pile of regulations, the European Union is still way too much a "fair weather union": be it a war, a pandemic, an energy crisis, or demographic and immigration issues, we get a "State of the (dis)union", making a mockery worth of Monty Python or the Marx Brothers any pretense to mimick the USA President's "rites" as a sign that Europe is united.
+
+I think that when the term of this European Commission ends, EU will need at the European Union Commission helm a healer and a facilitator, to reform and move forward in a sustainable away- and sort out all the threads left behind.
+
+Does the European Union need a ["Grand Strategy"](https://en.wikipedia.org/wiki/Grand_strategy)? 
+
+Yes, but considering our current context, not some XIX century dream that would have worked for Bismarck but would not work in the XXI century.
+
+In the XXI century we have many State and non-State entities that do not just "play" the game, but define also its rules.
+
+Otherwise: our increasingly older European Union population, while resources last, will keep being a target market and "grant-giver of last resort" to support strategies really set elsewhere, and whose benefits will be realized elsewhere.
+
+Which is not really a sustainable strategic posture.
+
+As for the Italian proposed reforms, probably the time between now and the next European Parliament elections will be useful to discuss terms of reference, boundaries of discussion, but not really the implementation.
+
+I shared recently the French-German proposal for reforms, but even its implementation would require more than a mere 7 months, also if there were a "coalition of the willing".
+
+Anyway, shared more concepts on European Union reforms within an article in August 2023 [Accelerating European Union rights integration: from directive- to regulation-based harmonization (with cameos since 1990s)](index.php?page=522).
+
+And, of course, plan to add more in the future: June 2024 is not too far away.
+
+Now, will shift to the business side- but its application actually could be useful also on the political side.
+
+<b>Cultural and organizational change as reforms</b>
+
+What is the difference between "cultural and organizational change" and "reforms"?
+
+Somebody would say that the latter belongs to the domain of politics, the former to that of any type of organization.
+
+As you probably know, I think that those pretending to ignore the "political" and "policy" side of business from the late XX century into the XXI early century are simply willingly ignorant of history.
+
+Go back and search the origin of "corporation"- and you will see a paper-thin wall, not a rock-solid segregation of duties, between politics and business.
+
+This is the definition, as per Wikipedia: <i>"Separation of duties (SoD), also known as segregation of duties, is the concept of having more than one person required to complete a task. It is an administrative control used by organisations to prevent fraud, sabotage, theft, misuse of information, and other security compromises. In the political realm, it is known as the separation of powers, as can be seen in democracies where the government is separated into three independent branches: a legislature, an executive, and a judiciary."</i> ([source page](https://en.wikipedia.org/wiki/Separation_of_duties)).
+
+As you can see, even that concept in reality it is a concept that spans both politics and business. 
+
+No, I am not referring to something on the line of "business funding politics and viceversa"- simply business is a political actor and, in our times, many businesses are political actors in many constituencies, also if sometimes politicians seem to forget this point.
+
+Incidentally: also when I saw a formal segregation of duties, to keep things moving, often found that some workaround had been developed to comply formally, but keep going informally, workarounds usually relying on knowledge depth unavailable to those merely controlling or observing.
+
+In our hyper-specialized society (and organizations), the lack of mutual understanding is not so uncommon.
+
+So, at the national and European level, but also in business, everybody seems focused on the components of change, each one delegated to a specific group of experts, but the overall view seems lost to many.
+
+I remember how, in the 1980s, some comments from foreign colleagues who either never had worked in Italy before, or who had been in Italy long enough to become, as some Italian colleagues said, more Italians than Italians (and was not meant to be a positive remark), showed the value of observing reality around you as a "foreign observer", i.e. somebody taking a neutral stance.
+
+When you are an insider, there is always the risk of looking at how much you are emotionally invested, and use that as a "filter" toward the reality of your own organization.
+
+A small digression at what I mean with being a "foreign observer"- you do not really need a foreign passport.
+
+I had my own perception of reality derived from being a "foreigner" few times, first in Turin, then in the South, then again in Turin.
+
+Hence, the first books that I purchased with my first pocket money while still in elementary school were complementing my parents' library, and I focused on archeology, cultures, and science, then adding themes derived from that (history, political science, economic and social sciences, etc).
+
+As a kid, I was in a family that routinely was part of political campaigns, so I was able to observe.
+
+My first real personal and direct contact with organized politics was not the high school strikes or occupations or extracurricular learning activities that had in high school, from 1979, albeit those allowed me to compare with what I had seen as a kid in "grown-up politics", and see our own (teenager) organizational limitations, but also criticize those of our high school who, belonging to a more "structured" political youth organization, had a single answer to any questions: "I had to ask the party"- actually was more "The Party".
+
+And it was Turin, Italy, not Moscow, USSR.
+
+Anyway, made sense: nobody back then would have given in a structured political party any "thinking training" to one who was considered to be mainly a cog in the political wheel, a mouthpiece and "resident observer" for "The Party" who occasionally could also attract more to join it.
+
+Frankly, maybe because I was in a specialist unit, but I found less hierarchy few years later within the Army, than in that kid representing a structured political party.
+
+So, my first real experience within a political organization with a structure, but were we were supposed not to be just talking heads, but learn and think, was really at 17, when read a single-page dense text that was distributed by somebody, and read about "European integration" and "federalism".
+
+Out of my unquenchable curiosity for cultures started attending some conferences, then some events, then taking some roles and learning, while also reading massive amounts of material coming from Brussels and Strasbourg, and listening to what was shared also by our sponsors (politicians, but the running costs were mainly covered by the research side of a local bank) and university professors and researchers in political science who were on the "grown-up side" of our political advocacy.
+
+Through it, had the chance of do some travels abroad, travels where I met others more of less my age, who represented different perspectives or even sides of the political debate on the same domain.
+
+It was years before I read "Federalist Papers" and others in English, but it was useful to understand:_ perceptions of reality- do not project your own before you understand_ if you do the latter, your communication is just preaching to the choir, not conveying a message_ winning an argument is not the same as winning minds and hearts- the latter takes longer_ if you achieve the latter, you are not going to be along in spreading the message_ but if you have others spread the message, accept that their interpretation might diverge on details_ and some associated corollaries.
+
+The last point implies that anyway you have to keep communication channels open, to ensure that, while being spread, the overall message stays aligned.
+
+There are alternative approaches, but the net result in those cases was something between losing opportunities, and eventually seeing somebody else's message replacing the original one.
+
+Anyway, what you read so far in this section is obviously about both cultural and organizational change as well as (political) reforms.
+
+What they share is really the need to go beyond the limited confines of a small group, the "preaching to the choir" phase, and develop a multicentric approach that generates "ownership" while keeping aligned the original message.
+
+Of course, it is not easy: were it easy, there would not have been as many failure in cultural and organizational change as well as political reforms, failures that anybody with moderate google-ing skills can find.
+
+And not just in Italy: as I wrote in the previous section, just look at how often the European Union institutions over the last few years are diverging in their communication.
+
+In my (limited by number but in various industries and cultures), the key elements are cultural awareness and having a team of "residents" who have a few roles to cover:_ obviously spread and "localize" the message_ collect, assess, and relay feed-back _ spot and alert on potential trends.
+
+I promised that this would be a short article, hence this section could actually become a second volume of the ["Strumenti"](strumenti) book series.
+
+Actually, if I were to do that, would add also a couple of chapters:_ the sustainability of reforms within organizations_ recovering Zombie reforms that survive only in KPIs.
+
+I do not know if you remember, but during the COVID crisis there was again discussion about "Zombie" companies.
+
+What is a Zombie company? From Wikipedia: <i>"In political economy, a zombie company is a company that needs bailouts in order to operate, or an indebted company that is able to repay the interest on its debts but not repay the principal."</i> ([source page](https://en.wikipedia.org/wiki/Zombie_company))
+
+Before COVID, we had the 2008 crisis, and both actually generated plenty of direct and indirect bailouts- as the COVID handouts given by many governments.
+
+It was curious a side-effect of some of those handouts, i.e. keeping afloat companies that were already struggling due to e.g. to the inability to adapt to what now we call digital and green transitions.
+
+Talking about Zombie companies is actually something that not confined just to academia, e.g. [just within the ECB Speeches webapp that I update each Monday evening there are 11 items](ECBSpeech_index.php?tag=zombie) referencing them.
+
+Anyway, the definition of a Zombie company in our times, thinking e.g. the dual transformations that EU is investing on (digital and green), should evolve toward an expanded concept of sustainability.
+
+A company that is unable to evolve organically to adapt to its environment, and has to receive subsidies or grants to be sustainable is actually absorbing, not generating, resources- and, in a more competitive future after the end of the NextGenerationEU "investment" phase, this could turn companies that did not have the internal capabilities to transform into Zombie companies.
+
+E.g. consider smaller companies that have been going on for decades working on marginal profits but structurally integrated with the supply chain of combustion engine, and now unable to both continue supporting their activities, while shifting to the electrical or, in the future, fuel cell or other technologies.
+
+At least in Italy we should not underestimate the issue, as:_ both the digital and green transitions can have a significant impact in terms of investments _ smaller Italian companies are still the backbone of the industrial side of the Italian economy_ Italian companies get their funding mainly through banking, not via risk-sharing, in times where interest rates are not irrelevant_ being smaller, companies also lack the personnel needed to be able to invest on the future, not just take care of the present.
+
+From the "Sondaggio congiunturale sulle imprese industriali e dei servizi", published today by the Central Bank of Italy:
+
+<i>"
+Le condizioni di indebitamento sono nettamente peggiorate, riflettendo l'aumento dei tassi di
+interesse; la domanda di prestiti bancari ha lievemente rallentato, la liquidit&agrave; rimarrebbe adeguata a
+coprire le necessit&agrave; operative delle imprese.
+
+Le imprese hanno confermato per il 2023 i piani di investimento formulati alla fine dello scorso anno,
+che programmavano una contrazione per l'industria in senso stretto e un'espansione per i servizi.
+
+Per il 2024 in tutti i settori le imprese prevedono una crescita degli investimenti. 
+
+<omissis>
+
+Il 37 per cento delle aziende ha segnalato maggiori difficolt&agrave; nell'accesso al credito nel primo semestre 2023 rispetto al secondo semestre 2022 (da 22 nella rilevazione dello scorso anno), a fronte di un 7 per cento che ne ha indicato un miglioramento (da 9). Anche per il semestre in corso, pur rimanendo prevalenti i giudizi di stabilit&agrave;, la quota di imprese che prevede un peggioramento supera di 23 punti percentuali quella che ne prevede un miglioramento (la differenza arriva a 30 punti percentuali nel comparto tessile). Oltre la met&agrave; delle imprese &egrave; stata direttamente interessata dal rialzo dei tassi; a giugno 2022 il 59 per cento delle aziende dell'industria e il 53 dei servizi avevano un debito a tasso variabile. Tra queste, una quota maggioritaria, pari a quasi il 40 per cento, non ha adottato misure in risposta all'aumento dei tassi, il 18 per cento ha utilizzato o modificato forme di copertura del rischio di tasso e il 14 per cento ha estinto o ridotto
+il debito, anche facendo ricorso alla propria liquidit&agrave;.
+
+Si &egrave; attenuato l'impulso derivante dal Piano nazionale di ripresa e resilienza (PNRR); nei primi tre trimestri circa la met&agrave; delle imprese ha ottenuto incentivi ad esso collegati (in particolare quelli a sostegno degli investimenti in beni strumentali afferenti al programma Transizione 4.0, che hanno interessato circa un'impresa su tre), a fronte di una quota pari all'80 per cento che ne stava beneficiando o prevedeva di farlo alla fine del 2022. 
+
+"</i> ([source page](https://www.bancaditalia.it/pubblicazioni/sondaggio-imprese/2023-sondaggio-imprese/statistiche_SIS_2023.pdf))
+
+Our digital and green transitions, really part of the "resilience" element within the NextGenerationEU, have been since the COVID pandemic of 2020 subsidized with significant funding: but, as discussed in the last paragraph within that quote in Italian, we shifted from 80% of companies accessing or planning to access funding from the Italian side (PNRR) in 2022, to approximately 50% in the first three quarters of 2023. 
+
+Within the European Union, the [Recovery and Resilience Facility associated with the NextGenerationEU plan](https://github.com/robertolofaro/pnrr) is both a funding instrument and a set of reforms, reforms that are directed mainly at altering the way the relationship between Member States and European institutions works when it comes to funding, projects, etc.
+
+Structural reforms within the organizational dynamics of the EU will eventually, as happened since the 1950s, "trickle down" also in companies, making easier to adapt and adopt, than just adding compliance as a further layer before and after operations.
+
+Our current sustainability trend is shifting from communication to operations, i.e. moving from producing reports, announces, etc, to having to alter operations, e.g. by embedding across all the activities measurement of environmental impacts (but get ready for the eventual extension to the two other elements of the ESG triad, i.e. Social and Governance).
+
+Digital and green transformations require altering each organization's culture and structure, and there are two basic ways to do it:_ do it with a "compliance" attitude, minimizing impact but doing it just about in time when asked to_ do it with a systemic, proactive approach, which implies... reforms.
+
+<b>Moving next</b>
+
+There is no silver bullet: if you want to implement digital and green transitions within any organization, you can do it systemically only if your organizational resources allow it.
+
+Over the last week, rumours of a potential demise of the herald of a "new way of working", WeWork, increased in tone and, from news reports, substance- up to the point of having others consider the potential impacts on the real estate market in e.g. New York.
+
+Actually, the case of that company is worth studying, if your organization is struggling to define a systemic approach to digital and green transitions, as highlights some of the risks, and how it is easier to work on communication, but eventually reality will catch up.
+
+There is a [documentary](https://www.imdb.com/title/tt11188154) that is quite interesting and also entertaining- in less than two hours, you can actually have a look at what a reform should not do.
+
+My articles were always planned, as posts on Facebook and Linkedin are, to be just "interim material", to share ideas and concepts whenever relevant.
+
+Many articles since 2008 (most of the those before 2012 are not online) actually contributed to mini-books that published since 2013, but most articles since earlier in 2023 have actually been designed as "draft outlines" of mini-books.
+
+As I shared today with some friends via whatsapp, I do not know if and when I will have time to evolve many of them into further mini-books (as I my readers prefer to read them for free, I have to use other activities as revenue source).
+
+Anyway, by releasing some theme-oriented articles (i.e. almost book outlines or at least book chapter outlines), including also more than a bit of bibliographical references (just look at my Facebook and Linkedin profiles few days before each article), maybe others will be able to develop those "drafts" into publications or implementations of ideas (business or political, does not really matter).
+
+As I wrote in my motto on Linkedin, "change, with and without technology" is my mantra: in our data-centric world, I think that both sides of the coin should always be considered.
+
+In the future, will write more about the proposed reforms on the political side both in Italy and EU, but will also expand on the blending of political and business "reforms", as the pace of change induced by technology and its application will probably accelerate.
+
+Hence, I think that we need to reconsider that old concept of ["corporations"](https://en.wikipedia.org/wiki/Corporation) (going back to long before the industrial revolution), as we will have to reconsider the concept of ["copyright"](https://en.wikipedia.org/wiki/Copyright), that according to some started really with the need to protect... Shakespeare's works.
+
+As for citizenship... well, with many "virtual entities" and supranational entities, probably both citizenship and State are two other concepts that will have to evolve.
+
+Hence, the space for reforms and reformists could become wider- implying more need for a systemic view, to connect all the dots generated by all the specialists into a coherent whole.
+
+In the end, probably a further expansion of our data-centric present will imply shifting from trying to control, coordinate, or manage, to governance both internal and of the boundaries of our own organization or State- with more flexibility in how all the components interact.
+
+Interesting times.
+
+Stay tuned.

@@ -1,0 +1,394 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20230426_article.png)</center>
+
+Time flies, and it has been already almost a couple of months since the latest article.
+
+But there is a reason, beyond the usual "wait to see evolutions on X Y Z": yes, yet another experiment that started in 2022.
+
+Anyway, the last section of this article will be focused just on that.
+
+Therefore, while it will be part of the background to this article, you can skip it (unless you are curious about some shared information that might replicate on your side)- it is short, and mainly an announce of more to come and its rationale.
+
+Before starting this article, would like to share the incipit of a speech from an April 17th delivered by Christine Lagarde at the CFR in New York:<i>"The global economy has been undergoing a period of transformative change. Following the pandemic, Russia's unjustified war against Ukraine, the weaponisation of energy, the sudden acceleration of inflation, as well as a growing rivalry between the United States and China, the tectonic plates of geopolitics are shifting faster.
+
+We are witnessing a fragmentation of the global economy into competing blocs, with each bloc trying to pull as much of the rest of the world closer to its respective strategic interests and shared values. And this fragmentation may well coalesce around two blocs led respectively by the two largest economies in the world.
+
+All this could have far-reaching implications across many domains of policymaking. And today in my remarks, I would like to explore what the implications might be for central banks."</i> ([source](https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230417~9f8d34fbd6.en.html))
+
+Additional note: the title of the article states "fragmenting", not "fragmented"- therefore, as in any situation based on a plan (including those involving your own DNA), there are opportunities to evolve.
+
+Well, today, more humbly, I would like to start sharing the following few sections:_ remember to contextualize- always_ evolving knowledge, evolving emergence_ first step: you do not know how long is the tail_ second step: structural weaknesses need a crisis_ third step: policy-making and cocooning _ the emerging rationale_ footnote: a publishing experiment.
+
+<b>Remember to contextualize- always</b>
+
+Friday April 21st afternoon discussed with a friend about memory and knowledge: for historical reasons I consider that both memory and knowledge require a context to keep both alive.
+
+Actually, the idea is that, before each mission, or while doing a routine update, you identify key "reference points" to retain also after the mission ends, and all along the mission keep evolving those "reference points" as information evolves.
+
+It is useful to both, after the mission, formalize lessons learned, and, whenever on another mission some of those "reference points" resonate with the new context, recover associated memories (at least by pinpointing where to look at for documentation), and re-contextualize.
+
+Blending the three elements (recycling the past using pattern matching to "retrieve", identifying new "reference points" in the current situation, and evolving them as reality evolves) has another positive side-effect: often, can spot trends before others that are instead focused on what is only assumed a priori to be relevant within the specific context.
+
+If you actually follow mental classification schemes such as many of the "theatre of memory" approaches described decades ago by ["The Art of Memory", by Frances Yates](https://www.librarything.com/work/21081/book/79701511), you are probably used to concepts such as associating pictures to a speech or a sequence of steps, and other techniques to create what I could describe as "knowledge matrioskas"/signposts- not just to store, but also to retrieve.
+
+It is curious how much context (or its absence or distortion), also in minimal quantity, can act as a "retrieval system".
+
+As shared recently on Linkedin ([here](https://www.linkedin.com/in/robertolofaro?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BcjCCjrRQThaHQ1UCLDoVZQ%3D%3D), [here](https://www.linkedin.com/in/robertolofaro?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BcjCCjrRQThaHQ1UCLDoVZQ%3D%3D), and [here](https://www.linkedin.com/feed/update/urn:li:activity:7052685725498060802?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7052685725498060802%2C7052689098074992640%29), [here](https://www.linkedin.com/in/robertolofaro?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BcjCCjrRQThaHQ1UCLDoVZQ%3D%3D)), while everybody is focused on discussing ChatGPT and generative AI, I am focused on "AI-assisted emergence".
+
+It is less glamorous than imagining scenarios based on the Terminator movies franchise, where AI-powered machines try to wipe out humans, but probably it is something more actionable (and actually could become a target of policy, i.e. pro-active policies trying to foster development).
+
+Moreover, could actually help to mutually improve both models and their integration in our everyday business routines.
+
+As for the request by some to halt AI development, as stated by Elon Musk just before announcing his own AI approach: frankly, reminds me what I read while writing a couple of books on BYOD, in 2016 ([The business side of BYOD: cultural and organizational impacts](https://robertolofaro.com/byod) and 2021 [The business side of BYOD 2: you are the device & privacy at Edge](https://robertolofaro.com/byod2)).
+
+In that case, was the campaign launched by Apple as privacy champion but... after for years had been criticized while stonewalling, had implemented some solutions, and then suddenly turned privacy champion.
+
+In technology, as seen also during the COVID crisis, technology science and even social sciences are not necessarily as neutral as they claim to be.
+
+Since the 1980s, when I was first tasked to introduce data- and computer-based decision making to managers that often had limited or no use of computers, the point is always the same: acting as a bridge between technology and "business as usual", to integrate the new into the old and, in the process, evolve both.
+
+Many say that technology is a catalyst, other highlight the critical role of what overall goes under the label "human side".
+
+Frankly, again, it is a matter of context: in some cases the cathalyst is the presence of both, in others I found useful to start with one and move on.
+
+But I already shared elements of the rationale in previous articles, and delivering a comprehensive explanation would require a book.
+
+Actually, that was the first book that, twenty years ago, was about to publish, tentative title "The Method", but then postponed after interferences from Italy while living in Brussels, interferences that eventually resulted in scuttling my attempt to resettle in Belgium, and fostered my return to Italy.
+
+Which brings about the next section... on the multiple incarnations of "emergence".
+
+<b>Evolving knowledge, evolving emergence</b>
+
+Anyway, living and working in Italy, and specifically in or around or in the region of my birthplace (with limited travels elsewhere) since 2012 gave me an opportunity of a full decade of observations on a territory and its inhabitants.
+
+The same opportunity that I had in Brussels: it is the "bored panda" approach, to keep alive skills while not able to use it (will share few examples).
+
+Having born in Turin in 1965, it is quite curious that, after starting doing organized political activities outside Italy while still a teenager in 1982, since basically May 1985 (when I started for the second time my compulsory service in the Italian Army, this time artillery- the previous attempt had been as something completely different), the last decade since 2012 has been the longest time in the area since the 1980s.
+
+As for the "bored panda" approach: e.g. when I was working mainly on cultural and organizational change plus sales improvement and associated proof-of-concept project management across few countries, kept alive and up-to-date my IT and financial controlling skills by designing a multicurrency (it was before the Euro) accounting approach to streamline both the ongoing monitoring on cashflow and monitor trends, while also easing the delivery of information to tax authorities and the accountants for the annual report, and doing online experiments with my own website (from e-commerce, to encrypting data, to creating and publishing an e-zine, to various technology tests and research mini-projects, sometimes involving others that I paid for their activities).
+
+Seems all work that could be delegated to others- but, frankly, the system was integrated with time reporting to customers and billing, and all based on spreadsheets (feasible, if, despite all the complexities, it was mainly a one-person operation operating within multiple teams in multiple countries and multiple customers/industries at the same time).
+
+As in 2005, when shifting from halting my return to Italy from UK into a relocation to Brussels implied adopting a lower profile and focusing just on PMO and project management, I had to do the other way around: use in business IT business analysis and coordination/activity/team management (yes, "orchestration"), getting in the process to update and acquire knowledge, while using my cultural and organizational change skills (including business and marketing planning, process improvement, etc) on my everyday interactions.
+
+The interesting part of this "bored panda" approach? While routinely you can "prune" what is not needed anymore, and identify new areas worth exploring and experimenting on, to "connect the dots" with prior knowledge and experiences, this "in and out and then in again" across time results in a contamination of domains that produces, you can guess it, the routine emergence of something different.
+
+The key difference in my intereactions with Turin between 1985 and 2012? Few decades of multinational and multicultural experience, from the late 1990s first based abroad, plus a business (and social) walk through countless domains.
+
+The concept of "resilience" has been trendy for a few years- even before the Covid-19 crisis.
+
+What has this to do with "emergence"? In my view- a lot, as whenever something potentially disruptive of your current "business as usual" arises, only structural resilience (notably its "embedded adaptability" element) can minimize negative impacts and maximize positive ones. 
+
+As shared in previous articles, it was interesting since March 2020 to follow, at the peak of the crisis, online workshops and webinars discussing potential ideas on how the crisis was showing something that was already known as a potential risk- but had turned into a reality.
+
+Why interesting? Because ideas that would have not even uttered before, or considered too disruptive, were expressed also by those usually most focused on a concept of business continuity that really was akin to "do not touch what is working and worked before, even if everything else changes".
+
+But if you make impossible most of what used to be "normal", suddendly no idea becomes weird enough to be discarded even before being shared, as you have to redesign everything from scratch.
+
+As an example, this morning received a post on a new service that will be provided by OpenAI via ChatGPT, a business subscription
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20230426_businesschatgpt.png)</center>
+
+My comment on Linkedin?
+<i>"And as did for a partner for a startup that was really for a business educational publisher in Italy in 2010 (business TOM and solution architecture), see two potential approaches, for non-profit and businesses, in creating their own transfer learning-based knowledge community: ChatGPT business (there it was Sharepoint and ActiveDirectory), or Open LLM (there it was Drupal + LAMP)
+
+Would be interesting to see how the thesaurisation, audit, curation of prompts options will be designed
+
+as, since early 1990s Lotus Notes Workgroup-based  knowledge community (that designed for a banking customer to support a cultural and organizational program I was leading- a colleague decades later said that I had converted Lotus into a wikinomics), then web-based for others, these elements were pivotal on the "organizational learning" and "organizational memory" plus continuous improvement 
+
+Without this element (a kind of structured, human-machine reinforcement learning), most of the potential value would be lost
+
+Yes, to make a community... an element of gratification/acknowledgement/nudge i.e. gamification is useful ð
+
+but, frankly, as my first activities in programming were based in the early 1980s in gaming while at the same time was experiencing political activities in a multinational environment, and my first official role (after working in the Army also on training, motivation, scheduling) was years later in a subsidiary of an American company...
+
+...an element of the above was actually present in all the above well before "gamification" became trendy, and anyway anybody who did toy with the concept of brain electrical activity and "workings" before even touching a computer would recognize the patterns
+
+hence- we need more integration of those patterns, as are just the way we work: and human-assisted AI (or AI-assisted humans) should consider integrating back into the human environment the results of those "assisted" activities
+"</i>
+
+Well, my comment has few layers that would require probably a long, long article to explain- but, if you followed this website for a while, you can actually find across the few hundred articles it contains all the answers.
+
+But would like to share few examples of concepts that might be useful, if you end up being in a cross-disciplinary environment or situation.
+
+<b>First step: you do not know how long is the tail</b>
+
+Since my return to work in Italy in 2012, I noticed one point: graduates over the previous decade (since the 2000s) and ongoing had an attitude toward their degree that in most cases was a kind of "gamification": scored points, passed exams, been there and done that- the higher the grade, the better.
+
+Spending time to understand the logic? No, would be a waste of time, as you will have other exams to pass as fast as possible with the highest grade possible.
+
+Which might be apparently fine if you assume that you are always going to continuously learn "vertically", i.e. learn something, apply it along with those more experienced, move past the basics thanks to experience, add more, and so on and so forth.
+
+Apparently, as, by removing the time needed to understand the logic of what you learned, you acquired focus, speed, but lost future opportunities to "contaminate", as few develop a kind of "mapping" (the "reference points" I wrote about) that would enable to cross-reference.
+
+The curious element: I met those who still had that attitude, but, within the recent paradigm shift that I observed, that is considered a waste.
+
+Still, it is funny sometimes to share information about something, and find those with the same university degree of others, but a while before, immediately identifying a pattern from their own past learning.
+
+In a cross-domain environment, the gamification of learning brought to its excesses could be a dangerous approach: you never know how long will be before you will be called up to "blend", and, frankly, if you have just vertical experience and not that much of it, your job is ripe for automation with new software technologies.
+
+Those vertical but with longer experience, while having a structural tunnel vision, can anyway, having an understanding of the underlying logic instead of just a collection of tools, be brought about to go cross-disciplinary.
+
+Anyway, it is not just in business that I observed this element, the old "if your only tool is the hammer, every problem looks like a nail".
+
+This attitude can be fixed: it is a matter of choice, but, as started becoming trendy recently, in our data-centric and multi-disciplinary times (despite the apparent need to focus just on over-specialization), learning to unlearn/relearn is as important as learning to learn.
+
+Enabling the emergence of new paradigms through the blend of different sources requires long-term investment in knowledge and its maintenance, not a quick workshop lasting a couple of days with a certificate at the end.
+
+If you look at my CV, you can see that I have been always cross-disciplinary, also if I had to routinely, on each mission, focus and specialize for the time needed, but always blending contributions from other domains: so, I used in banking knowledge acquired for processes in automotive, then in automotive from the startup and retail industry, etc- and in all used my prior experience in other activities (from political activities to army logistics and service organization). 
+
+Incidentally, my first mission in automotive started with applying Andersen method to identify how many man days would be needed for a large project based upon the elements- something I was able to do because I recycled concepts that I learned to plan activities for political events first, and then on a daily basis planning services in the Army for my group (it was part of my activities, the number crunching/proposed allocation of staff side- approval was on the officers' side) considering resources (people) constraints and priorities (what we were supposed to deliver, both in the barracks on shared services with other groups, and in training field exercises).
+
+Also in politics, I remember the long-term planning in communication: but I shared this in the past ([including within the only book that I published in Italian, and that you can read for free online at this link](https://robertolofaro.com/strumenti)).
+
+While supporting startups (and also, pro-bono, cultural activities) visiting Turin from London in the early 2000s, before the Turin Olympic games, and also few years later, while I was living in Brussels, remember I was told of a dialogue with Chinese counterparts, who said that we did not understand their approach: they were hiring some graduates to share knowledge on their side, because they were not looking just to have experts now (in that case, they would hire management consultant on specific missions), but building the next generation, decades down the road.
+
+I remembered that concept recently as, after following a couple of Mandarin courses on Coursera to check how much remembered from what I learned in 2013 (and also few days before) but never used, decided to remove dust from books that I had purchased, as now could be useful.
+
+As you can imagine, learning languages in my view is not limited to grammar or vocabulary (e.g. on [Mandarin, shared on this site years ago](https://wodeshudian.wordpress.com) some readings).
+
+In this case, before moving forward with further language studies, decided to update on current issues.
+
+While in Brussels, over a decade ago, read, as both a test on my Dutch and to complement some basic learning in Mandarin, a book published in 2003 "Het Andere Oosten - 15 misverstanden over China en de Chinezen" by Fons Tuinstra, who shared his experience there: an interesting cultural differences perspective.
+
+Few days ago, 2020 book "Red mirror. Il nostro futuro si scrive in Cina" by Simone Pieranni, with a similar approach, but from an "Italian in China" perspective, and of course with more information on technological impacts.
+
+Of course, what found interesting is how things evolved between the times post-9/11 and during yet another set of Middle East wars (Iraq, Afghanistan) and the beginning of the Covid-19 crisis.
+
+But was intrigued by an element of cultural continuity: in both books, found references to what was described in detail within a course that followed on Coursera few years back about the organizational development history of Chinese bureaucracy (started at a time when we, in Italy, began expanding the Roman Empire; unfortunately, it is not available now- was released by a Chinese university).
+
+But, as shown in a book about the evolution of law in Italy published in 2015 ("Stato legale sotto assedio- fra legislazione di emergenza, traffico di influenze illecite, lobbies e subculture devianti"), sometimes a series of crises can foster the emergence of something that short-term seems a solution, but long-term can have unpalatable structural impacts.
+
+Hence, the need to unlearn/relearn, and constant "pruning", not just expansion and update, of knowledge: not all that emerges has positive impacts, as shown in the 1920s in Europe by the emergence of the acceptability of approaches that then resulted in fascist and nazist regimes (and, frankly, those attitudes are still lingering).
+
+<b>Second step: structural weaknesses need a crisis</b>
+
+I wrote repeatedly about my [critique of the Monnet method](index.php?page=478).
+
+Why? It produced faster European integration that would have been possible through the democratic process but, frankly, it is a technocratic way to circumvent democratic control and push forward integration according to an increasingly self-referential concept of what is a desirable future posture.
+
+As shown repeatedly since the Covid-19 crisis started, while the application of the Monnet method was by political consensus at the beginning, increasingly has become the case where political will has been approving choices defined de facto not by the policy side, but by the executive side, structured in such a way to be a binary choice, not a political choice by consensus with a significant degree of latitude and balancing, as was e.g. the Italian "Costituente" that defined a bipartisan Constitution.
+
+While still living in Brussels, I shared my criticism of the attempt of replicating that process by defining a European Constitution.
+
+Yes, the one that was torpedoed by citizens in two countries, and generated a different, more technocratic approach in further integration steps, as if having to expose to the potential need to get to back to the drawing board was enough a justification to bypass the democratic process.
+
+In 2020, the Covid-19 crisis showed structural weaknesses not just at the European institution level, but also across countries, with more than one suddenly shifting to draconian measures to supplement the lack of preparation that would have required a longer-term involvement of the voters...
+
+...but years ahead of time, not during a crisis.
+
+Europe had actually two crises piling up on each other, and adding a third one: Covid-19, followed by the invasion of Ukraine, and the ensuing resources crisis (energy for Europe, potentially food for others).
+
+In turn, these three could accelerate other lingering crises nearby (as shown by Tunisia and others in Africa, which would expand local conflicts and emigration toward Europe).
+
+Some of the choices made during these crisis at the European level could have, as stated in that Italian book above, long-term impacts by creating a structural habit of replacing reforms with emergency laws and decrees.
+
+Therefore, I think that there we will need, from the policy side of European Union, a frank debate and reassessment- but I am a pragmatist, and do not expect anything of that until the situation in Ukraine is sorted out, and an assessment of its aftermath impacts on European Union will have been done.
+
+So, I expect more, not less, "Monnet Method in technocratic self-referential variant" in the near future (say- between now and end of the decade?).
+
+Why my interest? First, because I am a bipartisan federalist and European Union citizen; second, because short-term choices with structural impact, within the current legal framework, will roll down on Member States, notably those that, as Italy, have structural weaknesses of their own (but on the latter you can read plenty of articles on this website- no need to repeat).
+
+Leaving aside national and supranational politics and policy to the next section, but keeping the commentary above as a background to contextualize what will follow, business-side, in this and the next few sections, I would like to focus on other structural weaknesses that required a crisis to become a priority.
+
+From the late 1980s had to deliver business number crunching models for senior managers in various industries but working directly with them to both define requirements and refine models after initial application, and this gave me a unique cross-industry perspective.
+
+As I said still in the late 2000s, my number crunching experience was mainly in banking/financial and the financial side of non-banking companies.
+
+Hence, I saw for decades streamlining, minimizing costs, flattening structures, often (notably for small-to-medium companies, that are the backbone of the Italian economy) getting down to a single supplier for each category (or even adopting a main supplier that simply covers multiple customers, and therefore optimizes his own priorities, not the customers' priorities).
+
+The impacts of the three crises listed above (plus the "collateral damage" crises that might result out of those three) showed how even larger companies, that should have their own "in house" expertise on supply chain risk management went a little bit too lean too often, resulting in a concentration of production as in "Rollerball" (the old movie were there were towns specialized in each domain/merchandise).
+
+In some cases, reminded me of a movie, "Second Civil War", where a fictional USA president asks to send in the tanks, and an army general states politely that they lack spare parts, as had made an agreement with a foreign country, but then had a quarrel with said country, that country retaliated by stopping export toward USA of those spare parts.
+
+Just staying on the first crisis, Covid-19, over the last couple of years increased the number of advocates of "near-shoring in friendly quarters", to replace the previous "offshoring".
+
+But more about that on the next section.
+
+The key element is the overlapping of political and business choices that has been increasing to the point that sometimes prioritization from both sides reminds me something closer to planned economies, but, as with the technocratic evolution of the European Union, without a clear boundary on who really defines prioritization.
+
+A further side-effect of Covid-19 has been transferring online what used to be offline politics, and therefore the debate about prioritization was a continuous stream where, as with policy, the differentiation between news media and social media in terms of quality of debate sometimes is elusive.
+
+I referred to ChatGPT above: but, frankly, the discussion about the impact of generative AI e.g. on our teaching approaches (as many students learned to use ChatGPT to generate home or school assignments), in my view, just showed the weakness of our educational system.
+
+Why? Because in a way democratized the kind of support that few had in the past, but was not visible, showing how much the supposedly meritocratic system could be easily fooled by a software having access to prior information and zilch "intelligence" (I mean human, general intelligence) or creativity.
+
+So, political decision-making, policy design, supply chains, educational systems were not simply impacted by a crisis or a new technology: showed their own structural weaknesses and how lazy we had become.
+
+It was easier to do "more of the same", to follow the pack, than to work on real reforms that might extract value from additional resilience, new technologies, and the emergence of new paradigms that would have been possible if limited experiments on crowdsourcing had been turned into incubators for solutions of our structural weaknesses.
+
+As I kept repeating also in previous articles: a data-centric society where decision-making timeframes are compressing require something more than recycling XIX or XX century industrial mass-production approaches (on products and knowledge), to generate value.
+
+I am revising a detailed log of all the projects and missions I worked on since 1986 (when officially started working)- still undecided if I will add all, and maybe also pivotal projects/experiences before that (as my approach started long before I started officially working- courtesy of few relocations and access to a relatively large family library and few well-stocked public libraries), or will select.
+
+Anyway, in my review, saw that since the early 1990s actually did feasibility and business/marketing planning or coaching for startups and new initiatives more often than I assumed: while I was working full-time in industry A, it was a way to have to understand (I would not dare to say learn) from those inside various industries their logic.
+
+My contribution was long experience and expertise in organizational change, business number crunching, sales and solution communication/presentation to management, and the like; but I learned a lot- and the more activities I had in new domains interacting with domain experts, the more I learned potential patterns and how to "recycle" them within a new context.
+
+In most cases, it was the contamination of knowledge across domains that allowed to "filter out" initiatives that would have failed, but still extract value for further initiatives, or identify in the early stages potential issues that, unfortunately, were then confirmed.
+
+Because, before Covid-19, many of the currently shared ideas were already there and discussed- but considered "marginal", almost "quixotic".
+
+Shooting the messenger was often easier than accepting the costs and effort needed to shift paradigm.
+
+Repositioning potential use and new industrial policy / security posture could help to generate, in the case of the European Union, not a decoupling from either USA or China, but an increase in local IPR content that could become a counterbalance to avoid dependency.
+
+The risk is always to have a balance between the side-effect of choices such as the one from "The Second Civil War" (a single source outside your own control and following its own prioritization) and, to quote another movie, in this case specifically about military procurement, "Pentagon Wars".
+
+Within the movie, the issue was that something started to transport troops, due to the need to cover needs across different uses, eventually became an "almost" across any category- and too weak for everything.
+
+Now, as shifting the existing stockpile in European Union of weaponry to Ukraine will generate demand for new military procurement, it could a chance to develop something shared and with local IPR- but the point will be to resist the temptation to have 27 different set of priorities blended into each new bit of equipment.
+
+Again, the point is: who defines policy within the European Union? Recently, it seems that the European Commission is taking over the democratic process, using as justification the need to accelerate tackling with issues.
+
+Would be interesting to identify the overall costs and commitments of the recent string of initiatives, and their structural impact, both at the European Union level and on decision-making processes.
+
+<b>Third step: policy-making and cocooning</b>
+
+It is always tempting, also in our social media times, to deliver policy as if it were a "manifest destiny" (no other options available) or a request from the citizens.
+
+Within the European Union, it is an old joke that, when reforms cannot be pushed through the local Parliaments, can be embedded as promises to Brussels, so that Brussels can send them back as kind of "edicts", and local politicians can claim that they have no fault, "Europe asks us".
+
+There is another trend, that reminds me the old movie "Wag the Dog" (about a fictional war with Albania created to divert attemption from a scandal and then win a re-election), blended with Orwell's "1984" war reports, and it started with Covid-19, expanded then after the invasion of Ukraine.
+
+Feeding the news cycle to influence new political choices is an art as old as elections: I shared in the past excerpts from a book about insults in Ancient Rome, where a specifical section was on fake news generated during political contests.
+
+The "value added" of social media is that "Wag the Dog"-style videos can be created (using AI, also literally generated) with minimal tools, costs, expertise, and there is no time to apply scrutiny, as a new batch is available for consumption every few hours.
+
+So, saturing the debate generates a "cocooning" (or "tunnel vision") effect.
+
+Another side-effect of our times is that we all potentially live in a Panopticon were we are all observer, all observed, and all reporter and reported.
+
+I shared a while ago a curious element that I found in a proposal for videosurveillance in my birthplace Turin, which included the possibility for citizens to upload to servers videos that they took with their own devices in areas with lack of coverage from official cameras.
+
+I do not know if it stayed in the final proposal (but I saved the news and documents I read online, for future reference), but that somebody can think something like that shows how much we drifted away from common sense.
+
+The book about China I referred to above outlines also how much cultural elements impact on the perception of e.g. "social scoring" approaches, overt in China, and covert in our Western countries- we have apparently no qualms about giving Big Tech more data than what we give our Governments, but criticize the other way around.
+
+Also if, as shown recently by massive layoffs from Big Tech, all their "being for good" prior statements play a second fiddle on short-term business priorities.
+
+At least, if Governments were to abuse or misuse, there could be a reaction at the polls; and also in countries were the State has more control, eventually grassroot disaffection generates a gradual shift in policy.
+
+Keep in mind these points of reference (influencing common sense and collecting information) when thinking about what means "policy" in the XXI century.
+
+Dovetailing to the initial quote from Christine Lagarde, another long quote, this time from the latest (May-June 2023) issue of Foreign Affairs, ["The Perils of the New Industrial Policy. How to Stop a Global Race to the Bottom", by David Kamin and Rebecca Kysar](https://www.foreignaffairs.com/united-states/industrial-policy-china-perils):
+
+<i>"The new global minimum tax is, in short, a breakthrough in cooperation over competition.
+
+But the Biden administration has also recognized the need for corporate tax incentives to encourage economic activity in certain critical areas. 
+
+Tax incentives and other kinds of subsidies are now a core part of the U.S. strategy for addressing climate change and the security of supply chains at a time of growing tension with China and Russia. These tools are the primary focus of two landmark bills passed in 2022, the Inflation Reduction 
+Act (IRA) and the CHIPS and Science Act.
+
+The question now is whether this new industrial policy will set off a counterproductive subsidy race against friends and allies or can instead be implemented cooperatively with them, building on the lessons of the global minimum tax. There is real risk of a new race. In the IRA, the electric vehicle tax credit is contingent on where the parts of the EVs are made and, as enacted, could exclude production in the European Union from much of the subsidy, threatening what the United States' European allies see as a key industry. And the CHIPS Act, which justifiably seeks to use subsidies to shift semiconductor production away from China and Taiwan, could threaten production in Japan, South Korea, and Europe, too. Without new forms of cooperation or coordination with allies and friends, these U.S. measures could create a damaging contest. Already, leaders in Europe and elsewhere are responding with their own competing subsidies, and amid growing concerns in the West about supply chain disruptions and great-power rivalry, pressure to adopt more such measures will likely increase in the years to come. Even now, there are calls for Washington to enact similar subsidies and other measures in other sectors, from pharmaceuticals to shipbuilding.
+
+...
+Despite the Biden administration's role in shaping the agreement, however, the United States has not yet changed its own tax code to comply with it. During the drafting of the IRA, Senator Joe Manchin, a Democrat from West Virginia, insisted that measures in the bill that would have implemented the global minimum tax be removed from the final legislation, expressing concerns that by approving the tax before other countries, Washington would be putting U.S. corporations at a disadvantage.Although the United States has failed to act, however, many countries- including all member states of the EU- have taken important steps to implement the global minimum tax by the end of 2023. In fact, the tax is undergirded by a strong enforcement rule that allows countries that implement it to increase taxes on corporations based in countries that have not yet implemented it and are not paying the 15 percent minimum rate in every country in which they're operating. Because of this rule, it truly doesn't pay for a country to 
+stand outside the deal, since its corporations will still pay taxes at the 15 percent rate to countries that implement the agreement
+"</i>
+
+So, in the industrial policy arena, "emergence" might have another meaning.
+
+<b>The emerging rationale</b>
+
+Demagoguery has been all the rage in #Italy since at least the early 1990s- but we are not alone.
+
+The 2015 Italian book I referred to above, about the impact of emergency laws and decrees, and the overall decay of the ordinary, refers to a simple figure: within the European Union, the cost of corruption was assessed to be 120bln EUR each year.
+
+Out of that, 60bln EUR in Italy- and Italy is nowhere close to representing 50% of the European Union economy.
+
+in a tribal economy with strong integration of organized crime within the economy (look at official statistics that I shared in the past), corruption has another side-effect, that goes back to a definition of corruption that pre-dates Renaissance
+
+Exchanging favors, money, influences makes all those involved corrupted and, therefore, potentially subject to blackmailing to... extract further of the above.
+
+Generating more words that action, but grand-standing words.
+
+Demagoguery it had its own role across all the Italian history since even the Roman Republic, long before the Roman Empire and Augustus
+
+Still, it used to be a phase- Savonarola, Masaniello, and other soap-box revolutionaries with short-lived power- but long staying power in books etc.
+
+Anyway, a continuos stream for such a long time as we had since the 1990s in Italy has, in a tribal economy, a significant and long-lasting impact, as obviously anybody would attune to the mood to seed careers etc.
+
+Let's see if this decade, courtesy of RRF/NextGenerationEU and RePowerEU plus other ancillary measure that somehow try to build up a EU-wide industrial policy will generate a paradigm shift.
+
+Otherwise, it will be a perfect storm- and pave the way for further demagogues, flash-mobbing political apparatchiks, and assorted "reality TV"-style melodrama diverging from reality.
+
+Sound bites did not produce the development level that we achieved (including many of the services my fellow Italians take for granted while doing their best to have others pay for them), but could quite well undermine it.
+
+Also, there have been already signs in the past that this approach was another Italian export- therefore, what starts or affects Italy as a social laboratory does not necessarily concern just Italy.
+
+Just consider the sheer size of the financial flows spread from Italian organized crime across Europe: my long-time reader will probably remember what I shared from the times when Germany was trying sell assets that belonged to the DDR.
+
+There is more hope to deliver some change via grassroot awareness/integration, which sometimes requires simple basic gestures.
+
+It is still an element of gamification, but could generate awareness about concepts, and inspire other actions with real impact, instead of just flash-mobbing your way into being elected into a Parliament or a polical career.
+
+What did ESA? Plant trees: <i>"
+To kick-start our campaign, ESA has already planted 500 trees but we need your help doubling that number. For every 'like' this article receives as of Saturday 22 April (23:59 CEST), ESA will plant an additional plant in its existing ESA forest - in collaboration with Treedom. 
+
+If you'd like to participate, it couldn't be easier: Just click the 'like' button below. Every like counts (literally!) 
+
+Climate change, threats to biodiversity and environmental protection are some of the biggest challenges of our times and Earth Days aim to raise awareness and inspire action to tackle these. We consider this campaign to be a small step in this direction and that can complement broader conservation action worldwide.
+"</i> ([source](https://www.esa.int/Applications/Observing_the_Earth/10_remarkable_Earth_facts))
+
+Another element: delivering equal opportunity of access.
+
+Emergence requires knowledge-domains cross-contamination, which is feasible only if access is affordable (so that focus can shift on prioritizing the only scarce resource-time).
+
+Whenever articles, posts, and increasingly courses or workshops/webinars refer to new research papers, arXiv is increasingly the link provided- often with data (so that reproducibility can be checked) and, whenever relevant, links to further applications (in AI, also implementation)
+
+Recently, [arXiv had online an interesting forum](https://lnkd.in/dVZnrNK6), and since 2020 followed similar initiatives from various institutions in the USA.
+
+As Covid-19 pushed online what previously was just in-person in Washington, but eventually the organizers saw how many worldwide would be interested.
+
+Across many of the OECD countries there is a trend toward declining fertility rates, and Italy is quite visible.
+
+A summary of the fertility rate
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20230426_fertilitytrends.png)</center>
+
+Few weeks ago, [shared on Facebook the trend for towns](https://www.facebook.com/robertolofaro/posts/pfbid02V9Azpghng4xb4kHtzqFwuFhmEutUt5VHEDXrkHCbMSR7qoaNYbUBafRKMy3Yi6Kdl)- and Turin is expected to lose 350k inhabitants (out of less than 900k) by 2100.
+
+If considering the overall region of Turin was in 2020 2,253k, and expected to become 1,845k by 2100, it is a significant projected reduction.
+
+This table shows the trends by county/region, comparing Brussels, Berlin, Paris, Rome, plus all the provincial areas in Piedmont (where the Metropolitan Area of Turin is located).
+
+Source covering all the dataset across Europe: <a href="https://ec.europa.eu/eurostat/databrowser/view/proj_19rp3/default/table?lang=en
+">https://ec.europa.eu/eurostat/databrowser/view/proj_19rp3/default/table?lang=en</a>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20230426_trends.png)</center>
+
+The population growth expected for major Italian towns 2021-2100
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20230426_trendstowns.jpg)</center>
+
+You can <a href="https://www.visualcapitalist.com/cp/projecting-europes-metro-population-growth-2021-2100/?fbclid=IwAR2DnsnEVzX2nXjhKnXNheAGwRsWtXSI8bfCUzyZT8GU2cG1oqTC4l1hMME
+">compare with the trend in other European towns at this address</a>. 
+
+It is a paradox that frankly already shared with others in the early 2000s, when I visited from London before the 2006 Olympic Games, and saw all the building sites ongoing.
+
+Turin has been building up its infrastructure as if it were a much larger city, and keeps going on renovation, gentrification, and a caf&eacute; across the other- ditto for restaurants, and this at the same time when the local business base has been shifting from manufacturing to service, but as shared years ago by an annual report I wrote about often in the past, not high-value added services (e.g. management consultants for manufacturing companies), but low-wage activities (e.g. temps for hotels, restaurants, events, etc).
+
+To the point that recently reported as a success the plan to build more housing for low-wage workers, so that they can stay in town to serve the industry.
+
+When Marchionne joined FIAT, I remember in an interview book how he said that had to change some facilities for manufacturing staff as it looked as if straight from Dickens.
+
+Well, Turin seem to be in for another Dickens' style "value extraction".
+
+With a twist: the accelerated gentrification is going in parallel with a continuous stream (at least since 2012, when I saw it) on organized crime cliques discovered in the area, and recently, in areas where there was an increase in real estate value, a stream of assaults on shops, etc.
+
+So, all these trends point more to a new Las Vegas than a new Disneyland, but with historical buildings.
+
+A trend is not a destiny- it is a function of active policies that might alter it...
+
+...and this applies to all the concept expressed within this article: a matter of choices.
+
+<b>Footnote: a publishing experiment</b>
+
+Just a hint: since 2022, except in some cases where it makes sense to publish my usual 2000-5000 words articles every few days, I shifted to social media (notably my [Facebook profile](https://facebook.com/robertolofaro) and [Linkedin profile](https://linkedin.com/in/robertolofaro), but also others- see below) what used to be articles up to 400-500 words (with some creativity to cope with Linkedin, Facebook, and Twitter length limitations on posts).
+
+Actually- as since early 2023, tried a slightly different approach, posting routinely on both my [Facebook profile](https://facebook.com/robertolofaro) and [Linkedin profile](https://linkedin.com/in/robertolofaro) what are really few hundreds words long articles.
+
+In 2022, beside news sharing and announces of the release of new books and posts that were across all my social media profiles, tried to focus posts on Facebook on the social/political perspective, and on Linkedin on the business perspective.
+
+This article is already long enough, so I will close it with something practical: instead of sharing a discussion about what I did, I am currently working on "repackaging" material I produced since late July 2022 for my knowledge update and a couple of projects into something that might be reusable by others.
+
+So... stay tuned- and look forward for more hands-on material.

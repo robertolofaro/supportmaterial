@@ -1,0 +1,690 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230802_article.png)</center>
+
+This article is within the series where I usually publish articles about the "political" dimension of change- and talk about Turin, Italy, European Union.
+
+In reality, this article could have been part of either "Organizational support" or "Rethinking organizations"- i.e. the business-political-development side of change.
+
+The usual caveat: this is not advice- before trying this at home (personal, corporate, social) check with your trusted advisors who know your own specific context.
+
+The title refers to a cultural change, not just a structural change.
+
+Actually, it is a long article, and divided by section that, probably, would be better to read a section a day, spending few minutes while walking after each section, than reading it in a single swoop.
+
+Defined the outline of this article last Friday, while selecting and preparing my week-end readings.
+
+This article is about transitioning toward a different concept of social integration and participation, shifting from XIX century concepts, and bringing citizens as individuals within the feed-back loop, but with a pragmatic, "opt-in" approach with a flexible "opt-out and then maybe re-opt-in", not a mandate from the top: setting a dynamic in motion.
+
+But more above these qualification later, few article sections down the road.
+
+Let's start with a more modest roadmap- for this article:_ a long introduction to put you off balance_ "individuals" vs. "individualists": a personal perspective_ a public service announce- what goes online and where_ let's define "market failure" in a data-centric society_ nudging our way to the future, but who defines the nudge?_ what's next
+
+For this article, will limit my "bibliography sharing" to that report on behavioral economics (with some additional neuromarketing elements), the Italian Constitution ([available also in English at this address](https://www.senato.it/istituzione/la-costituzione)), and few more books etc.
+
+<b>A long introduction to put you off balance</b>
+
+Many organizations forget that an organizational chart, even more the underlying organizational development principles adopted that guided its realization, are first and foremost an internal communication tool.
+
+As I shared in two books that you ca read online, [the reprint/update of my 2003-2005 e-zine on change, prepared in 2013](bfm2013) and the only book that, so far, published in Italian, [about the use of social media within your communication and advocacy mix](strumenti), a coherent communication inside is what others call a "force multiplier".
+
+Also pre-Internet (meaning really: pre-web, i.e. pre-mid-1990s), part of your motivational tools within the organization and within what we now call "ecosystem" (roughly, stakeholders and more) was how your organization pretended to work.
+
+Yes, there is a formal and informal organization, and, often, the informal one develops communication channels that circumvent the limitations of the official one, up to the point of representing a real constraint on any further development: ignore it at your risk.
+
+But, in the XXI century, when everybody is communicating with everybody else, the formal organization is not a mere formality- it is a guideline that should be consistent with the image that your organization tries to project toward its audience (or audiences, if you have multi-layered messages and communication approaches toward different agents within your ecosystem).
+
+It is a paradox: in our hyper-communication times and apparently informal times, what was acceptable in terms of informality within an organization is becoming a nuisance.
+
+What I saw since the late 1980s is quite simple, and often ignored by many change management consultants: all the rounds of compliance introduced, to the point that even the smallest organization needs to a have a large number of advisors, are striving to obtain more consistency, more transparency.
+
+To summarize: to phase out the informal organization, or, better, to align formal and informal organization.
+
+Hence, as I wrote in the past, the "political" dimension of business, both inside and outside, is not anymore just something for large multinationals, if it ever was.
+
+External forces, e.g. consumers, can turn the tide of fortunes of any organization, if there is a perceived incoherence between what is communicated and how an organization behaves.
+
+I hail from a town, Turin, where since the 1980s I saw how the accelerating decline (better- lack of coherent idea of a "future plan") generated two things: countless "plan B", and an increase in attempts to get the limelight by bestowing prizes and medal on anybody who could be called a local "excellence".
+
+The book of great fame in the early 1990s (I received my copy few years before through a foreign business partner in UK), "Search for excellence" had a meaning back then, as had, in a town that for a century was based on automotive, "The Machine that Changed the World".
+
+But the lessons that were contextualized in that time and framework of reference required a different approach in times where everybody can integrate (or interfere, augment, distort, reinforce) with your organizational communication.
+
+In few years, we will get used probably to have each citizen, willing or not, contribute data to the working of the State- not just for the usual taxation purposes, but to help tune the continuous re-allocation of scarce resources, so that the appropriate mix of services becomes the XXI century "panem et circenses".
+
+Backroom deals that generate laws or organizational structures and communication campaign that hold steady for half a decade or decades could still work for product or service brands, but only if the content is renewed constantly.
+
+I will be blunt: somebody criticized the late Berlusconi for converting political marketing into product marketing.
+
+But, in the age of disintermediation of communication, when also professional news media more often than not seem to relaunch what was written or shared by citizens, up to having "political" or "foreign affairs" experts who babble and are acknowledged, until are discovered to be just republishers or simply frauds, unfortunately ideology-based allegiance is a luxury, and voters have to be attracted.
+
+So, you can focus on your political brand as companies focus on their organizational/product/service brand.
+
+But if you betray the image that you projected, except few "loyalists" too scared to make choice or admit having chosen the wrong horse to ride, most will switch allegiance- often and with gusto, i.e. using communication channels to share their dissatisfaction and justify their jumping ship at various levels.
+
+If you think that this is only for politics, think again: the current new wave of corporate social responsability, sustainability, is structural compliance and transparency that will dig deeper into your organizational behavioral patterns than even ISO9000 or SOX (different realms, same concept of transparency) ever did.
+
+You could "compartmentalize" ISO9000 to product, service, manufacturing, while leaving the "backoffice" and associated informal organization basically untouched.
+
+And you could "compartmentalize" SOX by focusing changes only on what affected corporate communication that could impact stockholders etc.
+
+With sustainability, if you shift to the quantification of intangibles, and quantification of your impacts upstream (before raw material and components or other inputs arrive to you) and downstream (up to the disposal of products or completion of services after reach consumers), across the whole lifecycle, keeping a formal and an informal organization will become increasingly... unsustainable.
+
+This, eventually, will impact also on internal personnel policies as now is already starting to impact on external policies.
+
+As I shared few days ago on Linkedin, adding a level of transparency on e.g. minimum and average salary paid to direct and indirect employees as a communication requirement could probably be a XXI century better way than setting a minimum wage across industries, as would generate quantifiable and certifiable information that could drive tailored intervention.
+
+Why just minimum wage? If I receive, say, 50 EUR an hour as an employee, probably I would not care about public transport costs, or paying for my own additional health insurance.
+
+But, as it happens in other countries, if my salary is a fifth or even less (the German "mini-jobs" that complement sometimes e.g. retiring benefits), receiving a free public transport pass and health insurance coverage plus other non-salary benefits could matter.
+
+I give you a small example.
+
+When I was in Brussels, eventually to circumvent Italian nuisances from Turin and Rome and stay in Belgium went to a local employment agency, and asked to rewrite my CV to "hide", i.e. to become acceptable for an entry level job as a tech assistant or call center operator or librarian.
+
+Meanwhile, I kept my skills alive and up-to-date by publishing and working to continue supporting pro-bono a startup set-up by a former LSE classmate, as well as keeping up with others and sharing with local contacts discussions on ideas, events, projects: never surrender, but prepare to fight another day, and meanwhile use any opportunity to learn.
+
+Not so "funny" in few months to move from negotiating, selling, organizing half a million EUR or more service contracts, to becoming an agent.
+
+But useful: as it was in the Army in 1985, where I met people that, in normal life, I would have never met (which helped me to understand and learn many things that was useful then in business- e.g. that having a right is not the same as being able to exercise it).
+
+In that case, my offices was in Molenbeek, an area that became then famous as source of Islamic terrorists, and where, for the first time, saw how policing is actually a tool that could increase their ranks by creating an "us vs. them" by simply continuous micro-harassment.
+
+It was an area where on Fridays most shops were closed, and I saw some going walking around "suggesting" to close.
+
+In my office, there were refugees from Africa who had before had public roles even higher than I ever had, but had to integrate by starting low and then preparing to move up, and many from Arab countries- I remember once asking (I learned some Arabic to be part of the team, and each day I had my mint tea with colleagues) how should I pronounce something, and was immediately a discussion between those hailing from different countries: written the same way, spoken in different ways.  
+
+The few locals who were not immigrant were there to cover Flemish, otherwise I think that, except for an observer from Malta, I was one of the few European citizens by ancestry.
+
+A melting pot office, but I am used to "embed" in any environment.
+
+So much, that somebody in Brussels (I do not know in Rome) worried that I had converted to Islam.
+
+I have been baptized and raised as a Roman Catholic, but since I was 10, after my late first communion and studying the Bible so much that somebody assumed I would like to become a priest, became agnostic, albeit kept saying "atheist" to those trying to convert me, and agnostic to... others and atheist trying to convert me- I think that Atheists are really just another religion, so firm are on their certainties. 
+
+Eventually, after being "bumped up more" few times across months via minimal training, was repeatly mobbed out.
+
+Curious when somebody said that being Italian I did not speak French well enough- and, for a mere call center operator, sent a tape in Paris without telling me, getting the reply that my French was better than those of other local colleagues (I had obviously hidden also that I had been a "cadre" within the Italian branch of a French company, in the early 1990s, and had been also a negotiator and project manager in Paris in the late 1990s).
+
+But those few months in the late 2000s from the other side of the management barrier at the entry level (first time since 1986) were actually interesting to see how things had evolved- also if I was in a different country, and my routine involved using few languages each day.
+
+A funny point was when, assuming that that would become a stressful point, was asked to answer the phone in French, but make notes inside the Peoplesoft system in English.
+
+Well... I saw on each dossier what others before me had done- and understood why some customers kept calling for the same issues: if you summarize a 10-minutes tirade telling your the story of a bureaucratic SNAFU piling up on other bureaucratic SNAFUs into four words, it is doubtful that anybody would be able to sort it out.
+
+Even at 12 minutes maximum per call, many just wrote few words summaries during the call, also if the problem was complex: it was a lack of motivation.
+
+Solved some bureaucratic issues by simply adopting what I had done when I was a negotiator: continuously translating from one language to another, i.e. talking in French (or English, also if sometimes the mobbing included sending me calls in Spanish, Italian, German, Dutch to see how I coped with them if nobody managing those languages suddenly was available), and writing verbatim in English.
+
+A skill that I had before, and that still had almost a decade later, when during a conference call colleagues from abroad asked me to convey in English what was being said in Anglo-Italian and they could not understand, or to take minutes for a call that they were unable to attend (I was told once that reading my real-time transcript was akin to reading a script and attending the meeting: and some complained that it was like a tape: it is just a matter of exercise, does not require any special skill, frankly).
+
+Eventually, in Brussels the time per call was reduced to 7 minutes- but I kept doing the same, also if some colleagues that had been there a long time started saying that they could not cope with the time reduction.
+
+Eventually, was told that I was... writing too much.
+
+I was bumped up to taking care also of business customers- before eventually being mobbed out with a damaged left ear- but that is another story.
+
+Part of the experience, was to see and discuss with colleagues how life was.
+
+Life for immigrants within a secluded community is never easy- you are somewhere else but not really there, and personally, after adopted (the "embedded" principle) the same hairstyle, beside aligning in clothing and food, occasionally got the "local treatment" for immigrants.
+
+I remember once waiting at a traffic light for a pedestrian crossing, and seeing a police car stop.
+
+So, assumed that the light was green, but, as I routinely do in Italy, did check anyway: it was red.
+
+An old Arab man with robe told me in French that they were doing that often: stopping at a green light, so that you would traverse with the red light, and they had a legal excuse to harass you.
+
+Well, was not surprised then by what happened during the COVID lockdowns, and was reported on local newspapers (and relaunched worldwide).
+
+Once the company decided to add fruits on the workplace to increase employee satisfaction.
+
+What I saw then for few days was employees coming from home with empty bags to bring fruits home- as it was too expensive to be purchased on the market, and I was told that their diet lacked fruits (personally, I always considered meat a complement to fruits and vegetables, not the other way around).
+
+Few days later, the on-the-floor policy was shifted to a single fruit per person per day.
+
+Therefore, when considering motivation, consider motivation systemically and with empathy, not by projecting your own "normal".
+
+Putting fruit on the floor was a valiant attempt to mimick motivational strategies applied, say, in Silicon Valley- but with other levels of motivation (and salaries).
+
+No amount of new-ageish communication or yoga courses or team building exercise would generate a unified motivational standing, if the Weltanschauung by different layers within your workforce, network of collaborators, supply chain is focused on different planes of reality.
+
+More successful was when the company, considering the composition of the workforce, on Fridays converted a room into a makeshift praying room for those willing to, and allowed those interested to attend.
+
+No, I did not: generally, unless I am escorted by somebody who wants to attend, or it is my duty to represent others, I always wait outside religious functions- also if I am agnostic, do not like tourists taking pictures during functions.
+
+In the XXI century, when miscommunication can backfire publicly, it is better to consider the whole picture, or provision for potential side-effects, when trying to motivate people, employees, or your social circles.
+
+<b>"Individuals" vs "Individualists": a personal perspective</b>
+
+The concept of social integration within this article is somewhat different from the "direct democracy" or "extreme democracy" model, where "one person one vote" is converted into "whatever question, gets an answer from everyone".
+
+Which in reality, in my view, after observing for few decades all the attempts, are a way toward plebiscite and mob rule, not democracy.
+
+Why? I think that making a real direct democracy viable in our complex society would require a level of investment in time and efforts that is almost an impossible probability, not an improbable possibility, because would require a constant investment on both, as shown by routine attempts over the years, i.e. a full-time occupation.
+
+Maybe robots and automation will allow us to potentially all turn into permanent representatives of ourselves into a new Universal Parliament, but I think that many would still prefer to focus on something else, and delegate others, also if pretending to want direct democracy...
+
+...only to then surrender their critical thinking to the will and antics of the incumbent leader.
+
+As will be discussed within the section on "nudge", existing apparently direct democracies, where a referendum is always around the corner, in the end are more a confirmation than a denial of that model.
+
+I routinely saw in Italy since 2012 clerks unable to give correctly change unless they watched what the cash register said (and more than once actually I had to explain why they had given me too much), or arguments pushed that ignored the legal context and referenced just the title of an article without understanding its content, can you image which vote they could deliver on laws distributing funding or defining the timeline for implementation of structural and infrastructural changes? 
+
+Actually, after a referendum, as it happened in Italy, once done a choice by supposed direct democracy, the result is routinely reverted by more structured efforts (as it happened few times e.g. in Italy with the issue of political campaign and political parties funding by taxpayers).
+
+Again, a confirmation of its unsustainability.
+
+It might change in the future, but for now... resulted in replacing critical thinking with blind acceptance of what the incumbent leaders (or opposition leaders) proposed- until such leaders actually changed their mind.
+
+That "impossible probability" vs "improbable possibility" was already part of something I wrote over a decade ago, while in Brussels- but I would like to add another quote from Aristotle's "Poetics":
+<i>
+"[what] we have said already makes it further clear that a poet's object is not to tell what actually happened but what could and would happen either probably or inevitably. 
+
+The difference between a historian and a poet is not that one writes in prose and the other in verse- indeed the writings of Herodotus could be put into verse and yet would  still be a kind of history, whether written in metre or not. The real difference is this, that one tells what happened and the other what might happen. 
+
+For this reason poetry is something more scientific and serious than history, because poetry tends to give general truths while history gives particular facts."</i> (Harvard edition 1932, page 35).
+
+I already shared in the past my criticism of the concept of "competence" within politics: you might be an expert in your own domain, but when you enter a Parliament, you are asked to contribute to laws and initiatives that transcend your expertise.
+
+If you project what you learned or would make sense in your own field as if you were dealing with universal truths, you could end up being as an historian according to Aristotle trying to fit his definition of a poetry, i.e. converting your limited set of proved truths (you expertise, your "techn&eacute;") into universals.
+
+When I attended in 1994 a summer school at London School of Economics on International Political Economy, my American professor shared with us the joke that economists are good at forecasting the past: and they are not the only experts.
+
+In Italy, actually, we went a step further, as I described [e.g. in "Il paese dei leader"](index.php?page=125), one of the most read articles on this website: we Italians look routinely for leaders that... they can save us from ourselves (until we turn the table, and they become the scapegoat to, again, clean our conscience from the sin of supporting them and ensuing actions).
+
+Many consider "corrupt" somebody taking money just by abusing of the role- but, frankly, my concept of corruption while in office is much wider, and pre-dates Renaissance- and is linked to the difference between "individuals" and "individualistic".
+
+Tailoring action to the limitations of your own ability to comprehend is really just ego-massaging, not leading.
+
+My concept of "as individual" should not be confused with "individualistic": the point is about giving the chance, means, opportunities for each individual to be an active part of society- not just for flashmobs or highly visible collective convergence, but also in countless small, invisible actions taken by each individual not to "score social points" directly or indirectly, but just because part of a larger whole that such individual assumes has to be sustainable so that also the individual can have a future.
+
+The key is to integrate those actions in your routine, almost as a Pavlovian reflex- and to do it willingly, not simply as part of compliance to social trends.
+
+When I was asked almost 20 years ago if I would like to work few dozen days across few projects as Project Manager and Business Analyst on Government projects in Rome, and then told that my rate was too high (1600EUR/8h), I gladly decided that, holding an Italian passport, I would subsidize my public sector activities (as I did already expect that the time allocation was not enough, and would have to add between 10% and 20% "free"), by setting a rate that the partner said they could accept (700EUR/8h, including a "forfait" for expenses), and not charging for time to prepare (as PM+BA, felt my duty to study also the context of the project, e.g. laws and regulations, not just the project charter).
+
+Little I knew that, eventually, I was actually to cover my own costs to work for free, as what I found in Rome was a completely different concept of State, not as a "common", but as pork barrel.
+
+The concept in my view was what is aptly represented by Article 4 of the Italian Constitution (the first part of the Italian Constitution contains the general principles):<i>
+Fundamental principles 
+
+Article 4
+
+The Republic shall recognise the right of all citizens to work and shall promote such conditions as shall render this right effective.
+Every citizen shall have the duty, according to personal potential and individual choice, to perform any activity or function contributing to the material or spiritual progress of society.
+</i>
+
+Well, if you read previous articles on this website you know how it ended my experience in supporting Italian startups, SMEs, and government projects (not a single contract was respected- being outside tribes, implies that you are in only for as long as needed- then, budgets and payments disappear, deferred income / deferred equity lose the reference assets, etc).
+
+Instead of returning to Italy in the early 2000s to contribute what I had learned in my experience in Italy and abroad since the 1980s, contribute both on a business and political level, decided to phase-out Italy (damned me that I had phased-out activities abroad to prepare to return to Italy), and start afresh in Brussels from 2005.
+
+"Phase out" does not mean cutting down- means identifying, in each context, a sensible way to transfer to others or close down activities.
+
+In my case, as in Italy and abroad had something ongoing (not necessarily paid), for reasons of business continuity of partners, up to spring 2008 decided to avoid getting into anything in Belgium that could generate conflicts of interests until then.
+
+Wasn't easy, but had a silver lining: I had time to study the new environment before actually trying to settle professionally there.
+
+<b>A public service announce- what goes online and where</b>
+
+Started to publish under my own name in 2008, a choice that I never regretted or reverted, also when I had other activities.
+
+Decided to keep updating and doing research/experimental projects on change but, except for PM or PMO or similar roles (those that were on offer for an unknown quantity), stopped to work supporting Italian startups and SMEs.
+
+All the study, research, experimental projecs etc concerning what I had done since the 1980s were then to result in free online publications.
+
+Yes, the books are also available on paper or digitally to be purchased, but disseminating ideas was more important- it is my current, bipartisan, non-tribal application of that article 4 of the Italian Constitution.
+
+The idea? What I developed since I had to return to register in Italy, in 2012, i.e. get interim missions or roles to support my research&amp;publishing for free online (and associated costs), or using my business experience to generate other revenue streams, while seeing if it was feasible to settle permanently in Italy or (more probable) resettle again abroad for the third time.
+
+Hence, I registered again in June 2023 as a freelance in Italy, while I am still resident here and pending the definition of my future roles and location.
+
+While few months ago completed covering the costs vs. the State of my attempt in 2018 to start again an activity (and I received plenty of request to work for free), and eventually will cover other bits (but I am still waiting for a tax reimbursement that will never arrive), meanwhile the "game" is to find freelance missions or extract value from publications and other online activities, while keeping an eye on potential opportunities to resettle for good and do something more structural, long-term, within either a new or an existing organization.
+
+As I said as a teenager I say now in my late 50s: I do not plan to retire, I plan to keep shifting the way I work and reuse my experience and knowledge, directly and indirectly. 
+
+Incidentally: do not get misled by the nominal tax rate for the first three years as a freelance in Italy- if you count everything, i.e. taxes and non-deductible costs, the overall "tax weight" in Italy is sensibly heavier than the one I had in UK when I resettled there in 1998, to work in UK and around Europe; roughly (in my case, freelance PM): if your costs exceed 22%, consider that you have to pay anyway over 32% (hence, I saw many Italian freelance consultants who eventually set up in Estonia, when I was e-resident to evaluate the system, 2015-2018, also if I did not open a company there).
+
+The main silver lining of the Italian system, if you are based in Italy or based elsewhere within the EU but with at least 75% of your turnover in Italy, is that with e-invoicing and other reforms, the bureaucratic side is significantly more "lean" than has ever been traditionally in Italy, from my direct experience since 1990, and indirect since when I was a kid (as my parents had a small activity decades before I started working in the 1980s- so, I saw the evolution of bureaucracy in Italy for small businesses across half a century).
+
+Beside that choice, it was time also to redefine my publications and knowledge/research/experiments sharing online.
+
+I will keep posting online short commentary (few hundred words max) on some of my social media profiles, and then share the picture elsewhere, extending from what I already did since 2008.
+
+Yes, I am also on other online communities, as you can discover if you have my mobile number or email in your agenda (both on my CV), and link your contacts to your favorite social network- but those listed here are those that, for now, I am using to share the "written" and "picture" side of my communication.
+
+Incidentally: as in Italy apparently there is no real way to avoid a level of cold-calling from call centers and salesrep interference that I never saw anywhere else in Europe, my mobile phone is set to filter out any call from numbers that are not already on my agenda- I keep saying that also to recruiters who call impromptu and then send an email.
+
+Also my agenda for interviews is online and listed on the CV- simply, when some marketeer registers for an interview, I decline, and accept only those that make sense to me: I had enough "interviews" while in Brussels and the in Italy since 2012 that were actually just scouting for information and contacts with my former customers...
+
+If I will have time (and build a reasonable communication concept/format), will post online also micro-videos: but, for now, as you can [see on my YouTube channel](https://robertolofaro.com/ctr-channel), there are few videos with my face and voice, really because I was required to for courses.
+
+Otherwise, I am used to talk to small and larger audiences in presence and virtually, but on specific purposes and knowing roughly the audience reason for attending: and I am no party animal- attend only when due for business.
+
+So, what I will post and where (the when will be variable)?_ mainly business/social change and technology, plus related news links: [Linkedin](https://linkedin.com/in/robertolofaro)_ mainly political/social change, plus related news links: [Facebook](https://facebook.com/robertolofaro)_ the visual side of both (generally, relaunching from Linkedin and Facebook): [Twitter](https://twitter.com/robertolofaro) and [Instagram](https://instagram.com/robertolofaro)
+
+And on all of them (and others) will also share links to new publications on this website, new projects or datasets released, and other assorted publications.
+
+My publishing (and reading, listening, watching) approach since decades is based on some elements that found then better described by Nir Eyal's book "Hooked".
+
+If you want a short summary, have [a look at this Linkedin post that I received on 2023-08-01](https://www.linkedin.com/pulse/3-types-variable-rewards-hook-your-users-nir-eyal/)- it contains also links to both a free course (at the time of writing) and a "primer" on the subject.
+
+Obviously, I do not consider ethics just matter to write about (as in my recent [discussion on a primer on AI ethics and associated monthly bibliography update](index.php?page=515)), but to write about after testing the same concepts.
+
+Always: contextualize before using.
+
+Since COVID lockdowns, revised my information sources.
+
+Despite what most people say, on both Facebook and Linkedin, if you follow the right people, you can have access to information that otherwise you would not monitor, or would discover much later.
+
+And, if you are in business, it is actually high-density information that you would have had to pay for.
+
+Also, if you use online systems and can share information, instead of paying 20k-100k EUR a single consultancy that would try to reuse the same solution over and over, you can actually launch a challenge online, have hundreds of teams of experts crunch your data and offer potential solutions, and then, for the same 20k-100k, obtain a portfolio of options.
+
+Yes, if the algorithm and data source structure per se are confidential, this venue would actually disclose to potential competitors what they themselves have not yet done (your business + data analysis).
+
+Anyway, if you are able to have your competitors converge on your own way of seeing business and relevant data, you can actually influence your own industry- hence, using platforms such as [Kaggle](https://kaggle.com) and others might work as a kind of "shared research facility", generating further algorithms and potential activities.
+
+It is a different model of business.
+
+Moreover, also if you were to have access to the same information, probably you would not be able to "extract value" as they do.
+
+As I shared many times, also with customers since the 1980s, but will fail to repeat: get on board only those experts whose expertise you can nurture, develop, use, and keep in prime shape.
+
+Otherwise, you end up with somebody that at best is obsolete, at worst will try to stifle any innovation that would make the incumbent obsolete and replaceable.
+
+Again, if you find the right people, able to convey to you what matters in ways that you can either understand, or handover to somebody who can understand and then explain to you, not those just showing off jargon or reposting what other post as a clickbait to obtain visibility.
+
+My netetiquette when I found interesting material is simple: while I share my own content for free and look forward mainly to reuses (not necessarily attribution), I "tag" explicitly the authors or those who were my "filtering channel", to give credit for their sharing/commenting/etc (unless the post already includes a link to the "filtering channel").
+
+The reason is equally simple: maybe others could have other interests that are better served by the source.
+
+So, as I do not really care about selling my books and do not have advertisement on this website, it does not make sense to add my own personal "layer".
+
+As for advertisement: tried years ago, then removed as was impossible to control the quality and some links were presented as misleading editorial content- something that even newspapers often do not check.
+
+So, please, do not write or contact me to "monetize" my content- unless you have a paid mission to involve me in.
+
+Working for free is what I do for causes that I choose while working on something else covering costs, or what I do while publishing online in an open forum, to allow many to reuse, recycle, and maybe create something new.
+
+The concept of my publications is still the same that was when I did not publish online, but did research and shared information with partners (1980s to early 2000s) in Italy and abroad.
+
+I keep up-to-date for my own purposes: I am a generalist with few specializations but used to work across industries and technologies.
+
+In the early 2000s my publications online were part of a campaign (including a direct marketing campaign) to return to Italy, that aborted in 2005, after testing the waters in Turin as well as in Rome (and Italian interferences in Brussels having significant financial impacts since 2008 confirmed the wisdom of that choice).
+
+Since 2008, my rationale in publishing online is simple: I simply elected to keep updating (i.e. learning) / pruning (i.e. unlearning) / revising (i.e. relearning), and applying to what my information sources online provide as potential case studies.
+
+When I have time, as I did [for #Quplan](quplan), a book on project management, develop and then share a full case study (in that case, few "episodes" with over 200 pages).
+
+Therefore also the choice in late 2018 to quit publishing in Italian, as curiously since 2012 in Italy kept receiving requests to provide the kind of advice I provided before but for free, while at least from abroad received offers for paid interviews (up to few hundred dollars an hour, more than my old 200 EUR/h I used to charge).
+
+Anyway, also if I were in a senior management position within a company, would not accept paid interviews unless their content had been pre-vetted: when I was asked by a customer or partner to design a new organization chart, or a new negotiating position, or revise a potential partner, it took often less than one hour to identify the key points, after few back-and-forth exchanges of questions and answers.
+
+I prefer to share only in a public forum, where most can reuse it, if useful.
+
+So, I refused first years ago a contract as an author for a series of books for CIOs that would have implied a permanent "gag rule" and restriction from delivering anything as a consultant, and then offers to deliver paid interviews.
+
+So far the "score" since 2012 is decent, in terms of reuse, and not necessarily just from my political side.
+
+<b>Let's define "market failure" in a data-centric society</b>
+
+The most common definition of "market failure" is close to what is considered within the European Union whenever funding is allocated.
+
+Or: "market failure" is when offer does not meet demand, as offer is uninterested in providing services, products, etc.
+
+There might be various reasons- from excessive costs involved in delivering those services or products (i.e. serving that demand would generate more costs than revenue, or at least much lower margins than serving other segments of demand), to lack of continuity of such demand that could make not viable delivering services or products (i.e. akin to hiring an expert, then having the expert sit at a desk for months playing solitaire, and then assuming that as if by magic the expertise will be available when needed).
+
+An example of the latter is a routine discussion that I had in Italy since 2012, whenever somebody was complaining that, in a location where there were e.g. few uses of the hospital operation theatre over twelve months, a specific service was shut down.
+
+In this case, the point was actually that having few operations a year would make it into a risk- as would turn a routine into an infrequent practice.
+
+I have seen often in business the difference between those who follow a procedure often, or have proper, continuous use of their skills, if compared with those who just had a wonderful manual that they opened once in a while.
+
+It is not just a matter of knowledge- it is also the combination of anything from reflexes to kinesthetic memory.
+
+And I saw right after 9/11, in the first "live" exercises in London and nearby Genoa where I was just a witness by chance, how having all those procedures on paper is not enough: drill, drill, and drill again, if you want to spring into action when needed.
+
+From interviews I saw in Italy from the early phases of the first 2020 COVID lockdowns in Italy, saw the difference in preparedness from those who had just had worked in countries where Ebola or other diseases required to adopt simple, cheap, yet effective measures, to those who had just a manual to refer to, a manual updated last time few years before.
+
+The first type of what I consider market failure is, really, just a consequence of a market economy, e.g. when telcos found more convenient to deliver broadband services in towns than in small villages.
+
+Broadband for a single building with 40 to 100 apartments would be faster to set up and deliver (as well as to maintain) that servicing 40 to 100 houses scattered in a valley (which, incididentally, would require probably at least 40 to 100 authorization to poke a hole within a street, and the associated costs to fill those holes).
+
+Which, in Italy, as I shared in the past, has some side-effects, as many small companies (the backbone of Italian manufacturing) are often in peripheral areas.
+
+Some of my foreign contacts in UK and elsewhere probably remember what I said about our market economy: I do not necessarily think that it is the best model, but, as it is what we have, let's make it work properly.
+
+From this consideration that I shared with many at least since the late 1980s, derives a long list of consequences: support of anti-trust laws, compliance as a form of harmonization, digital transformation as a way to lighten bureacracy via dematerialization, up to the way I take care of talent whenever I spot it, friend or foe.
+
+The latter point in the previous section deserves a short explanation.
+
+First, also in negotiations, I care about winning for my side, but not to overwin. Humiliating an opponent is just an egomaniac trip, not a wise investment of your time and credibility.
+
+Second, as more than a few in my past teams can witness, I think that, in a market economy, nurturing talent whenever you spot it is actually generating value for the aggregate market.
+
+Hence, whenever I found a team member undervalued, but considered worth a try as I spotted some signs that could deliver a better contribution, asked permissions to partners or customers to bring them aboard on an activity, meaning usually having them tag along, informally and formally, and gradually converting them into the one leading a bit of activity indipendently.
+
+It takes anyway a customer or partner that delivers a mandate- not a half-baked "let's try this one too", something that is revoked at the first inevitable missteps or when you need a scapegoat.
+
+As I wrote in the past, my approach for roles that require preparing somebody able to manage a business relationship is based on a simple yet structured approach (be e.g. a consulting or product or service sales rep, an account manager, a project/service manager, or even somebody delivering training courses and curricula to adults).
+
+There are differences (everything is obviously contextualized), but usually the concept is to have a short "contextual preparation" meeting, followed by a debriefing, and having generally three cycles- first, they watch; second, they participate with a "safety net"; third, I watch.
+
+Then, after the final debriefing, it is up to them- just maybe discussing preparation before, if considered useful by them.
+
+Debriefing thereafter, but I stay out of the way: hand-holding after the "transfer" routine would be counterproductive, as would reduce instead of multiplying the forces available.
+
+And if the person was working for a competitor, but on activities that we shared?
+
+If the talent made a mistake that could have resulted in a damage to the activity for the customer (or undermining the future potential of the talent), did not sit on the fence and wait for the corpse- instead, either directly or indirectly politely suggested to revise a position, or look at potential issues (sometimes it takes only an informal question or even a rhetorical question to point a talent in a more appropriate direction).
+
+Yes, it implies delivering a small win to a competitor- but a) it is eventually known and builds goodwill (if you consider the "individualist" side) and b) overall generates a collaborative environment (some scoundrels will always try to "leverage" on supposed weakness, but those worth keeping in touch with, also competitors, would understand and try they too to win, not to overwin).
+
+Now, this does not imply that I am "soft" or "micromanage"- simply, apply my own logic that tries to see things systemically, and increase the resilience of the overall system, not just of my small or large tribe.
+
+In this context, a "market failure" is actually a systemic failure, where all the actors do not consider the sustainability (i.e. long-term viability) of the overall market their own concern.
+
+The way most "market failures" are taken care of by States is by dropping helicopter money at them.
+
+A solution which, frankly, generates various levels of moral hazards and assorted ethical issues.
+
+Just consider how, if a market is collusive, there might be a convergence between all the key players.
+
+Without even a need to make an overt choice, just do some "game theory" check on convergence of interests assuming that all the key players are not dumb and are in for the long term.
+
+So, formally defensible also from antitrust etc, but in reality distorting the market.
+
+Net result? To de facto generate a case of "market failure" that will result in a State (in Europe, often the whole European Union) intervention bundled with cash, with little or no strings attached- it just needs to become "politically urgent".
+
+Look for example at the immediate aftermath of the 2008 crisis: using the same channels that had created the issue to solve the issue made sense, as operationally there was back then no easy way for States' bureaucracies to intervene fast enough- simply, did lack the distribution channels.
+
+Did the new massive inflow of cash reach the target audience? 
+
+Not as expected. 
+
+Just read the book "Too Big To Fail", watch the movie with the same title, or, if you are more "technically" inclined... read online Basel's documents and discussions leading to the "Too Big To Fail" initiatives (including the various revisions of Basel rules)- they are all public and open.
+
+As for the impact of the regulation... [interesting these estimates](https://www.bis.org/frame/tbtf/impact-estimates.htm)- I will let you scout around the bis.org website and then all the material from the ECB (e.g. search on [my search by tag cloud on the ECB media releases](ECBSpeech_index.php) that update since late 2019).
+
+During the COVID crisis, the equally massive injection of funding to support businesses and the economy that most advanced economies dispersed to keep their own economies and companies afloat had an interesting approach.
+
+I remember how, in some workshops immediately after the COVID lockdowns ended, an industrialists with a relatively small company who had anyway branches in few countries told how elsewhere did not even need to file a request for funding- it was provided based upon prior figures.
+
+Which, actually, was also a way to disperse funding across their employees in an efficient way.
+
+But, frankly, was as efficient as it had been with the 2008-2009 attempt to spread liquidity via the banking system: at least in Italy, not that many companies spread the liquidity received across, while instead I was told that was enough to open a VAT to receive a 12k EUR wire-transfer.
+
+No, I did not open also when I was informed, and while I was stuck due to COVID, as I had no immediate business activities, and assumed that resources should go were needed, not just because you had an opportunity to receive "money for nothing".
+
+I prefer to let that concept to the [Dire Straits song](https://www.youtube.com/watch?v=wTP2RUD_cL0), albeit I saw in Turin that many have a different concept... or ask to get for free what then, when you ask them, you have to pay for.
+
+So, that "nudge" by dispersing liquidity during the COVID crisis did not really work.
+
+But what is a nudge, and where do they originate?
+
+<b>Nudging our way to the future, but who defines the nudges?</b>
+
+As technology and digital integration of our economies evolve, and such integration will become more "smart", probably also the routine interest rate revisions and liquidity provision/withdrawal will become a continuum, not a XIX century style meeting, that reminds me a lot a cameo from Dublin in the 1990s that I shared few times in the past.
+
+It was funny: an American LSE classmate had a family friend working in the Dublin stock market, so he brought us to a room where back then still there were men meeting.
+
+Then, he told us that that was simply because they were sentimental- and showed us the screens they were working with- where the real business was done, in both NY and London. 
+
+Whenever I hear the concept "market failure" used again as an excuse to dump more money from the public treasury, I must confess that I cringe: was really a market failure, was it a market that actually did not exist to start with, or was a consequence of ill-designed policy choices?
+
+Augmented citizenship is not just for individuals- it is for any actor within our market economies.
+
+But what does I mean with "augmented citizenship"? Simply- a proactive and continuous integration of citizens (corporate and individuals).
+
+As part of my routine ideas review, beside a recent report on integrating behavioral economics lessons within policy (summarizing also the history and concept of "nudge" and its application in policy), over the week-end re-read the Italian Constitution and material on something that many consider either a figure of speech or a mere "accounting tricks for power-sharing" method, and instead inherits cultural behavioral patterns integrated in Italy not just in politics, but also in society- and since, frankly, Ancient Rome.
+
+I am referring to what in Italy we call ["Manuale Cencelli"](https://www.amazon.it/manuale-Cencelli-prontuario-lottizzazione-documento-ebook/dp/B01DA9IX5G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=).
+
+The curious part is that, if you read it, is actually something not so far from rules used in corporations e.g. to divide board seats, but with a specific element that is really in sync with Italy's tribal society, i.e. not a static distribution done one, but something that is constantly re-tuned.
+
+Also, an approach that in Italy is linked to the Italian version of the "spoils" system: not just senior managers are replaced whenever a different political group takes the helm, but stuffing State, local and national authorities, and companies that have a partial or controlling stake from public authorities with "clientes" and others who would remember who is the source of their employment.
+
+Which, incidentally, is what, in our data-centric society, and not just for interest rates adjustment, will increasingly be needed to optimize the provision of services, products, and consumption or allocation of resources.
+
+In my rounds in bookstores for used books, while living in Turin, I found (as usual) books that probably were part of an inheritance, focused on Constitution and power distribution in Ancient Greek and Rome, books published before I was born (1965), or shortly thereafter.
+
+Why "part of an inheritance"? Because it happened few times, that I found sections of a whole library (not just in Turin, also in Paris, London, Zurich), as there was a common thread across the books- a thread that probably the heirs had no interest in.
+
+I shared in the past the links to a dozen or so key books and, for some, a book review.
+
+Maybe eventually will share them again.
+
+Having read both the Italian and other foreign Constitutions (and the associated deliberations to achieve  those results), as well enjoyed reading cultural anthropology and cultural differences material (and a bit of hands-on politics) actually helped to transcend from the mere "technicalities" and add a "ways, means, and purposes" side.
+
+And was useful when working on cultural and organizational change (not only in Italy).
+
+This was because, generally, when I was asked to work on the cultural and organizational side of change, it was not to "certify the status quo ante", but always to propose something that was able to support and sustain ongoing structural changes and potential future needs.
+
+Actually, the "history" behind each Constitution (formal or informal) is relevant to its sustainability (i.e. long-term viability): if it had been tailored for an incumbent, often it is an exclusive and not an inclusive design, and assumes that those included will have the same relevance in the foreseeable future as they have now. 
+
+Yes, an organizational design can act as a catalyst or as a constraint- but to chose either, you need a mandate.
+
+In other cases, when I was asked informally to suggest organizational design changes, sometimes I did, but frankly in the end I saw that within the actual implementation often there was a significant element of "tailored to the incumbent".
+
+Also because, when you get informal requests, the information that you are provided are quite selective, and might distor the picture.
+
+The most curious case was when, for a potential mission in Italy, was asked to sign an NDA in UK and then, before any interview, asked to give some free advice; of course, I never received a request for an interview, so I assumed that it was just as the older offer to publish books by receiving advances but stopping to deliver services unless authorized, and not even necessarily seeing any of the books published.
+
+The report I referred to at the beginning, [Behavioral Economics - Policy Impact and Future Directions (2023)](https://nap.nationalacademies.org/catalog/26874/behavioral-economics-policy-impact-and-future-directions?utm_source=NASEM+News+and+Publications&utm_campaign=8c42ee4a0d-EMAIL_CAMPAIGN_2023_07_03_01_44_COPY_01&utm_medium=email&utm_term=0_-66641409ba-%5BLIST_EMAIL_ID%5D&mc_cid=8c42ee4a0d&mc_eid=295cd831b3) is not just about history or theory- it considers few potential case studies across different public interest domains, and then considers what could be the future interest.
+
+If you do not have time to read it, I would like to share with you a couple of pictures with key concepts (but I hope that will be an incentive to reading the full report).
+
+The first is the starting point: what to consider:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230802_fivepoints.png)</center>
+
+The second is looking at the future- how to improve:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230802_future.png)</center>
+
+The title of this section actually introduces another element.
+
+Since the 1990s, whenever I read documents with proposals about how digital transformation would change our society, what puzzled me was the detachment from political realities of many of those wannabe "social engineers".
+
+Apparently, as if the XX century had not already delivered enough disasters in attempts to "build" societies (at the beginning) or to "reposition" societies (at the end).
+
+Just a small example: Italy in the early 1990s had a major political crisis, a time when many members of the Parliament were under investigation for massive, widespread corruption (in Italian is often associated with a single investigation thread called "Mani Pulite", i.e. literally "Clean Hands", but actually was more widespread, and was the result a longer series of events).
+
+So, you would imagine some reforms to sort it out, new policies etc.
+
+Wrong- we kept tinkering with the Italian Constitution, as shown within this table listing some of the changes:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230802_laws.png)</center>
+
+If you are curious, have a look [on the website of the Italian Senate](https://senato.it) (the upper chamber of the Italian Parliament) at each one of the links, and see who proposed them (and also look at who voted for what).
+
+What matters is that we did not try to do a single reform- but many attempts, with a faster pace since the early 1990s.
+
+Now, consider the time needed to implement those reforms, and you can easily understand the current state of the Italian debate on who does what where and when.
+
+Consider each change to the Italian Constitution as a "nudge" to redirect further legislative and administrative action toward a specific direction.
+
+In Italy, the tribal approach to society and governance implies that whenever there is a change after a national election, some further tinkering can be expected.
+
+Actually, also in between national elections, as the number of Members who switch allegiance once elected is a significant element in the survival or formation of a new government.
+
+Therefore, if you read that report about behavioral economics, and books or studies on the "nudge" approach, you can find some interesting elements on the distribution of power between the central and local/regional government within the latest version of a couple of articles within the Italian Constitution:
+<i>TITLE VREGIONS, PROVINCES, MUNICIPALITIES
+
+Article 119
+
+Municipalities, provinces, metropolitan cities and regions shall have revenue and spending autonomy, subject to the obligation to balance their budgets, and shall contribute to ensuring compliance with the economic and financial constraints imposed under European Union legislation.
+Municipalities, provinces, metropolitan cities and regions shall have independent financial resources. They may set and levy taxes and collect revenues of their own, in compliance with the Constitution and according to the principles of co-ordination of public finance and the tax system. They shall be entitled to a share of the national revenue originating from their respective 
+territories.
+
+State legislation shall provide for an equalisation fund - to be used with no allocation constraints - for the territories having lower per-capita tax-raising capacity.
+
+Revenues raised from the sources mentioned above shall enable municipalities, provinces, metropolitan cities and regions to fully fund the public functions attributed to them.
+
+The State shall allocate supplementary resources and adopt special measures in favour of specific municipalities, provinces, metropolitan cities and regions to promote economic development along with social cohesion and solidarity, to eliminate economic and social imbalances, to foster the exercise of the rights of the person or to achieve goals other than those pursued in the ordinary 
+implementation of their functions.
+
+The Republic shall recognise the peculiar nature of Islands and shall promote such measures as are necessary to remove the disadvantages deriving from their insularity.
+
+Municipalities, provinces, metropolitan cities and regions shall have their own assets, which are allocated to them pursuant to general principles under State law. They may have recourse to borrowing only as a means of funding investment, in conjunction with the definition of amortisation plans and subject to the condition that the comprehensive budget of all local authorities in the region be balanced. State collateral on borrowings by such authorities shall not be admissible.
+
+
+Article 120
+
+A Region may not levy import or export or transit duties between Regions, nor adopt measures that in any way obstruct freedom of movement of persons or goods between Regions. A Region may not limit the right of citizens to work in any part whatsoever of the national territory.
+The Government may take over the authority of a body of a Region, metropolitan city, province or municipality if it has failed to comply with international rules and treaties or EU legislation, or in cases of serious danger to public safety and security, or whenever such action is necessary in order to preserve legal or economic unity and in particular to ensure the minimum level of benefits relating to civil and social entitlements, regardless of the geographic borders of a local authority. 
+The law shall lay down the procedures to ensure that such takeover authority be exercised in compliance with the principles of subsidiarity and fair co-operation.
+</i>
+
+The point is: consider the distribution of tribes.
+
+Something that generated already representativity issues to... the Ancient Roman Republic, while Rome was expanding from a single town to cover most of Italy and beyond
+
+Then, add the different levels of elective offices that potentially might influence or "nudge" citizens.
+
+The lack of a cohesive perception of what is the State for has impacts also on the relationship between citizens and the various levels of power.
+
+Are the citizens influencing the State, or is a "blend of powers" that continuously mutates defining what is a relevant "nudge" for citizens (corporate and individuals)? And what happens when the "blend" at the national level conflicts with the blend at the various levels.
+
+Considering the tribal structure of Italian society, with a limited sense of the "common good" at the national level, in some cases belonging to the same political party does not necessarily imply that central and local authorities are on the same page.
+
+So, it might happen that what is defined as a "nudge" at the national level is de facto countermanded at the local level, or generates local adjustments that are then counterbalanced by further adjustments at the national level.
+
+Therefore, no surprise that, at least since the late 1980s (when I first had to talk with Financial Controllers and CFOs), the only "continuously adapting" element I found is the endless amount of micro-changes to the tax code and assorted bureaucratic and compliance requirements that directly or indirectly were issued each year.
+
+Long ago, the UK government introduced an organizational unit on behavioral economics- but at the national level.
+
+In my knowledge updates, beside what I am doing about the companies on the stock exchange ([see the previous article](index.php?page=515)), I am also looking on a shorter-term reassessement.
+
+The focus is the evolution of the dialogue between the different levels of political, elective power this summer (June, July, August), as the aftermath of COVID generated initiatives at the European Union level (e.g. NextGenerationEU, RePowerEU, but also the support to Ukraine and still incomplete EU-level action on immigration) that have significant economic and structural impact.
+
+<b>What's next</b>
+
+I will start this section with the same paragraph that was within the introduction of this article, to better explain the qualification, now that I shared its rationale (if you bothered to get through the previous section, following my "article roadmap").
+
+What is still missing from the picture? The augmented citizenship, i.e. as I wrote at the beginning of this article:
+<i>"
+This article is about transitioning toward a different concept of social integration and participation, shifting from XIX century concepts, and bringing citizens as individuals within the feed-back loop, but with a pragmatic, "opt-in" approach with a flexible "opt-out and then maybe re-opt-in", not a mandate from the top: setting a dynamic in motion.
+"
+</i>
+
+Transitioning toward a different concept of social integration: shifting away from XIX century concepts, and bringing citizens as individuals within the feed-back loop- something different from the "direct democracy" or "extreme democracy" model, which in reality, in my view, are a way toward plebiscite, not democracy. 
+
+My concept of future democracy is not an utopistic "direct democracy" / "extreme democracy" turned into an "instant democracy", that in reality generates "pulpit bullies", but a continuous, mutually enriching exchange.
+
+Why "pulpit bullies"? Because being elevated by a flashmob that is called up periodically not to elaborate ideas, but to cheer at leaders, has a scary precedent in Italy.
+
+Sorry- but I think that claiming to be antifascist is not enough: you should steer away to the essence of fascism(s), which is the structural inability to accept that there could be different ideas of how society should evolve, and the structural unwillingness to let others challenge your own proposals as you challenge their own.
+
+Too many attempts at "instant democracy", i.e. unmediated, direct, continuous intervention by every citizen without having time and resources to ponderate choices eventually resulted in what we saw a century ago: leaders who see no need to find a common ground, because are confident that they have the Truth, and all the cheering turned into a periodic ritual makes them behaving as they had a manifest destiny.
+
+Sometimes with what, later, we found almost hilarious: a leader who is seen delivering speeches, pushing a plough, laying bricks and mortar, cooking food, flying a plane, riding a motorbike, sailing a boat, and right now probably also parachuting, and in few years landing on the Moon.
+
+In my view, anybody thinking that s/he has a manifest destiny to lead or convert to his own ideas does not belong to politics in a democracy, but to another thinking domain (or another political system)- metaphysical, more than physical or ethical.
+
+Democracy, again in my view, should imply continuously listening and evolving.
+
+The dialogue between ideas enables to see your own under a different light.
+
+It might well be that your own unmodified ideas become the backbone of a shared roadmap, but it is more probable that, even if were to become such a backbone, the encounter of ideas (and interests) would make it all evolve into something different.
+
+In our technological world, with the compression of timespans for decision making while the information involved in decision making increases, no single person has or will ever have all the knowledge needed to make a reasoned choice.
+
+Accountability requires that a single person signs off a decision, and make a final choice that s/he can understand, so that s/he can be held accountable of something that s/he understood.
+
+Before getting to that point, we have to consider access to data and data exchanges as a structural element of a data-centric society, which is the one in which we are actually living.
+
+And will be living even more so, once we will have a digital currency- which is not anymore just a probable result, but a project that is being implemented.
+
+To close this article (which is actually a first step in a parallel thread), it is now time to decrypt another bit of the introductory phase:
+<i>bringing citizens as individuals within the feed-back loop, but with a pragmatic, "opt-in" approach with a flexible "opt-out and then maybe re-opt-in", not a mandate from the top: setting a dynamic in motion.
+</i>
+
+The idea is really simple, and close to what I described within [a minibook with the subtitle "you are the device"](byod2).
+
+If we all are citizens consuming and producing, directly (by choice) and indirectly (by interaction) data, we could lift [from the EU regulation GDPR](gdpr) some ideas, and start by deciding how much we want be part of a new form of democracy, influencing.
+
+And also when to have a "pause", or even a "selective pause" (i.e. selecting the channels to share information with or interact).
+
+Sounds a joke, but it is not: imagine having your smart fridge sharing data about your consumption with an insurance company or a political party, so that they both can profile you.
+
+Decades ago, I received an email from a political party that I had never shared my email address with.
+
+The catch? They had been harvesting Italian websites for email addresses, until were reprimanded, as obviously sharing an email address or mobile phone number for purpose A does not imply that you can reuse for purpose B- you need to have explicit consent for altering uses of data, what that is embedded now within the GDPR (enforced since 2018, but actually available since 2016, if you wanted to converge, and actually, as I wrote long ago e.g. in [#relevantdata](relevantdata), it embeds principles that was already possible to implement and design for in Italy in 2004-2006 as a potential evolution of the new Italian data privacy code of 2003 (as I did [share within a minibook on GDPR years later](gdpr)).
+
+The key issue is on the "opt-in" as, for example, since 2012 (but even before) reported often how confidential information is routinely leaked in Italy, and also when invoking the GDPR specific clauses, I have still to receive a single formal dataset, both from public sources and private sector suppliers.
+
+And, curious for a country whose registered electronic mail system, PEC, is now de facto a European Union standard, since I had to open one in 2018 as a conditio sine qua non to open a company, it is a routine of the following:_ public offices and private suppliers who ask not to use it to communicate with them_ public offices and private suppliers who refuse to answer via PEC, except when they decide to_ public offices and private suppliers who elect to answer via regular email.
+
+Why? Because, as I [wrote in a book few years ago, sharing two business cases](https://leanpub.com/citizenaudit), a PEC has at least three characteristics that, to avoid technicalities, could be summarized as follow:_ traceability of time and delivery (both when accepted and when delivered to another PEC have a timestamp associated)_ cannot be revoked (i.e. akin to a registered snail-mail with return receipt and signature of delivery)_ cannot be tampered with (i.e. better than snail mail: there is a "code" that identifies the content- pages cannot be added or removed).
+
+But it is certainly the first element the most annoying one, as certifies, if accepted and delivered by the system, from when the ticking clock starts- no more sand-bagging (common in Italy), or simple ignoring.
+
+If you consider that, in Italy, any private or public economic organization should have a PEC, puzzling even to receive PEC or regular emails after sending a PEC... asking me not to write PECs.
+
+Why? Because whatever your write within an email has no real legal value, as its content and timestamps cannot be certified, while a PEC is intrinsically binding.
+
+So, a first hurdle for a transition as the one proposed 
+
+There is a much older bit of data-centric Italy that is much, much older, and is a centralized risk data bank (that eventually was split in two, by increasing the threshold for the main one, creating the opportunity for a new service below that threshold).
+
+I worked in the 1990s on the original one as part of a negotiation, shared a narrative on that in the past (it included translating the functional specifications for my English partners).
+
+The logic was roughly:_ each bank (eventually also others) had to provide data on their own customers_ each customer was identified in each bank by an "NDG" (I think "numero direzione generale"), i.e. a kind of "instradierung" for individuals, so that whatever business relationship they had across the bank, would be uniquely identified across_ each bank paid a service fee, that enabled to access to their own data, plus the overall aggreg_ate for their own customers_ the real value added was that banks could also, by paying a service fee, ask for a report on potential customers.
+
+Over a decade ago, a colleague showed me a report on a potential partner he had received from an agency before an acquisition (in Italy, before acquiring a company, or starting a partnership, is better to have a credit and background report on your potential partners or sellers, to avoid picking up liabilities, financial or reputational).
+
+He was puzzled, as the report was what was expected, but contained details.
+
+So, I told him my assessment: simply, probably the agency did not want to pay for the service, and instead had an agreement with a banking employee, and I could (but did not) tell him also where such an employee worked, as had been dumb enough to give not the generic overall exposure information, but the full details- which, of course, were details only for his own banking unit, i.e. the data the employee had visibility on (and detailed information about the relationship between the individual and the bank that said agency should not have had access to).
+
+Before unleashing nudging via data (e.g. by showing potential streets or parking lots saturations to pre-empt both events, or other similar initiatives), an increasing degree of transparency, traceability, and data access rights should be identified.
+
+Recently instead we in Italy moved forward full speed with the "domicilio digitale", i.e. the concept that, if you, as an individual, have a PEC, all public authorities should, if you so decide, communicate with you via PEC.
+
+Obviously, I did register: no matter if, as it happened in the past when repeatedly was asked to pay taxes for my neighbours in Turin (see at the book above- hilarious exchanges), or if it is something relevant- at least, you have traceable information that you can share with supporting parties if needed, and do not need to waste time to visit post offices or write snail mails, and can start processing the information as soon as it is received- no need for a scanner etc.
+
+I think that overall the already implemented reforms, plus the way I saw data used in my hometown since 2012 require a rethinking to align toward few further rights/duties within the Italian Constitution:<i>
+"
+PART IRIGHTS AND DUTIES OF CITIZENSTITLE ICIVIL RELATIONSArticle 13
+
+Personal liberty shall be inviolable.
+
+No one may be detained, inspected, or searched nor otherwise subjected to any restriction of personal liberty except by reasoned order of the Judiciary and only in such cases and in such manner as provided by the law.
+
+In exceptional circumstances and under such conditions of necessity and urgency as shall conclusively be defined by the law, the police may take provisional measures that shall be referred within 48 hours to the Judiciary for validation and which, in default of such validation in the following 48 hours, shall be revoked and considered null and void.
+
+Any act of physical and moral violence against a person subjected to restriction of personal liberty shall be punished.
+
+The law shall establish the maximum duration of preventive detention.
+
+
+Article 14
+
+Personal domicile shall be inviolable.
+
+Home inspections, searches, or seizures shall not be admissible save in such cases and manners as shall be established by the law and in compliance with provisions safeguarding personal liberty.
+
+Controls and inspections for reason of public health and safety, or for economic and tax purposes, shall be regulated by appropriate laws.
+
+
+Article 15
+
+Freedom and confidentiality of correspondence and of every other form of communication shall be inviolable.
+Limitations may only be imposed by reasoned judicial decision and in accordance with the safeguards provided by the law.
+".</i>
+
+Looking just at the cases listed above, already documented violations over the last decade, and could have documented more- but I think that the best option is not starting a long journey, but enforcing a debate to implement properly (as with many other articles) what, coming from the experience of Mussolini's two decades in power, the designer of the Italian Constitution found not so obvious, and required an explicit reminder.
+
+I am looking forward to more examples of augmented citizenship that, beside streamlining bureaucracy, allow easier access to resources to counterbalance misuses or unbalanced access to knowledge needed to exercise rights.
+
+But requires a level of non-tribal transparency and bipartisanship- a tough call.
+
+For now...
+
+... will get back to those two projects (Borsa Italiana before and after COVID, plus summer 2023 through Italian politics), plus the ancillary business data preparation and research activities.
+
+Get ready to see more material online.
+
+As I said earlier in this article: I think that it could have been in any of three sections ("organizational support", "rethinking", as well as this one), and I hope that you will find ways to extract ideas and information to reuse it.
+
+The usual caveat (again): this is not advice- before trying this at home (personal, corporate, social) check with your trusted advisors who know your own specific context.
+
+Stay tuned!

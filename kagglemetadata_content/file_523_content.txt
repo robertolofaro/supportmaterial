@@ -1,0 +1,341 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20230908_article.png)</center>
+
+This post is actually to develop a little bit a consideration that shared last week via Linkedin, reposting a post with a chart that showed how AirPods' revenue fairly exceed that of many platforms.
+
+This article is within the "rethinking business" section, but as since late 2022 I am working on a data-based project covering the first element, and from this summer added another element covering the second part, will use part of the information that I am deriving from preliminary results, and from my previous material about the Italian PNRR, part of the overall NextGenerationEU and Recovery Resilience Facility.
+
+Few sections in this article, that probably for some of my long-term readers would be connecting the dots across the 300+ articles (and also few hundred more now offline but published since 2008 under my name, 2003 under my business name), and a dozen mini-books on change that shared since 2012:_ quis custodiet ipsos custodes (yes, again)_ extracting value from data_ the "tulip" side of extracting value_ conclusions
+
+Incidentally: today in Italy we remember the day when we switched side during WWII, on September 8 1943- a funny movie remembering what happened is ["Tutti a casa"](https://www.imdb.com/title/tt0054413/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_tutti%2520a%2520casa).
+
+Therefore, the first section is more about Italy- but sharing considerations that will be useful in other sections.
+
+<b>Quis custodiet ipsos custodes (yes, again)</b>
+
+When you get a digital device, since at least the early 2000s you are also surrendering part of your privacy- on a continuous basis ([hence, my second book on BYOD, i.e bringing your own device at work or using it also for business, had a subtitle: "you are the device"](byod2)).
+
+There are also other consequences: once you get on board with devices, in the past there were limited opportunities to become a repeat customer.
+
+Anyway, if you generate a "must have" mindset, customers instead of dropping you, once what you sell either fails to deliver or is too easy to break/lose...
+
+...become addicted to the product.
+
+Here is the post:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20230829_article_repost_20230827.png)</center>.
+
+The most curious element was that I received over 20 reactions for something that, frankly, I have been sharing for over a decade, when I started discussing a dark side of digital transformation: extracting value from assets whose investment is done from others.
+
+The concept of this article actually is something part of the book preparation since 2015 of [Expo2015Diaries](index.php?section=expo2015diaries), i.e. what does imply embedding systemic sustainability within the design of products or services, instead of just adding sustainability as either an afterthought, or as something to consider only from your own parochial view.
+
+Why this introduction in a section where I was supposed to write also about Italy?
+
+It is about what we remember today- not really a day, but a chain of events that resulted eventually in the transition of Italy from a monarchy to a republic.
+
+I would make a long story short- Italy went into "armistice mode", our king went elsewhere (in the area already under Allied occupation- reading some stories about the run for the travel is quite entertaining), and our Italian Army suddenly found itself an enemy of the former ally, with obvious consequences while new orders and preparations were sorted out for the switch.
+
+While I was living in UK, some British colleagues told me of a different approach that actually, in their view, saved the monarchy.
+
+So, the real surprise is not that Italy became then a Republic- but how many voted to retain monarchy: it was almost a close call.
+
+If you read the history of the Savoy family (currently completing "I Savoia- I secoli d'oro di una dinastia europea"- my reading was timed with today, but had some delays), you will see that it wasn't the first time that the one at the helm went outside his dominions (even before becoming kings, as started as counts, then dukes, princes, and finally kings), to then eventually return (not necessarily under the same banner of those that they had lost with).
+
+Therefore, as I wrote few times in the past, and kept saying to my foreign colleagues, this is one of the reasons (the other one being a choice of political system) why I prefer an imperfect republic based on democratic vote to a monarchy that assigns power by inheritance.
+
+The office of President, in countries where there is a more or less direct election, is subject to renewal of trust by voters, while in Parliamentary Republics (such as Italy) renewal is either not an option, subject to term limits, or anyway linked to the vote of elected representatives: it is not a lifelong office.
+
+So, quite curious that in my two previous relocations abroad I ended up becoming resident first in UK, then in Belgium- two kingdoms.
+
+Our collective European history had republics turning into kingdoms/empires (e.g. Rome), and kingdom/empires turning into republic (e.g. Italy).
+
+Yes, could have used other examples but, again, today is a significant day in Italy.
+
+Having elected high officers (not just Presidents- also others) implies that they are not necessarily groomed for life to land an office.
+
+I know that many conspiracy theorists routinely complain about "deep state", meaning often unelected civil servants who have the real grasp of power.
+
+In a complex society, as I said again yesterday to a friend, I am still skeptical about our late XX century to early XXI century obsession about electing "competent people"- it is a blatant underestimation of what is a modern, complex country.
+
+And I am equally skeptical of the objection that was better to have somebody "prepared" for the role: our society is too complex and requires a mosaic of competencies, along with a significant number of "antennas" able to understand trends across the broad spectrum of society.
+
+My usual reply when somebody in Italy utters "we need to elect competent people" is a boring (and bored) "competent in what?".
+
+One day you are making choices on security, then on building roads, then on incentives to attract high-tech companies, then on evolving the school system, then on putting back on track the Italian health system: you might have ideas, you might have studied previous attempts at all of that but, in other to make choices that can be implemented while minimizing negative externalities.
+
+It is not just a matter of jumping on your white horse, and leading into battle (and, anyway, also in less complex times, even smaller territories routinely had issues with funding their initiatives).
+
+Also ministers supposedly competent in their own domain, in Italy not too many years ago were taken off the beaten path due to the complexity of shifting from "stratosphere view" to "feet on the ground", maybe through intentional or unintentional communication short-circuit with their staff and civil servants or "mandarins".
+
+In one case, so much that now in Italian whenever a change in any law or regulation leaves somebody out we use the keyword "esodati" (the first real use few years ago was about those sent into retirement, but not yet covered by the newly reformed retiring benefits: a limbo that we Italians called "exodus", as anybody over 40 still has had in most cases some Bible training). 
+
+In my view, leaders should surround themselves with competent people who understand also long-term continuity impacts of short-term options, so that when making choices it will not be just a matter of a "pied piper": and this is even more relevant when they are really competent/experts in a specific domain, to avoid that they "project" their expertise on domains that they do not really know (or even understand).
+
+Hence, we need a "deep state" able to support those who are elected into making systemically sustainable choices (i.e. something that does not dissolve when they live office, or that generates short-term, once-in-a-lifetime benefits, but long-term and even repeating negative externalities, including for future generations).
+
+The risk being that, if they are not trusted (in Italy also civil servants are perceived as "tribal"), leaders surround themselves not with competence, but with a "circle of trust", what in Italian we call "cerchio magico" (literally "magic circle", a team of trusted advisors).
+
+If your "cerchio magico" is wide enough, and built over a long time (as used to be when political parties had their own internal long-term continuous training), probably there is a chance that you will be able to cover all the domains- otherwise, as happened more than once, it generates de facto an echo chamber (and, obviously, this is the right moment to share yet another version of the 1930s Petrolini acting as Nero [the funniest depiction of an echo chamber in action](https://www.youtube.com/watch?v=kSMDXZdKjgU)).
+
+Or: the leader wants something, the "deep state" gives mixed signals that are not trusted by the leader, hence the leader passes through the "circle of trust", which often is inclined to confirm whatever collectively is agreed- also to retain the membership within the "circle of trust".
+
+And, eventually, as in that funny video, the feed-back cycle gets shorter and shorter, disposing of any analysis, discussions, and of course dissent.
+
+In any country civil servants, notably high-ranking "mandarins", being custodians of continuity, generate the issue usually associated with the concept of ["quis custodiet ipsos custodes"](search.php?tag=custodiet) (who oversees the overseers- the link is to few articles where I discussed the concept and its context).
+
+In Italy, we add generally a "cui prodest" (who benefits): being tribal implies that there are always multiple layers of considerations in any choice.
+
+When you have to deal with limited resources, capacity planning generates a need for prioritization.
+
+In a tribal society, as I shared in a past article, already in Ancient Rome, during the Republic (before Caesar and then Empire), we had the issue of an expanding country, which implies expanding the vote, with various attempts to balance in such a way that the "older tribes" would count more, balance that was evolved with each expansion from Rome to the whole of Italy.
+
+In our complex society, the sheer weight of the Italian State debt generated some constraints well before we started having to toe the line of Maastricht, and having multiple echo chambers for multiple leaders, as represented by social media and the obsession I observed since 2012 in Italy for what I could call "flashmob politics", turns political dialogue insto a continuous shouting match.
+
+In the past, politics was considered having an agenda, and then having to deal with the real-politik need to "barter" (I would avoid compromise- which is, in my view, something else).
+
+Also the continuous changes to our electoral system and, over the last two decades, our Constitution, are a sign of the times: I always wish that we had a Costituente (as it was after WWII to "design" our Constitution), but, frankly, a XXI century Costituente would need a completely different design.
+
+In my view, a first step could be that the "quis custodiet ipsos custodes" should be, in our tribal society, until we develop a unified perception of "common good" (not dissolving conflicting aims, but acknowledging again what could be a shared "common good", setting aside differences)...
+
+...should be shifted to citizens.
+
+Admit it: we Italians are tribal- hence, when we say something positive is often about our own tribe, when we say something negative is often about the other tribes- also when the other tribes do exactly what our own did when had the same opportunity.
+
+E.g. look at most media from the centre-left complaining about the appointments from the current political leadership of managerial roles: I decided in the 1980s not to belong to any tribe, and actually, if anything, to express my positions to help not my tribe, but my political side to improve (that I was abroad from the 1990s did not alter the concept)- but, despite being traditionally a voter for the centre-left (actually more left-of-centre), I find those complaints quite hilarious, an example of what a writer decades ago called "trinariciuti" (having a third nostril, to avoid smelling something rotten when was coming from your own tribe).
+
+Let's just say that the way the State officially behaved on September 8 1943 probably had quite an impact also on some of the choices embedded in the first version of the Italian Republic Constitution produced by the Costituente: and some trade-offs within its text (hopefully still retained) are a clear sign of lessons learned.
+
+Now, I must of course add a briding point toward the next section, and explaining why this long section is relevant to the theme of the title.
+
+I said that the Italian Constitution contains, on paper, many trade-offs, to avoid prior imbalances- but, frankly, while many would call for a new Costituente to create a new Italian Constitution, more attuned with the times (something that make me think to Kevin Smith 1999 movie ["Dogma"](https://www.imdb.com/title/tt0120655)): a Constitution should not be just a marketing or electoral cycle document.
+
+While the Constitution represented a convergence, as I said above since 2012 saw an increased inclination toward "flashmob politics": the "silent minority" that shouts most becomes a temporary catalyst for a temporary majority, that is dissolved at each election cycle.
+
+I personally consider an element of fascist inclinations in politics the inability to dialogue with those who have ideas that differs from your own, and instead consider each interaction as an opportunity to convert to your hue those that you encounter- something that not even religions do anymore, in most cases.
+
+And if they do not convert? Obviously- either they are simpleton, corrupt, or something even worse, maybe even hell-bent on nefarious designs to destroy the Republic.
+
+Which, incidentally, historically is how the early XX century fascisms treated opposition, in their first phase.
+
+If you read any of my previous articles, you saw a concept repeated often: to generate value in a data-centric society you need to listen to those with feet on the ground- as they are those who can share signals that, as an aggregate, represents trends before they happen.
+
+Long ago, shared an article about using GitHub as a kind of collective law writing platform.
+
+And, while that is just a "technicality", the concept is quite simple: we live in a data-centric society.
+
+Therefore, you cannot assume, as Italy has been doing really for centuries, that you can produce change by coopting only those tribes that agree with you (or you can exchange quid pro quo with).
+
+Our XXI century reality is even more complex, yet our "flashmobbing politics" seems to assume that it's even simpler than it was before- probably because, behind all that "echo chamber", the noise silences more reasonable voices.
+
+If you want to generate value from our data-centric society you cannot limit legislative action to a just the currently leading tribe- or even a limited alliance of tribes, you have to think (and motivate) systemically.
+
+I do not care which color is associated with your political party in Italy: no matter the color of your shirts, if your behavioral patterns shut out any dialogue that is not resulting in a "conversion" that brings more to your colors, then you really are a fascist- nothing more, nothing less.
+
+Which is also self-defeating for a country that at, least since the 1990s, has been losing competitiveness, traction, and cohesion (from what I saw from the late 1980s while going around for business on financial controlling, management reporting, and cultural/organizational/technological change).
+
+Frankly, we would need something else, as I wrote in the past: otherwise, at best, we can forget about generating value, and focus just, as many do, on extracting value- while it lasts.
+
+And this brings about the next section.
+
+<b>Extracting value from data</b>
+
+Before shifting again to the big picture, will start with minutiae, to clarify what implies what I wrote above about the difference between generating and extracting value.
+
+Short starting point: you need first to curate data, if you want to extract value.
+
+Or: you need first to see what you have, have a logic to put the bit together in a coeherent value and then, only then, you can extract value.
+
+I saw first this in a structured first in polical activities, in the early 1980s.
+
+Yes, I was 17, and reading the documents and number crunching from Brussels and Strasbourg while being part of a European integration advocacy organization, and then trying to convey the messages in a way that made sense for outsiders, all while learning to overcome a degree of revulsion for being in the limelight.
+
+In political activities, back then and during a political campaign in 1983, learned how data and resource scarcity enter into the planning and coordination of events, logistics, etc.
+
+Something that was then useful yet augmented while in the Army, where eventually had to prepare the daily service plan (which implied having to hear to a lot of complaints, requests, lies, pleading, etc).
+
+In business, after a couple of projects where data were massive yet structured but had to be connected (procurement in automotive and general ledger in banking), had plenty of projects that really started with data exploration along with senior managers who were actually the specialists on the meaning of those data and decision-making needs, had few iterations with them until the data selected made sense, structured some analysis (models- basically linear but across multiple variables and dimensions of analysis), went back to the data, settled a bit and moved onto the next increment of logic within the model, etc.
+
+It was late 1980s- hence, we did not have as much data or data storage and communication tools as we have now- so, each data point had to be meaningful, and, moreover, if you have less data points, to avoid unduly influencing decisions with unreliable data, you need to have a clear identification of lineage, where when how from whom data were caming from.
+
+There is simple concept: if you are controlling what your organization is doing, e.g. monitoring performance or having other KPIs, there is always the risk that somebody will "tune" to your model, i.e. understand how to report something that makes sense and produces a better score than if you did not tune.
+
+Sometimes that tuning is sensible- e.g. if you know that your own activities have significant seasonal changes, while everybody else can safely report each month without any adjustment.
+
+Sometimes, as I saw in one of my ongoing data projects, it is less so, as I said to friends on Saturday and yesterday: imagine that you know that your company is assessed on the level of liquidity (cash and cash equivalents, if you want) vs. its turnover.
+
+Then, imagine that for other reasons (e.g. as collateral for a credit line) you have to set aside a significant chunk of your liquidity into short-to-medium term, yet "locked" (for a period of times or a set of conditions) so that you cannot withdraw it without unleashing other events.
+
+If you keep that "locked" liquidity out of the cash and cash equivalents (i.e. what is immediately available), your activity shows a really low liquidity.
+
+If you shift that "locked" liquidity into a broader redefinition of what is cash, then you report as immediately available for operations something that in reality is not- but you get a much better score.
+
+There might have been good reasons for that, and was anyway approved by auditors.
+
+Anyway, as my data project is about seeing how Covid impacted on companies, liquidity is really only cash or the strictest definition of cash-equivalent: if a company had operational constraints before or after Covid, that is an interesting element in my number crunching.
+
+Actually, in the late 1980s, before started working on models for various financial and business controllers and others in various industry, my first "test project" was... complete the documentation (800+ pages!) of a model to deliver group-level management reporting model that was to be distributed across dozens of companies belonging to a company that produced mainly spare parts and components for vehicles.
+
+As I wrote above, my previous two projects had been in procurement in automotive (specifically, was to look at all the documentation about procurement to provide a score about the possibility of automatically paying invoices to a suppliers) and general ledger in banking (a bank with a relatively large number of branches, and exchange with branches): hence, I had a chance to study what I had not studied in school or my brief sting at the Information Science university- accounting, controlling, validating/auditing data, etc, but by working with people who had already that domain knowledge.
+
+Therefore, had plenty of opportunities to see theory and practice, and then complement that with discussions with financial controllers from other industries, to learn which patterns were cross-industry, and which one were specific.
+
+And, incidentally, listen to a lot of storytelling about what could happens to some figures when somebody goes "creative", i.e. what should be look at.
+
+There is an old book that presented many such cases ("Accounting for growth"), and my current data projects actually pushed me to consider re-reading that and others, as well as refreshing some concepts and knowledge about forensic accounting (yes, the CSI side of accounting).
+
+As you can see, even if you have data that are true and linked to reality, the way you reconcile, restructure, and present them can significantly alter the picture.
+
+If you push your data into the wrong category, it might happen that a signal of distress that should have been visible to investors from your own financial reports, by looking only at the key figures and key indicators, is blurred until it is too late.
+
+As we saw e.g. in 2008.
+
+So, extracting value (or perceived value) now might actually turn into a Ponzi scheme: you generate value now but undermining the future potential.
+
+If you follow either [my facebook stream](https://facebook.com/robertolofaro) or [my linkedin stream](https://linkedin.com/in/robertolofaro), you read what I wrote and shared about the Italian law that enabled to get, initially 110% of what you invested in building renovations, and generated few market issues (e.g. a massive booming of construction work, a massive increase of prices for previously low-priced materials that were within the list of those allowed, and of course also price increases in activities), and ongoing financial impacts.
+
+I will let you read on those two streams the news items, the figures, and my considerations, but the key element is: if you generate GDP now at the cost of debt that has to be repaid in the future, the key concept should be that the GDP generated now should generate value also in the future to offset current costs, debt, and give a positive impact- notably if those who get now the benefits are not those that in the future will pay for said benefit.
+
+Yes, public works can resurrect an economy, notably one that was already staggering before Covid (Italy), and limping after.
+
+But building bridges, highways, logistics infrastructure generally generates future higher-margin revenue streams, not just to low-wage jobs now and potentially limited maintenance in the future.
+
+The concept embedded within the European Union Recovery and Resilience Facility was to have a recovery (a boost to kick back into action EU Member States after the peak of the Covid crisis, but also to build up resilience- which implied, not just with the shared EU resources, but also with national initiatives (such as the "superbonus") to think not just about today, but also future impacts.
+
+If you have a look a [datasets and webapps that released since 2019](datasets), you can see that I stayed on my mantra that first shared in 2008, when at last started trying to settle in Brussels (after living and paying rent there since 2005, but having to phase-out activities elsewhere).
+
+Or: in my past since the 1980s, business and non-business, was used to collate, connect, and share information derived from sources and analyses, usually by interacting with domain experts (customers, colleagues, even competitors, and of course books and conferences), processed via cross-domain experience I was lucky enough to have had and kept having, and as a "bargaining chip" for further mutual exchanges.
+
+Except my first official job in 1986, frankly it was never my CV that procured my missions or roles, as the final say was always somebody who had seen me working somewhere who dropped on my lap a mission that, more often than not, was a case that required a recovery, reposition, relaunch, restructure.
+
+Which, incidentally, in our reality is useful: we are engulfed by data (what in the 1990s called "infoglut"), and we are getting shorter and shorter on critical thinking skills: as if piling up were to magically produce a diamond.
+
+There is another side to the increase of data and shortening of decision-making answer times needed: in the old world, hierarchies mattered more, and chain-of-command or chain of supply too.
+
+In our current environment, increasing data points is coupled with increasing data sources, and having a more dynamic set of interactions, not your ordinary chain of events.
+
+Yes, excessive pressure might transform carbon into a diamond but, h&eacute;las, so far did not see that excessive pressure turns humans in superhumans: usually, they breakdown, or turn to an attention span so minimal, that they keep looking busy by swithing context, but never progressing on anything.
+
+I was lucky enough to have to learn quite early how to prioritize allocation of scarce resources, and to see how some resources develop over time, not over hectically chasing your own tail.
+
+A curious element is that, if you start prioritizing on three time dimensions (short, medium, long), and reshuffling according to "plan meets reality but does not forget what stands for", many assume that you are chasing your tail, but then are surprised when they see that actually all those parallel threads eventually result in some converging products.
+
+As I wrote in the past, since I stopped travelling around Europe to meet with colleagues, adopted the policy to continuously scout for domain-specific reliable sources (not just relaunching, but adding something, if anything by their selection of what they focus on relaunching, if not analysis), and obviously kept contributing.
+
+But never invested in advertisement or networking per se- just functional communication to keep channels open and have antenna who, of course, could potentially be interested in having me also as an antenna for something that they do not follow.
+
+I think that three factors influenced the result of that post:1) I was sharing something from somebody else with a larger following who added his own reaction2) the chart was appealing and anyway representing that moral hazard I referred to above (and in previous scribblings)3) last but not least, it is something that I saw first in the late 1990s, when supported the first startups.
+
+The number of article readers on this website are traditionally "long tail": start with few dozen when released, and then get a few once in a while, plus "bumps" of a dozen here and there- with exceptions, of course, as [you can see on the most-read list](https://robertolofaro.com/index.php?section=most-read-articles).
+
+Why those exceptions? Well, Italy has had some routine issues with industrial policy and political communication- so, those are the articles that you will find topping the "most read" list.
+
+As you probably know, the current Government of Italy has started a negotiation to restructure the Italian National Recovery and Resilience Plan (PNRR, in Italian), as the timing prommised for many of its components is aligned with reaction times that are still not within our reach.
+
+And, actually, from my reading of material before the first official PNRR was released, specifically reading what contributions from society presented to the Italian Parliament, showed a lack a systemic perspective, and plenty of tribal presentations (you can [read summaries and documents on GitHub](https://github.com/robertolofaro/pnrr), while [you can read here the 58 articles I shared so far about the Italian PNRR, between 2020 and 2023](search.php?tag=pnrr)).
+
+Of course, you can follow the evolution of the PNRR and RRF dossiers since 2020 by scrolling through my Facebook and Linkedin profiles (as my posts are public).
+
+If you were to spend some time scrolling around, you would see how, after the request from Brussels became "few projects" we had from single regions within Italy e.g. requests for few thousands of projects for few dozen of billion EUR: message not really received.
+
+Which, actually, in a twisted way, reminded me of the usual "Tulip" case.
+
+<b>The "tulip" side of extracting value</b>
+
+What happens when something becomes a get rick quick scheme? Bandwagon effect: everybody and their dog trying to catch the wave.
+
+It happened often across human history, e.g. please let me know the value of going from Rome to the Baltics in Ancient Rome to import... amber.
+
+But probably the most famous case, and one of the few cases that has been dissected in many books now outside copyright is, of course, the Tulip mania of the XVII century.
+
+It is so often quoted, that [a Wikipedia article describing the events is available in 43 languages](https://en.wikipedia.org/wiki/Tulip_mania).
+
+An interesting book describing that and others is the 2000 ["Irrational Exuberance"](https://en.wikipedia.org/wiki/Irrational_exuberance), by Nobel Prize Winner Shiller, referencing a 1996 quote by Greenspan:<i>"
+Clearly, sustained low inflation implies less uncertainty about the future, and lower risk premiums imply higher prices of stocks and other earning assets. We can see that in the inverse relationship exhibited by price/earnings ratios and the rate of inflation in the past. But how do we know when irrational exuberance has unduly escalated asset values, which then become subject to unexpected and prolonged contractions as they have in Japan over the past decade?
+"</i>
+
+I referred in the previous section to the book "Accounting for Growth", and one of my ongoing data projects, the one that requires to extract information from Financial Reports.
+
+While many are currently claiming that the current issues with the Italian PNRR are due to the current Italian Government, personally, as I shared online whenever relevant since 2020, I kept track of issues since the beginning- and as late as October 2022 (few weeks before the new Italian Government took the helm), also the Italian Industrialists' Association newspaper (Il Sole 24 Ore) shared worries about the inability to actually release funding to projects, and plenty of statistics about where the delay had been.
+
+If you are based in Europe, probably you know that, beside "recovery" (which would of course be more toward spending), the concept of "resilience" implied structural improvement (which would of course imply mostly investments).
+
+Or: using the PNRR and RRF as "enabling factors", e.g. to remove some obstacles that have been identified in the past and during the Covid crisis, and replace them with elements that could increase the ability to cope with unforeseen chanes.
+
+Well, most of the interviews I read and newspapers titles focused instead on spending: a "Tulip"/bandwagon effect, if you consider some of the projects covered by the Italian PNRR (e.g. renovating a golf course).
+
+Nobody is an island but, frankly, looking at many projects proposed for the Italian PNRR, it seems that we have more virtual islands in Italy than I knew about, i.e. the "systemic" element was somewhat lost within the tribal distribution.
+
+Now that hopefully shared common ground using the Italian PNRR and its implementation as a potential use, time to shift to what this implies within the "rethinking business" context.
+
+Extracting value in business can take many shapes- e.g. could imply, at the end of a quarter to do a kind of "upfront loading", nominally (or physically) shifting products or services to dealers, and then immediately report that as sales, to then have them return, if needed the next quarter (or distribute across the next year, so that are absorbed).
+
+Or could imply postponing costs to the beginning of the next year.
+
+In both cases, you are extracting value by shifting the flip side to another period, but also to another party is a common trick (A shifts to B who shifts to C who shift D who shifts to A, or maybe spread across few parties to blur a bit the trace)- also if this game could eventually become unsustainable.
+
+Another couple of books for more examples and a full case study, all covering the "extracting value" side: Mantle ["For Whom The Bell Tolls: The Scandalous Inside Story Of The Lloyd's Crisis"](index.php?page=175) and Pedneault ["Anatomy of a Fraud Investigation: From Detection to Prosecution"](index.php?page=419).
+
+Anyway, there are many ways to be creative with "extracting value"- but all share the same key element: remove value, that is therefore not available anymore in the future.
+
+The other element that I discussed so far in this article through all the Italian examples is really about generating value.
+
+Unless it is a case of robbing Peter to pay Paul, generating value, or even just creating the conditions to generate future value (the "enabling factors") usually implies investing.
+
+Another element of enabling factors is that, once created, have to be kept in prime shape.
+
+And this is a mistake that I saw often since the 1980s in e.g. corporate training: assuming that you can deliver a training in complex business or technological domains, set it aside, and then, as if by magic, have them available if and when needed.
+
+Let me give you a personal example: 99.99% of what is on my CV is not the result of formal training, but acquired through activities such as those described so far.
+
+As an example, the only language I learned formally in school is French (and Latin). English? Well, had a couple of dozen of hours as a voluntary extracurricular activity in the first year of high school, adding a second language, but developed a bit my understanding and knowledge through books and by accepting meetings and missions where I had to "hit the ground running"- e.g. also in my political activities as a teenager since I was 17, whenever I had the chance tested and improved my French, and gradually developed reading skills, while in my first job in 1986-1990 did jump at any opportunity to expand...
+
+...the boundaries of my ignorance.
+
+Spanish is close enough to Italian and Latin that, while working in Paris from 1998, when we were required to deliver presentations in Madrid for two potential customers, the CEO of my customer, after those prospects asked to deliver the presentation in English but not Franglais, I found myself in Madrid, and when I understood that the translation from English to Spanish was not correct, made an agreement with the audience: they could ask in Spanish, I would reply in Spanish insofar I could, otherwise in English.
+
+At the end of the meeting, my customer said "you did not say that you speak Spanish" and I replied "I did not know" (yes, I was reading books in Spanish and El Pais, but never formally studied it). My first formal course? Upon my return in London (where I lived at the time), picked up a cassette course from Michel Thomas, for 50GBP, in one of my usual bookshops.
+
+Then, I kept reading, and eventually, years later, in Brussels (where I was by then living), in my usual watering holes nearby the European Commission, somebody started testing my Spanish, and routinely had conversations in Spanish.
+
+It was again useful when, upon my return to live and work in Italy in 2012, I was suddenly asked by my customer if I had a passport, and shipped to Brazil for a management workshop- so, over my long flight, decided to use a free FSI bridging course from Spanish to Brazilian Portuguese for Spanish speakers, so that, when we arrived in Curitiba, I started listening to "cameos" in Portuguese during our meetings in English, and eventually, upon my return in Italy, when somebody said that there would be delays in providing documentation as they had to translate from Portuguese to English, I simply asked to ship what they had ready, and if I had any issues would ask. Became so common, that once, in a meeting, asked for an email, and started translating while reading, until my colleague said "but you are translating from Portuguese".
+
+This funny cameo is not to show my language skills, but to show how "enabling factors" work:1. you have to start with the basics (in this case, the enabling factors were really Latin and Italian)2. you have to keep investing and testing, expanding or confirming the boundaries of your ignorance (yes, "going outside your comfort zone")3. any enabling factor required continuous or at least routine drilling, if you want to have it available when needed4. enabling factors that you keep alive should be considered stepping-stones that potentially enable... further enabling factors.
+
+A further element: you need to consider enabling factors as a collection- you "acquire" some, keep them in prime shape, but keep reviewing if and when and what is needed.
+
+Example: if your company was founded in the XIX century to sell horse drawn chariots, and then started to build and sell cars, would it make sense to keep in house skills for horseshoe repairs?
+
+<b>Conclusions</b>
+
+There is another element that is specific to a data-centric society.
+
+As any interaction can absorb or generate data, not only you cannot control where who when will generate an enabling factor, but you cannot even consider that it is in your own interest to invest in enabling factors only if they then are under your own control.
+
+If you read other articles (or some books) that I published on this website, you know that actually already long ago, since the 1980s, routinely helped others to develop enabling factors if they were within my own network.
+
+Not out of kindness, but out of self-preservation. If I can contribute to somebody else investing in something that I will then have access, my initial time and cost are really a sensible investment.
+
+From the early 2000s, when I considered returning to Italy, and therefore released my network abroad while starting a magazine on change online, expanded that approach, and further expanded it in 2008.
+
+The idea was to keep enabling factors alive by exercising and updating them via publications- and, in this way, sharing with a larger audience, attracting potentially from the same audience other elements that would not make sense to develop and maintain as my own enabling factors.
+
+Already over a decade ago books such as Wikinomics described approaches to de facto deliver the same approach.
+
+When you set online a challenge to e.g. propose a marketing campaign, develop a product strategy, or even just build a forecasting model, and you get tens or hundreds of potential "solutions", you are de facto already operating with this model.
+
+Therefore, why not involve your customers and suppliers into a continuous feed-back cycle so that you provide what can become for others an enabling factor (e.g. free training or free resources, or special access to additional products and services), in exchange of a simple integration within a two-way feed-back cycle?
+
+I [shared this morning an article](https://www.wiwo.de/29376040.html) (in German) about a research on data "harvesting" practices adopted by automakers.
+
+Considering the current climate and how smart cities are not only evolving, but also becoming catalysts for further evolutions of regulations such as the European Union GDPR and other market- and consumer-related components, it is worth considering pre-empting.
+
+Which implies: considering, by circle of interest, what, under a data-centric perspective, could become an enabling factor, and where such enabling factor should reside.
+
+Then, considering if this "where" would actually have resources and motivation to kickstart such a development.
+
+In few cases, you would actually see that you can have the opportunity to generate such an enabling factor by doing a minimal initial investment, spread it across an audience as a positive value for them, and then, in return, have that enabling factor available.
+
+On the other side, in some cases, to make sense of this approach, you would also have to accept of being those who make that "seed" investment to generate a diffused enabling factor that... would benefit both you and your potential competitors.
+
+If you prefer to use the AirPods approach- your choice, but, unless you can command the same "cult" status of Apple, get ready for a potential regulatory and market backlash.
+
+And lost opportunities to shape and drive the evolution of the market, opportunities that your own competitors will seize, along with the goodwill that could derive from showing open-mindedness or being perceived as "altruistic innovators" (while instead simply shaping the market and converting competitors from market leaders to followers).

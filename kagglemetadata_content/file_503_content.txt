@@ -1,0 +1,229 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230103_article.png)</center>
+
+As I shared  few  days ago on Linkedin, on December 31 2022 I received confirmation that my rampaging through a 4-courses specialization on AI business on Coursera (provided by Wharton) had passed the threshold of three peer reviews ([the link, along with other multi-course, here](http://robertolofaro.com/robertolofaro/certifications/MultiCourseCurricula/)).
+
+Incidentally: I consider all my training as "awareness training", i.e. non-operational, unless I follow multiple training/webinars/workshops from different sources, and then also do at least prototypes (which sometimes result in a book).
+
+As I saw since the 1980s the consequences of those who followed a course, or even graduated, never had a "ground testing", and were immediately billed as "experts".
+
+Reality is more complex, and what online and offline training, including with hands-on components, give you are the basics, references to toolsets, but then you need applications and, if feasible, somebody who already had operational experience on the same themes to guide you as your Virgil through the hell of implementation.
+
+I keep humbly restart with every training and every project in either a new domain or one I did not work in for a while at 57, also if in most cases is refreshing or "collateral training" (i.e. piling up on something I already did, but adding more depth), so cannot understand those in their 20s-30s who seem to be mega-experts after reading just a book or following just one course on a new theme.
+
+The current state of Italy is no small part to be associated with the latter attitude: instant soluble experts drinking a potion as if they were Obelix.
+
+This article contains just three short sections:_some background on my learning path_sharing the rationale of a proposed AI portfolio_the details (so far) that passed peer review_the next steps.
+
+<b>Some background on my learning path</b>
+
+If you were to look at my courses schedule since late spring 2022, you would see a quick pace.
+
+Reason? First, I have been working on data for decision support since the 1980s (see [on data privacy and confidentiality](https://robertolofaro.com/relevantdata>on business uses of data</a> and <a href="https://robertolofaro.com/gdpr)).
+
+Then, since 2020, as I wrote in the past, courtesy of COVID, had plenty of time for months to run through a series of introductory AI and Machine learning courses on [Kaggle.com](https://kaggle.com), a community and platform from Google that provides also access to computing free facilities, ranging from basic CPUs, to GPUs, to TPUs (tensor flow processing units).
+
+I had used Kaggle for a while, mainly from 2019, to share some R-based material, after following a string of Johns Hopkins courses on R basic on Coursera, and toying with it for both data presentation and consolidation/restructuring for few years.
+
+So, it was really a convergence of events.
+
+While having my first post-COVID mission July 2021 to July 2022, I still kept working on releasing new datasets and following additional training on refreshing and expanding my Machine Learning,IoT, blockchain, statistics knowledge, sustainability, SDGs, ESGs etc. also elsewhere, e.g. on [open.sap.com](https://open.sap.com) and <a href=https://open.hpi.com">open.hpi.com</a>.
+
+So, I could afford to move faster than 1x, and could do a strategic choice.
+
+In the late 1980s, I was trained in London on pre-sales to senior management for decision support system solutions and models, and I was coming from "selling" political ideas in the early 1980s, and also concepts (and training) while serving in the Army in 1985-1986.
+
+Thereafter, in the 1990s and 2000s, whenever I did a technological update, I also looked at the business perception and communication side.
+
+On the technological side, frankly, whenever there is a "trendy" new kid on the block, often technologists sound as zealots: no reason to explain or integrate with a business perspective, as they "know what is better"- frankly, a perspective that many engineers unfortunately fall prey to.
+
+It is a knowledge trap- that often results in many investments done just to join the bandwagon, but with no clear strategy or perception of reality (or priorities).
+
+Already in the 1990s, from a sales perspective, as I shared in the past, was told that we had won some negotiations not because we were the best, or had the best product- but because we showed the best understanding of their business (meaning: purposes but also constraints).
+
+So, whenever a new technological trend came to the fore, I digged into my past in supporting financial controllers, CFOs, CIOs, and general management, and looked into how should tune my messages.
+
+One the compliments I cherish the most was when, after delivering an awareness training/presentation with live information (just "taped" on videos), in mid-2000s, one of those attending, with a technical background (the others had a police or administrative background) told me that he congratuled for having been able to deliver that without using any unexplained jargon or English-sounding mumbo-jumbo.
+
+We live in Internet times, so there are no excuses to avoid doing what I did since 2020, when I was forced to stay in lockdown for a long time.
+
+Or: follow webinars, online workshop, etc to keep at least informed on what is going on and what others are doing, and "connect the dots" with what you experienced or know from your own (or your connections') past business experiences.
+
+In the 1990s and 2000s, while I was first a freelance and then had my own UK-based Ltd, a significant chunk of my R&D budget went into books, travels to "must attend" events and conferences, etc- just mildly reduced in the 2010s for the simple reason that...
+
+...since 2012, I neither had the budget (my rate since returning to Italy had been much lower than my usual 1600EUR/8h) nor the time (1990s to late 2000s, I was used to missions that almost never required 5d/wk onsite or on the same mission- Italy is still way too much a 9-to-5 plus overtime country, not a business-oriented environment built on results and/or impacts).
+
+Yes, sometimes those commenting my updating activities since summer 2022 joked about the speed I was watching the videos at, or when I followed more than one webinar or conference at the same time.
+
+But, frankly, when I worked as a negotiator often had to follow multiple conversations at the same time, and also for my customers since 2012 more than once had to do the same.
+
+Actually, in my latest mission, once in a while there was a practical joke: I was asked to attend more than one meeting at the same time, supposedly as a passive observer (feasible), but then asked to intervene in both exactly at the same time.
+
+Yes, since 2012 I had plenty of tests in Turin, both during working hours and outside working hours, to test this or that: frankly, I rather invest resources in doing something worth doing, than playing Guinea pig.
+
+But I think that the key element is: it is now a matter of time allocation, and doing most knowledge updates remotely removes also the dead time (e.g. travels, overnight stays, etc)- so, no excuses.
+
+You just need to set your own learning strategy, and allow some slack for serendipity.
+
+Because, as I shared in the previous article on this website ADDLINKHERE, as shown by the McKinsey report at the end, no single individual or entity can be in the top 20% across just the whole list of technologies- and maybe not even top 50%.
+
+So, it has to be a network and team effort.
+
+Which start with a strategy: your own "why?".
+
+<b>Sharing the rationale of a proposed AI portfolio</b>
+
+Obviously: did read more than one book and attended more than one course, webinar, workshop, on the subject of current trends on integrating AI within business strategy.
+
+In the end, my view on technology is always the same since the 1980s, when I was first sent to London to train on how to sell to senior management decision support systems: have a toolset, have an associated rationale for each tool, understand and monitor trends, listen to the (potential) customer, and see how to integrate all the above within the current and potential (or planned) business needs of the customer.
+
+If somebody asked me, either for cultural/organizational change or for tools to support data-based business decision making just to deliver bells&whistles as all their other peer where doing it, I would advice them to look elsewhere, notably much larger companies who sell billable hours.
+
+It is a lesson that learned in the 1980s, but then again also in the 2000s within the public sector in Italy: if the mandate is bland,and the aim is just do something or maybe consume budgets, all those efforts (and, often, associated overtime- paid or unpaid does not matter) are just akin to the old Keynesian "paying somebody to dig a hole, and somebody else to fill a hole".
+
+In consulting, often with a twist: those digging, down the road, are the same filling.
+
+As, unfortunately, I came from a political background, and also while serving in the Army designed and delivered training not because I was paid to do it, but because I assumed that my 12 months of compulsory service to the State were to deliver something more useful than (figuratively) kicking tires and shooting a rifle (in my case, a little bit more: Garand, FAL, MG), I begged to differ.
+
+So, more than once, when e.g. on change the will and mandate was not there, and when on decision support data was neither available nor reliable, I turned down the "tremendous opportunity" to play the fig leaf role.
+
+I still stick with the mantra of a couple of books on management consulting from the 1980s and early 1990s, including one in Italian with the title "il consulente di direzione come realizzatore", that gave as a gift to few customers back then ([you can find it here](https://www.galganogroup.com/prodotto/consulente-direzione-realizzatore/)).
+
+Therefore, part of the reason to select this four-courses specialization was that spanned across a range of themes, and, except one of the four courses, required to present three proposals as they were proposals to senior management.
+
+Specifically, there were four courses within the [AI for Business Specialization](https://www.coursera.org/specializations/ai-for-business-wharton):_AI Fundamentals for Non-Data Scientists (with a peer review exercise), summarizing the "blends" of AI and Machine Learning_AI Applications in Marketing and Finance _AI Applications in People Management (with a peer review exercise)_AI Strategy and Governance (with a peer review exercise).
+
+Obviously, there is a catch, when asked to submit a managerial proposal as part of a course: part of the grading is associated with using the right jargon, something that, as discussed above, when selling to senior management, usually converted in their lingo,not mine.
+
+A funny early example was when, in 1994, after my first Summer School at LSE (States and Firms in the International Economy, International Political Economy) spent the month of August in Sweden, to attend a Summer Academy at the Linguistics faculty of the University of Gothenburg on Intercultural Communication and Management.
+
+Interesting- but when we were asked to write the final essay during a classroom exam, decided to write a political speech on multicultural integration/coexistence.
+
+I got I think a 90 or 95 out of 100, because... I had not used the lingo (that was the marking); I know, my Swedish classmates said back then that probably the grade was only because we were foreigners, as for them was only passed/not passed.
+
+So, my contributions, that I share in the next section (but I provide the links and text of my original proposals) contain "keywords" that I would not write in a proposal to management.
+
+Anyway, I decided to do something slightly different (and, while reviewing peers' submissions, I think that others did the same).
+
+Or: having already (as many of other peers, from what their proposed) long business experience, and aiming to see another perspective on the same themes I spent some time on since that fateful first 2020 COVID lockdown, went through all the courses, skipping the peer review exercises.
+
+Then, following Syd Field "screenwriting" storytelling derived from Aristotle, started preparing the concept for the last course, the strategy, next moving onto developing the exercise for first course (selecting a theme and an area), next on people management, and finally completing the strategy memo.
+
+My rationale with both decision support systems and methodologies was that yes, you need a competence centre that continuously updates and collects feed-back from ongoing in-house activities while also monitoring the market.
+
+But in the 1980s (introducing data-centric decision making) as well as in 2020s, what we are really talking about with digital transformation is cultural and organizational change, not just adding bells&whistles to do what we did before with new tools.
+
+Therefore, you need to push knowledge were it can be embedded within business needs, i.e. a kind of "corporate subsidiarity", shifting the decision points to where operational knowledge reside.
+
+Hence, probably in a real company would add some "awareness training" initiative, to dump into the trashbin myths and "snake oil peddlers" attitudes to tools.
+
+I do understand that scalability implies often recycling the same solution across the board: but that is disguising a product off-the-shelf for a service.
+
+I rather consider having a mix of off-the-shelf (reinventing and maintaining some tools would require expertise that,unless is used  continuously, would generate unnecessary budget impacts for questionable apparent benefits) and in-house integration.
+
+More or less as you use operating systems, but then add on top of that packaged software and some integration or custom applications, instead of reinventing the whole stack.
+
+Since the 1980s, whenever there was a new technology, the only approach that found successful to the foster deployment across a whole organization was not to have a parachuted team design a strategy and force-feeding it to management.
+
+Instead, better to start with some awareness, then identify potential processes worth doing a pilot on, then further restricting to those where people with relevant business savvy could for a while be involved, then assess results, identify lessons learned, built a competence centre, and spawn both training and further initiatives.
+
+Note: "relevant business savvy" is to avoid having the usual half a day of management involvement, followed by delegation to those who are less expensive to divert from business-as-usual, e.g. I saw many cases of juniors or even interns working with consultants on testing this or that- ending up often in something that looked a lot as the "recycling" I referred to above, ending up in solutions that I would call "shelfware".
+
+If you cannot commit those knowing their business to these initiatives, do not expect those lacking the business savvy being able to deliver something that is really relevant to your business.
+
+And the "recycling" element is really akin to those doing a copycat of best practices, i.e. adopting without adapting.
+
+As I remember a late 1980s description of a meeting with a bank on an investment portfolio management tool that had required a while to be developed and was then proposed as a black box: I was told that a CEO of a bank, after browsing through the documentation during a presentation, dropped the volume on the table saying that it was at least two years old.
+
+Even the best off-the-shelf solution, if integrated with or replacing your business processes, has to evolve, and if on core business processes, those that hopefully give you a competitive advantage, investing millions and years of work to get what your competitors did years ago is not really a wise choice.
+
+Your consultants should act as your competence centre if they integrate with your business knowledge, as probably they could provide you with business and technology trend antennas that would be too expensive (and not really justified) if developed in house.
+
+But, after awareness, and after first results, it is  time to develop the overall strategy guidelines, using those experts for their depth, not just as if they were oracles providing the only truth available.
+
+Otherwise, you risk doing as a CIO said in Germany during a workshop online a while back, uttering "we have more pilots than Lufthansa", i.e. something that will never be translated into operational impact, what is generally called "production".
+
+<b>The details (so far) that passed peer review</b>
+
+I am a boring observer of "business continuity": whenever delivering something, I prefer to deliver something that is ready to be embedded within an organization, be it an organizational (re)design, a process, a training, a software solution, or even just a feasibility or assessment or audit.
+
+Which implies: as a consultant, at least when I had direct control on the contract, I asked my customers to involve somebody from their own organization to "grow" on-the-job, somebody who should be able at least to deliver continuous integration and discrete innovations, involving again experts or other consultants (not necessarily myself or my team) when more depth was needed.
+
+Therefore, for these courses I selected:_AI Fundamentals for Non-Data Scientists "Monitoring suppliers' invoicing vs. purchase orders issued and expected financial commitment" (on 2022-12-28, [link here](https://www.coursera.org/learn/wharton-ai-fundamentals-non-data-scientists/peer/ItE8k/module-4/review/-lv6j4aeEe2PtwqMNoEdzQ))_AI Applications in People Management "Integrating AI within people management processes" (on 2022-12-28, [link here](https://www.coursera.org/learn/wharton-ai-applications-people-management/peer/A8zRa/module-3/review/4Gc7EIbzEe2YmhJCprZxxw))_AI Strategy and Governance "Portfolio of AI projects to automate processes increasing transparency and traceability"  (on 2022-12-28, [link here](https://www.coursera.org/learn/wharton-ai-strategy-governance/peer/isbmE/module-4/review/ToK_Wob-Ee2e9wo527oKgQ)).
+
+The first one was of course derived from my experiences in vendor management both for customers and other consultants or partners since the late 1980s: if you have a complex, multi-party activity where you have to involve both companies and individual freelance, do not expect that all will follow a smooth ride through billing processes, notably when "billable" is not a mere time&materials, but linked to objective achieved or deliverables, and associated approval processes.
+
+Yes, in many companies simply resources stay where they are allocated until spent or the budgeting cycle ends, but, frankly, this can create some moral hazards, while at the same time keeping unavailable resources that could be allocated to new activities, if you already know that e.g. the next release of billing is few months down the road, and balances with resources that few months down the road you would have allocated to a project that instead could start now.
+
+Also, the amount of manual work in this area is still staggering, notably when working with small coordination teams in complex organizations and multiple micro-vendors.
+
+Some customers use as a workaround obviously the "main contractor" or similar concepts, but this comes to a price (e.g. your budget acquires zilch flexibility, and can only expand), but anyway, when I was working as account manager for a partner that I was helping to reposition, actually managing (manually) a similar model and asking all those involved to report continuously, and not just monthly, time and resources allocation, was able to reshuffle priorities in agreement with CIOs with zero impact on budget, and actually having as a bonus a "fast close" (i.e. we were able to bill one month or more in advance).
+
+In reality, the solution I proposed, could work both in the private and government sector.
+
+And, actually, for the other two courses the proposals I made were assuming a fictional supranational intergovernmental organization, and, as both were to be written as memos, adopted the same approach I had adopted in the past when writing to customers' CIOs or CEOs.
+
+With the above mentioned caveat about the introduction of jargon that would probably avoid in a real memo, you can read the details at the links provided above.
+
+Anyway, for the HR memo the structure of the one-page document is:_Title: Integrating AI within people management processes_The proposal_Key issues_Key benefits_Proposed roadmap_Proposed architecture.
+
+The course assumed that I had been tasked to write if yes/no should be added, and the outline.
+
+My concept, in these cases, is to provide a single page document that should immediately give a one-paragraph proposal, and then contain information that could also, if interested, shared by the Cxx with his first line to "vet" and get pros/cons from within the organization.
+
+Call it ["ringisho light"](https://en.wikipedia.org/wiki/Japanese_management_culture), i.e. the first filter is at the top, but then gets on board those who should work to implement, before wasting time and resources e.g. for a feasibility or even a pilot.
+
+Incidentally: when I was a management consultant with my own operation, I used to bill my customers a fixed price for the feasibility or pilot with pre-defined constraints, timeline, deliverables, approval/billing schedule etc, and then apply a discount on that value if the customer decided to give me the project (as, most often, they had in-house or existing main contractors could do the implementation cheaper, due to the volume of activities that they were doing).
+
+For the 2-years AI portfolio proposal, the one-page would actually probably be two pages: in the past, I had prospects who routinely asked for proposals as contained the structure described above (both the memo and the feasibility/pilot proposal), but then... always had somebody else. 
+
+Eventually, started complaining, and then stopped asking for proposals when... I delivered one-page proposals: I remember an eternal prospect stating explicitly "you used to send proposals that had a plan and details".
+
+Well, doing for free the project qualification phase is something that both in the 1990s and 2010s in Turin happened often, but it  is not really sustainable...
+
+You can read it online, but in this case I will share the full 2-year portfolio memo:<i>
+<b>(i)  Describe your organization and the 4 activities you have chosen for your organization's AI portfolio. Why did you choose these projects?</b>
+
+The organization described in this exercise is a fictional European Union organization (based on the current European Union) directly interfacing with both Member States and citizens, and receiving funding from both.
+
+The areas of improvement identified concern the buildup and continuity of the organization, interaction with the public, transparency on decisions taken, and transparency on how the resources received are spent.
+
+There are other areas where AI integration would add value, but e.g. for the overall HR processes end-to-end would require more than two years to deliver the full activity.
+
+The four areas selected for the AI portfolio are:_project A: recruitment, to increase diversity and transparency in recruitment processes, removing bias_project B: communication with citizens, to enable both business and private citizens to have access to information in an understandable way_project C: decision-making traceability, to track the lifecycle of decisions_project D: procurement monitoring, to ensure compliance and transparency on expenditure
+
+<b>(ii) How long do you expect each of the 4 projects to take? Explain the thinking behind your expected timeline and why you feel projects of this length fit together well into a portfolio.</b>
+
+_project A: recruitment / 2 years (1 year on data and model, 1 year rollout)year 1: build the baseline model after revising and de-biasing the data on existing staff structureyear 2: integrate with an off-the-shelf AI product covering the proper recruitment process, to deliver both a first solution, and prepare the pipelines to implement a continuous tuning of the solution
+
+_project B: communication with citizens / 1 yearmonths 1 2 3 to create a first prototype and associated first data pipelines on key regulationsmonths 4 5 6 A/B testing across multiple citizens' demographic samplesmonths 4 5 6 7 8 creating additional pipelines to other regulationsmonths 7 8 tuning based upon the results of the A/B testingmonth 9 release of the first versionmonth 9 10 11 12 monitoring and continuous improvement
+
+_project C: decision-making traceability / 1.5 yearsmonths 1-6 organizational decision on which decision to trace and how to release information about themmonths 7-12 implementation and testingmonths 13-18 release of the first version, monitoring, and continuous improvement
+
+_project D: procurement monitoring / 2 yearsmonths 1 2 3 defining the framework and key procurement areas to target firstmonths 4-9 implementation, testing, and tuning with businessmonths 10-13 release of the first version and monitoring feed-backmonths 14-24 continuous improvement and extension to other procurement areas
+
+<b>(iii) What do you anticipate will be a significant challenge your organization will face in embarking on your AI portfolio, and how will you navigate this challenge?</b>
+
+first challenge will be an agreement to all the monitoring parts, whose content will need to be tuned with HR and representatives of the workforce
+
+second challenge will be the availability of time from key staff needed to select relevant data, design models, and feature selection
+
+third challenge would be the timeline and communication with internal and external stakeholders, to keep them engaged and align the initiative with expectactions and per[sic- a copy-and-paste error followed by a lost file]
+
+The key recommendation to deal with these challenges is to consider this a cultural and organizational change initiative, not a mere set of technological projects, i.e. key stakeholders should be involved in defining the roadmap
+</i>
+
+Of course: beside going soft on jargon, if it were a real memo (online could post only text), those overlapping timelines would be  a nice multicolored Gantt that would take the second page and add some markers on key point, while the text would stay on the first page.
+
+Now, as in other courses (both on AI and blockchain, as well as Six Sigma Yellow&Green), in reality selected something that assumed could be useful to implement, not a mere intellectual exercise.
+
+<b>The next steps</b>
+
+Along with those courses, followed also three courses on applying data analytics (including AI, ML, NLP) to accounting, a bit a return to my activities on controlling of the late 1980s and 1990s, with some more recent stints as "collateral benefit" (i.e. unpaid) for the customer, well into 2010s.
+
+Therefore, will probably use spare time until June 2023 to work on some deeper pilots (actually, I am already working on one involving an assessment 2019-2021 on companies listed on the Milan stock exchange,  e.g. [see the Kaggle dataset here](https://www.kaggle.com/datasets/robertolofaro/borsa-italiana-listino-as-of-20221119)).
+
+Meanwhile, you are free to recycle the ideas, if useful- beware only of the details: usually, each one-page memo resulted often in a 1-hour face-to-face meeting without computer talking on the points, that was then followed by the proposals for feasibility or pilot as above (that usually required a day or two to be developed).
+
+So, do not start on the keyboard, start on the storyboard...
+
+Stay tuned!

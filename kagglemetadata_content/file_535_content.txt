@@ -1,0 +1,209 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20231123_article.png)</center>
+
+The title of this article is quite a mouthful- but will decode it later.
+
+I have been sitting on this article for almost a week, while waiting to follow few webinars that could provide additional items worth sharing.
+
+And I was not disappointed.
+
+Between many, on 2023-11-21 attended a [Velivoli da combattimento senza pilota, intelligenza artificiale e futuro della difesa](https://www.iai.it/it/eventi/velivoli-combattimento-senza-pilota-intelligenza-artificiale-e-futuro-della-difesa), organized by the Istituto Affari Internazionali, about the integration of drones (specifically [Unmanned combat aerial vehicle](https://en.wikipedia.org/wiki/Unmanned_combat_aerial_vehicle)).
+
+If you follow this website, you know that I shared a while ago an article about why I decided to follow, to understand better the engineering side of project management for physical products, a series of courses offered by Rice ([Organizational Support 05: A flying project](index.php?page=508)): the course included working on a fictional case of a drone delivery startup that had made an agreement with a pharmacy retailer, and therefore had to adapt before the drone were adopted, and had to start with a (no pun intended) "pilot" with a limited number of shops.
+
+One of the issues was obviously the regulatory element: having remote drones to share "vertical space" with other flying objects is complex enough (e.g. in my first "drone"- formally UAS- for the OPEN category was stated in the very first line of the UAS Safery Checklist "flight up to maximum 120 meters. Above, my UAS will interfere with manned air traffic!").
+
+But if you add unmanned ones... yesterday was told that Italy adopted a different approach: manned air traffic will have to give way to UCAVs flying in Italy, what was described as "bolla papale", which in Italian is an historical reference to the [Papal bull](https://en.wikipedia.org/wiki/Papal_bull), and visually descriving a "bubble" ("bolla" in Italian) virtually surrounding UCAVs while in flight.
+
+For those who were using (and, my case, also selling) game consoles and home PCs in the early 1980s, it was easy to remember the ["sprite"](https://en.wikipedia.org/wiki/Sprite_(computer_graphics)) concept in videogames, a kind of... self-contained bubble moving around.
+
+Why this example? Because it shows something that we on the technological side often forget, and which is the theme of this article.
+
+Actually, it cover various themes, but all connected by a thread: sustainability.
+
+Which, of course, includes systemic thinking: not just how you are using resources embedded within what you deliver (a drone, an object, or even "virtual objects", or a blend of virtual and physical), but also the context where it will have to interact.
+
+But there is another element: thinking systemically implies also thinking about evolutions, not just to ribbon-cutting events, and certainly not just to pie-in-the-sky plan sold as if they were reality.
+
+Few sections:_ decoding part 1: lifecycle management_ decoding part 2: Fortress Europe_ decoding part 3: strategic stockpiling_ coping with reality and political realities
+
+In this article, will keep each section to under 500 words: so, consider it as an introduction.
+
+
+<b>Decoding part 1: lifecycle management</b>
+
+Just a first bit of "decoding": what does "lifecycle management" mean, within the context of the other elements of the title?
+
+Exactly the same that means when talking about e.g. your smartphone or your car.
+
+In Europe, notably in Italy, we always talk about "investments", but increasingly over the last few decades I saw a shift from an "infrastructural perspective" to a financial one- as some said in Brussels, too many economists and too many lawyers set the "tempo" of European Union evolution, forgetting that things do not need to work just on paper, and people are not pieces on a chessboard.
+
+Hence, we get too much focus on the formal side, as shown also to the way some consented to national recovery and resilience plans focused first on a "paper objectives" (milestones), instead of focusing exclusively on benefits generated and then consider all those "paper objectives" as tools to an end, not ends in themselves.
+
+Releasing funding provisioned on the market based just on milestones created a moral hazard: just declaring that something can be done does not imply that is done.
+
+And we Italians know that fairly well, e.g. we had highways that saw a ribbon-cutting more than once, and for decades paid for various variants of a company presenting plans to build a brigdge between Calabria and Sicily.
+
+If you want to introduce change, you need to consider its impacts- long-term, including what would keep it working once introduced, and what would be needed to monitor results and benefits (and also potential negative externalities: when things do evolve, they do evolve).
+
+Lifecycle management in this context implies considering what we often forget: even when you convert those "paper objectives" into infrastructure, both physical and human, ribbon-cutting is, to quote somebody else, "the end of the beginning".
+
+Any investment has at least an initial period of "tuning" or "phase-in", which implies also potential interventions to adjust, modify, improve.
+
+Incidentally: adopting a purely financial or formal approach to investments also often implies underestimating two elements:_ phasing-out any existing / replaced / improved components_ availability of human capital, if the same people are to work on the "new" and "old".
+
+Shifting to a lifecycle approach could in some cases do as it is being proposed now within e.g. an ESG / sustainability perspective: you build, deliver, use, and then retire, dismantle, recycle, etc.
+
+Which would also allow to consider what is the "knowledge pipeline" ([see here few articles where discussed the concept](search.php?tag=knowledge_pipeline))- which is another element that is often forgotten: there is a lead time in any new knowledge, and unless you use what is already existing, as formal and informal knowledge (and organizational culture), the key bottleneck often is not made of nuts, bolts, concrete- but of people.
+
+Actually, there are also standards focused on both [innovation](https://en.wikipedia.org/wiki/ISO_56000) and lifecycle management, originally started for other purposes, but could help in spreading at least the basic concepts and leverage on aggregate experience.
+
+
+<b>Decoding part 2: Fortress Europe</b>
+
+There is another element that in the XXI century knowledge- and data-intensive economy we often do: we try to replicate something akin to the [Tennessee Valley Authority](https://en.wikipedia.org/wiki/Tennessee_Valley_Authority) associated with President F. D. Roosevelt New Deal ([wrote a bit of commentary in the past](search.php?tag=tennessee)), as we were working on infrastructure in a pre-computer world, but applying it to a hyper-connected and knowledge-intensive world.
+
+Within the European Union, I remember listening to discussions about the failed [Communaut&eacute; Euro&eacuter;enne de Defense](https://en.wikipedia.org/wiki/Treaty_establishing_the_European_Defence_Community) (henceforth, CED) since the first few meetings I attended of the European integration advocacy... when I was 17.
+
+What was the CED? An attempt to do something that we kept talking about each time there was an international crisis- overcoming the state-by-state concept of defence that is common even when discussing sending weaponry to Ukraine (countries send, the EU reimburses- with some obvious moral hazard on what is being sent).
+
+So, thinking about a European Union "grand strategy" (and providing the means to implement and sustain it) is not just a side-effect of the conflict in Georgia 2008, or the taking over of Crimea few years later, or even the ongoing conflict resulting from the more recent invasion of Ukraine by Russia.
+
+When we talk in Europe about "Fortress Europe", the concept actually extends beyond its original scope, and goes onto migration flows, knowledge transfer, international economy policy, trade agreements, etc.
+
+Seen from the inside, the "Fortress Europe" is still an uncoordinated mess, what I called decades ago in an article "a fair weather" alliance/friendship.
+
+Look at what happened initially during the COVID crisis: a country-by-country answer.
+
+And look at what happens routinely about the migration issue (which is still managed as if it were a crisis): a routine of bilateral agreements and border-closing or fences built up, not a shared external border jointly managed, despite having converted decades ago my green Italian passport into the burgundy EU/Italian passport that advocated also abroad as a teenager (I still have in my parents' cellar, within my books, fake passport covers to mimic the future EU passport, to put your own Italian passport in).
+
+If we were to consider the "fortress" concept, we should adopt its consequences: a fortress, historically, was able to stand if internally had a level of cohesion- and at least shared provisioning, logistics, and specializations.
+
+Playing the ["beggar thy neighbour"](https://en.wikipedia.org/wiki/Beggar_thy_neighbour) game is still way too common within the European Union, converting it into a target market (also for foreign direct investment), not leveraging on its internal market and accumulated knowledge stockpile from centuries of industrialization.
+
+Therefore, [it's a long way to Tipperary](https://en.wikipedia.org/wiki/It%27s_a_Long_Way_to_Tipperary), to echo an old song that was repurposed for WWI...
+
+
+<b>Decoding part 3: strategic stockpiling</b>
+
+A typical example of the shift from a systemic to an economic or legal approach to reality is what I often hear in webinars discussing the concept of strategic stockpiling.
+
+A caveat: yes, started my political activities in a structured environment by digesting routinely material from Brussels and Strasbourg- when I was 17.
+
+Anyway, as a kid (before primary elementary school) saw my parents work through their own small production business (mainly advertisement objects for insurance companies), and therefore had a hint at accounting, logistics, and... what is a supply chain (you can sell what you have not done, but then to deliver it you have to procure you materials in the right quantities- not too much otherwise it is a cost, but maybe you stockpile a bit when price is low, if you expect an increase).
+
+Then, in the Army part of my role was in doing some administrative preparation work for "shipping" to field exercises where we, as Artillery Specialists, were to support others: also, for few months had to interview a monthly new batch of recruits coming from the training centres, and then also to organize the daily distribution of services.
+
+In business, my first IT project was in automotive procurement, and the second was a banking general ledger, and then had many decision support models used for either planning or controlling- and by the end 1980s had learned the impact on logistics of routes, containers, and standardized shipments and components, what are "commodities" and activity-based costing, as well as associated risks and planning issues- across various industries (physical, virtual, service).
+
+Now, often I heard proposals to avoid the strategic risk of lacking raw materials or computer chips.
+
+The solution some proposed? Identify the need for the next 10 years, and buy that.
+
+As if:_ a) there were infinite production capacity _ b) suppliers were dumb enough not to understand that and gradually contract capacity while spiking up prices _ c) you could build up the facilities and knowledge to compete with those having a massive internal market able to sustain local production and investments.
+
+The point b) is a recurring theme, that I heard also between the late 1990s and mid-2000s, when companies shifted to Asia manufacturing of physical or virtual products, and then complained that their suppliers had developed their own intellectual property and had cut them out, going directly to the market.
+
+Let's be frank: if for my own experiments I buy from China a chip at less than 1EUR per unit, and probably a mass-user would get that for 0.10-0.20EUR, in our current country-by-country "Fortress Europe", a "supplier replacement" strategy would not work- even with massive automation, e.g. Germany was relying on low energy costs that Italian companies would only dream of.
+
+Also, while accounting-wise stockpiling works, it is the flexibility of provisioning that matters more: I could stockpile raw materials, or resistors, or other "commodity" components- but for more advanced, stockpiling is a technological nonsense, as the pace of innovation implies that you use and produce what is needed, not a decade before.
+
+Imagine somebody who had stockpiled in computer processors from Intel a decade ago... and then assumed that that was a "strategic reserve" to stay competitive.
+
+Again: strategic stockpiling decided top-down by economists and lawyers within European Union institutions will not increase the competitiveness or resilience of the manufacturing side (or also service- maintenance... building infrastructure is not enough).
+
+With this European Commission there has been a dirigiste inclination to dump money on any issue, as that were to solve it pre-emptively: to build resilience, you need to build sustainable capabilities, not drown into cash that (the Italian 110% building and renovation credit taught the lesson) risks only distorting the market at a huge cost for the taxpayers.
+
+
+<b>Coping with reality and political realities</b>
+
+I wrote in the first section of this article: <i>In Europe, notably in Italy, we always talk about "investments", but increasingly over the last few decades I saw a shift from an "infrastructural perspective" to a financial one- as some said in Brussels, too many economists and too many lawyers set the "tempo" of European Union evolution, forgetting that things do not need to work just on paper, and people are not pieces on a chessboard.</i>
+
+Well, since 2012, but notably since the PNRR / RRF / NextGenerationEU was announced, and then also the 110% tax credit for building renovation activities was started, I saw another "evolution": as I wrote often in the past, in Turin it seems that many buildings left behind by its glorious automotive mass-production past (not just automotive: also logistics, banking, and other ancillary services), after decades of lingering and decaying, suddenly become the target of yet another initiative to create an "attractive container".
+
+Or: renovating a building or area as that should then attract companies- also when, as recently was shown in Ivrea, the former HQ of Olivetti, those plans are not complemented by e.g. updating the infrastructure before opening the doors, or funding and plans for long-term maintenance and "human capital" generation.
+
+So much that, recently, the three candidates for the role of dean of the Turin Polytechnic were reported on media to have asked to start an outreach, i.e. do not expect or focus just on Turin or Piedmont, and look beyond.
+
+A wise bit of advice, as, if the locals focus just on events, caf&eacute;s, restaurants, hotels, all usually coming with salaries nowhere close those usually paid to engineers and also specialized factory workers, and larger companies delocalize or downsize their local presence, the risk if of having the Turin Polytechnic becoming a cathedral in the desert.
+
+Meaning: as shown few years ago when tried to set up a master blending tech and human side, and did not find the less than a dozen of people detached from local companies, too small to lose somebody critical, and too skeptic about their ability to retain those employees once their mind had been opened beyond the current business needs, it is doubtful that the Turin Polytechnic as it is now could survive and thrive, despite all the investments in "containers", "accelerators", etc, if all the major players (except aerospace- which is developing but did not use to be the main staple on the Turin Polytechnic menu), notably those focusing on mass-production, go elsewhere.
+
+I do not know how much is funding directly from the PNRR, and how much of that is just a catalyst, but we are talking about not-so-trivial amounts: 500mln EUR plan one side, 200mln EUR plan on another side, etc.
+
+All the while this month, November 2023, so far instead gave more news of downsizing (Stellantis), delocalization (Lear, Tyco, and others already there), and even it was announced that the 50mln fund to support companies that need to overcome a crisis or reposition (e.g. those that have to shift from automotive based on combustion engines to electrical etc)...
+
+...had requests for more than double that amount.
+
+I shared all those news items on my [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro) profiles- hence, you can go and visit there.
+
+Yes, this section exceeds the 500 words limits, but wanted to close with something focused more on what follows.
+
+Turin is my observation point as somebody between Rome and Turin decided already in the late 1990s to pull me back from abroad- first with enticements (attractive projects), then directly with what other foreigners from the multinational alphabet soup in Brussels called "scorched Earth approach".
+
+Since 2012 I saw a constant divergence between announces and realities: the former talking about something that echoed almost the [NEP of Lenin](https://en.wikipedia.org/wiki/New_Economic_Policy) (yes, the famous quip about communism being socialism plus electrification of the industrial backwater that Russia was back then [see here](https://soviethistory.msu.edu/1921-2/electrification-campaign/communism-is-soviet-power-electrification-of-the-whole-country/)).
+
+The latter? Building escape paths- as was told in the early 2000s during one of my visits in Turin, when offered to convey (for free, of course) my foreign connections and help develop again a tech exhbition that used to be in Turin long before... those who are in, are in- for the others, nothing is left.
+
+As I wrote over the last decade, it is a self-defeating approach: Turin (and Piedmont) still have both financial and human capital resources that could be used to seed a paradigm shift, but the locals seems focused on extracting value (e.g. see the September 2023 article [Enablers vs. extractors - shifting the airpods social model toward value generation](index.php?page=523)).
+
+I wrote in the past that probably could keep on this "strategic retreat" for a century- but, frankly, all the signals, including the mix of demographic and taxable income of residents values, show toward an acceleration in the direction of a "tipping point" ([see here the articles where I shared some data](search.php?tag=tipping)).
+
+A classical example was [a title of a local newspaper this week](https://www.facebook.com/robertolofaro/posts/pfbid0tbqQH6FiDEafe1jpTyi9VwM1y96BH25AaCW162pEWcZHXpBeSkwRdcKtYZ1GoJz8l), on the latest version of a ranking of Italian major towns, where the title announce that Turin had recovered 23 positions, and you had to dig within the article to see that Bozen was first, Milan was second, Bologna was third... and Italy recovered and reached the 31st position...
+
+The political reality lesson from Turin to Italy and the EU (as locals routine write and say that they are a model that should be followed worldwide- hence, the nickname that I assigned to my birthplace, "Macondo on the Po river") is: the more you focus on low-hanging fruits to claim successes that actually extract value generated elsewhere, the less you work on building your own sustainability.
+
+Both Italy and Europe are getting older, and a recent statistic shows how few years back the EU was more or less a 16trn USD economy- slightly more than the USA, which was also at 16trn USD.
+
+Specifically, <i>["The European Union represented 36.6% of the world's GDP at 1980 (highest point), and was at its lowest in 1985 at 30.02%. It currently produces 22.6% of global GDP in 2022."](https://en.wikipedia.org/wiki/List_of_countries_by_largest_historical_GDP#European_Union)</i>
+
+This is the EU today:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20231123_european_union_economy_main.jpg)([source](https://www.visualcapitalist.com/16-trillion-european-union-economy/))</center>.
+
+But this is the worldwide economy:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/rethinkingbusiness_20231123_visualizing_100trillion_world_economy_1200px.jpg)</br>([source](https://www.visualcapitalist.com/100-trillion-global-economy/))</center>.
+
+Within the introduction of this article hinted at webinars I attended recently, and courtesy of COVID past restrictions, when many shifted online, I keep being able to attend more than I was ever able to in the past, when attendance was possible only in person.
+
+It is interesting how I saw that this shift in "format" generated gradually, since 2020, also a shift in perspective, i.e. opening up to contributions from multiple parties: there are still those who say in each venue what that specific audience want to hear, but, gradually, that approach is getting less and less common- it takes just a tweet or a post on Instagram during the event to have that backfire.
+
+So, will there be more coping with reality? Yes and no.
+
+In some cases, this potential additional level of transparency resulted in making more superficial remarks shared across many events, but in few cases actually it is not the "conference" side of webinars (i.e. prepared speeches), but the Q&A that is increasing in value- where the real ideas as shared.
+
+Let's be frank: in each webinar there is still the routine that saw since the 1980s- those who ask a question but really prepared a conference and would like to be part of the panel, hence... there is no question, simply hijacking the audience that they themselves could not attract.
+
+But is getting less and less common.
+
+I think that over the last couple of months, also due to the unusual (for Europeans) feeling of being surrounded by two wars.
+
+Yes, the invasion of Ukraine by Russia and its potential spillover effects.
+
+And also the renewed conflict in the Middle East that many will hope that at last will make the ["two-state solution"](https://www.britannica.com/topic/two-state-solution) a pill that all the parties involved would be willing to take.
+
+And all the weaknesses that were shown also due to the COVID pandemic and how it was coped with.
+
+In between, the common feeling from all those webinars about the future of the European Union, and what will take to be relevant in world affairs.
+
+Interesting the debate between those who would like to compete with China and USA, and those who, instead, say that we do not have the internal market size of China that would make feasible such a choice, and the risk of spreading resources too thin.
+
+Whatever size will "win" the debate, it will force to reconsider not just the "how" the EU works, but also "what" the EU stands for, and, incidentally, redesign its industrial policy (and also educational policy) and approach to interaction with other major and minor powers.
+
+For example: we might have a vested interested in helping the African Union move forward, leveraging on the knowledge of our despicable colonial past that anyway gives at least in some quarters more understanding on what are the local demands, not just projecting our own model elsewhere.
+
+The reality is that we in Europe are getting old but still have accumulated financial and human capital, as well as significant infrastructure, while Africa is going to be significantly younger for much longer.
+
+We have anyway to get used to a different approach: it has to be an African model of development for and by Africans, not a "Fortress Europe" trying to extract value both ways, by attracting talent when needed, and using it as a market for goods.
+
+If you have spare time, instead of going through all those videos on Tik Tok or (for the older generation) on TV, once in a while watching those webinars might help open the mind- notably if you have the power to make choices, and those around you are so similar to you, that they build the traditional "bubble" that has been the source of many wrong decisions in the past.
+
+Coping with reality implies having access to reality, not just a sanitized version provided by court ruffians that then suddenly turn into advisors on crisis management when reality rings the bell of your door...
+
+... [the Tsunami in 2004](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami) as well as COVID in 2020 and the invasion of Ukraine (and its impacts on logistics, energy, food provisioning) showed how much we share the same boat, willing or not.
+
+Hence, if a lesson can be provided by Turin, is that having a glorious past and resources accumulated thanks to that glorious past is no excuse to avoid improving yourself- continuously.
+
+With the corollary lesson that "cocooning" by preaching to the choir does not keep reality at bay: it simply makes harder than to cope with it, and find the resources (human, financial) needed when it is time.
+
+It is the old 1990s concept of getting a smaller slice of a larger pie- a pie that you yourself would not otherwise be able to provision for and cook.
+
+Have a nice week-end!

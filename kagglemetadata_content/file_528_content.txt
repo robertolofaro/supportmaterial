@@ -1,0 +1,437 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230920_20231007_article.png)</center>
+
+This series of articles, whose preparation was started on September 15th, will be completed by September 30th, and complements other articles that I released earlier in September.
+
+Or so was the plan: then, to wait for some further news items, had to wait until yesterday, October 6th.
+
+Specifically, if you want to understand more about that overall concept and where it comes from, the latest three articles released before this new series had just that purpose, from three different perspectives:_ [Accelerating European Union rights integration: from directive- to regulation-based harmonization](index.php?page=522) (published on 2023-08-24)_ [Enablers vs. extractors - shifting the airpods social model toward value generation](index.php?page=523) (published on 2023-09-08)_ [Adding enablers to a data-centric society: it is not just about technologies](index.php?page=524) (published on 2023-09-12).
+
+On the overall concept of "project that starts with a target and then has to evolve while keeping focus", [recently posted again online a 200+ fictional compliance business case](quplan), that had released between 2015 and 2018.
+
+I had prepared this series of articles to be part of a mini-book to be published later this year- but, as I received around mid-September a notification on the Italian TechWeek 2023 held in Turin from September 27th until September 29th, decided to streamline the content and share online before the event, posting the last one right after the event will be closed, as a kind of integrative summary of both what I wanted to share and what will see.
+
+<b><i>This is the fourth article of the series</i></b>, and it is focused on <i>connecting the dots</i>, i.e. the end of the beginning of that systemic journey (more about this later- and yes, I know that I am misquoting both a UK Prime Minister and the closing scene of a sci-fi movie about humanity journey into space, from more than half a century ago).
+
+The first article, ["A systemic journey toward TechWeek2023 in Turin: 1 of 4 - sustainability"](index.php?page=525), was focused on <i>sustainability</i> seen as a component of strategic (vs. organic) organizational development.
+
+The second article, ["A systemic journey toward TechWeek2023 in Turin: 2 of 4 - technology"](index.php?page=526), was focused on <i>technology</i>, also if routinely I prefer to talk and write about "techn&eacute;", as "technology" is way too often referred to something physical, or, in our times, computers etc.
+
+The third article, ["A systemic journey toward TechWeek2023 in Turin: 3 of 4 - society"](index.php?page=527), was focused on <i>society</i>, to help contextualize scenarios derived from the previous two articles.
+
+And, to make easier to cross-reference and read the articles, all will have the same structure:_ preamble: a (really long) rational for the series_ starting point: common wisdom_ what is available in the toolbox_ next step: some ideas about the future
+
+The preamble will be shared across all the articles- so, skip it if you already read it, as the aim is to have it as the longest section in each article.
+
+<b>Preamble: a (really long) rationale for the series</b>
+
+After a mission ended mid-July 2022, went through my usual routine knowledge update/prune/refresh, while also also started working on additional data-centric projects and publications that I had had to postpone for a while.
+
+Incidentally: the main reason to postpone the inception of those projects had been that in real data-centric projects I had since the 1980s the hardest part is defining (and streamlining/polishing) scope and data, not all the bells&whistles that range from an essay, a report, a set of visualization, up to assorted paraphernalia called "models" (and sometimes also physical elements, not just software and/or paper)- and that could have been generating perceived conflicts of interest with my ongoing missions.
+
+As my former colleagues who were from the "main side" of Andersen know, I followed both the blue Personnel Reference Binder that I received in 1986, and the burgundy Ethical Standards that I had to borrow from a colleague (as in my "side unit" we did not receive one).
+
+Hence, really my interest in data confidentiality (see [#relevantdata](relevantdata)), data privacy (see [#GDPR](gdpr)), and business ethics/organizational/cultural development (see [#BFM2013](bfm2013)) are not just something that started in mid-2010s because it was trendy- but goes back to my political activities in the early 1980s in a European federalist advocacy, experience in the Army, and overall interests and business experience since 1986.
+
+If you have to then integrate both the physical, digital, and behaviors/organizational elements, that is yet another layer of complexity.
+
+Each layer carries along its own "forma mentis"- or even "mind palace": look no further than the old but still fresh "Art of Memory" of Frances Yates where she quoted [Quintilian's "Institutio Oratoria"](https://en.wikipedia.org/wiki/Institutio_Oratoria) , or, if you want a Cliff Notes-style summary, [Wikipedia on the Method of Loci](https://en.wikipedia.org/wiki/Method_of_loci), or any article about e.g. [Giulio Camillo's "Theatre of Memory"](https://en.wikipedia.org/wiki/Giulio_Camillo).
+
+Yes, I think of the forma mentis conveyed by e.g. traditional university studies in Italy as a way to build specific "behavioral patterns", and also associated... Pavlovian reflexes.
+
+In my experience as PMO and project manager since the late 1980s, frankly I saw often a side-effect of the reform of university studies in Italy, that split in parts where often the "magister" cycle repeats most of what has been delivered by the previous cycle- maybe even by the same structure.
+
+Side-effect? A limited expansion of the depth without having first built, through repetition, a forma mentis, resulting in a tunnel vision and focus on quick results.
+
+And a difficulty on tackling on issues that you had not got through before (but this happens with many "certified" on specific professional skills, who are inclined to pick up from their rota learning through pre-packaged exercises and solutions, not to look at the rationale).
+
+Therefore, when I was on missions in Italy since the early 2000s, often was asked to help "refocus" into a more structured whole, as what actually decades before would have been delivered by a 4-5 university curriculum (a "forma mentis", and a habit of having a mix of short- and long-term items) was lost in a collection of single-shot exams, that looked more as a bookshelf on what was trendy, than a gradual deepening of knowledge from one stage of learning to the other.
+
+It is not a structural change: as I was able, by lending books and then debriefing casually on them, or having meetings that had a pre- or post-meeting that sounded a casual conversation but were really response tests, to see that it was possible to get those results.
+
+And, actually, met many who, by their own volition, having understood what was missing (probably by comparing with older siblings or their parents who had graduated from old-style university, or because instinctively looked at the bigger picture, not just focused on passing exams as fast as possible), picked up a subject or even a hobby to build that missing link.
+
+If you have a forma mentis, any, it can be "recontextualized" with relative ease (e.g. when I had people with a degree in literature who had done interviews, I knew which questions to ask, as a facilitator called up to help recover a portfolio of projects, to understand which issues could have been generated by the approach followed).
+
+If you do not have it, to recover implies actually doing training-on-the-job on how to see something from A to Z- even what you never saw before (and know your own limits and when makese sense to call in others- I learned it early in my business career).
+
+Hence, as will be better discussed across this series of articles, notably in the last one, integrating different components expressing different "cultures" is often not just the sum of the parts.
+
+Despite what became trendy in the 1990s to say, "more than the sum of the parts".
+
+Instead, integrating elements that share a different background implies shifting toward a new plane of reality- that expands on each of them, but also subtracts from each of them the elements that would be incompatible with the new whole (or even irrelevant).
+
+Down to earth, sticking just to the physical + digital + behavioral/organizational: consider just sheer physics- in a videogame (as often as in movies), you can defy natural laws, or twist them as you need to fit your narrative; but if you e.g. build a theme park, your rollercoaster needs to stay within the law of gravity as it is on Earth, not on Jupyter (albeit you can trick minds to think otherwise).
+
+Back to my data and publishing projects: think about a scope/aim, reality check with data, and then tune back-and forth maybe by releasing preliminary items to see how contact with reality makes or breaks your concoction (and, as the saying goes, fail fast and fail early).
+
+Net result: a minimal commitment of resources and time delivering an iterative yet incremental rapprochement with the target agreed to, so that you avoid trying to build a cathedral on stilts.
+
+My current projects aim at blending the two sides of activities since the 1980s, represented by the motto posted on Linkedin "change, with and without technology".
+
+Once in a while I was asked what does that mean- and I generally reply with something attuned to the audience, but blending cultural/organizational change and business number crunching.
+
+As I shared often in the past, any change within any organization, including any technological change, involves both cultural and behavioral change.
+
+Actually, the former implies changing the collective, while the latter, as I was told once by some who do "converting" as a lifestyle to bring new people to their own closed community, aims at the individuals.
+
+But, again quoting them, it takes much more effort to try to "convert" one individual at a time.
+
+Or: it is easier to convert a village than to convert individually each one of its members.
+
+As will be explained within the last article of this series, the number of potential interactions makes not feasible a traditional "indoctrination" (or even plain vanilla traditional "training")- collective knowledge transfer and convergence has to happen as part of a continuous improvement and mutual adjustment that, in the future, will be lifelong (as it has always been), but built on shorter and shorter cycles of alignment.
+
+The key element to consider while reading the articles of this series? 
+
+Technology is still way too often considered as a driver, but I think that, as expressed in that long previous discussion on "forma mentis", should be considered an enabler, if you want to generate value that is structurally sustainable.
+
+Implications: often vertical experts (i.e. experts on a specific "techn&eacute;", not necessarily technology) "drive" while having limited understanding of the overall business and social context as well as potential impacts.
+
+Therefore, define constraints that, when such a knowledge is then added, often are easier to circumvent with "stilts" than to reverse: it would be better and easier (and would build resistance to future changes) if vertical experts either developed or were paired with those able to "walk in their audience's shoes".
+
+And, yes- in the future a book and further datasets will be released online- for now, [previously released books on change are here](https://leanpub.com/u/robertolofaro), while datasets (and webapps) that created to support either those books or articles or data projects [are here](datasets).
+
+To close this preamble: some of the themes this section pinpoints to...
+
+...are actually going to be developed across all the articles of this series, and the last article (focused on a systemic perspective, including on my proposed five cents) will end with a kind of thread that will link both the articles and this preamble.
+
+A caveat: to have a coherent set of cases to discuss under the different dimensions, will here and there reference again Italy and books with further analysis about Italy (and EU)- if interested, you can dig into the references provided at the end of each article, but it is not needed to follow the argument across this article series.
+
+Also if could be pivotal in moving from these articles toward your own model: due to space and time (yours as well as mine) constraints, these articles will barely scratch the surface of something that would require probably a chapter for each section of each article.
+
+<b>Starting point: common wisdom</b>
+
+As I wrote within the introductory section, this article is about <i>the end of the beginning of that systemic journey</i>.
+
+Meaning: as part of my drafting process, also for this last segment of the article series, worked on the concepts that were planned for a forthcoming book, but then made a "streamlining" of the material, to keep the articles readable in short amount of time.
+
+A small warning: as this is the last article of this series, and a "bridge" toward further articles, this section will be much longer than the preamble, to share material that will be useful also in the future.
+
+If you follow my website, you probably know that actually almost a decade ago started publishing a mini-book series with the title ["connecting the dots"](index.php?page=349) (that you can read online for free at the link), and that in 2015 started preparing a book on sustainability, [#Expo2015Diaries](index.php?section=expo2015diaries).
+
+Actually, already released in January 2023 the "visual side" of that book ([A visual companion to "#Expo2015diaries - the century of the commons"](https://leanpub.com/thecenturyofthecommons), available only as digital book, either for free or a reference amount), while since 2019 [published online various datasets](datasets) and articles around those themes.
+
+Reason? Sustainability- so that the paper version of the book will be just black-and-white, for those willing to buy the book (as the digital version will be both free and paid).
+
+While the previous articles in this series were about concepts (sustainability, technology, society) with few examples, in this case will flip the balance around: few concepts derived from many examples.
+
+Hence, will assume that you have already read them- if not, I hope that the preamble section (shared across all the articles in this series) will give a general overview of the concepts.
+
+As befits articles within this section of the website, the examples are focused on Turin, Italy, EU.
+
+Would like to start with an update to the context, specifically the UN SDG convergence of EU Member States.
+
+If you were to access that "visual companion", you would actually get a quick overview of the status of convergence toward the UN SDG- worldwide.
+
+It is free (if you want it for free), so it would only take some of your time.
+
+Anyway, if you want to just focus on Europe, you can look at the charts [within this article that released in January 2021, with the title "For a forward-looking NextGenerationEU based on UN SDGs in Italy"](index.php?page=434).
+
+Just to recap, this was the status of the whole of EU as of 2020:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_overview.png)</center>
+
+And this was the status of Italy back then:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20210131_eu_sdg_italy.png)</center>
+
+The [report as of 2022](https://ec.europa.eu/eurostat/web/products-interactive-publications/-/ks-01-22-037) showed an evolution.
+
+Beside the NextGenerationEU and its Recovery and Resilience Facility side, the EU added other programs and initiatives, and therefore it is worth sharing also its revised prioritization:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20231008_eu_sdg_priorities.png)</center>
+
+The EU as within the 2022 report:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20231008_eu_sdg_overview.png)</center>
+
+And this is the status of Italy:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/20231008_eu_sdg_italy.png)</center>
+
+I will leave commentary on specific SDGs or trends to future articles, as the focus of this series is different.
+
+Now that I shared the overall context, would like to shift to the examples, going by "circles" of extension: first Turin, then Italy, then EU, and finally the World beyond the EU.
+
+Since 2023-09-15, when I started preparing this article series, those following my [Facebook profile](https://facebook.com/robertolofaro) and [Linkedin profile](https://linkedin.com/in/robertolofaro) probably saw an increase in the number of posts with commentary I added either to articles from mainstream media, or to posts of others publishing on Linkedin.
+
+It was not by chance, of course, as simply I adopted the concept of being specific and timely, shifting to articles on this website, datasets, and further publications ([mini-books](published), [video-presentations](ctr-channel), [infographics and documents](https://www.slideshare.net/robertolofaro), etc) a more detailed or explanatory approach.
+
+Obviously, during the TechWeek released daily some data, partially already discussed within the previous article in this series.
+
+Anyway, as the experiment worked, will keep doing it.
+
+The first obvious data-centric example is the demographic trends of my birthplace, Turin, where I have been again resident and working since 2012, after really leaving it in mid-1980s, first to serve in the Army my compulsory 12 months, then to work on projects for my employers.
+
+As I shared online, in January local authorities said that the town is losing 4,000 residents each year, and this is already affecting the sustainability of some basic services, not just maintenance.
+
+In a town of around 850,000 residents, this implies that the mix leaving probably includes net tax contributors.
+
+I shared on both Facebook and Linkedin a more detailed discussion both in January and earlier this week, so I will skip it here.
+
+Anyway, the overall trend, that I shared before, showed that, while most towns in Italy will have a contraction of their population, eventually Turin should go down to 350,000.
+
+Already know if you had started to walk through the centre of the town in 2012, and compare in 2023, you will see how many shops changes, and how many windows are empty or closed for renovation (in some cases, since a while), and how many shops downsized.
+
+Shifting the tax base toward a town for new-age aristocrats, bureaucrats (and those serving them plus retirees) as I [described on Facebook](https://www.facebook.com/robertolofaro/posts/pfbid02WdKq4vJJpKk12vacXdkNhCm2o7W6j1G6a8vYh2pEujdyVDK4EYQFhgGydotHXBb4l) implies probably that what was announced few years ago as a new target to shift the town from industry (that has been fading aways since the 1980s, when I started working) to events and tourism, plus attraction of high-net worth new residents did so far backfire, and probably built a trend that would be difficult to reverse, unless active policies increase its ability to sustain an inclusive model of "city ownership" by its citizens.
+
+Also the incumbent Mayor [shared how already within 20 years the town will have a significant change](https://www.facebook.com/robertolofaro/posts/pfbid0u5DkPP2uBSJvWh8unKjM1kUQT3Y43CabioX5FHt52kpymT875rX5oQMjduhiJu2Fl).
+
+Already before the 2006 Olympic Winter Games, when I was living abroad and visiting the town, some of my local contacts will probably remember how I said that both the plans and what I saw already ongoing talked of an expansion of the town, not a contraction with a gentrified centre- half-jokingly, said that they were building a town for 2,000,000 residents.
+
+Tribalism is, as I wrote often in the past, an endemic mindset habit: just meeting to complain and then doing nothing is an unusual ritual I observed for few years while attending the annual presentation of the Rota report on Turin, which year after year showed what was happening and the associated trends, year after year was followed by similar shared complaints from all those who elsewhere would be part of the solutions (not just politicians), and year after year was further followed by... a string of tribal announces about new initiatives that talked more of spreading across existing tribes while pretending that this would pave the way for a brilliant future.
+
+All rituals that increasingly included more and more demands for external resources to implement those initiatives, and a willingness of other locations to simply consider Turin the natural centre of those activities- whatever was the planned initative.
+
+Shifting to the national level, anyway also Italy is heading toward a contraction of its population, [as shared on Linkedin](https://www.linkedin.com/posts/robertolofaro_italy-demography-activity-7114133143816671232-bnHO), contraction that already by 2030 (!) should result in one million less inhabitants, and a shift toward smaller families.
+
+Some advocate an Italian "melting pot", i.e. attracting more foreigners, but there is a catch: I know that many Italians would disagree, anyway left centre right I still see that the weight of our supposed past history is a big issue in our inclusiveness.
+
+I marked "supposed past history", because many Italians who utter something on the line of "we had the Roman Empire and spread civilization" actually have a distorted view of our past- as when Rome expanded, a first issue it had, already during the Roman Republic, was the same that we have now, what I could summarize with the old "no taxation without representation".
+
+Back then, attempts were made by incument leading elements of society to distribute voting rights in such a way that, while expanding across the Italian peninsula, older families from Rome would still retain control: eventually, the Roman Republic failed and turned into an empire.
+
+And also the Roman Empire, to expand and survive, had to gradually extend citizenship to those (e.g. here where I am now, in Piedmont) who were until then considered Barbarians.
+
+Anyway, gradually the Roman Empire developed a level of inclusiveness that we Italians currently do not have.
+
+When I was a kid, the area where you lived defined in part your social positioning, and with the immigration waves since the 1990s for example in Turin saw areas that used to be transition areas before shifting to other areas into residential areas almost exclusively inhabited by immigrants.
+
+We Italians should not forget that ["ghetto"](https://en.wikipedia.org/wiki/Ghetto) is a concept that we developed into a common designation, policies defined by "otherness" are always at a risk of being either reducing inclusiveness, or amount to patronizing.
+
+Probably, our internal tribalism with its own hierarchies is part of the reason why I kept hearing analysis that was sound (once the tribal veil was removed), and then attempts at solve issues adopting what was more convenient, also if irrelevant or even counterproductive (such as Turin's attempt at extreme gentrification while undermining its own tax base, i.e. the sustainability of that gentrification).
+
+It is not really reassuring when similar short-sighted and incumbent's well-being driven policies are adopted at the EU level.
+
+Since the 1990s, migration flows have been treated as episodes, not flows: temporary measures that then with the various regime change initiatives across the Southern shore of the Mediterranean often undermined.
+
+It will be probably solved only when reforms will be implemented and a unified approach will be identified.
+
+I shared in the past repeatedly my view on the [Monnet](search.php?tag=monnet) approach: it was a tool created in the 1950s that served for a while also if always many (myself included) criticized its technocratic and undemocratic element.
+
+Routinely announces feel as tinkering useful to push through a stasis by force-feeding reforms designed by few, a sign that many are still thinking as if there were just 6 Member States, the signatories of the [Treaty of Rome](https://en.wikipedia.org/wiki/Treaty_of_Rome).
+
+The reforms proposed by France and Germany and that shared in a previous article in this series are actually worth more discussion- but at least recognize that there is a need to reform decision-making and reduce the democratic deficit of the EU.
+
+Also when intervening abroad the EU had shown some "Monnet moments": a leader with no follower that elsewhere would be just somebody taking a walk, in EU leverages routinely on what I could call the "Monnet Pavlovian Reflex".
+
+Which implies: the leader or a circle of few make a public choice, and then everybody feels compelled to follow, no matter what their own expertise would advise them to do.
+
+On the invasion of Ukraine by Russia, I think that when we shifted for opportunistic cooperation to embracing, EU should have had a say in strategy setting, also if formally, to avoid being officially at war with Russia, we are not a party.
+
+Anyway, in all the webinars I attended where the subject was discussed in the end was said that simply neither NATO nor Russia have interest in transforming a limited conflict into an open-ended conflict: just remember all the choices made in the early stages of WWII, until Pearl Harbor, to supply UK while staying outside, as if formally UK had been just a customer.
+
+It applies in business as it applies in other realms:
+1. If it is one-off or short-term, it is "feel well" money
+2. If it is repeatable or long-term, it is a strategic commitment
+
+That on this conflict we in the EU keep collecting "Monnet moments" where the analysis follow the initiative is a risky choice that does not really increase our geopolitical presence, as implies no continuity, no strategy (and certainly no grand strategy), just whimsical choices of those temporarily at helm, choices that could be reversed after the next electoral cycle.
+
+Anyway, despite our Euro-centric (yes, hyphenated on purpose) Weltanschauung, the world is somewhat bigger.
+
+E.g. have a look at [this chart showing the 109 Trillion global stock market](https://advisor.visualcapitalist.com/the-109-trillion-global-stock-market-in-one-chart/)
+
+Moving outside Europe, there is an interesting conference in Milan on 2023-10-10 ([Protezionisti dâOccidente. Quale politica industriale per lâEuropa?](https://www.ispionline.it/it/evento/protezionisti-doccidente-quale-politica-industriale-per-leuropa)) that I will unable to attend, to discuss a paper published by the Bocconi University on the USA [Inflation Reduction Act](https://iep.unibocconi.eu/publications/working-paper-eu-and-us-inflation-reduction-act-no-rose-without-thorns), specifically projections on its potential cost, if the measures introduced will follow an adoption trend similar to that followed elsewhere.
+
+The paper is interesting to see what should be part of a systemic concept, and how specific initiatives (in this case, subsidies to transition energy consumption and production) might have a budget based on local historical "consumption models", while shifting to a different model adopted for the new technology elsewhere could result in a completely different picture.
+
+If you do not want to read the full report, just have a look after page 22 at the pie charts showing what the CBO identified, and what, used the model proposed by the authors about "jumping on the transition bandwagon" could actually deliver.
+
+Italy is currently having to deal with similar issues both for recent choices about incentives, and for older choices that really started decades ago. 
+
+And both Italy and Europe have yet another issue: defining a credible industrial policy that actually is able to cope with a dynamic context, not assuming that everybody else worldwide will follow your own strategy to your own advantage.
+
+But I shared in the past already some commentary about Italy's issue with that (e.g. in 2018 [Per una politica industriale che veda oltre le prossime elezioni #industry40 #GDPR #cybersecurity / For an industrial policy that survives election cycles #industry40 #GDPR #cybersecurity](index.php?page=138)).
+
+It is time now to move from observation to looking at the tools available.
+
+<b>What is available in the toolbox</b>
+
+As I wrote in the previous article in this series, at the beginning of last section, the one containing proposals: <i>There is another consequence of our post-WWII shared "global institutional framework" (i.e. within the European Union is adding further jointly selected layers of constraints, but also other countries, by joining, accept various degrees of constraints).
+
+As a side-effect of having a gradually global access to knowledge (even before Internet), gone is the pretense of having full independence of each country.</i>
+
+Therefore, before looking at the toolbox from a systemic perspective... what is systemic?
+
+In many articles, webinars, discussions, I heard talking (and often preaching) of "systemic" as if it were an absolute.
+
+Then, actions follow a different, "relative" (or even "tribal") concept of systemic.
+
+Within the scope of this article, therefore I would suggest to consider, as in the example of the four levels Turin, Italy, EU, World, "systemic" as a multifaceted concept.
+
+If you keep in mind what I discussed in previous articles in this series and within the preamble, it is just another level of contextualization.
+
+When considering the tools available to you, you should consider your own specific context and degrees of freedom within that context, as well as, of course, strengths and weaknesses.
+
+I will discuss more this concept elsewhere, but for the scope of this article series should suffice to simply remember to ask yourself.
+
+Otherwise, as I heard also while attending workshops and conferences where somebody was talking about "ecosystem", you can risk mixing multiple levels.
+
+Practical example: you design your own "ecosystem" deciding which parties are relevant, and its resources.
+
+Then, either mis-represent it as an absolute, or try to include specific roles, activities, etc upon which you have not the level of coordination abilities that you assume.
+
+It is more common than you believe, and it is a paradox that, actually, I saw increasing occurrences the more public events and media discussed the need of a "systemic perspective" or "systemic thinking".
+
+The key element is the usual: we humans are finite with finite operational memory- hence, we are naturally selective.
+
+An absolute systemic would require the ability to process and integrate all the information, no matter how small or insignificant could be at that time.
+
+Therefore, our "systemic" concept in reality becomes a degree of relative, more or less limited.
+
+Practical example: sometimes laws or initiatives are designed to have a "systemic impact", say increasing the official interest rate.
+
+Anyway, if you ignore or underestimate what happens beyond the boundaries of your own context, your own "systemic impact" could be different from what you expected.
+
+So far, the content of this section is again mainly about a concept- but this concept is what should be kept in mind when looking at initiatives such as NextGenerationEU, its Recovery and Resilience Facility, RepowerEU, or the USA's Inflation Reduction Act.
+
+Beside those initiatives within the EU, or, in Italy, their companion National Recovery and Resilience Plan (PNRR is the Italian acronym), and national initiatives, there are other initiatives that have been e.g. presented at the TechWeek in Turin.
+
+Just remember: for all the new-ageish conceptualization, I am afraid that none of those initiatives, and generally no systemic initiaties are feasible unless you associate resources, financial resources, and people, with the right mix.
+
+If you have the mix needed but allocate in the wrong way, you can actually worsen your situation.
+
+As an example, Italy has some issue on being able to invest over 200bln EUR in half a decade- no surprise, if our national and local authorities were unable to invest even 1/10th of that amount on a continuous basis.
+
+Accelerating expenditure, not investment, can actually result in doing what I was told in Tuscany in the early 1990s for the World Football events, when had to build a bit of road infrastructure knowing that would be in violation of existing rules, so that had to be dismantled and rebuilt after the event, as there was no way to deliver it properly before.
+
+A more recent example: at the panel on smart cities during the TechWeek in Turin one week ago, it was shared that there is a potential market of 900mln EUR/year in Italy, up from 700mln EUR last year.
+
+On the funding side of digital transformation and startup support, within the EU, following a push by France there is a new investment fund exceeding 3bln EUR, while there are many local seed initiatives (and few working accelerator that really accelerate), but still lack support for scale-up activities.
+
+Injecting funding is not enough, if you do not build the "ecosystem" needed.
+
+Routinely companies in EU, again notably in Italy, complain about the lack of people with the right skills.
+
+Anyway, developing skills takes time, and grooming talent requires opportunities to fail fast, fail early- and learn.
+
+Meaning: a willingness to invest in people, and continue investing.
+
+In Italy saw routinely since 2012 what happens when those who should invest keep asking for authorities to invest in their own talent development: they discover lack of people when they need them, and look for "magic wands" able to deliver them without delay.
+
+Then complain when other countries, even within the EU, consider that the initial investment in developing what is needed is worth the initial talent attraction cost.
+
+Compounded by recent absurd discussions on extracting talent from countries that are source of immigration within Italy and EU- all the while stating with a straight face that immigrants should be helped to stay where they are from.
+
+If you remove from a country its potential to further develop, people with the right mix of skills and experience to become or stay competitive, then it is quite difficult to expect it to develop.
+
+Anyway, the reality is that this is perceived as a cheaper and faster way to develop the mix of people needed here and now- without paying the cost of the investment, initial and continuous.
+
+The last ten paragragraph were of course leading to a point: if the title of this section is "what is available in the toolbox"- what is available has to be considered both in the short-term and long-term.
+
+Robbing Peter (the immigration source countries) to pay Paul (i.e. to sustain the competitiveness of countries such as Italy or EU Member States) would be again a short-sighted choice.
+
+Akin to when in Turin heard noises such as the need to keep daily consulting rates down, as otherwise would become to expensive for what they had in mind for later.
+
+If you think systemically, you can actually temporarily lower your rate to sustain the system, as I did almost 20 years ago to work as project manager in projects for Italian Government entities.
+
+Or, as I did in other projects in various countries and saw others do, get some more expensive people temporarily if they help develop other people, and then transition to cheaper people when the critical startup phases have been completed.
+
+In the end, if you think systemically (with the caveats I shared above), you have to align resources to needs, or integrate elements that bring back to a balanced level.
+
+<b>Next step: some ideas about the future</b>
+
+Again: there is a general consensus that in Europe, notably in Italy, we are still unable to accept that failing is part of innovation.
+
+Therefore, we end up doing incremental innovation expanding on what is already there, and everything is targeted to that- from talent acquisition to training for existing employees.
+
+When such an innovation becomes as irrelevant as building better horseshoes when cars were being introduced, the first reaction is not apply political pressure to "cocoon" reality into forced obsolescence.
+
+In a prior article criticized Utopia and Leviathan, but we need a Leviathan with variable architecture and shared purpose.
+
+The concept is acting as a swarm designed on purpose, avoiding to become akin to Disney's lemmings (one jumping over the cliff, all the others following).
+
+Back to Italy: Italy has an approach to innovation that is often built on social constraints, not on rational choices.
+
+Call it "impulse investing": an oxymoron elsewhere, a tradition here.
+
+E.g. decades ago suddenly every politician in Italy was won over the concept of spreading the adoption of e-commerce.
+
+Therefore, suddenly many started peddling even to baker's shops the potential of getting 50k EUR for an e-commerce website, and I heard of some stating that they would some creative accounting, such as billing 50k EUR or whatever was the maximum allowed, really having for the project just 50% of that, and splitting the remaining 50% with the customer- all courtesy of taxpayers.
+
+Not that many e-commerce websites created that way survived- maintenance, update of software and website, but, more relevant for many shops in Italy, the need to keep a perfect accounting ledger for all the materials and products (i.e. de facto removing the possibility of selling without receipt, as would not be needed a genius to do some minimal forensic accounting checking materials/products in vs. sales).
+
+At TechWeek, Alessandro Izzo from European Investment Bank discussed a paneuropean venture debt fund of 3bln EUR, 200mln in Italy, that so far has involved 250 companies, 15 in Italy.
+
+Why so few Italian companies join and win? Because they need to develop awareness and culture.
+
+When I was attending events in Brussels on e-whatever, I remember seeing almost no Italian companies attending.
+
+And one attending told me the simple truth, when I they explained to me that they were small and listed projects they had joined.
+
+Their focus was on the EU funding rules, so that they could be attractive for foreign companies that needed partners in at least a specific number of countries.
+
+In our data-centric society, at least in OECD countries, we are constantly embedded in interactions with society, also if mediated by technology.
+
+In a "dense" society those interactions follow rules that allow potentially all to "play" a role without necessarily having to learn rules each time.
+
+This is really part of what is called "gamification".
+
+Gamification is something that probably you heard once in a while, and, if have a smartphone, use a computer, and joined some social networks online, you are actually embedded in a mindset that is based on turning each interaction into a game.
+
+In the 1970s and 1980s, most equipment came with user manuals, or even electrical schemas.
+
+If you use your mobile phone, you are used to access apps without necessarily having first to read any formal manual- and also when your equipment comes with a manual, often it is just few pages mainly for legal reasons- but you skim through (if look at it at all) to see if it is just yet another one of the usual.
+
+When you use apps on your smartphone, or visit websites, you are used to some "patterns" to follow and, if it that app or website uses unusual patterns, anyway you learn how to use it mainly by... using it.
+
+Our data-centric society requires more than a collection of independent agents to operate and to adjust to challenges.
+
+Therefore, we would need to actually expand on this two elements of gamification in modern times, inspired by neuromarketing and other contaminations between human and natural sciences.
+
+To generate initiatives with systemic impact, also accessing to funding should evolve toward micro-funding where positive contribution is possible, not necessarily with intermediaries who "play the rules".
+
+For more complex roles within initiatives the traditional approach based on rule experts, bureaucrats, structured organizations will still be needed, but compounded with access paths that can be activated by anybody willing, without the need to follow courses or pay EU funding consultants.
+
+Therefore, initiatives following this model would have multiple "threads" and multiple layers, but include a pre-emptive communication element, focusing on integrating more, not less.
+
+Actually, to generate shared value from a data-centric environment, notably in intensive environments such as smart cities, a similar approach could be used.
+
+Something on a smaller scale and more focused was used years ago, when an app in few towns in Italy allowed to register and get "points" if you did walk during the day.
+
+The idea here would be not focusing on individual objectives, but on integrating with collective tasks available from a continuously updating menu of options.
+
+Would be a kind of  "connect by choice", to then de facto become integrated into an environment that is both rewarding for participants and able to provide feed-back to them to further adapt the environment and initiative to their own interactions.
+
+In EU, our current and recent initiatives still follow mainly the old-fashioned model, as NextGenerationEU and the Recovery and Resilience Facility were based on building national plans, having them vetted, then de facto voted and approved or modified and approved, and finally executed.
+
+This model could probably still deliver value in the future (albeit not just in Italy the net result smelled a little bit of "[earmark](https://en.wikipedia.org/wiki/Earmark_(politics))ing extreme"), at least for framework initiatives to define shared resources and budget lines, but in some cases could be interesting to start experimenting with a more dynamic approach, to avoid to keep funding something once its objectives are reached.
+
+It requires a change in mindset: I remember how, when I had agreed to deliver to a customer 17 years ago an organizational study that was based on few workshops, they were surprised by the end.
+
+All my organizational and feasibility studied generally were "fixed-price" with a financial/billing plan associated to events: a slice before kick-off, a slice for each event marking a "gate" reached, plus a final slice linked to approval of the end report.
+
+As the workshops leveraged on a long-term organizational collaboration (16 years), was actually able to cut down one and schedule earlier the final presentation and approval
+
+Hence, having removed some "items" from the deliverables, we closed earlier, and the customer expected me to still bill the balance of the amount.
+
+I simply said: as we had both agreed on a plan linked to deliverables (workshops, reports, meetings, presentations, each containing the "embedded" value of preparation activities), and some were neither to be prepared nor useful to achieve the purpose agreed, I would not bill for that part.
+
+So, the surprise for the manager assigned by the customer to the project was that it went under budget.
+
+It was obviously a special case (long-term customer, also if that was to be the last project), but I followed the same rules in other cases, when pricing was a composition of elements.
+
+If your initiative is systemic, all those involved should provide the feed-back that is associated with their role, de facto turning into "influencers" at varying degrees.
+
+This would not turn decision-making into "collective", but simply ensure that all the information available at the operational level, within the constraints of the specific contribution and abilities of each participants, would be integrated.
+
+Technology can help- a little bit as years ago some local authorities experimented with distributing sensors so that citizens could contribute on assessing pollution levels just by going around with their own smartphone.
+
+The concept is being flexible: if you experiment on few initiatives with increasing complexity, the key element is to develop competence in governance of complexity while allowing a dynamic interaction between community and environment 
+
+Obviously such an approach could be more easily first experimented within the private sector, then private-public initiatives, to help "tune" also regulatory changes that would be needed before can be adopted on the public, regulated side.
+
+I shared recently similar concepts on Linkedin, e.g. while [integrating feed-back from generative AI applications within our "common wisdom" consensus represented by laws, and their convertion into embedded rules in increasingly collaborative devices](https://www.linkedin.com/posts/robertolofaro_ai-artificialintelligence-technology-activity-7113957821506891776-0cyM).
+
+And this would require to evolving both our management and leadership approaches- as I shared again on Linkedin, [leadership should be embedded in reality, not "alienated" from it](https://www.linkedin.com/posts/robertolofaro_unicorn-activity-7113426695038091264-F5dY): I am not one of those who believe that leaders in the XXI century should learn programming, but they should understand the mindsets involved in making our society operational not, as often happens in Italy, assume that as in the XIX century pre-industrialized agricultural economy, winning an argument thanks to rhetorical skills is a win, and not just a mere [Pyrrhic victory](https://en.wikipedia.org/wiki/Pyrrhic_victory). 
+
+Or: you can get a quixotic twist passed as law if you win the argument, but then, eventually, reality will catch up with its implementation, and potentially waste resources, or even have already generate non-reversible side-effects, collateral damage, and negative externalities.
+
+As I saw since 2012 in Italy, for reasons linked to the above concept of "winning", in the XXI century we have increasingly become attracted by this apparently self-defeating (but ego-massaging) approach.
+
+So, to complete this series of article, few final words not about what is "systemic"- already wrote enough in previous paragraphs.
+
+Instead, a bit about what will happen next.
+
+Material from this "string" of four articles, plus the three listed at the beginning and other material referenced here will eventually blend into further published material- including the completion of the #Expo2015Diaries book.
+
+Meanwhile, in the short-term, will add few more articles about the evolution of traditional concepts within a data-centric environment, e.g. on evolution of the "dual-use" concept and heritage management in data-centric society.

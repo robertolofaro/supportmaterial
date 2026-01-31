@@ -1,0 +1,291 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230912_article.png)</center>
+
+This article was initially planned for the section "BookBlog", but eventually saw that would be more useful as part of the section where it is now.
+
+In our society, at least in OECD countries, we are obsessed with developing "human capital", but there is always a whiff of XIX century top-down.
+
+As you probably know, I think that in a data-centric society you should really shift capabilities closer to when data are generated and consumed, also to allow a pre-emptive feed-back.
+
+This article is what implies building capabilities in a data-centric environment.
+
+I will use concepts from my experience since 2012 in Italy observing digital transformation, as well as from what is increasingly attracting media coverage and funding- including in Italy: i.e. the integration of citizens within urban environments that are data-intensive.
+
+Few sections:_ the challenge- building capabilities indirectly_ marking progress on a research&publishing plan_ the current status of Italian digital transformation_ back to the future- building capabilities in the 1990s_ recycling and updating knowledge via application
+
+<b>The challenge- building capabilities indirectly</b>
+
+How many initiatives on laws etc backfired recently (and not just in Italy)? 
+
+Many say "it is social networks' fault" and often invoke the usual paradigm to say that some are projecting expertise that they have not, and others follow these "experts" creating a vocal consent around at best ill-informed arguments, and the flash-mob their way into pushing their agenda through.
+
+Yes, it happens sometimes- but less often than you would expect; often, that cycle is actually using the flash-mob vocal majority to push agendas, i.e. it is just yet another form of lobbying.
+
+Frankly, I think that has a minor impact on that backfiring: in most cases, it was because somebody went the XIX century way to design initiatives, assuming that then would be execution.
+
+The antidotes are not more control, but more informed parties.
+
+As I wrote in the past: the XIX century approach was based really on bartering interests, and, being mainly focused on conceptual designs that would then be implemented by people, would allow adjustment.
+
+In our hyper-tech times, there are areas where, once you set the change train in motion, you are not only making a one-way choice, but also removing from the table potential future options.
+
+Hence, at least pre-empting the latter impacts by involving those who have closer knowledge implies two things:_ doing a round-robin of consultation_ ensuring that there is a level playing field.
+
+The last point is becoming increasingly critical: in too many discussions about new laws affecting technology, some parties have control of technologies and approaches, while other parties, equally legitimate in expressing their concerns about social impacts, communicate and act as if they were stuck in the last quarter of the XX century.
+
+I shared in my commentary [during the definition of the Italian National Recovery and Resilience Plan (PNRR)](https://github.com/robertolofaro/pnrr) that most contributions presented to the Italian Parliament lacked a systemic view and sounded more as a "Cicero pro domo sua".
+
+But there is also another element worth considering: the level of structure of their arguments was clearly showing an uneven distribution of capabilities.
+
+If you live in a complex world (not just due to technology, also because in OECD countries we have a level of expectations in terms of services from the State and local authorities that in other countries would be considered science-fiction), you need develop not just "technical" capabilities (i.e. techn&eacute;- structured knowledge about, say, a specific domain), but also the ability to convey your expertise within the framework of your audience.
+
+Mumbling your way through trendy keywords is not analysis, it is "being there to show your flag".
+
+Italy is a significant case as historically its Parliament is filled with those who are expression of professions, guilds, etc- and from speeches sometimes lobbying is within, not from external parties.
+
+So, those coming from a specific profession add eventually to their own "lingo" the one from the Parliament- and in both cases detach from citizens' reality.
+
+Communication becomes a negotiation between insiders that then require from voters faith, not trust.
+
+The "separation of powers" in Italy is further blurred by the revolving door between the judiciary and the legislative.
+
+It is not a matter of rebalancing- just a matter of developing in all the parties that could contribute the abilities (and capabilities) to make meaningful contribution.
+
+This would not solve that "faith vs trust" communication distance- but, at least, would expand the potential to avoid something that I saw endemic in Italy already in the early 1990s, when I had my second VAT registration.
+
+For few years, I had to spend half a day a week to update on the latest changes in tax code, and subscribe to some update services, as, by being really a freelance but working with both Italian and foreign customers and partners, my needs were considered too complex for an accountant focused on freelancers.
+
+While going around Italy for business in the late 1990s to late-1990s, I heard routinely stories of continuous changes and their impacts, and how the balancing of various interests had results in laws that balanced the interests and face-saving of negotiators, not of those would have to comply.
+
+The usual remedy? Convey the aggregated voices, and eventually some adjustment would be made, usually counterbalanced by other adjustments, generating a new cycle (maybe from another party).
+
+In recent years, we even had cases of national laws or regulations that were supposed to streamline previous compliance requirements- but, then, to be implemented, required more.
+
+Living in a complex society implies that just even just to convey a complaint is a complex affair- procedures, timelines, etc.
+
+In politics in the early 1980s when I was told that I was a good and committed operational, but as town secretary of a youth political organization should delegate and grow others, not just try to solve each problem all by myself.
+
+I saw many presentations where either there was a blatantly Potemkin Village talking head presenting something that really had depths elsewhere but they did not even bother to understand, or somebody was leveraging on really narrow lingo and expertise to "shock and awe" the audience.
+
+Many consider that project management is a matter of learning tools (software and conceptual), but in reality in many cases, in my experience, it was the ability to listen and communicate with the various parties that made the difference.
+
+Or, as I wrote in my PMI website profile (I am not PMI certified, but are part of the PMI community), work on recovery of projects, programs, initiatives, accounts, negotiations.
+
+When you have a need to present your case to pre-empt a change, you should do what a project manager should do: understand the context and convey it to an audience to extract what is needed to help the project.
+
+That political activity (along with others) at 17 and 18 allowed a try-and-learn that was pivotal years later first while in the Army, and then in my first project-based activities (my first project was also one of the first large fixed-price project of my employer), long before I was officially presented as a project manager (January 1990).
+
+Does everyone need to become a project manager, or at least get acquainted with relevant concepts?
+
+For now probably no- but, as we become more and more exposed to data as consumers and creators, de facto we will all be "managing" our transactions, or others will do it for us.
+
+And, frankly, social networks might have some negative side, but at least built a mindset of scarce resources management, audience, communication- that many born in the XX century still do not.
+
+<b>Marking progress on a research&publishing plan</b>
+
+If you read previous articles on this website, you know that since July 2022 started updating books I had published from 2012, and working on some further data projects, while also updating my skills on the project management side of AI, non-IT infrastructure projects, and others- focusing mainly on PMI and Scrum.
+
+The reason was simple: I had been working over the last decade in missions within a PMI-based environment, while in the past I had studied and worked using OGC-based methodologies (mainly MSP and ITIL), also where no formal methodology had been adopted by the partners I was supporting as PM/BA/Management consultant/etc.
+
+Also: my latest decade in Italy (including when shortly opened a company in 2018) confirmed that there are zilch realistic possibilities to resume doing what I was doing before accepting to work part-time in government projects in Rome in 2004.
+
+Say that frankly what Turin and Rome and their theorems and mobbing+gossip have generated hefty losses for me since at least 2008 (and before- as also in Rome ended up to pay to work, as had to be in Rome also if there was no more budget), and apparently from what I saw and heard over the last few weeks still will cost more.
+
+Well, the only certainty is that, for the time being, this implies that I have no interest whatsoever in developing anything either in Turin or in Rome: they can keep their tribal games, at worst will have for a few years more to report on, for a marginal cost, if compared with what has been lost just since 2008.
+
+You [can have a look at books on change that I published since 2012](https://leanpub.com/u/robertolofaro), as here and there locals gave interesting material worth sharing- in most cases, as you can see on [Facebook](https://facebook.com/robertolofaro) or [Linkedin](https://linkedin.com/in/robertolofaro), quite tribal and repetitive, and also quite vindictive- not really what is needed to implement a data-centric economy based on innovation, as seems to be the routine target that I heard about in almost any event or conference attended since 2012 (and plenty of workshops, webinars, reports, interviews that I read about).
+
+Therefore, not being 20 anymore, and keeping on my target to never retire as I had set when I was a kid, prefer to keep working on a mission-by-mission basis, try to build something in parallel, and keep using my hard-earned experience and knowledge to share online and via publications.
+
+Having shut down my foreign network of business contacts in 2003, when I had planned to return to Italy, since 2005, when I decided that belonging to tribes was the only option to stay in Italy, shifted online (but I waited really until 2007, when I completed phasing-out activities around Europe), and started rebuilding a knowledge network online.
+
+Which implies: you have to contribute online, and it is a long journey- that started few years ago to produce interesting feed-back.
+
+Therefore, I will keep providing online material that I hope others will find useful: there are plenty of subjects in society, politics, business, technology worth writing about.
+
+I was born in Italy, but I have always been bipartisan also if I voted on the left-of-the-centre, and my business experience from the late 1980s showed me the damages of tribes on a complex society- control trumps results and common good.
+
+Not my cup of tea.
+
+Few years ago, in 2015, before I was called for a mission that was presented with the potential to become a permanent role at portfolio level, had published one of my mini-books on change, this time on project management, adding also a 200+ pages fictional case study of a compliance program to deliver by a specific date.
+
+I actually stopped publishing the last "episodes" of the case study, to avoid any conflict of interests (I was following too many projects, initiatives, workstreams where some concepts could be considered a commentary), waiting until 2018, after ended that mission, and worked also on a book [on GDPR](gdpr), the EU data privacy regulation, released in spring 2018.
+
+The case study is now offline, but will share it online soon, along with other material, while [you can have a look online at the mini-book, with the title "#QuPlan - a quantum of planning"](quplan).
+
+Obviously, #QuPlan is one of the books that I am updating (really- creating a new edition of the aggregate books), and on [Leanpub](https://leanpub.com/u/robertolofaro) you can find the current version (also for free)- but soon will post all the "first editions" online elsewhere, while releasing again the new editions on both Leanpub (digital) and Amazon (paperback).
+
+No, I did not sideline the third volume of the BYOD line ([first](byod) and [second](byod2) can be read online): simply, I found a way to "outsource" some of the tests I needed to do before writing it (and before doing the "physical+digital" part that will support the third volume).
+
+Anyway, as discussed in a previous article in the BookBlog series, actually this summer worked on other publications and changes of features on this website- you probably actually saw already over the last month few changes here and there, and more will be delivered by year end.
+
+Yesterday actually was also the day for the third monthly update of the [AI ethics Primer](searchkaggleaiethics.php) (which will be released as usual over the week-end).
+
+And, of course, yesterday was also the weekly update of the [ECB Speeches & Co datamart](ECBSpeech_index.php), my first public data product/service that started publishing online in late 2019.
+
+At the same time, also the other publishing activities keep moving on: will have now to do the boring part of the Borsa Italiana pre- and post-Covid project (i.e. number crunching 237 x 2 financial reports x the KPIs I selected, to harmonize the logic in those items by reading at the notes in each financial report- a kind of calisthenics for my past skills in that field), while the project on IoT and Edge AI prototyping using the Kaggle API is having the upside of others who are testing what I was planning to test (i.e. I can cross-check from the communications the points I wanted to test, so that I avoid wasting time on what is already listed as an open issue).
+
+There are other publications- but, probably, are more of interest for Italians, and therefore will share online when complete.
+
+And, incidentally, as last time I checked the original version in English was not online anymore, as many Italian companies have been shifting to The Netherlands, if you [are interested, the Italian translation of a Dutch grammar is still available online (for free)](https://nlschap.files.wordpress.com/2011/08/dutchgrammar-draft20090730-01_04.pdf); beware: my translation of the 2008 original was done in 2009, therefore I do not know if there have been changes.
+
+Now, having shared an update on my publication activities and their rationale, and forthcoming material that could be useful for that "capabilities building" I will discuss in another section, time to give a neutral and frank assessment on digital transformation in Italy, including its smart city side.
+
+<b>The current status of Italian digital transformation</b>
+
+In this section, will share information from various sources, leaving data deliver their story, and providing only connecting text.
+
+The first source is the EU [Digital Economy and Society Index](https://digital-strategy.ec.europa.eu/en/policies/desi).
+
+This is the positioning of Italy- improving, if you consider that we were within the bottom four:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230912_addendum_20230912_it-desi.png)</center>
+
+Anyway, do not look just at ranking, this is the key element:
+<i>"
+Italy is narrowing the gap with the EU when it comes to basic digital skills, however still more than half of Italian people do not have at least basic digital skills. The share  of digital specialists on the Italian workforce is below the EU average and future prospects are undermined by low rates of ICT enrolment and graduates. "
+([from the DESI report for Italy](https://ec.europa.eu/newsroom/dae/redirection/document/88708))</i>
+
+Actually, the DESI should be considered within a wider, systemic perspective, as shown by the data provided by Eurostat about the current status (and trends) of Italy vs. the average of EU, on convergence toward the UN SDGs:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230912_addendum_20230912_it-sdg.png)</center>
+
+As I shared in the past, I think that the UN SDGs are useful, but the difference in starting points even within the EU was too wide to have a one-size-fits-all recipe.
+
+The silver lining is that, despite the Covid crisis that had a significant impact in Italy, even on the SDG 1 (Poverty) there has been a progress, and in no SDG where it was below the EU average Italy is now shown as backtracking.
+
+As I wrote at the beginning of this article, my concept is to add further enabling factors to our data-centric society, to allow extending benefits ([see the previous article](https://robertolofaro.com/index.php?page=523)).
+
+So, let's see data about a key element within our urbanized and data-centric societies: how are we moving toward developing "smart city" ecosystems.
+
+From the [IMD Smart City Index for 2023](https://imd.cld.bz/IMD-Smart-City-Index-Report-20231):
+
+As I shared this morning online, Italy had just three towns within the index- Bologna, Milan, Rome.
+
+This is a comparison of the best worldwide (Zurich) with the three Italian towns, and will let the data speak for themselves (if you want to read the details, visit directly the website for the IMD SCI):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230912_addendum_20230912_sci_zurich.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230912_addendum_20230912_sci_bologna.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230912_addendum_20230912_sci_milan.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230912_addendum_20230912_sci_rome.png)</center>
+
+<b>Back to the future- building capabilities in the 1990s</b>
+
+As you can see from the previous picture, becoming a smart city implies looking systemically- and, also, each intervention done locally, also by private third parties, has to consider the overall impact, not just the potential value or impact (positive or negative). 
+
+Just because you have a good idea and assess that it has no negative externalities (does not negatively impact those not directly involved), you have to validate your assumptions with those that cover domains that you do not even know.
+
+In business, started working on parallel projects since 1988, but actually it began before- in political activities (there was more than one event or communication or meeting to prepare for at the same time), and also in the Army (as I had multiple roles).
+
+So, again, the interesting part is how what you do can eventually find other uses.
+
+As an example, when I left an Andersen unit focused on selling and supporting packaged software on January 15 1990, on my last day I went into the office really early in the morning- as we had been for months building the relationship so that there could be a management reporting project for an insurance company (the first one where I was to be officially presented as a project manager), and I had accepted to avoid disclosing that was living the company- but did not expect that I would be actually asked to attend the kick-off as project manager... on the day I left.
+
+Anyway, shortly thereafter, as I was looking for a new role, decided to register for VAT while was doing interviews around Piedmont.
+
+The roles I interviewed for ranged from sales manager on a treasury software package, to IT manager for a company that had a small IT (in AS/400 environments, the title of "IT manager" actually often meant "you will do everything- except for programming, as for that we will get suppliers"- not only in the USA titles are often inflated).
+
+A former colleague who had started his own company with other colleagues, as I had already designed and delivered training initiatives and curricula (the first real one was while in the Army- I proposed and volunteered, never do that), asked me if I could help to position themselves as project managers and selling projects, while I kept looking for a new role.
+
+So, I started by interviewing each one of the shareholders, and then suggested which gaps would need to be fixed- you can be a wonderful programmer or business analyst, and even a perfect technical project manager, but when this shifts to selling projects and controlling associated budgets, it is a different plane of reality.
+
+Eventually, discussed and proposed some training courses to cover few elements, including: which types of IT systems (from an organizational/vendor perspective) probably they would find in their target customers, which type of projects (from a resource+risk and contract management perspective), and how to extract information via interviews.
+
+It was 1990- presentations were still done on transparencies with an overhead projector, not Powerpoint.
+
+My computer was an Olivetti M15 (a portable with MS-DOS and two 3.5in floppy drives), and I was used to use a typewriter; few months later, as MacClassic were used in my new employer, purchased a Powerbook100 (which was a Classic converted into a portable by Sony), as I was already going around Italy between customer sites.
+
+So, my courses were prepared on paper, and then printed... using a graphical electronic typewriter from Philips that was also able to plot charts (I still have it and, last time I checked, still worked).
+
+I scanned the material as part of my own "digital transformation" of files before a potential further relocation abroad: it is funny to see how already in 1990, courtesy of my experience in politics, the Army, and then selling decision support system models/software/projects, I had developed an approach to slides that was based on the idea that each slide should be more an outline with few points, to fill while presenting with information and examples that were relevant to the audience.
+
+It was not a matter of being smart- it was that, in my view, presentations were to be somehow tailored for the audience, but keeping a line of reasoning that others could fill (e.g. in other cases, when it was already planned to have others eventually deliver presentations, had a narrative across the whole presentation and associated with each slide).
+
+Hence, as I had done before for sales, and did times and again for over 30 years, the slides were "light".
+
+Few years ago, in 2018 I think, as I had decided for the company I created in March 2018 and closed in December 2018 to work both in Turin and Milan, had used a coworking that was in both (albeit actually used mainly Milan- as there was were had the only chances to get paid missions- in Turin, was only offered to work for free).
+
+Once in a while, there were events- and once there was one of my routine informal HR tests.
+
+The test was: I was to build an impromptu narrative out of pictures that I had never seen before, assuming that was a sales presentation for a product/service that they told me few seconds about.
+
+It was a game- and I actually was able to be fluent and show no "uhmm..." "oh..." as others that I saw after doing the same test.
+
+Anyway, it was not just because I had delivered in the past dozens of presentations in different countries- it was resurrecting a skills that by accident had been tested in the late 1980s (more than once was told at the last minute who was the customer and what was the project concept) and then again in the early 1990s (as, lacking knowledge about what the customer had asked, the agenda sold by others to the customer was that of another course- you align, then fix, then realign, and are back on track).
+
+Many years later (few years ago), when I was asked to present about the status of a complex organizational and systems change initiative, looked at the number of elements, and decided to create a single "billboard" with green/yellow/red status for each element, spread across a matrix, so that then we could focus on those that were read, instead of droning through dozens of slides.
+
+It comes with the territory: if you either work on multiple initiatives at the same time, or your initiative has multiple interactions, you have to look out for evolution on the boundaries, and both within your initiative and those boundaries, "manage by exception".
+
+Which further implies: you have to create a communication policy based on updating immediately if there are changes in status, as I wrote in past articles.
+
+Hence, my concept was to have absolute transparency from my team on what was going on- so that then you can see with them, if needed, how to recover/adapt and then share with the stakeholders and sponsors. 
+
+If you switch team with each project/initiative, is always a learning curve to make them unlearn the idea of "avoid reporting negatives".
+
+If you are curious and can read Italian, you can see how they looked- beware, except the discussion about pilot projects and management reporting where I discussed the incremental and iterative approaches, it was at a time when projects were mainly done on mainframe computers, and you had to pay for CPU time, lines printed, and other I/O.
+
+If the latter sounds familiar, yes, many software development companies and many customers did not have their own mainframe, used "timesharing", and the issues were similar to those using cloud services and not monitoring usage- "bill shock".
+
+The links:_ [types of IT systems](https://robertolofaro.files.wordpress.com/2023/09/1990_tipidisistemiinformativi.pdf)_ [types of projects](https://robertolofaro.files.wordpress.com/2023/09/1990_tipologiediprogettielorociclodivita.pdf)_ [interviews](https://robertolofaro.files.wordpress.com/2023/09/1990_conduzionediunintervista.pdf).
+
+I apologize for the typos here and there but... at the time, it was faster to use a white pen to rectify where needed, than to re-print a whole page. 
+
+Anyway, adapted to current technology and differentiation of roles, I kept seeing many of the same organizational issues for decades- so, maybe could still be useful to some.
+
+<b>Recycling and updating knowledge via application</b>
+
+When in 1990 was hired as senior project manager to deliver training in Turin but, after a passage in Milan, was actually shipped to Milan to develop a new area of business within the same domain, actually what I had prepared and had planned to sell as courses or pre-sales engineering/consulting (if none of the roles I interviewed for resulted in a contract)... was useful to be applied on activities for my employer.
+
+I remember that one of the funnier initial projects was when somebody solve for two weeks a full plan to move the IT systems of a large company, plus a complete revision of the organizational manual.
+
+In both cases, my prior experience was useful: for the former really blended what I had learned in logistics for events in politics and in the Army, for the latter instead... reused a hobby I had had in high school, when I studied how to use BNF notation and how to create computer compilers, plus the approach to structuring information that I had learned from a book by Clocksin&Mellish on PROLOG (as a hobby while studying at the university, was also eventually a member of an organization called GULP- Gruppo Utenti Logic Programming).
+
+Believe it or not, when you had a traditional structured organizational manual describing which processes were assigned to which office and how they integrated with other processes in other offices, or how processes were spread and with which role across multiple offices, if you rewrited using that kind of structured PROLOG/BNF syntax, while creating also a "taxonomy" (a glorified list/dictionary), then it was relatively easy to identify open points, ambiguities, overlaps, etc.
+
+Then, of course, sorting it out to evolve would require an organizational project and a set of business choices (as adding or removing activities is never a neutral, purely "technical" or "logical" choice, notably in large companies).
+
+If you work with reasonable people, and did not mess up with contract definition, you can always find a way to plan backward what is feasible as a first step and with which constraints are appropriate for that context and the purpose of project within the agreed budget and deadline- often, it is better to have a first helicopter view that outlines areas of intervention, and allow an initial prioritization, than piling up minutiae and assuming that somehow will all make sense.
+
+If your contract did not define the right scope, the consequences might range from bartering, renegotiating or, if it was a fixed price... taking a big hit (yes, it happened to me too, when I took over the delivery of something that had been negotiated by others- hence, I accept fixed price only if I am the one negotiating the contract).
+
+I shared in the past what happened once while in UK: a prospect asked how long would take to have a software product to integrate some data, and the business side went to the technical side few meters away, made the same question knowing that we would listen, got an answer, came back to us and... added two months to the guesstimate.
+
+Having worked across multiple industries and multiple domains within those industries for few decades, on a large number of projects, pilot project, initiatives, and also negotiations or proposal writing, has a positive side-effect.
+
+Normally, you learned the hard way never to forget that a project or new initiative is always something new or different, also if it looks similar to others but is within a different organizational environment or for a different customer.
+
+If you re-read the paragraphs so far in this section, you will see some keywords:_ project_ contract_ negotiation_ communication_ and concepts relative as what traditionally is associated with project management, i.e. budget, context/scope, deadline/timeline.
+
+Do not confuse context/scope with features: in most projects I worked in since 1988, also when formally were projects with a step-by-step plan ("waterfall": one side defines the requirements, one side implements them, etc), reality, notably for larger projects, implied that features were more flexible than the other elements.
+
+Also in most compliance projects, where the aim was to be compliant by a set deadline, often in reality, if there were issues with the budget and time, there were features that had delivered by that deadline, and others that might either be delivered later, or, if not delivered in time, would result in additional costs that were anyway lower than the risk and cost of hurriedly doing 100% by the deadline with an army of developers.
+
+Actually, to show that managing projects is more about a mindset than a set of tools, over a decade ago, I asked to a partner to allow me to have a system administrator who never had been developing for the web tag along with me during a negotiation for a project, and then during project meetings, so that I could discuss with him before and after each meeting, and gradually involve him.
+
+Eventually, was told that, when he got a first project negotiation with a customer whose account was managing part-time, and said to go ahead and would available for discussions etc (a "safety net"), he want ahead, negotiated the project, acted as project manager, and... delivered the project on time and on budget.
+
+So, it is not rocket science- but, in that case, being a system administrator, he was already used to what many are not: capacity planning, dealing with scarce resources, dealing with sequences of activities and potential unexpected variation to workaround while still stay on course, etc.
+
+In the early 1990s, when I was selling methodologies, routinely said to project managers and business analysts who had been programmers in their past to listen before they talked: that they had been developers a decade before might help, but the risk was that they imposed approaches irrelevant or even detrimental with current technology.
+
+The concept is that adding enablers within a data-centric society implies also spreading the ability to do something similar when needed: a project manager never preaches to the choir, and always had to deal with two worlds (at least): those demanding the project, and those delivering the project- plus the potential impacts of agreeing to one way or another to do something.
+
+In a data-centric society, I think that probably in few years many consumers and producers of data (as individuals) will need to have a similar mindset, if they want to extract value for their own community or micro-community.
+
+So, having at least a few with the basics could help- something that probably could be delivered by the schooling system as an alternative way on how to organize e.g. the delivery of a report or essay prepared as a team, with rotating roles.
+
+Actually, this could be done everywhere, in schools, universities, and in office environments, by using teamwork for something more than a "hierarchical" approach- and remembering to rotate roles.
+
+I know that some consider that in our agile times we need to teach self-organization: but the first step to self-organization is to understand why organization is needed, and how to be realistic about it, avoiding to convert into the two extremes of "Lord of the Flies" and "absolut individualism".
+
+Not everybody would like it, notably the "communication between two worlds" side, but could anyway help to increase the aggregate "organizational intelligence": also if you want to follow literally Scrum or other methods, you still need to understand their organizational logic- which comes from starting to consider what a project is- the role itself is to be defined by the actual needs.
+
+In a data-centric society, if anybody becomes a consumer and a producer of data, collection of individuals become actually data products or services: if they are unable to extract value, or at least to organize to present aggregated value, somebody else will extract value from them.
+
+So, we cannot complain about the excessive power of few Big Tech on our individual data, and then not consider where that power comes from, and how could evolve into a less monopolistic or oligopoly ecosystem.
+
+Notably in data-intensive environments such as smart cities- where, I remember, few years ago was forecast that soon well over 50% of the population (in OECD countries probably over 70%) will live in few years, generating new needs, services, products, and potential issues.
+
+Hence, better to be able to "package" aggregated needs to influence and pre-empt legislative initiatives, than sit on the fence and then create groups to complain- after maybe the infrastructure is already in place.

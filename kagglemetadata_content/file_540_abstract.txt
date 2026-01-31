@@ -1,0 +1,5 @@
+540
+You are here: Home > Citizen Audit > Moving from words to numbers: conceptual design of KPIs / progress on a data-project/data-product
+Moving from words to numbers: conceptual design of KPIs / progress on a data-project/data-product
+An article an ongoing data project and the release of an associated dataset on Kaggle, on companies listed on the Italian stock exchange Borsa Italiana as represented by their annual reports pre- and post-COVID
+Characters: 16949

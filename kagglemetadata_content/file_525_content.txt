@@ -1,0 +1,328 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230920_20230920_article.png)</center>
+
+This series of articles, whose preparation was started on September 15th, will be completed by September 30th, and complements other articles that I released earlier in September.
+
+Specifically, if you want to understand more about that overall concept and where it comes from, the latest three articles released before this new series had just that purpose, from three different perspectives:_ [Accelerating European Union rights integration: from directive- to regulation-based harmonization](index.php?page=522) (published on 2023-08-24)_ [Enablers vs. extractors - shifting the airpods social model toward value generation](index.php?page=523) (published on 2023-09-08)_ [Adding enablers to a data-centric society: it is not just about technologies](index.php?page=524) (published on 2023-09-12).
+
+On the overall concept of "project that starts with a target and then has to evolve while keeping focus", [recently posted again online a 200+ fictional compliance business case](quplan), that had released between 2015 and 2018.
+
+I had prepared this series of articles to be part of a mini-book to be published later this year- but, as I received around mid-September a notification on the Italian TechWeek 2023 held in Turin from September 27th until September 29th, decided to streamline the content and share online before the event, posting the last one right after the event will be closed, as a kind of integrative summary of both what I wanted to share and what will see.
+
+<b><i>This is the first article of the series</i></b>, and it is focused on <i>sustainability</i> seen as a component of strategic (vs. organic) organizational development (more about this concept in the last section of this article).
+
+And, to make easier to cross-reference and read the articles, all will have the same structure:_ preamble: a (really long) rational for the series_ starting point: common wisdom_ what is available in the toolbox_ next step: some ideas about the future
+
+The preamble will be shared across all the articles- so, skip it if you already read it, as the aim is to have it as the longest section in each article.
+
+<b>Preamble: a (really long) rationale for the series</b>
+
+After a mission ended mid-July 2022, went through my usual routine knowledge update/prune/refresh, while also also started working on additional data-centric projects and publications that I had had to postpone for a while.
+
+Incidentally: the main reason to postpone the inception of those projects had been that in real data-centric projects I had since the 1980s the hardest part is defining (and streamlining/polishing) scope and data, not all the bells&whistles that range from an essay, a report, a set of visualization, up to assorted paraphernalia called "models" (and sometimes also physical elements, not just software and/or paper)- and that could have been generating perceived conflicts of interest with my ongoing missions.
+
+As my former colleagues who were from the "main side" of Andersen know, I followed both the blue Personnel Reference Binder that I received in 1986, and the burgundy Ethical Standards that I had to borrow from a colleague (as in my "side unit" we did not receive one).
+
+Hence, really my interest in data confidentiality (see [#relevantdata](relevantdata)), data privacy (see [#GDPR](gdpr)), and business ethics/organizational/cultural development (see [#BFM2013](bfm2013)) are not just something that started in mid-2010s because it was trendy- but goes back to my political activities in the early 1980s in a European federalist advocacy, experience in the Army, and overall interests and business experience since 1986.
+
+If you have to then integrate both the physical, digital, and behaviors/organizational elements, that is yet another layer of complexity.
+
+Each layer carries along its own "forma mentis"- or even "mind palace": look no further than the old but still fresh "Art of Memory" of Frances Yates where she quoted [Quintilian's "Institutio Oratoria"](https://en.wikipedia.org/wiki/Institutio_Oratoria) , or, if you want a Cliff Notes-style summary, [Wikipedia on the Method of Loci](https://en.wikipedia.org/wiki/Method_of_loci), or any article about e.g. [Giulio Camillo's "Theatre of Memory"](https://en.wikipedia.org/wiki/Giulio_Camillo).
+
+Yes, I think of the forma mentis conveyed by e.g. traditional university studies in Italy as a way to build specific "behavioral patterns", and also associated... Pavlovian reflexes.
+
+In my experience as PMO and project manager since the late 1980s, frankly I saw often a side-effect of the reform of university studies in Italy, that split in parts where often the "magister" cycle repeats most of what has been delivered by the previous cycle- maybe even by the same structure.
+
+Side-effect? A limited expansion of the depth without having first built, through repetition, a forma mentis, resulting in a tunnel vision and focus on quick results.
+
+And a difficulty on tackling on issues that you had not got through before (but this happens with many "certified" on specific professional skills, who are inclined to pick up from their rota learning through pre-packaged exercises and solutions, not to look at the rationale).
+
+Therefore, when I was on missions in Italy since the early 2000s, often was asked to help "refocus" into a more structured whole, as what actually decades before would have been delivered by a 4-5 university curriculum (a "forma mentis", and a habit of having a mix of short- and long-term items) was lost in a collection of single-shot exams, that looked more as a bookshelf on what was trendy, than a gradual deepening of knowledge from one stage of learning to the other.
+
+It is not a structural change: as I was able, by lending books and then debriefing casually on them, or having meetings that had a pre- or post-meeting that sounded a casual conversation but were really response tests, to see that it was possible to get those results.
+
+And, actually, met many who, by their own volition, having understood what was missing (probably by comparing with older siblings or their parents who had graduated from old-style university, or because instinctively looked at the bigger picture, not just focused on passing exams as fast as possible), picked up a subject or even a hobby to build that missing link.
+
+If you have a forma mentis, any, it can be "recontextualized" with relative ease (e.g. when I had people with a degree in literature who had done interviews, I knew which questions to ask, as a facilitator called up to help recover a portfolio of projects, to understand which issues could have been generated by the approach followed).
+
+If you do not have it, to recover implies actually doing training-on-the-job on how to see something from A to Z- even what you never saw before (and know your own limits and when makese sense to call in others- I learned it early in my business career).
+
+Hence, as will be better discussed across this series of articles, notably in the last one, integrating different components expressing different "cultures" is often not just the sum of the parts.
+
+Despite what became trendy in the 1990s to say, "more than the sum of the parts".
+
+Instead, integrating elements that share a different background implies shifting toward a new plane of reality- that expands on each of them, but also subtracts from each of them the elements that would be incompatible with the new whole (or even irrelevant).
+
+Down to earth, sticking just to the physical + digital + behavioral/organizational: consider just sheer physics- in a videogame (as often as in movies), you can defy natural laws, or twist them as you need to fit your narrative; but if you e.g. build a theme park, your rollercoaster needs to stay within the law of gravity as it is on Earth, not on Jupyter (albeit you can trick minds to think otherwise).
+
+Back to my data and publishing projects: think about a scope/aim, reality check with data, and then tune back-and forth maybe by releasing preliminary items to see how contact with reality makes or breaks your concoction (and, as the saying goes, fail fast and fail early).
+
+Net result: a minimal commitment of resources and time delivering an iterative yet incremental rapprochement with the target agreed to, so that you avoid trying to build a cathedral on stilts.
+
+My current projects aim at blending the two sides of activities since the 1980s, represented by the motto posted on Linkedin "change, with and without technology".
+
+Once in a while I was asked what does that mean- and I generally reply with something attuned to the audience, but blending cultural/organizational change and business number crunching.
+
+As I shared often in the past, any change within any organization, including any technological change, involves both cultural and behavioral change.
+
+Actually, the former implies changing the collective, while the latter, as I was told once by some who do "converting" as a lifestyle to bring new people to their own closed community, aims at the individuals.
+
+But, again quoting them, it takes much more effort to try to "convert" one individual at a time.
+
+Or: it is easier to convert a village than to convert individually each one of its members.
+
+As will be explained within the last article of this series, the number of potential interactions makes not feasible a traditional "indoctrination" (or even plain vanilla traditional "training")- collective knowledge transfer and convergence has to happen as part of a continuous improvement and mutual adjustment that, in the future, will be lifelong (as it has always been), but built on shorter and shorter cycles of alignment.
+
+The key element to consider while reading the articles of this series? 
+
+Technology is still way too often considered as a driver, but I think that, as expressed in that long previous discussion on "forma mentis", should be considered an enabler, if you want to generate value that is structurally sustainable.
+
+Implications: often vertical experts (i.e. experts on a specific "techn&eacute;", not necessarily technology) "drive" while having limited understanding of the overall business and social context as well as potential impacts.
+
+Therefore, define constraints that, when such a knowledge is then added, often are easier to circumvent with "stilts" than to reverse: it would be better and easier (and would build resistance to future changes) if vertical experts either developed or were paired with those able to "walk in their audience's shoes".
+
+And, yes- in the future a book and further datasets will be released online- for now, [previously released books on change are here](https://leanpub.com/u/robertolofaro), while datasets (and webapps) that created to support either those books or articles or data projects [are here](datasets).
+
+To close this preamble: some of the themes this section pinpoints to...
+
+...are actually going to be developed across all the articles of this series, and the last article (focused on a systemic perspective, including on my proposed five cents) will end with a kind of thread that will link both the articles and this preamble.
+
+A caveat: to have a coherent set of cases to discuss under the different dimensions, will here and there reference again Italy and books with further analysis about Italy (and EU)- if interested, you can dig into the references provided at the end of each article, but it is not needed to follow the argument across this article series.
+
+Also if could be pivotal in moving from these articles toward your own model: due to space and time (yours as well as mine) constraints, these articles will barely scratch the surface of something that would require probably a chapter for each section of each article.
+
+<b>Starting point: common wisdom</b>
+
+It happened with other compliance elements that I saw (or was part of) implemented since at least 1990.
+
+Methodologies, ISO9000 (quality), EN27001 (security), SOX and its siblings, others: they all started with communication, added often an element of "ex-post", then started moving upstream and becoming integrated within the actual design of solutions (product/services), then organizations, and eventually strategy and corporate identity.
+
+Nowadays, even the smallest company had a degree of compliance embedded within its operations- e.g. already in the 1970s in Italy caf&eacute; had to move onto sterilization, and not simply hand-washing, of coffee cups and glasses.
+
+Still, in the early 1990s, when I was often in Germany for the first time in my life, was surprised to see how instead glasses were often just washed by hand or on a spinning water pump.
+
+Sustainability had a similar journey: in past scribblings, often referenced in the past the [OECD Guidelines for Multinational Enterprises](https://www.oecd.org/corporate/mne/) (and actually used it decades ago when I was asked by a customer to propose an organizational structure and process linked to other compliance elements, including SOX), but initially was really part of corporate communication efforts.
+
+Gradually, it shifted from a mere "statistical window dressing" that often was an apt description for most Corporate Social Responsibility initiatives (henceforth CSR): you picked up your choice of KPIs to report on, quite often.
+
+Gradually, became something that generated bottom-line impacts, e.g. by attracting investors and customers- differentiating companies from their competitors.
+
+This of course added new visibility, and, over time, due also to shared consensus, we shifted to something else, adding a quantitative element that was traceable despite its qualitative start.
+
+Decades ago, I shared first in 2002 with a customer, then in articles online, how to convert qualitative into quantitative, and used it quite often ([e.g. have a look at a Jupyter notebook on Kaggle that eventually became also a book](https://www.kaggle.com/code/robertolofaro/ai-organizational-scalability-and-kaggle-survey)).
+
+Still, until recently it became a layering without a coherent, comprehensive, shared point of reference, generating new concepts such as "greenwashing", instead of a new consensus.
+
+As it happened in the past with other compliance trends that started as "ex-post", anyway also sustainability is starting to shift gear.
+
+During the 2020 Covid lockdowns, beside spending time to update my AI knowledge and learn new tools, I also had a chance to spend more time having a look at how "sustainability" had evolved, from the time when we had Millennium Goals, to SDGs, to extending the latter not just to States, but also to any organization willing to be "measured".
+
+I was not the only one to notice how, shifting then to ESG (i.e. measuring the Environmental, Social, Governance side), it had become quite critical to have a measuring system that was not just "&agrave; la carte", but shared and comparable.
+
+<b>What is available in the toolbox</b>
+
+I shared in previous articles how that resulted eventually in following the many evolutions of CSR, Integrated reporting, i.e. having annual reports that included both the financial and non-financial side.
+
+One of my data projects started conceptually in 2020, as a reaction to what I heard in webinars and read in newspapers and magazines about how companies worldwide were coping with supply chain disruptions due to material flow changes.
+
+I read over the week-end a book from an Italian journalist famous for his geopolitical articles who wrote that the assumption that changes would be forever were excessively hyped.
+
+I beg to differ: reshoring, nearshoring, "friend shoring", and, more influence the "business backbone".
+
+We had revisions of supply chain agreements and information systems to add a level of transparency usually shielded by "tier" approaches (those where you get a main supplier, and let them do their magic with their own suppliers).
+
+These are all a significant change, that until recently would have been next to impossible, due to the need to rethink many "habits"- from intellectual property, to competitiveness, to the application of lean and just-in-time concepts.
+
+I will skip listing the countless webinars, including public webinars by private multinationals discussing their own trial-and-error to build up resilience without spiking up costs, but also public webinars by USA Federal agencies on the same theme.
+
+If interested, just have a look [at my Linkedin stream since March 2020](https://linkedin.com/in/robertolofaro): a positive side-effect of those 2020 lockdowns is that many organizations converted meetings into webinars, and suddenly discovered that also national themes had a worldwide audience; even after the crisis, I can at last attend "meetings" in the USA where I had been invited since I joined in the early 1990s the mailing list of both DoD and Re-inventing the Government, but never attended before as were held mainly in the USA.
+
+Generally, I would say to start by joining the mailing list of e.g. [National Academies of Science Engineering Medicine](https://www.nationalacademies.org/), and then attend some of their virtual events/workshops, or those presented through them by others: if you have "in house" somebody focused on applying your own "forma mentis" and knowledge of your own strategic initiatives as a prism to view external reality and trends, you can end up having what dozens of consultants would not be able to deliver, i.e. a wider palette, as any organization is generally focused on optimizing, also consultants (experiments once, develop an approach, resell it to many).
+
+Actually, a blend of both worlds could help you get the best- a structured approach, and latest trends, instead of just what has been selected by some to sell to many.
+
+In banking, the need of a shared framework of reference was discussed openly already almost 20 years ago (e.g. see the "too big to fail" evolution, [starting from a 2005 paper from the Swiss National Bank](https://www.bis.org/bcbs/events/rtf05Rime.pdf)).
+
+SDGs and sustainability gradually generated similar tools, albeit the [recent releases by IFRS (S1 and S2)](https://robertolofaro.com/search.php?tag=ifrs) are still tentative steps, but IFRS S2 is already sharing KPIs by industry, built with the industry.
+
+Yes, there are and there will always be those stating that it is not enough (notably those selling their own solution), but I stick to the concept of "a long journey starts with the first step" and my favorite corollary.
+
+The longer or more complex your journey, the better off you are if you have some with knowledge of the (conceptual, physical, whatever) territory along with you, if and when needed, specifically to plan the journey (as bookstore shelves are filled with books written by "heroes" who actually often sound simply those who survived amateurish planning).
+
+As an example, in that data project started conceptually during 2020 lockdowns, the "data harvesting" phase really started in late 2022, e.g. [you can follow the data evolution through this dataset/"list" on Kaggle](https://www.kaggle.com/datasets/robertolofaro/borsa-italiana-listino-as-of-20221119).
+
+The idea was simple: while companies listed on the Italian stock exchange are not necessarily representing the resilience posture of the average Italian company (we have many small companies), the need to disclose information on a regular basis, and with an increasing level of supporting evidence, makes that an interesting case study to see how, in the country that was initially worse affected by Covid (a large company in 2020 reported having lost 70% of its revenue basically overnight), companies changed between the last year before Covid 2019, and the first once "on recovery" (and where already was in place the European Recovery and Resilience Facility and its "trickedown" effect on national initiatives and posture of local companies), 2021.
+
+Through various criteria described online within the dataset, from 594 companies the list subject to the study is 40% (237 companies), and, after designing the KPIs, I am currently working on data from financial reports to measure.
+
+It is not an absolute, it is a relative, and obviously, as any model, there will be a long list of caveats, limitations, etc that will disclose when finalizing results, but I can already share some interesting points that affect the theme of this article, sustainability.
+
+Just to list a few:_ there are companies that deliver an "integrated" report, covering both financial and non-financial as a coherent whole_ there are companies splitting between the two in two different reports, or even different areas_ there are plenty of variations between the two, both in format, content, and... accessibility.
+
+If you have just a look on my Linkedin profile to the mini-courses from SAP that I followed on "sustainability" and related themes (from design thinking, to intrapreneurship, to obviously circular economy and CSR) between 2017 and 2023 (at least those that I left online in my "certifications" list), you can see an evolution ([those and others are all free, you can pick-and-choose](https://open.sap.com)).
+
+Why I singled out SAP for those courses (and others), as I did for Kaggle and few universities on Coursera for other themes, and did with Yale OYC first over a decade ago? Again, the concept is that of "forma mentis".
+
+You can pick the best course from the best teacher on a single theme- but if your aim is (at it is in my case) to have "antennas" that have a vertical knowledge on something, and use them to follow evolution on that domain, it is better to choose one, accept and filter out potential limitation or "Cicero pro domo sua" (e.g. by having occasionally others as a reality check), and visit them routinely.
+
+Having a single "forma mentis" implies that you can see how a theme evolves according to impacts and "encounters with reality" (and market demand).
+
+On sustainability, I do not follow just SAP or IFRS, but my selection of reference sources (and rotating third-parties, to complement those selected and avoid a "tunnel vision"), as I did in the 1990s and 2000s while was traveling around Europe for business is based on complementarity with my experience or access to knowledge domains, and allows to spot trends better than if I were to wait for a "digested" version (e.g. I read the preliminary documents from IFRS on sustainability only because I had already considered that them and was used to read other documents from them, ditto for ECB and BIS or IEEE).
+
+As shown by [IFRS S2](https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/ifrs-s2-climate-related-disclosures/) page:"
+<i>
+IFRS S2 sets out the requirements for disclosing information about an entity's climate-related risks and opportunities. In particular, IFRS S2 requires an entity to disclose information that enables users of general purpose financial reports to understand:
+
+a. the governance processes, controls and procedures the entity uses to monitor, manage and oversee climate-related risks and opportunities;b. the entity's strategy for managing climate-related risks and opportunities;c. the processes the entity uses to identify, assess, prioritise and monitor climate-related risks and opportunities, including whether and how those processes are integrated into and inform the entity's overall risk management process; andd. the entity's performance in relation to its climate-related risks and opportunities, including progress towards any climate-related targets it has set, and any targets it is required to meet by law or regulation.</i>
+"
+
+So, it is really just a fraction of the ESG or even the SDGs- still, as I wrote above, it is first step.
+
+I have been number crunching balance sheets first as a side-effect of my business activities in the 1980s- and, between that time and the late 1990s (when I first relocated abroad), saw the evolution of Italian rules for financial reporting.
+
+It was an interesting journey, also because was compounded with the need to align with the increased convergence at the European level (the various "Directives")- but, directly and indirectly, as I wrote in one of the articles that listed at the beginning, we are actually shifting from a relatively "laissez-faire nationally within boundaries" (directives, that have to be implemented nationally), toward a more assertive "consensus at the top, universal application" (regulation, such as GDPR).
+
+When I returned in Italy in 2012, in my spare time went through libraries to see how things had evolved.
+
+Turin, as many large Italian towns, has many issues- yes, it has a large network of well-stocked public libraries, also because book published locally have to leave copies in some local libraries.
+
+It was an interesting journey, and routinely still have a look, before deciding which books to purchase (as for my purposes, unless I need on the "operational side" the latest version, it is the evolution that matters- hence, sometimes I see puzzled faces in librarians when I purposedfully select older versions).
+
+Shifting financial reporting standard, e.g. after Enron and Parmalat, implied adding reporting requirements that really needed organizational and operational changes.
+
+Having to report to direct and indirect climate impacts and, in the future, social costs and full product-lifecycle costs (it is to be expected) across the whole supply chain (from vendors upstream, to customers, to landfills) will generate a new concept of sustainability.
+
+We are already seeing operational impacts in the financial sector and those with more visibility (e.g. fashion, retail, consumer goods), due either to investors' shift toward "balancing" their own ESG profile by adopting selective investment practices, to consumers awareness and that "social consensus" I wrote about within the preamble shared across this article series.
+
+Therefore, I will discuss in the next and final section some information based on the past but also current cases.
+
+<b>Next step: some ideas about the future</b>
+
+Yes, we are now discussing mainly the E(nvironmental) of ESG- but this have been already enough to push companies to consider what would happen with S(ocial) and G(overnance).
+
+Being in Europe, we should actually see the larger picture- not just a country-by-country (or even tribe-by-tribe, in Italy) concept of sustainability.
+
+As I shared this morning both on Facebook and Linkedin:"<i>
+
+[The Group of 12 proposal for a new European Union architecture with the four circles](https://www.politico.eu/wp-content/uploads/2023/09/19/Paper-EU-reform.pdf) 
+
+my more modest concept focused on other elements was mainly within:- [Accelerating European Union rights integration: from directive- to regulation-based harmonization (with cameos since 1990s) (2023-08-24)](https://robertolofaro.com/index.php?page=522)- [Let's be serious about European Union integration and its future (2022-05-24)](https://robertolofaro.com/index.php?page=479)- [A Monnet moment? Different times require different tools (2022-04-17)](https://robertolofaro.com/index.php?page=478)- [Systemic boundaries and the fifth freedom (2021-07-10)](https://robertolofaro.com/index.php?page=452)</i>"
+
+And this is the picture within that report representing their proposed model:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230920_20230920_eu-4-layers.png)</center>
+
+Frankly, when I saw the pictures, it came also to mind a 2004 movie with Daniel Craig and Sienna Miller ["Layer Cake"](https://www.imdb.com/title/tt0375912/), but will not "spoil" the ending.
+
+Some of those who read my articles in Brussels since 2008, while I was living there, and then was challenged more than once to discuss them in impromptu pub meetings in the European Quarter, probably remember that already back then (as in many articles later, including some that are still online on this website) discussed the potential of:_ a multiple-speeds of integration Europe (the "coalition of the willing" within the report reminds a Michael Moore movie about the Irak War of President Bush W)_ working across a concept based on the impact of the mass of some Member States vs. others, by "circles of influence" (something that I actually had lifted from some of my other interests- I do not claim to have invented "bending space"), a theme that reused once in a while.
+
+The timing of the overlapping of this report whose creation took few months, while in just few days and weeks before its release the incumbent European Commission President Van Der Leyen announced that two other potential future EU Commission President Candidates will be busy for a while preparing similar reports (one for former Italian President of the Council of Ministers Letta, the other for former ECB President and Italian President of the Council of Ministers Draghi), is curious.
+
+Anyway, both are in time for the next round of consultations to pave the way for the European Parliament elections (and new European Commission) in 2024.
+
+My concept is really straightforward: if regulation within the EU is evolving toward the supranational level, any organization used to national level lobbying, i.e. balancing toward national needs, will have to adopt a different framework, and work more toward creating a consensus.
+
+The environmental side is relatively straightforward, in terms of impacts, if compared with the potential of the social and governance restructuring.
+
+We already saw worldwide during the Covid crisis (but also long before during the tsunami) how different social and economic systems (different countries with different constraints and cultural perspectives) reacted (or were able to react) in different ways to the same challenge.
+
+It is easy to say "build an awareness system": if your country has a knowledge supply chain providing the right amount of experts needed for your country, and you have the resources to keep that "human capital" current, fine.
+
+But if your educational system is iffy, that becomes a little bit more complex.
+
+And if your "social awareness systems" requires a blend of human capital and advanced technologies, do you have the infrastructure and capabilities (e.g. maintenance, roads, power supply) to keep that afloat? 
+
+If not, you are out of luck.
+
+It already happened in the past on less pervasive regulatory changes within the European Union: as I saw in the early 2000s, some mandates implies the same level of implementation and capabilities everywhere- be it a village with just two employees working part-time with the mayor, or a town with ten thousand employees.
+
+In the late 1980s, I had see already the same in multinational environments: a small branch with few people had to produce the same reports of a ten or twenty times larger business unit.
+
+Another element to consider: the influence that a few national champions have locally on local regulations could become severely diluted at the EU level.
+
+Hence, as the social and governance "levels" of ESG will derive potentially from a different concept of social and governance approach, any organization (not just businesses) should pre-empt those changes, by trying to enter into the debate as early as possible- something that some of my more loyal readers know I wrote about often: the political side of business in the XXI century.
+
+Now, an apparent digression that will be useful to present my assessment of a case and my five cents proposal.
+
+In Italy, in the early 1990s there was a reform that de facto privatized national banks, and created banking foundations that had a charter to "invest" also on social development.
+
+A short book (Tombari-Greco "Fondazioni 3.0: Da banchieri a motori di un nuovo sviluppo") that I <href="https://robertolofaro.com/index.php?page=415">reviewed here in 2020</a> gave a summary of the history of Italian banking foundations, as well as links to reports, etc.
+
+When I returned to Italy in 2012, my immediate criticism of how the two main local banking foundations in Turin operated (not too long ago assessed at over 10bln EUR in assets) was that what they were doing was "sprinkler money": a bit for everybody, and a bit for every tribe.
+
+In part, this is also due to the governance model- since 2012, I routinely followed on local newspapers how the political side (in this case, the politically elected side) was part of the governance choices of those banking foundations, and how sometimes even the bravest new lead of a banking foundation had limited claws when actual "dispersal" was done.
+
+So, I followed with interest a recent debate (see my [Facebook stream](https://facebook.com/robertolofaro)), when from Fondazione CRT voiced said that they should reconsider some initiatives, and promptly the political side torpedoed those comments, even adding forthcoming ones to be supported.
+
+In Italy, we have a tradition of what is called "terzo settore" filling the gaps left by State, local authorities, and market- e.g. on welfare but also on culture, cultural heritage, and social development.
+
+Hence, companies were used to provide funding to others that then made their choices based also upon the funding available, but generally following their own strategy, not that of the donors.
+
+My point is: within an ESG world, your non-financial initiatives should be aligned with your strategic goals, and viceversa.
+
+Hence, a company that wants to present itself as environmentally conscious, to make a low-level example, should adopt gardens nearby, and maybe then give a contract for maintenance to others, not just give funding to somebody who wants to support all the gardens in town.
+
+On the social side, this would mean that both support to culture and welfare or local society should have direct visibility, again with a similar "contracting" if needed, but within a strategic framework, not diluted within the framework of a strategy designed by others.
+
+On the governance side, contributions should again become direct, e.g. contributing to the debate or providing facilities.
+
+It is not just a matter of marketing, as it was often in the past: it is a matter of having strategic influence on the evolution of operational capabilities.
+
+Like or dislike, if you have your own strategic aims, procure your own resources to support them- e.g. citizens might still prefer to directly support a third-party non-profit, instead of building a citizens' group aiming to influence them (and henceforth also the debate on regulations, etc).
+
+I think that probably I am not the only one acknowledging, at last, that our existing XX century "mediated" model does not work in a XXI century data-centric supra-nationally regulated context.
+
+Recently, I followed the example of the Gallerie d'Italia, developed by a business unit of Intesa Sanpaolo.
+
+Supporting contemporary art is a routine for banks etc elsewhere, e.g. I remember at Artissima of listening at what the curators of the collection of foreign banks (or associated foundations) had to say.
+
+In Turin, along with Fondazione CRT (derived from one of the major local banks now part of Unicredit), Compagnia San Paolo (derived from the other major local bank now part of Intesa Sanpaolo) I remember that in the 1980s directly published art books and supported arts.
+
+With banking foundations, this role was de facto transferred to them.
+
+As presented few days ago in Turin at the "Stati Generali della Cultura" by its manager (a former politician), Intesa Sanpaolo created a business unit with about 100 of its own employees plus around 160 experts, focused on cultural heritage.
+
+The ["Gallerie d'Italia"](https://gallerieditalia.com/) is an initiative recently presented more often, but actually part of a long journey, and includes locations in Turin, Milan, Vicenza, Napoli.
+
+Or: major markets (Napoli was actually the location of the Banco di Napoli, an issuing bank before the unification of Italy, a bank whose successor was absorbed by a commercial bank in the late XX century, as it happened to all the others, often with moral suasion from the Bank of Italy).
+
+Therefore, it makes sense to consider for any organization that your own ESG "posture" should be part of your strategy, and any initiative within that realm should be integrated within your branding strategy.
+
+Italian banks are just more visible due to the Yin-Yang of bank and banking foundation set in motion in the 1990s, but many other companies in Italy in high-visibility industries (e.g. fashion) already created in the past their own non-profit arms, following what did in the past companies in other advanced economies. 
+
+Or: retain the strategic direction and guidance, involve third-party only as operational partners, but only if they do not replace your strategic positioning with their own.
+
+There are cooperatives and non-profit in Italy who are doing significant work since decades, and developed operational expertise that would be silly to replicate, if you have just occasional events: but, as any organization, when it starts developing a structure, also a non-profit eventually converts its own continuity as part of its strategy and internal cultural cohesion "glue".
+
+Frankly, as I shared in the past, we had even non-profit set in the past to support veterans from... Garibaldi, repeatedly touted to be shut down, but eventually was converted instead into an historical society.
+
+If you add to this picture that the governance structure of banking foundations, at least from what I observed since 2012, but even before, when I was occasionally in Turin since the 1990s and had contacts with startups within their scope, are actually subject to external interests that blur their own strategic direction, it makes more sense to think again.
+
+I do not think that creating a new non-profit is really the way forward- it makes more sense to simply consider that, shifting from CSR to ESGs, to the integration of the latter within your upstream decision-making, and not just an afterthought.
+
+Going back to the Roberts' Rules (this the shortest yet comprehensive version [shortest version, 2-pages](https://www.larimer.org/sites/default/files/uploads/2019/roberts_rules_-_a_brief_guide.pdf), if you do not have the time to read all the paraphernalia about Board etc), you can see how being involved vs. being added up later makes a difference.
+
+Meaning: as you have a CFO in key meetings about strategy and directions, in the future also an ESG perspective looking at an equally yet diverse systemic perspective will add value to those with more "vertical" or even "inside-focused" knowledge.
+
+This should have an impact also on the development of human capital, as also those aiming at a "techn&eacute;" (i.e. structured, vertical knowledge- not just IT or production) career will need to develop a sense of the "commons".
+
+As I shared yesterday on [Linkedin](https://www.linkedin.com/posts/robertolofaro_today-the-day-in-turin-reminded-me-something-activity-7109943341928079360-JKmt), using my own assessment and experience in Turin, not just since 2012 but also while supporting startups first decades ago, failing to evolve your organizational culture and structure to adapt and pre-empt then has some results.
+
+It is quite curious how some would like to keep XIX century social structures and have XXI century benefits, i.e. having few who were in the past almost omniscient (after a while- as it took a while to filter all the needed knowledge up) delve into all the details, while having to deal with a continuous stream of changes and information that requires vertical knowledge and a "supply chain" that allows adapting before adopting.
+
+Hence, beside the "brand management" side, integrating ESG and resulting also non-profit initiatives within the scope of strategic direction, and guidelines for managerial decisions while having "operational antennas" focused on that, and not just reading reports from other non-profit could generate an internal engine for innovation.
+
+As many wrote, culture often pre-empts technology by testing the ground of ideas, and therefore having an internal unit focused overall on ESGs and non-financial initiatives could become part of an internal development of awareness to integrate within the corporate career development of management- but always within a strategic focus set by your organization.
+
+Individual initiatives within that palette might of course, as stated above, benefit from the integration of external experts, profit or non-profit.
+
+In the past, I suggested likewise to customers, when my mission was cultural&organizational change more often than when the mission was business number crunching, of course- albeit I think that way too many business number crunching or presenting initiatives fail simply because they lack an understanding of the systemic (and human) side.
+
+In preparation of this series of articles, [did re-read (and pick up in local libraries)](https://www.facebook.com/robertolofaro/posts/pfbid0P1tTvqvoww5yfSirNEHy8X6CbdNcJxBv2y4hcxkcbfpPTe34WadwHb8pRBJ85om7l) books about Italy.
+
+But probably the one more relevant here is a book that I picked up just by chance- unfortunately, I saw that it is available only in Germany, but should help guiding you through your own sustainability initiatives, by identifying potential systemic issues (more about this in the last article of this series): Sparschuh's ["Fremde Heimat, Fremde Ferne - Italianische Arbeitsmigration in Turin und Muenchen 1950-1975"](https://www.librarything.com/work/30964499/book/249324597), about immigration in both towns linked to the expansion of the automotive industry.
+
+In English, I routinely suggest reading two other books that, while being focused on WWII, really talk about developing cultures and what happens when you ignore a systemic view, instead of projecting your own (or letting others project their own by using your own as a "Trojan Horse"):_ Robin's ["The Barbed-Wire College Reeducating German POWs in the US During WWII"](https://www.librarything.com/work/5036379/book/81996593)_ Atkinson's "Liberation Trilogy", and specifically the first volume, ["An Army at Dawn"](https://www.librarything.com/review/81996115) (link to my own review).
+
+Sustainability has a strategic dimension: so, consider it strategically.
+
+Until the next article.

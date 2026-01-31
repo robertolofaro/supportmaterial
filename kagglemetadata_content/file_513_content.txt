@@ -1,0 +1,502 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/organizationalsupport_20230715_article.png)</center>
+
+<b>Prologue: this article is a companion to a new webapp, a ["living bibliography" on AI ethics](searchkaggleaiethics.php)</b>
+
+This article was actually something I had planned in late June 2023, but then received an invitation to an essay contest on Kaggle, using as potential source (but with the option of using other sources) the papers published on [arXiv](https://arxiv.org), a site I had been visiting often since 2020, when I started following treining courses on Machine Learning and other AI updates.
+
+If you do not know it- it contains papers on STEM, often technical, but also non-technical, i.e. on philosophy of science and social impacts of science and technology.
+
+Within the theme, one was was "AI Ethics"- which actually dovetailed with what I had planned for this article.
+
+Eventually, as part of the rubric of the article suggested to write something accessible to non-expert but representing both history and trends, I decided to dig within ArXiv, searching for AI, ethics, and various variants of the same concept: and found over 600 papers!
+
+So, decided that could be useful both to myself, but to others too (to avoid reinventing the wheel- I am still as much a bookworm as I was in elementary school, when tried to get access to the standard library, not its children side, to complement my parents' library, eventually starting my own library).
+
+The rationale? To misquote two giants... when a technology looks like magic, it is too important to be left to philosophers and technologists.
+
+Hence, [the essay that I shared on Kaggle has the title "A primer on AI ethics via arXiv- focus 2020-2023"](https://www.kaggle.com/code/robertolofaro/a-primer-on-ai-ethics-via-arxiv-focus-2020-2023), and while I selected few dozens of those papers for further reading, considered as bibliographical references for the essay just 10, that could give both an historical overview and an "entry point" to trends for non-specialists.
+
+Then, as I would have anyway to keep up-to-date on the subject, decided to create one of my usual "tag cloud search", for now focused just on those 10 papers plus my own essay (so that you can search the content, not just the abstract), but on a monthly basis will see if there are other papers having the same characteristics worth adding.
+
+The update of the ["living bibliography"](searchkaggleaiethics.php) will be each month on the 11th day, publishing online the following Sunday, starting from 2023-08-11.
+
+As for this article... contains my personal perspective on what I consider the overall theme of ethics and technology, associated with the trend of democratizing access to technology.
+
+AI has the highest potential to generate further evolutions- and therefore the concepts discussed within that "Primer on AI ethics" could actually be a good starting point to see where research is heading too, influenced by applications.
+
+But this article, beside presenting the "living bibliography" on AI ethics, is also about what I see potential trends and consequences.
+
+As usual in my articles, I prefer to have a systemic look: i.e. not just technology, not just is uses or misuses or impacts, but also the overall social impacts (including to the way we do business).
+
+[contact me on Linkedin for comments, suggestions, etc](https://linkedin.com/in/robertolofaro), with my usual caveat since 2008 (when I started publishing online under my own name, due to a relocation to Brussels and the need to qualify the background of my Gargantuan CV): whatever is not for customers of my own business, is shared with everybody online, so that anybody can benefit.
+
+Hence, routinely turned down offers to have even paid interviews to "pick my brain": but accepted to have Q&A sessions if I could then at least publish my answers where anybody interested could read them for free.
+
+Hope that this article and tools will be useful to many!
+
+<b>Introduction</b>
+
+When I wrote within the prologue <i>"the rationale? To misquote two giants... when a technology looks like magic, it is too important to be left to philosophers and technologists"</i>, I was not just referring to our current heroes (or villains, depends on perspective), ChatGPT and its siblings- but many ordinary everyday technologies and tools that would look from another world to almost anybody from the 1920s. 
+
+But what is really "technology", and what are "tools"?
+
+Everybody knows the quote from Arthur C. Clarke about technology so advanced that looks like magic, but there is another quote from the same book that is worth sharing:<i>
+About a million years ago, an unprepossessing primate discovered that his forelimbs could be used for other purposes besides locomotion. Objects like sticks and stones could be grasped - and, once grasped, were useful for killing game, digging up roots, defending or attacking, and a hundred other jobs. On the third planet of the Sun, tools had appeared; and the place would never be the same again.
+
+The first users of tools were not men - a fact appreciated only in the last year or two - but prehuman anthropoids; and by their discovery they doomed themselves. For even the most primitive of tools, such as a naturally pointed stone that happens to fit the hand, provides a tremendous physical and mental stimulus to the user. He has to walk erect; he no longer needs huge canine teeth - since sharp flints can do a better job - and he must develop manual dexterity of a high order. These are the specifications of Homo sapiens; as soon as they start to be filled, all earlier models are headed for rapid obsolescence. To quote Professor Sherwood Washburn of the University of California's Anthropology Department: 'It was the success of the simplest tools that started the whole trend of human evolution and led to the civilizations of today.'
+
+Note that phrase - 'the whole trend of human evolution'. The old idea that Man invented tools is therefore a misleading half-truth; it would be more accurate to say that tools invented Man. They were very primitive tools, in the hands of creatures who were little more than apes. Yet they led to us - and to the eventual extinction of the apeman who first wielded them.
+
+Now the cycle is about to begin again; but neither history nor prehistory ever exactly repeats itself, and this time there will be a fascinating twist in the plot. The tools the apemen invented caused them to evolve into their successor, Homo sapiens. The tool we have invented is our successor. Biological evolution has given way to a far more rapid process - technological evolution. To put it bluntly and brutally, the machine is going to take over.
+</i>(from "Profiles of the Future", chapter 18 "The Obsolescence of Man").
+
+First written in 1962, years before I was born, this book was revised by the author a decade later, but had to do just few changes- and it is still worth reading today, as, being so far in time, focuses on the concepts instead of getting lost in minutiae, as it happens nowadays way too often, .
+
+No, this article is not about the incoming "age of the machines"- I like the "Terminator" movies, but I think we are more into a cyberpunk-ish "age of man-machine integration based on data".
+
+The interesting part, would be how much we will "outsource" to machines (physical or virtual, e.g. software), and how much we will retain.
+
+This long article will have the following section:_ too important to be left to philosophers and experts_ looking at the impacts of democratized technology through the lens of (recent) history_ shifting to continous infoglut since the 1990s and its impacts_ delegating attention span to devices: the ethical side of technology_ techno-biological society as a continuous experiment
+
+<b>Too important to be left to philosophers and experts</b>
+
+I started with an obvious reference to commentary usually derived from Carl Von Clausewitz ([here an interesting summary](https://warroom.armywarcollege.edu/articles/grand-strategy-clausewitz/)), blended with that famous Arthur C. Clarke quote.
+
+Look just at how you go around in urban areas: how many of you still use paper maps, and how many instead ask GoogleMaps?
+
+I am guilty- decades ago, purchased portable pocket GPS devices to replace maps, as I was going around Europe for business, and was tired of carrying around half a dozen of maps in each travel.
+
+Eventually, shifted to online mapping services and, when my phones acquired a GPS capability, tested various, and ended up using GoogleMaps.
+
+Moreover: how many, after almost twenty years of mobile Internet (which [ITU- the International Telecommunication Union](https://itu.int), decades ago foresaw would replace desktop-based Internet by the first decade of this century), are still able to orient themselves without looking at mobile phones?
+
+Anybody living in an urban area is embedded within a continuous stream of intentional and unintentional interactions with technology, providing and receiving data.
+
+Also if you do not carry a smartphone, you still receive information from the environment that is delivered by technology, not by people.
+
+As you probably know, there is a whole section of this website focused on [data democracy](index.php?section=data-democracy), and another one on [citizen audit](index.php?section=citizen-audit) (the latter within the [Observation and Innovation](index.php?page=411) section).
+
+These two concepts seem to be opposites- but are not: when everybody become a consumer and producer of data collected by countless sensors directly (courtesy of our consensus) and indirectly (because we enter their "horizon"), we have to consider both dimensions.
+
+And when, as now, we add AI at the Edge, i.e. sensor with embedded AI processing so small that you do not even see them, or are just added to existing devices, the two become the [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang#:~:text=Yin%20and%20yang%20is%20a,they%20interrelate%20to%20one%20another.) of a data-centric society.
+
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yin_and_Yang_symbol.svg/800px-Yin_and_Yang_symbol.svg.png" width="30%"></center>
+<b><i>the Yin and Yang of a data-centric society: Data Democracy and Citizen Audit: which one is which, depends on your context</i></b>
+
+On this theme, a full discussion would require a book (and [already shared a few that you can read also for free online](https://leanpub.com/u/robertolofaro)).
+
+To summarize how I could define both with a one-liner:_ <b><i>Data Democracy</i></b> is about having access to data, preferably unfiltered but supported by a "Virgil" that guides you through their meaning_ <b><i>Citizen Audit</i></b> is about having access to all the collective intelligence available, beyond organizational and social boundaries.
+
+Incidentally, this is a difference between sensors and humans: we [can "see" the horizon up to almost 5km away (3.1 miles)](https://science.howstuffworks.com/question198.htm), and therefore are selective about the amount of information we process.
+
+A sensor, which might "collect" up to mere centimeters, could do a continuous "polling", and prepare to process accordingly (if provided "intelligence" along with the sensor).
+
+Hence, "augmenting" humans with AI technology might generate the need to rethinking the quantity and quality of information, and add some filtering that could potentially distort perception of reality.
+
+As I described in the past in two books about devices and humans that you can read for free online ([BYOD](byod) and [BYOD2](byod2)), the sheer quantity of data collected by sensors per unit of time makes it worth sharing only what is relevant, i.e. "filter", not the continuous stream (and not even store it).
+
+So, when talking about ground-level "access to data" (data democracy) and "giving feed-back on data" (citizen audit), we should remember the difference between us and devices/sensors.
+
+Citizen audit is probably a more complex concept: as in "lean" and many other "modern" management approaches, the idea is to shift the analysis and decision-point as close as possible to where the operational knowledge is, to have a systemic perception of impacts- no hierarchy, ranking, etc, just pragmatism.
+
+In a multidisciplinary society that over the last 70 years (since WWII) gradually developed many specializations that often adopt their own "lingo", rituals, etc, and become unable to communicate directly with other specialists unless somebody bridges them, when you accelerate and increase exponentially data exchanges between actors, it is to be expected that not every community will have all the knowledge capabilities to understand the nuances of every single data interaction- and will have to rely to others.
+
+If you read some of my previous articles, you know that I routinely criticize the concept of having "competent politicians": competent in what, if they have one day to vote on trade, another day on AI algorithms, another on road building and bridges renovation, and another on the ethics of end-of-life or abortion?
+
+We still retain this antiquate concept of "leaders" that are demigod with absolute knowledge about everything: personally, I look at the advisors they surround themselves with, and how they interact, nad if they are able to project a Weltanschauung and use the advice of their advisors (or society at large) as consultative advice before making a political choice.
+
+The most underestimated virtue of a politician? The ability to say "I do not know".
+
+The alternative? Surround yourself with a handful of "rountable advisors" that claim to cover all that is needed to know, and then make closed-room choices ignoring anything that is not understood in that room, as if it were irrelevant.
+
+I know that others would smell ["subsidiarity"](https://en.wikipedia.org/wiki/Subsidiarity_(European_Union)) into my definition.
+
+For my non-EU readers: what is subsidiarity? From the Wikipedia definition linked above:<i>
+In the European Union, the principle of subsidiarity is the principle that decisions are retained by Member States if the intervention of the European Union is not necessary. The European Union should take action collectively only when Member States' power is insufficient. The principle of subsidiarity applied to the European Union can be summarised as "Europe where necessary, national where possible".
+
+The principle of subsidiarity is premised from the fundamental EU principle of conferral, ensuring that the European Union is a union of member states and competences are voluntarily conferred to Member States. The conferral principle also guarantees the principle of proportionality, establishing that the European Union should undertake only the minimum necessary actions.
+</i>
+
+My idea is that I might be the greatest architect of this planet, but it is doubtful that I will have <i>continuous</i> perfect knowledge of all the degrees of freedom and weaknesses of each material: an expert on each material would probably have continuous experience and updated knowledge on that specific material.
+
+Why the emphasis on <i>continuous</i>? Because anybody coordinating others might develop temporarily that specific knowlege by simply interacting with the operational experts (as I did in all my projects since the 1980s, both when I contributed some specific expertise, or when I had just to coordinate others toward a shared purpose).
+
+But then, to keep that specific knowledge relevant, would need to keep focus on just that single activity, not move onto others.
+
+So, according to the concept I expressed above, anybody who interacts should actually influence decision-making about these and future interactions.
+
+And this would require moving away from our current approach that, too often, still smacks of Plato's Republic, or even Hobbes Leviathan, with fixed roles.
+
+So, while philosophers and technologists would still be needed, as well as other specialists, depending on the decision they might be support or leading, but not necessarily the main influencers.
+
+Otherwise, you end up with concepts such as those expressed in many mobile apps or website or utilities or banking "contracts" with users: plenty of loopholes that you agree to, but, frankly, who reads all that? And who reads all the updates, sometimes running for 30-40 pages or more per single contract?
+
+And even if they were to read them, would understand all that tip-toeing around rights and duties, and fine references to points?
+
+Formally, everything is done correctly.
+
+But, practically, it works only as long as there are no issues- then, you discover that next to none of thos informal or formal "contracts" is actually a balanced distribution between two parties.
+
+When technology turns into magic (i.e. no understanding of how it works is either needed or expected to operate it), using technology develops "rituals", that are transmitted through the modern equivalent of oral history.
+
+And this does not necessarily transfer best practices along with the context that made them best practices, but as a kind of "mantra" with universal value.
+
+Down to Earth, have just a look at how you learned to use e.g. Microsoft Office applications: how many features are you using not because you asked the software, or read documentation, but because you asked somebody who had learned by somebody.
+
+Upon my return to Italy in 2012, I found quite puzzling that many frowned upon experts checking online within the 900-plus pages of documentation about a specific tool, but then accepted that using something as complex as that tool was done by some without any reference to any documentation, simply by repeating "template decisions" done by others elsewhere.
+
+On that count, with its ability to access an endless supply of material, integrating AI support with human decision-making could actually, if done following a deterministic (and not probabilistic) approach enhance our decision-making.
+
+Having instead specialists design rules and compliance within an ivory tower can have a side-effect that discussed also in past articles, e.g. the distribution of updates to rules and norms that any local authority is expected to comply with- each one generated by a team of specialists somewhere far away, specialists who assume what those on the receiving end should do, as if they had just that to focus on, and using often a lingo or assumptions not tested against reality.
+
+Of course, in many cases, notably for smaller local authorities or companies, there is just one or two people on the receiving end, but they are the "target" of dozens or hundreds highly convoluted and continuous updates.
+
+Again, a case of "competent in what?"
+
+It is a case of structural "barreling down accountability".
+
+Moreover, those designing the rules design also the accountability model to be implemented, but almost never considering the variable limitation of resources.
+
+Since the Covid-19 crisis started in 2020, luckily there was an increase in rules that have been "tailored to audiences"- e.g. using the same framework, but with different levels of bureaucratic burden, for multinational and small-size companies, e.g. [the new IFRS approach to include sustainability while communicating data about performance of a company](https://www.ifrs.org/groups/international-sustainability-standards-board/#about) (you can find the new IFRS S1 and S2 at the [Sustainability Standards Navigator](https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/)).
+
+And this implies revising the whole concept of knowledge supply chain, i.e. how knowledge is developed, stored, transmitted from "producers" to "consumers"- be the latter individuals, corporations, or even States.
+
+Incidentally, the Covid-19 pandemic had impacts across all types of supply chains, as reported in previous articles where shared what I had learned in workshops and seminars involving companies from various industries (from manufacturing, to retail, to finance) where the impacts on supply chains, transparency, resilience where discussed.
+
+<b>Looking at the impacts of democratized technology through the lens of (recent) history</b>
+
+My definition of supply chain is cross-industry, i.e. covering not just manufacturing or retail, but also involvement of people to provide specific skills, preparing and delivering events or workshops or presentations or conferences, etc.
+
+In past articles, I wrote often of the "knowledge supply chain"- you cannot have the human capabilities needed to innovate if you do not create a "knowledge supply chain" that keeps investing on keeping those capabilities alive.
+
+As I said recently when asked, my competence and knowledge of supply chains since the 1980s in manufacturing and retail/distribution is within the organizational and finance side, and only theoretical on the execution side (except for industries and project were I was on the operational side).
+
+While I found similarities in different business sectors (capacity planning takes various forms, but it is still capacity planning, albeit has different constraints, constraints that can be provided by those "on the ground"- i.e. operational in that specific industry), there are plenty of specifics.
+
+E.g. in retail in some projects there was a concept of food and non-food, but in both cases the timeframe for delivery was much shorter than what is acceptable in some manufacturing productions delivering products as projects, while in finance the concept of timeframe depended on the context (e.g. internal resources, resources from the group, resources from third parties, etc).
+
+Since the 1980s worked in banking/finance, consulting, gas/logistics, manufacturing, outsourcing, retail, others: and each one of them had a concept of "supply chain", also if usually "supply chain" is considered only for physical distribution. 
+
+Striving to cut down costs and inventory, many companies had both reduced the number of suppliers, and shifted toward having as small an inventory of raw materials as possible, relying on a continuous supply chain- that was disrupted occasionally in the past (e.g. in 2011, [when the tsunami in Asia showed the high-level of concentration of production of LCD screens](https://www.laserfocusworld.com/optics/article/16562090/tsunami-in-japan-disrupts-flatpanel-display-and-related-supply-chains)), and also logistics was disrupted occasionally (e.g. in 2021, [the Suez Canal incident](https://www.bbc.com/news/business-56559073)).
+
+With Covid-19, disruptions were across the board, as the "Asia worldwide factory" (not just China) shut down.
+
+Covid-19 forced plenty of re-assessments on the organizational and financial side of all types of supply chains, as a side-effect of changed operational realities, both on the obvious risk prevention (ability of the supply chain to sustain disruptions) and on visibility (i.e. having extended access to all the supply chain status, not just on the most immediate upstream and downstream).
+
+All of which require redesigning organizational structures, including the contractual side (e.g. disclosure of potential competitive information, and restrictions to the use of such information, such as a "Chinese wall" to avoid being used in price negotiations).
+
+Democratized technology implies not just giving access to it at a lower cost entry point, but also considering that, in our times, this implies that technology might evolve outside the typical constraints of a professional supply chain.
+
+In the future, if knowledge critical to innovate will be diffused, the "production centres" might be spread across the globe, and single-sourcing could become next to impossible, to be replaced by a dynamic adjustment.
+
+A professional operator purchasing, say, a set of vehicles, would not not modify them in such a way as affect their level of security, without clearly stating the alterations done.
+
+If (s)he were to do so, could expect then suppliers to turn down future orders, as each damage generated by a modified vehicle might generate significant negative publicity for the brand, which would last also after the supplier were to be proved to be not accountable for those damages generated by alterations.
+
+When diffusing technology across a wider audience, there are two elements: they do not generally adopt the mindset of a professional supply chain operator (whatever the supply chain type), and might identify, along with other consumers, further product evolutions, up to designing and delivering new product variants or even services.
+
+Years ago, beside the "consumer" an additional category for many consumer products became "prosumer".
+
+With the current technology-adoption trends, it is becoming increasingly common to have some consumer evolve products that they purchase, and share these adaptations: call it a kind of adaption of the concept of "fanmovies", or "cosplay"- but extended to products and services.
+
+While many customers might not have the resources or expertise needed to fully evolve a product, it is easier now to get access to those who do, and, for virtual products or products that require moderate equipment (e.g. clothing), evolving might become more common.
+
+Once you democratize a technology, you actually delegate some rights: how to use it, how to integrate with other technologies or everyday activities, and how to transfer it.
+
+It happened in the 1980s with home-built computers and with the various "jail breaking", i.e. altering devices to add new features.
+
+Usually, this resulted in voiding the warranty.
+
+Again, this "all-or-nothing" warranty approach is functional, but simply barrels down accountability.
+
+Or: if somebody modifies say a monoped, and that monoped has an accident, it takes a while before it is identified that the monoped has been modified.
+
+Meanwhile, brand credibility might have already been affected by negative press reports.
+
+And, as usual, many remember a negative press report, but discount or ignore a later rectification.
+
+When I was working in my first employment in 1986, the mother company of my company had a burgundy book containing the "ethical standards", as it was expected by a company originating from the audit industry.
+
+Whenever I worked across the industries I listed above (and others), there were expectations of what would have been "normal behavior" (i.e. ethical standards) embedded within operations.
+
+Compliance helped to enforce them, but sometimes e.g. OECD issued guidelines long before others converted them into laws, regulations, etc- by consensus, developing new standards of ethical behavior applicable to major industrialized countries- and all their suppliers.
+
+Democratizing access to technology to the point when even altering it is within reach of anybody requires building some intrinsic safeguards, as you cannot expect all those involved to have either the mindset, the structure, the resources to actually implement layer upon layer of ethical standards.
+
+You might modify a smartphone so that it allows access to some options, or to add new sensors, but if you modify a device that interacts with the environment and could generate issues (including a smartphone operating on restricted frequencies), the "core" of the device should refuse to provide service.
+
+Call it "intrinsic security", or "security by design": if the "core" of your device has been approved for public use under a set of constraints, should check, if feasible, that those constraints are respected- or simply deny access to the basic operations.
+
+With physical devices, or physical-digital devices such as smartphones with sensors, or self-powered (and potentially self-driving) devices (including toy robots) this could be feasible.
+
+Anyway, once you open the door to alterations, the potential interactions are unknown.
+
+Hence, while in professional supply chain (physical or virtual) you can have expectations of codes of conducts due to the expectation of repeat business (and also, in many cases, of specific compliance frameworks), when technology is diffused you have to obtain greater visibility on what you embed in your (physical, virtual) products, or how your products are integrated into their delivery environment.
+
+In some industries, there is actually a kind of "jail breaking" that evolved into a buy one, replicate many- e.g. in fake airplane spare parts, or fake electronics.
+
+Therefore, while consumers adapting products that they purchase and, along with other fans, sharing the adaptations, might still be considered a potential source of issues on their adaptations, the potential and need for "intrinsic security" is not something for tomorrow- has been already around for a long time.
+
+Only, in the past you had to search for production facilities, now, notably on virtual products, adaptations might end up as subsystems or components of new products or services (look at how many AI companies really are just an interface on ChatGPT and others).
+
+As you can see, so far did not talk at all (except at the beginning) about the looming giant, ChatGPT and its siblings, but presented my case for "embedding" ethical standards within the technology.
+
+Why? Because, as I wrote within my essay on Kaggle, many still identify ethical standards as something that hopefully is ex-ante, but really is ex-post: an approach similar to what I saw in Italy in the early 1990s on ISO9000 (quality standards), where many companies added those requirements "on top", and obviously saw them as an additional cost.
+
+In my consulting activities on cultural and organizational change, instead I proposed to add ISO9000 as "ex-ante", e.g. as part of the business case.
+
+And, nowadays, would consider to extend that to ethical standards and sustainability: in the 1990s, those could have been classified as "intangibles" (and I remember decades ago designing for a customer a Vendor Evaluation Model that consider both intangibles, i.e. qualitative criteria, and tangibles, i.e. quantitative criteria).
+
+The convergence over the last few years on sustainability, that resulted in the new IFRS standards linked above, actually expanded our culture on sustainability, adding concepts quantify also some qualitative elements.
+
+Sustainability nowadays is not just about the environment- it is also about social impacts and governance: which are, just by chance. elements of ethics.
+
+<b>Shifting to continous infoglut since the 1990s and its impacts</b>
+
+In the early 1990s, when I registered for VAT for the first time in Italy, after leaving my first employer, found myself shifting from having many customers "filtered" by my employer, to having many customers through prior contacts to juggle and administer all by myself.
+
+As they covered different industries, it was interesting, as my focus was on cultural &amp; organizational change (the "soft skills side") and business number crunching (the "hard skills side"), to understand the dynamics and key relevant data in each industry, as I had done before for my employers on countless projects, but having to cover not just the operational side.
+
+I ended up, also before Internet and before mobile GSM (I purchased my first GSM I think in 1995, when the service was activated in Italy- a Nokia), with massive amounts of information to keep up-to-date on, and to organize and structure.
+
+In mid-1990s, created as a test an PC app called "InfoDist", based on the concept that (already then- it was pre-www) we had a case of "information gluttony", and therefore having a curated subscription service might be useful.
+
+What I called infoglut was the concept that organizations collected information "just in case".
+
+But, probably, I wasn't the only one to observe from State and companies a compulsion to collect information only because it was now feasible and storage capacity was increasing while lowering its cost-per-unit.
+
+Already in the late 1980s, working on creating Decision Support Systems for financial controllers and similar, discussed in various industries the evolution from having few data items of uneven quality unless you waited for the accounting closing, to starting to get a stream of data too large to process manually- albeit still with data quality issues.
+
+As an example: imagine that you follow that "lean" approach that described above and ask sales managers to provide their own forecast for sales in their own region or product line.
+
+If you do not create a shared consensus on what you are looking for, you will get (as I saw in some cases) the mindset of the sales manager "projected" within forecast.
+
+Some would give a forecast that they can exceed (and get a bonus on top of the OTE- on target earnings); some would just repeat the same numbers, but add what higher up has been expected for next year; some would consider seasonality (in some produts/services, summer has not the same turnover as winter); some would create numbers apparently derived from some elaborate model linking to data on economic trends; etc, etc.
+
+Then, some would give a yearly figure split in 12 months, others might again adopt a seasonality, others might adopt a different approach.
+
+In the end, your model would result in the consolidation of all that data, and then you would just need to compare the different forecasts to understand the real picture.
+
+Or: data-driven decision-making relies first and foremost on quality data.
+
+And requires a shared set of "ethical standards" on data quality: no padding, no fiddling, no tweaking- and if you have to resort to any of that, you have to clearly document the choices made, so that your data are comparable (and their constraints can be factored in as "bias" while processing them along with other data).
+
+If you want to retain accountability and responsibility, you need to have quality data provided by sources that you can held accountable on the data they provide, notably if their data generate then an organizational feed-back cycle that feeds further decisions.
+
+In the 1990s to 2000s, the heyday of data warehousing and business intelligence, I saw many reporting models going up layer upon layer, and adding in each layer some interpretation built on the assumption that the previous layer shared the meaning that they assumed.
+
+Fine if you work with data certified operationally and tracked down to the sources, but otherwise... you risk making choices on assumptions on assumptions, and each layer of interpretation potentially adds further distance from reality.
+
+Yes, also without blockchain you could manage "traceability" and "lineage" across data, including your own supply chain, if you have an enforceable agreement and data exchange: in the 1980s, I remember EDI set up by the main customer, with the nuisance for smaller suppliers that had to provide to each large customer different data, until there was a gradual convergence.
+
+Anyway, quality or not, increasing the volume and frequency of data generated the need to alter decision-making processes linked to data, and probably also the associated timeframes.
+
+I remember, almost a couple of decades ago, at an InfoSecurity in London, a presentation on field data network in military operations: operating at 9600 baud, to be more resilient.
+
+Therefore, already then there were jokes about soldiers who had to add the weight of batteries for all the devices that they had to carry around, and further jokes about bidirectional live data feeds that could actually have those on the field spend more time interacting with bosses observing live, than on doing what they were supposed to do.
+
+Information density increased substantially, and, as in many other technologies, research for military purposes, having often less constraints on time and resources, generated material and concepts that could actually be useful across a variety of industries.
+
+Many consider NATO a military alliance- but, as shown in the interactions after the invasion of Ukraine, it is a political and military alliance, as was well summarized in a book derived from a BBC series, [From Plato to NATO](https://www.librarything.com/work/687195/book/79479753).
+
+Digression: not just on the political side, also on the military side would not make much sense to give membership to a country during a war (it could de facto invoke the intervention feet-on-the-ground of NATO at the first next attack on its own territory), NATO is not Ancient Rome, and Russia is not Carthage.
+
+On both the political and military side the continued shift of materiel could generate issues, as the shift isn't from just from warehouses or factories, but also from existing positions within the alliance.
+
+Do not forget that one of the "rules" of NATO is that military has to be under political control- hence, it is a political and military alliance with a joint military tool within a portfolio of policy choices, not outside of it, a tool harmonized through continuous exercises.
+
+While EU and USA supported Ukraine against the invasion, de facto the continuation of the conflict is starting to add questions about control, strategy, and ends.
+
+And being the infinite capacity provider of a strategy set by somebody else is quite unusual.
+
+Why this digression?
+
+Because, decades ago, while working on Decision Support Systems (1980s-1990s), found useful a [mid-1980s book, "Intelligent Decision Support in Process Environments"](https://www.librarything.com/work/11678310/book/155253376), published by Springer.
+
+And routinely found other research material published under the same series, or from other organizations, that had been financed by that source.
+
+I still have a hardcover copy of that book, somewhere in my boxes: last time I had a look at it over a decade ago, it was still interesting.
+
+Technology is not neutral: as I said in the 1990s while discussing ERP with potential customers in Turin on behalf of a partner, anything that covers one or more processes end-to-end in reality carries along a culture on how those processes should work- you have to choose between adapting that culture, or adapting to that culture.
+
+If you just adopt "as is" (in the early 2000s I heard claims such as "we will deliver and configure your ERP in 2 months"), assuming that nothing your side or its side has to be changed, you will be in for a few expensive surprises.
+
+Increasing the volume of data and the number of points of data-creation and data-transformation (as any consumer of data could then embed them into processes that result in data that is "broadcasted" to others) generates further need to have not a single knwoledge or material supply chain, but an interoperable supply chain, where each transition comes along with a "manifest" that describes the "lifecycle so far" of either material, data, or both (in case of physical products that embed a data element).
+
+As I wrote in a previous section, there is a difference between we humans and sensors: both on the "horizon" (we can have a more systemic view, what is called "generalist intelligence", sensors are specialized), and the quantity of datapoints that we can process per unit of time (we work by exception, sensors potentially get everything and have to be instructed to "filter").
+
+With some side-effects, if you consider the integration of people and technology.
+
+<b>Delegating attention span to devices: the ethical side of technology</b>
+
+Since the 1980s, whenever I saw the data volume increase, usually it was in corporate environments, as until recently disseminating data was prohibitively expensive for private citizens.
+
+I already shared [within articles and a book on GDPR](gdpr) observations on the data privacy impact of our pervasive computing, but again the "privacy by default" and "privacy by design" are structured and targeted to corporate (or anyway organizational) structures, not to individual private citizens whose smartphone or devices act as "collectors" and "relay stations" for data derived from the interaction with other smartphones or sensors scattered around.
+
+The democratization of technology implies that any smartphone will soon have not just an AI component, but also an AI component that can be customized by users using a simple intuitive interface, as it is now with toy robots that cost less than a mid-range smartphone (300-500EUR).
+
+Therefore, willing or not, it might actually become trendy to have Edge AI turn into what long ago was a game for "script kids"- "hacking" sensors.
+
+Actually, few years ago experimented using my own smartphone (an LG G6, recently LG stopped producing smartphones) as a device, and processing online [using Edgeimpulse.com](https://edgeimpulse.com/): no hacking, just using "as is", but then conveying the information I produced by interacting with the sensors in my smartphone to an online ML model.
+
+And if you want to make also your home "smarter", there are sites such as [IFTTT.com](https://ifttt.com/)
+
+Incidentally: both have also a "free" tier, that you can use both to learn, and build some minimal applications that then you can integrate with your own smartphone or devices.
+
+In the future, this could generate a "layer" of applications at the local level, e.g. imagine having sensors locally, sharing knowledge about those sensors, and then creating a community around an app that consider those sensors as part of your own community.
+
+The point being: will those micro-local communities built on the integration of global technology with local data (yes, glocal) and local needs become close communities, or integrate with society at large?
+
+And who will define, monitor, enforce behavioral standards, so that also occasional visitors could get a predictable behavior? Or will each sensor have to come with an embedded "manifest" broadcast to any device passing by, a kind of "contractual agreement"?
+
+But there are other potential consequences of the democratization of access to technology.
+
+I joined Facebook by invitation right before it was open to anybody, and not just anymore restricted to its source community.
+
+I joined at the same time another community, in Eastern Europe, where I had been invited a while before.
+
+Over the years, I joined (and left) others, equally by invitation.
+
+The interesting element was how, at the beginning, they all had some distinctive element, also if basically providing the same mix of features.
+
+A key element that Facebook got us used to is "tunnel vision": the more you read about something, the less you get anything outside those "boundaries".
+
+I tried recently to see if it is still there, despite all the changes- and it is: just try commenting some of the suggested posts of videos, instead of ignoring them, and you will get more and more of them.
+
+Yes, currently Tik-Tok or Instagram or WeChat are quite different from each other- but their differences in many cases are based on different approaches to technology, e.g. the type of media or integration of tools, not just different uses.
+
+Somebody say that attention spans have been reduced by social networks such as Tik-Tok: frankly, as I delivered training to managers and adults since the late 1980s, I must say that I saw, in Italy first, then also in other countries, a contraction of the attention span well before 2010- starting, actually, in Italy in the 1990s, when private TV broadcasting became a main part of individuals' media mix, and imported in Italy the fragmented broadcasting peppered with commercials every few minutes.
+
+Smartphones, as I wrote above about map reading, added other elements.
+
+An example: when trekking, at a time had a GPS device, a compass, and various other devices, including lamp, thermometer, etc- nowadays, would just need my smartphone and a powerbrick (to keep the battery working).
+
+Collapsing everything into a single device implies also that you "delegate" to that device part of the cross-device integration.
+
+Also, you delegate to the smartphone reminding you of time, alerting you of specific potential issues (height, distance, potentially even weather evolution- you are just an app away).
+
+And, as I wrote above, you are actually removing serendipity from your life: therefore, if you get into a conspiracy theory stream, you end up being alerted notified of further conspiracy theories on the same line of thought.
+
+In the end, the device gets delegated also part of your attention span, and once it becomes an everyday component of your life...
+
+...the relationship of many with their own smartphone is closer to something straight out of Hobbes Leviathan, a limb (better- part of your brain), than just consumers using a device.
+
+Probably, a direct consequence of the number of apps we delegate tasks to, while within independent devices we still were our own "backup facility" if the device failed (or we forgot it at home).
+
+Adding more "intelligence" within devices will simply for many increase dependency- i.e. becoming unable to carry out some tasks unless have access to the smartphone.
+
+Or whatever device will follow: [this device for example](https://www.allaboutcircuits.com/news/ex-apple-engineers-develop-disappearing-computer-pin-size-device/?utm_source=All+About+Circuits+Members&utm_campaign=ca0aac945f-EMAIL_CAMPAIGN_2023_07_13_02_20_COPY_03&utm_medium=email&utm_term=0_-b0edb25bef-%5BLIST_EMAIL_ID%5D) makes a computer invisible, but, courtesy of AI</a>, the more you take it along with you, the more is supposed to learn about you and adapt to you.
+
+Now, consider integrating that with the "glocal cybercommunities" I described above, along with the previous (short) commentary of behavioral change induced by social network.
+
+Probably your remember the discussion about Cambridge Analytica, but that was a "discrete" event, instead consider doing the same continuously, with the feed-back from the interactions being integrated within a new decision cycle.
+
+Influencing choices can become a continuum based on the "mechanics" of the interaction, and delegation of trust that would be associated with a local community: would just need to shift the balance of the information provided.
+
+And this brings the ethical dimension into play.
+
+If altering the data mix were to alter the behavior of an individual community, what would be needed to avoid distortions, is to disseminate not just technology, but also an associated framework of reference.
+
+Anyway, this is an old issue with science and technology (and any human development): there are still those who consider that science and technology can be "neutral", but their use and their development always imply choices.
+
+The difference would be that, with AI at the community level, the technology itself can evolve (as models do evolve), and can be influenced by "biased" information.
+
+Or: democratizing technology in a world full of sensors (at least in urban areas, the so-called "smart cities") could turn the human-sensors environment into a new form of techno-biological social organization that, eventually, could be unable to live indipendently.
+
+<b>Techno-biological society as a continuous experiment</b>
+
+Experiments always integrate the potential for failure- and, actually, it has been a mantra for few decades "fail early, fail fast".
+
+Or: minimize the cost of failure, and try to maximize what is learnt by each failure.
+
+If you look at just a decade ago, AI was still something requiring resources out of reach of even smaller companies.
+
+Nowadays, there have been "openAI" implementations able to reach a performance comparable with ChatGPT that, courtesy of new techniques developed through experimentation, such as quantization (a technique to compress, [a technical description is provided here](https://medium.com/intel-analytics-software/effective-post-training-quantization-for-large-language-models-with-enhanced-smoothquant-approach-93e9d104fb98)), so that some models claim to be usable on a modern notebook computer (e.g. [see gpt4all](https://gpt4all.io/index.html), which runs on Windows, Apple, Linux).
+
+The discussion above about "glocal cybercommunities" could sound far-fetched, almost utopian- but, in reality, they are within economic, technical, and social reach.
+
+With a value-added: would allow to be "connected" while physically living within the community, removing the current increase of physical separation, which is based almost on delegation to technology of human interactions.
+
+But that discussion was also to again reinforce the concept, as in the previous sections of this article, of the quality of data (and un-biased data).
+
+We humans are prone to introduce biases within our selection of data, as we are unable to process all the data in our environment, and must discriminate.
+
+Technology so far often has been based on "islands of advance", not a systemic view.
+
+There is a short book that found by chance years ago along with other used books, and re-read today for this article.
+
+It is a "digest" of bits from Kant (not from his three main books), which covers themes that could be actually relevant here.
+
+The title? "Kant - La philosophie de l'histoire - les origines de la pens&eacute;e de Hegel" (published in 1947 yes, in French- sorry, did not find an English version)
+
+The content?<i>
+1. Des diff&eacute;rentes races humaines2. Id&eacute;e d'une histoire universelle au point de vue cosmopolitique3. R&eacute;ponse &agrave; la question: qu'est-ce que 'les lumi&egrave;res'?4. Compte rendu de l'ouvrage de Herder: 'Id&eacute;es en vue d'une philosophie de l'histoire de l'humanit&eacute;5. D&eacute;finition du concept de race humaine6. Conjectures sur les d&ebuts de l'histoire humaine7. Sur l'emploi des principes t&eacute;l&eacute;ologiques dans la philosophie8. Le conflit des Facult&eacute;s
+</i>
+
+Curious, isn't it? It was a book published just two years after the end of WWII, but the themes are those that we are currently being challenged with.
+
+As shared above, out techno-organizational structure is still based on concepts derived from the idea that all the operators within it share the same concept of "normality"- which was probably true when technology was expensive, complex, required significant physical infrastructure, and was knowledge-intensive.
+
+Today, to build a device, you do not need to have a Ph.D. in engineering.
+
+And to adapt, repair, modify an electronic device you just need some basic skills, an Internet connection, and... to find the right YouTube videos.
+
+To learn a new skills involved in modifying its "logic" (software), you used to have to learn languages etc.
+
+With ChatGPT and its siblings, anybody can actually learn a different way to express requests using everyday language, experiment to tune, and then get something that would have required sometimes day of research or teams of experts.
+
+Yes, there is still the element I wrote above.
+
+We humans are inclined to work and expect deterministic answers, while this tool still often are on a probabilistic approach- i.e. you do not get twice exactly the same answer, and actually an answer that would require deterministic content such as a list of books, movies, or event the solution to a mathematical problem or software source code/step-by-step instructions to solve a specific problem could be a little bit off-the-mark.
+
+But this could improve in the future.
+
+What I found puzzling, from an ethical perspective, is how many try to define evolutions of Asimov's "Three Laws" (originally for robots), and adapt them to AI, not just our current specialized or probabilistic AI, but also a futuristic "general/generalist AI" able to really compete with humans on any subject or endeavour.
+
+I am afraid that the genie left the bottle, and invalidated the "Three Laws".
+
+If we have already autonomous AI able to make choices adopting a "what is best" approach, including autonomous AI-powered robots supporting battlefield operations, we already embedded in their learning the violation of the first law, i.e. not harming humans.
+
+Humans- not just "friendly humans", "allies": AI, the old "your terrorist is my freedom fighter" does not apply.
+
+Notably if then you have to unlearn (something we humans are still able to do) and, as in many times across human history, yesterday's ally becomes today's or tomorrow's enemy (or viceversa).
+
+Therefore, integration within the "glocal cybercommunities" could suffer from different concepts of "ethical" carried along by techno "visitors" or "expats" or "migrants", who would challenge existing assumptions.
+
+Future AI might evolve and adapt as we humans did since millennia, but, so far, most of AI is layering, not learning and unlearning or relearning as we humans do.
+
+I wonder all those petbots at 300-500EUR able to learn by interaction with their human owner (a kind of 2020s tamagotchi) how will influence their owners, and how will affect their ability to unlearn (better, to refocus and recontextualize learning).
+
+We area already witnessing an increase in the number of interactions with technology.
+
+When I was living in London 20 years ago, I remember reading that any London-dweller was unwillingly interacting with hundreds of cameras each day.
+
+At the time when the "congestion charge" zone was created, the first "smart" cameras able to read license plates were actually a bit dumb (as "smart bombs" of the time).
+
+Decades later, I would expect at least the potential of a continous integration between those camera with backoffice systems, as was shown in a test a while ago of finding somebody in China courtesy of cameras and devices.
+
+We need to associate the continuous evolution of technology with the continuous evolution of oversight.
+
+And this is where actually philosophers and technologists leaving their ivory towers and obsession with publishing quantities and getting quoted by often playing the "smart ass" approach in titles and content (or: highly quotable content) could become useful.
+
+Working as archeologists and cultural anthropologists in the field, interacting with developing cybercommunities.
+
+And then, helping generalist political and policy decision-makers to see trends as they are, not as they are imagined in a self-referential continuous background noise.
+
+The usualy quick fix that many will offer is licensing, or restricting access, or other typical "I do not understand, I cannot control, hence I forbid".
+
+But, frankly, this would deprive society at large of a potential jump ahead in collective intelligence integrating technology with humans, and not the other way around.
+
+Already algorithms, in my view, make too many choices defined without involving the audience that is the target of those choices.
+
+Part of the [EU data privacy GDPR](gdpr) regulation includes already concepts about that, but, until pre-empted algorithmically (i.e. algorithms that are vetted to avoid misuses), it will be again a case of "compliance ex-post"- not an ethical pre-empting of potential issues.
+
+Paraphrasing the book published a decade ago by Nate Silver ([The Signal and the Noise: Why So Many Predictions Fail - but Some...](https://www.librarything.com/work/12670479)), it is a matter of differentiating signal from the noise.
+
+And, on AI ethics, but really on democratization of access to technology, unfortunately the noise fairly exceeds the signal.
+
+My small contribution, as I wrote at the beginning, will be to look around, on a monthly basis, for more material to add to the ["living bibliography"](searchkaggleaiethics.php), including by adding not just more material I found that could be accessible to general interest (not just professional philosophers, technologists, or other specialists), but also additional search features that could make easier to find ideas worth developing to identify and pre-empty potential ethical issues.
+
+Without re-inventing the wheel: it is true that there are probably thousands focused on developing AI for each person focused on ethics, but still this implies that there are some already researching, thinking, observing, commenting- so, having to deal with scarce resources focused on ethical issues, it is better to leverage on what others did, than get caught into the "publishing cycle" I wrote about above.
+
+For now, have a nice week-end!

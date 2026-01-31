@@ -1,0 +1,251 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_20230515_article.png)</center>
+
+No, I will not talk in this article about the invasion of Ukraine and its side-effects, short/medium/long.
+
+This article is divided in two parts: _ part A: framework- defining some shared points of reference_ part B: application- few ideas on the Turin, Italy, EU cases
+
+Both parts share this preamble.
+
+In Italy the new government (basically operational since November 2022) has completed another round of "spoils system" appointments (it will take a while to have the full effect in place, as in Italy de facto that extends vertically and horizontally).
+
+An ongoing bipartisan debate is gearing up to get back on track on the Italian side of the EU Recovery and Resilience fund (henceforth RRF), the Piano Nazionale di Ripresa e Resilienza (know in Italian via its acronym, PNRR).
+
+Shared in the past material on the genesis and development of the latter both on this website ([e.g. this is a shortlist of articles I posted around the subject](search.php?tag=pnrr)), on GitHub ([see this repository](https://github.com/robertolofaro/pnrr)), and on Kaggle ([few datasets](https://www.kaggle.com/robertolofaro/datasets))- as well as on [my Facebook](https://facebook.com/robertolofaro) and [my Linkedin](https://linkedin.com/in/robertolofaro) profiles.
+
+Yes, there is the usual barreling down to the next Government of the issues, and recriminations betweeen the incumbents and their precedessors of who is responsible for delays, plans, etc.
+
+But, frankly, the key issue is: the lack of structural continuity says more about the way the Italian State and society are organized from a cultural perspective, than about this specific issue or series of events.
+
+Or: we are still tribal, and it is still elusive, for us, to be able to develop a plan whose implementation implies looking beyond the current electoral cycle, or even the current balance within and between tribes from the perspective of the current context.
+
+Gone are the times when we built cathedrals- at most, we routinely shuffle chairs on the deck of a Titanic whose iceberg is, luckily, akin to "Waiting for Godot"- it never arrives.
+
+The theme of this two-parts article will be change, integrating current technological trends and some of the potential social and business impacts.
+
+And, of course, a bit of personal elements, to show an example of, as in all my articles, both past, present, and future choices.
+
+As my framework is obviously linked to a context, not just theory, a context derived from experience, observation, study, and collecting cases.
+
+The sections:
+
+<b><i>part A: framework- defining some shared points of reference</i></b>_ contextualizing a personal Weltanschauung_ knowledge-sharing as asset-building_ changing cultures is not painting by numbers_ the Lego(tm) brick of a positive change_ keeping the knowledge stock operational<b><i>part B: application- few ideas on the Turin, Italy, EU cases</i></b>_ experts, tribes, and continuous learning_ tribal/vertical events and systemic needs_ techn&eacute;, technology, and technologists_ space, the new frontier: inside and outside_ it takes a Trantor, not a village_ publication announces
+
+<b>Contextualizing a personal Weltanschauung</b>
+
+As you probably know from previous articles, "systemic" and "contextualization" are two of the recurring themes in my articles (and [books](https://robertolofaro.com/published), and [datasets](https://robertolofaro.com/datasets), and posts on [Linkedin](https://linkedin.com/in/robertolofaro) or [Facebook](https://facebook.com/robertolofaro), [Twitter](https://twitter.com/robertolofaro), [YouTube](https://robertolofaro.com/ctr-channel), etc.)
+
+It comes through cross-disciplinary and multi-cultural experience, first personal, then political, then in the Army, and finally in business (the latter since the 1980s).
+
+Since as long as I remember, I have been used to study for extracurricular activities during the summer, and even in parallel to my business activities, developing some "exploration" projects (to quote Feynman), notably after each mission that included significant knowledge updates or added new items.
+
+I am neither in the military nor a politician nor a diplomat, and business-wise my experience was first in IT on cross-domain processes.
+
+Starting in 1986 (will ignore what happened before- read previous articles): procurement in automotive and general ledger in banking, then a string of projects/models on controlling, management reporting, decision support systems across various industries and interacting with senior management to extract their needs, identify what now we would call Minimum Viable Product, phase-in the development, and use the experience from each iteration as our brain might do whenever there is something new based on existing patterns- but working directly with them, not just delivering a product.
+
+Or: often, it was a matter of working under uncertainty (["the fog of war"](https://en.wikipedia.org/wiki/The_Fog_of_War), an interview with Robert McNamara, is one of my favorite documentaries), extending both to the availability of the resources and the context where the activities were to be carried out, with a continuous adjustment.
+
+The approach was therefore: start, observe the results or where the results are heading to, increase/decrease and deliver a new iteration, until either you complete or find a new starting point, a continuous business case definition and refinement.
+
+A starting point that sometimes includes also "pruning" what you delivered in the previous round: if you really explore, your exploration usually adds more knowledge, not just confirmations, and it happens that you have to reassess, restructure, rebuild- or simply clear space from the results of prior misconceptions, following the new information you obtained in your "exploration".
+
+Not really rocket science- just: you need to be willing to start from the basics of each business domain each time, both new ones or old ones you have been away from for a while, and humbly read/listen before you start "connecting the dots" and, probably, jump ahead.
+
+But I shared a bit about my past and publications plans across multiple articles in the past- I will just refer to a 2021 post, [BookBlog20210712 Publishing outline and channels for the next 12 months: a tentative plan](index.php?page=453)- where I also explained a little bit more about that "exploration" and Feynman concept (that is or is not really a quote from Feynman, is irrelevant).
+
+<b>Knowledge-sharing as asset-building</b>
+
+My concept since 2005, when I decided to halt the preparation for a return in Italy, and decided to relocate again but to Belgium by sharing an apartment, is simple, and built around the dualism of knowledge-sharing and asset-building.
+
+As did not know the Belgian market, actively started looking for permanent roles only in 2008 as project manager, after I phased out all the activities elsewhere.
+
+What I said back then was: project management has been part of my activities since the 1980s, hence will start from there (there were also other elements, but it was easier to explain that than other activities), as I like the activity and have been there long enough across different business and technological domains, and shift everything else to my publications.
+
+As I explained once in Brussels to foreign contacts, and few days ago locally, frankly I am not interested in titles per se: content matters more than a business card with a grandiose title (even my own business cards for my own activities generally had no title, and the latest one since 2018 just a QR code and my name and surname).
+
+Also when in the Army 1985-1986, as I was for few months the one typing the proposed monthly promotions list, I struck my name two times in a row from the list proposed by the 2nd Lts, and the third time was struck by the Lt stating "you will eventually appreciate that I removed your name from the list" (probably because I received as an official title while leaving the only role that I had never covered, and they were in for an equipment replacement- hence, if I had been promoted up to my old original 217A through two or three steps, I would have been recalled routinely).
+
+Why did I remove my name twice? I did not know about the "recall" back then, but simply I knew, as I was also the one preparing the daily services schedule, how inflexible was to have a higher rank (due to scarcity) or pigeonholed into a specialist role, and how much more flexible (I covered multiple roles) was my "PQ" (PQ stands for Perequazione Quantitativa- meaning: use as you see fit) official rank and title.
+
+Also in politics I had had titles, but, frankly, when I was told that there was a conflict of interest between my title of town secretary of the youth component and my political activities for a political party that was not within the shortlist of those accepted, I immediately resigned, to let somebody more adequate to be appointed.
+
+Moving to Belgium in 2005, it was a new start, that included recovering an old book about Dutch (that I had purchased in the early 1990s when I had a German girlfriend and we planned to move to The Netherlands, and I was about to accept a role as financial controller for a Dutch-French Italian company, also if I then decided not to sign the contract when in front of HR due to changes in the conditions agreed, and stayed on as a consultant part-time until 1997).
+
+Then, passed an A2 exam in one month (courtesy of German), and kept to self-study up to passive B2/C1 until 2011 (I still have the books).
+
+And buying a string of bilingual dictionaries Dutch vs. one of the languages I know, and then even translating in 2009 a Dutch grammar from English to Italian (have a look at the story on [NLSchap.wordpress.com](https://nlschap.wordpress.com), if interested- it was funny to find my translation freely available only as a reference book for an Italian university, over a decade ago).
+
+Something that was useful in 2015-2018, whenever in business I had to read, in Italy, emails or documents in Flemish, also on BPR activities.
+
+The concept was: learn before starting, relearn (and maybe unlearn) while doing, and re-assess everything when done.
+
+If you keep the reference points, eventually it will pay off and accelerate "connecting the dots" activities.
+
+<b>Changing cultures is not painting by numbers</b>
+
+I know that many think that when you work on cultural and organizational change and business development you can use some kind of "scientific method" that will solve it all, but, frankly, I started in political activities as a kid, and saw that the cultural and relational element affect and contextualize any choice with systemic impacts.
+
+No amount of method could replace a lack of contextualization.
+
+Often, you just need to read a form or a letter from a company or organization, to understand their real culture, not what is "trendy" and, in our [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) times, compulsory to communicate about.
+
+Personally, therefore, from 2008 focused just on project/program management and coordination activities (plus the associated number crunching, but not anymore business number crunching per se), and shifted everything else to my online publishing.
+
+This choice implied a repositioning- and lowered my reference rate to the reduced rate that previously had adopted only for Italian Government projects (I hold an Italian passport) in similar activities.
+
+Since I had to return to work in Italy in 2012, routinely I turned down many offers to... work for free under NDA (Non-disclosure agreement), replying always in the same way: if it is free, goes online.
+
+Flattering invitations to "pick my brain" on some ideas (generally, just a title of a mission they landed but were unable to deliver or even a newspaper article, or really something far away from a mere end-of-the-line last minute fix), but signing before an NDA have been a routine, in Italy.
+
+Actually, would need to write a book ranking from the puzzling to hilarious, to share every "tremendous offer" from Italy since I came on the radar after starting to live in UK and work in Paris and German Switzerland in the late 1990s, and even before, since I opened my second VAT registration in 1993 while I had already missions in multinational environments, despite being a mere 20 something freelance with no graduation . 
+
+As routinely quoted in the past, referring to the late President Eisenhower, planning is useful per se, also if the plan does not survive the first contact with reality.
+
+In my case, when [posted an article on my publishing plans in 2021](index.php?page=453), was one week before I started another mission where, again as in 2015-2018, had countless unpaid overtime that actually affected my private publication plans- but, as in 2015, my concept was that it was an investment in a potential "settling" within an interesting environment, and was also focused to better understanding yet another domain where I had not worked in for quite a while.
+
+I had had another mission in 2012 where I had much less overtime but charged it, as, in that case, assumed that it was a short-term assignment, as the initial agreement on conditions for a potential longer assignment was altered during the mission, and not in the direction proposed before it started.
+
+Anyway, my approach to overtime is probably different: in the early 1990s as a "cadre" within the Italian branch of a French company, negotiated with my first CEO a gentlemen's agreement: I had been contacted to work again on financial controlling and management reporting, offered to bring those services within the company, but agreed instead that I would use by "overtime bank" instead of being paid for that, and would use it to deliver my freelance activities.
+
+The concept being: paid overtime is taxed too much in Italy to make any sense, and recoving time is more interesting, if you do not have overtime each day, as you can then do something that either business-wise, or on a personal level, enables to avoid a tunnel vision.
+
+Then, I used overtime both for those additional activities, keeping alive skills that could be useful (and eventually were useful) also for my employer, and in part also to do something that then, in the 1990s and 2000s did often: de facto buy back some times to use e.g. to visit an art exhibition during the day when nobody was there, or just have a walk in a place you never visited before.
+
+But if there is a peak activity or a crisis, I have no qualms to do as I did once in my latest mission, i.e. starting at 6 am, and ending in the afternoon of the following day, while those onsite instead worked in shifts, and did similar overnight stunts also as PM in past projects, e.g. when suddendly there was the need to rework a budget, or carry out and document tests that the customer was unwilling to do, to allow the customer the following day just to do a "cherry picking", i.e. randomly select, and verify that the reported result could be replicated by them.
+
+In those cases, I dislike the concept that "all the team has to stay there": it is pointless- only those needed stay, the others have to keep fresh; so, sometimes, if the technical team was more critical and it was not-so-technical activity, also as PM worked overnight, so that they could do their work the following day- it is a matter of priorities and common sense, not of hierarchy or social status.
+
+Also if I was never workaholic, i.e. billing or working hours just to show presence- I was used in politics and the Army to work by objectives.
+
+As wrote years ago on [my profile on the now PMI community projectmanagement.com](https://www.projectmanagement.com/profile/aleph123), I am used to be called up (not just in Italy) to "recover" or "fix" projects or activities (and this was really the main focus of most of my management consulting missions, the project/program/change/vendor management side was just a matter of "tools to an end").
+
+But all the above inconveniences since the 2012 where just minutiae, in my view, as what matters is that it has been an interesting decade reusing my past experience and having the opportunity to dig into new material, where I worked on the delivery of multiple activities (and cross-checked that I was still able to work on multiple dossiers at the same time).
+
+Actually, it is a reason why, since 2017, kept following training also on SAP (the previous time had been in the late 1990s and early 2000s, as I had projects interfacing with SAP in the early 2000s, and also to do some product evaluation activities for partners).
+
+Since the mid-1980s, my two main industries had been automotive and banking, also if 2008-2021 in banking had only "potential"- the latest real opportunities to go permanent in banking were probably in Belgium in 2011, and in Germany few years ago, where my best result was...
+
+... to be for few months a reserve candidate.
+
+Nonetheless, kept an eye on the industry continuously since 1987, also after 2008, and then, as a test of my toying in 2019 with R, after few months with my own datasets, while looking for a public dataset worth testing on, found the first release of the ECB speeches CSV dataset.
+
+Something that evolved into a kind of free data-service that I share online, but was mainly to build a data source to support part of my writing activities- you can find it [here](https://robertolofaro.com/ECBSpeech)- it is a search engine by tag cloud, that then delivers lists of articles and links by date or speaker, and the actual article is linked to its source).
+
+It is interesting how things and communication did evolve 1997-2023, and seeing it week after week delivers an interesting perspective: it is 26 years long time capsule on European Union integration and change. 
+
+And even more interesting: how much in reality, if you work on the financial but also the operational side of companies, having in your organization somebody who keeps track of changes that could affect your business would actually be useful.
+
+No, I am not referring to myself- I am referring at using the source listed above, and others elsewhere, equally available for free, to assess continuously potential impacts, and share that assessment internally with decision-makers.
+
+As in the mantra about change that is in the title of this section, the critical element is "culture": I think that there should be a differentiation between those providing "distilled" information about general trends, and matching with your own organizational culture and socio-economic ecosystem.
+
+Hence, whenever working on change, my first choice with the customer was to also spot who, within the organization, could take over, an insider who could be that "pipeline" toward all those external sources, and contextualize them.
+
+Decades ago, subscribed to various paper-based newsletters to have that kind of "neutral" information, and then contextualize.
+
+Yes, being "neutral" often implies giving generic information "just in case": many of those newsletters often contained what I could describe as socio-political gossip, it was up to me to contextualize, reframe, and then share with my network within our shared business context.
+
+Nowadays, all this is easier.
+
+In the early 1980s, I remember being told a joke about one of those "browsing news and summarizing" that make ChatGPT sound hypersmart.
+
+The joke was that somebody wanted to receive all the news concerning the Italian President Leone- which, in Italian, means lion.
+
+Eventually, one of the newsclip delivered was a news item about... a lion escaped from a zoo. 
+
+So, humans are not perfect- and it is up to the humans on the receiving end to understand what is relevant or might potential affect your context, and foster further change.
+
+<b>The Lego(tm) bricks of a positive change</b>
+
+This section is written as a narrative, but is really almost a bullet list.
+
+If you want, you can quickly read it, and then try to extract a single keyword from each point in a bullet list, and insert specific phrases from this section as details for those points- consider it a reading exercise.
+
+Whenever change is discussed, "resistance to change" is not too far away.
+
+Personally, I think that resistance to change is increased by dogmatic approaches to change, that remind me often of Chaplin's "Modern Time".
+
+Change implies at least altering some points of reference.
+
+You cannot really claim that each and every change opportunity is going to deliver positives for all those involved, concerned, affected.
+
+But assessing starting point, motivations, potential impacts, and long-term impacts of the actual change is a good way to begin.
+
+And then to set up not just communication, but also a proper definition of the balancing of interests- this is what ESGs should actually be about, coping with reality.
+
+As routinely said in job interviews when asked about my motivation, also just few weeks ago, my motivation is first potential/content, then revenue, then location- both for a mission and full-time employment.
+
+I know that usually in Italy the priorities are the other way around, and recently even people in their early 20s and just graduated discussed about retirement as if it were the main target.
+
+Incidentally: and now as when I was 18, I do not plan to ever retire- will just change the way of working, and since the 1980s routinely saw that some "parallel" or "sabbatical" (i.e. between mission) project that I generated and completed ended up being useful for my customer-paid activities or activities with partners (albeit it made sense when I had my old rate- it was an investment in knowledge whose benefits would come later; nowadays, I prefer to share online to a wider audience).
+
+Today followed the last lecture on linear algebra delivered by professor Strang at MIT- retiring at 88 after 61 years on the faculty is impressive- and I remember seeing, when in Brussels in 2008-2009 started scouting for courses online, and until I was studying there, some material from various Yale and MIT- and following many years later, when back in Italy in 2012, long before started using Coursera and others.
+
+Continuous learning in many companies is considered a "functional" element, i.e. something bestowed on employees, but it should really be a mix, tailored to your own business ecosystem, between compulsory, provided (i.e. made available), on-demand (i.e. initiative by the employee).
+
+Increasingly, and even a "budget availability" might have an added value both for the company and talent retention- i.e. scouted for by employees, proposed, and self-acquired without any formal approval if under a certain threshold, again with the same mix of covering compulsory, provided, or on-demand (the latter being e.g. for courses that, while not relevant to business, could be exploratory opportunities, or just personal interests).
+
+The key element is that, unless you are in a protected industry or service (but even in those cases a bit of entropy can keep the organization alive), you need to provide an environment that allows both continuity and emergence, to avoid obsolescence and loss of competitive advantage.
+
+In a data-centric society, and with the resources currently available, while structural R&D bringing new products or services to the market should follow what makes their governance as a structural element feasible, idea-generation (and sometimes even prototypes) could actually become a practical and operational evolution of the old "suggestions box" that I read decades ago when I started in the early 1990s to read books about quality, Deming, etc.
+
+But this require also a degree of transparency and willingness to take on challenges- something that I saw in constant decline in Italy, since the 1980s.
+
+I think that it was over a decade ago since I first turned down requests from UK recruiters for contacts with Italian colleagues with experience and willing to relocate to UK.
+
+Why? Because after say 5-10 years working always in the same town, or even the same company, usually my Italian contacts gladly accepted the invitation to discuss a potential move, but was a waste of time for all those involved, and just useful to help them claim in their own enviroment that they were "in demand" (and maybe extract concessions).
+
+Always ended up saying that they had their friends, their town, their routine- and would not move.
+
+Another point in change is what I learned decades ago on the field about "change agents": can become catalysts to extract from all those involved more than they would be willing normally (or rationally) to do, but the change agent should always be careful about phase-in and phase-out, not just keeping the "focus" while ongoing.
+
+In the past, for example, even when there was no reason to stay, or had agreed to phase-out, managing the phase-out and its communication were paramount to minimize impacts, and transfer the catalyst role to somebody else.
+
+As an example, jumping forward to 2022, also if I saw already in January 2022 that was time to search for another mission, decided to keeep mum and wait few months to complete the delivery of a project for whose completion I had been hired in July 2021, to avoid that my resignation could affect the morale of the teams involved in delivery, then resigned and prepared to move on, while working on a new publication plan.
+
+Since the 1990s, I was told that as a consultant was unusual because did not try to expand business on a customer site at all costs, and because often even suppliers considered me so much part of the structure, that they assumed I was an employee or manager for the customer (in Italian, "aziendalista")- but, in my view, should be the ordinary approach: a consultant should be a temporary resource, not a permanent gap-filler, as otherwise the customer loses the ability to innovate and govern processes.
+
+Outsourcing too, in my view, would benefit both the provider and the customer (by retaining a sustainable innovating edge derived from knowledge of their own customer base) by having within the customer organizations somebody who has the knowledge and ability to liaise with the outsourcerer, and give a clear perception of the degrees of freedom and organizational strenghts/weaknesses/potential.
+
+My reply when I was told that was "aziendalista"? It is my role- a change agent is a mercenary on a mission, and of course wants to survive for the next one, but for all practical purposes must "feel" part of the structure to be credible, empathic and not just "fake it" as a manipulator, if there is no local resource covering that role.
+
+So, in my view, whatever methodology or framework you choose for your change governance, it should be clear the level of commitment and motivation that has to be sustained, otherwise those who can will start going ["arm's length"](https://en.wikipedia.org/wiki/Arm%27s_length_principle): change is not about observation and reports, it is about getting (figuratively) mud on your shoes while pushing the cart along with others.
+
+<b>Keeping the knowledge stock operational</b>
+
+To summarize, my concept of change is based on multidisciplinary experience across four decades that always included both the cultural and "techn&eacute;" element, the structured knowledge, and constantly reassessed the "knowledge stock" toward evolutions, preferably by involving both experts and published material.
+
+As I was told in Brussels when invited over 25 years ago to join an organization, their choice was for each discipline to have two representatives, to avoid a tunnel vision- I turned down mainly because I was based in London, and had already a plate more than full, with my activities spanning few countries.
+
+In my case, whenever feasible, I retained in the past multiple contacts across each discipline, plus published knowledge (and, sometimes, when received new material, asked feed-back to those who knew better, as they did with me until 2008). 
+
+Some that I coached or trained since the 1980s probably remember that I routinely said that training others is a good way to understand your own knowledge gaps, and fill them- talking in a caf&eacute; about anything is fine, if you can and want just to be a soapbox leader.
+
+If your aim is to transfer to others not just an impression of how knowledgeable you are, but also the ability to "own" and evolve that knowledge.
+
+My first litmus test is when those I train shift from "awe" to "dissent"- it means that they are connecting the dots in their own worlds and exploring new ways, asserting themselves, not just acting as a copycat.
+
+Yes, sometimes that dissent is preemptive and uninformed, but, as an audiobook language teacher, Michael Thomas, said in the first Spanish language course I followed, it is the responsibility of the teacher to fill that gap and have the learner understand.
+
+Why did I purchase a 50 GBP Spanish language audiocourse in London while I was working in Paris? Because I had just delivered in Madrid two presentation to business prospects for my American customer in Paris, and, during the presentation, as I catched a translator conveying the wrong translation from English to Spanish, agreed with those attending that they could ask questions in Spanish and I would reply in English+Spanish (recycling patterns from Latin and Italian with the words that they provided- at the time, I could read El Pais but never formally studied any Spanish).
+
+So, continuous learning in that case did cost just 50GBP and a working day: and it was a good opportunity to "fix" something I had just found lacking, at least to have the basic entry points, should another presentation be needed.
+
+Since 2012, I had the chance to see how Italy (not just business, also State and society) really "evolved" since the late 1980s to early 1990s, when I had had a "business tour" lasting few years working for the Italian branch of an American consulting company, and then for the Italian branch of a French consulting and business software packages company, and compare with what I had seen in business since the late 1990s in UK, France, Switzerland while living abroad, and accepted an invitation to relocate to Brussels in 2005, hoping to settle there (I discounted the effects of Italian interferences, mainly from Turin and Rome).
+
+Increasingly, I saw that the acceleration of our technological and business cycle affected first and foremost that "organizational memory" I routinely wrote about.
+
+I find laudable all those corporate academias that try to blend short-, medium-, and long-term knowledge within the organization, adding routine training: but, as I wrote in previous article, I still have somewhere in my files the brochures that Andersen in 1990 attached with the annual agenda, showing the staff distribution, listing how many people were actually focused on that "organizational memory".
+
+In our times, we can be more "lean" and automate various activities, and in many environments probably something even leaner would deliver a good balance cost/benefit: still, in most roles of coordination and management, communication and "organizational memory" should be part of everyday life, not just a patch-up done once a quarter, or once a year to check few boxes on a rating form used to decide careers and assignments.
+
+Also, the potential of technology could help a country such as Italy, where smaller companies, often family owned, lack the organizational structure (and budget) to develop such a structure internally.
+
+Imagine e.g. an organization representing many of them within the same industry adopting the same approach that decades ago was used in Italy to create the Centrale dei Rischi, i.e. a single databank collecting risk from across the banking (eventually financial) system at the individual level, and then reporting back to member organizations, with details about their own customers for their own positions, and less and less details for their customers having also positions elsewhere (to keep confidentiality) and overall exposure for potential new customers.
+
+Such an approach could help e.g. to create a ChatGPT for, say, the fashion or food industry, and then allow as "transfer learning" to put on top of that only what is proprietary for each company, so that the same "AI infrastructure" could serve many, allow them the benchmark and compare, but still retain a unique "our company" layer that would be not disclosed to third parties.
+
+The key element? Making accessible the ability to "teach our way", and, of course, an organization with resources and credibility available to represent an "umpire" for all the companies within each industry, without the risk of human intervention that could create issues about conflicts of interest.
+
+Anyway, this is just an example, and will serve as a link to the next part of this article- actually will start the next article with the above paragraphs, and look at more existing cases, and how then the approach could be used, integrating, as my motto says, "change with and without technology".
+
+<b>IN THE NEXT ARTICLE</b><b><i>part B: application- few ideas on the Turin, Italy, EU case</i></b>_ experts, tribes, and continuous learning_ tribal/vertical events and systemic needs_ techn&eacute;, technology, and technologists_ space, the new frontier: inside and outside_ it takes a Trantor, not a village_ publication announces
