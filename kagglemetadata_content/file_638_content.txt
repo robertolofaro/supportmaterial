@@ -1,0 +1,756 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260207_article.png)</center>
+
+This article is within the [Rethinking Organizations](index.php?section=rethinking-organizations) series, and it is focused on an evolution of e-government and digital transformation in the delivery of State services to citizens.
+
+It will start with the second part of the title, and develop then the first part.
+
+Why now? It has been more than two decades since wrote for the first time online on a public forum (my website) about e-government.
+
+As soon as WWW ([World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)) was released to the public in the early 1990s, as was on a multi-year mission on cultural and organizational change for a banking outsourcing and BPO customer, suggested its use, and eventually started introducing concepts such as converting the Lotus Notus workgroup into a "wiki" tool to reduce the number of unnecessary meetings: build up momentum and critical mass on a subject through quick interactions that are public and visible, allowing everybody in that thread to contribute and, when there is enough consensus on the need to meeting, do it.
+
+That approach to reducing entropy and increase focus was in the early 1990s, but I still see that that approach could be useful, as since then attended around Europe countless meetings (in person and remotely) that, frankly, could have been solved not by that disciplined approach built around a tool, but by a simple 2-paragraph email asking a simple multiple-choice question.
+
+Actually, if you worked with me since then, you heard more than once that I would like to add within budgets for projects and missions also the payroll cost of those meetings: project managers organizing routinely meetings with 50 people are actually operating on a shadow budget that often is only justified as a self-promotion platform, but subtracts people from operational activities.
+
+And yes, registered my first domain in 1997- not this domain with my name, as frankly started using my own name online really a decade later, and only because I needed to start looking beyond "word-of-mouth": not that mattered as, frankly, after my first job in 1986, even all the others employment or freelance roles across Europe (you can see a sample [on my CV](cv)) were through "word-of-mouth".
+
+The more you go that way, the more unusual (and useless for recruiters) your CV becomes- albeit my focus since the official beginning in 1986 continued to be on two lines: cultural and organizational change plus data for decision support, whatever it takes and whatever it means- working across all the sides of the demand and offer divide (from customers, to service and software vendors, to consultancies).
+
+As for e-government, shared a quarterly issue focused on e-government and e-governance within the e-zine on change that published 2003-2005 ([see the 2013 updated reprint](bfm2013)), integrating advice from the OECD to Member States, but also the guidelines for multinational companies.
+
+The former was about the advantages, the disintermediation (but also about digital divide), while the latter was about business ethics and keeping a market-based economy sustainable.
+
+It was a continued (and continuing) interest- e.g. while living in Brussels joined different workshop on e- something (from e-inclusion to e-health to e-participation)- look at this 2010 [RAND report](https://www.rand.org/pubs/technical_reports/TR673.html), as an example (yes, I was attending just the final workshop where a Delphi-like approach was used to produce the consensus; I was on page 133).
+
+Since I was made to return to work in Italy in 2012, I had for the first time since the late 1980s to deal almost on a daily basis with private and public bureaucracies (or their impacts) in my birthplace, Turin, Italy.
+
+Something that, if you have more than a couple of decades of experience working in multinational environments across multiple industries in few countries, often interacting with or advising management on data-driven cultural and organizational change, delivers an interesting collection of cameos.
+
+Will share more details about those themes within this article, but will also share recent material (late 2025 - early February 2026) from other sources.
+
+As wrote in the early 2000s while preparing a service to support local authorities in Italy: the knowledge-intensity of EU regulations and directives (the latter to be then implemented in national jurisdictions, the former immediately operational) fairly exceeded local authorities capabilities to deal just with keeping up.
+
+Nowadays everybody is talking about AI, and the piling up of advice, papers, reports, etc is certainly potentially useful to grasp the subject.
+
+The key risk? The current "wave" of digital transformation is generating further disintermediation, after the one delivered by web 2.0.
+
+The lesson from previous rounds of digital transformation in Italy (but not just in Italy) is that technology could increase efficiency but also add more sand-bagging and red tape.
+
+Vendors and think tanks routinely announce how faster cheaper better everythin will be, routinely gliding over the cultural and organizational change issues, anxious to sell technology and projects to show then to other prospects and customers to prove that they are the right business partner to build their own digital transformation.
+
+And the current crop of AI makes that even easier.
+
+With minimal training, really a matter of hours of learning and few experiments lasting at most few hours, anybody can receive (even for free) AI-generated material that sounds as expert advice.
+
+When interacting with citizens (physical and corporate and, soon, digital), often those on the bureaucracy side of the divide are supposed to "filter" following true-and-tried procedures, and cannot really assess what is produced.
+
+So, a formally structured document produced by AI with misleading information that does not really convey the real request could bypass filters and generate workload without necessarily helping those who used it to bypass filters in achieving their original purpose.
+
+We had recently in Italy also those who should know better (on the legal side: from lawyers to judges) that apparently jumped on AI as anybody else- their expertise did not filter the material generated by AI (e.g. the most blatant cases where when some non-existing precedents were quoted).
+
+The risk is that we can generate entropy faster than we can deal with its results, ending up with both sides (not just in law- in anything) generating mumbo-jumbo fast with just few keystrokes (formally "prompts"), akin to when in the USA some "paper mills" could generate patent applications of thousand of pages, counting on the lack of time availability on those processing them to bypass filters.
+
+In our times, we just risk the purpose being lost in the process: few superficial lines generating via AI a pile of misleading mumbo-jumbo that is then summarized by another AI to mis-represent the case to the shrinking number of humans actually involved, only to identify after some back-and-forth what really happened.
+
+Or: generating, not reducing workload, and reducing, not increasing efficiency.
+
+And, frankly, there are many offering to use the latest, resource-intensive AI to do what would require some basic statistical software (actually, even Excel, in some cases, would be enough).
+
+Were this not enough, an additional risk is that, as in previous digital transformation/transition initiatives, the first result will be shrinking payrolls by removing the most expensive staff- those who actually have both the formal and informal organizational memory, replaced by something trained on "face value" and "formal"- and will discuss the consequences across the article.
+
+At the same time, courtesy of technology availability, our latest digital transformation/transition trends in dealing with bureaucracies keeps taking for granted a continuously extending level of technological abilities on the user side, despite having to deal with older and older citizens (and, in Italy, on the business side, the endemic less than structured smaller companies that are focused on service or production, and cannot keep updating every few months to align with technology), including in bureaucracy.
+
+A while ago, in a conference was said that the average age in our public service was well above 50- and I had to interact with many over-30 graduates that, just few years post graduation, had assumed the "I already learned what I needed" attitude.
+
+In this article, will focus on bureaucracies in Turin and Italy.
+
+The table of contents:
+_ background: both sides of bureaucracy 
+_ theme1: bureaucracies in Italian history (and a bit of EU)
+_ theme2: introducing AI- an evidence-based narrative 
+_ theme3: the potential of AI- for State and citizens
+_ conclusions and next steps
+
+This time will skip the "preamble" section, as anyway the article sections have a narrative that is already visible within the table of contents.
+
+
+<b>Background: both sides of bureaucracy</b>
+
+If you search for "bureaucracy" on this website, [you will find 75 articles](https://robertolofaro.com/search.php?tag=bureaucracy), as of 2026-02-06.
+
+There were actually more, as bureaucracy was e.g. a key theme in many articles that wrote from 2008 while living in Brussels, and up to 2012, when started again living and working full-time in Italy, and of course part of my business activities since the 1980s- but maybe in the future will post again online some of the older articles in a different format.
+
+The reason is simple: as a kid looking at my parents with their own small activities between the late 1960s and early 1970s, I remember how many twists-and-turns were common back then, albeit had to wait the 1990s, when I had my first VAT registration in Italy, to see how it had evolved- and massively expanded.
+
+Yes, in the 1980s saw how bureaucracy was involved also in politics, administration and logistics in the Army, and then preparing the material to justify a budget for a project, as well as in the first two business projects (one a recommendation system within automotive procurement, written in COBOL mainframe, to suggest which supplier invoices should be paid; the other, a banking general ledger, again in COBOL mainframe), both involving a significant amount of bureaucracy automation.
+
+In the 1990s I was a freelance management consultant, but while most freelancers in Italy back then were really undercover employees out of the payroll, I had multiple customers, in Italy and abroad: too complex for an individual, too small to be charged what accountants charged small companies with multinational activities.
+
+Hence, I had to do what I do at the beginning (or even before) any mission: study applicable compliance and law.
+
+In tax law, even for a small fry like me, ended up, after two years as senior project manager / cadre / head of a business unit for the Italian branch of a French company (as employee), to subscribe to tax books with... weekly updates!
+
+Spent few hours each week just to read updates, verify if were applicable to me- so much, that eventually some friends within the accounting industry, when had occasional needs for information about multinational activities, asked me for points of reference, and in some cases even recently received requests.
+
+In the late 1980s, and this is currently relevant to AI, I remember a foreign colleague, while working to build decision support system models for controllers, Cxx, senior management, telling me of how for the mainframe version had as a customer an Italian group of companies that acquired the license, got the training, said that they were going to build a tax-planning model, and... always declined to show the model, as they made a massive and continuous investment to align the model to a continuous stream of tax law and regulatory changes in Italy.
+
+That software had the usual "scenario comparison and building" feature, but had two more that were useful- a "what if", allowing to change selected parameters across multiple layers ("dimensions") to see the impact, and, more important for cases such as that one (or investment models I worked on), "goal seeking": set a target on a specific variable, select where the convergence should be computed (which e.g. distribution channels, products, production costs, asset distribution, etc) by altering their value and wait- the model will make "rounds" to approximate your target by changing only what you asked, following all the formulas and consolidation rules.
+
+Actually, used those concept also for a bank, to build a model to be used to identify the staffing mix of new branches, based on a "knowledge score" assigned to both the branch and the different types of employees.
+
+So, both finance, manufacturing, marketing, sales, and HR could be helped with that crude, simple set of models (as sometimes a single model was not enough- you had to build a chain of choices) to budget, build, monitor, assess, and audit activities.
+
+In the early 1990s, some of the activities I did for customers of my employer were actually within the compliance domain- e.g. I remember that once delivered a study on the digitalization on laserdisc of some payroll information for a retailer with large shops around Italy.
+
+When was asked by the CEO about doing that mission on a "lean" footprint (minimize costs), I said- fine, but I do not know the Italian payroll etc except as a user- and he simply assigned to my team as a part-time expert the firm that was delivering payroll services to them.
+
+Then, when I moved to UK in the late 1990s, saw a different world: I do not know if it changed recently, but back then I received from my accountants the information provided by the State tax administration before the beginning of the tax year that stated what was expected to done the following year.
+
+Moreover, in Italy was used to pay ahead of time taxes to avoid penalties if my bank went on strike on the last day (eventually regulations changed, covering for that- but it was still cumbersome to prove that your bank had been on strike), as then for any delay there would be interest, penalties, etc, while reimbursements came later and only if you asked for them.
+
+So, was surprised when, after an initial payment of taxes, received a payment for few GBPs.
+
+And my accountant said that I had paid taxes ahead of time- hence, the same interest that I would have paid if I were to delay my payments, was the interest that the State paid me for paying ahead of time.
+
+A final touch: VAT reimbursements to a company that was fully operational (i.e. had income, paid VAT and taxes, etc) were generally paid a week after reporting (electronically- already in the early 2000s), not months or years later.
+
+Then, by working in France and German Switzerland while living in London, and eventually living also in Belgium, over the years had a chance to observe and listen about different tax systems and approaches to bureaucracy, not just in business matters but also as a citizen.
+
+And I kept the same approach: when moved to London in the late 1990s, studied that local tax system to understand e.g. the difference in real estate concepts vs. Italy.
+
+When, in 2025, explored the possibility of moving to France, purchased books and read books about the French Constitution and its reforms, as well as more mundane everyday taxes for a citizen, plus specific taxes for small businesses and freelancers (on the latter, I had already studied part of the French system while living in Brussels, as I had had some offers in mid-2000s to move to Paris).
+
+Eventually, when applying in Lyon for roles, had a significant rate of answers- but all negatives and quite fast, except few rounds that then went nowhere.
+
+Probably, the flip side of the "word-of-mouth", credibility but also the potential for interference from those who do not want a resource to leave (since 2012 in Italy, again I got all my missions really through word-of-mouth, also if formally some cases were via recruiters, usually appearing only when I received offers from abroad).
+
+Anyway, since 1990 also worked on the other side of bureaucracies, i.e. for customers- and made a point of always reducing useless meetings, streamline processes whenever possible, and reduce documentation: just because it goes electronic, does not imply that splitting a step in multiple sub-steps, each one with its own shuffling across an organization, makes sense.
+
+This is actually a side-effect of bringing in the XXI century organizations that still live and behave as if they were in the XIX: give them cheaper storage and processing capabilities, and they will expand both not to align with purposes, but making up purposes to justify... expanding storage and processing capabilities.
+
+In the early 1990s, I remember working as a methodology advisor on re-engineering an existing mortgage system: as the system had inherited the previous organizational structure that passed across centuries, each dossier had hundreds of pages, generated via computer, but that really mimicked the old process and old (manual) approval workflow.
+
+After an initial revision, the number of pages identified as still needed was 1/5 of the original.
+
+Whenever redesigning processes or proposing new organizational structures, I focus on proper segregation of duties to ensure that oversight is real, not just formal, and that each step (oversight or activity) adds value, does not just add a signature or formal check (as most formal checks, even before the post-2022 obsession with LLMs and GenAI, could be automated also in the 1980s- as I wrote above, my first official project in 1986 in automotive procurement was a recommendation system on supplier invoices payment- in COBOL mainframe, where actually reuse while writing the code some concepts that I had learned in my experiments with AI in early 1980s with PROLOG and LISP, but really on the design concept).
+
+For example, when, decades ago, a customer asked to have a look at how the Borsa Italiana rules and SOX could be considered, and to propose a process, as shared few days ago while writing about AI governance and oversight, my proposal was simple: define a process, steps, etc- but the oversight structure was reporting to the Board, not to the management.
+
+Again: quis custodied ipsos custodes- "self-regulation" produced countless damages to our economies, since the beginning of the XXI century, and proved that if knowledge and oversight rely on expertise available only in those overseen, oversight becomes a paper tiger.
+
+Also, there are some other potential side-effects, if digital transformation adds more and more layers of compliance just because it is easier to process on the bureaucracy side (all electronic).
+
+Bureaucracy reforms that are supposed to streamline and remove red tape could instead become the ultimate business freezer, generating avoidance of activities that could result in the piling up of unproductive activities to generate that information to feed into the electronic bureaucracy.
+
+Notably in a country where companies are small and lack organizational structures, and often have a handful of people taking care of all the administrative side in a company that might have up to few hundred employees, all focused on either production or sales and distribution with limited or no "slack".
+
+
+<b>Theme1: bureaucracies in Italian history (and a bit of EU)</b>
+
+I shared since 2019 commentary on how the regulatory drive in Brussels sometimes became a paper mill: sometimes well intended, sometimes just following "I know better" top-down approaches that are the usual attitude of imperial bureaucracies with no political accountability, but way too often ignoring the time needed to implement at a systemic level most of the changes across the European Union.
+
+Which include phasing out existing processes, activities, products- and phase in new ones.
+
+Plus: interventions to integrate social changes- but wrote plenty of articles about that, [the #EP2024](ep2024) series.
+
+Plus: often those reforms ignore the structure of supply chains, and how those additional steps would eventually fall on companies that are just a cog in the wheel, but are neither paid nor have the resources to add layers of compliance.
+
+As the title of the book of an American contact "We Meant Well: How I Helped Lose the Battle for the Hearts and Minds"- which once in while, recently quite often, happens with Brussels initiatives.
+
+Regulatory reforms should be top down, but after assessing bottom up, as otherwise are just announces that could actually backfire- as it was in Iraq and Afghanistan, but also how could be for the hope of further European integration.
+
+I know- a Japanese friend when praised the "ringisho" said that it is slow- but, frankly, within a 27-countries (and soon more) European Union, or in a tribal country such Italy, bullying into reforms is dangerous, as you lose contact with reality, and eventually could end up becoming, as in the joke from the "The West Wing", a leader without a following- just a guy taking a walk.
+
+And regulatory flip-flop, a current trend in Brussels also due to extra-EU pressures, is not helping.
+
+Since President Trump took office, the complaint that heard most often in Italy in events that involved companies was that all the changes generated a limbo.
+
+Companies that prepared for years to align, suddenly found themselves ready for constraints that their non-EU competitors did not adapt to, competitors that now have a potential advantage, as some of those constraints are in a limbo.
+
+Yes, routinely there are announces of hefty fines for companies that did not prepare.
+
+Frankly, most of those announces are useful just to allow the same companies to add in their communication how much they will need to set aside, or how they will have to halt business activities or paying dividends: a form of political pressure, if your shareholders include Member States of the European Union.
+
+Net result? A different form of lobbying to force yet another round of regulatory flip-flopping that, anyway, will not generate further investments in the EU, just make it easier to import from outside, offsetting those local companies that actually aligned with regulations.
+
+In Italy, this is compounded by the small size of most companies (e.g. read the book by Tamburi "Fare sistema in Italia", whose presentation saw in Turin at the Unione Industriale, the local branch of the Italian industrialists association, few years back).
+
+And another element: many of the large companies are formally private companies, but the State, after privatizations, retained more than a say as shareholder, up to having control on who leads what, and influencing the composition of the supply chain, and, of course, key appointments.
+
+Italy has a degree of "legislative and regulatory overproduction" that has been a trademark of my country also in the 1990s (read the previous section), often resulting on grandiose announces of reforms that anyway do not affect what is still left behind from past failures, and will take time to implement.
+
+If will ever be implemented: as, in Italy, at least since the beginning of the Second Republic in the 1990s, we had a routine of laws that were "skeletons", worth negotiations, discussions, voting in Parliament after a spirited debate (well, in recent decades, with any government, the debate phase often became almost optional), and even the obvious press conferences announcing the success of yet another legislative reform.
+
+With implementation delegated to bureaucracies- implementation that sometimes simply de facto rewrote the purpose (we call it in Italian "la manina"- the small hand), i.e. tribal choices decided the real direction of the law.
+
+Until, of course, another round of laws, regulations, etc amends what has not yet been implemented.
+
+Even the Italian Constitution has been only partially implemented- after almost 80 years.
+
+I must say: I do not know other countries, but since 2012 saw how digital transformation in Italy actually increased bureaucracy in many ordinary activities.
+
+Simply, instead of paper is electronic, and increasingly automated- but piling up more and more slicing of regulatory complaints.
+
+It is something akin to a "death by a thousand cuts", in Ancient China.
+
+Decades ago, while trekking in the mountains, met with a friend another fellow traveler from Lombardy (I am in Piedmont, just "next door").
+
+He described his activity, which was preparing the kind of advertisement objects that my parents prepared in the late 1960s and early 1970s for insurance companies branches and other companies.
+
+Basically, printing messages on plastic and on paper.
+
+Only: now, while he was working alone, he was required to have almost half a dozen of experts "on demand" but formally responsible of various slices of compliance.
+
+So, he was considering shutting down, as the fixed costs were becoming too high for a business that was, in and by itself, quite variable.
+
+And all this slicing and dicing does not affect just the private sector.
+
+Also public authorities, for various reasons, decades ago started a form of "privatization" that, while keeps services formally public, externalizes also internal processes to formally private organizations (including listed on the Italian Stock Exchange), and split processes across multiple organizations.
+
+In some cases, those new formally private organizations really belong to the same local or national authorities, in other cases instead are private companies created just to provide those externalized services, and private companies whose ownership sometimes in other countries would be questionable, as affects the separation between controller and controlled.
+
+The key benefit? Job creation that allowed in the past to overcome limitations on the payroll of local authorities, and the possibility of soft landing for beached politicians in posh positions and, in other cases, generated revenue streams for organizations and structures that formally should be counterparts of the public authorities.
+
+Generating a nightmare whenever a complaint is involved, as there is no end-to-end "process accountability".
+
+Curiously, for real private sector companies, this does not apply: you can externalize or outsource execution, but accountability stays with the company that has the relationship with the customer, as requested e.g. by European regulations and directives in specific domains.
+
+Albeit some larger companies in Italy are creative on that side, using the same approach of local and national authorities when externalizing: no single point of contact with full visibility end-to-end, and even bypassing regulations to generate revenue streams.
+
+And then lobbying for rules that align with their business practices- such as the recently announced concept of considering a communication delivered also if it was not delivered to the right address.
+
+Curious, when the information is available electronically, and used for any other purpose by the same main organization- but externalizing without accountability helps.
+
+Externalizing services from public authorities in Italy adds another layer of complexity: politics has to oversee, but we still lack proper segregation of duties and avoidance of conflict of interests.
+
+We are a long way from what was [said in Ancient Rome](https://en.wikipedia.org/wiki/Pompeia_(wife_of_Caesar)):
+<i>Caesar's response to the Bona Dea scandal gave rise to a proverb, "Caesar's wife must be above reproach". The phrase is used to highlight the importance of maintaining trust in public figures, and that those in positions of authority should avoid even the implication or appearance of impropriety.</i>
+
+In Italy, we are fond of creating layer upon layer of oversight- but we still lack basic application (and even regulation on) conflict of interests rules, needed to ensure that those layers produce the expected results.
+
+It is not really that complex: when I applied years ago for a role in vendor management at the ECB (the first time ended up as "standy" for six months while tried the first choice, the other one with the same criteria instead was dumped immediately), I had to read all the rules and regulations about conflict of interest- including requirements to be outside of the industry (banking) before and after, and the economic arrangement to cover for that.
+
+It will take time, and probably few highly publicized cases involving highly visible people, to actually at last have Italy become, on this side, "an ordinary country".
+
+Actually, there is a simpler way: if you follow that approach from Ancient Rome, you could actually pull out whenever there is even the potential of a conflict of interest or its appearance.
+
+Without getting into the Circus that was described decades ago, more than once, and in different domains: a Commission to decide who would get funding.
+
+The typical arrangement? Whenever a project was presented where one of the members would have had a conflict of interest, that member left the room, let the others vote, and the came back.
+
+Which would be a sensible approach, if you really cannot avoid actually getting involved in projects that would require funding by a Commission where you are one of the members.
+
+The only catch: what I was described was really a Circus- the one leaving temporarily knew that anyway the project would pass, as then other members too would have their own projects, and would leave the room to let others vote.
+
+So, instead of pre-empting conflict of interest by either pulling off from projects while being a member of the Commission, or simply declining an invitation to join it, what appeared as way to solve the issue turned really into a "you scratch my back, I scratch your back".
+
+Now, shifting to digital transformation, and letting aside for now conflict of interest as a concept and as a practice (will write about specific cases in the future), here too there are interesting cameos worth sharing.
+
+An example on what is public bureaucracy after digital transformation: I saw while becoming resident in Turin in 2015 that I could still register by visiting the office, as used to be in the past.
+
+You looked at the opening hours, went there earlier, waited in line, and eventually you could file the request.
+
+When switched apartment a couple of years later, there were a couple of layers and visits more to achieve the same result- and, instead of a new ID with the new address, was issued a slip of paper without any stamp or seal, to show along with my papers whenever needed.
+
+Luckily, I had just switched apartment within the same address and building block: otherwise, imagine crossing the border (or even having a police control in Italy), and showing papers with an address, then a slip of paper without any official markings stating a different address.
+
+When somebody else asked to become resident few months later, had instead to first find a spot on a digital agenda that was fully booked for months.
+
+How something that started as an ordinary event, registering, as otherwise you cannot e.g. sign utilities contracts as resident, became a hurdle that for some lasted months through different "digital layers".
+
+As far as I am told now is better- still, for both myself and others, routinely see activities that end in a limbo, or others that apparently take a life of their own- [you can read a couple of cases](https://leanpub.com/citizenaudit) in a book that published in late 2020- one across five years, the other across over 25 years.
+
+Actually: the latter is really still ongoing, and still allowing further curious cameos in process delivery emerge.
+
+A further request in April 2024 on that dossier, that nominally should have been completed in few months (according to the official information), has been, despite multiple requests, still WIP since then- almost two years.
+
+There is a silver lining, when you are used to work on process and organizational improvement, and something stretches across time: you can look for signs of change within the organization(s) involved.
+
+In 2024, initially you could just see that you filed it- no information on what was going on.
+
+Then, a software change allowed to see that was in progress but without description.
+
+Then, few days ago, saw how across two years a slice of evolution of transparency had gradually, complaint after complaint, produced results.
+
+At last, with the latest software update, now it is possible to see within the online system the "processing stage" (WIP), and that there are still two steps to go.
+
+Still, does not provide information that you would expect:
+_ how long should each step last as average (in Italian, as wrote in repeated complaints, providing even a "timeline" diagram, is called "tempo di attraversamento")
+_ how long each step lasted- with start and end
+_ how long will take to complete the process, with an ETA.
+
+So, something that supposedly should be done in few months (according to official information) is stuck since two years.
+
+As for the underlying activity, that had been completed with payments in July 2010 after being approved just in 2000 for a request presented in 1994:
+_ had not been moved to the next step until September 2019, a further year after I started sending registered electronic mails in October 2018 
+_ and even after being informed that a further step had been done in May-June 2020, still the fully cycle had not been completed, hence the 2024 request.
+
+Well, let's say 32 years since the first demand, 25.5 years since approval, 15.5 years since the payment ended, no news for 8 years, 1 years of registered emails to get the step due in 2010 done in 2019, then back-and-forth for a further 5 years, then two years of WIP...
+
+... it is quite interesting as approach to service delivery.
+
+So, maybe will keep adding material to publish yet another book with all the cameos, hoping to be able to report how the drive to increase transparency at last, beyond announces, produced results, and maybe even an improvement in the management of conflict of interests in Italy.
+
+For now, this is the style of Italian bureaucracy: we are really good at marketing and showing our past glories, but implementation of ordinary, boring, everyday processes is still elusive.
+
+Yes, it is "experience marketing": look e.g. at the 2006 Winter Olympic Games in Turin, and the 2026 ones in Milan-Cortina.
+
+After the 2006 Winter Olympic Games, communication announced a new renaissance for a former company town (automotive used to be the main industry in Turin), but instead also most of the infrastructure and buildings (not just in Turin, around Piedmont) built for the Olympic Games struggled to stay alive for a while- and some eventually failed, after significant expenditure.
+
+And temporary organizations (and associated jobs) instead were dismantled only few years ago.
+
+In Italy, we are improving a bit on communication, using all the "modern" trends of business communication, but the point is action.
+
+And on anything, the Italian bureaucracy attitude is still to spread for decades just to avoid admitting failures in processes: avoiding accountability by extending time and costs for those complaining.
+
+We rightfully complain about the lack of transparency and resolution of the case of the killing of an Italian in another country, for over a decade.
+
+But we easily forget how many investigations on murders or other crimes ended up in Italy in "prescrizione" (diluting processing time so that statutory terms for investigation and indictment expire), or even those who are still unsolved since decades.
+
+I shared in previous articles how also the [European Court of Human Rights](https://www.echr.coe.int/) criticized Italy few years ago for how stretched cases also when had material evidence, to the point that many ended up beyond the [statute of limitations](https://en.wikipedia.org/wiki/Statute_of_limitations).
+
+On the business side, another case was around a decade ago, when there was a law to promote updating shopfloor equipment: asking companies to invest in "smart" equipment that depreciates in few years while giving a year-by-year confirmation of funding, initially with no funding at all for either training or integration with information systems, etc.
+
+Net result? Beside the installation test from a certified third-party that was in the end made compulsory to receive funding, I was told of customers who acquired the new equipment that could generate data (industry 4.0), but, due to the lack of skilled personnel and information systems too old to be integrated, simply used the new equipment as they had used the old one- simply, used the funding as a cheaper way to replace old and decaying equipment.
+
+Eventually, that too changed- and now there is an "encore" of similar initiatives- eventually also for AI.
+
+Generally, the issue that we have in Italy, compounded by the massive wave of privatizations and externalizations of internal processes that started really in the 1990s, is simply a typical case of failure in segregation of duties and "quis custodiet ipsos custodes".
+
+If knowledge is not retained independently outside the organizations under oversight, at best you get a revolving door between the overseen and overseer- a structural conflict of interest.
+
+In Italy, often, both in the private and public sector I see no revolving door at all, it is just a continuous conflict of interests, as described above in that case of a Commission delivering funding to projects.
+
+Those who oversee in some cases end up having directly and indirectly interests in organizations providing services to those organizations that they oversee- in other countries, in these cases ask to have one or two generations away from potential conflict of interest, in Italy we should extend at least to spouse and children who still are resident with their parents.
+
+Actually, even foreign private companies operating in Italy routinely, in their recruitment forms for roles and missions, require formal signature of some specific disclosures about siblings having approval powers in public sector entities, and lying about that (or non-disclosure) are just cause for dismissal.
+
+As an example, a recent article on a magazine reported how, despite having formally to report information to avoid conflict of interest that extend from both the Member of Parliament and immediate siblings, few do report.
+
+Reminds me a funny movie with the title ["Benvenuto Presidente"](https://www.imdb.com/title/tt2767948/) ("Welcome Mr. President"), about a librarian in a remote village elected as President of the Italian Republic by mistake, and then discovering that his son was leveraging on his name and role to have official defense procurement buy a large quantity of physical training devices.
+
+How can an election be done by mistake? Well, in Italy we do not elect the President directly- this is how the election process is described within Article 83 of the Italian Constitution (you can download it at the website of the Italian Senate):
+
+<i>The President of the Republic shall be elected by Parliament in joint session of its members. Three delegates from every Region, elected by the Regional Council, shall take part in the election so as to ensure that minorities are represented. Valle d'Aosta shall be represented by only one delegate. The election of the President of the Republic shall
+take place by secret ballot with a two-thirds majority vote of the assembly. After the third ballot a majority vote shall suï¬ce.</i>
+
+Hence, it has been common to "count party loyalty", when no consensus candidate had been identified, to vote for a candidate with zilch chances of being elected (e.g. years ago a party of on the left selected the name of a Mayor to count their own votes and avoid that some voted for a candidate not sanctioned by the party).
+
+In that movie, by chance, different parties decide to vote for "Giuseppe Garibaldi"- but, by mistake, multiple parties select that as "hold on" candidate- and, as he fulfills all the requirements (Italian Citizen, over 50, etc- see article 84), the Mr. Nobody is elected.
+
+In the end, a quip older than me from an Italian intellectual still applies: in Italy, on the flag, we should write "tengo famiglia"- I have a family.
+
+Which implies that, whatever you do in whatever role, position, office, is to be framed within the tribal element (which does not necessarily imply the biological family).
+
+Therefore, it will be a long transition, in a country where anybody taking any political role ends up being surrounded by loyalists: yes, we Italians criticize President Trump's approach to country-as-my-business, but we actually could teach a lesson or two on how to do it without being criticized.
+
+Another element that I heard uttered from politicians since I was a teenager starting high school, in 1979, is invoking "meritocrazia", i.e. appointment by value-added, not by connections.
+
+Still, in country where political appointments are not limited to top managers, but from the janitor to top managers, it is something that, if implemented, would be akin to a revolution.
+
+Let's be realistic: for a while, Italy will still be the country where anybody occupying any bureaucratic position, from janitor to senior manager, notably if appointed by connections and not by value-added, will feel a sense of entitlement and exercise the power invested in a potentially distorted way.
+
+Personally, whenever in business I was called for a mission, including as a negotiator, did not use my role to appoint friends and relatives, or reciprocate on past favors, or pave the way for business from the counterpart by being "reasonable" during the negotation.
+
+My attitude, that would like eventually to see spread across Italy, is really simple: you are the temporary holder of a role, position, office- what matters, is what you leave behind, and the impact you can have also on those around you in that role, position, office.
+
+When we will introduce AI across processes that span multiple organizations, probably our Italian tribal approach will fall apart, as AI agents will have to build an operational yet systemic perspective, not restructure according to the specific optimal value for the tribe that in the future could generate more revenue.
+
+This section shared cases small and large, and hinted as some potential structural issues- while it is extensive and apparently not related to AI, it really links with the subject of introducing AI not as a technology, but as element within your human resources mix.
+
+If AI is an element of the landscape, you have still to consider the human landscape- not assume that every human community works as Google, Anthropic, xAI, OpenAI assume that it works.
+
+When interaction with a machine becomes a conversation, we humans are ill equipped to keep differentiating by humans and machines, and gradually spot the communication patterns and relate them to our previous experience of communication patterns.
+
+Therefore, many shift from "it" to "he, she, they" when talking about AI, and I saw on public transport teenagers as well as people in their 20s, 30s, 40s, interacting with AIs for activities that actually they could do independently- sometimes, could actually be faster without using AI.
+
+In introducing AI, for now it is still a matter of having a data connection, local or via Internet or mobile, but we should get used to the concept that AI can become pervasive and not necessarily always online.
+
+Therefore new processes that integrate customers/users within processes built in a landscape that includes AI should consider:
+_ AI in the backoffice- how you use it to provide services without making its use visible
+_ AI in the frontoffice- how you use it to blend the bureaucrat, the customer, and AI in a conversation (no, AI is not Simplicio from Galileo Galileo)
+_ AI on the customer side online- how the customer will use AI to communicate with the bureaucrat, and spread that interaction online, to "feed" others
+_ AI on the customer side offline- how the customer will use AI to actually thesaurize locally (or online) the "memory" of that conversation, and use to seed other conversations with other bureaucracies.
+
+We humans think by patterns- hence, the risk embedded in biases, as we risk dropping into our conversations patterns that we "inherited" and are not anymore aligned with what we claim to be our current values, but in reality we keep perpetuating them by not acknowledging that we should avoid them actively.
+
+Altering bureaucracies to introduce AI is not just a matter of lowering costs and increasing productivity.
+
+Anyway, will discuss this point in another section- wanted just share this small "taxonomy of uses" here, before sharing a narrative on reference material on how to reform bureaucracies, and how are being reformed worldwide.
+
+The title of this section is about history: and it is worth reminding that, while some countries did not exist until few decades ago, Italy had a bureaucracy already first under the Roman Republic, then for a couple of thousand year had first one, then many.
+
+And, actually, some processes that we use are still mildly disguised updates of some practices that we had over 2,000 years ago.
+
+I shared in the past over a dozen articles where wrote also about [Roman Empire and bureaucracy](https://robertolofaro.com/search.php?tag=bureaucracy_roman_empire), listing also some books.
+
+So, I will spare you another 5,000-10,000 words to discuss about State organization, processes and access to office in public bureaucracies, magistratures, etc.
+
+Instead, I prefer to switch to sharing a short narrative linking recent reports, policy papers, and research on integrating AI within public services and State relationship with citizens.
+
+
+<b>Theme2: introducing AI- an evidence-based narrative</b> 
+
+I will start from the end: what does imply introducing AI within an organization (and any organization has at least a bit of bureaucracy)?
+
+Well, as shared few days ago on Linkedin, AI, if compared with other technologies I worked with (or worked to embed in business contexts) has a key "feature": it generated in a couple of years a relaunch and expansion of...
+
+... acronyms.
+
+This map probably is easier to understand than many brochures that you are going to receive from vendors, as shows also the constraints of each element:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260205_mapping-agentic-ai.jpeg)</center>
+
+Too technical? Read just the central line (yes, I lived in London, hence immediately saw that red central line)- not just the red part, but from left to right.
+
+Basically, the leftmost side in part is what probably you already have or could have by just using statistical data on your past and by using Excel or other tools that you already use, and each step along the line adds more "autonomy" to both you and the AI, and requires different tools.
+
+To you, because allows to interact in less and less technical terms.
+
+To the AI, because the further you go to the right, the more AI tries to "decrypt" what you ask, instead of just following a sequence of steps.
+
+Interestingly, the left-to-right path in that picture until 2022 implied increased skills and complexity, while ChatGPT and others, as I wrote above, in reality "democratized" acces.
+
+Yes, it is an oversimplification, but will serve the purpose of this section.
+
+There is a key point to remember: if you want human-like decision-making, open to uncertainty, you need to understand at which level humans need to intervene.
+
+If you leave full control to AI, for now you can risk something akin to the vending machine that I discussed in previous articles (accepted orders also for a Playstation, and gave willingly away for free beverage and snacks), or, even worse, something like this:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/202060206_agentictoomuch.jpeg)</center>
+
+The rationale, [expressed with a recent report](https://www.turing.ac.uk/news/publications/ai-wont-replace-general-algorithms-decision-making-and-battlefield-command), is: 
+<i>"AI Won't Replace the General: Algorithms, Decision-making and Battlefield Command" from  the Alan Turing Institute in collaboration with Accenture, "challenges of integrating Artificial Intelligence (AI) into UK battlefield command decision-making, as called for in the Strategic Defence Review."</i>
+
+Yes, as wrote in the latest article ([Redesigning processes within a landscape that includes AI: setting the framework for a book](https://robertolofaro.com/index.php?page=637)), AI is becoming part of the landscape- that you like it or not.
+
+Still, just browsing through a long report on how AI is being integrated within government functions worldwide (18 September 2025, <a href="
+https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html">Governing with Artificial Intelligence
+The State of Play and Way Forward in Core Government Functions</a>), you can see that there is even more latitude in application and integration than within the convergence toward [UN SDGs](https://robertolofaro.com/search.php?tag=un_sdg) that discussed in over 50 articles in the past.
+
+AI can enable an increase in that element of ["gamification"](https://en.wikipedia.org/wiki/Gamification) that really is the concept of [nudge](https://en.wikipedia.org/wiki/Nudge_(book)).
+
+The reason? The "smarter" AI gets, the more data it can process to find patterns, relate to other patterns, and generate responses within a defined framework of guidelines.
+
+Hence, gradually, can be expected that some processes will adapt to the data they found and collect through observation of actions and results.
+
+An example toward that trend is the [Claude Constitution](https://www.anthropic.com/constitution) (84 pages) released by Anthropic, as well as a more recent [analysis of the security on the "system" prompt of Claude](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fadversa.ai%2Fclaude-46-system-prompt-leakage-security-comparison%2F&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-NmFlY2QyOTgtYmNmNi01OGI5LWJiODUtODk3ZDJiNTMzYTBkXzAwMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BozK8WvETTXWy4VvXifF8Qw%3D%3D) (what decides the "behavioral framework" of Claude).
+
+Despite what regulations (even [the decade old GDPR](gdpr)) said about leaving algorithms to decide, it is still an open question how often algorithms really make choices, and how transparent we are.
+
+As an example: if you say that the final choice is made by humans, but the filtering stages are done by algorithms (not necessarily the latest GenAI or DeepLearning- even just a sequence of yes/no or multiple choice tests with limited options), does really the human making the choices see all that should be decided on? (see e.g. 19 December 2025 [How widespread is algorithmic management in workplaces?](https://www.oecd.org/en/publications/how-widespread-is-algorithmic-management-in-workplaces_cda7a114-en.html)).
+
+If you visit my [Linkedin profile](https://linkedin.com/in/robertolofaro), you will see that routinely commented or "liked" a large number of posts and documents on the implementation of AI within organizations, posts released from people who sometimes are AI specialists, but more and more often are specialists in one or more business domains who are looking at AI within their own domain (e.g. medicine, legal, etc).
+
+Skipping the countless vendor-released documents on the integration of AI within organizations, a recent report from OECD (14 January 2026 [Compendium of best practices for a human-centered development and use of Artificial Intelligence in the world of work](https://www.oecd.org/en/publications/compendium-of-best-practices-for-a-human-centered-development-and-use-of-artificial-intelligence-in-the-world-of-work_inmx2843.html)) can provide more dots worth connecting with your own specific domain.
+
+Would like now remind what wrote in an article few months ago: <a hreF="https://robertolofaro.com/index.php?page=607">The #human #side of #AI #adoption- where #funding should go</a>- too often papers reports brochures focus on the technological side and its supposed transformative effects, forgetting that, in human organization, you cannot have transformation unless you have cultural and organizational change.
+
+And, as shared again recently on Linkedin, you cannot do the latter unless you build up a feeling of "ownership" from those involved.
+
+Whenever I see new "transformations" that cannot survive without the continuous supply of consultants even for routine activities, I call that an internal outsourcing that creates a bubble, not a transformation.
+
+So, [Building an AI-ready public workforce](https://www.oecd.org/en/publications/building-an-ai-ready-public-workforce_b89244c7-en.html) (19 January 2026) is something that should be within the first steps into AI, not an afterthought.
+
+Anyway, all the above paves the way toward the future.
+
+And while the human side is important (it takes 2-3 years for any cultural change within an organization, much longer if that change has to extend beyond the organization, in my business experience since the 1980s), it is important also to at least review the scenarios on which direction the "tools" (not just AI- also the systemic perspective about technology, society, economy, etc) will take.
+
+A good starting point could be [Exploring possible AI trajectories through 2030](https://www.oecd.org/en/publications/exploring-possible-ai-trajectories-through-2030_cb41117a-en.html) (3 February 2026)- and from there, search online.
+
+As I wrote above, there is certainly no lack of papers, reports, even short courses or video presentations- what matters, as in any cultural and organizational change initiative, is to clearly understand where you are and what you are and, of course, why you are planning to introduce AI or integrate AI into your organization.
+
+So, time to switch to a section where I will go back to Italy
+
+
+<b>Theme3: the potential of AI- for State and citizens</b>
+
+The title of this article is about "fluid bureaucracies"- and I think that, if you read the previous sections you understand why I did selected that title.
+
+The concept is that, in a landscape where AI will become common, pervasive, embedded everywhere, and accessible by everyone, we should redesign also the concept of "organizational boundaries".
+
+Since citizens started using smartphone packed with sensors, already we had cases that, within "smart cities", promoted using citizens' smartphones as de facto part of a communication and sensing network at a systemic level within the smart city.
+
+In the future, data privacy as well as other evolving rights will probably require that some information is and stays with citizens, and is disclosed with local and national authorities or suppliers on a "need to know basis"- where the "need to know" is decided by the citizen and negotiated with the counterpart through augmented intelligence within devices that represent the citizen, not the charlatanesque proposals contained within the latest flip-flopping of the incumbent European Commission within the "omnibus".
+
+Assigning a legitimate interest defined by commercial or State operators is just the opposite of what privacy and citizenship stand for.
+
+Therefore, the concept of fluid bureaucracy includes adaptability and transactional interactions, where the complexity is delegated to AI models also on the citizen side that shield the citizen from technological complexity, a democratization of access to rights.
+
+Because within the European Union, notably in Italy, we have many rights- but access to those rights is restricted by access to resources able to bypass current bureaucratic barriers.
+
+Or: from when attended in Brussels workshops on e-inclusion, e-health, e-participation, actually each wave of digital transformation so far increased knowledge barriers to access to rights, while instead technology should have eased.
+
+Adding user-side AI that "thinks" and acts as a supporting agent for the user in any interaction with the external world should in a couple of years enable a different level of democratization, and develop a level playing field.
+
+So, instead of having access to rights only for those technologically aligned with the current trends, additional intelligence on devices could reduce not just the digital divide (at last), but also the democratic deficit, if the schooling system will be able to deliver the real basics needs (not just the old basics, but also again critical thinking, etc).
+
+As routinely said since my return to work and live in Italy in 2012 to team members who often had half my age or even less: when in the 1990s wanted to keep up-to-date, I had to buy books, attend conferences, courses, etc.
+
+Nowadays, there are more resources free than I ever had access to by paying.
+
+And, actually, as I tested also with the smallest mode (see in the conclusions) on my mobile phone offline, even the clause that usually added ("learn at least to read and understand English, and you will have access to plenty of free material") is now obsolete: you can "talk" with models in multiple languages.
+
+Well, sometimes it gets funny- as when, for reasons unknown (probably a typo plus my name and surname), a model answered to a question in English in Romanian, and another time in Mandarin, or, when asked to help me assess my level of German starting later this week, another model shifted in the last answer directly to German.
+
+All this "fluidity" in bureaucracy, shifting part of the roles directly to citizens integrated with the overall "smarter" system through their own devices, will obviously require to de-layer (or "unbundle") bureaucracies, to identify what is their core mission and core knowledge base, and be able to adapt interactions according to the level of abilities shown from the citizen side, offloading part of the bureaucracy de facto on citizens, but ensuring anyway that processes, rights, duties are "equalized".
+
+Or: it should be up to future "fluid" bureaucracies to do what AI models do- adapt their conversation to the counterpart, but while ensuring that the overall results transcend those differences.
+
+Which is quite funny, if you consider: AI models, used as equalizers on the citizens' side, could actually deliver digital a blend of Rosa Luxemburg's "Freedom is always and exclusively freedom for the one who thinks differently" and Marx's "From each according to his ability, to each according to his needs"- but applied to both citizens and bureaucracies.
+
+No need to behave as a nanny for citizens, if they have capabilities, and no need behave as a Big Brother to ask more than what is really needed, as well as no need to have everybody behave in the same way.
+
+Over a decade ago (on 2012-08-10, right after ending a mission a week before), posted online an article (on my Eastern European blog) with the title "of budget cuts and development thrust" (see [here](https://www.frype.com/blogs/post/of-budget-cuts-development-thrust_7643105)).
+
+Actually, used that concept, "cut and thrust" in that blog once every couple of years: 2010, 2012, 2014, 2016 (you can search for "thrust").
+
+It was about a book on fencing from 1927 ("Cut and Thrust"), and was about a then recently announced significant cut in payroll.
+
+An excerpt from that 2012 article, that might resonate also now that we are considering using AI to expand services while keeping (or contracting) the existing payroll:
+<i>"Now, imagine a process that could be delivered by 4 people that instead requires 10- if you cut down from 10 to 9 (as the it was the initial proposal of the Government), you could still have a little bit increase of formal productivity, by having those 9 cover the activities of the 10th employee.
+
+But getting down to the real staffing need, i.e. 4, would imply removing not just 6 people, but even the "phantom activities" that have been added over decades to justify those additional 6 employees (albeit sometimes would be easier to scrap the office, create a new one, and re-hire those really needed, temporarily at a lower level, while they learn the new job).</i>
+
+Lesson learned in my formal experience on organizational change in business since 1986 (and informal experience in other domains before that): if you build up "structural slack" for whatever reason (patronage, nepotism, political appointment, just sheer miscalculation of staffing), that new enlarged size become structural, not optional, as flows will re-arrange around the new dimension- including by adding irrelevant "handover" steps, routines, rituals.
+
+In Italy, we have been used to decades of "digital transformation" adding more boxes to fill on a digital form, and more digital forms, and we are still issuing laws to try to force public offices to use information that they have access to- instead of asking citizens (human and corporate) to provide what is already on file.
+
+Often, electronically on file, due to previous rounds of digital transformation that removed paper.
+
+So, that quote is quite relevant today- notably, after a curious note that saw on Linkedin about a Big-4 reportedly urging its own accounting firm (yes, also Big-4 get auditors) to either transfer to them the savings related to the use of AI, or lose their business.
+
+Curious- because of course customers of that company could say the same- and at least one industry journalist asked immediately the question to that Big-4, and the reply was the usual: AI will increase quality but there will be additional costs- curious, how apparently only your suppliers are asked to transfer the savings generated by AI, while you instead almost claim a need to increase costs while paving the way to reduce payroll.
+
+Anyway, you can follow that debate involving KPMG and Grant Thornton on Linkedin, as well as the [previous debate involving Deloitte Australia and its use of AI](https://www.cfodive.com/news/deloitte-ai-debacle-seen-wake-up-call-corporate-finance/802674/) in producing a report.
+
+Recently, due to my past on models and reporting  for financial controllers, CFOs, and generally senior management since the late 1980s, did follow online webinars and read material on how AI could actually impact on the delivery of both routine (e.g. month closing) and ad-hoc (e.g. in M&A or investment analysis or defining scenarios) across the board.
+
+Relating to Italian and EU bureaucracies, could be tempting to e.g. suggest how AI could support specific processes (from budgeting, to control, etc)- but frankly, while I am always available as a consultant, I had enough flag weaving in Italy to deliver free services since the beginning of this century, usually from those that, after digging a bit, instead had a (paid) seat at the table- or more than one.
+
+So, considering the way I was made to return to Italy, and the losses that generated at least since 2008, I prefer to stay "neutral"- work on missions, and share online for everybody to see my commentary and suggestions, using only public sources to carry out analysis and suggest solutions.
+
+If somebody will take over the damages generated, could change- but, for now, Italy, and specifically Turin, from my perspective is just a market where I happen to have been born but never belonging to any local tribe, in a tribal economy where tribal allegiances trump (pun intended) over duty.
+
+And I work mission-based, as I did since 2012.
+
+As routinely said to customers, e.g. when asked to negotiate between two parties: if I am paid by one side, I work for that side on that negotiation, also if in the future or past could have worked for the other party- what I can a "partita doppia" (accounting: ["double entry"](https://en.wikipedia.org/wiki/Double-entry_bookkeeping)) approach, i.e. purely transactional open-close but with reference to an approach that, in some cases, generated business with the other party before and after.
+
+Still, within the frame of that mission, there is no doubt of what is the purpose, and no influence from potential future business from the other party.
+
+In Italy, usually instead the approach is "a saldo", i.e. "I scratch your back, you scratch my back"- and routinely those who you hired to take care of or represent your interests instead of declining accept, but then "bend" the mission to their own long-term (often tribal) interest.
+
+I wrote already above what I think that should be the approach, when you accept a role, mission, appointment: you are a temporary holder of that, and, if you accept the mission, you should follow the approach that described in previous sections- to leave it better than you found it, both overall and for the individuals involved (e.g. by transferring knowledge that helps them to improve, if you acquired that knowledge elsewhere through experience).
+
+And this is relevant to the introduction of AI.
+
+Look again at this image:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260205_mapping-agentic-ai.jpeg)</center>
+
+While the left-hand side is strictly based on data that, often, is predictive and repetitive, the more you move on the right, the more you have to cope with uncertainty.
+
+Uncertainty- until recently, a domain limited to some humans- as even ordinary "knowledge workers" (both blue and white collar) were within the "repetitive as much as possible" domain, while the higher in hierarchy, the higher the level of uncertainty you were expected to be able to cope with.
+
+Now, when you deal with uncertainty, some have the instinct to wait until it is solved- wrong choice, as means that you could wait, to repeat a phrase from [John Wayne in "The Longest Day"](https://www.imdb.com/title/tt0056197), released in September 1962, [made famous during the Cuban Missile Crisis by a speech at the UN](https://alphahistory.com/coldwar/adlai-stevensons-speech-un-security-council-1962/) in late October 1962.
+
+In this context (not the UN or the movie): you can wait until you have perfect information, but that will not help in coping with reality.
+
+Hence, a degree of uncertainty is needed.
+
+As shared in previous sections, the "Claude Constitution" (but read also the security analysis) is a step toward the direction of something more advanced than the usual ["three laws of robotics"](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics), laws that Asimov himself, in his later short story ["Cal"](https://en.wikipedia.org/wiki/Cal_(short_story)) shows how could be violated.
+
+We are still far away from perfection- but, frankly, as I wrote above about Italian bureaucracies, also in human affairs, at least in Italy, we are used to procedures stretched.
+
+Example: decades ago, I was in Rome, and did not say to anybody which mission I was working in- for security reasons, I had been asked by the customer to avoid saying it.
+
+So, I was just a part-time project manager and business analyst working on a project.
+
+Anyway, I had to read laws and regulations applicable to that specific government project- and I build my "mission-based memory" as a kid, as I was helping my father learning his lines from scripts, by reading all the other roles lines before and after his own.
+
+As I discovered decades ago when helping a friend learn her lines, I had still the same memory: after a second "encore", she told me that I wasn't reading the script anymore, but remembered the lines.
+
+In laws and regulations, as well as processes, whenever working on missions for customers I do something similar- in a couple of months, usually also the most complex procedural bits becomes a memory "chapter and verse", as some American friend would say.
+
+Then, when the mission ends, it is pushed away somewhere, and resurrects only if I get some specific "cribs" from others that start resurrecting those memories.
+
+Hence, in that case, in Rome, the issue was on a specific law- and there was a statute of limitation- but just for denials.
+
+So, as we had helped a foreigner to fill papers before to get his wife in Italy, he asked me if I could go with him in an office.
+
+Frankly, it was a curious example: the dossier had been sitting for almost the maximum time allowed, and the request, done outside the office, was basically to pay to have it move through.
+
+I was asked then my advice, and I said: the time is almost gone, and there is nothing that would allow to deny it- if you pay, you will tell all your contacts that by paying was approved, which is not the case, so my advice was not to pay.
+
+Imagine that you were to issue a new law or regulation, along with an attached AI model (or at least AI agent built on top of a government model that follows the Italian Constitution converted into an non-ambiguous set of rules for AI to follow as "system prompt").
+
+In those cases, it would not wait six months.
+
+If you were to design that AI model or AI agent using the history of procedures, instead it could "learn" a different approach: wait until the last minute.
+
+Look at the book that published in late 2020 linked in a previous section: again, if you were to provide that as "learning material", the system would not learn from the rules, but from the operational approach- and see the number of "bouncing back" until the same information results in moving forward.
+
+Furthermore, if Italy, after decades of trying to streamline bureaucracy and laws and regulation, still needs to issue a mandate to bureaucracies to avoid asking citizens (human and corporate) information that they have already access to, again training AI on experience is not the best choice.
+
+As I wrote above, in organizational design I strictly followed the segregation of duties and a degree of oversight that did not generate conflict of interest- e.g. when I hear that in order to be evaluated for progression of career, everybody evaluates everybody else, hearing as a joke "if you do not do this, I will add it as an objective in your review" or hints at "approving and be approved", my Italian mind goes immediately to the consequences- a farce presented as objective.
+
+When attended in 1994 and 1995 Summer School at London School of Economics on International Political Economy, we were asked at the end to evaluate our professors and teaching staff.
+
+We were also told, informally, that it was taken seriously: so, nobody would see our evaluation until we got our grades, and what was written on those evaluations had real impacts- as I was told of at least one of the professors who had had some impacts for prior failure to obtain a good evaluation from students.
+
+In Italy, the questionnaire at the end of each interaction with any bureaucracy is now a routine: but, frankly, structured often in such a way that you cannot really report on the service, only on the service agent- which does not make sense, if you want to improve service.
+
+As I shared in previous articles, when I had to deliver a multi-year training curriculum, designed a feed-back form that actually was useful to assess how to improve the "service", and generated also the need for further training.
+
+Specifically, for managers, the demand for soft skills training- and was asked if I would deliver them.
+
+I declined, also if I had delivered that in the past, because I stated that the need was to have not just the training, but also a second opinion that could impact both on the original training curriculum, but also on related initiatives- hence, would have been a conflict of interests.
+
+So, far, discussed the "framework" of the title of this section- to remind that it is not just about technology.
+
+I would like to repeat again what I wrote two sections ago:
+<i>
+new processes that integrate customers/users within processes built in a landscape that includes AI should consider:
+_ AI in the backoffice- how you use it to provide services without making its use visible
+_ AI in the frontoffice- how you use it to blend the bureaucrat, the customer, and AI in a conversation (no, AI is not Simplicio from Galileo Galileo)
+_ AI on the customer side online- how the customer will use AI to communicate with the bureaucrat, and spread that interaction online, to "feed" others
+_ AI on the customer side offline- how the customer will use AI to actually thesaurize locally (or online) the "memory" of that conversation, and use to seed other conversations with other bureaucracies.
+
+We humans think by patterns- hence, the risk embedded in biases, as we risk dropping into our conversations patterns that we "inherited" and are not anymore aligned with what we claim to be our current values, but in reality we keep perpetuating them by not acknowledging that we should avoid them actively.
+
+Altering bureaucracies to introduce AI is not just a matter of lowering costs and increasing productivity.</i>
+
+I think that now that last phrase makes more sense, after what you read so far in this section.
+
+The idea is really simple: you have to identify purpose (the "why") before you identify the tools (the "what") and service (the "how"), and then decide when, who, where- and reiterate to align with your "how much"- not just money, but also available resources.
+
+Unless were to generate a conflict with an ongoing mission, I plan to start sharing within the [organizational support](https://robertolofaro.com/orgsupp) section of this website practical cases, using my past experience since at least 1990 (first official mission on cultural and organizational change, albeit I had others before since the 1980s).
+
+Or: not just discussing the concept and a roadmap, as it was in this article and others, but detailed cases.
+
+It will then up to you, the reader, to push that aside or get inspired.
+
+I will also share learning sources, but you can actually have a look at the "certificates" with [Linkedin profile](https://linkedin.com/in/robertolofaro), click on one that interests you, and follow the link to actually see the courses it relates to.
+
+My learning approach is to update, expand- but also unlearn and relearn and, since I was a teenager, also buy books that could be useful to lend or discuss with others, instead of having to answer personally to requests- and it is an approach that continued to follow also while on missions this century.
+
+E.g. when I was asked to help team members to prepare their thesis, either we had a discussion and suggested structuring or digging deeper, did read, or even, if it was yet to be structered, gave a book that I had in my library that could help not with the content, but with the structure and conceptual design, including books that were actually dissertations published into books.
+
+Anyway, it is an old habit: having a library and not sharing its knowledge (on content, frankly, stopped- too many books "lost in transit") in my view is a waste of resources.
+
+And also with two former girlfriends helped on preparing some papers or dissertations- e.g. in a case, was a good excuse to read and translate a section of the "Quaderni dal Carcere" by Gramsci (the one about Italian journalists), and to visit the Le Corbusier Foundation in Paris to do research, and read a part of Marx's "Capital".
+
+In AI, you will find that I followed repeated cycles e.g. on prompting (i.e. interacting in natural language with AI models).
+
+The reason is to "collate and digest" evolution on a moving target (via Linkedin I keep receiving updates whenever there is a new model).
+
+And to compare perspectives.
+
+The upside: in reality, for most of those courses, paid to be able to follow, do the exercises, and obtain a certification- but instead in many case provide an "audit mode" (notably Coursera and DeepLearning) that allows to follow courses for free (including labs and hands-on exercises without any need to install something on your computer), so that you can actually grasp concepts and see their implementation, before embarking on what was discussed in this article.
+
+If you have time, I would suggest to start by reading the reports within the Theme2, then look for some introductory courses to quickly have an understanding of the overall concept.
+
+The next step should be identifying a process- a real case that you think, after what you read, that could be a simple yet useful example.
+
+Then try (without using confidential information) the free versions of ChatGPT or Gemini (notably if you use Google or Microsoft in your office), Claude, and DeepSeek online (there are others, but those are those that routinely use online for my test and brainstorming- then, usually  continue with offline models to cross the Ts and dot the Is or use confidential information).
+
+As you can see, the approach is not technology-driven, but:
+_ first, understand what you are talking about
+_ then, leverage on your business expertise
+_ then use the latter to interact with models, so that you understand if their proposals make sense.
+
+Final suggestion: it is tempting to start with a grand strategy and an end-to-end grand design that will replace everything.
+
+Frankly, it is more productive (notably if you use the free or pro version of models but not the corporate ones, i.e. you cannot ensure confidentiality of the data that you provide) to follow what routinely called iterative and incremental, the same approach that used in the 1980s to build decision support system models for managers.
+
+Start with the concept and the general framework, interact to refine with the model (both ChatGPT and Gemini, if you interact in the proper way, are eager to suggest expansions and improvements- the more you know and use the right "lingo", the more collaborative and proactive they become; Claude instead has deep "knowledge" of various business domains, again if you use the right key concepts and wording).
+
+This is the iterative step: whenever you have a set of "features" that makes sense and can be used as stand alone, then you can consider that as an "increment" done, validate it, and then continue with the next one.
+
+Sometimes, the first increment actually is the one that allows you to better understand the real process, not just the formal one, and the real actors to be involved.
+
+In building decision making models, I remember once when, with the financial controller, after starting instead with a grand design provided by others, that went on for few hundred pages...
+
+... tossed it into a trashbin, as did ignore the existing process and resource constraints, and would have required building a "usine &agrave; gaz", as my French colleagues called it, to make it work.
+
+Keep it as simple as possible, but not simpler.
+
+Obviously to build a service integrating AI along the taxonomy that shared above, these "elements" that you will build via experiments could just be concepts that you transfer them to AI architects and data engineers to build something that can really sustain volume and activities.
+
+Still, I think that too many AI initiatives (as many technological initiatives in the past, including Italian-style digital transformation) failed mainly because:
+_ those with technological skills, did not understand (and listen to) those with business understanding
+_ those with business understanding, did not make the minimal investment needed to at least understand where experts were heading to
+_ there was an overall rush to deliver something to show that you were aligned with the times
+_ building up of hype inflated expectations and sidelined critical thinking that would have produced real results.
+
+Probably, if you do not have time to do the steps above, you can find somebody in your staff (or your existing suppliers that know a bit of your organization and you data and technology) to set up one or more workshops that, in one-two days, would deliver the above.
+
+This would allow to then proceed with real projects with a realistic project charter.
+
+Beware of those who sell "ready made" in this domains: as it was with ERP in the 1990s, those promising "delivery in two months aligned with your business needs", eventually stayed around for years.
+
+As I keep writing and saying since decades: if you want to change cultures, you need to build ownership: so, I routinely declined missions where there was not the right mix of resources and mandate- and regretted some missions where actually both resources and mandate were presented but then not really available, albeit anyway brought them to a steady point or even recovery and delivery as, again, the mantra is to leave the place a bit better than you found it.
+
+
+<b>Conclusions and next steps</b>
+
+As you can see, in this long article discussed more the approach and concepts, as well as existing shortcomings that could influence the success of AI introduction initiatives.
+
+Technology is never neutral, and the wider its scope, the wider its impacts.
+
+Hence, cannot be left in the hands of pure technologists.
+
+If you follow my Linkedin profile, you can see what I like and share- e.g. today another post from one of my sources listed free tutorials provided by Anthropic for Claude, to allow using it (without being a technologist) in an improved way: [see here for the links](https://www.linkedin.com/posts/andreashorn1_claude-tutorials-ugcPost-7425809575846604800-4BO7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+Instead, would like to close, as usual since few articles ago, with a couple of cases that relate to the taxonomy that shared above.
+
+<u>AI in the backoffice- how you use it to provide services without making its use visible</u>
+
+If you work in any organization, there are plenty of activities that are mere restructuring of what you already derived as analysis: from presentations, to executive summaries, to progress reports.
+
+No value added, just restructuring: and this were your AI assistants could save you time (I use them for own publishing activities).
+
+As an example:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260207_businessplans.png)</center>
+
+Yes, I had more than one business and marketing plan from my past activities for startups and customers in the 1990s and 2000s, and did a test, asking to prepare a dynamic presentation for a business plan (narrative plus financials) that I had prepared 22 years ago for a startup (I retained the ownership of the number crunching side, as I did in any deferred equity and deferred income- as it never went live, also if the business and marketing plan won a prize).
+
+While the post I was commenting on was about Claude, I must say that Gemini gave the most interesting answer, instead - will not share for now the prompt I designed and used, but will suggest something else: meta-prompting.
+
+Or: before spending time with models and adjusting your prompt, try looking for an example of what you would like to achieve, and ask models to act as experts in both your domain and building prompts for the model you select, as well as expert in corporate communication (or select the combination of roles you prefer).
+
+Then, provide that prompt along with the example, and ask to design a prompt for your target model that would reproduce, starting an Acrobat containing that information, a similar result.
+
+Then, use the prompt that you obtain (revise it before), which probably would be more complex than anything you can think about to ask a model.
+
+<u>AI on the customer side offline- how the customer will use AI to actually thesaurize locally (or online) the "memory" of that conversation, and use to seed other conversations with other bureaucracies</u>
+
+Until few years ago, smartphones were powerful, but not enough to run standard AI models.
+
+Over the last month I have been experimenting with my two years old smartphone (i.e. not one of the forthcoming one that will make integrating AI processor common), and did interact with few models to generate a set of components to allow a first step in the direction of the title of this subsection.
+
+I installed locally an application called "termux" on Android that really opens the Linux environment in your smartphone, and added ollama, that allows to download and install locally models.
+
+What I added are also some bits of software that, both under termux and via the browser on the Android phone, allow to have a dialogue with models.
+
+I shared in previous articles and posts my first experiments (asking to add numbers and translate into German a simple English phrase that I knew could generate some "discussion" on the best way to translate it), using models from the smallest 0.6B up to 8B parameters (the B stands for Billions).
+
+As the smaller model is able to understand requests, can be used to add a "layer" of specific knowledge (processes, data, ecc) and memory of conversations.
+
+Will share in a future article something more, but the concept is: if you have a bit of technical skills or access to some who has, it is feasible to use on smartphones both apps that have a dialogue with online models (e.g. Gemini, Claude, DeepSeek, Kimi, others)- for free, and apps that have just local access.
+
+It would be interesting to see how this could evolve, once AI models and agents (the non-autonomous ones) are part of processes within public organizations,
+
+The next step is, of course, having AI with a bit more of autonomy integrated within the environment- which is the area of AI that really attracted my interest years ago, called EdgeAI.
+
+If our environment starts getting sensors, it could adapt and minimize resources- e.g imagine the waiting room of an office.
+
+Yes, you could keep all the lights up and all the place at a certain temperature- but it would make more sense to adapt to people presence, their own temperature, and even notify of potential issues.
+
+In the future, your own smartphone might have locally a model with your own profiling data shared with no one, a model that could verify your agenda, notify of emails that you received and if there are timelines associated, or monitor on your behalf the status of activities with a varied group of offices, suppliers, etc- even automatically filing a "nudge" whenever something goes beyond the official time threshold for answering.
+
+All of this could be done now online but, frankly, both the business model and confidentiality of data would make more attractive a local-only (that interacts online under the stricter conditions, but keeps all the data locally) approach.
+
+Eventually, probably it could be that for many routine bureaucratic requests, or those on demand, your local AI will interact with online AIs for each office or supplier, and report on results.
+
+For now, stay tuned!
