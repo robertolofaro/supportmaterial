@@ -1,0 +1,698 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260224_article.png)</center>
+
+This article is within the [EU, Italy, Turin](https://robertolofaro.com/diritto-di-voto) series- hence, will adopt that as a viewpoint, albeit, as title states, it is about more than just Europe or technology.
+
+It is not formally a multi-part article, but contains a thread that will develop across multiple article, specifically about resilience across multiple domains and from different perspectives.
+
+Hence, you will see the navigation appear on top as soon as another article "connecting the dots" with this one will appear.
+
+As you can see from the title, the concept is to look at technology from a systemic perspective- and in this article will share an expanded discussion on posts that shared over the last couple of weeks on Linkedin and Facebook (and will keep to share).
+
+Systemic implies considering not just technology and experts in technology- but how it becomes embedded into everyday reality: to paraphrase somebody else, AI is too important to be left to AI experts.
+
+Von Clausewitz, yes- but [as remembered in this article](https://warroom.armywarcollege.edu/articles/grand-strategy-clausewitz/), <i>"However, Clausewitz offers a notion of grand strategy not in his theory of war but in his theory of the state"</i>.
+
+There is a key concept that is becoming evident: already in the late 1990s one of the common points that I was finding in business was that the pace of technological innovation, notably involved in digital transformation, exceeded the organizational culture ability to absorb that innovation- and was leaving many behind or at least confused.
+
+The latest trend is to talk about AIs able to go past pattern matching or extending patterns, and instead able to "see" "interact" "understand" within the physical and human world.
+
+There are some elements that make that proposition both appealing and scary at the same time- discussed here and there in the past, and will discuss more in detail within the last section of this article, while in the next article will discuss specifically the issue of AI and security (including offense, not just defense).
+
+In any technology, as first read through books and the observed "in the field" since the 1980s, there is a moment when moving forward would need a significant shift, and the "incremental" side of innovation, so reassuring because so similar to what we were used to, start going in circles- as a dog chasing his own tail.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260224_theme0_01_leadership-transition.png)</center> 
+
+Our current AI based on GenAI and LLMs is reaching that point: more "hype" announces generate a sense of stability- akin to when routinely you hear new buzzwords and, scratch under that, it is the same.
+
+Yes, I am assimilating our approach to AI to our approach in selecting transition leadership: we look for the familiar (human language with human patterns, in AI), because we are scared of losing points of reference and wander into the unknown.
+
+It is funny that one of the online AIs, DeepSeek, instead for its own chatbot website has the title... ["DeepSeek - Into the unknown"](https://chat.deepseek.com/).
+
+Reminding that change and transformation and our current AI are about extending the boundaries of ignorance by relying into what others already know, or connecting existing dots that require, for connection, transcending from your own personal and organizational boundaries of ignorance.
+
+Here would suggest to watch (or re-watch) a 2012 documentary-interview by Errol Morris with Donald Rumsfeld [The Unknown Known](https://www.imdb.com/title/tt2390962/), subtitle: <i>"What you didn't know that you didn't know"</i>.
+
+The key difference with AI? This "it is the same" sounds as if it happened for decades, and instead as was reminded over the last couple of weeks in a dozen or more webinars and events all started with a modest paper in 2017 and an initial release in 2022: few years, but we already getting to the point of saturation, generating dependencies, and starting questioning the value-per-effort.
+
+Will discuss more within the last section of this article, using the first phase of an example that will develop along with AIs across the articles that will be linked to this one.
+
+Anyway, as started recently to drop the "preamble" section, will keep using this introduction as a roadmap through the main themes of the article.
+
+Yes, technology; yes, systemic perspective; yes, look outside not just technology- but also at the socio-economic environment at large.
+
+It is a trite concept, but I will anyway spend all the <b><u>first theme on priorization</u></b>- with concepts both large and small, starting from the "1st Forum Nazionale sull'Intelligenza Artificiale per l'Industria" that attended in Turin on February 20th, and getting through current international events to share some building blocks.
+
+Prioritization without a purpose is pointless, but prioritization without having first built a capability to adapt is even worse, as whenever your wonderful plans meet reality and you have to adapt, unless you built resilience before, you just generate confusion.
+
+Hence, the <b><u>second theme is resilience</u></b>, starting from greenland and closing the circle on prioritization+resilience with a quick discussion.
+
+Anyway, while the first two sections are conceptual, the <b><u>third theme is building enablers</u></b>, starting again by an element that discussed in the previous article, and discussing announces over the last couple of days about enabling investments.
+
+The <b><u>fourth theme is about what implies a blended human+AI workspace</u></b>- just a quick discussion that, along with others on the same subject presented in previous articles, are really pointers to what will discuss in more detail in a future mini-book.
+
+Within the <b><u>fifth theme instead a glimpse into HR future</u></b>: because we routinely focus on increasing demands of compliance within HR (albeit often just by paying lip service by issuing documents, and then ignoring the real communication and management dynamics), but forget that, into a blended human+AI environment, communication will be multifaceted- and we assume that everything will be with humans in the middle, but instead we start deploying AIs communicating with AIs, and assume that, when volume of activities will increase, they will keep relying on our ambiguous, inefficient, sometimes cumbersome human language.
+
+So, I did an experiment that already shared yesterday on Linkedin.
+
+Of course, being the last section, it will contains some example of application of the principles- sharing links to material.
+
+So, this is the table of contents:
+_ theme1: prioritization
+_ theme2: resilience
+_ theme3: building enablers
+_ theme4: blended workplace
+_ theme5: a glimpse into HR future
+
+As usual, you can follow on both [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro) my sharing of news, announces, commentary, and links to material.
+
+
+<b>Theme1: prioritization</b>
+
+As I wrote above, "prioritization" is an overused concept, but something that the posts that will share in this section will show that is not as intuitive as it seems.
+
+First, you need to accept reality- including your role into it.
+
+The obvious starting point is my birthplace, Turin, a location about which routinely since 2012 shared cameos.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme1_01_ai-turin.png)</center>
+
+Last week attended the "Primo Forum Nazionale sull'Intelligenza Artificiale per l'Industria".
+
+In Italy, any event that starts or continues a series of events year after year has a characteristic: long before you listen anything really relevant, there is a routine presentation by an endless list of authorities, each one thanking all the others.
+
+Anyway, this is probably my Italian-who-lived-too-long-abroad and finds annoying what for the locals is not only compulsory, but also welcome, as it is considered a sign of interest, no matter how ritualistic those speeches are.
+
+Well, as reported in a previous article, while attending a previous event few months ago, there were over 40 minutes of such introductory notes- almost as long as the conference itself was expected to be.
+
+Too much for comfort: first for some visiting foreigners (one sitting at my side left), then also for some younger locals who were there to listen a lecture about innovation and technology, not to attend a show mutually bestowing praise between local leaders.
+
+There is an element that, after all the "unexpected" announces in Turin since 2025 from the company town former holder (now under the name Stellantis and under the portfolio of Exor), increased in intensity what I already heard in way too many events in Turin that I attended since 2012: soul searching.
+
+With the typical local twist: extolling the virtues of the location, specifically its attractiveness, and then claiming to be a loss of words about why that attractiveness does not result in talent attraction, significant investment, etc.
+
+In this case, hearing that "we are attractive but we cannot explain why we do not attract" from the leaders of the two largest banking foundations in Turin was puzzling.
+
+As, since the Amato law (that remembered also in recent articles) created this type of entity endowed with bank shares, both those two foundations provided for decades significant funding in the territory.
+
+First using for years a "sprinkler approach", that generated a myriad of micro-entities really used to survive out of that trickle funding.
+
+Then starting to allocate by... priorities.
+
+One wonder how those priorities were set, if after decades you claim not to have understood the failure of previous rounds.
+
+Hence, apparently, that funding did not produce the expected results: but decades of funding and monitoring should have produced such an awareness
+
+Maybe, just maybe it is just impolite to share what that awareness points to.
+
+It is again a local attitude: everybody and everything keep going on, all the parties involved assuming what they want to assume, as, anyway, those that they allocate are assets of the foundations, not personal assets.
+
+In Italy, it is considered more critical that such a "spreading of resources" keeps the existing tribal balance- more important than focus based on a ruthless triaging related to an evidence-based assessment.
+
+I shared already in past articles what such an arrangement can have as a side-effect, but will not repeat here.
+
+As will show in a later section within this article, at least one of the two foundations announced a focus on allocating funding to do something.
+
+Again, priorities identified while still nobody wants to share an acceptance of the reason why previous rounds did not deliver what was expected.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme1_02_oecd-membership.png)</center>
+
+A book whose review shared in 2018 ago had the title ["Ricchi per caso: la parabola dello sviluppo economico italiano"](https://robertolofaro.com/index.php?page=178).
+
+Back then wrote: <i>The common thread shown across the book is roughly the cognitive dissonance between the reality of the country and what leaders assumed it to be, up to WWII, and post-WWII adding the element of "vote corralling" that created incentives to "stay small" for Italian companies, incentives that only recently have started to be dented</i>.
+
+In that book review shared also the links to eight further books about Italy (unfortunately all in Italian- but worth reading), discussing the same themes that hinted at above.
+
+Anyway, cognitive dissonance is not just an Italian leadership specialization, and others countries too read what they want from reality, looking for positives and solutions where actually there are issues.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme1_03_flinstones.png)</center>
+
+Yes, the Supreme Court confirmed a principle- but, actually, considering the other possibilities to act left to President Trump, that ruling started what I described in that post as an "entropy generation" approach.
+
+Stating one day that will set new tariffs at 10% everywhere on a temporary basis, then moving to 15%, then opening other potential venues of contention, ending to generate continuous uncertainty that is even worse than trade tariffs per se.
+
+You can adapt to tariffs along a set of parameters, but cannot reshuffle every few days your supply chains and reassess costs.
+
+The tariffs, incidentally, affected more USA citizens than others, and actually fostered the development of other trade agreements elsewhere.
+
+What this continuous flip-flopping generates is just further incentives to look elsewhere, impacting also on the long-term viability not just of trade, but also of NATO.
+
+At the same time, despite all the regulatory concessions given to the USA from the EU on technology, energy, AI, automotive, etc while attracting new production facility investments in the USA,  the current "entropy generation mode" risks freezing the opportunity to actually sell within the EU USA-based products and services.
+
+So, it is again a matter of prioritization: even the recent Mercosur agreement, while being presented as a success, was a puzzling choice, after President Trump showed with Venezuela (and it is now showing with Mexico, after also Nigeria and Gaza and soon Iran) that he simply ignores existing agreements.
+
+The forthcoming issue (March-April 2026) of Foreign Affairs has an interesting article on "kleptocracy"- but there is an element worth remembering: by going head-to-head with any institution within the USA that even dares to disagree, all that conversion of State diplomacy into a personal and cronies business affair risks not surviving President Trump's term in office.
+
+He should pick a page from my fellow Italians: converting public office (and even a mere employee role within the State) into an asset that can be inherited can work in a tribal economy, but only if there is a balance between tribes, a shared interest to distribute the spoils.
+
+A tribe might lead one term, another tribe the next term- but none destroy the system that keeps them afloat, and each one provides reason for tribes that are not currently between those leading to complain yet wait and sustain.
+
+So, also if the Italian spoils system, as wrote repeatedly in the past, implies that not just top level managers, but also humbler vacancies are filled using a tribal approach, whenever a different tribe takes the helm we do not get a [Land of the Blind](https://www.imdb.com/title/tt0433405) approach (removing all the leftovers from the previous appointments).
+
+Italy is a country where externalization of State and local authorities services has been a routine for decades, and where beached politicians routinely land on the board of those externalization entities, or even set up their own businesses getting a slice of that externalization.
+
+Meaning: keeping such a system afloat is an art- and trying utter "the winner takes it all" might be successful short-term, but, as soon as the balance of power changes, all the wins (and more) get wiped out.
+
+Again: prioritization.
+
+As was told decades ago: if some figures that really represent corruption stay under, say, a 5% impact (that covers also the "smoothening up" when a pure "by the rulebook" would make impossible to achieve anything while the context changes but the rules are still the old ones), it is considered a "cost of staying in business" in a complex society.
+
+When turns into kleptocracy, making rules to create space for corruption, it becomes unsustainable- and affects the element that will discuss in the next theme: resilience- as adaptability requires anyway a degree of predictability and stability.
+
+There is a flip side to a tribal society: it is structurally unable to accept that, at times, your enemy is actually the best potential partner on specific issues.
+
+This attitude is so strong, that routinely since the 1980s, when was first in political activities within an advocacy organization, then in the Army, then officially from 1986 in business, whenever there was an issue that required specific capabilities, observed two reactions:
+_ <b>instantaneous</b>- "chi abbiamo?" (i.e. do we have somebody in our tribe to cover that)
+_ <b>follow-up</b> looking for temporary help but only if not associated with any of the other tribes, with the real purpose to build in due course internal capabilities.
+
+Disclosure: being bipartisan and non-tribal by nature, often ended up being one of those "temporary" for different tribes, also if each one presented it as a long-term potential.
+
+Of course, also if you can find somebody, the issue is that it is fine if you have to "fix", but not if you have to "build".
+
+As, in the latter case, while you create your own internal tribal capabilities to avoid using those available in other tribes, your opportunity to "build" is seized by others.
+
+So, newspapers routinely in Italy complain about the "sellout" of Italian assets and companies to foreign organizations, but always, at the same time, report the fierce internecine wars of local tribes that make a local solution impossible.
+
+In Turin, a bit more cohesive, with a funny twist that observed repeatedly since 2012: tribes fight, no local solution is found, but, when an organization from outside the territory acquires, suddenly there is a local convergence, and then pressure on media and in society to shift from the exogenous to a local choice.
+
+Obviously, if a territory becomes uncooperative, delocalization becomes the only option- but if you acquired buildings and not factories, selling or onboarding local tribes could become the only viable choice.
+
+If you were considered to be part of a tribe, while instead was just transactional, if your business choices conflict with the expectations of the tribe, anything goes to attack the "traitor", unless protected by other local tribes.
+
+It is curious: when in early 2025 voices started that the new CEO of Stellantis would not be a French or an American, but an Italian, as shared in past articles each signal was interpreted as a confirmation of what I heard routinely in Turin: that Turin would again be at the center of the automotive world, that actually Turin was the natural location for that role, etc.
+
+I worked long enough in enough industries and countries on cultural and organizational change to have been, since the first "signals", a dissenting voice that pointed to patterns- and was confirmed times and again.
+
+Hence, when announces about local investments and plans turned into procrastination, while new announces highlighted the USA market, and piled up, the local reaction turned from positive, to negative, to "anything goes" to make the owners pay for betraying the territory. 
+
+Entertaining to observe, when those who the previous day were spreading roses suddenly sound as Torquemada.
+
+Anyway, again, it is a matter of prioritization.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme1_04_converging-efforts.png)</center>
+
+In 2032 Italy will host the European soccer along with Turkey, and recently media reported that Turin has a stadium (or even the only stadium) that is ready to be used.
+
+The fly in the ointment? It belongs to Elkann / Exor, that now are not the subject of the most flattering commentary, due to Stellantis and Exor choices since 2025.
+
+Now, in any ordinary business environment, the focus would turn into the transactional opportunity that requires joint efforts.
+
+For example: using that "we are ready now, not in 2032" as a banner to show the positive side of recent investments in renovation of buildings- does not matter that are not relevant to football, matters that could be used to link up with the "rebranding" that I got bored to hear about.
+
+Having a stadium is a bit more complex than hosting an event, so there is hope that local tribes will see the potential value in promoting how Turin is ready for 2032, and "sell" that point across the board, as an excuse to give publicity to other initiative etc.
+
+The next theme is about resilience: but resilience requires building capabilities to adapt also to the unknown (again, have a look at the discussion between Errol Morris and Donald Rumsfeld within the documentary linked above).
+
+Decades ago, when supported startups in Turin, a founder complained that (at the time was living abroad, coming in town occasionally) I did not acknowledge the structural ability of Turin to "make projects" ("capacit&agrave; progettuale" is the concept most often shared).
+
+My reply? It is not about "making" projects (marketing a concept and a plan- a local specialty), but "delivering".
+
+All the missions I had in Turin since the late 1990s (but also in Rome) were actually on already existing projects, programs, portfolios, initiatives- all having issues in delivery and/or governance that were solved by using the existing people: so, could have been solved by a bipartisan, instead of tribal, approach before I was even contacted.
+
+Hence, I think that makes sense to have locals to attend a virtual event coming soon, where the best practices and trends on project, program, portfolio management and PMO are discussed and shared:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme1_05_cross-feeding.png)</center>
+
+It is a matter of prioritization: observe, listen, learn, unlearn, relearn by questioning continuously your experience and challenging your own "knowledge base" by cross-checking vs. somebody else's experience.
+
+Always remembering, anyway, to contextualize: adapt before adopt.
+
+What is best performance in a different organizational culture and assuming available specific evidence, can easily become ballast in your culture, if lacks clear and relevant KPIs and has significant cultural, organizational, capabilities differences.
+
+I would like to share as last example in this theme a personal one.
+
+As shared in previous articles, while in the Army I arrived from the seaside training center Diano Castello to my destination in Artillery in Vercelli.
+
+My initial assignment was to be a 217/A, i.e. a role to lead a small team in transmission.
+
+After the first training camp in Sardinia, I had some health issues that, if had been discovered before, would have not allowed joining the Army, but, once in...
+
+Luckily, were temporary issues solved one by time, the other by a surgeon intervention: ended up firing with the weapons for my original role (a Garand, a FAL, and an MG), to be then given temporarily a role of... PQ- Perequazione Quantitativa (use as you see fit to cover for organizational gaps- allocated only because it is your quota of allocation).
+
+Temporarily in Italy means that actually was given a properly coded role only at the end of my service.
+
+Funny that, when, as was told years later by a contact, was called up from Turin to work in information technology within the Army (1985, there weren't that many people that had already shown results and were serving in the Army), the request was turned down by stating of my critical role... according to the original one.
+
+Then, the final roles was a radio operator role (but never saw a military radio except in movies).
+
+Returned from the training field exercise in Sardinia, was told that until the end of my service...
+
+... could sit idle in the infirmary, spending my day there.
+
+Well, after a couple of days doing nothing, I went and volunteered to work in the office- was asked if I could type, and after a few seconds of testing, I was hired.
+
+I started using a mechanical typewriter at 9 to write, before I started piano playing for few years- an electric typewriter was like surfing on keys, for me.
+
+As a kid, also started developing my own library, in parallel and complementary to my parents' library- and learned in libraries and applied the UDC coding to both the family and my own library, as an experiment.
+
+So, as my Artillery outfit was a Specialist group, we had plenty of correspondence, requisition orders, etc- and the filing system was a mess: all piled up somewhere.
+
+Therefore, one of my first activities was to reorganize filing, but still had plenty of time, also if prepared the daily services assignments, prepared the daily roll call, and prepared for signature requests for leave, letters, reviewed all the incoming correspondence etc, as well as prepared material and requisitions for the travel teams we were sending around Italy to support artillery in training fields.
+
+Was called by a fellow (older) soldier "a perfect bureaucrat", as that was the role that was asked to play- and so, I played it.
+
+Out of boredom volunteered also to be a librarian in the evening, to keep the barracks library open, and then also designed, proposed, delivered an information technology course- offered two late afternoons a week, ended up having a day starting before breakfast in the office, continuing until 4pm, then almost 2h of lessons to classes of soldiers, then 15min of break for dinner, then another couple of hours for lessons to NCO and officers, then library, then office to prepare the roll call of the following day based upon who failed to return etc.
+
+The 2nd Lts once made me a surprise: put me in list for promotion- I politely asked to be removed (anyway, could have done it myself- as I was the one preparing and presenting the list for signature).
+
+Then, in the following round of promotions, did the same- and I did the same.
+
+Then, when my time was almost done, they did it a third time, this time the Lieutenant himself removed it and said to me that eventually would thank him- my parting gift was that was assigned, in case of recall, to an outfit that did not exist except on paper- specifically, as radio operator to Browning anti-aircraft (so was told- leftover from WWII as my MG)... to be called only in case of war.
+
+My priority was not to idle my time in those 12 months serving for my compulsory service in the army- but to do something useful with my skills.
+
+Now, I came from political advocacy; selling computers, videogames, used books: knew a bit about negotiating with customers and assessing the relative strenght of positions, etc.
+
+One of my roles in the army was also to interview the "new batch" that we received each month, to confirm with the officers their assigned roles.
+
+When I turned down promotions, people in later years (including Brussels) assumed that was because I was humble, or did not want to have a role involving responsibility.
+
+Actually, as I said back then to some (while still in the Army): it was not that the reason.
+
+The real reason because we had few caporali and even less caporal maggiore, but had many ordinary soldiers like me.
+
+Hence, by being a simple soldier, would be easier to turn the office into a presidium, so that could have a say in what mattered, instead of being out of the office when was instead better to be there and oversee e.g. the interview and allocation of a new batch of soldiers.
+
+Because our specialist group had, within specialist side (where I was) a significantly large quota of people with a degree or at least high school- at a time when, in Italy, we had around 5% of the population with a degree.
+
+Moreover, our people with a degree had quite often a STEM degree, or were working toward one.
+
+I negotiated to make work in the barracks infirmary those with health or biology studied knowledge- way beyond our quota (my outfit was a tiny slice of the overall barracks population, but with the largest STEM graduates or student quota).
+
+Hence, turning down what, being there just few months, amounted to ego massaging and little more, allowed to retain power to do something useful for those 1,200 soldiers within the barracks, and also continue delivering my training.
+
+Even took services at night to avoid halting the training delivery (albeit was told by other "furiere" across the barracks that I was the only one piling up all those roles, plus night services- was a retribution).
+
+Prioritization, again.
+
+As I wrote at the beginning: <i>Prioritization without a purpose is pointless, but prioritization without having first built a capability to adapt is even worse, as whenever your wonderful plans meet reality and you have to adapt, unless you built resilience before, you just generate confusion.</i>
+
+I assume that our current AI will survive the usual disappointment when hype and spending do not deliver instantaneous results aligned with the effort and resources allocated.
+
+While we are entering the AI deployment and pervasive embedding stage, we are already seeing some USA-based leading companies attempts to seize market control through IPR law, despite having trained their AIs through a massive distortion of existing IPR law.
+
+I buy a book and learn from it, and get inspired by its content to develop new ideas, and might quote some material.
+
+Anyway, it is different from saying that you provided that book to an AI training tool that "remembers" it chapter and verse, verbatim: for that, you need a license.
+
+It is not Cicero pro domo sua: as you can see on the banner of this website, I prefer to use this website as a sharing platform- and on the top left of the menu actually added two resources to help extract and process content without the need of using resource-intensive tools- you can just download either the metadata from Kaggle, or the "shipping manifest" plus the full content (both reprocessed as Markdown-like, 340+ article currently available online on this website) from GitHub.
+
+I ask in exchange to just add a link to the sources, so that others can start from the same material and derive their own.
+
+So, it is worth remembering how the USA was considered in the XIX, before had piled up IPR worth defending...
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme1_06_time-and-opportunity.png)</center>
+
+So, time to shift to the second theme.
+
+
+<b>Theme2: resilience</b>
+
+As shared online once in a while, the current squabbles between allies are at least generating continuous volleys of humorous memes.
+
+Still, it is worth having a look at the reality of what is being discussed:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme2_01_greenland.png)</center>
+
+No, it is not security including Greenland- it is using Greenland as a source of resources, tollbooth-on-sea plus harbor extended facilities, and launching pad to defend the USA.
+
+And the usual bout of kleptocracy.
+
+These are the side effects:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme2_02_20260211_01_geopolitical-context.png)</center>
+
+Building resilience is about preparing also for potential opportunities and alternatives.
+
+Over a decade ago, within the only mini-book that (so far) published in Italian ([you can read it here its version split into articles](https://robertolofaro.com/strumenti)), shared an approach to prepare a toolset of potential responses to "compose" to generate then an actual response, pre-empting instead of reacting.
+
+Nothing really that sci-fi: all newspapers routinely do it with what in Italian are called "crocodiles", preparing and updating articles about celebrities.
+
+Actually, old-fashioned political parties used to do the same- have a "research arm" that collected position papers on anything, ready to issue statements in zero time, when needed.
+
+Well, within AI, the same applies- while recently from some mailing lists in India received messages about the alliance Tata + ChatGPT, and Claude + Infosys, paving the way for an all-out war between the two, somebody else has been quietly hedging.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme2_03_20260211_04_under-the-hood.png)</center>
+
+As shared in my feed-back in English:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme2_04_20260211_05_resilience-step-1.png)</center>
+
+Time flies- almost 20 years ago, while living in Brussels, wrote about patents issued to Google that would enable to move in international waters.
+
+Considering how much international waters are being made unsafe from the current USA administration that behaves routinely as a pirate, moving into space is safer.
+
+The only issue is how to manage shared resources: resilience does not happen in a vacuum, and requires a consensus.
+
+Otherwise, adding hedging on hedging generates excessive costs.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme2_05_20260211_05_resilience-step-2.png)</center>
+
+Also, resilience is not a static definition, but requires building a continuous feed-back cycle that uses as contributors all those who share the same ecosystem.
+
+If you want to develop real resilience, you need to create an inclusive environment where all could contribute simply by being into it, as you need signals that are contextualized.
+
+And the best contextualization is given by those who interact with the specifics of reality- if that does not add effort and burden to their activities.
+
+With our current technology, this becomes actually feasible.
+
+As shared in a mini-book in late 2021, [you are the device](https://robertolofaro.com/byod2).
+
+Already decades ago there was the issue of geopolitical resilience that was really embedded within the concept of deterrence: yes, at least two countries had the potential capabilities to annihilate each other (and few times over) and, in the process, everybody else.
+
+Anyway, despite few close calls, we did not have an exchange of mushroom clouds on our main cities.
+
+It is a paradox that our current environment is becoming less reliable, less predictive, at a time when we introduce technologies that are less predictive and more able to adapt.
+
+A recipe for entropy generation, if those technologies (as current AI does) are producing also feed-back that can further influence the human side in becoming even more volatile.
+
+Will discuss this point in a future article.
+
+Within the European Union, we are currently talking a lot about "deterrence", "building out deterrence", and the like.
+
+Anyway, we willingly ignore that deterrence required a more or less rational stability based on mutual fear- if one of the parties assumes that a "winner takes it all" is feasible, deterrence does not work.
+
+So, before basing resilience on deterrence, we need to reassess its consequences.
+
+Well- adapt for now is a big word, as some of those who used the latest trend know.
+
+If you train on patterns, but then those patterns are not relevant, and then unleash in that environment what is based on those now less relevant patterns, you are looking for trouble.
+
+As wrote in that post and at the beginning of this article, technology should not be left to technologist- and in the last section of this article will share an experiment.
+
+The idea is that, unless AI really becomes able to "learn" but also "unlearn" and "relearn", should not be given roles or tasks that demand accountability.
+
+As accountability requires those abilities, i.e. being able to continuously adapt.
+
+If you cannot adapt, also if you are human, maybe is better not to get in any role that requires accountability- as you are unable to do anything more than...
+
+... follow patterns, or hiding behind them- something that observe routinely since 2012 in Italy, notably with the variance of having patterns that are applied selectively.
+
+Which is something that digital transformation only made more complex, but was already something that upset my foreign contacts long ago.
+
+As was told by a foreign colleague when an American company acquired a small Italian company in a specialized branch of service (security) and, during the transition, they discovered that, using an Italian loophole, the old owners had drained cash and, for good measure, signed contracts with their pals that were ironclad and prohibitively expensive to cancel.
+
+In cases where accountability is really based on static patterns, not on decisions and adaptability, it would actually be better to have software (not necessarily AIs, and certainly not probabilistic ones), as would have no issues with volume, repetition, and consistency.
+
+Moreover, a software would ignore elements that should not be relevant to the application of the pattern- such as tribal allegiance.
+
+
+<b>Theme3: building enablers</b>
+
+I discussed this element in a previous article, but it is worth sharing in this section:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme3_01_20260211_02_moving-forward.png)</center>
+
+My commentary on that post:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme3_02_20260211_03_it-takes-more-than-a-village.png)</center>
+
+The idea is what I repeated also in previous articles in different contexts.
+
+In Turin (but, frankly, it is an Italian habit), it is a routine to consider that "building enablers" means buildings (and the associated sinecure), creating continuously coordination roles, and giving plenty of work to the local building industry.
+
+Anyway, also in Turin in the event last week, I heard a lot about creating this, creating that, number of employees, etc- but little about the enabling factors that were discussed in the post in Spanish in the previous theme- energy.
+
+Yes, there were the usual bouts of promotion of getting back nuclear power stations in Italy- a country that still is squabbling about where to locate nuclear waste storage.
+
+I still have my doubts described in this post:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme3_03_20260218_enablingfactors.png)</center>
+
+And, again, knowing the context could help, e.g. by looking, in Italy, at the resources that are local.
+
+In a country with waterfalls, mountains, surrounded by seas, with active volcanoes and other sources of heat, insisting on a specific technology that requires imports is quite an interesting approach, instead of trying to become an innovation leader on extracting value from our resources, by focusing investment on that, not pipe(line) dreams.
+
+But, again, there is probably a long line of waiting industrialists ready to spread contracts.
+
+Moving to some positive point, a recent post on Linkedin that was an obvious promo for temporary management services shared data from a report: also in Italy there is an acceleration of M&A activities, including in private equity
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme3_04_temporary-management-pe.png)</center>
+
+It is a good sign- as those activities, carried out in a country that chronically has mainly small and minimal companies, require to develop a different kind of capabilities: professional management.
+
+As wrote in the first theme, I am a bit skeptical about local banking foundations, as since 2012 I heard too many of their rotating managers (mainly by political appointment) make grandiose speeches, spreading funding around, and still being unable to be catalysts for development.
+
+Anyway, I think that the benefit of the doubt can be given when a 1bln EUR agreement with the town of Turin to be spread across 4 years is announced:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme3_05_investment.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme3_06_investment-chart.png)</center>
+
+Only: would compare this announce with what was the usual annual expenditure of the same foundation- Turin will have local elections soon, and all the recent string of announces about the future, in Italy, should always be considered first for their tribal positioning impacts.
+
+It is a matter of local organizational culture, not of being a skeptic.
+
+Italy is a country with a significant debt, and currently there is a campaign to have citizens sign up for national debt:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme3_07_italian-debt.png)</center>
+
+Shared data also [across multiple articles](https://robertolofaro.com/search.php?tag=italy_debt_state)- including some that are not online anymore, as published them while was living in Belgium.
+
+At the time, I gave my assessment on the then-current stock of debt, and where I assumed would be heading in few years, and was mocked by Italians, always so good at gaslighting anybody who, using data, presents an inconvenient truth.
+
+Well, let's just say that actually I was gentler than reality- but simply because I assumed a more rational behavior.
+
+Back then, wrote that eventually, not being to able to devaluate as was a routine when Italy had its own currency, there would be a trend to internalize debt: President Trump can talk about "selective default", and then threaten allies if they dare to dispose of it.
+
+Italy is unable to do so.
+
+Therefore, creativity commands shifting debt to those who have a vested interest in keeping the boat afloat.
+
+Another debt-related enabler that could generate resources is a side-effect of AirBnB.
+
+Italy had a long history of middle-class investment in apartments to rent out- often being creative about taxation.
+
+So, many apartments were considered empty, while probably were not- but demonstrating reality would be cumbersome, require resources, etc.
+
+Anyway, many decided, after laws that created significant penalties for non-reporting or operating without legal contracts, that going the AirBnB way was better, as it was only in 2023 that at last Italy had a national identification code.
+
+As reported on AirBnB [AirBnB](https://www.airbnb.com/help/article/1394):
+<i>National Identification Code
+The so-called "Decreto Anticipi" (Decree-Law No. 145/2023, converted into Law No. 191/2023) provides a National Identification Code (CIN) and a dedicated database managed by the Ministry of Tourism ("BDSR").</i>
+
+So, AirBnB became de facto an enforcer for visibility of empty apartments used to generate revenue, and, by analyzing data on occupancy, could provide information on which properties could be attractive.
+
+Will discuss some potential consequences in future articles.
+
+Building enablers so far was focused on physical and financial assets, but, actually, there is a third element- regulatory.
+
+As shared in the previous article, also on data privacy Italy had elements that GDPR introduced, but years before; the only difference is enforcement.
+
+With AI, Italy is again moving faster than other European Member States:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme3_08_italian-ai-law.png)</center>
+
+Again: I am a bit skeptical about application, as even recently we had a scandal about the Italian side of the data privacy watchdog, while, at a time when the focus is on massive investments in defense, just yesterday received a news item about some 2,500 spare parts missing from Tornado fighters and C-130, but will share more on the latter in a forthcoming article on AI and defense, when more information should be available.
+
+There are two further themes to discuss: first, what a blended workspace (human+AI) implies, and then what the AI side of this workspace could become.
+
+
+<b>Theme4: blended workplace</b>
+
+The <b><u>fourth theme is about what implies a blended human+AI workspace</u></b>- just a quick discussion that, along with others on the same subject presented in previous articles, is really part of a collection of pointers to what will discuss in more detail in a future mini-book.
+
+A recent Harvard Business Review article discussed the actual [impacts of AI on workloads](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it).
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme4_01_reducing-work-hbr.png)</center>
+
+It is a point that actually observed and discussed even recently (e.g. lunchtime during that AI even in Turin I wrote about at the beginning).
+
+The concept is: unless you shift toward working on results, and still focus on billable hours, time&material, and similar approaches, the risk is that customers will look at the surface value of the potential short-term efficiencies within business activities.
+
+Ignoring a couple of elements:
+_ that resilience implies having capabilities
+_ that having capabilities imply developing [Pavlovian reflexes](https://en.wikipedia.org/wiki/Classical_conditioning)
+_ that keeping those capabilities alive implies drilling.
+
+During the COVID crisis in 2020, one point that I noticed in Italy was how, giving the same starting conditions, those hospice facilities that showed no or limited fatalities had consistently a shared point: personnel interviewed reported having been recently volunteering in major epidemics (e.g. Ebola), and having immediately implemented protocols that they had just used, using whatever minimal means they had.
+
+The others? Had years old manuals, and reported of limited or no routine drilling to validate that were still relevant and applicable.
+
+So, the risk is that we can use current short-term savings to negatively impact on long-term capabilities.
+
+If we had AIs really capable of "thinking", that could work.
+
+Using our pattern-based current LLMs and variants AIs based upon a probabilistic approach is still imperfect and basically using the existing huge knowledge base to produce new material.
+
+If we want to keep evolving, we need to be able to adapt, not to replicate.
+
+In humans, being able to adapt implies having "layered" knowledge, to understand the context, and understand what works or does not work- usually learning through trial-and-error, not just having the right answer immediately.
+
+That is "learning".
+
+If AI can accelerate output, it does not imply that increasingly delivery accordingly is sustainable:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme4_02_feed-back.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme4_03_riposte_extended.png)</center>
+
+We are already within a different environment- in ten years (since when I published my [first book on BYOD](https://robertolofaro.com/byod)), we moved from the issue of bringing your own device at work, to bringing your own brain and then, in office or at home, use it to interact with AIs not sanctioned by your organization, and then bring back the results to inject them into your organization.
+
+Meanwhile, potentially sharing not data, but proprietary information outside any control.
+
+So, it is interesting to read about "prompt injection", but, with AI-natives (coming soon into the workplace) as well as "AI-immigrants", we are actually moving past the simple "shadow AI", i.e. using unsanctioned AI to "augment" your personal capabilities, and entering into "pattern injection" into brains of employees and organizations.
+
+Both, unwillingly, becoming Trojan horses for change defined by exogenous patterns.
+
+And the more the net results of the first experiments will be successes, the more it will become a mutual dependency.
+
+Yes, we still have to consider employee motivation- something often forgotten:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme4_04_employee-motivation.png)</center>
+
+But often we end up sounding as the apprentice sorcerer within Disney's "Fantasia":
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme4_05_20260211_06_apprentice-sorcerers_01.png)</center>
+
+Anyway, I do not just teach and preach- first, I do experiment:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme4_06_20260211_06_apprentice-sorcerers_02.png)</center>
+
+Another example: since the late 1980s, routinely attended events courses etc around Europe.
+
+While listening, I am used to visualize- hence, often I can see a single slide and "see" a gap, or at least a potential interesting development.
+
+In the past, while continuing to listen, took notes- first on paper, then on a succession of devices (in the 1990s was using routinely a pad that allowed to scribble by hand, including an experimental one that converted my scribbling into words), then, when smartphones became common, it became a routine of googling.
+
+Then, while travelling back or during breaks, would try to make an outline on my computer.
+
+Over the last few years, instead gradually converted that into "launching" on that side detour one or more AIs, and then later assemble the results.
+
+The interesting part? Sometimes, while I listed to the explanation on a concept, meanwhile I have the concept developed further by AIs, so that, while the speaker is still on that point, I get the equivalent of "Starship Troopers" "do you want to know more"- and with my own custom constraints.
+
+You can see from [my CV](https://robertolofaro.com/cv) that I worked also within automotive.
+
+So, during the Turin event on AI that I shared above, there was a presentation from Nvidia- I was expecting Nemotron, but instead of course focused on physical AI and, being in Turin, specifically on autonomous vehicles, Alpamayo.
+
+I had a first round with Claude, and then handed over the results to Gemini- [you can read the results here](https://github.com/robertolofaro/supportmaterial/blob/master/20260223_nvidia_alpamayo_presentation.md): I asked to produce a presentation for a specific audience and with specific constraints.
+
+I do not make any change to the material, as it is just to show an example.
+
+Yet, I think that companies should invest in both soft skills and critical thinking "embedded" (and mildly disguised) within their AI learning initiatives.
+
+Material and costs? Time:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme4_07_training-material.png)</center>
+
+Personally, obviously (to keep informed and aligned) experiment with those fads I think that could evolve, and follow training (it is free) on them (e.g. [DeepLearning](https://deeplearning.ai) is becoming a consistent meeting point for all the AI companies to provide micro-training with Andrew Ng on whatever is new).
+
+But my choice is almost "heretic":
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme4_08_my-non-agentic.png)</center>
+
+Reason? As I wrote in the past, came to software and computers to have a look (at 14) at "electronic brains", after reading books on the human brain from a "functional" perspective (e.g. electrical activity) for few years.
+
+And in software had already learned about compiler design before starting the university- my first bit of software was an assignment to create a simulation of an URM, a kind of tape-like machine, derived from a book on computability.
+
+The teaching assistant (researcher who eventually became dean and mayor in his birthplace) when saw the listing said that it was a real compiler (including error recovery- laziness implies that many compilers in the 1990s stopped after each error, while mine considered recovering analysis when saw that made sense, to have every run count for more than one error discovered).
+
+Simply, a reuse of what I had learned about compilers... because I wanted to learn other languages and was interested in generating languages, as will explain in the next section.
+
+So, from my perspective, shifting from interacting with one model at a time, even if virtually is used as a "Mixture of Experts" (roughly- activating a segment of the model at a time), we need to update our game.
+
+I already since at least 2024 use prompts more from a "framing" perspective and looking at architectural design before coding delivery, including when asking to improve code that I wrote.
+
+In 2025, actually to support my activities worked with models to develop "objects" (software but also configuration and "framing" material) as if it were a project done with a human team of experts, but done in a matter of hours instead of weeks or months.
+
+So, while this image can seem a catalog of technologies more than an explanation, actually it is useful as a reminder that you have to think in terms of architecture and software engineering, not just a typing monkey:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260222_theme4_09_the-agentic-iceberg.png)</center>
+
+
+<b>Theme5: a glimpse into HR future</b>
+
+We are deploying AIs working within humans and AIs working with AIs.
+
+The former, mainly within the organizational boundaries.
+
+The latter, often outside the organizational boundaries, but then returning effects and information within the organizational boundaries.
+
+Yes, we are still having traditional HR functions, and most of the discussions I read about the future of work assume that we humans will follow the same communication dynamics.
+
+Well, without asking psychologists for AIs (but assume that some are already presenting the business case for that), probably the frustration that humans will feel in dealing with unresponsive AIs will not be solved by listening to both, or even by arranging a meeting between both.
+
+Beside the obvious differences, the more AIs will interact with AIs, the more reasonable is to expect other changes in the workplace- also if AIs were never to have a physical presence (albeit Tesla and other companies are focusing on that, at least for hazardous jobs).
+
+I did an experiment that already shared yesterday on Linkedin.
+
+Let's start with the first element, a post that released to see the reactions.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260223_theme5_01_machine-language.png)</center>
+
+I am used since the 1990s to work only through word-of-mouth, and also when contacted by recruiters often is just a "shield" to allow deniability of an offer from somebody who already saw me working.
+
+Hence, looking for missions outside my circles, I have to do a "pre-qualification", as I did when looking for customers in the past- when turned down often cultural and organizational change missions or startup support requests when I saw that there were not just missing elements from the organizational or capability side, but also an unwillingness of accepting those needs.
+
+If you worked long enough in change across industries, domains, countries, you eventually learn a simple element: human closed circles eventually develop their own language, or at least their own lingo.
+
+Often not by design, but by emerging consensus.
+
+Hence, if we train AIs on our patterns via our own publications online and offline, and our history, and then let AIs communicate mainly with other AIs (which is what agentic AI is about), it is just to be expected that, by adapting patterns, AIs will gradually move to something less ambiguous than human language.
+
+I got my reactions, so proceeded to share the results of the first phase:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/02/20260223_theme5_02_experiment.png)</center>
+
+You can visit the [relevant GitHub](https://github.com/robertolofaro/supportmaterial/tree/master/AI2AI_language_experiment).
+
+What is the next phase? Actually using that material and some ideas that did not share to move a step forward.
+
+As you can see from the exchanges and material, as well as the initial prompt, when asked the AIs to produce a BNF of the proposed approach, and then asked first the top 100 words in such a language plus the detailed card for a sample of 10, models reacted in different ways.
+
+You can [access the material here](https://github.com/robertolofaro/supportmaterial/tree/master/AI2AI_language_experiment), including an easy-to-use 28 pages document prepared by Claude and with minimal intervention from my side.
+
+Of course, the Claude document is an example- as I would like to do something different.
+
+But this is for the next phase.
+
+The real concept is: moving into AI models and agents that interact with the environment and other AI models and agents, including the ability to "enroll" them, generates the need to redesign our processes and concepts.
+
+An interesting document published rececently by the OECD is worth reading: OECD Due Diligence Guidance for Responsible AI, OECD Publishing, Paris, https://doi.org/10.1787/41671712-en.
+
+Not too long ago remember reading papers and articles about our forthcoming "token economy" (a digital successor to the "gig economy"), and more recently about using the "agentic" side of AI generates more "tokens" to pay than using just agents- unleash agents, but, if your definition was sustainable and tolerable while it was a "closed system", when agents get free to activate their own helpers, ask their own questions, you risk getting significantly increased costs for (if you are lucky) the same results.
+
+Reminds me when started my first official job and we were, during the COBOL training, using a local machine and basically told the opposite of what I had learned as good software engineering.
+
+So, we wrote few lines, compiled, tested, continued reiterating, until it was completed.
+
+When we shifted to the real customer environment, it was on a first project with fixed price for our employer, and we are allocated a budget of resources (back then, you counted CPU time, printed lines, memory allocation): and our costs were not those expected.
+
+Ditto happened before at the university, where there were similar arrangements: and I remember a professor assistant, the one I wrote about in the previous theme, telling me that actually there too the budget did not cover the way the systems were used by students: too much CPU time, too many lines printed.
+
+Just because you do not watch it, does not imply that you AI concoction is not using time- and the more ambiguity on boundaries, scope, purposes, etc, the higher the risk of waste of resources, unless you "teach" within your solution architecture to models how efficiency works.
+
+So, I increasingly read jokes of those who first complained that spend more time fixing code after unleashing agents with limited instruction and no reference architecture or constraints to stick to, and then that, after shifting to agentic (i.e. often even less structure but giving more autonomy to agents), their costs skyrocketed to obtain a similar result.
+
+During COVID, the accelerated "virtualization" of jobs to keep the economy moving while most people was confined at home opened the opportunity to extend worldwide technologies and business practices that before had been marginal or confined mainly to low-value-added jobs (e.g. call centers).
+
+Virtualizing the workplace enabled pushing through new or revamped technologies: while Skype or Lync were already used say in the 2000s and 2010s in multinational companies, still in the early 2010s meetings across the world face-to-face were common.
+
+It was in the 2020s that multiple offers became common, and, coupled with innovations in AI and computing, expanded technology access and convergence of multiple technologies.
+
+Would you have expected in 2019 to be able in few years to avoid attending a meeting and instead receive AI-generated highlights and summaries, maybe even connected with relevant information from other meetings?
+
+Still in 2015-2018, working on a multinational portfolio as PMO for a customer, I remember how many meetings resulted in hunting for documents, notes from previous meetings, discussions and who had said that- and massive note taking and minutes-production activities.
+
+So, gradually what did during the Nvidia presentation in Turin would become commonplace.
+
+You can attend a presentation or meeting, develop on keywords while attending without being distracted, connect it with something representing your own aggregated knowledge base, then integrate with the transcript of the meeting, and, while you are having a coffee or cup of tea after the meeting, and having some small talk, your AI can prepare an action plan and position paper on what was said to share with your team and your boss.
+
+Then, you will have just to reread (please do it!) and apply your own prompt (or "project", if you use Claude) on it, so that it is always consistent, and always added to the knowledge base of your team.
+
+Then, based on an agenda for a forthcoming meeting, in the future the same AI agent could actually interact with an AI agent representing the meeting, who will in turn have access to the AI agents representing each speaker, should there be any doubt before attending the meeting.
+
+Why this approach? When in 1990 was in Paris for a month of induction training, I was explained that it was expected, if there was a chance of disagreement during the meeting, to have a preliminary meeting, to discuss differences, and at least allow those that I would disagree with not to be surprised of the disagreement, have their own reply, and, if needed, politely agree to disagree but without being in the uneasy position of being unable to react.
+
+In Italy, that ritual is less developed, but we use the coffee machine to that end- some days in office in Turin, I had 9 coffees in office in a day, not for the coffee, but for the preliminary or debriefing around meetings...
+
+This small cameo is to show how many things that we take for granted could actually change if we unleash AI agents that are able to communicate with other AI agents.
+
+If not properly engineered and trained, as an example, when questioned to prepare a meeting AI agents might disclose confidential information, or provide misleading information.
+
+With no accountability, until AI agents will be able to do what I wrote across this article, who would be responsible if an AI agents provides to another AI agent misleading information due to a bad engineering choices, and that that propagates across the planning environment?
+
+It is not just an hypothesis- since the 1980s, saw that routinely happen in "vertical" organizations, where nobody had really access to the validation of all the elements that were considered within a decision.
+
+And, to close this last section on the title: all that you read so far, despite the references to Italy and Europe (as the series where this article appears is anyway "EU, Italy, Turin"), is actually part of a geopolitical trend- AIs are not restrained by boundaries and, if Google and others have their way, not even just our own planet.
+
+So, will continue my experiment(s)- not just this one on language, also another one on decision-making, all based on what you can see on my CV (and more).
