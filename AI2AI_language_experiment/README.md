@@ -27,3 +27,5 @@ The document, developed along with different AIs, along with a full test suite t
 The test suite will be released here in early March 2026, when a full narrative of the experiment and ongoing next steps will be published.
 
 For now, for comments etc [contact me on Linkedin](https://linkedin.com/in/robertolofaro)
+
+You can find the initial description of this experiment rationale within the article [The technological side of geopolitical #resilience #AI #HR](https://robertolofaro.com/index.php?page=640), that you can also find in simil-Markdown format [here, for the content](https://github.com/robertolofaro/supportmaterial/blob/master/kagglemetadata_content/file_640_content.txt), and [here, for the "shipping manifest"](https://github.com/robertolofaro/supportmaterial/blob/master/kagglemetadata_content/file_640_abstract.txt) (along with other 300+ articles)
