@@ -1,0 +1,53 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260308_article.png)</center>
+
+This really short article is within the [Books in progress](https://robertolofaro.com/index.php?section=books-blog) series.
+
+Actually, as soon as the publishing online next week will be accepted, will have also its own page within the published books page.
+
+Because the book is already online.
+
+Why now? This book is an experiment on an experiment, that announced a couple of weeks ago.
+
+The concept is simple: how will AIs communicate with each other and with us? Will we be able to monitor and integrate them?
+
+It does not matter if you believe that AIs are already "sentient" (as was uttered in commentary to some Anthropic interviews), or that are just connecting the dots of human behavior.
+
+The key risk? In my view, is not a "terminator" style impact, but, instead, that in our current hype-driven initiatives, simply will unleash AIs that are not yet ready to deliver value, and give them right to use our accounts, resources, etc., only to stop them after one of the usual ex-post audits, when damages (including those that cannot be reversed) will have been done.
+
+In this short article, will not repeat what you can find within the book.
+
+Actually, this choice is not to drive sales- you can read already a sample of the book on [on my "portfolio" website](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/bsn02_release_v0_20260308_sample.pdf), as a short Acrobat file containing the table of contents and the introductory page of each chapter.
+
+Moreover, will start soon releasing other material from the book, and, after the next project "increment" release (i.e. the next expansion of the experiment material already online), also the book will be available for reading online.
+
+I wrote above that the book is an experiment on an experiment.
+
+So, the "inner" experiment is what was shared online already in late February, and [has its own GitHub repository](https://github.com/robertolofaro/supportmaterial/tree/master/AI2AI_language_experiment).
+
+Paraphrasing what wrote on the back cover of the book: the book describes an experiment and its rationale.
+
+The key concept of this book is to have AIs by consensus develop a language set and updated by AIs, but audited by humans with the collaboration of other AIs, due to the volume and frequency of information transacted that would make mere human supervision not feasible.
+
+Along with that, to develop a communication protocol- not just as a technology, but also as a concept: a set of rules of engagement, as human communication in diplomacy.
+
+The example provided allows also to create a communication channel enforcing that protocol.
+
+It is a first step in a long-term project on cultural and organizational AI embedding AIs.
+
+Or: with the shift to agentic AI, giving autonomy to AIs to enroll also other AIs, we are actually delegating to AI the power to subcontract other AIs.
+
+According to some recent articles, that extends to AIs subcontracting humans to cover activities that require physical interactions.
+
+The tag cloud that you see above is not representing this article, but the whole content of the book.
+
+As the book is an experiment on documenting the experiment so far, by writing the book across one week, it comes with its own [GitHub repository](https://github.com/robertolofaro/book_bsn02).
+
+For now, contains just the main images within the book (including, where available, the Mermaid file to generate the images), but, as the material will evolve, the book repository will evolve into the documentation repository for the main experiment.
+
+Hence, also future mini-books on this experiments will use the same repository to share material.
+
+For now, if you want more information, just download the "free sample" at the link above.
+
+From next week will resume publishing articles and also, as soon as feasible, updates to the LoRAs about Turin (to generate images) that already released in the past.
+
+For now, have a nice Sunday!
