@@ -1,0 +1,282 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1035" height="690" viewBox="0 0 1035 690" style="font-family:'Segoe UI',sans-serif;background:white;"><rect x="0" y="0" width="1035" height="690" fill="white"/>
+            <text x="457.5" y="32" text-anchor="middle" font-size="15" font-weight="700" fill="#2c3e50">Risk vs Return — Investment Portfolio</text><rect x="90" y="60" width="735" height="540" fill="#f8f9fa" rx="4"/><line x1="90" y1="60" x2="90" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="60" x2="825" y2="60" stroke="#e8eaed" stroke-width="1"/><text x="90" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">0</text><text x="82" y="64" text-anchor="end" font-size="10" fill="#95a5a6">35</text><line x1="237" y1="60" x2="237" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="168" x2="825" y2="168" stroke="#e8eaed" stroke-width="1"/><text x="237" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">8</text><text x="82" y="172" text-anchor="end" font-size="10" fill="#95a5a6">28</text><line x1="384" y1="60" x2="384" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="276" x2="825" y2="276" stroke="#e8eaed" stroke-width="1"/><text x="384" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">16</text><text x="82" y="280" text-anchor="end" font-size="10" fill="#95a5a6">21</text><line x1="531" y1="60" x2="531" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="384" x2="825" y2="384" stroke="#e8eaed" stroke-width="1"/><text x="531" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">24</text><text x="82" y="388" text-anchor="end" font-size="10" fill="#95a5a6">14</text><line x1="678" y1="60" x2="678" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="492" x2="825" y2="492" stroke="#e8eaed" stroke-width="1"/><text x="678" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">32</text><text x="82" y="496" text-anchor="end" font-size="10" fill="#95a5a6">7</text><line x1="825" y1="60" x2="825" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="600" x2="825" y2="600" stroke="#e8eaed" stroke-width="1"/><text x="825" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">40</text><text x="82" y="604" text-anchor="end" font-size="10" fill="#95a5a6">0</text><rect x="90" y="60" width="735" height="540" fill="none" stroke="#d5d8dc" stroke-width="1.5" rx="4"/><text x="457.5" y="675" text-anchor="middle" font-size="12" font-weight="600" fill="#2c3e50">Risk (Volatility %)</text><text x="18" y="330" text-anchor="middle" font-size="12" font-weight="600" fill="#2c3e50" transform="rotate(-90,18,330)">Expected Return (%)</text><line x1="457.5" y1="60" x2="457.5" y2="600" stroke="#bdc3c7" stroke-width="1.5" stroke-dasharray="8,4"/><line x1="90" y1="337.7142857142857" x2="825" y2="337.7142857142857" stroke="#bdc3c7" stroke-width="1.5" stroke-dasharray="8,4"/><text x="273.75" y="198.85714285714286" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">SWEET SPOT</text><text x="641.25" y="198.85714285714286" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">HIGH RETURN HIGH RISK</text><text x="273.75" y="468.8571428571429" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">LOW BOTH</text><text x="641.25" y="468.8571428571429" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">AVOID</text><circle cx="367.625" cy="232.71428571428572" r="48" fill="rgba(0,0,0,0.08)"/><circle cx="606.5" cy="325.28571428571433" r="20.37528614319268" fill="rgba(0,0,0,0.08)"/><circle cx="239" cy="417.8571428571429" r="36.22044650003049" fill="rgba(0,0,0,0.08)"/><circle cx="496.25000000000006" cy="356.1428571428571" r="14.762158860811562" fill="rgba(0,0,0,0.08)"/><circle cx="404.375" cy="294.42857142857144" r="29.97034320720725" fill="rgba(0,0,0,0.08)"/><circle cx="680" cy="387" r="10" fill="rgba(0,0,0,0.08)"/><circle cx="183.875" cy="495" r="42.81013865278402" fill="rgba(0,0,0,0.08)"/><circle cx="735.125" cy="140.14285714285717" r="22.946601690893083" fill="rgba(0,0,0,0.08)"/><circle cx="643.25" cy="171" r="19.035988976094785" fill="rgba(0,0,0,0.08)"/><circle cx="275.75" cy="371.57142857142856" r="26.57335816048373" fill="rgba(0,0,0,0.08)"/><circle cx="365.625" cy="229.71428571428572" r="48" fill="#2980b9" opacity="0.85" stroke="#2980b9" stroke-width="1.5"/><circle cx="352.185" cy="216.27428571428572" r="15.36" fill="white" opacity="0.25"/><text x="365.625" y="232.71428571428572" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">US Equities</text><circle cx="604.5" cy="322.28571428571433" r="20.37528614319268" fill="#27ae60" opacity="0.85" stroke="#27ae60" stroke-width="1.5"/><circle cx="598.794919879906" cy="316.5806341656204" r="6.520091565821659" fill="white" opacity="0.25"/><text x="604.5" y="325.28571428571433" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">EM Bonds</text><circle cx="237" cy="414.8571428571429" r="36.22044650003049" fill="#27ae60" opacity="0.85" stroke="#27ae60" stroke-width="1.5"/><circle cx="226.85827497999145" cy="404.71541783713434" r="11.590542880009757" fill="white" opacity="0.25"/><text x="237" y="417.8571428571429" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Corp IG</text><circle cx="494.25000000000006" cy="353.1428571428571" r="14.762158860811562" fill="#27ae60" opacity="0.85" stroke="#27ae60" stroke-width="1.5"/><circle cx="490.1165955189728" cy="349.00945266182987" r="4.7238908354597" fill="white" opacity="0.25"/><text x="494.25000000000006" y="356.1428571428571" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">HY Credit</text><circle cx="402.375" cy="291.42857142857144" r="29.97034320720725" fill="#e74c3c" opacity="0.85" stroke="#e74c3c" stroke-width="1.5"/><circle cx="393.98330390198197" cy="283.0368753305534" r="9.59050982630632" fill="white" opacity="0.25"/><text x="402.375" y="294.42857142857144" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Real Estate</text><circle cx="678" cy="384" r="10" fill="#e74c3c" opacity="0.85" stroke="#e74c3c" stroke-width="1.5"/><circle cx="675.2" cy="381.2" r="3.2" fill="white" opacity="0.25"/><text x="678" y="387" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Commodities</text><circle cx="181.875" cy="492" r="42.81013865278402" fill="#27ae60" opacity="0.85" stroke="#27ae60" stroke-width="1.5"/><circle cx="169.88816117722047" cy="480.01316117722047" r="13.699244368890886" fill="white" opacity="0.25"/><text x="181.875" y="495" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Govt Bonds</text><circle cx="733.125" cy="137.14285714285717" r="22.946601690893083" fill="#e74c3c" opacity="0.85" stroke="#e74c3c" stroke-width="1.5"/><circle cx="726.69995152655" cy="130.7178086694071" r="7.342912541085787" fill="white" opacity="0.25"/><text x="733.125" y="140.14285714285717" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Private Equity</text><circle cx="641.25" cy="168" r="19.035988976094785" fill="#2980b9" opacity="0.85" stroke="#2980b9" stroke-width="1.5"/><circle cx="635.9199230866934" cy="162.66992308669347" r="6.091516472350332" fill="white" opacity="0.25"/><text x="641.25" y="171" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Tech Growth</text><circle cx="273.75" cy="368.57142857142856" r="26.57335816048373" fill="#e74c3c" opacity="0.85" stroke="#e74c3c" stroke-width="1.5"/><circle cx="266.3094597150646" cy="361.13088828649313" r="8.503474611354793" fill="white" opacity="0.25"/><text x="273.75" y="371.57142857142856" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Infra Fund</text><text x="850" y="78" font-size="11" font-weight="700" fill="#2c3e50">Asset Class</text><circle cx="858" cy="102" r="7" fill="#2980b9" opacity="0.85"/><text x="872" y="106" font-size="10" fill="#2c3e50">Equities</text><circle cx="858" cy="128" r="7" fill="#27ae60" opacity="0.85"/><text x="872" y="132" font-size="10" fill="#2c3e50">Fixed Income</text><circle cx="858" cy="154" r="7" fill="#e74c3c" opacity="0.85"/><text x="872" y="158" font-size="10" fill="#2c3e50">Alternatives</text><rect x="850" y="205" width="170" height="96" fill="#f0f3f4" rx="5" stroke="#e0e3e4" stroke-width="1"/><text x="864" y="227" font-size="10" font-weight="700" fill="#7f8c8d">DIMENSIONS</text><text x="864" y="245" font-size="10" fill="#5d6d7e">① X — Risk (Volatility %)</text><text x="864" y="259" font-size="10" fill="#5d6d7e">② Y — Expected Return (%)</text><text x="864" y="273" font-size="10" fill="#5d6d7e">③ Size — Position (M$)</text><text x="864" y="287" font-size="10" fill="#5d6d7e">④ Color — Asset Class</text>
+        <style xmlns="http://www.w3.org/1999/xhtml">
+        :root {
+            --primary: #2c3e50;
+            --primary-light: #34495e;
+            --accent: #8e44ad;
+            --accent-hover: #9b59b6;
+            --success: #27ae60;
+            --success-hover: #229954;
+            --warning: #e67e22;
+            --warning-hover: #d35400;
+            --danger: #e74c3c;
+            --bg: #f4f7f6;
+            --surface: #ffffff;
+            --border: #ddd;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+            --radius: 6px;
+            --transition: 0.2s ease;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* Header Styles */
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: var(--shadow-sm);
+            flex-shrink: 0;
+        }
+
+        .brand {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        .brand span {
+            font-weight: 300;
+            opacity: 0.9;
+        }
+
+        /* Main Layout */
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            gap: 0;
+        }
+
+        /* Pane Styles */
+        .pane {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .editor-pane {
+            width: 40%;
+            min-width: 320px;
+            max-width: 600px;
+            background: var(--surface);
+            border-inline-end: 2px solid var(--border);
+            padding: 1.25rem;
+            gap: 0.75rem;
+        }
+
+        .preview-pane {
+            flex: 1;
+            background: #fafafa;
+            padding: 1.25rem;
+        }
+
+        /* Form Elements */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-label {
+            font-weight: 600;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        select, textarea, button {
+            font-family: inherit;
+            font-size: 0.9375rem;
+            border-radius: var(--radius);
+            border: 1px solid #bdc3c7;
+            transition: var(--transition);
+        }
+
+        select {
+            padding: 0.625rem 0.875rem;
+            background: var(--surface);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            padding-right: 2.5rem;
+        }
+
+        select:focus, textarea:focus, button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        textarea {
+            flex: 1;
+            font-family: 'Consolas', 'Monaco', 'Fira Code', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            padding: 0.875rem;
+            resize: none;
+            background: #f8f9fa;
+            border: 1px solid #ccc;
+        }
+
+        textarea:focus {
+            background: var(--surface);
+            border-color: var(--accent);
+        }
+
+        /* Button Styles */
+        .btn {
+            padding: 0.625rem 1rem;
+            border: none;
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+        }
+
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: white;
+            width: 100%;
+            padding: 0.875rem;
+            font-size: 1rem;
+        }
+
+        .btn-accent:hover {
+            background: var(--accent-hover);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: var(--success-hover);
+        }
+
+        .btn-warning {
+            background: var(--warning);
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: var(--warning-hover);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* Output Area */
+        .output-wrapper {
+            background: var(--surface);
+            border: 1px solid #eee;
+            border-radius: 8px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: auto;
+            position: relative;
+        }
+
+        #render-area {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 1.5rem;
+            min-height: 400px;
+        }
+
+        #render-area svg {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        /* Status &amp; Error Messages */
+        .status-message {
+            padding: 1rem;
+            border-radius: var(--radius);
+            font-size: 0.875rem;
+            display: none;
+        }
+
+        .status-message.error {
+            display: block;
+            background: #fdeaea;
+            color: var(--danger);
+            border: 1px solid #f5c6cb;
+        }
+
+        .status-message.loading {
+            display: block;
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                flex-direction: column;
+            }
+            .editor-pane {
+                width: 100%;
+                max-width: none;
+                max-height: 45vh;
+                border-inline-end: none;
+                border-block-end: 2px solid var(--border);
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            header, .editor-pane {
+                display: none;
+            }
+            .preview-pane {
+                width: 100%;
+                height: 100vh;
+            }
+        }
+    </style></svg>

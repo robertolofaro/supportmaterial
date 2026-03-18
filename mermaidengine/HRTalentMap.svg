@@ -1,0 +1,282 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1035" height="690" viewBox="0 0 1035 690" style="font-family:'Segoe UI',sans-serif;background:white;"><rect x="0" y="0" width="1035" height="690" fill="white"/>
+            <text x="457.5" y="32" text-anchor="middle" font-size="15" font-weight="700" fill="#2c3e50">HR Talent Map</text><rect x="90" y="60" width="735" height="540" fill="#f8f9fa" rx="4"/><line x1="90" y1="60" x2="90" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="60" x2="825" y2="60" stroke="#e8eaed" stroke-width="1"/><text x="90" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">0</text><text x="82" y="64" text-anchor="end" font-size="10" fill="#95a5a6">10</text><line x1="237" y1="60" x2="237" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="168" x2="825" y2="168" stroke="#e8eaed" stroke-width="1"/><text x="237" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">2</text><text x="82" y="172" text-anchor="end" font-size="10" fill="#95a5a6">8</text><line x1="384" y1="60" x2="384" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="276" x2="825" y2="276" stroke="#e8eaed" stroke-width="1"/><text x="384" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">4</text><text x="82" y="280" text-anchor="end" font-size="10" fill="#95a5a6">6</text><line x1="531" y1="60" x2="531" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="384" x2="825" y2="384" stroke="#e8eaed" stroke-width="1"/><text x="531" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">6</text><text x="82" y="388" text-anchor="end" font-size="10" fill="#95a5a6">4</text><line x1="678" y1="60" x2="678" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="492" x2="825" y2="492" stroke="#e8eaed" stroke-width="1"/><text x="678" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">8</text><text x="82" y="496" text-anchor="end" font-size="10" fill="#95a5a6">2</text><line x1="825" y1="60" x2="825" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="600" x2="825" y2="600" stroke="#e8eaed" stroke-width="1"/><text x="825" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">10</text><text x="82" y="604" text-anchor="end" font-size="10" fill="#95a5a6">0</text><rect x="90" y="60" width="735" height="540" fill="none" stroke="#d5d8dc" stroke-width="1.5" rx="4"/><text x="457.5" y="675" text-anchor="middle" font-size="12" font-weight="600" fill="#2c3e50">Performance Score</text><text x="18" y="330" text-anchor="middle" font-size="12" font-weight="600" fill="#2c3e50" transform="rotate(-90,18,330)">Potential Score</text><line x1="457.5" y1="60" x2="457.5" y2="600" stroke="#bdc3c7" stroke-width="1.5" stroke-dasharray="8,4"/><line x1="90" y1="330" x2="825" y2="330" stroke="#bdc3c7" stroke-width="1.5" stroke-dasharray="8,4"/><text x="273.75" y="195" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">STARS</text><text x="641.25" y="195" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">HIGH POTENTIAL</text><text x="273.75" y="465" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">SOLID PERFORMERS</text><text x="641.25" y="465" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">REVIEW</text><circle cx="768.1999999999999" cy="127.79999999999995" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="643.25" cy="111.60000000000002" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="738.8000000000001" cy="214.2" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="540.3499999999999" cy="144" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="790.25" cy="100.79999999999995" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="444.8" cy="181.8" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="672.65" cy="257.4" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="349.25" cy="376.2" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="687.3499999999999" cy="122.39999999999998" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="525.6500000000001" cy="327.6" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="591.8" cy="198" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="297.79999999999995" cy="392.4" r="29" fill="rgba(0,0,0,0.08)"/><circle cx="766.1999999999999" cy="124.79999999999995" r="29" fill="#2980b9" opacity="0.85" stroke="#2980b9" stroke-width="1.5"/><circle cx="758.0799999999999" cy="116.67999999999995" r="9.28" fill="white" opacity="0.25"/><text x="766.1999999999999" y="127.79999999999995" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Alice Chen</text><circle cx="641.25" cy="108.60000000000002" r="29" fill="#27ae60" opacity="0.85" stroke="#27ae60" stroke-width="1.5"/><circle cx="633.13" cy="100.48000000000002" r="9.28" fill="white" opacity="0.25"/><text x="641.25" y="111.60000000000002" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Bob Farida</text><circle cx="736.8000000000001" cy="211.2" r="29" fill="#2980b9" opacity="0.85" stroke="#2980b9" stroke-width="1.5"/><circle cx="728.6800000000001" cy="203.07999999999998" r="9.28" fill="white" opacity="0.25"/><text x="736.8000000000001" y="214.2" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Carol Liu</text><circle cx="538.3499999999999" cy="141" r="29" fill="#e74c3c" opacity="0.85" stroke="#e74c3c" stroke-width="1.5"/><circle cx="530.2299999999999" cy="132.88" r="9.28" fill="white" opacity="0.25"/><text x="538.3499999999999" y="144" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">David Okafor</text><circle cx="788.25" cy="97.79999999999995" r="29" fill="#8e44ad" opacity="0.85" stroke="#8e44ad" stroke-width="1.5"/><circle cx="780.13" cy="89.67999999999995" r="9.28" fill="white" opacity="0.25"/><text x="788.25" y="100.79999999999995" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Eva Moretti</text><circle cx="442.8" cy="178.8" r="29" fill="#e67e22" opacity="0.85" stroke="#e67e22" stroke-width="1.5"/><circle cx="434.68" cy="170.68" r="9.28" fill="white" opacity="0.25"/><text x="442.8" y="181.8" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Frank Dubois</text><circle cx="670.65" cy="254.39999999999998" r="29" fill="#16a085" opacity="0.85" stroke="#16a085" stroke-width="1.5"/><circle cx="662.53" cy="246.27999999999997" r="9.28" fill="white" opacity="0.25"/><text x="670.65" y="257.4" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Grace Kim</text><circle cx="347.25" cy="373.2" r="29" fill="#c0392b" opacity="0.85" stroke="#c0392b" stroke-width="1.5"/><circle cx="339.13" cy="365.08" r="9.28" fill="white" opacity="0.25"/><text x="347.25" y="376.2" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Hans Becker</text><circle cx="685.3499999999999" cy="119.39999999999998" r="29" fill="#27ae60" opacity="0.85" stroke="#27ae60" stroke-width="1.5"/><circle cx="677.2299999999999" cy="111.27999999999997" r="9.28" fill="white" opacity="0.25"/><text x="685.3499999999999" y="122.39999999999998" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Ines Patel</text><circle cx="523.6500000000001" cy="324.6" r="29" fill="#e74c3c" opacity="0.85" stroke="#e74c3c" stroke-width="1.5"/><circle cx="515.5300000000001" cy="316.48" r="9.28" fill="white" opacity="0.25"/><text x="523.6500000000001" y="327.6" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">James Osei</text><circle cx="589.8" cy="195" r="29" fill="#e67e22" opacity="0.85" stroke="#e67e22" stroke-width="1.5"/><circle cx="581.68" cy="186.88" r="9.28" fill="white" opacity="0.25"/><text x="589.8" y="198" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Kira Tanaka</text><circle cx="295.79999999999995" cy="389.4" r="29" fill="#c0392b" opacity="0.85" stroke="#c0392b" stroke-width="1.5"/><circle cx="287.67999999999995" cy="381.28" r="9.28" fill="white" opacity="0.25"/><text x="295.79999999999995" y="392.4" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Leo Santos</text><text x="850" y="78" font-size="11" font-weight="700" fill="#2c3e50">Department</text><circle cx="858" cy="102" r="7" fill="#2980b9" opacity="0.85"/><text x="872" y="106" font-size="10" fill="#2c3e50">Engineering</text><circle cx="858" cy="128" r="7" fill="#27ae60" opacity="0.85"/><text x="872" y="132" font-size="10" fill="#2c3e50">Product</text><circle cx="858" cy="154" r="7" fill="#e74c3c" opacity="0.85"/><text x="872" y="158" font-size="10" fill="#2c3e50">Sales</text><circle cx="858" cy="180" r="7" fill="#8e44ad" opacity="0.85"/><text x="872" y="184" font-size="10" fill="#2c3e50">Leadership</text><circle cx="858" cy="206" r="7" fill="#e67e22" opacity="0.85"/><text x="872" y="210" font-size="10" fill="#2c3e50">Marketing</text><circle cx="858" cy="232" r="7" fill="#16a085" opacity="0.85"/><text x="872" y="236" font-size="10" fill="#2c3e50">Finance</text><circle cx="858" cy="258" r="7" fill="#c0392b" opacity="0.85"/><text x="872" y="262" font-size="10" fill="#2c3e50">Operations</text><rect x="850" y="309" width="170" height="96" fill="#f0f3f4" rx="5" stroke="#e0e3e4" stroke-width="1"/><text x="864" y="331" font-size="10" font-weight="700" fill="#7f8c8d">DIMENSIONS</text><text x="864" y="349" font-size="10" fill="#5d6d7e">① X — Performance Score</text><text x="864" y="363" font-size="10" fill="#5d6d7e">② Y — Potential Score</text><text x="864" y="377" font-size="10" fill="#5d6d7e">③ Size — Team Size</text><text x="864" y="391" font-size="10" fill="#5d6d7e">④ Color — Department</text>
+        <style xmlns="http://www.w3.org/1999/xhtml">
+        :root {
+            --primary: #2c3e50;
+            --primary-light: #34495e;
+            --accent: #8e44ad;
+            --accent-hover: #9b59b6;
+            --success: #27ae60;
+            --success-hover: #229954;
+            --warning: #e67e22;
+            --warning-hover: #d35400;
+            --danger: #e74c3c;
+            --bg: #f4f7f6;
+            --surface: #ffffff;
+            --border: #ddd;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+            --radius: 6px;
+            --transition: 0.2s ease;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* Header Styles */
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: var(--shadow-sm);
+            flex-shrink: 0;
+        }
+
+        .brand {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        .brand span {
+            font-weight: 300;
+            opacity: 0.9;
+        }
+
+        /* Main Layout */
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            gap: 0;
+        }
+
+        /* Pane Styles */
+        .pane {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .editor-pane {
+            width: 40%;
+            min-width: 320px;
+            max-width: 600px;
+            background: var(--surface);
+            border-inline-end: 2px solid var(--border);
+            padding: 1.25rem;
+            gap: 0.75rem;
+        }
+
+        .preview-pane {
+            flex: 1;
+            background: #fafafa;
+            padding: 1.25rem;
+        }
+
+        /* Form Elements */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-label {
+            font-weight: 600;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        select, textarea, button {
+            font-family: inherit;
+            font-size: 0.9375rem;
+            border-radius: var(--radius);
+            border: 1px solid #bdc3c7;
+            transition: var(--transition);
+        }
+
+        select {
+            padding: 0.625rem 0.875rem;
+            background: var(--surface);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            padding-right: 2.5rem;
+        }
+
+        select:focus, textarea:focus, button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        textarea {
+            flex: 1;
+            font-family: 'Consolas', 'Monaco', 'Fira Code', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            padding: 0.875rem;
+            resize: none;
+            background: #f8f9fa;
+            border: 1px solid #ccc;
+        }
+
+        textarea:focus {
+            background: var(--surface);
+            border-color: var(--accent);
+        }
+
+        /* Button Styles */
+        .btn {
+            padding: 0.625rem 1rem;
+            border: none;
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+        }
+
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: white;
+            width: 100%;
+            padding: 0.875rem;
+            font-size: 1rem;
+        }
+
+        .btn-accent:hover {
+            background: var(--accent-hover);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: var(--success-hover);
+        }
+
+        .btn-warning {
+            background: var(--warning);
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: var(--warning-hover);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* Output Area */
+        .output-wrapper {
+            background: var(--surface);
+            border: 1px solid #eee;
+            border-radius: 8px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: auto;
+            position: relative;
+        }
+
+        #render-area {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 1.5rem;
+            min-height: 400px;
+        }
+
+        #render-area svg {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        /* Status &amp; Error Messages */
+        .status-message {
+            padding: 1rem;
+            border-radius: var(--radius);
+            font-size: 0.875rem;
+            display: none;
+        }
+
+        .status-message.error {
+            display: block;
+            background: #fdeaea;
+            color: var(--danger);
+            border: 1px solid #f5c6cb;
+        }
+
+        .status-message.loading {
+            display: block;
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                flex-direction: column;
+            }
+            .editor-pane {
+                width: 100%;
+                max-width: none;
+                max-height: 45vh;
+                border-inline-end: none;
+                border-block-end: 2px solid var(--border);
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            header, .editor-pane {
+                display: none;
+            }
+            .preview-pane {
+                width: 100%;
+                height: 100vh;
+            }
+        }
+    </style></svg>

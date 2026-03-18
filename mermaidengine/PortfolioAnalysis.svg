@@ -1,0 +1,282 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1035" height="690" viewBox="0 0 1035 690" style="font-family:'Segoe UI',sans-serif;background:white;"><rect x="0" y="0" width="1035" height="690" fill="white"/>
+            <text x="457.5" y="32" text-anchor="middle" font-size="15" font-weight="700" fill="#2c3e50">Product Portfolio Analysis</text><rect x="90" y="60" width="735" height="540" fill="#f8f9fa" rx="4"/><line x1="90" y1="60" x2="90" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="60" x2="825" y2="60" stroke="#e8eaed" stroke-width="1"/><text x="90" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">0</text><text x="82" y="64" text-anchor="end" font-size="10" fill="#95a5a6">100</text><line x1="237" y1="60" x2="237" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="168" x2="825" y2="168" stroke="#e8eaed" stroke-width="1"/><text x="237" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">6</text><text x="82" y="172" text-anchor="end" font-size="10" fill="#95a5a6">80</text><line x1="384" y1="60" x2="384" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="276" x2="825" y2="276" stroke="#e8eaed" stroke-width="1"/><text x="384" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">12</text><text x="82" y="280" text-anchor="end" font-size="10" fill="#95a5a6">60</text><line x1="531" y1="60" x2="531" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="384" x2="825" y2="384" stroke="#e8eaed" stroke-width="1"/><text x="531" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">18</text><text x="82" y="388" text-anchor="end" font-size="10" fill="#95a5a6">40</text><line x1="678" y1="60" x2="678" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="492" x2="825" y2="492" stroke="#e8eaed" stroke-width="1"/><text x="678" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">24</text><text x="82" y="496" text-anchor="end" font-size="10" fill="#95a5a6">20</text><line x1="825" y1="60" x2="825" y2="600" stroke="#e8eaed" stroke-width="1"/><line x1="90" y1="600" x2="825" y2="600" stroke="#e8eaed" stroke-width="1"/><text x="825" y="616" text-anchor="middle" font-size="10" fill="#95a5a6">30</text><text x="82" y="604" text-anchor="end" font-size="10" fill="#95a5a6">0</text><rect x="90" y="60" width="735" height="540" fill="none" stroke="#d5d8dc" stroke-width="1.5" rx="4"/><text x="457.5" y="675" text-anchor="middle" font-size="12" font-weight="600" fill="#2c3e50">Market Growth (%)</text><text x="18" y="330" text-anchor="middle" font-size="12" font-weight="600" fill="#2c3e50" transform="rotate(-90,18,330)">Position</text><line x1="457.5" y1="60" x2="457.5" y2="600" stroke="#bdc3c7" stroke-width="1.5" stroke-dasharray="8,4"/><line x1="90" y1="330" x2="825" y2="330" stroke="#bdc3c7" stroke-width="1.5" stroke-dasharray="8,4"/><text x="273.75" y="195" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">INVEST</text><text x="641.25" y="195" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">GROW</text><text x="273.75" y="465" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">HARVEST</text><text x="641.25" y="465" text-anchor="middle" font-size="11" font-weight="700" fill="#bdc3c7" opacity="0.9" letter-spacing="1">DIVEST</text><circle cx="631" cy="181.8" r="25.272877236064375" fill="rgba(0,0,0,0.08)"/><circle cx="533" cy="252" r="31.937768157740557" fill="rgba(0,0,0,0.08)"/><circle cx="288" cy="160.20000000000005" r="12.654295713712592" fill="rgba(0,0,0,0.08)"/><circle cx="704.5" cy="376.20000000000005" r="38.72904465636489" fill="rgba(0,0,0,0.08)"/><circle cx="214.5" cy="441" r="21.519136239183243" fill="rgba(0,0,0,0.08)"/><circle cx="435" cy="306" r="27.603321407705653" fill="rgba(0,0,0,0.08)"/><circle cx="778" cy="127.80000000000001" r="10" fill="rgba(0,0,0,0.08)"/><circle cx="165.5" cy="505.8" r="48" fill="rgba(0,0,0,0.08)"/><circle cx="557.5" cy="219.60000000000002" r="18.803457104138673" fill="rgba(0,0,0,0.08)"/><circle cx="629" cy="178.8" r="25.272877236064375" fill="#2980b9" opacity="0.85" stroke="#2980b9" stroke-width="1.5"/><circle cx="621.923594373902" cy="171.723594373902" r="8.0873207155406" fill="white" opacity="0.25"/><text x="629" y="181.8" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Alpha</text><circle cx="531" cy="249" r="31.937768157740557" fill="#2980b9" opacity="0.85" stroke="#2980b9" stroke-width="1.5"/><circle cx="522.0574249158326" cy="240.05742491583266" r="10.220085810476979" fill="white" opacity="0.25"/><text x="531" y="252" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Beta</text><circle cx="286" cy="157.20000000000005" r="12.654295713712592" fill="#27ae60" opacity="0.85" stroke="#27ae60" stroke-width="1.5"/><circle cx="282.45679720016045" cy="153.65679720016053" r="4.04937462838803" fill="white" opacity="0.25"/><text x="286" y="160.20000000000005" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Gamma</text><circle cx="702.5" cy="373.20000000000005" r="38.72904465636489" fill="#e74c3c" opacity="0.85" stroke="#e74c3c" stroke-width="1.5"/><circle cx="691.6558674962179" cy="362.35586749621785" r="12.393294290036765" fill="white" opacity="0.25"/><text x="702.5" y="376.20000000000005" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Delta</text><circle cx="212.5" cy="438" r="21.519136239183243" fill="#e74c3c" opacity="0.85" stroke="#e74c3c" stroke-width="1.5"/><circle cx="206.4746418530287" cy="431.9746418530287" r="6.8861235965386385" fill="white" opacity="0.25"/><text x="212.5" y="441" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Epsilon</text><circle cx="433" cy="303" r="27.603321407705653" fill="#27ae60" opacity="0.85" stroke="#27ae60" stroke-width="1.5"/><circle cx="425.27107000584243" cy="295.27107000584243" r="8.83306285046581" fill="white" opacity="0.25"/><text x="433" y="306" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Zeta</text><circle cx="776" cy="124.80000000000001" r="10" fill="#2980b9" opacity="0.85" stroke="#2980b9" stroke-width="1.5"/><circle cx="773.2" cy="122.00000000000001" r="3.2" fill="white" opacity="0.25"/><text x="776" y="127.80000000000001" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Eta</text><circle cx="163.5" cy="502.8" r="48" fill="#e74c3c" opacity="0.85" stroke="#e74c3c" stroke-width="1.5"/><circle cx="150.06" cy="489.36" r="15.36" fill="white" opacity="0.25"/><text x="163.5" y="505.8" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Theta</text><circle cx="555.5" cy="216.60000000000002" r="18.803457104138673" fill="#27ae60" opacity="0.85" stroke="#27ae60" stroke-width="1.5"/><circle cx="550.2350320108412" cy="211.3350320108412" r="6.017106273324376" fill="white" opacity="0.25"/><text x="555.5" y="219.60000000000002" text-anchor="middle" font-size="9" font-weight="600" stroke="white" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill="#1a252f">Iota</text><text x="850" y="78" font-size="11" font-weight="700" fill="#2c3e50">Business Unit</text><circle cx="858" cy="102" r="7" fill="#2980b9" opacity="0.85"/><text x="872" y="106" font-size="10" fill="#2c3e50">EMEA</text><circle cx="858" cy="128" r="7" fill="#27ae60" opacity="0.85"/><text x="872" y="132" font-size="10" fill="#2c3e50">APAC</text><circle cx="858" cy="154" r="7" fill="#e74c3c" opacity="0.85"/><text x="872" y="158" font-size="10" fill="#2c3e50">Americas</text><rect x="850" y="205" width="170" height="96" fill="#f0f3f4" rx="5" stroke="#e0e3e4" stroke-width="1"/><text x="864" y="227" font-size="10" font-weight="700" fill="#7f8c8d">DIMENSIONS</text><text x="864" y="245" font-size="10" fill="#5d6d7e">① X — Market Growth (%)</text><text x="864" y="259" font-size="10" fill="#5d6d7e">② Y — Position</text><text x="864" y="273" font-size="10" fill="#5d6d7e">③ Size — Revenue (M$)</text><text x="864" y="287" font-size="10" fill="#5d6d7e">④ Color — Business Unit</text>
+        <style xmlns="http://www.w3.org/1999/xhtml">
+        :root {
+            --primary: #2c3e50;
+            --primary-light: #34495e;
+            --accent: #8e44ad;
+            --accent-hover: #9b59b6;
+            --success: #27ae60;
+            --success-hover: #229954;
+            --warning: #e67e22;
+            --warning-hover: #d35400;
+            --danger: #e74c3c;
+            --bg: #f4f7f6;
+            --surface: #ffffff;
+            --border: #ddd;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+            --radius: 6px;
+            --transition: 0.2s ease;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* Header Styles */
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: var(--shadow-sm);
+            flex-shrink: 0;
+        }
+
+        .brand {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        .brand span {
+            font-weight: 300;
+            opacity: 0.9;
+        }
+
+        /* Main Layout */
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            gap: 0;
+        }
+
+        /* Pane Styles */
+        .pane {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .editor-pane {
+            width: 40%;
+            min-width: 320px;
+            max-width: 600px;
+            background: var(--surface);
+            border-inline-end: 2px solid var(--border);
+            padding: 1.25rem;
+            gap: 0.75rem;
+        }
+
+        .preview-pane {
+            flex: 1;
+            background: #fafafa;
+            padding: 1.25rem;
+        }
+
+        /* Form Elements */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-label {
+            font-weight: 600;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        select, textarea, button {
+            font-family: inherit;
+            font-size: 0.9375rem;
+            border-radius: var(--radius);
+            border: 1px solid #bdc3c7;
+            transition: var(--transition);
+        }
+
+        select {
+            padding: 0.625rem 0.875rem;
+            background: var(--surface);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            padding-right: 2.5rem;
+        }
+
+        select:focus, textarea:focus, button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        textarea {
+            flex: 1;
+            font-family: 'Consolas', 'Monaco', 'Fira Code', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            padding: 0.875rem;
+            resize: none;
+            background: #f8f9fa;
+            border: 1px solid #ccc;
+        }
+
+        textarea:focus {
+            background: var(--surface);
+            border-color: var(--accent);
+        }
+
+        /* Button Styles */
+        .btn {
+            padding: 0.625rem 1rem;
+            border: none;
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+        }
+
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: white;
+            width: 100%;
+            padding: 0.875rem;
+            font-size: 1rem;
+        }
+
+        .btn-accent:hover {
+            background: var(--accent-hover);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: var(--success-hover);
+        }
+
+        .btn-warning {
+            background: var(--warning);
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: var(--warning-hover);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* Output Area */
+        .output-wrapper {
+            background: var(--surface);
+            border: 1px solid #eee;
+            border-radius: 8px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: auto;
+            position: relative;
+        }
+
+        #render-area {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 1.5rem;
+            min-height: 400px;
+        }
+
+        #render-area svg {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        /* Status &amp; Error Messages */
+        .status-message {
+            padding: 1rem;
+            border-radius: var(--radius);
+            font-size: 0.875rem;
+            display: none;
+        }
+
+        .status-message.error {
+            display: block;
+            background: #fdeaea;
+            color: var(--danger);
+            border: 1px solid #f5c6cb;
+        }
+
+        .status-message.loading {
+            display: block;
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                flex-direction: column;
+            }
+            .editor-pane {
+                width: 100%;
+                max-width: none;
+                max-height: 45vh;
+                border-inline-end: none;
+                border-block-end: 2px solid var(--border);
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            header, .editor-pane {
+                display: none;
+            }
+            .preview-pane {
+                width: 100%;
+                height: 100vh;
+            }
+        }
+    </style></svg>

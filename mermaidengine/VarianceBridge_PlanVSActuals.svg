@@ -1,0 +1,291 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="490" viewBox="0 0 880 490" style="font-family:'Segoe UI',sans-serif;background:white;"><rect x="0" y="0" width="880" height="490" fill="white"/>
+  <defs>
+    <pattern id="hatch" patternUnits="userSpaceOnUse" width="7" height="7" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#7f8c8d" stroke-width="1.8" opacity="0.35"/>
+    </pattern>
+    <marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0,8 3,0 6" fill="#7f8c8d"/>
+    </marker>
+  </defs>
+  <text x="440" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#2c3e50">Q4 Budget vs Actual</text>
+  <line x1="72" y1="395" x2="850" y2="395" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="399" text-anchor="end" font-size="10" fill="#7f8c8d">60</text><line x1="72" y1="339.1666666666667" x2="850" y2="339.1666666666667" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="343.1666666666667" text-anchor="end" font-size="10" fill="#7f8c8d">73</text><line x1="72" y1="283.33333333333337" x2="850" y2="283.33333333333337" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="287.33333333333337" text-anchor="end" font-size="10" fill="#7f8c8d">85</text><line x1="72" y1="227.5" x2="850" y2="227.5" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="231.5" text-anchor="end" font-size="10" fill="#7f8c8d">98</text><line x1="72" y1="171.66666666666669" x2="850" y2="171.66666666666669" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="175.66666666666669" text-anchor="end" font-size="10" fill="#7f8c8d">110</text><line x1="72" y1="115.83333333333331" x2="850" y2="115.83333333333331" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="119.83333333333331" text-anchor="end" font-size="10" fill="#7f8c8d">123</text><line x1="72" y1="60" x2="850" y2="60" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="64" text-anchor="end" font-size="10" fill="#7f8c8d">135</text><line x1="72" y1="60" x2="72" y2="395" stroke="#d5d8dc" stroke-width="1.5"/><line x1="72" y1="395" x2="850" y2="395" stroke="#d5d8dc" stroke-width="1.5"/><text x="13" y="227.5" text-anchor="middle" font-size="11" fill="#7f8c8d" transform="rotate(-90,13,227.5)">Revenue (M$)</text><rect x="103.83333333333331" y="194" width="66" height="201" fill="#3498db" rx="2" opacity="0.88"/><text x="136.83333333333331" y="185" text-anchor="middle" font-size="10" font-weight="bold" fill="#3498db">105</text><text x="136.83333333333331" y="411" text-anchor="middle" font-size="10" fill="#2c3e50">Budget</text><rect x="233.5" y="140.4" width="66" height="53.599999999999994" fill="#27ae60" rx="2" opacity="0.88"/><text x="266.5" y="131.4" text-anchor="middle" font-size="10" font-weight="bold" fill="#27ae60">+12</text><text x="266.5" y="411" text-anchor="middle" font-size="10" fill="#2c3e50">Volume</text><text x="266.5" y="424" text-anchor="middle" font-size="10" fill="#2c3e50">Uplift</text><rect x="363.16666666666663" y="140.4" width="66" height="17.866666666666674" fill="#e74c3c" rx="2" opacity="0.88"/><text x="396.16666666666663" y="131.4" text-anchor="middle" font-size="10" font-weight="bold" fill="#e74c3c">−4</text><text x="396.16666666666663" y="411" text-anchor="middle" font-size="10" fill="#2c3e50">Price</text><text x="396.16666666666663" y="424" text-anchor="middle" font-size="10" fill="#2c3e50">Mix</text><rect x="492.83333333333337" y="122.5333333333333" width="66" height="35.73333333333338" fill="#27ae60" rx="2" opacity="0.88"/><text x="525.8333333333334" y="113.5333333333333" text-anchor="middle" font-size="10" font-weight="bold" fill="#27ae60">+8</text><text x="525.8333333333334" y="411" text-anchor="middle" font-size="10" fill="#2c3e50">New</text><text x="525.8333333333334" y="424" text-anchor="middle" font-size="10" fill="#2c3e50">Logos</text><rect x="622.5" y="122.5333333333333" width="66" height="49.13333333333338" fill="#e74c3c" rx="2" opacity="0.88"/><text x="655.5" y="113.5333333333333" text-anchor="middle" font-size="10" font-weight="bold" fill="#e74c3c">−11</text><text x="655.5" y="411" text-anchor="middle" font-size="10" fill="#2c3e50">Churn</text><text x="655.5" y="424" text-anchor="middle" font-size="10" fill="#2c3e50">Delta</text><rect x="752.1666666666666" y="171.66666666666669" width="66" height="223.33333333333331" fill="#e67e22" rx="2" opacity="0.88"/><text x="785.1666666666666" y="162.66666666666669" text-anchor="middle" font-size="10" font-weight="bold" fill="#e67e22">110</text><text x="785.1666666666666" y="411" text-anchor="middle" font-size="10" fill="#2c3e50">Actual</text><line x1="169.83333333333331" y1="194" x2="233.5" y2="194" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="299.5" y1="140.4" x2="363.16666666666663" y2="140.4" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="429.16666666666663" y1="158.26666666666668" x2="492.83333333333337" y2="158.26666666666668" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="558.8333333333334" y1="122.5333333333333" x2="622.5" y2="122.5333333333333" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="688.5" y1="171.66666666666669" x2="752.1666666666666" y2="171.66666666666669" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="173.83333333333331" y1="159.66666666666669" x2="748.1666666666666" y2="159.66666666666669" stroke="#27ae60" stroke-width="1.5" marker-end="url(#arr)"/><line x1="173.83333333333331" y1="159.66666666666669" x2="173.83333333333331" y2="165.66666666666669" stroke="#27ae60" stroke-width="1"/><line x1="748.1666666666666" y1="159.66666666666669" x2="748.1666666666666" y2="165.66666666666669" stroke="#27ae60" stroke-width="1"/><text x="461" y="154.66666666666669" text-anchor="middle" font-size="12" font-weight="bold" fill="#27ae60">Δ +5</text><rect x="72" y="463" width="12" height="12" fill="#3498db" rx="2"/><text x="88" y="473" font-size="11" fill="#2c3e50">Budget</text><rect x="152" y="463" width="12" height="12" fill="#e67e22" rx="2"/><text x="168" y="473" font-size="11" fill="#2c3e50">Actual</text><rect x="242" y="463" width="12" height="12" fill="#27ae60" rx="2"/><text x="258" y="473" font-size="11" fill="#2c3e50">Favourable</text><rect x="342" y="463" width="12" height="12" fill="#e74c3c" rx="2"/><text x="358" y="473" font-size="11" fill="#2c3e50">Unfavourable</text>
+<style xmlns="http://www.w3.org/1999/xhtml">
+        :root {
+            --primary: #2c3e50;
+            --primary-light: #34495e;
+            --accent: #8e44ad;
+            --accent-hover: #9b59b6;
+            --success: #27ae60;
+            --success-hover: #229954;
+            --warning: #e67e22;
+            --warning-hover: #d35400;
+            --danger: #e74c3c;
+            --bg: #f4f7f6;
+            --surface: #ffffff;
+            --border: #ddd;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+            --radius: 6px;
+            --transition: 0.2s ease;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* Header Styles */
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: var(--shadow-sm);
+            flex-shrink: 0;
+        }
+
+        .brand {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        .brand span {
+            font-weight: 300;
+            opacity: 0.9;
+        }
+
+        /* Main Layout */
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            gap: 0;
+        }
+
+        /* Pane Styles */
+        .pane {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .editor-pane {
+            width: 40%;
+            min-width: 320px;
+            max-width: 600px;
+            background: var(--surface);
+            border-inline-end: 2px solid var(--border);
+            padding: 1.25rem;
+            gap: 0.75rem;
+        }
+
+        .preview-pane {
+            flex: 1;
+            background: #fafafa;
+            padding: 1.25rem;
+        }
+
+        /* Form Elements */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-label {
+            font-weight: 600;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        select, textarea, button {
+            font-family: inherit;
+            font-size: 0.9375rem;
+            border-radius: var(--radius);
+            border: 1px solid #bdc3c7;
+            transition: var(--transition);
+        }
+
+        select {
+            padding: 0.625rem 0.875rem;
+            background: var(--surface);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            padding-right: 2.5rem;
+        }
+
+        select:focus, textarea:focus, button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        textarea {
+            flex: 1;
+            font-family: 'Consolas', 'Monaco', 'Fira Code', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            padding: 0.875rem;
+            resize: none;
+            background: #f8f9fa;
+            border: 1px solid #ccc;
+        }
+
+        textarea:focus {
+            background: var(--surface);
+            border-color: var(--accent);
+        }
+
+        /* Button Styles */
+        .btn {
+            padding: 0.625rem 1rem;
+            border: none;
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+        }
+
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: white;
+            width: 100%;
+            padding: 0.875rem;
+            font-size: 1rem;
+        }
+
+        .btn-accent:hover {
+            background: var(--accent-hover);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: var(--success-hover);
+        }
+
+        .btn-warning {
+            background: var(--warning);
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: var(--warning-hover);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* Output Area */
+        .output-wrapper {
+            background: var(--surface);
+            border: 1px solid #eee;
+            border-radius: 8px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: auto;
+            position: relative;
+        }
+
+        #render-area {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 1.5rem;
+            min-height: 400px;
+        }
+
+        #render-area svg {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        /* Status &amp; Error Messages */
+        .status-message {
+            padding: 1rem;
+            border-radius: var(--radius);
+            font-size: 0.875rem;
+            display: none;
+        }
+
+        .status-message.error {
+            display: block;
+            background: #fdeaea;
+            color: var(--danger);
+            border: 1px solid #f5c6cb;
+        }
+
+        .status-message.loading {
+            display: block;
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                flex-direction: column;
+            }
+            .editor-pane {
+                width: 100%;
+                max-width: none;
+                max-height: 45vh;
+                border-inline-end: none;
+                border-block-end: 2px solid var(--border);
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            header, .editor-pane {
+                display: none;
+            }
+            .preview-pane {
+                width: 100%;
+                height: 100vh;
+            }
+        }
+    </style></svg>

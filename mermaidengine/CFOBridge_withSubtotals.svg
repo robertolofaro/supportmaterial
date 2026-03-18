@@ -1,0 +1,291 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="490" viewBox="0 0 840 490" style="font-family:'Segoe UI',sans-serif;background:white;"><rect x="0" y="0" width="840" height="490" fill="white"/>
+  <defs>
+    <pattern id="hatch" patternUnits="userSpaceOnUse" width="7" height="7" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#7f8c8d" stroke-width="1.8" opacity="0.35"/>
+    </pattern>
+    <marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0,8 3,0 6" fill="#7f8c8d"/>
+    </marker>
+  </defs>
+  <text x="420" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#2c3e50">P&amp;L Bridge — Q4 CFO View</text>
+  <line x1="72" y1="400" x2="805" y2="400" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="404" text-anchor="end" font-size="10" fill="#7f8c8d">0</text><line x1="72" y1="342.5" x2="805" y2="342.5" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="346.5" text-anchor="end" font-size="10" fill="#7f8c8d">24</text><line x1="72" y1="285" x2="805" y2="285" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="289" text-anchor="end" font-size="10" fill="#7f8c8d">48</text><line x1="72" y1="227.5" x2="805" y2="227.5" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="231.5" text-anchor="end" font-size="10" fill="#7f8c8d">73</text><line x1="72" y1="170" x2="805" y2="170" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="174" text-anchor="end" font-size="10" fill="#7f8c8d">97</text><line x1="72" y1="112.5" x2="805" y2="112.5" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="116.5" text-anchor="end" font-size="10" fill="#7f8c8d">121</text><line x1="72" y1="55" x2="805" y2="55" stroke="#ecf0f1" stroke-width="1"/><text x="65" y="59" text-anchor="end" font-size="10" fill="#7f8c8d">145</text><line x1="72" y1="55" x2="72" y2="400" stroke="#d5d8dc" stroke-width="1.5"/><line x1="72" y1="400" x2="805" y2="400" stroke="#d5d8dc" stroke-width="1.5"/><text x="13" y="227.5" text-anchor="middle" font-size="11" fill="#7f8c8d" transform="rotate(-90,13,227.5)">EBIT (M$)</text><rect x="89.59200000000001" y="197.7586206896552" width="38.116" height="202.2413793103448" fill="#2980b9" stroke="#2980b9" stroke-width="1" rx="2"/><text x="108.65" y="188.7586206896552" text-anchor="middle" font-size="10" font-weight="bold" fill="#2980b9">85</text><text x="108.65" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">Q3</text><text x="108.65" y="429" text-anchor="middle" font-size="10" fill="#2c3e50">EBIT</text><rect x="162.89200000000002" y="131.13793103448273" width="38.116" height="66.62068965517247" fill="#27ae60" stroke="#27ae60" stroke-width="1" rx="2"/><text x="181.95000000000002" y="122.13793103448273" text-anchor="middle" font-size="10" font-weight="bold" fill="#27ae60">+28</text><text x="181.95000000000002" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">Volume</text><rect x="236.192" y="102.58620689655174" width="38.116" height="28.55172413793099" fill="#27ae60" stroke="#27ae60" stroke-width="1" rx="2"/><text x="255.25" y="93.58620689655174" text-anchor="middle" font-size="10" font-weight="bold" fill="#27ae60">+12</text><text x="255.25" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">Price</text><text x="255.25" y="429" text-anchor="middle" font-size="10" fill="#2c3e50">Mix</text><rect x="309.49199999999996" y="102.58620689655174" width="38.116" height="297.41379310344826" fill="url(#hatch)" stroke="#7f8c8d" stroke-width="1" rx="2"/><line x1="309.49199999999996" y1="99.58620689655174" x2="347.60799999999995" y2="99.58620689655174" stroke="#7f8c8d" stroke-width="2.5"/><line x1="309.49199999999996" y1="95.58620689655174" x2="347.60799999999995" y2="95.58620689655174" stroke="#7f8c8d" stroke-width="1.5"/><text x="328.54999999999995" y="93.58620689655174" text-anchor="middle" font-size="10" font-weight="bold" fill="#7f8c8d">125</text><text x="328.54999999999995" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">Gross</text><text x="328.54999999999995" y="429" text-anchor="middle" font-size="10" fill="#2c3e50">Contribution</text><rect x="382.792" y="102.58620689655174" width="38.116" height="21.413793103448256" fill="#e74c3c" stroke="#e74c3c" stroke-width="1" rx="2"/><text x="401.84999999999997" y="93.58620689655174" text-anchor="middle" font-size="10" font-weight="bold" fill="#e74c3c">−9</text><text x="401.84999999999997" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">COGS</text><text x="401.84999999999997" y="429" text-anchor="middle" font-size="10" fill="#2c3e50">Inflation</text><rect x="456.092" y="124" width="38.116" height="26.17241379310346" fill="#e74c3c" stroke="#e74c3c" stroke-width="1" rx="2"/><text x="475.15" y="115" text-anchor="middle" font-size="10" font-weight="bold" fill="#e74c3c">−11</text><text x="475.15" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">SG&amp;A</text><rect x="529.3919999999999" y="150.17241379310346" width="38.116" height="249.82758620689654" fill="url(#hatch)" stroke="#7f8c8d" stroke-width="1" rx="2"/><line x1="529.3919999999999" y1="147.17241379310346" x2="567.5079999999999" y2="147.17241379310346" stroke="#7f8c8d" stroke-width="2.5"/><line x1="529.3919999999999" y1="143.17241379310346" x2="567.5079999999999" y2="143.17241379310346" stroke="#7f8c8d" stroke-width="1.5"/><text x="548.4499999999999" y="141.17241379310346" text-anchor="middle" font-size="10" font-weight="bold" fill="#7f8c8d">105</text><text x="548.4499999999999" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">Net</text><text x="548.4499999999999" y="429" text-anchor="middle" font-size="10" fill="#2c3e50">Contribution</text><rect x="602.692" y="107.34482758620686" width="38.116" height="42.8275862068966" fill="#27ae60" stroke="#27ae60" stroke-width="1" rx="2"/><text x="621.75" y="98.34482758620686" text-anchor="middle" font-size="10" font-weight="bold" fill="#27ae60">+18</text><text x="621.75" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">FX</text><text x="621.75" y="429" text-anchor="middle" font-size="10" fill="#2c3e50">Tailwind</text><rect x="675.992" y="107.34482758620686" width="38.116" height="19.034482758620697" fill="#e74c3c" stroke="#e74c3c" stroke-width="1" rx="2"/><text x="695.05" y="98.34482758620686" text-anchor="middle" font-size="10" font-weight="bold" fill="#e74c3c">−8</text><text x="695.05" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">One-offs</text><rect x="749.2919999999999" y="126.37931034482756" width="38.116" height="273.62068965517244" fill="#1a6496" stroke="#1a6496" stroke-width="1" rx="2"/><text x="768.3499999999999" y="117.37931034482756" text-anchor="middle" font-size="10" font-weight="bold" fill="#1a6496">115</text><text x="768.3499999999999" y="416" text-anchor="middle" font-size="10" fill="#2c3e50">Q4</text><text x="768.3499999999999" y="429" text-anchor="middle" font-size="10" fill="#2c3e50">EBIT</text><line x1="127.708" y1="197.7586206896552" x2="162.89200000000002" y2="197.7586206896552" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="201.008" y1="131.13793103448273" x2="236.192" y2="131.13793103448273" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="274.308" y1="102.58620689655174" x2="309.49199999999996" y2="102.58620689655174" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="347.60799999999995" y1="102.58620689655174" x2="382.792" y2="102.58620689655174" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="420.90799999999996" y1="124" x2="456.092" y2="124" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="494.20799999999997" y1="150.17241379310346" x2="529.3919999999999" y2="150.17241379310346" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="567.5079999999999" y1="150.17241379310346" x2="602.692" y2="150.17241379310346" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="640.808" y1="107.34482758620686" x2="675.992" y2="107.34482758620686" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/><line x1="714.108" y1="126.37931034482756" x2="749.2919999999999" y2="126.37931034482756" stroke="#aab7b8" stroke-width="1.2" stroke-dasharray="5,3"/>
+<style xmlns="http://www.w3.org/1999/xhtml">
+        :root {
+            --primary: #2c3e50;
+            --primary-light: #34495e;
+            --accent: #8e44ad;
+            --accent-hover: #9b59b6;
+            --success: #27ae60;
+            --success-hover: #229954;
+            --warning: #e67e22;
+            --warning-hover: #d35400;
+            --danger: #e74c3c;
+            --bg: #f4f7f6;
+            --surface: #ffffff;
+            --border: #ddd;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+            --radius: 6px;
+            --transition: 0.2s ease;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* Header Styles */
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: var(--shadow-sm);
+            flex-shrink: 0;
+        }
+
+        .brand {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        .brand span {
+            font-weight: 300;
+            opacity: 0.9;
+        }
+
+        /* Main Layout */
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            gap: 0;
+        }
+
+        /* Pane Styles */
+        .pane {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .editor-pane {
+            width: 40%;
+            min-width: 320px;
+            max-width: 600px;
+            background: var(--surface);
+            border-inline-end: 2px solid var(--border);
+            padding: 1.25rem;
+            gap: 0.75rem;
+        }
+
+        .preview-pane {
+            flex: 1;
+            background: #fafafa;
+            padding: 1.25rem;
+        }
+
+        /* Form Elements */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-label {
+            font-weight: 600;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        select, textarea, button {
+            font-family: inherit;
+            font-size: 0.9375rem;
+            border-radius: var(--radius);
+            border: 1px solid #bdc3c7;
+            transition: var(--transition);
+        }
+
+        select {
+            padding: 0.625rem 0.875rem;
+            background: var(--surface);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            padding-right: 2.5rem;
+        }
+
+        select:focus, textarea:focus, button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        textarea {
+            flex: 1;
+            font-family: 'Consolas', 'Monaco', 'Fira Code', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            padding: 0.875rem;
+            resize: none;
+            background: #f8f9fa;
+            border: 1px solid #ccc;
+        }
+
+        textarea:focus {
+            background: var(--surface);
+            border-color: var(--accent);
+        }
+
+        /* Button Styles */
+        .btn {
+            padding: 0.625rem 1rem;
+            border: none;
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+        }
+
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: white;
+            width: 100%;
+            padding: 0.875rem;
+            font-size: 1rem;
+        }
+
+        .btn-accent:hover {
+            background: var(--accent-hover);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: var(--success-hover);
+        }
+
+        .btn-warning {
+            background: var(--warning);
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: var(--warning-hover);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* Output Area */
+        .output-wrapper {
+            background: var(--surface);
+            border: 1px solid #eee;
+            border-radius: 8px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: auto;
+            position: relative;
+        }
+
+        #render-area {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 1.5rem;
+            min-height: 400px;
+        }
+
+        #render-area svg {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        /* Status &amp; Error Messages */
+        .status-message {
+            padding: 1rem;
+            border-radius: var(--radius);
+            font-size: 0.875rem;
+            display: none;
+        }
+
+        .status-message.error {
+            display: block;
+            background: #fdeaea;
+            color: var(--danger);
+            border: 1px solid #f5c6cb;
+        }
+
+        .status-message.loading {
+            display: block;
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                flex-direction: column;
+            }
+            .editor-pane {
+                width: 100%;
+                max-width: none;
+                max-height: 45vh;
+                border-inline-end: none;
+                border-block-end: 2px solid var(--border);
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            header, .editor-pane {
+                display: none;
+            }
+            .preview-pane {
+                width: 100%;
+                height: 100vh;
+            }
+        }
+    </style></svg>
