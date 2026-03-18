@@ -1,0 +1,155 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260315_article.png)</center>
+
+This article is within the ["CitizenAudit"](https://robertolofaro.com/index.php?section=citizen-audit) series.
+
+From the title, probably you understand that this article, while not being formally a continuation, explores another dimension of my birth country, Italy, and birthplace, Turin.
+
+Anyway, while the "tribal" element is within the title, it is mainly to ease searching, as the tribal side was summarized in the previous article [The cultural side of the Italian national debt- with data](https://robertolofaro.com/index.php?page=643), within the introductory sections about the cultural background and history of my country.
+
+If you are curious, again can suggest to read the review I shared about [Gelzer - The Roman nobility - ISBN 063111940X](https://robertolofaro.com/index.php?page=165).
+
+Yes, my basic consideration is that the "tribal" nature of Italian society started during the Roman Republic.
+
+Why now? Because it seems the right time to discuss, as the initiator of the most recent conflict is now asking, better- commanding, allies to send in ships to Hormuz.
+
+From the way it was presented, smells more as an invitation to get dragged into a [Tonkin incident](https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident) so that, instead of a "coalition of the willing", the conflict develops along a "coalition of the unwilling dragged into it".
+
+Considering the trustworthiness of our allies over the last few months, and their partner in mischief, I would not buy a used car from them- imagine sending in ships that could get caught into a crossfire from an ally that did not even bother to inform us before starting it.
+
+Including because, after moral suasion did not work to bring Ukraine to accept the terms negotiated between Washington and Moscow, now our ally started pushing to let Russian oil fly.
+
+Which, after minimizing aid to Ukraine, is tantamount to financing the continuation of the invasion of Ukraine by Russia, while at the same time forcing us Europeans to drain further resources (financial and military) to balance off Ukraine.
+
+As I wrote recently, increasing is becoming a case of "with friends like this, who needs enemies".
+
+In this situation, Italy, and specifically Turin, are in a significantly weak position.
+
+This will be a short article, as it is more about sharing some pointers that will develop in future material, than a real article.
+
+I will actually be focusing on data- the analysis and discussion will be in a later stage.
+
+In the first theme <em><u>some cultural pointers</u></em>, will share some reading material to complement what was listed within the previous article.
+
+Then, it is time to discuss a bit about part of the title <em><u>being (and remaining) a G7 economy</u></em>.
+
+Finally, <em><u>weaknesses and opportunities- Italy and Turin</u></em>: mainly sharing again previous data-driven articles that could provide material, but also discussing how the tribal element might impact.
+
+A short article with a short table of contents:
+_ THEME1: Some cultural pointers
+_ THEME2: Being (and remaining) a G7 economy
+_ THEME3: Weaknesses and Opportunities- Italy and Turin
+
+Tomorrow, the usual weekly update of the [on ECB communication](https://robertolofaro.com/ECBSpeech/index.php).
+
+Have a nice week!
+
+
+<b>THEME1: Some cultural pointers</b>
+
+Within the article [The cultural side of the Italian national debt- with data](https://robertolofaro.com/index.php?page=643) there were two key elements related to the Italian national debt- culture and data.
+
+Elements which, quite conveniently, have been parallel lines of activities that worked in since the late 1980s, also if formally ([as you can see on my CV](cv)) cultural change has been officially part of my activities only from 1990.
+
+In that article, you can find a long list of books, actually within a book review.
+
+Books about Italy, its history, and the evolution of its national development.
+
+Few days ago, went in a library and looked for some books to add for the next number crunching phase.
+
+The first one is a book by Marco Bardazzi with the title "<b>Silicon Europe</b>", a "biography" of STMicroelectronics, a French-Italian company (a "business bird" that hopefully will become more common in the future, courtesy also of the bilateral [Quirinal Treaty](https://en.wikipedia.org/wiki/Quirinal_Treaty)).
+
+It is interesting due to its perspective on the practical side of cross-EU business development for something projecting value on a global scale.
+
+The book is from 2022, but actually reminds a German book from 2017, that reviewed in 2018 (was part of my German business books spending spree while attended the Goethe Institut in Frankfurt in summer 2017) [Keese - Silicon Germany - ISBN 9783328101925](https://robertolofaro.com/index.php?page=298).
+
+Then, added a book by Sandro Gerbi that is relevant mainly for Italians, but actually gives a quick overview of two pivotal banking figures, "<b>Mattioli e Cuccia</b>".
+
+Then, decided to add two different dimensions of interpretation of reality:
+_ Tommaso Padoa-Schioppa "<b>Regole e Finanza - contemperare libert&agrave; e rischi</b>"
+_ Antonio Gramsci "<b>Il popolo delle scimmie - scritti sul fascismo</b>", a collection of articles from a century ago.
+
+While seems an unusual mix, there is a rationale that connects with the books listed within the previous article.
+
+The European Union is routinely trying to balance rules and freedoms, but actually the discussion about that balance started long before: I selected that book of articles from Gramsci, instead of the more common (but significantly longer) "Quaderni dal carcere" because the (selective) focus of this collection allows to compare notes.
+
+I am one of those (probably few) Italians who does not consider fascists just those who claim to be fascists, but also those who adopted some of the "cultural elements".
+
+Anyway, shared in the past article and books reviews on these concepts.
+
+These four books, along with the materials and data (not just the books) quoted in the previous article, will be useful to revise some datasets that published since 2019 on [my Kaggle profile](https://kaggle.com/robertolofaro).
+
+Now, the title of this article is also about Italy's G7 membership: but what does it mean, to be a G7 country?
+
+
+<b>THEME2: Being (and remaining) a G7 economy</b>
+
+Being within the CitizenAudit series, this section will be about data.
+
+Hence, will just share some sources of information.
+
+The starting point is obviously [the Wikipedia page](https://en.wikipedia.org/wiki/G7): albeit, many would say that, right now, considering a G6 (i.e. the seven less our main ally that is currently going rogue) could be a fitting choice worth considering.
+
+Now, staying on the G7 as it is now, [could be more interesting a "backgrounder" article by the Council of Foreign Relations](https://www.cfr.org/backgrounders/what-does-g7-do), about what the G7 actually does.
+
+On the structural side, there is an element that discussed in previous articles- the level of urbanization- and G7 countries are intensely urbanized: [this 2024 article in preparation of the G7 in UK](https://www.centreforcities.org/reader/climbing-the-summit/the-economic-geography-of-the-g7/) gives again an opportunity to review this point- with some interesting data and charts.
+
+Going back to the title of this section, probably [this dashboard (with access to data) from the IMF](https://www.imf.org/external/datamapper/profile/MAE) can be useful, as it contains indicators 2018-2030 (i.e. also projections).
+
+Finally, if you prefer, you can actually have a look at [the dimension of G7 economies](https://www.visualcapitalist.com/visualizing-the-g7-economies-by-gdp-size/).
+
+Shifting to Italy and Turin, what does all the above imply?
+
+
+<b>THEME3: Weaknesses and Opportunities- Italy and Turin</b>
+
+Will start with references data-driven articles that shared few months ago about Italy and Turin:
+_ [Pointers- 2025 and scenarios 2026 - 6 Macondo-am-Po in a multinational world](https://robertolofaro.com/index.php?page=632)
+_ [Pointers- 2025 and scenarios 2026 - 5 Changing attitudes about automotive](https://robertolofaro.com/index.php?page=631)
+_ [Pointers- 2025 and scenarios 2026 - 4 Reforming the unreformable - section 2 - Italy](https://robertolofaro.com/index.php?page=630)
+_ [Pointers- 2025 and scenarios 2026 - 2 Seizing structural opportunities in defense and space](https://robertolofaro.com/index.php?page=628)
+_ [From a palette of initiatives to an emerging convergence: industrial policy and the Turin case](https://robertolofaro.com/index.php?page=593)
+
+If you read those articles, or at least the previous one that listed at the top of this short article, you saw some key weaknesses both in Italy and in Turin:
+_ we cannot work systemically, as our tribal element, whenever there is a new opportunity, generates incentives to avoid collaboration
+_ the consequence is that, if new opportunities arise that require new capabilities, we get there too late- while each tribe re-invents the missing wheel
+_ over the last few decades, we lost ground- as I shared in the previous article across multiple dimensions.
+
+To summarize it all, this post that received this morning on Linkedin:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260315_italystatus.png)</center>
+
+Yes, whenever there is a cultural transition, our tribal element requires conforming and evolve membership by co-opting, not by adding new ideas.
+
+And, frankly, while studying Latin in high school, remember reading commentary from somebody complaining, in Ancient Rome, about...
+
+... the new generations.
+
+In Turin, which still thinks of being a company town (automotive, the FIAT group, now spread across Exor and Stellantis), all those elements are compounded by a sense of entitlement that heard routinely in conferences, events, etc since 2012.
+
+At the same time, these structural weaknesses could generate new opportunities.
+
+Anyway, will leave that discussion for the next article about Italy and Turin, where will discuss also recent local events in Italy and Turin.
+
+Just a hint: while preparing this article, selected a movie to watch while preparing the concept.
+
+The choice? ["Gung Ho"](https://www.imdb.com/title/tt0091159/), a 1980s movie about an American car plant taken over by a Japanese company.
+
+If you look at the trivia, you will see that there is a bit of Turin in that:
+"<em>According to Bloomberg Businessweek, Toyota executives later used the movie as an example of how not to manage Americans.
+
+The make and models of the automobiles manufactured at the motor corporation in the film are 1985 Fiat Regata ('Assan' 1a series [149]) and 1986 Fiat Spazio ('Assan' [147]), both produced by Sevel Argentina under license of Fiat. In real life, one of the locations, where the assembly line and the automobiles were filmed, was the Sevel plant in Argentina.
+</em>"
+
+And to close, as since early 2026, an example of AI application.
+
+Almost a decade ago, on a daily basis, while doing my daily morning trip to get to an office in Turin, read newspapers on my smartphone, and published on Twitter a daily multilingual "key news" digest.
+
+The catch: I read them in the original languages, and shared the links, assuming that people could then use Google Translate.
+
+Fast forward 2026: as I am testing how older processes could be converted into AI-assisted activities or even AI-assistants, started testing also a variant of the "News Digest" process.
+
+For now, will just keep posting daily the results of the Claude Project that created, but, after some revisions, later this year plan to share the definition.
+
+The bonus: while selected sources in 7 languages, the news digest is in English, and comes also with a "dashboard" highlighting its content.
+
+You [can read it here, if interested](https://github.com/robertolofaro/supportmaterial/tree/master/MorningNewsAgentTest), while if you want to suggest improvements, [write me a direct message on Linkedin](https://linkedin.com/in/robertolofaro).

@@ -1,0 +1,249 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260318_article.png)</center>
+
+This article is within the ["Organizational Support"](index.php?section=organizational-support) section.
+
+Why now? As shared few days ago on Linkedin, since 2025, saw that AIs increasingly used the Mermaid syntax to render charts- first with some errors, but gradually improving.
+
+I do not like to reinvent the wheel but, whenever something sounds as a potential new common tool or technology, I routinely have a look.
+
+Therefore, did the same with Mermaid: went to the [reference website](https://mermaid.js.org/), read a bit online, and tested few tools online.
+
+To eventually decide that would be useful to have a new tool, that would cover diagrams I use routinely (Mermaid actually still does not) on coordination and cultural/organizational change activities, and also some that did just on paper while working on business number crunching on the financial side of business activities (e.g. late 1980s on Decision Support System models for financial controllers, and 1990s for the same plus Cxx, in different industries).
+
+In this short article, would like to present it, as it is made available online for free (see the new menu option [waterfall/bubble chart tool](https://robertolofaro.com/diagrams_tool.php)).
+
+Also, will share the process and rationale of this mini-product development activity, whose results that I hope will be useful to others.
+
+Sections:
+_ THEME 1: the need
+_ THEME 2: the approach
+_ THEME 3: the result
+_ THEME 4: the future.
+
+
+<b>THEME 1: the need</b>
+
+If you ever attended one of my presentations or training session since the 1980s, you know that I like a couple of things:
+_ have slides that have as little text as possible
+_ fill in with narrative connecting that text
+_ underline concepts with visuals done on-the-spot.
+
+I used across the years different tools, and, frankly, it is boring to use Visio, Powerpoint, R, Python, whatever to generate a diagram that in your mind is intuitive.
+
+So, when I saw by chance on the answer given by an AI that the diagram rendered was actually just few intuitive lines with a structure, saw that was worth exploring.
+
+I tested with various AI platforms online and, initially, was funny when I had to pinpoint to AIs what was wrong in the syntax, using as first test point something that used in change activities for a quarter of a century.
+
+Somebody in FIAT Auto (now under a different name) will remember probably how I used it in 2002, as project manager and business analyst on the first project given by FIAT to a then-new company called Reply, an audit project on knowledge documentation and retention practices adopted by consultants across what we now would call product lifecycle management reporting.
+
+The way I used the radar chart was to document the "target operating model" agreed with the customer after the initial assessment to find the parameters, and then first assess each domain vs. that "standard", and then identify a convergence path for each (I was there only for the first phase and start of the second).
+
+Across the years, used it routinely, and one of the most recent uses was for a notebook using Python (really- more a book with live data than just a notebook) that prepared in 2020 for a Kaggle competition [you can see it here](https://www.kaggle.com/code/robertolofaro/ai-organizational-scalability-and-kaggle-survey).
+
+The GitHub repository associated to the book I derived from it is [here](https://github.com/robertolofaro/ai-organizational-scalability-sample-databook)- it contains also the book, released also on GitHub in January 2021- so, you can see how those radar charts were supposed to look on Kaggle.
+
+With a catch: tons of work to have back then all those "spidera" (how the radar is called) generated- only to see it break down after some library updates.
+
+Which is something really common in Python: I like a library called Pandas because was originally built to support financial data analysis, and had plenty of functions that saved a lot of time.
+
+Then, the author gave it to the community to manage, and eventually saw that, by consensus, those seeing it from a software development perspective, and not from a financial perspective, chipped away in new releases at function that they did not found useful (somebody was honest enough to actually write that did not know what were useful for).
+
+So, frankly, I went back to Excel and Visio licenses to generate charts- at least, there was (until recently) less chance that something would stop working just because the development team had lost the organizational memory.
+
+Anyway, look at the code I wrote back then to generate a simple radar chart.
+
+And look instead at how you can, using Mermaid, generate a radar chart with some complex coloring:
+<i>---
+config:
+radar:
+axisScaleFactor: 0.25
+curveTension: 0.1
+theme: base
+themeVariables:
+cScale0: "#FF0000"
+cScale1: "#00FF00"
+cScale2: "#0000FF"
+radar:
+curveOpacity: 0.4
+---
+radar-beta
+axis Alpha, Bravo, Charlie, Delta, Echo
+curve sectionA{1,2,3,4,5}
+curve sectionB{5,4,3,2,1}
+curve sectionC{3,3,3,3,3}
+</i>
+
+Looks like greek to you? Look just at the "radar-beta" part: all that is needed to generate this chart
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/radar.png)</center>
+
+Try to build it instead e.g. in Excel, and see how long it takes to first find, then adjust all the parameters...
+
+So, my "radar chart test" convinced me that really could use Mermaid for many of the diagrams- and, actually, in [my latest mini-book that released ten day ago](https://robertolofaro.com/index.php?page=641), the [charts inside the book](https://github.com/robertolofaro/book_bsn02) where generated using Mermaid.
+
+Then, came the issue: fine with all the 30+ charts already cover: but what about those that I routinely use?
+
+Saw a lot of talk online, discussing how could be done it, but no results.
+
+Hence, in a step that is familiar to those who worked with me, if nobody closes the gap, I do not simply add my complaint to the others, if I can close the gap.
+
+And, with past software development experience (designed, developed, sold my first software product including a visual side in the early 1980s, long before learned PASCAL and then PROLOG and, in my official job, COBOL), and now almost 40 years of experience interacting with senior management in different industries to design specifications, using AIs in a slightly twisted way is a major accelerator: imagine talking with a developer that knows what other developers did since decades, plus needs just a nudge in the right direction once in a while to retrieve also business domain knowledge...
+
+
+<b>THEME 2: the approach</b>
+
+I am not anymore a software developer as was incidentally in the 1980s, but anyway still do not refrain from getting my hands dirty with a keyboard, and even learning a bit of a language (as did during COVID with Python and all the Kaggle minicourses), if I see it useful.
+
+Getting your hands dirty implies that, for example few years ago during a project, as no tool was available, generate in Excel using those micro-charts that were originally developed to follow stock exchange movements and the like to...
+
+... visualize convergence and trend in something related to logistics.
+
+Something that actually did with numbers few decades before- but, apparently, it was still hidden somewhere in my memory, and just needed some few boring hours to develop it visually into a monster of Excel that, by providing input data with the proper structure, could be updated each morning in minutes.
+
+Did something similar often in the past- but you will not find on my CV.
+
+Why? I had enough of recruiters that, after reading an old version of my CV and seeing that in 1986-1988 was also COBOL mainframe and CICS/ DL/I developer and that during a major release (again, getting the hands dirty) covered also the restructuring of UCC7 scheduling, send me as cattle prodding job descriptions for COBOL developers or mainframe schedulers, thanks.
+
+While until a good part of 2022 most of the software development was, for me, a manual intervention, over the last few years developed gradually a different approach.
+
+In my project management and PMO experience for IT activities (the organizational side requires a different approach), routinely had a different team in each project.
+
+And, sometimes, multiple teams on different projects and workstreams for different customers in different domains and locations.
+
+Luckily, I think visually- hence, it is faster to recap when "reconnecting" with a specific project or workstream- as their visual representation is different.
+
+Hence, decided to do as did for other tools that over the last few years added to support my publications: just think, become the product manager, define the "mission" of the product, and the apply a kind of blend between Jake Knapp Sprint approach (that read in his book in 2017 or 2018) integrating the Scrum methodology with design thinking, but without the Scrum rituals.
+
+Practically, a modern and smarter version of my clumsy approach that in the 1980s had developed for decision support system projects, back then blending a bit of Andersen's Methodology Method/I, specifically the "iterative development" and "post-production product support" (which worked well with packages and also evolution of products).
+
+So, over the last few years developed my own "modus operandi" with AIs (usually I blend offline and online)- treated as if they were a team, not a software, but a team with massive knowledge of what other developers did, and that needs merely a nudge now and then to actually connect the dots and even pre-empt some requests that you are about to make.
+
+The approach is really simple, as shared today online with a friend:
+_ first, develop concept and "framing" into a draft prompt
+_ then, evolve the prompt using some offline AIs, until I see that it cover all the bases that need to be cover to begin
+_ then, involve different online AIs (as I do not have teraflops on my computer), giving to each the same assignment, and looking at which one gets the concept better.
+
+Then, start with the "leading one", but then validation and improvement got through others, until an "increment" is completed (which may require many "iterations", converging to a stabilization point and a list for the "backlog").
+
+Then, use a bit, before going back to interact- sometimes cross-checking with a different AI for suggestions, and then reviewing those suggestions, adapting, and feeding that to the "leading AI".
+
+Active listening does not work just in management consulting: with AIs, you have always remember that they might lack common sense, but contain the aggregate knowledge of thousands of specialists in whatever, specialists that in any domain know better than you "how to".
+
+My approach of active listening is to actually inject a bit from my experience into my "riposte" prompts, leveraging on two elements:
+_ obviously my cross-domain business experience for few decades
+_ the chance that an AI, if I drop some specific, focused references, can actually resurrect from training the whole context.
+
+As an example, while working on a further "increment" on this tool, to connect with another one, I commented in my prompt that actually the approach of the TurboBPR software generated by the Department of Defense for the "Re-inventing the government" initiative of Vice-President Al Gore in the 1990s could be a good framework of reference for the increment.
+
+With a human, I would have probably been met with a blank stare and/or an attempt to show that understood what I meant, or would have started a dissertation.
+
+With an AI, immediately cross-checked in background the refefences I gave before answering, and, in his/its own "riposte", clearly shared bits that showed that had accessed the context and extracted what I had just hinted at.
+
+Something that, in turn, accelerated the next set of iterations.
+
+You have to adapt your communication to the capabilities and frame of reference of your audience, not to your own.
+
+Trust me: to do that, in the 1980s and 1990s and 2000s I was countinuously buying and digesting books to be able to transfer to a different domain what assumed that could be useful but had first, to actively listen, to absorb the specific domain lingo, at least for the time needed.
+
+With AIs, learned a lot at an accelerated pace- and routinely what would have remained a concept on my disk became a first rough working draft in a matter of minutes or hours.
+
+Then, I think it over, switch role, do something else, and, when I return, AIs are just like I was with customers on decision support systems: my customers were surprised that I could resume a conversation weeks later, and, trust me, it is quite effective to deal with others who have the same capabilities- but much much much deeper access on whatever domain.
+
+So, as you can see, nothing that complex: you just need to use what you have, what you know, and learn a bit about the counterpart- with AIs, by actually using it routinely.
+
+My approach over the last year, when releases accelerated, has evolved into shifting from taking notes on ideas on my smartphone while going around, to converting those ideas into prompts, and then unleashing half a dozen AIs on them at the same time, to then look at the results when I have time.
+
+Ditto while attending conferences: instead of just taking pictures or notes, I ask AIs to prepare a report on whatever key concept I was to explore.
+
+Now, enough talking to share a bit of my motivation and approach- let's shift to the results.
+
+
+<b>THEME 3: the result</b>
+
+The first step (concept, draft prompt, prompt revised, first prompt launched across AIs, select the first "leading AI" to continue) was a matter hours, including multiple stops to do something else.
+
+It started actually on February 26th, with the download of the mermaid.js library on my computer, to have a "steady" point of reference, as I expected to have multiple iterations (adjustments) and also multiple increments (new steady points with additional features) across time, and did not want to have to test if the library, meanwhile, had been updated and therefore something did not work anymore.
+
+I will make a long story short: I am now at version 41, and would be interesting to see the mapping of the changes, branches, which model did what, etc.
+
+Anyway, what matters is that today decided that, while I am "forking" to do something additional useful to my activities, it is the right time to put online the key differences vs. the standard Mermaid that could be of interest to others, i.e. the waterfall and the bubble chart.
+
+The [tool](https://robertolofaro.com/diagrams_tool.php) is available on the menu of this website, on the top left, within the "portfolio" section.
+
+In the pull-down menu of the tool you will find some examples, such as:
+
+_this waterfall:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/q4cfoview.jpeg)</center>
+
+_ this bubble chart:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/suppliersportfolioreview.jpeg)</center>
+
+If you look at the [GitHub repository](https://github.com/robertolofaro/supportmaterial/tree/master/mermaidengine), you will find that I already exported and saved the Mermaid code (.mmd) and the visuals (svg and .png) for each chart.
+
+With an added bonus: chart are routinely added to the Mermaid library.
+
+So, while preparing this tool, beside looking at the reference website, went also to visit the "technical" website, were all the charts are defined.
+
+And saw that actually is already available an additional one, the Ishikawa "fishbone" that could be useful for root cause analysis.
+
+So, the text area on the page where you can see the examples from the pulldown menu allows also to enter the code to generate any diagram that is already supported by the Mermaid JavaScript library, e.g
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/ishikawa.png)</center>
+
+How do you generate that?
+
+<i>
+ishikawa
+Strategic Initiative Underperformance
+Governance
+Unclear ownership
+Weak decision rights
+Slow escalation
+Strategy
+Misaligned objectives
+Unrealistic targets
+No prioritization
+Execution
+Poor program management
+Lack of milestones
+Weak tracking
+People
+Skills gap
+Resistance to change
+Leadership misalignment
+Technology
+Legacy systems
+Integration issues
+Tool fragmentation
+Data
+Poor data quality
+Lack of KPIs
+Inconsistent reporting
+</i>
+
+As I used in the past MindMapping tools to generate the Ishikawa document, this is probably the easiest one.
+
+
+<b>THEME 4: the future</b>
+
+The current version of the tool on this website points to the online Mermaid JavaScript library.
+
+Offline, I use this version of the mermaid.js library: [https://cdn.jsdelivr.net/npm/mermaid@latest/dist/](https://cdn.jsdelivr.net/npm/mermaid@latest/dist/), downloaded on 2026-02-26.
+
+The online reference version is: [https://cdn.jsdelivr.net/npm/mermaid@11.13.0/](https://cdn.jsdelivr.net/npm/mermaid@11.13.0/).
+
+The reason to point to the online version instead of using a local copy is its size, as this release is an experiment.
+
+If the traffic will become excessive, I will anyway shift the tool elsewhere, and leave on this website just the link- in that case, will probably point to a specific version of the Mermaid.js library, to avoid it stopping working in the future.
+
+Anyway, will probably add further evolutions in the future, as, while using it, will also decide if I need to add other charts.
+
+The key point is also that, if you export the mermaid source, any online (and many offline) AI model should be able to derive from the chart definition the same information that they would derive from the image- but faster and consuming less resources (you do not need a multi-modal model to read text).
+
+My Easter book, as shared on Linkedin over the last few days, will contain some more information about this tool and its uses.
+
+I promised a short article but, in the end, it is already way too long, to just share a tool and a process.
+
+So, have a nice week!

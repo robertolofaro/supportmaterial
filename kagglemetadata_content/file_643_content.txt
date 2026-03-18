@@ -1,0 +1,568 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260312_article.png)</center>
+
+This article is within the [EU, Italy, Turin](https://robertolofaro.com/index.php?section=diritto-di-voto) series.
+
+The title is partially misleading, as this article is as much about history as it is about the concepts underlying the history.
+
+This article is about the cultural and organizational change side- maybe in the future will release other "number crunching" articles, as did in the past.
+
+If you are just looking for data, have a look at a previous article (in 2019: [From #Mattei to #MES / #ESM - #Europe and #Italy](https://robertolofaro.com/index.php?page=385)), and the last section of this article.
+
+Why now? Last week Italy issued another bit of debt with a "retail" target, called BTP Valore.
+
+It is the first of such type issued since the inception of the war in Iran, and therefore would be interesting to monitor its lifecycle, also because could represent a "pulse" on citizens, considering the target and its associated conditions ([see here, if you are just interested on seeing how it will evolve](https://www.soldionline.it/notizie/obbligazioni-italia/quotazione-btp-valore-marzo-2032-IT0005696338-mot)).
+
+The key risk? As usual, it is the sustainability of the overall debt, notably for an exporting country that transforms imported raw material into high-value products (mechanical or fashion does not matter- Italy is not just about food and wine), and, despite its potential from e.g. hydro or sea tide or wind or solar power generation, is still significantly dependent from fossile fuels- which are mainly imported.
+
+And this has also some impacts on the price paid by Italian companies to "consume" electricity, as the price is set using parameters from that mix.
+
+Already Italy had some direct and indirect impacts from the advent of President Trump administration and its trade wars, i.e. not just for exports, but also for de facto relocations of businesses, the "reshoring to USA" drive.
+
+Curious that just today some of those reshoring to USA, after announcing for a long time plans for Italy, were reported to be in talks with Chinese companies either to import their products, or to allow them to use European manufacturing facilities- which, incidentally, is something that I wrote long ago (along with the conversion to defense).
+
+Add to that President Trump's recent penchant for "Blitzkrieg" worldwide (probably also to [comply with some limitations set up over 50 years ago](https://en.wikipedia.org/wiki/War_Powers_Resolution) to avoid being dragged into wars on a whim from the President), and you get a continuous erratic instability.
+
+Such an instability could "stress test" large multinationals, but imagine a country where, except few large ones (mainly with the State as a shareholder), most manufacturing companies are significantly smaller than in other countries.
+
+Due to the structure of the Italian industry, and its underdeveloped risk-based investment market, those companies lack the resources needed to cope internally with these fluctuations, including to adapt, and therefore it is a routine to end up having the State as the "last resort" fund provider for innovation and investment, directly and indirectly, also when it is not about real innovation, but just incremental innovation or simple equipment replacement.
+
+Because some nicknamed decades ago Italy a "capitalism without capital" (and was not referring to the modern, XXI century rise of the intangibles).
+
+I discussed the theme of "Italian company size" often in the past- search this website.
+
+In this introduction, before discussing the themes of this article, would like to focus on some key structural consequences:
+_ smaller companies are more focused on the "now" and "delivery" than larger companies
+_ smaller companies lack the organizational "slack" to reshuffle while running.
+
+All the start-and-stop, twist-and-turn, and "pivoting" of the recent months keep disrupting.
+
+As half-jokingly said few times earlier this week to others, maybe would have been better to pay a "global protection fee" to the USA to avoid all the disruptions since spring 2025, and even offer to build a Trump Tower in each allied country, than to have this continuous tinkering with reality without considering impacts.
+
+In this article, the first theme is about <em><u>ownership and integration</u></em>: Italy since forever has been a tribal country, and will use some examples from our past, before moving to modern times- and this impact on the concept of State, as well as the relationship with national debt.
+
+Yes, Italy is an industrialized country but, as discussed above and in hundreds of previous articles, it lacks the "layered" structure (small, medium, large) that allows to build resilient supply chains, as larger companies could ease absorbing shocks, and instead this role is routinely assumed by taxpayers.
+
+The theme discussing this point has therefore the title <em><u>the Potemkin village modernization of Italy</u></em>.
+
+In a tribal country where tribal allegiance transcends any other obligation, the rule of law, as reminded almost a decade ago by the European Court of Justice (see later in this article some quotes), often gets lost through extremely long proceedings that end up meeting the statute of limitations.
+
+The most famous case was when the ECJ wrote the final statement on the G7 in Genoa affair, and stated that actually its findings could have been done by Italian Courts, as they had the same information, and instead ended up into a string of statutes of limitation- as I will share in other articles, this happened again recently, as I will share again in future articles- so, it seems that Italy still has the same issue that was criticized in 2017.
+
+The next theme is about what replaces what in "ordinary" countries would be the rule of law, <em><u>parallel lives- moral suasion and the moving feast of Italy</u></em>.
+
+A famous Italian President of the Council of Minister wrote a book that quoted in past articles, called "Governare con la crisi"- which was not just about crisis (or, in the case of Italy, crises) management.
+
+It was about "surfing" a continuous state of supposed instability.
+
+As Henry Kissinger wrote, Italy and Japan, apparently had a revolving door approach to government (as almost never lasted a full term).
+
+In reality, during Cold War, were the steadiest allies, as, at least in the case of Italy, it was always the same people that rotated, in a continuous game of "musical chair".
+
+Anyway, we Italians are proud to remember everybody about how we had an Empire (I mean the Roman Empire), to which usually I reply: with the current attitudes, it would have never extended beyond what the Greeks said about the early Rome.
+
+Will spare my Italian readers reading what in Ancient Greece was told about the new-kid-on-the-block Rome.
+
+Eventually, lost a bit of its "village" mentality, but we modern Italians routinely look for external excuses justifying the current conditions of our country, in what I could call <em><u>scapegoating supreme</u></em>.
+
+A 1972 song (when my family returned in Turin after few years in Calabria), <em><u>parole parole</u></em> gives the title to the next theme, which is really about Italian attitudes more than Italian realities: we like announcing and discussing, but implementing would require cross-tribal collaboration, and therefore we keep floating.
+
+That theme allows to introduce something with a blunt title: <em><u>it takes a few wars to wake up to deindustrialization</u></em>.
+
+It is true everywhere, but in a tribal country there is a stronger need of a shared external source of instability, to force tribes to share resources and cooperate.
+
+The risk is always the "us vs. them" escalation (more within the theme), but we even had internal crises used to that end, or politicians using visual signals to achieve that "shared concern" result that no law, no fine, no police control would have achieved in a short time.
+
+I would like to close this article with something that, in and by itself, could actually belong to the [Citizen Audit](https://robertolofaro.com/citizenauditcontent) series, i.e. sharing some number crunching.
+
+As it has become my habit since few months ago, while since 2018 occasionally inserted in my articles references to [datasets that published on Kaggle](https://kaggle.com/robertolofaro) or charts created with R, Python, and other tools, since January 2026 basically each article shares a bit of practical, reusable way to integrate AI into writing and number crunching, as I use it for that specific article preparation.
+
+So, in this section, beside the data, will discuss also the approach adopted, and compare with what I did in previous articles about the Italian national debt since 2008 (most of them now offline), and has the title <em><u>structure and dynamics</u></em>.
+
+I included some references to other material- both from media and a kind of "data digest" generated with an online AI (but I verified that all the sources provided were available).
+
+Again, will focus on material that is of a reasonable size for a general interest deep dive; if you want something more technical, or more data, have a look at the references within the AI-generated digest to delve, if you want, also in data series about the Italian national debt since the unification of Italy in 1861.
+
+In closing this introduction, again the list of the themes that you will find below:
+_ THEME 1: ownership and integration 
+_ THEME 2: the Potemkin Village modernization of Italy
+_ THEME 3: Parallel lives- moral suasion and the moving feast of Italy
+_ THEME 4: scapegoating supreme
+_ THEME 5: parole parole
+_ THEME 6: it takes few wars to wake up to deindustrialization
+_ THEME 7: structure and dynamics.
+
+For now, have a nice week-end (yes, an early TGIF)!
+
+
+<b>THEME 1: ownership and integration</b>
+
+Might seem an unusual start for an article whose title is about the national debt, but, as I wrote within the introduction, this article is only in the last section about data, all the other sections are about the context of that data- a cultural and organizational change perspective.
+
+I hold an Italian passport and was born in Turin, Italy.
+
+Since my childhood, was used to hear in school (and read in not-so-mildly-ethnocentric history books) about how great a civilization had been Rome.
+
+It was, but nowadays most of the "normal" approaches that used with friend and foe back then would not be accepted.
+
+I will try to keep this article short- hence, each section will be short and reference external material more than the usual.
+
+A 1969 book with title ["The Roman Nobility"](https://www.librarything.com/work/25524/book/141475499) (in English), coupled with a 2017 funnier book with the title [Come insultavano gli antichi: Dire le parolacce in greco e in latino](https://www.librarything.com/work/20634478/book/148078287) (in Italian, literally: how to swear in Latin and Greek), can give a quick ramp-up on social mores in Ancient Rome that are relevant to national debt and how politicians cope with debt (including their own to achieve office).
+
+For example, we associate Ancient Rome with its peak as an "empire", but in most cases we ignore (even in Italy) how what we now call [Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) was used to avoid diluting the voting rights of the "original" tribes and families from the "core" Rome, while extending its dominion first outside Rome, then to the whole of the Italian peninsula, then... the (known) World.
+
+It is a story worth reading- wrote a bit about that, e.g. you can read [Taking sides: a couple of thousand of years of tribal bipartisanship- lessons from #Italy to the #European #Union](https://robertolofaro.com/index.php?page=468), that published in 2022.
+
+And the book in Italian? Well, it contains also a section about how political campaigns in Ancient Rome were as much about fake news and mud slinging as our own, and how corrupt was the assignment of public roles.
+
+I already commented Ancient Rome "democracy" in past articles, but within the scope of this one the key element of interest is: if you have an electoral and power system that is inherently tribal and corrupt (e.g. some provinces routinely complained about predatory practices from the "leaders" assigned by Rome), and, unless you were rich, assuming piles of debt was needed to actually get an office, how could that influence not just the exercise of power, but also the structure of institutions and power?
+
+Or even extracting value from citizens, while in office?
+
+Jump "few" century forward, and we had Guicciardini and Machiavelli representing different perspectives on reality and roles- a short summary ([in Italian but survives quite well Google Translate"](https://www.liberopensiero.eu/05/12/2014/varie/universale-e-particulare-le-concezioni-opposte-di-machiavelli-e-guicciardini/)) is available online (but copy-and-paste the text).
+
+Which, also if apparently on a different plane, still is about what is universal and what is not- albeit it was interesting how Machiavelli, that most know as "advisor the the power", i.e. to individual leaders (at least was his hope, with "The Prince"), represented a wider perspective in that debate.
+
+Now, few centuries forward, and in post-unification of Italy we had a major scandal for a bank that was, say, spreading around wealth to the connected (too many cameos to share, so you can read e.g. [I ladri di Roma](https://www.librarything.com/work/15471365/t/I-ladri-di-Roma-1893-scandalo-alla-Banca-Romana-politici-giornalisti-eroi-del-Risorgimento-allassalto-del-denaro-pubblico), a book published in 1993, a century later).
+
+A couple of more recent short books that read to have something short but worth reading if you want to know more about the subject of this article are these two:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260312_book1_fisco.jpeg)</center>
+
+and
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260312_book2_debitopubblico.jpeg)</center>
+
+Different perspectives, but, while the first talks about fiscal reform, and the second about national debt, both, in around 100 pages each, give a quick overview on both subjects since the unification of Italy in 1861, describing also how we came to the current pile of debt.
+
+Interestingly, I read actually an older version of the one on debt, but the "seeds" of our current situation started at the end of the fast post-WWII rebuild of Italy, and then in the 1980s, when Italy became more assertive- but will discuss post-WWII in the next theme.
+
+
+<b>THEME 2: the Potemkin Village modernization of Italy</b>
+
+If I were to suggest a single book to read, would be [Ricchi per caso](https://www.librarything.com/work/20875132/book/149792748))- if you visit the link, you will find a review that posted in 2018, where actually added links to additional books.
+
+And, actually, to save you a click, here is that review:
+<em>
+
+In few days (March 4th 2018) there will be an election in Italy- and, as it seems that none of the "plans" over the last two decades produced any result on resurrecting Italy's role in the global economy as a leading member of the G7, increasingly commentators are looking under the carpet- and asking "what if... our 'economic miracle' of the 1950s-1960s had been just a fluke and not a trend?"
+
+This book (or collection of essay but from a mix of the authors) could have been probably 50 pages shorter- as there are many rephrasings of the same concepts
+
+But what differentiates it from many books currently on Italian bookstores' shelves is that it is data-based, and digs back in history, back to the actual creation of the country in the XIX century
+
+What is even more interesting, and that justifies part of that "duplication" I referred to, is that the book is arranged around themes- e.g. it contains a chronology of the educationall reforms, another one of the national innovation system reforms, and an analysis of the attempts to build human capital and "catch up" with leading countries
+
+The common thread shown across the book is roughly the cognitive dissonance between the reality of the country and what leaders assumed it to be, up to WWII, and post-WWII adding the element of "vote corralling" that created incentives to "stay small" for Italian companies, incentives that only recently have started to be dented
+
+There are few tables that unfortunately I cannot share here that show how Italy still has a mix between small, not-so-small, medium, large companies than any of the other leading economies
+
+As the authors note, only recently what we Italians sometimes call "multinazionali tascabili" (i.e. roughly pocket multinationals) started bypassing the traditional forms of Italian companies (small/medium, large public, large private), and become what in the 1990s used to be called "glocal", while also staying firmly Italians, but projecting themselves abroad and then adopting in each market to the local market
+
+The overall tone of the books is more of disappointment for the opportunities lost since the late XIX century, than of certainty of decline, but at least presents each position with supporting data
+
+Of course, a caveat: any attempt to use, say, a 1980s interpretation framework by restructuring/inferring from existing XIX data series comparable to those of the late XX century is open to criticism and "observer bias"
+
+Still, the extensive bibliography in each chapter, along with some objective data about the number of companies and their size across the time, and the structure and distribution of the educational system deliver interesting insight
+
+Unfortunately, this book has also something else: the cover and title are as appropriate as "Getting To Yes" was for the Harvard Negotiation Project, i.e. it looks not-so-serious, while instead it is worth you time and money
+
+Both if you are just interesting about Italy, a politician or political scientist, or dealing with (or operating) Italian businesses
+
+As we Italians routinely have a penchant for importing what worked elsewhere, assuming that we are smart enough to make it work in our country- forgetting "small details", e.g. that already in the XIX century educational school reforms extended taxpayers' money to subsidize the schooling and culture of the few, while underinvesting in schooling and "cultural induction" for the many
+
+Creating the foundation for our current human capital gap- that will not be solved by merely mocking what other countries did and, as you would expect, the usual recipe: subsidize more those that anyway would already have access to R&D, high-level education, or investment in cultural assets
+
+Last but not least: the around 300 pages of this book are worth reading once, as an independent book, and then re-read after (as I will do soon) reading few more books (I limit the list- if interested, look for the collections "Italy" and "NextPolitics" in my profile, for more books), e.g.:
+> Romano "Vademecum di storia dell'Italia unita" https://www.librarything.com/work/9257312/book/137634595
+> AA.VV: "Storia del capitalismo italiano: dal dopoguerra a oggi" https://www.librarything.com/work/19235965/book/139515887
+> Colli "Capitalismo famigliare" https://www.librarything.com/work/5642030/book/112632203
+> Saibene "L'Italia di Adriano Olivetti" https://www.librarything.com/work/19392130/book/140436127
+> Borghi "Piccole Italie: le aree interne e la questione territoriale" https://www.librarything.com/work/19592968/book/141689358
+> Bini Smaghi "La tentazione di andarsene: fuori dall'Europa c'&egrave; un futuro per l'Italia?" https://www.librarything.com/work/19925137/book/143931366
+> Rizzo "La Repubblica dei brocchi: il declino della classe dirigente italiana" https://www.librarything.com/work/19062305/book/140084807
+> Giunta, Rossi "Che cosa sa fare l'Italia: La nostra economia dopo la grande crisi" https://www.librarything.com/work/19059723/book/138520087
+</em>
+
+Yes, I am a lifelong bookworm.
+
+Anyway, since I was 17 I was used to blend into politics data- courtesy of my experience in a political advocacy on European integration where massive amount of data were continuously received, sent from Brussels, and had the opportunity to interact with people who were much older than me and on either the academic or research side of that number crunching within a political science context.
+
+Which implies: even before living abroad and working in few countries while living abroad (and not for Italian companies, as most Italians who claim to have worked abroad did), I was used to compare systems.
+
+Italy is a special case, linked also to the slow pace that a tribal society enables, a kind of "permanent ringisho": within a single tribe, everything is fast because has been prepared for a long time- if somebody moves to the top, has been moving up along for a long time, and does not need validation by the tribe.
+
+Actually, the tribe might have selected that candidate long ago, and then provided a "stepping stone" routinely, at each time surrounded by a "support group", before moving forward.
+
+Trouble is, we live in different times, and no tribe can have all the capabilities needed, as otherwise there would be a fierce competition, while instead in Italy we partition the territory 
+
+Even organized crime does- too much money going around to be washed and invested, would be silly to undermine the value of assets by having fights in the streets or mafia wars.
+
+Implication: in Italy, anything can have tribal consequences- we adopt laws and EU Directives, but then implementation is a different beast.
+
+And we have so many layers, and it is a routine to read on newspapers that somebody doing a white collar or non-organized crime violent crime goes de facto unpunished due to time limits.
+
+And this applies also to legal proceedings, as e.g. remarked in 2017 by the European Court of Human rights:
+<em>"The Court stressed that the length of the proceedings and the application of the statute of limitations to most of the offences had not been caused, in the present case, by prevarication or negligence on the part of the prosecuting authorities and the domestic courts, but by structural
+shortcomings in the Italian legal system. "</em>
+(within ["Shortcomings in the official investigation into police violence against demonstrators who were held following the 2001 G8 Summit in Genoa" ECHR 318 (2017) 26.10.2017, page 3 of 4](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-5900024-7526266&filename=Judgments%20Azzolina%20and%20Others%20v.%20Italy%20and%20Blair%20and%20Others%20v.%20Italy%20-%20lack%20of%20an%20effective%20investigation%20into%20police%20violence%20in%20detention.pdf)) 
+
+"Structural shortcomings of the Italian legal system"- and others documents from the same "package" about the Genoa G8 from the ECHR contained also details- anyway, you can just have a look at the [country profile](https://www.echr.coe.int/documents/604084/839313/CP_Italy_ENG.pdf/88266598-28e3-5fa6-388d-4c45fa86e100?version=19.0&t=1771862105377&download=true) (both documents downloaded 2026-03-12).
+
+We were talking about torture, but the same can apply also e.g. for material disappearing from a judicial holding- statute of limitations.
+
+If you read the previous section, you saw that referenced how tribes and nobility during the Roman Republic (in Ancient Rome, not the XIX century or post-WWII) did all their best to defend their own turf from the "new people".
+
+And, if you read the books listed within that 2018 book review, you will see how actually I am not the only one to routinely discuss our "campanilismo" (i.e. "linked to the bell tower") and "tribal" instincts.
+
+This has some side-effects, as will discuss in the next theme.
+
+
+<b>THEME 3: Parallel lives- moral suasion and the moving feast of Italy</b>
+
+Tribal self-defense is so strong, that we end up routinely being criticized from abroad for how our tribal approach impact our reliability and credibility.
+
+Be it an extensive use of statute of limitations to avoid dragging full tribes into the mud, mud that they themselves spread around, or massive intensive gaslighting of opponents, or even being considered an unreliable partner not worth sharing information with, as could then reach the opponents.
+
+Few modern democracies have so many books where people decades later publish something around the concept "we were right, but we were told that we were crazy" or something on that line.
+
+Italy is still an immature democracy that cannot police itself, in too many areas, and loses no opportunity to confirm it.
+
+I provided in the past either on [Facebook](https://facebook.com/robertolofaro) or [Linkedin](https://linkedin.com/in/robertolofaro), as a routine since 2012, plenty of  news items about this subject.
+
+Yes, this is a curious element of Italian tribal warfare: in what we call "Prima Repubblica" (roughly post-WWII until early 1990s), it was a routine for politicians to give interviews so that messages passed through newspapers, and then deny that that had said what had been reported.
+
+So much, that journalists eventually started taping interviews.
+
+And this is another element of the Italian Republic: ignore the laws and brouhaha about limiting taping phone calls, electronic traffic, access to banking information.
+
+It is a routine, in Italy- so much that, while working in Rome, was told not to talk over the phone- everybody, according to Italians, listen to everybody, along tribal boundaries.
+
+I shared in the past some funny cameos.
+
+I do not belong to any tribe and I am structurally bipartisan, hence this creates some "worries".
+
+Worries that, so far, counting just from 2008 was I Italian State and private interference in Brussels, resulted in a massive waste of time and money: imagine that, after seeing derailed the role that had just started and on which, when had to resign, was even offered to skip the trial period and become immediately permanent, in order to avoid returning to Italy after what they did, I went to ask a consultant to... water down my CV so that I could get a much lower technical job to stay in Belgium.
+
+In Italy, we even had in the past a scandal with a company supposedly recording on behalf of legally authorized evidence collection, that had instead set up a kind of garage sale of tapes.
+
+Again, look at my profiles online, and you will find the links.
+
+Now, it seems a quagmire and an impossible environment not just to govern, but also to survive.
+
+We Italians have since centuries a solution.
+
+First, using few as "bridges" across tribes, and then converging on our routine apparent obsession of having a "super partes".
+
+No, not "king makers", albeit sometimes they seem so- simply, trusted across the tribes despite being identified as belonging to a specific tribe.
+
+Which really means: yes, formally a kind of Salomon in every context, but in reality few selected ones who act as background bridge-makers (we call them "pontieri" or with many other names).
+
+We also have some institutions that act as a kind of "control bar" within a power station, where the uranium fuel bars are replaced by political mud-slinging, to tone down when the mud slinging between tribes becomes a farce (sometimes the volleys of mud sound a bit childish, but we Italians are used to it- part of the show).
+
+During the "Prima Repubblica", we had influence from the Pope, but also two "political Churches": the Democrazia Cristiana and the Partito Comunista Italiano, plus the Bank of Italy.
+
+An unusual mix, Christian Democrats under a de facto influence from the Roman Catholic church, one of the largest Communist parties in Western Europe (at times "the" largest), and the central bank.
+
+So, if we had a bank risking a significant crisis, we had some gentle suggestion, and, as I wrote in previous articles, routinely, to keep the Italian banking system afloat (as Italian companies mainly financed themselves through banks), suddenly another Italian bank acquired that weaker bank.
+
+In my time in Italy, it happened few times.
+
+Anyway, it was the way to keep it all together.
+
+Except for the routine extremists and bouts of terrorism from the left and from the right, in both cases with active or passive sympathizers across society (the latter routinely also in security services- again, the "quis custodiet ipsos custodes" issue that we have since Ancient Rome), Italy was a continuous miracle of "stability within instability".
+
+Paraphrasing what Sikorsky reportedly said: Italy is akin to a bumblebee.
+
+Should not fly, as does not follow the "normal" approaches.
+
+But as the bumblebee ignores the rules of aerodynamics and keeps flying, we Italians and our political system manage to be highly melodramatic, ignore the ordinary, and be highly pragmatic.
+
+I remember how my colleagues and the IMF in 1999 worried about Italy's preparedness for the Year 2000 computer issues (Y2K)- to which I replied that those who needed, were ready, as already in 1987-1988, in my first banking project, expanding the date to 8 digits was part of the project.
+
+There is a secret, that, again, we use since Ancient Rome- and it part of the next theme.
+
+
+<b>THEME 4: scapegoating supreme</b>
+
+I know, a good fiction writer should not disclose the murderer in the first line.
+
+But there are two elements:
+_ this is not fiction, this is reality
+_ and I side with Truffaut and Hitchcock in disliking "whodunnit".
+
+It is much more interesting to see how the story develops.
+
+As quoted within the introduction, we had a "serial president of the council of ministers" ([Giulio Andreotti, 7 times](https://en.wikipedia.org/wiki/Giulio_Andreotti)- you can [have a look here](https://en.wikipedia.org/wiki/List_of_Italian_governments)), he was the embodiment of what Henry Kissinger said about Italy and Japan as allies.
+
+Because, when he was not at Palazzo Chigi (a former nobility palace turned into residence of the Italian equivalent of a "primus inter pares Prime Minister"), he was more often than not a leading minister: hence, was really "ruling" more than the official seven times.
+
+He wrote a book with the title "Governare con la crisi"- where he described how, from 1943 on, there was always some melodrama going through, sometimes real crises, sometime a minuet to allow musical chair in politics.
+
+As in Tomasi di Lampedusa "Gattopardo" (The Leopard), to change everything so that nothing changed.
+
+I remember the late 1970s to early 1980s quite well, as was already "politically active".
+
+In 1983 was part of my first real national election campaign- as usual, backstage and "election bureaucracy" to help organize the unseen of a campaign.
+
+I remember how had been routine the discussion about Italy and its debt- but will leave to the books linked above to share that side of history.
+
+More interesting, and more personal, is how I lived the 1992 currency crisis.
+
+At the time, had personal reasons to be often in Germany.
+
+So, started with 720 ITL per DEM (the currencies then respectively in Italy and Germany).
+
+And ended up with 1200 ITL (actual price I paid, actually even worse) per DEM.
+
+In six months.
+
+It was a wake-up call, and right then we confirmed that we could not defend our own currency.
+
+For a country that imports both energy and raw materials, and exports finished products, is not really the best of scenarios.
+
+In the early 1990s was based in Milan, and then based in Parma, working mainly in the banking industry on change, and, at the same time, with various companies on the business software side (mainly in business intelligence and the like- yes, business number crunching).
+
+I lost count of how many models (1980s-1990s) and how many management reporting, KPIs, dashboards had to deal with, across multiple industries and often ending up having to work on creating the solution architecture or acting as both project manager and business analyst on pilot projects.
+
+Late 1990s shifted to UK, and Italy was for me replaced by UK, France, German Switzerland.
+
+So, I started seeing my own country, Italy, and my own birthplace, Turin, as well as their way of defining "normal" from the perspective of other countries, including by comparing bureaucracies.
+
+And continued that in the 2000s.
+
+So far, did not say anything apparently relevant to the title of this theme.
+
+Anyway, it is yet another point of tribal life: to change everything while avoiding to change anything, you need a justification, and usually it is not that structures, processes, teams did not work correctly.
+
+You need a culprit- better if an individual who can be easily expelled from the tribe.
+
+If not, we have yet another card in our cultural deck: promoveatur ut admoveatur- promote to remove, or, if that is not acceptable, convince somebody to take the guilt.
+
+It happened e.g. during the "Clean Hands" corruption crisis- not everybody talked, and somebody simply "absorbed the guilt" to protect the tribe.
+
+For the alternative: you promote, give a nice title, and exactly zilch to do except acting as a busy bee (but also "window watching" is acceptably- I saw manager in the late 1980s who elected to study, and others who decided to spend their day in office... on the balcony with aluminum foil to get a sun tan).
+
+In exchange, that person knows that, unless has some highly placed patron, that is the end- at best will get some sinecure, an office, an assistant, and an expenses account, but no more promotions.
+
+And if has a patron? Will just have to stay "on ice" for a while, to then slowly getting "thawed", then put on the back-burner, and finally get back, maybe after spending few years with a title on which has zilch competence but that sounds good enough, so that, after a couple of years, can claim experience in a leading role, and land the role that was actually agreed.
+
+So, we have plenty of culprits for the decline of the Italian lira, the increase of the debt, and the weakening of the social fabric.
+
+And when nothing worked to sort out the mess...
+
+... quite conveniently, we started looking outside Italy.
+
+In 2001, before the Euro was in our pockets, we said that the issue was 9/11.
+
+At the time was working outside Italy, and I remember well before then telling my Swiss partner that instead of using people from India or Canada or Vietnam, he could "near shore" in Turin, as the rates were at the same level or lower, plus did not have to pay for expenses, and could drop by unannounced to verify- just 50 minutes by plane from Zurich.
+
+Then after 2002 the culprit became the Euro- on that, partially agree: we got back after the 1992 crisis into the precursor with too high a valuation for our currency.
+
+Then the culprit became the 2008 financial crisis.
+
+Again: in the early 2000s, I had customers who by business had to see those data that reported how the Italian middle class had already started using credit to retain the same lifestyle- keeping appearances and social status while struggling.
+
+I will skip listing all the other scapegoats, but we can just say that there is one thing that Italy still has not done: accept change.
+
+And I am not talking about those reforms requested repeatedly by our European Union partner, reforms that actually were designed on their own social and economic structure...
+
+
+<b>THEME 5: parole parole</b>
+
+The title of this theme is a [1972 song](https://en.wikipedia.org/wiki/Parole_parole) ("words words").
+
+Our tribal dimension has a further side-effect: I never saw in any country (until President Trump) so often politicians suing journalists and other politicians for what in Italy we call "reati di opinione".
+
+The Italian penchant for suing each other about opinions using local laws is a way to silence opponents, and avoiding the side-effect of mismanagement, corruption, data leaks.
+
+Italy is a country of [leaders](https://robertolofaro.com/index.php?page=125) who routinely invoke [l&egrave;se majest&eacute;](https://en.wikipedia.org/wiki/L%C3%A8se-majest%C3%A9) under the shape of various Italian laws.
+
+In many countries, being criticized or even insulted is considered part of the "package" that you get for being an elected politician or famous person whose livelihood depends on being famous.
+
+In Italy, using law to silence opponents with less depth in their pockets is an old routine.
+
+I am waiting for a President that, at last, will ask Parliament to scrap at least bits of that.
+
+As laws in Italy should be made by the Parliament, also if over the last few decades de facto is the Government that takes the initiative and pushes through laws.
+
+We Italians like to have politicians who talk talk talk- we actually had so many talk shows (I do not watch TV, if anything interesting happens go and watch it later)...
+
+... that at times a specific TV show was called "the third chamber of the Italian Parliament".
+
+Italian politicians recently started getting Italian voters used to soundbites of few seconds, but when given the chance to speak, they usually do not deliver a speech, they deliver a sermon.
+
+It is helped also by the Italian spoils system: in past decades was more so, but also after privatizations in the 1990s, many of the Italian larger companies have local authorities or the State as significant and influential shareholder.
+
+Hence, when we have a change of government, local or national, it is a routine as everywhere else to replace top management, as it is an expression of political guidance.
+
+Then, in Italy, whatever role becomes available, is often filled by politically appointees or "suggested parties".
+
+And if a role is not available? 
+
+Well, you can always reshuffle the organizational chart so that those left over by the previous government can go watching windows, while your new appointees take the lead.
+
+Down to the janitor or call center operator.
+
+To say nothing about suppliers.
+
+And, again "parole parole", it is a routine.
+
+The opposition, in 2022 but also when Silvio Berlusconi entered politics 30 years ago, calls that a scandal, nepotism, etc. - until they get back into government, and do the same.
+
+Forgetting that, as saw in my birthplace Turin, for a quarter of a century the same political party was at the helm- and did not notice so many people from the right being appointed.
+
+Another routine example of "parole parole" is the penchant for the Italian State to add year after year within the sources of income the sale of buildings belonging to the State.
+
+As anyway the budget of the State is not an allocation but a forecast, it is a game that has been played often (sometimes with excessive "gusto"), and has been accepted by all the readers of the budget.
+
+If you read the history of the Italian debt, you will see few instances of discussions about "consolidation" and plenty of instances (before the Euro) of "devaluation".
+
+The latter is a more politically correct ways to describe "selective default", a concept that during the latest USA Presidential campaign was actually being discussed, and reminded recently when President Trump warned allies about dumping USA debt.
+
+In Italy, there is another way to react to criticism: what I could nickname "altroismo", a pun on "altruismo".
+
+The difference? The former is not within the dictionary, but it is the usual rhetorical device, when facing critics, to try to say that those are minutiae, and shift on something else ("altro" in Italian).
+
+I remember a funny case in Turin, when the critic was asking about local registration services, and the reply was basically to think that soon there will be flying cars.
+
+And, often, to "elevate", the reply includes also a call for common good, the "altruismo" (e.g. inclination to do what helps others also if you get not benefit).
+
+Interestingly, those calls are not matched by releasing what has instead being received not as result of activities, but as result of roles covered, political patronage, etc.
+
+That's the level of political debate that we can expected from our Italian &eacute;lites, apparently.
+
+I saw it all first hand while working part-time / fractional as PM in Government projects in Rome, over 20 years ago: took that "altruismo" at face value, and instead saw that apparently "walk the talk" is impolite in Italy- better to talk the talk, and let others do the walk.
+
+Now, if you survived so far, probably you start understanding why reducing debt is not so easy in Italy: the balancing between tribes would be altered.
+
+Hence, for example, as wrote often in the past, in Italy we do not do "selective" cuts, we cut X% of whatever, good and bad.
+
+Which is akin to the Crusade against the Cathars: "<em>Kill them all! God will know his own.</em>" ([see here](https://en.wikipedia.org/wiki/Albigensian_Crusade)).
+
+Anyway, in this too we Italians have a solution- actually, two.
+
+
+<b>THEME 6: it takes few wars to wake up to deindustrialization</b>
+
+Yes, there is a risk in what discussed within the introduction, i.e. finding an external enemy, the risk of an escalation into a "us vs. them".
+
+We European are always ready to climb on the moral throne and judge other countries- because we conveniently forget our (relatively recent: XX century) past.
+
+There is a documentary that quoted often in the past, [Five Steps to Tyranny](https://www.imdb.com/title/tt0498671/)- and should be compulsory watching for any decision maker, not just politicians.
+
+A tribal system is already inclined to shift into that "us vs. them" direction, the direction when you start de-humanizing your counterpart.
+
+Sometimes, it can be used something else as a "rallying cry", with no negative externalities, but still reinforcing the cohesion of across all the tribes on a common goal.
+
+The President of the Council of Minister whose book discussed above, Giulio Andreotti, was in office (surprise surprise) when the 1973 oil crisis hit hard.
+
+One of the initiative he took to convince Italians to save on fuel was to order... to switch off one lamppost out of two.
+
+Asked years later by a journalist, he said that actually was an expensive more but, with Italians, gave a visible sign of a crisis.
+
+As otherwise Italians would expect everybody else to avoid wasting fuel, but would also find a rational reason to exempt themselves from the same constraint- it happened again during the COVID lockdowns.
+
+I remember somebody who went outside home to add gas to the car- 1 EUR at a time...
+
+... and older people who, used to their walk, went to grocery shops every day.
+
+I discussed in previous articles, and hinted at at the beginning of this article, about the "industry of industries", automotive.
+
+The shift toward defense implies a more significant role of the State, as not just in Italy the defense industry in Europe is private yet still with the State as a significant shareholder.
+
+Under that, in Italy there is a galaxy of micro-businesses, businesses that until recently were often within the supply chain of European car makers, and that now are considering gradually shifting to defense, but in some cases still have to get the point that in defense you get longer contracts for smaller volumes, and you have equipment standards (including durability of your products) that exceed what they were used to.
+
+Net result? Incentives at the European level for the transition but, in a country where the main defense company is de facto controlled by the Government, directly or indirectly the transition will have to be supported by taxpayers, as the companies involved, beside lacking the "know how", often do not have the resources.
+
+Since 2012 frankly in my birthplace Turin (but also in other areas of my country) saw a "Big Leave"- both graduates leaving the country, and branches of foreign companies progressively pulling the plug and relocating elsewhere.
+
+This created a further need to overcome another Italian issue: the structural inability of creating an accountable &eacute;lite that thinks and invests long-term.
+
+So, all the conflicts around us could actually help to bring tribes together, and we could at last recover some of the lost competitiveness (instead of duplicating or waiting to duplicate within each tribe capabilities, we could blend the existing ones).
+
+Still, funding that transition (not just defense, also shifting away from a purely tribal attitude) will cost.
+
+The recent release of the BTP valore, from my observation point, is part of a trend that discussed while living in Brussels, over a decade ago, i.e. bringing Italian national (i.e. State) debt back into Italian hands.
+
+The percentage held by private citizens is still small (albeit indirectly, e.g. via mutual funds, could expand), so there are different creative ways that could be used by the State to lower debt that could "be dumped" in a crisis.
+
+When we talk about Italian State debt, also the welfare state should be considered- including both retirees benefits, but also support to industries etc.
+
+Recently was discussed on media a proposal to give tax incentives to Italian retirees who moved abroad...
+
+... if they come back in Italy.
+
+Why could impact on debt? Well, in Italy, we have relatively complex rules to have retiring benefits "pass" onto the spouse and others: imagine if retirees who moved in low-income country so that they can afford a higher living standard by using their Italian retiring benefits were suddenly all to find a significantly younger spouse.
+
+The income level of the spouse would be lower than the thresholds identified by the Italian law to reduce benefits, and this could generate additional funding needs for the Italian State.
+
+Hence, by repatriating retirees, also if by reducing their taxes for, say, 15 years, could lower the risk of what happened years ago while was working in Rome, and was told of foreigners in their twenties marrying Italians three or even four times their age.
+
+Actually, there are other creative ways that could help reduce debt, or at least reduce the risk of expanding debt but, as you can imagine from all that your read above, those would require even more significant crises, to force all the tribes to surrender something.
+
+E.g. scaling up purchasing by really sharing not just a catalog, but volumes where makes sense, or decoupling services by using the "subsidiarity" approach to do locally what makes sense to do locally, and pool resources otherwise.
+
+As you can see, all the 8,000+ words so far in this article have been about the context of debt and debt reduction initiatives, and this just scratches the surface, but hope that provided enough pointers to start considering what this could imply.
+
+It will be interesting to see how the "bring debt to citizens" will evolve- and in previous articles discussed some potential "extrema ratio" choices, such as swapping assets for debt, and seeing the parallel development lines of debt and its sustainability, as represented by services and differences in level and intensity of services.
+
+Italians are used to have access to all the services nearby- but that is not sustainable, and, as shown by recent cases, unfortunately is even dangerous to have structures that carry out some procedures only occasionally, vs. having fewer structures that provide them continuously.
+
+The most obvious case is healthcare- would have a child delivered in a hospital that sees a birth every three years, or in one that has weekly multiple cases?
+
+There are limited amounts of "gaming" that you can do, such as that incentive to bring back retirees in Italy to reduce foreseeable costs.
+
+Which include retiring benefits, but also potential costs due to agreements to provide full access to healthcare abroad to our expat-retirees, as [e.g. discussed in this page from Tuscany](https://www.uslsudest.toscana.it/come-fare-per/assistenza-sanitaria-estero-cittadini-italiani/pensionati).
+
+The key point with the Italian national debt is simple: the service of the debt often exceeds the content of the national budget that is prepared at year end.
+
+So, reducing the debt is not just something useful to get a better rating- any reduction has to be sustainable considering the demographic trends.
+
+If you get a rating, but to sustain it you have to play accounting or actuarial games, it is not sustainable, it is creative accounting.
+
+Now, will shift to data, and yet another experiment.
+
+
+<b>THEME 7: structure and dynamics</b>
+
+If you read those two mini-books I quoted above (about fiscal reform and about the national debt), you saw also that in Italy we have another issue, that was shown quite well durin the NextGenerationEU / PNRR times (that will end in few months): we still have a culture of "spending", not of "investing".
+
+A serious plan to reduce the Italian debt should include also a structural reorganization of the State and, probably, also a significant educational initiative (and accountability drive) toward those who are on the spending side- instead, since decades, we are doing the opposite, in Italy.
+
+One of the books that quote in that 2018 book review that shared above had the title "La Repubblica dei Brocchi".
+
+Well, it is a choice, not a manifest destiny.
+
+When I wrote "tribes", forgot to say that routinely in Italy we discuss also about specific "business tribes" (i.e. sharing the role or occupation) as if they were a cohesive "party", i.e. a tribe or a caste.
+
+So, over the years, look at Italian newspapers: you will find "il partito dei giudici", "il partito dei prefetti", "il partito dei sindaci"... and so on, and so forth.
+
+If debt is considered really an operational expense, not an investment, what matters is how many will be involved in that spending, not what that spending will generate to exceed the cost of funding.
+
+And if you have many tribes, all thinking in the same way, national as those "il partito dei <whatever>" I wrote above, or local (and in this case cross-industry), you risk that your consensus, as a politician, is again linked to short-term impacts, not to the sustainability.
+
+In the previous articles since 2008 when crunched numbers on the Italian national debt (e.g. see what I linked at the beginning of this article), producing datasets, charts in R, etc. was a matter of finding the documents, crunching the numbers, building a visualization- sometimes, a simple chart, if you have to select and assemble data and maybe harmonize them and test few representations, can take a significant amount of time.
+
+I am preparing different "collections" of objects that include AI and non-AI software components that will then release for free online.
+
+Why? As my interest is in doing my activities- be it the project/program/change management that will do in Italy while rates are nowhere close to those that used to charge as a management consultant, or shorter missions as management consultant, or simply relocating abroad to work within an organization.
+
+Yes, I wrote software and designed databases in the past, and still do both to support my publishing or consulting activities (also if you will not find it on my CV- I am tired of receiving irrelevant offers or calls just because there is a keyword in my CV).
+
+Anyway, I think that, for what I am using software and AIs now for, it makes more sense to share and let others develop or integrate in something else, than let rot in my database or within my profiles within online AIs.
+
+My approach in using AI, beside older activities, since we started having online (and offline) LLMs is to ask models to behave as a team- and to provide a definition of the team members that resonates with specific business or domain roles (such as expert in A with experience in Y), then to integrate with more contextualization both on the roles, expectations, and results.
+
+For more structured activities, such as the one that described in the mini-book, usually I have my proposed set of activities reviewed by models, before preparing the final one.
+
+In this case, instead, the experiment was in asking Claude to do what I used to do to get the data needed to compute information about the Italian national debt.
+
+This is [the prompt that I used](https://github.com/robertolofaro/supportmaterial/blob/master/20260306_prompt-and-cover.md).
+
+To simplify access, the link above contains both the prompt and the "cover" of the answer, outlining the key information.
+
+The results, including data, charts, etc, [are here](https://github.com/robertolofaro/supportmaterial/blob/master/20260306_attachment-italy_sovereign_debt_analysis.md).
+
+In my case, that was the initial information, to be then cross-references with other information from the listed sources, to produce a dataset that will go on Kaggle, and will release later this month, along with other data updates.
+
+The interesting part is how, actually, spending really a couple of minutes to write a prompt that described what I would do, resulted in the same documents that I used in the past- but without spending hours to read through them (something that anyway will need to do, for my purposes).

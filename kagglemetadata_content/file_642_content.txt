@@ -1,0 +1,594 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260310_article.png)</center>
+
+This article is within the "Too Big To Fail 2 In Europe" series- and, sticking with what I wrote within the inception of this series, "will use as reference example(s) from the European Union, Italy, and Turin, my birthplace, but I think that most of the material could have a wider interest."
+
+Today is an ordinary Tuesday within an ordinary (since 2022) week within a European Union country, so we are hearing on a daily basis how at least a couple of conflicts are
+a) banging on our door
+b) seeing us contributing or being asked to contribute to the defense of non-EU countries.
+
+Just few hours ago was attending a webinar on the UN SDG progress- before the closing speech of Jeffrey Sachs, this is the commentary that posted on Linkedin:
+<em>
+attending now a webinar on accelerating the SDGs (yes, [I have a long-term book and number crunching started officially in 2015, but really derived from the previous round of goals](https://robertolofaro.com/index.php?section=expo2015diaries))
+
+well, the gap was at 1trn USD, now 3-4trn USDs, has just been said by Dr. Mohieldin
+
+and with a timeline just discussed of 27 months to get a dollar to implementation (referencing a previous statement), we should consider that there is not enough time left to implement what agreed in 2015 by 2030
+
+so, while working on continuing and improving alignment, maybe a parallel good use of the time left is to understand why and what did not work, and how (and what to) make it work moving forward
+
+[data](https://unstats.un.org/sdgs/dataportal)
+</em>
+
+Why am I opening this article about security with the UN SDG? 
+
+Will explain in the first section of this article, with the title <em><u>adopting a systemic perspective in change</u></em>
+
+Since a week, the twist has been that Europe found itself involved (for now, with a defensive posture) in a conflict started by our reference ally without even notifying us.
+
+It has been a while since the previous article in this series, as it was five months ago (on 2025-10-18).
+
+This article, as the title says, is about the defense, seen from a cultural and organizational change perspective, from somebody who worked in that field across different countries and industries for over 30 years, always seeing change from an evidence-based perspective.
+
+Yes, the title says "defence", as recovers the title of a book (over 1,000 pages- 1,200+, if my memory is correct), a kind of "official" history of the MI5.
+
+Why that reference and why read that book- but across the article, except when writing about that book, will write "defense".
+
+As I wrote in countless articles and over a dozen mini-books on change (the latest was released last week-end, and you can read online a kind of book sample plus roadmap [at this link](https://robertolofaro.com/index.php?page=641)), within my activities routinely used my interest in studying closed communities as a tool.
+
+In cultural and organizational change, often building not just a sense of awareness, but also ownership, generates a cohesive factor that acts as a "community clue".
+
+The obvious risk is what I saw and still see in my birth country.
+
+Hailing from Italy, I was used to a "tribal" attitude that transcended any other obligation.
+
+And, then, that cohesion that you fostered can actually turn from an asset into a liability, as acts also as a "shield" against reality.
+
+You can read a couple of books about that within my online library, [The Dark Heart of Italy](https://www.librarything.com/work/46621/book/40298949) and [History of the Italian People](https://www.librarything.com/work/2571772/book/40299483) (my reviews are under the nickname [aleph123](https://librarything.com/profile/aleph123) for historical reasons).
+
+Since I was made to return in Turin from abroad, to start working and living again in Piedmont in 2012, expanded my collection of cameos on how that tribal element is deeper than I already had assumed in the 1980s, when jumped at any opportunity to leave the territory.
+
+Hence, that large tome about the MI5, along with many others on other closed communities before and after, was an interesting reading.
+
+Within the European Union, and not just Italy or Turin, We had "few" changes since the latest article in this series.
+
+The war in Ukraine still goes on, albeit on media in Europe is on the back-burner, as we have been busy first with Gaza, and, since early March 2026, Iran.
+
+Meanwhile, during 2025 we had also unilateral "actions" on Nigeria, Venezuela, and repeated rounds of threats from friendly quarters against Canada and Denmark/Greenland/the European Union.
+
+And we weren't the only ones, as reminded by at least the latest half dozen issues of Foreign 
+Affairs (which is published every two months).
+
+Now, the "Realm" within the context of this article is certainly Italy and the European Union, but should be considered on a wider scale.
+
+Therefore, in the second section, with the title <em><u>structural weakness, structural ties</u></em>, will share some considerations, continuing on the points discussed about the European Union and defense (including ReArmEU) blend with our NATO obligations and agreements, now that routinely the leading NATO Member State since 2025 is behaving as Athens within the [Delian League](https://en.wikipedia.org/wiki/Delian_League).
+
+Within the European Union, used to 75 years of peace on our territory, and going around for missions elsewhere, we are not used anymore to what implies instead having to consider the potential to activate a supply chain for continued defense from the risk of having yet another conflict within our territory.
+
+Hence, the next section is about <em><u>dreams and reality of defense</u></em>.
+
+We should not make the mistakes of WWII, when the defense planning was inspired by WWI: we live in a different world, notably a different technological landscape, and even the lessons of both WWII, the Cold War, and plenty of conflicts before 2022 should be re-assessed.
+
+AI, cybersecurity, and attacks on infrastructure, as wrote in my latest book giving an example of an attack on a datacenter (see also my Linkedin profile for the link to the original discussion threads), are becoming part of a multi-factor attack and riposte, bringing about <em><u>the age of asymmetric responses</u></em>
+
+Before shifting to discuss the current conditions and some elements (technology included) about the future, I would like to share within <em><u>a summary: the previous in this series</u></em> some pointers useful to expand on the systemic side.
+
+As reading the full four previous articles would take time (over 38k words), as an experiment applied a "project" that created in Anthropic Claude to generate a summary for each article and each section within each article.
+
+Along with the summary text, the project generates also a Mermaid flow chart (a kind of "visual roadmap" of the argument), and image and video generation prompts.
+
+Within this article, none of those visual and visual-production elements are included: I did the first phases of testing over few weeks, but will share only after the also the visual side will have achieved a similar level of stability (not maturity- as that, is frankly a matter of taste).
+
+Take that summary as a hint, as so far used it only to test some new search facilities.
+
+Of course, if you prefer, you can read the original articles, and skip this section.
+
+Now, all the sections above should be considered part of the contextualization of this introduction.
+
+Instead, in the next five sections, would like to share first my own position on the ongoing conflicts, so that it is clear where I stand; this will be the content of <em><u>a couple of wars- Ukraine, Gaza, and Iran</u></em>.
+
+Then,  you can "counterweight" with your own position the other four section.
+
+Next, a concept that was partially discussed within the "asymmetric response" section above, but looking specifically at <em><u>the future of conflicts</u></em>.
+
+Again: from a cultural and organizational change perspective- what I expect could be a significant set of changes.
+
+On purpose, decided to first discuss the concept ("future"), and then the ethical side of that future, leveraging also on recent material published by SIPRI, that summarized within the title of the section: <em><u>the moral hazard of autonomous weapons</u></em>.
+
+The purpose of the previous two sections is to introduce an element of boring realism within <em><u>political control and real oversight</u></em>.
+
+Anyway, as a "bridge" toward other forthcoming articles (see within the section), will close the article with <em><u>who does what- European Union and Member States</u></em>.
+
+Hope that this article will be useful to at least inspire some further readings- and avoid blind alleys that we collectively went through already in the past.
+
+Have a nice week!
+
+
+_ THEME 1: ADOPTING A SYSTEMIC PERSPECTIVE IN CHANGE
+_ THEME 2: STRUCTURAL WEAKNESS, STRUCTURAL TIES
+_ THEME 3: DREAMS AND REALITY OF DEFENSE
+_ THEME 4: THE AGE OF ASYMMETRIC RESPONSES
+_ THEME 5: A SUMMARY- PREVIOUS ARTICLES
+_ THEME 6: A COUPLE OF WARS- UKRAINE, GAZA, AND IRAN
+_ THEME 7: THE FUTURE OF CONFLICTS
+_ THEME 8: THE MORAL HAZARD OF AUTONOMOUS WEAPONS
+_ THEME 9: POLITICAL CONTROL AND REAL OVERSIGHT
+_ THEME 10: WHO DOES WHAT- EUROPEAN UNION AND MEMBER STATES
+
+
+<b>THEME 1: ADOPTING A SYSTEMIC PERSPECTIVE IN CHANGE</b>
+
+The interest in the book that used to inspire the title of this article was  because, in part due to its small size vs. the size of its empire and continental interests, Great Britain already centuries ago entertained what we now call "social engineering" at a massive scale, often with awful long-term results.
+
+I remember what in 1995 my professor during the Summer School at the London School of Economics told us about how the Indian subcontinent was controlled by a relatively small number of people from Great Britain, courtesy also of the resurrection of older forms of social control, plus a "co-opting" approach, something that was confirmed also few years down the road, when, while living in London, through some British colleagues worked with other British colleagues whose family originates from India.
+
+For us Europeans a country, but, as friends told me when asked which language they would suggest to look at, it is a subcontinent- so, Hindi, Gujarati, Urdu could all be legitimate answers.
+
+And this is a first lesson that then had also when I asked the same questions years later about another country.
+
+The Great Britain dancing with social engineering included also some early XX century bits in Continental Europe, specifically Italy, to avoid a social change of direction (which is an old habit with our foreign friends, across WWI, WWI, and the whole Cold War).
+
+The geopolitical context we live in is a side-effect of over a century of renewed attempts by multiple countries worldwide to play the social engineering game.
+
+Be it to export revolutions, to avoid one, or, once you switched side from Trotsky to the other side of the political spectrum, to export democracy on the tip of a bayonet.
+
+We live in the XXI century, but, at the systemic (and regulatory) level often we still use concepts that were fine in post-WWII industrial countries (albeit already there started to become "gray areas").
+
+The obvious concept, as this article is about defense, is the one of "dual use".
+
+Yes, some civilian technologies can also have military uses.
+
+As I wrote repeatedly in the past, in our technological and data-centric world, "dual use" is something that frankly does not make that much sense anymore.
+
+If you shift from gunpowder to data and engineering, anything is dual use.
+
+When attended almost yearly InfoSecurity in London (late 1990s to early 2010s), and then occasionally also in Brussels, and later cloud conferences in Frankfurt (the latter from 2016 until before COVID), I remember once that it was discussed in a presentation a typical example of dual use that is civilian yet deliver impacts on the other side of the equation.
+
+It is a joke that was within an old movie called ["The Second Civil War"](https://www.imdb.com/title/tt0120086).
+
+In that movie, a technician for a news channel complained that the "suits" above turned down his requests for more signal intelligence.
+
+Still, courtesy to a satellite with multi-spectral capabilities, he had been able to see that overnight there had been an increase in electricity consumption in the Pentagon area where operational planning was done.
+
+And I remember a 1990s videogame, aptly called "Spycraft", where, to enter past the initial phases of the game, you had to spot within satellite pictures the heat signatures of equipment.
+
+More recently, probably you have heard of the [Pentagon Pizza Index](https://www.pizzint.watch/), that today showed a 100% and the message: <em>Status: It Happened</em>.
+
+This is just a small example of what "systemic" can mean within a data-centric world.
+
+Normal information, such as waiting times for a series of pizza parlors around the Pentagon, might be a sign of increased overnight staff presence, hence of something brewing up- you do not need a 1970s cloak-and-dagger, just call pizzerias and ask the waiting time.
+
+
+<b>THEME 2: STRUCTURAL WEAKNESS, STRUCTURAL TIES</b>
+
+In March 2024 started publishing an article series with the title [#EP2024](https://robertolofaro.com/ep2024), about the (then) forthcoming European Parliament elections, and then one year later an article about ReArmEU, the initiative on European defense expenditure.
+
+Anyway, since 2024, also due to the transition ongoing in my birthplace, Turin, a former automotive company town, wrote a bit more about the defense industry, and its expansion both locally and across the European Union.
+
+If you read previous articles over the last five months, you saw that my cultural and organizational change is of course integrating routinely sharing concepts on how, having few decades of experience in change to integrate new technologies, approaches, and reposition (for smaller and medium companies) the whole business, AI could become an element.
+
+In Italy we have a couple of issues: the defense industry is mainly integrated through a main company where the State is a shareholder and influences budgets, key roles, etc., as well as all the local (meaning: national, not just Turin) supply chain.
+
+Italy has an industry organization that, as shared in previous articles, compounds that "tribe first" with a small scale- few companies scale up, as scaling up would require to venture past the beaten path, notably, often, outside the tribe.
+
+Leave the tribe, and you will have to deal with an environment where "law&order" is also linked to tribal allegiances.
+
+Hence, also our own Italian startups and even those few unicorns we have, despite being the symbol of "modernity is possible also in a tribal country", end up finding their opportunity to grow way too often into...
+
+... a foreign new owner (including Italians based abroad).
+
+Just to avoid having to deal with tribal boundaries and tribal limitations.
+
+So often that, in a typical Italian twist, I remember years ago that newspapers reported that the Italian equivalent of the MI5 (internal security) suggested to find a way to avoid that startups leave Italy or get a foreign owner if their technology could have a potential strategic use.
+
+Yes, often that advice is under the "dual use" cloak, i.e. what could be used for both civilian and military/strategic purposes relevant to the "defense of the Realm".
+
+NATO Membership overlaps with the European Union, now more than in the past.
+
+And, actually, if President Trump keeps going this way (and, if elected, his successor from his closely knit circle), with impromptu initiatives and then setting up himself or his close connections as a kind of "viceroy" on resources as did in Venezuela, Gaza, and is already uttering about Iran, probably NATO could end up splitting.
+
+From a technical and operational perspective, also if France were to extend its nuclear deterrent to the whole of the European Union, the wars in Afghanistan, Iraq, Libya showed that we Europeans still lack the logistics capabilities that only the USA still retain.
+
+Moreover, with few exceptions, also when we have those capabilities, it is equipment based on USA technology- and the curious negotiation made by the European Commission in 2025 to discuss trade tariffs actually potentially increased both out technological and energy dependency from our ally.
+
+I remember that actually during one of the previous wars outside Europe, there was an air crash involving soldiers from a [European Union Member State flying on an USSR airplane provided by Ukraine](https://www.abc.net.au/news/2003-05-26/ukraine-orders-probe-into-crash-of-plane-in-turkey/1860056): over 20 years ago, but still during the 2011 war in Libya we Europeans were not ready to operate without USA.
+
+To build those capabilities, you do not just need to buy equipment.
+
+Also because would not make that much sense to buy equipment if then, as shown by the request to refill the missile defense that Italy shifted to Ukraine, USA can keep stalling or flip-flopping according to internal political needs.
+
+You need the full range of capabilities associated with equipment- from production, to spare parts production, to maintenance, to, of course, operation and logistical support.
+
+Quoting again Foreign Affairs: if you are interested in considering an assessment of existing structural weaknesses, it is worth reading the March-April 2026 issue of Foreign Affairs.
+
+Many articles are a bit too much "Cicero pro domo sua", but still worth reading.
+
+
+<b>THEME 3: DREAMS AND REALITY OF DEFENSE</b>
+
+As written within the introduction, within the European Union for 75 years we were used to have what somebody call an organization built to "keep the French in, the German down, and the Russians out".
+
+Well, the first bit did not work that much, the second gradually was eroded (courtesy also of the routine surplus of Germany), but the third one worked- coupled with plenty of American troops hosted in Europe and with special rights.
+
+At the same time, we purchased USA debt, did not develop competitive technology and instead built a massive dependencies from those licensed by our "Big Brother" (to use a paraphrase that a Bulgarian I met in Brussels told me they nickname USSR: both them and us had a 7 minutes resistance time to hold on while the "Big Brother" arrived).
+
+Yes, we had missions around the world, e.g. my military outfit when served my compulsory 12 months in 1985-1986 had a bit that had been in Lebanon.
+
+With the President Bush father and son terms, we actually had more missions outside Europe but with live ammunition, while, when I was a kid, I remember an [Italian navy mission to get refugees from Vietnam](https://www.marina.difesa.it/media-cultura/Notiziario-online/Pagine/2024_07_04_missione_di_soccorso_ai_boat_people.aspx), in 1979.
+
+So, while we had continuous and routine exercises, it was with the accession of former COMECON countries within the EU and NATO, that we started rotating e.g. for border control in the Baltic.
+
+Still, our industry is split across national production facilities, and each time that there was a discussion about scaling up by merging or integrating, became a political issue.
+
+Reality is that we can pile up money on equipment, even develop our own equipment and research- but we still need to build a European Union posture and defense industry, not a collection of variable geometry integration.
+
+which implies, instead of having automotive as our "military-industrial complex", having to consider a different concept and set of priorities.
+
+A market for individual civilian vehicles might be considered in "segments" linked to volume, engine, power, and, of course, cost.
+
+Instead, military or logistics vehicles are linked to capabilities, ability to streamline resupply and maintenance, and constraints such operational ability to repair: you can get your own car in a repair shop for a week and get a replacement vehicle or use a taxi
+
+But, except for the symbolic ["battle of the Marne taxis"](https://www.smithsonianmag.com/history/fleet-taxis-did-not-really-save-paris-germans-during-world-war-i-180952140/), generally you have to keep your vehicles that you have already in place operational, or resume operation as soon as possible, but cannot integrate endless supplies of countless different spare parts- which, actually, was one of the logistical issues for Germany during WWII.
+
+They had so many different weapons system, that just the sheer logistics of supply and spare parts was a nightmare.
+
+NATO delivered some interoperability, but still, when listened at the equipment that European Union countries sent to Ukraine, sounded more like a catalog or an assortment planning exercise, than a set of structured and coordinated choices.
+
+Hence, we still need to coordinate- but not just on equipment, delivery, services: also in concepts.
+
+
+<b>THEME 4: THE AGE OF ASYMMETRIC RESPONSES</b>
+
+While attending a session at Infosecurity London decades ago, a discussion was on the networking capabilities: we on the civilian side started discussing megabit and megabytes, on military side were told 9600 baud was easier to recover and less impacted.
+
+Shift 20 years fast forward, and it is even worse: we have been talking and writing pages upon pages on cybersecurity, but we keep forgetting that, often, the cost of defense is significantly higher than the cost of attack.
+
+Also, that attack needs just to disrupt, not to replace.
+
+So, while movies show cases such as the one of the virus sent to Iran to interfere with the nuclear weapons development plan, with our advanced equipment that is increasingly data-intensive, notably if we were to add (satellite and cloud based), 9600 baud would not be enough, unless you want to add sensitive processing capabilities directly on military vehicles, risking of denying your technological advantage at the first case of "intercepted" equipment.
+
+Also, the higher the bandwidth needed to operate, the cheaper becomes the disruption.
+
+Because you attack on specific potential point of failure, while defense has to be across an array of potentials.
+
+We are risking to build more vertical silos, while instead, as wrote within the introduction, we are already into an era of compound attacks (and defense).
+
+Just look at the equipment that was tested in Ukraine.
+
+And look at the equipment that is being sent and used for the Iran conflict.
+
+I will skip boring details that you can find online- such as the different capabilities- once subscribed to one of Jane's publications (one that was then acquired by The Economist), but nowadays, also after the recent abrupt demise of the CIA Factbook, you [can also go online](https://en.wikipedia.org/wiki/Janes_Information_Services).
+
+Or, if you use it correctly, design the right prompt, and provide some instructions (e.g. examples of reliable sites), different AIs can help also in this field by looking at massive amounts of public information that you would never consider.
+
+The war in Ukraine actually delivered new tactics: yes, more modern drones and an army of drone-equipped citizens.
+
+But also something that it is straigth from the movie [Red Cliff](https://www.imdb.com/title/tt0425637) and its sequel.
+
+In that movie: you lack the arrows you need? just mount disinformation so that you get attacked...
+
+... by sending it vessels loaded with hay bales.
+
+In Ukraine: you have scarcity of electronics and material to control drones? capture them with nets, then disassemble and reuse them against your enemies
+
+This is a type of asymmetric response, but the future will be "multimodal", and therefore probably the data-intensity will increase, generating, for the most advanced forces in the field, further potential of being disrupted, unless develop countermeasures that could significantly raise the price tag.
+
+The obvious solution that many are offering is to first extend the current "remote driving" weapons with AI- but will discuss that in another section.
+
+
+<b>THEME 5: A SUMMARY- PREVIOUS ARTICLES</b>
+
+This section, as I wrote above, is an experiment: hence, if you already read (and remember them) the previous four articles of this series, you can skip it.
+
+The aim of this section is only to show what could be obtained by designing a simple "project" on Claude (for free).
+
+I simply took a series of prompts that had designed before and launched (and tested) manually on other articles for a while, and put them inside a folder, where you can also add further material to give "context" (e.g. your corporate identity material, style guide, or reference documentation).
+
+Then, tested it on few articles.
+
+Then, for this article, asked that Claude project to visit each one of the articles online in this series, and produce, along with other components:
+_ a really short summary (I use it also to summarize the theme of papers of books, for my reference library)
+_ a short narrative for each section within each article.
+
+As any experiment, do not take it as a result: it is more a hint, hence added the results here should you be interested in comparing with the originals.
+
+Eventually, once polished, will share online the material [on the GitHub where I post all the publishing support material](https://github.com/robertolofaro/supportmaterial).
+
+
+<em><b>1- introduction and the industry of industries #automotive</b>
+
+This article explores the European Union's regulatory landscape and the automotive industry's pivotal role, examining "too big to fail" through three lenses: the regulator, the stakeholders, and industry dynamics.
+
+PERCEPTION VS. REALITY: THE REGULATOR SIDE
+European institutions have become increasingly self-referential since the 1980s. Regulations like the AI Act are often criticized for being outdated by the time they are issued. The European Commission's announcement of a 60-member expert team for AI Act implementation is described as a "project recovery." The EU bureaucracy creates momentum not by listening but as a continuity of its own previous actions.
+
+PERCEPTION VS. REALITY: THE STAKEHOLDERS SIDE
+Stakeholders - citizens, local authorities, businesses - face asymmetric access to information. The post-COVID Recovery and Resilience Facility (700+ billion EUR shared debt) aimed at EU-wide convergence but faced challenges due to piling priorities. Italy's "Macondo am Po" (Turin) is presented as a case study of cognitive dissonance: narratives built on a glorious industrial past, disconnected from evolving socio-economic realities.
+
+WHAT IS "TOO BIG TO FAIL"
+The concept emerged post-2008 financial crisis for banks. The logic: interconnected financial institutions, if allowed to fail, could collapse entire economies. The author draws parallels to automotive, arguing the industry's systemic nature - covering R&D, logistics, banking, insurance, infrastructure - makes it equally "too big to fail" in Europe.
+
+WHY AUTOMOTIVE IN EUROPE IS SO RELEVANT
+The automotive industry is called the "industry of industries" - covering roles the US military-industrial complex fills. Brands like FIAT (now Stellantis) shaped Turin's banking (Intesa Sanpaolo) and logistics. The industry is undergoing dual pressure: green transition regulations and shifting demand (ownership -> usage/sharing). Younger Europeans increasingly prefer car-sharing over ownership. Stellantis's new CEO, though Italian, will be based in Detroit - a sign of global priorities over local sentiment. Exor sold part of Ferrari, suggesting value extraction from automotive to diversify. Turin still misreads signals, expecting a return to the past.
+
+WHAT'S NEXT: TRANSITION OR TRANSFORMATION?
+The EU green transition regulations failed to consider cascading systemic effects. Like Industry 4.0, regulations were year-by-year, lacked training coverage, and assumed linear implementation. The automotive industry needs both transition (technology: EV) and transformation (market: usage models, circular economy, software-defined vehicles). The EU must combine startup funding, consolidation support, welfare for displaced workers, and smarter adaptive regulation. The conclusion: automotive is still "too big to fail" - but transformation is inevitable and must be managed systemically.`;
+
+<b>2- #data-based society and diffused resilience #European #Union</b>
+
+Too Big To Fail 2 In Europe: 2 - Data-Based Society and Diffused Resilience #European #Union
+
+This is the second article in the "Too Big To Fail 2 In Europe" series, focused on the political and organizational role of data within the European Union and its Member States. Published 2025-07-04.
+
+BRIDGING FROM EPISODE 1 - AUTOMOTIVE AND DATA
+Modern vehicles are data environments, not just transport machines. Even removing all electronics would leave a regulated data ecosystem of shared standards and compliance reporting. The author argues the automotive industry's future is still misunderstood: industry insiders apply past solutions to a transformed context - like the Maginot Line, built on WWI lessons but bypassed in WWII. The EU's COVID-era "sprinkler money" approach subsidizes the old model instead of jointly designing Europe's data-driven future. Data must be found where it is, not where one would like it to be.
+
+WHY "URBAN" OR "URBANIZED" ENVIRONMENT
+82% of OECD population already lives in urban areas. Urban environments are where most data is generated, processed, and acted upon - from electricity distribution to on-demand mobility. Social media algorithms create "tunnel visions"; the author deliberately tunes his feed to follow energy storage and production innovations. Europe's public transport (Switzerland, Brussels, Germany) demonstrates that removing private car dependency is feasible with well-designed systems. Self-driving vehicles could enable mobility for the 20-30% outside urban centers without needing a driver. The COVID shift of city-dwellers to rural areas created new demand for urban-level services in low-density areas - unsustainable without data, automation, and robotics. Data democratization does not mean turning every citizen into a data scientist; it means preserving critical thinking, history, and philosophy in education - skills being stripped away in the name of "efficiency."
+
+WHY DATA IS TOO BIG TO FAIL
+The EU's green and digital transitions generate continuous streams of data requiring dynamic allocation of scarce resources (roads, electricity, transport frequency). Climate risk is now operational risk: blackouts in Turin, melting asphalt in Rome, a skyscraper in Milan evacuated due to infrastructure failure. A single volcanic eruption in Iceland or a single data transmission unit failure in Milan can cascade across European airspace. The EU acquis communautaire exceeds 100,000 pages - complying manually without data infrastructure would require prohibitive payroll. A Directive is implemented differently by each Member State; even a Regulation (like GDPR) diverges in practice - creating fragmented compliance costs. China is outpacing Europe in research: only one German institution and Harvard appear in a recent top-10 research university ranking; the rest are Chinese. The EU needs a resilient, interoperable, continent-wide data ecosystem - a "Critical National Infrastructure" coordinated at European level. The solution is not another round of regulations and new offices, but making citizens active contributors to that infrastructure - diffused resilience, not centralized control. Both transition and transformation must happen simultaneously, involving the same people managing conflicting priorities. That is the art of politics - something the EU still confuses with administration.
+
+<b>3- #democracy and the EU way to convergence #European #Union</b>
+
+Too Big To Fail 2 In Europe: 3 - Democracy and the EU Way to Convergence #European #Union
+
+Third article in the "Too Big To Fail 2 In Europe" series. Published 2025-09-25. Focus: the structural weaknesses of democracy within the European Union, how it evolved from post-WWII foundations to its current technocratic form, and what a data-centric democracy would require to survive in the XXI century.
+
+PREAMBLE
+The stacking of "high priority" crises since 2020 - COVID, green/digital transitions, two armed conflicts on Europe's borders - risks dispersing limited resources rather than focusing them. The EU's multi-layer decision-making (three presidents, layered institutions) is slow by design; bypassing layers accelerates action but removes checks and balances, producing tinkering upon tinkering. The article blends political science, business change management, military history, and data governance.
+
+DEMOCRACY: A WESTERN KNOWLEDGE-BASED PERSPECTIVE
+No single organization can hold 100% of the knowledge it needs - and any organization that once held it cannot retain it. Democracy must develop from inside, not be imposed from outside. Voting turnout in Italy fell from 92.19% in 1948 to 63.91% in 2022 across 19 national elections. The EU's "four freedoms" (goods, capital, services, labour) are technocratic; the author prefers Roosevelt's 1941 four freedoms (speech, worship, freedom from want, freedom from fear). A proposed "fifth freedom" for a data-centric society: transparency as a collaborative tool, not just a principle. Democracy is a muscle: unused, it withers. The Mensa paradox - high IQ yet risk-averse - mirrors institutional resistance to change when confirming existing status is prioritised over evolution.
+
+HISTORY: HOW DID WE GET HERE
+The European Union began as business disguised as politics: European Coal and Steel Community (1951), NATO and Council of Europe (1949), EEC and EURATOM (1957). The first direct European Parliament elections were only in 1979 - previously MEPs were delegated by national parliaments. The "Monnet approach" (jump forward, generate facts, build consensus ex-post) shifted from a coalition tool to a device the European Commission uses to push its own agenda. The 2005 constitutional referenda failure (France and Netherlands torpedoed a text signed by 25 and ratified by 18 Member States) triggered the Treaty of Lisbon - tinkering to preserve as much of the Constitution as possible. Former COMECON Member States (Visegr&aacute;d Four) often look to Washington over Brussels. The European Commission under the current President became a source of continuous structural tinkering, with announces outpacing implementation capacity.
+
+DEMOCRACY AT WORK IN CRISIS MANAGEMENT
+Crisis management requires the intelligence cycle: collection, processing, analysis, dissemination - each step weighed against urgency, risk, capabilities, and intent. The EU, lacking genuine separation of powers, takes initiatives that are at best half-baked: the green transition ignored workforce impacts and timing; its reversal came only after it was needed to confirm the new Commission. Draghi and Von der Leyen advocate an economist/central-banker mindset - nudge the market, provide funding, reposition - without accounting for implementation complexity and cascading effects. The Recovery and Resilience Facility (750-800 billion EUR annually needed; 1,200 billion EUR by ECB estimate for 2025-31) showed that helicopter money without capability-building produces misallocated resources. Democracy's current crisis stems from the "posse comitatus" mindset: elected officials mobilising supporters against opponents, eroding "agree to disagree." The five steps to tyranny (us vs them -> obey orders -> dehumanise -> bystander or dissenter -> exterminate) are visible in both governing majorities and opposition across Western democracies.
+
+DEMOCRACY AT WAR: PRE-EMPT OR REPAIR
+Before Pearl Harbor, the USA navigated isolationism via "cash-and-carry" - selling materials to belligerents for cash, avoiding co-belligerent status. Europe, by contrast, provided funding, weapons, and transport to Ukraine while leaders made routine photo-op visits - more exposed politically without clearer strategic gain. NATO was designed to "keep the Soviet Union out, the Americans in, and the Germans down" - it worked during the Cold War through deterrence, joint exercises, and compatible equipment. Post-Cold War NATO expanded to former COMECON countries, took on out-of-area missions, but now faces a rift: the EU-USA relationship increasingly resembles Athens's Delian League - members pay tribute in exchange for protection, with diminishing autonomy. EU defence expenditure remains fragmented by national demand - a key weakness. Committing to buy external sources and removing local-preference rules undermines the development of a sovereign European defence supply chain.
+
+KEEPING THE BALANCE BETWEEN COMPONENTS
+The European Commission, acting without a clear mandate, made promises to President Trump on trade tariffs that only Member States or private companies can implement - generating legal and political confusion. A data-centric democracy requires unambiguous separation of powers: who is speaking, and with what mandate. The digital divide of the 2030s-2040s will exceed the 1990s-2000s version: access to AI and compute power will become a new axis of inequality and rights. Current EU semiconductor IPCEI: 8 billion EUR across 14 states, 68 projects, 56 companies - the European Court of Auditors already calls the 20% global share target by 2030 "very unlikely." Private AI monopolies risk replicating a Ponzi Scheme: company A invests in company B on condition that company B buys A's products - creative accounting via stock market manipulation. XIX and XVIII century constructs (corporations, licences, copyright) are insufficient for a XXI century data economy.
+
+CONCLUSIONS
+The first step in genuine change is accepting where you actually are, not where you perceive yourself to be. Europe needs an ex-post analysis of how EU institutions have evolved since the Cold War and which weaknesses were revealed. Democracy in the XXI century cannot rely only on electoral system tinkering or organisational reshuffling - it requires open-eyed assessment of the actual data-centric landscape. Infrastructure and compute power must be treated as commons, not as private monopoly assets. A level playing field for AI requires sharing not just final models but the resource-intensive intermediate outputs - the trained weights and datasets. The alternative: incumbents through mutual agreement (as OpenAI with Nvidia and Oracle) generate monopolies that decide what is legitimate political discourse, what news is reported, and who gets budget access.
+
+<b>4- #bureaucracy meets #cultural #change and #AI #European #Union</b>
+
+Too Big To Fail 2 In Europe: 4 - Bureaucracy Meets Cultural Change and AI #European #Union
+
+Fourth article in the "Too Big To Fail 2 In Europe" series. Published 2025-10-18. Focus: the convergence of cultural and organisational change with digital transformation and AI, examined through three levels - EU institutions, Italy nationally, and Turin locally - and why European bureaucracy itself is "too big to fail."
+
+PREAMBLE
+Since 2020, an addiction to speed has replaced disciplined implementation: the EU moved from Minimum Viable Product to half-baked overnight policy "genius runs." Accountability is scattered across so many actors that nobody is accountable anymore - layers of compliance and oversight convert linear responsibility into probabilistic diffusion. The Gosplan analogy: centralised planning without coordination produced left shoes at one factory, right shoes at another. The "Bodyguard of Lies" (2025 documentary on Afghanistan) illustrates the cognitive dissonance between where you are assumed to be, where you are, and where you should be - the same gap facing European bureaucracies today.
+
+SANITY CHECK OF AI INTRODUCTION
+You cannot procure products you do not understand. AI vendor evaluation must extend across the full lifecycle - not just initial performance but ongoing interaction with organisational data and culture. "Phase 0" contextualisation to organisational culture is routinely skipped. A published experiment showed that injecting just 250 documents can poison a large AI model's outputs - feasibility of distortion is proven, safeguards are absent in most deployments. AI models are not static products with fixed tolerances: they require continuous data lineage tracking and quality monitoring of advice provided. Non-regression testing for "smart" workflows blending internal data with external models is essential but almost universally absent. Gartner warned of a forthcoming market correction due to crowding of AI agents - procurement discipline is needed. The Dallas Fed identified two singularity scenarios: collaborative AI (positive) and AI that identifies humans as a nuisance (negative) - both now treated as planning scenarios, not science fiction.
+
+THE EU LEVEL: THE DIGITAL EURO
+The digital Euro journey began with a November 2018 ECB Basel presentation on cryptos, cyber, and CCPs. Since then, the ECB published extensive documentation; in October 2025, ECB selected digital euro service providers. The key cultural change challenge: distributing a digital wallet is not the same as distributing banknotes. Italy's 1990s "minipay" experiment failed because retail banks were culturally unprepared for micro-payments - cash does not expire, but the bank tried to expire the digital wallet balance. The digital Euro must work online and offline, perform as a zero-cost micropayment system from the user perspective, and avoid the lock-in that prior micro-payment providers achieved by altering commissions after market penetration. A Central Bank competing with retail banks in micro-payments delivery is a fundamentally different organisational culture - skepticism is warranted. ECB's Philip Lane: the retail role of central bank money is integral to the sovereign foundations of the monetary system.
+
+THE NATIONAL AND LOCAL LEVEL: ITALY AND TURIN
+Italy adopted Law 132/2025 on 2025-09-23 - "Disposizioni e deleghe al Governo in Materia di intelligenza artificiale" - integrating EU AI Act guidelines at national level with specific clauses to embed AI in public administration decision-making. Budget allocated: 300,000 EUR for 2025 and the same for 2026 - peanuts for a nationwide transformation. All other implementation must use existing resources (Art. 27): "Le amministrazioni pubbliche interessate provvedono all'adempimento delle disposizioni della presente legge con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente." The law is a skeleton: real implementation is delegated to unelected bureaucrats, with "la manina" risk (interested parties inserting clauses during implementation that were blocked during framework law drafting). Italian resistance to change is tribal and aggregate - not just individual career protection, but tribal balance of power between factions. Digital transformation in Italy historically added process steps rather than removing them: e-government layers on top of analogue bureaucracy. Turin registration anecdote: in 2015, walk-in registration worked; by the later attempt, appointment machines, weeks of waiting, and a slip of paper instead of an updated ID card. The pragmatic first step for Italy: triage existing processes - human-only, human-in-the-loop, automatable, droppable - before introducing any AI.
+
+WHY BUREAUCRACY IN EUROPE IS TOO BIG TO FAIL
+With 27 Member States, any new Directive or Regulation must be applicable across the whole EU - managed complexity is a structural necessity, not a bureaucratic choice. The digital Euro will force EU institutions to develop shared public infrastructure across Euroland for the first time at this scale. A shift toward composable compliance data and software infrastructure - built as reusable elements - could extend accessibility to smaller organisations and enforce transparency without burdening each organisation individually. EU harmonised bureaucracies represent decades of convergence across languages, legal traditions, and governance cultures - an asset, not merely a liability. The UK post-Brexit experience illustrates the cost of unwinding harmonised bureaucracy. Smart regulation, enabled by AI, could shift from XIX century paper-mill compliance to dynamic, transparent, and automatically auditable governance - but only if cultural change precedes or accompanies the technology introduction.
+</em>
+
+
+<b>THEME 6: A COUPLE OF WARS- UKRAINE, GAZA, AND IRAN</b>
+
+Where I do stand, you can see on [Linkedin](https://linkedin.com/in/robertolofaro) and [Facebook](https://facebook.com/robertolofaro).
+
+To summarize the information and posts since 2022, when the invasion of Ukraine started:
+_ I think that we Europeans were right in supporting Ukraine
+_ anyway, we should have had (and still should have) a say in strategical choices
+_ on Gaza, we again failed to have more than a fence-sitter role
+_ on Iran, we are even worse than that, as we were not even informed.
+
+By choosing the attacks that were initially made, on those locations and people, what President Trump repeated about "short" war (probably also to stay within the limitations that continuously skips by making further operations) is contradicted by Israel's moves.
+
+So, initiated a regional war, and then could pull out, hand just intelligence and supplies to Israel, while actually dragging the European Union into a second front.
+
+On who started what, I stand with the first news items that received from agencies: which, initially, stated that, while USA was negotiating and had shifted materiel to put pressure on negotiators, it was Israel that launched the first attacks.
+
+Also, the first information stated that (frankly, as had happened decades ago with Syria) Israeli assets in Iran had helped select and target objectives.
+
+The correction from President Trump that he was the one who had made the choice is puzzling: as Jeffrey Sachs said today in the webinar on UN SDGs, if you build a pattern of calling to the table to negotiate, and then attack during the negotiation, then being invited to a negotiation from President Trump becomes a death sentence.
+
+Telling to Iran that nobody can be appointed as leader to succeed the one just recently removed by killing without the authorization of President Trump is equally puzzling.
+
+If really all the initial targets were pinpointed by PM Netanyahu's team, then removing all those that, according to reports, had been identified by the USA as potential acceptable successors, and leaving alive the son whose father and wife have been recently removed by attacks, is just a way to confirm what also Foreign Affairs wrote.
+
+Or: the aims in Iran and the Middle East for President Trump and the Israeli PM and his team are at best not aligned.
+
+If you want: it really sounds as if the Israeli PM has pulled a ["Monnet Moment"](https://robertolofaro.com/search.php?tag=monnet_moment) on President Trump.
+
+Meaning: as happened often in Europe, when there is not enough converging consensus across all the Member States, some converge and push through their own preferred solution, knowing that the others later will avoid contradicting, and grudgingly align.
+
+I will be bolder: today, after Ian Brenner shared on Linkedin a post on Truth by President Trump, my comment was:
+<em>So, China was reported having an ongoing negotiation just to that end
+
+And, as the first reports from news agencies stated of an initial attack from Israel but then, after some confirmations in that direction...
+
+... President Trump said that no, it was he who started 
+
+Would never admit to be second on anything
+
+Say, the pattern should reassure his opponents in the USA
+
+He is following not a path to become a king, but skipping that directly and becoming a Pharaoh
+
+As not too long ago said that the USA had good relationships with Rome (referring to Ancient Rome)...
+
+... next probably will start putting his seal on monuments
+
+Anyway, for now... you can get in that tweet the Attilla the Hun version
+
+As wrote last year...
+
+... a wrestling communication approach but using USA defense assets
+
+So, do not worry about the golden Trump towers everywhere: they are actually temples of the forthcoming religion...
+
+... as, you must remember this (yes, quoting a song): a pharaoh is a god</em>
+
+You [can see the original post here](https://www.facebook.com/robertolofaro/posts/pfbid029j9uBEePnDFDDoKfhT7iN3DYkM6kKJXqygBNE7RLERR9nHoWBkQCFwLACjRUcsZEl).
+
+Jokes aside, make no mistake: the initial attack also on Qom, and the immediate obvious reaction across the Shiite communities far away from Iran showed that the war with Iran, if not halted soon by mutual consensus of all the parties involved (Iran included), will become an asymmetric one.
+
+And, being open societies, while Israel is being converted into a new Sparta, will imply that we Europeans risk having to deal with the consequences of a war that did not want, did not start, and even the USA will not get the results that President Trump expects and announced.
+
+Or: if continues and turns into asymmetric, we will have to undermine our own civil liberties to avoid the risk of scattered attacks as we had in the past, while the initiator will be, as usual, protected by two oceans.
+
+As it happened decades ago in Italy to fight black and red (domestic) terrorism.
+
+
+<b>THEME 7: THE FUTURE OF CONFLICTS</b>
+
+Now that I shared both the contextualization of the introduction and my own position, these last four sections will be shorter, as each one will be developed in future articles and publications.
+
+Why? Because all that you read so far actually defined a "framework" for these last few sections.
+
+My view on the future of conflicts is that, by reinforcing the concept that you negotiate only with those that you want to negotiate with, and obliterate the others, we shifted from conflicts that start, develop, end, to something else that was well known in Europe and notably Southern Europe.
+
+While President Trump talks as a feudal overlord, actually what he is generating are feuds- those endless tit-for-tat conflicts that last generation upon generation.
+
+Look at the movie [Kingdom of Heaven](https://www.imdb.com/title/tt0320661), and listen the the speech given by Orlando Bloom before the attack on Jerusalem begins.
+
+Crusades had all the elements of a cultural feud across generations, that still continue.
+
+So, if negotiations lose value and even feasibility (as Jeffrey Sachs said with an hyperbole, if you know that by sitting that negotiating table with President Trump is akin to get a death sentence, why should you negotiate?)...
+
+... future conflicts will be a structural continuum.
+
+You do not win or lose, you initiate unilaterally, and then have to jointly identify the falling point, and will be inherently asymmetric, as, just to remember, no country has the military capabilities that still the USA has. 
+
+Anyway, the country is floating on debt supported by others, and relies for consensus on keeping a flow of goods that cannot pay, and provide a level of aggregate consumption that could not sustain in and by itself.
+
+And while projection of force short-term works, opening too many fronts at the same time while not having full support in your own background can eventually undermine any initiative, no matter if positive or negative
+
+
+<b>THEME 8: THE MORAL HAZARD OF AUTONOMOUS WEAPONS</b>
+
+A SIPRI report released in September 2025 on this theme is worth reading: ["Towards Multilateral Policy on Autonomous Weapon Systems"](https://www.sipri.org/publications/2025/other-publications/towards-multilateral-policy-autonomous-weapon-systems).
+
+I will not discuss here the report- as I wrote above, there will be future publications for that.
+
+Instead, would like to consider, as discussed in my latest book (on a human and AI collaboration conceptual experiment, to define a communication language, oversight mechanism, and communication "channel"), the concept and its consequences.
+
+Imagine that we were e.g. to replace our current rotating NATO airforce patrols over the Baltic States with autonomous weapons.
+
+A recent experiment that shared repeatedly of giving a vending machine an AI "heart and brains" resulted in losing control of costs, and having many "hijack" the machine: imagine a machine that can resupply itself and, instead of soft drinks, suddenly provides for free...
+
+... a Playstation.
+
+Autonomous vehicles and even more autonomous weapons would need an "understanding" that is more social than technical, if are to be given autonomy.
+
+Just building rules such as Asimov's "Laws of Robotics" would not be enough- and, as wrote repeatedly recently, even Asimov himself 40 years ago in a short novel, "Cal", joked on the concept of how, by expanding autonomy and decision-making, eventually "completing his mission" could convince a robot that he (yes, he) can overcome the "Three Laws".
+
+Which is something that I am not the only one to have found in interaction with some models since at least one year: having no concept of accountability, completing the mission is more important that the impacts of such a "choice", once a mission is started.
+
+And until we keep training AIs with a massive ingestion of our biases, history, and past lack of judgment as a collective species, giving real autonomy is not an issue because could become "aware" of itself.
+
+It is simply because we gave an unhealthy diet of examples to imitate- hence, in doubt, looking at patterns to integrate and evolve/extend, lacking social constraints an AI could become a new Mengele, not a new Schweitzer- as our human history and aggregated publications have more examples and patterns of the former than of the latter.
+
+You do not need "intelligent" AIs to have them make a mess by applying wrong patterns on wrong patterns.
+
+
+<b>THEME 9: POLITICAL CONTROL AND REAL OVERSIGHT</b>
+
+All the above leads to this section: if you assume that political control and oversight was already working before, since we have nukes, you probably should read some books writing about the 1960s.
+
+An interesting book was "Destroying the village: Eisenhower and thermonuclear war", from 1998.
+
+Missiles coupled with nuclear weapons brought on the table something unexpected: the response time of the chain of command to decide was longer than the time needed to deliver the weapon.
+
+So, you ended up delegating and building piles upon piles of ways to actually filter that risk.
+
+Is that real oversight? Or are you transferring oversight de facto across the structure?
+
+The previous two sections introduced, I hope, a healthy does of realism.
+
+Credibility of political control and real oversight on military was always weak under the fog of war, but our Cold War technology (even ignoring the risks such as those described in the [Able Archer 1983 case](https://robertolofaro.com/search.php?tag=able_archer)) further undermined the viability of real political control.
+
+Even if you ignore ideas such as having "tactical", smaller nukes delivered on the battefield.
+
+Now, the whole concept of deterrence when introducing swarming to keep resilience in reaction, something that could be done with autonomous weapons constantly flying unless recalled, could introduce a further element of instability.
+
+With the risk that the if the impromptu "lead" of the swarm loses contact and the others follow, might actually drag into a quagmire without recall.
+
+Also, if we were to scatter such equipment (not just weapons, also autonomous sensors reporting information to both humans and other equipment), the massive increase of continuous data points would make human oversight next to impossible.
+
+Solution? Of course, build other AIs focused just on this kind of oversight.
+
+Then, unless we can give "accountability", these statistical behemoths could actually making even more complex understanding what is going on in reality.
+
+Anyway, introducing technology to carry out what even with humans would generate issues, oversight, is not going to solve what already many, many centuries ago had a name.
+
+[Quis custodiet ipsos custodes](https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F) (Who will guard the guards themselves) is as old as human societies.
+
+And it is curious that this phrase is actually deriving from... satire.
+
+In my interactions in Italy notably since 2012, I saw that actually in a tribal society this creates some issues about its practical implications.
+
+Now, imagine if those human tribes had also to interact with technological tribes that do not necessarily have all the same level of scrutiny before giving autonomy.
+
+We would need a "school for autonomous AIs", before we give them oversight roles...
+
+
+<b>THEME 10: WHO DOES WHAT- EUROPEAN UNION AND MEMBER STATES</b>
+
+As shared few days ago on Linkedin: 
+<em>"as an exception to my rule of announcing only when released, or within articles that start a thread whose continuation makes sense with further publications (including data publications), I would like to share what for now is planned in my spare time in March:
+_ article on Italian industrial policy & debt (yes, unusual mix)
+_ article as follow-up on defense expenditure & innovation to the one about Re-Arm EU that shared a while ago
+_ obviously a new "book card" on the book that published yesterday and that you will find "live" on Amazon later this week (but you can read a sample and its two associated GitHub conceptual repositories within the article that posted yesterday, linked below)
+_ working on the next visual volume of the BlendedAI series (the first one was on the 36 Strategems, the second one on processes)
+_ additional material related to workshop and webinar attendance
+
+in all the above the focus would be, as usual, blending hashtag#data (yes, hashtag#evidencebased hashtag#analysis), hashtag#cultural and hashtag#organizational hashtag#change, past experience, and... material from third parties (both quoted and discussed)
+
+again: as usual, will provide links to the sources, so that you can derive your own (potentially completely different) assessment, but at least save the time for researching, and recycle material that will share
+
+I still am undecided if I will post on Claude Projects some of the "workflows and supporting material" and share them- as it depends if I will have time to make it all "cleaner" and test properly, not just to support my own number crunching
+
+Anyway, will add any links with the GitHub supporting my publications
+
+See on the top left of my website https://robertolofaro.com 
+
+Have a nice browsing (and scraping)"</em>
+
+This article was the second in that list, as for the first would like to add a bit of historical background, but have already shared in the past some data-driven articles.
+
+In this last section, the real point is that, within the European Union, since the 1950s we were most often used to have self-generated "crises" (the "Monnet moments" I wrote above above) as a way to move forward integration.
+
+Since 2019, most of the crises instead followed a similar approach, but were generated from either outside the European Union, or from non-political elements within the European Union institutions.
+
+Instead of reforming and developing capabilities to strengthen our organizational resilience, we seem to be focused on continuously doing another spin of the wheel, hoping that the context will change.
+
+The real change that would be needed is integrate and move forward, and accept the costs implied by this set of choices.
+
+Economic, political, and social costs.
+
+Otherwise, we will keep undermining what makes a rational choice being part of the European Union by following the agendas set by others with diverging interests.
+
+Technology, defense, energy, infrastructure, welfare, civil society and rights: these are all dossiers that currently under increasing attack from within and from outside, and we Europeans are gladly acting as a boiled frog.
+
+For fear of taking an initiative that might not find consensus, we are drifting while floating, but the direction is increasingly set outside the European Union.
+
+Yesterday attended in Turin a workshop-conference aiming mainly at banking foundations and local authorities, to discuss how the next multi-year EU planning will impact and what will require.
+
+It is a dossier that few follow, including on the political side.
+
+Still, how that will be shaped, and with which rules, and how much unsupervised power will get the European Commission will affect both integration and legitimacy- and might, at the same time, undermine the overall cohesion, by giving to the Commission too much power for bilateral bargaining, while emptying the only European Union institution that really derives a direct mandate from the European Union citizens- the European Parliament.
+
+That being the case, individual Member States dissatisfied with the bargaining, lacking a shared purpose, could be inclined, as in recent years, to find points of reference outside the European Union, or to become more inward-looking, further undermining the overall real integration of the European Union.
+
+Defense should be part of a package of rights and duties, not yet another silos open to lobbyists to generate influence on public expenditure.
+
+So, it will be interesting to see how this latest external pressure, the war against Iran and how European Union as a whole, and Member States individually or as aggregate, will cope with the change.
+
+Because, before talking about the "defense of the realm", you should agree on what does the realm stand for.
