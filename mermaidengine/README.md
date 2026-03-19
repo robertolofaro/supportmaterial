@@ -5,9 +5,9 @@ This directory contains examples from a tool that developed to support my public
 The [tool is available here](https://robertolofaro.com/diagrams_tool.php), and adds the syntax for the following diagram types:
 * waterfall
 * bubble chart
-* (currently validating) heatmap
-* (currently validating) organizational chart (including both direct and functional/matrix reports)
-* (currently validating) EV chart (useful for project management)
+* heatmap
+* organizational chart (including both direct and functional/matrix reports)
+* earned value analysis chart (useful for project management)
 as currently were not within those supported.
 
 You can read an explanation of the development process on my article released on 2026-03-18 [Organizational Support 16: Walking the talk- adding waterfall and bubble chart Mermaid-style](https://robertolofaro.com/index.php?page=645) 
