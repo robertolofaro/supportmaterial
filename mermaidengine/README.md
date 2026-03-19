@@ -1,5 +1,7 @@
 This directory contains examples from a tool that developed to support my publications.
 
+![five new charts added with Mermaid-like syntax- the waterfall allows both variants shown- and more](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/compound_20260319.gif)
+
 The [tool is available here](https://robertolofaro.com/diagrams_tool.php), and adds the syntax for the following diagram types:
 * waterfall
 * bubble chart
