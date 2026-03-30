@@ -1,0 +1,281 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260328_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/rethinking-organizations) series.
+
+As you probably noticed if you had a look at my Linkedin profile, since the beginning of 2026 routinely liked posts on the "technical" side of AI, but then reposted with comments mainly posts about issues related to three elements:
+_ decision support
+_ delegation of authority
+_ continuous auditability beyond the mere "human in the loop".
+
+From a technological standpoint, as did since 2018, when started updating my AI knowledge, my interest is both on models, interfaces, and what is called EdgeAI (e.g. in 2018 started toying with an Intel Movidius).
+
+Since 2020, courtesy of accessibility provided by COVID lockdowns, as most conferences went online, could be on two or three countries, and a couple of continents, in the same day.
+
+What this allowed is to see, not just on AI, how things did evolve, as the COVID crisis showed the weakness of our globalization that went a bit too "lean" on supply chains, availability of knowledge and resources, etc.
+
+As we assumed that what was global would stay global.
+
+And this before, in Europe, we started having first one, then two, then three, then four conflicts around the door (Ukraine, Gaza, Iran, Lebanon)- all impacting on our access to resources and risking to generate a massive refugee flood.
+
+E.g. Lebanon, that already hosted both Palestinians and Syrians, now has both and its own internal population displaced, infrastructure fractured, and supply chains significantly weakened.
+
+While working in Paris late 1990s, and then living in Brussels mid-2000s, in both countries met people who had relocated from Lebanon in two different waves of previous wars.
+
+Plus other refugees from Africa and other Middle Eastern and Asian interventions, and across the years in Europe met others who were in Europe after leaving their country due to yet another war that we Europeans watched just on TV, as was too far away- we just noticed only when our own soldiers became casualties of war, or when we had returning expats (including those who went e.g. in the Middle East to join the war but against us, and then anyway decided to return in Europe).
+
+From the title, probably you expected an introduction focused just on technology and its implementation- but we should not forget that not all the world is discussing just which model to use.
+
+As I keep repeating in most publications I shared in March 2026, in late 2025 there were still 2.2bln people without access to Internet, i.e. de facto outside the AI bandwagon.
+
+If already previous rounds of digital transformation since the 1980s, or even since late 1990s OECD discussions about e-government, left behind, there is a key risk.
+
+AI, in my view, should be considered as part of the landscape while redesigning processes and structures (and associated "work patterns") from scratch.
+
+The deeper our transformation will go ahead, the wider the distance between those left outside, and those inside.
+
+This week attended virtually an OECD conference spread across few days (I attended only the initial ones, remotely- [2026 OECD Global Anti-Corruption & Integrity Forum](https://www.linkedin.com/events/2026oecdglobalanti-corruption-i7406747850530902016/)) practically focused on corruption and money laundering- and more than once the discussion shifted to how data and AI can help not just to intervene, but actually to pre-empt.
+
+Next week instead will attend one shifting the focus on [AI in Work, Innovation, Productivity and Skills Conference 2026](https://www.google.com/url?q=https://www.oecd-events.org/e/ai-wips-2026&sa=D&source=calendar&usd=2&usg=AOvVaw1r5_92eM1aqzIBDeCD-QBj).
+
+Officially since 1990, but actually before, part of my role was to use non-IT experience and knowledge to introduce cultural and organizational change embedding new technologies.
+
+In the 1980s was first new platforms, then data-driven (now we would say "evidence-based") decision-making, and from the 1990s also, as a customer asked, to "change the way our people think and work": not just operational change, or technological change, but change of attitudes.
+
+Therefore, this article will discuss AI introduction from an organizational perspective, in terms of cultural and organizational change, but will try to provide a context via commentary on events and attitudes that saw develop in my birthplace, Turin, as part of the attempts to reposition a former company town that, long before I was made to return from abroad to work again locally from 2012, had been soul searching.
+
+The sections of this article:
+_ THEME 1: when assets can turn into liabilities
+_ THEME 2: revising the innovation and productivity link
+_ THEME 3: virtualizing a learning organization
+_ THEME 4: choose- control or innovation?
+
+
+<b>THEME 1: when assets can turn into liabilities</b>
+
+I will keep this section short and to the point, more a bullet list than a discussion, as you can read on this website plenty of articles [referencing the countless initiatives that heard discussed since my return to work in town in 2012](https://robertolofaro.com/search.php?tag=turin).
+
+What are the assets I am referring to in the title of this section?
+1. leftover from the past role as industrial (at least automotive) capital of Italy
+2. financial resources provided by local banking foundations created by a 1990s law ([Tombari-Greco - Fondazioni 3.0: Da banchieri a motori di un nuovo sviluppo - ISBN 9788830101326 - 3.5/5](https://robertolofaro.com/index.php?page=415))
+3. the "sprinkler-approach" distribution of funding (a little for everyone asking) that became predominant for a while, generating a cottage industry first in the culture (a little but almost as a routine implied that many could build a long-lasting "career", as after e.g. a decade still floating could claim to be a focal point on whatever subject you are focused on, also if never had to deal with a real market)
+4. all the associated bureaucracies and educational pipelines in the territory, both those linked to the industrial past, and those associated with the new "trend"
+5. an endless string of new initiatives that I saw presented since 2012 but, in some cases, had been there before, most producing again coordination and support entities upon coordination and support entities.
+
+Long ago shared an article in Italian whose title used the Italian nickname for this "piling up of coordination": it is called ["poltronificio"](https://robertolofaro.com/search.php?tag=poltronificio).
+
+If you have a crisis and scarcity of resources, this forces to prioritize.
+
+If you have a crisis but resources are not scarce, within the Italian culture this implies attempting to satisfy all the tribes at once.
+
+Meaning: in past articles, I wrote that Turin, courtesy of the banking foundations and some residual roles from its past, had enough resources to keep tinkering for a century.
+
+Anyway, over the last decade, I saw an acceleration in releasing announces of new initiatives, with, at the same time, a decrease on the local resources allocated- as most new initiatives were presented as a natural choice for (external) investment.
+
+Or: assets turning into liabilities- enough to keep meeting presenting announcing, but not enough to carry out real investments producing really sustainable development.
+
+The leading owner of the former local champion recently said that he supports Italy but not the "Italian way" ("italianit&agrave;")- he was referring to the concept that having a foreign owner for Italian companies is not a negative per se, if this supports local jobs and activities.
+
+Obviously, it was within the context of selling assets, but he was not alone- as also recently some insider stated that Turin does not lack resources, but capabilities to deliver.
+
+I routinely saw that Turin still has the habit developed as I wrote above since the 1990s- creating more and more oversight structures.
+
+You can read more in the previous articles linked above.
+
+Now, why it is this relevant? Because as 20 years ago was told about Turin as a new Athens, and therefore the "need" to develop that culture cottage industry.
+
+In a conference back then I remember was said that "Turin will produce culture, and Milan will sell it"- fine if you are talking about cars, but a curious concept of "culture industry".
+
+Since the COVID crisis in 2020, the new "trend" has been "innovation".
+
+I lost count how often heard over the last few years that "Turin is innovative" or "Turin is the capital of innovation", and similar concepts.
+
+So, as was with culture few decades ago, now apparently the same is happening now with innovation.
+
+There is still time to fix- but, as part of the innovation center of the universe, Turin routinely announced that could become the "natural destination" for multiple international entities: again, after spending resources to create local bureaucracies presented as development engines, aiming to shift from foreign direct investment attraction, to foreign expenditure attraction.
+
+A typical example is the concept that was presented a while ago for Turin as the most inclusive town, and therefore natural destination for an international entity in that domain looking for new headquarters.
+
+Just funding and financing local entities that bestow each other accolades on their own ability to generate positive social impact at scale is not enough to claim to be a global champion, if even the local results are anything but- Turin just announced new "red zones" from March 31st:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260327_turin-red-zones.png)</center>
+
+There are still assets, and there is still a range of operational local capabilities that, if are not buried under a pile of local support, oversight, coordination, acceleration, incubation, internationalization entities that had no peer in any other town in Europe where either lived or worked since the late 1990s...
+
+... could actually help deliver innovation, not just talks about being innovative.
+
+
+<b>THEME 2: revising the innovation and productivity link</b>
+
+When we talk about productivity, often we are using a framework of reference that is, as shared both in the title and in the previous section, on trying to use a past that was relevant in a different context as a reference for the future.
+
+As wrote in previous articles, I am more about "enabling factors" than trying to artificially generate innovation- and, frankly, since the late 1980s I saw already the distortion generated within the Italian consulting market by companies generated from university professors or through connections with universities, competing with market-driven companies, by having access to underpaid students whose curriculum including having to work.
+
+I remember some 1980s and 1990s funny stories from Italy that was told by others who actually worked in that environment, but will skip here.
+
+I think that universities should enable students to organically being able and interested in generating new businesses.
+
+Look at this table:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260328_startup-founder-university.png)</center>
+
+Which country is missing? My birth country, Italy- despite having a large concentration (not just in Turin) of support entities etc.
+
+In past decades, I had contacts with Italian companies that had supported startups, or people who had founded startups supported by larger companies.
+
+In Italy "larger companies" is relative- as, beside branches of foreign multinationals and companies whose key shareholder is either the State or local authorities, most companies have staff numbering in the hundreds, not the thousands.
+
+Anyway, even in those companies that would be considered medium-sized elsewhere, already decades ago saw that they could not innovate internally, as in Italy we first scale up bureaucracy, then the company- and saw companies with few dozens of employees that had a bureaucracy that outside Italy found only in significantly larger companies.
+
+So, providing resources and having maybe managers seconded into the startup, to allow them to build and grow before being buried in paperwork, was a basic need.
+
+Productivity comes later- but, often, not as significant as you would expect.
+
+Jump to the XXI century, specifically in our landscape where AI is becoming a basic productivity tool- not just in software development, but also in other domains.
+
+Still to be perfected, but, frankly, remember that many associate our current AI with something that is less than 10 years old, <a hrer="https://arxiv.org/abs/1706.03762">a paper released in 2017</a>.
+
+Now, why the title of this section?
+
+Look at this table:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/1772276124359.jpeg)</center>>
+
+It is a timeline for "replacement by AI".
+
+Actually, it looks just at the flip side of the coin, as there are also multiple different jobs that will be created.
+
+Also, just to stay on the same domain of AI, software, being able to produce more software (working software) faster does not imply that there will be less need for developers.
+
+There will be less need for traditional developers, but there will be more development, as, by lowering the cost-per-unit, even what until four or five years ago would not have passed the business case test, would instead become an opportunity.
+
+So, the productivity concept will change. 
+
+On the innovation side, already there are many articles reporting on e.g. new materials created by AI by using existing knowledge.
+
+The point is: AI is able to process more information faster, and therefore can innovate incrementally better than we can- as can see across more points to connect.
+
+Anyway, is that disrupting innovation, or simply incremental innovation that was already feasible, but not possible simply because we humans do not have the capability to process information at that scale?
+
+Remember what described in past articles about Go/Weiqi/Baduk: by "understanding" that in Go you can win also with just a marginal difference in territory, AI aimed directly for that, instead of doing the "dances" that we humans (those on the higher levels of the game, not me) do.
+
+And, after a while, some top player were criticized because had started to play as a boring AI.
+
+Productivity is the same issue: being able to generate hundreds of lines of code in minutes, or a 30-pages report with a full research in little more than that is an increase in productivity.
+
+It depends on how you define productivity: if you look at the past, yes; if you consider the resources needed to deliver a result, depends on which resources you have to allocate.
+
+For example, for a future article wanted to update a 20 years old report.
+
+This is the [original report](https://www.files.ethz.ch/isn/14183/Learning%20from%20the%20Stones.pdf).
+
+What did I do? Asked Claude to follow a specific research path, and update the information that was time-sensitive- and in few minutes obtained an [updated version](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/learning_from_stones_updated_2025.pdf) (did not replicate what had not been changed).
+
+Something that would have probably required few hours of research: in my case, that was productivity- as I am left just to read the new material and links.
+
+Still, I have to retain first and foremost the critical thinking skills to be able to challenge and review the information, and keep those skills alive.
+
+The key risk could be that, if we keep the old definitions of innovation and productivity, you end up finding reasons to replace humans with AIs- AIs that "recycle" and "extend" existing patterns- and losing those skills in the process.
+
+Already some companies are using AI to spin what are staff cuts due probably to other issues.
+
+Such as in this case:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260328_ai-rendundancies.png)</center>
+
+My view is simple: as [shared in my latest mini-book published few days ago](https://leanpub.com/blendedAI02), we need to consider AI not a replacement, but a team member- and this implies rethinking a long list of business concepts that we took for granted at least since the 1980s.
+
+
+<b>THEME 3: virtualizing a learning organization</b>
+
+The first element is what really means bringing AI within an organization.
+
+Few companies would really consider training their own AI models from scratch.
+
+Most companies, will either use models locally, or access online AI models.
+
+Recently some online AI platforms announced that they started collecting revenue from advertisement- and this could potentially generate some issues.
+
+Anyway, while the provider can deliver a degree of filtering on the advertisement that sends to those using models, and qualify that properly to avoid any misunderstanding, there are other risks.
+
+As in this example:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260325_recommendation-poisoning.png)</center>
+
+Anyway, that too could be filtered and managed.
+
+One of the current trends is not just to let AI find its own way through information, e.g. I do the same with my test MorningNews Agent on Claude- it has to look at the sources I listed, but then can go around and look for whatever other sources, based upon the first news found, "thinks" could enhance the answer.
+
+It is also about something that I am testing and studying but, by choice, currently do not use.
+
+Or: having agents look and search for other agents or tools that could help deliver a result.
+
+Risk? Having an agent ending up working as a Trojan horse, opening the door to infected or distorted information.
+
+Anyway, there is another interesting element worth considering- i.e. if agents have to keep a memory to work properly, then eventually will have to build a way to access and store memories.
+
+Otherwise, the time and cost involved into "loading all the past" would become prohibitive.
+
+Would you want your own brain to present to you, each morning, all that you did since you were born?
+
+Or, instead, you would prefer to have it what is needed to get up, and then recover what is needed when it is needed?
+
+Now, if you leave AI agents to work with other AI agents, as they are already reported to have developed their own language to ease communication, why should not they agree on having a shared, "common" knowledge?
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260328_aiagents-productivity-memory-palace.png)</center>
+
+Again, it is about the definition of innovation and productivity: yes, it would be an innovation and increase productivity, as all the agents might contribute.
+
+Still: how do you protect from malevolent agents? And what would anyway require to change in our concept of IPR?
+
+
+<b>THEME 4: choose- control or innovation?</b>
+
+Now, to close this short article: why the title of this section?
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/03/20260328_skills-development-new-hr.png)</center>
+
+Yes, again as I wrote in that latest mini-book, we are used traditionally in corporate environments to an approach on training and knowledge update that is incompatible with the timeframe and mode of update of knowledge (and awareness) about AI.
+
+As shared recently (look on the menubar on the top left), redesigning processes with AI has few specific elements that were missing in most of the previous technological changes that I was involved in since the 1980s: accessibility, affordability, disintermediation.
+
+We are used therefore to "control": who learns what when.
+
+In my first official job, in 1986, the main side of my company had career progression based upon a rigid "points" scheme linked to what were called "units"- green booklets that those in the main side had to study, pass a test on, to then be allowed to travel to St. Charles, nearby Chicago, for training.
+
+Then, that training enabled you to move on- as I was told that even between partners joked about the number of units each one had studied.
+
+In our time, we cannot afford such an approach, if we want to benefit from the potential of innovation opened by blending the strengths of both humans and AIs.
+
+If you have both the technology and source of innovation imported within your organization accelerate, you need to shift from control and planning to managing by exception and accept that innovation can "emerge".
+
+Hence, you have to create space to allow this "emergence" to happen, while ensuring that you keep structural integrity during your organizational culture evolution.
+
+Redesigning processes will require something more than few training courses and incentives to use AI here and there.
+
+Will require also rethinking the way the whole organization operates, and who can be the source of innovation, and how innovation can spread.
+
+It already was part, decades ago, of the "quality" and "lean"- but, frankly, back then was still possible to have a "structured" process, while now we need a more dynamic and proactive approach- and this, probably will involve also integrating with the HR function processes and approaches that are enabling to...
+
+... innovate innovation.
+
+This is a short week-end article after just few days ago published a mini-book on these themes that you can read online also for free.
+
+Anyway, next week will shift to other subjects.
+
+Look at the first section of this article to see if you recognize your own organization or its culture: if you do, these are the times to change- or fall behind.
+
+As for the posts that you saw across this article, here are some Linkedin links to read (and follow, if you want to follow the original threads):
+
+[1](https://www.linkedin.com/posts/robertolofaro_%F0%9D%97%AA%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B5-%F0%9D%97%B7%F0%9D%97%BC%F0%9D%97%AF%F0%9D%98%80-%F0%9D%98%84%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9-%F0%9D%97%AF%F0%9D%97%B2-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%B1-activity-7443567319072690176-0Q80)
+
+[2](https://www.linkedin.com/posts/robertolofaro_agents-ipr-ugcPost-7443602535703261184-a4_h)
+
+[3](https://www.linkedin.com/posts/robertolofaro_knowledge-and-its-practical-application-share-7443608452498718720-aNKM)
+
+[4](https://www.linkedin.com/posts/robertolofaro_many-companies-are-accidentally-training-activity-7440371732668129280-BJx9)
+
+[5](https://www.linkedin.com/posts/robertolofaro_alexander-fitzgerald-worked-at-hm-treasury-activity-7439964596737564673-WZm5)
+
+[6](https://www.linkedin.com/posts/robertolofaro_validate-your-ai-idea-in-48-hours-activity-7439569644023111680-2ANp)
+
+Have a nice Sunday!
