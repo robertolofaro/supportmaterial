@@ -218,7 +218,7 @@ xychart-beta
 | Field               | Value                                         |
 |---------------------|-----------------------------------------------|
 | Agent version       | MORNING BRIEF v1.0                            |
-| Run timestamp       | 2026-04-05T08:00:00+02:00                     |
+| Run timestamp       | 2026-04-05T08:00:00+02:00                     | it was 2026-04-04
 | Sources queried     | 9 / 11                                        |
 | Stories surfaced    | 28                                            |
 | Stories published   | 15 (after editorial filter)                   |
