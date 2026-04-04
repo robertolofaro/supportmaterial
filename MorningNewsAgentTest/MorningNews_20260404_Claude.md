@@ -3,7 +3,7 @@ I now have sufficient intelligence across all domains. Compiling and publishing 
 ---
 
 # 🌐 MORNING BRIEF
-## Saturday, 05 April 2026 · 08:00 CET
+## Saturday, 04 April 2026 · 08:00 CET
 ### 15 stories across 5 categories
 
 ---
