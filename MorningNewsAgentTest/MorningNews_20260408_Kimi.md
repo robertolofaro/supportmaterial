@@ -14,13 +14,14 @@ Tuesday, 8 April 2026 · 08:00 CET
 
 DIGEST SUMMARY
 
-Category	Stories	Alert Level	
-⚔️ Ongoing Wars	3	🔴	
-💼 Business	2	🟡	
-🤖 Technology	2	🟡	
-🇪🇺 European Union	2	🟢	
-📈 Trends	1	🟡	
-📊 Key Data	6	—	
+| Category | Stories | Alert Level |
+| --- | --- | --- |
+| ⚔️ | Ongoing Wars	3 | 🔴 |
+| 💼 | Business	2 | 🟡 |
+| 🤖 | Technology	2 | 🟡 |
+| 🇪🇺 | European Union	2 | 🟢 |	
+| 📈 | Trends	1 |	🟡 |	
+| 📊 | Key Data	6 | — |	
 
 > Alert Level key: 🔴 High significance · 🟡 Developing · 🟢 Stable/Routine
 
