@@ -18,8 +18,8 @@ morning-brief-agent/
 │   └── (generated files)
 │
 └── .github/
-    └── workflows/
-        └── morning-brief.yml
+│   └── workflows/
+│       └── morning-brief.yml
         
 </code>
 
