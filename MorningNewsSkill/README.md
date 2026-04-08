@@ -20,6 +20,7 @@ morning-brief-agent/
 └── .github/
     └── workflows/
         └── morning-brief.yml
+        
 </code>
 
 In this directory will add further documentation, but for now share the first draft of the skill realized with the support of ChatGPT, within [this directory](https://github.com/robertolofaro/supportmaterial/MorningNewsSkill/morning-brief-agent).
