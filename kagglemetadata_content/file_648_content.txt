@@ -1,0 +1,88 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/04/20260406_article.png)</center>
+
+This really short article is within the [Books in progress](https://robertolofaro.com/index.php?section=books-blog) series.
+
+Yes, I still have to post online the book page for the [book that released few weeks ago](https://robertolofaro.com/index.php?page=641).
+
+Anyway, actually, will probably change and shift the existing book pages.
+
+The articles in this section are about past and forthcoming publications, and this will make no exception.
+
+As kept repeating over the last few articles, since January added in each article some elements about applied AI.
+
+Actually, in March 2026 released two mini-books.
+
+On 2026-03-08, it was a book that was a follow-up on something that released over a decade ago, [Business Social Networking - part 2: human and artificial intelligence communication](https://www.amazon.it/-/en/Business-Social-Networking-intelligence-communication/dp/B0GRT93SX1/).
+
+The concept? The previous volume [Business Social Networking part 1 - cultural and historical perspective](https://robertolofaro.com/bsn2013) was released on 2013-11-18, as an expansion and update on a previous book that contributed to in 2008-2009, about using social media within the corporate marketing mix, with marketing directors as audience.
+
+There was supposed to be a second part- always about the "human side".
+
+Anyway, last year decided that it was time not for a follow-up, but more a digression focused on the new landscape- which integrates more and more AI not just in the back-office, but in communication- including by often augmenting or even mimicking humans while interacting with other humans.
+
+With the funny corollary that, due to the intensity and volume of communication, it is now a shared joke that, actually, humans now scribble an outline, AIs convert it into an essay-that-pretends-to-be-an-email, it is received by AIs that convert it into an outline, and it is the outline that is actually read by the human.
+
+The second mini-book was actually the second volume of the Easter tradition that [started on 2025-04-21](https://leanpub.com/blendedAI01): describing experiments in the integration of AI within business processes- both on the actual use, and on the evolution of processes and organizations.
+
+Hence, on 2026-03-26 released the second Easter volume, [#BlendedAI - Building Human/AI Systems - Episode 02 - BPR Reborn - A Collection of Cases](https://leanpub.com/blendedAI02), this time focused on processes.
+
+If you were to look at either [the articles metadata on Kaggle](https://www.kaggle.com/datasets/robertolofaro/articles-publication-metadata-and-ai-access), or the [articles "shipping manifest" (outline) and content on GitHub](https://github.com/robertolofaro/supportmaterial/tree/master/kagglemetadata_content), you would notice that some pages that you can access on this website are not within those two catalogs.
+
+The reason is simple: I am restructuring material to make it more accessible, and the "book presentation" pages will eventually be moved elsewhere, so that also the books themselves will be easier to access- tried in the past sites that allowed reading e-books with pagination etc., but, eventually, all made changes in their terms&conditions that make those services viable only if you charged readers, directly or indirectly- while my idea was (and is) to give the option to buy, but allow also reading for free.
+
+Beside the two books published in March, the latest three article did not just contain reusable experiments, but also discussed concepts linking cultural and organizational change with AI:
+_ 20260318 [Organizational Support 16: Walking the talk- adding waterfall and bubble chart Mermaid-style](https://robertolofaro.com/index.php?page=645)
+_ 20260328 [The bureaucracy of innovation: moving forward and looking backward](https://robertolofaro.com/index.php?page=646)
+_ 20260402 [The cognitive asymmetry of AI](https://robertolofaro.com/index.php?page=647).
+
+Will share further experiments as will proceed but, as said to a former customer and colleague few days ago, my interest in AI is not really about software development, it is on:
+_ using in non-IT activities (e.g. analysis, organizational)
+_ looking at it from a systemic perspective
+_ adapt and evolve approaches and processes
+_ identifying key organizational culture elements to consider while introducing AI.
+
+Anyway, whenever using a technology implies having an environment, decades ago started using VMWare and then VirtualBox under both Windows and Linux, to create focused environments used only to that end.
+
+Reason? To both develop ideas and process data, frankly I am skeptical (as worked with partners also from the startup side providing cloud-based solutions) on the level of confidentiality and privacy really provided by cloud-based solutions.
+
+Just read the details of e.g. cloud-based AI models user licenses. 
+
+And, actually, if you look at my [Linkedin profile](https://linkedin.com/in/robertolofaro), you will see that shared few posts with considerations about the service management and licensing: both are starting to become a significant issue, notably due to the way the "AI stack" evolves (including libraries and software tools, not just the models).
+
+With the latest developments of AI that would like to test, it is not enough what described within the two March 2026 mini-books, i.e. creating different environments: if you want to test concepts such as having agents interacting with third-party agents not under your control or whose access and licensing you did not do upfront to have a proper due diligence on the "supplier", you need an environment that is structurally safe, i.e. has no access to the "real" resources, but only to selected resources.
+
+Just search online for "LiteLLM", and you will see what could happen if you test the latest AI trends without using this "Matrioska" approach to resource access.
+
+So far, used AI to support mainly the tools and research side of my publishing activities, and use routinely models hosted on my computer or my smartphone (execution time is not an issue), also if sometimes ask them to go online for research- and, actually, in the end saw that it was better to create my own integration tools tailored to my own purposes (of course, with the support of AIs- but designed software and managed projects for few decades, hence I have a bit of experience on how to interact with virtual or real development teams), not to add layer upon layer of tools that promised to do 99% of what I was not interested in, and, to that end, required piling up of gigabytes of environment just for them with a do not know what.
+
+Moving to another side, over the last few weeks changed the menus of this website to add new features, share experiments, and prepare to share a bit more.
+
+My software development experience started in the 1980s on home PCs, then shifted briefly on computers such as VAX, PDP, 3B2, then on mainframes, then on PCs but mainly for decision support systems, then web development only for my "dissemination" purposes.
+
+In each case, the difference between a proof of concept, a pilot project, or a product prototype accessible to a limited number of users, and an actual product or service, is both on the architecture and deployment side.
+
+AI changes on a weekly basis? Well, as did in the 1980s with decision support systems and 1990s-2000s with business intelligence,you need to work following a "product lifecycle management" approach, i.e. by managing degrees of "environment predictability", not updating the stack whenever something new appears.
+
+And this applies of to your own "increments" or "iterations": integrate changes in architecture and software if it makes sense, not just because there is a new release.
+
+As discussed with others over the last few weeks, will actually share something more structured around that concept later this year- leveraging on my experience both on technology, cultural and organizational change and, of course, delivering technological and non-technological training as well processes built around business software packages (with or without "customizations"), redesigning processes, and designing/delivering/revising methodologies (including connected to compliance, e.g. in the early 1990s to integrate with the introduction of ISO9000 for a customer).
+
+I still believe that there are plenty of process-oriented activities where, across the life-cycle of the activity, AI will make affordable automation and at least co-working with AIs into viable business cases, something that past "dumber" forms of automation that required continuous and massive human work upfront could not.
+
+Still, to avoid the mess that we had in the 1990s when many companies let the business side to pick up off-the-shelf software solutions (and also the first cloud-based, SaaS, etc) without any consideration on the organizational and system integration.
+
+Then, as soon as there were needs for updates, or some issues such as bugs, data integration, etc, it ended up becoming an ICT issue.
+
+Anyway, the guiding light should always be business knowledge and business potential- technological experts should be involved in the blueprint phase, to avoid disrupting the system, but should not be the drivers.
+
+Our times accelerate, but also remove the laziness implicit in learning a technology or product or language, and living off that for decades.
+
+Our current technological landscape (not just AI, also its impact on the unbundling of corporate systems) requires a different approach both on supply and demand, and having people able to switch.
+
+Transitioning people toward the new mindset is what is needed- as was asked in the 1990s by a customer to prepare a study and suggestions on how to transition ICT staff from mainframe-based to PC-based development.
+
+Last but not least: one of the menu options that added is just in that domain: revising and redesigning training processes and approaches- leveraging on both my past experience since the 1980s in training curricula design and delivery (and sale), and having lived across multiple technological "generations" in training delivery.
+
+The next few articles will be about Europe, Italy, Turin- where, for now, continue to focus on working just on program/project/change management, as my old management consulting activities will be just for occasional missions or for publications: I have no interest in receiving from Turin and Rome continuous "tremendous opportunities" to transfer what I invested on for forty years for free to just a company, better to share it online and in publication, so that a wider audience can identify potential reuses. 
+
+Have a nice week

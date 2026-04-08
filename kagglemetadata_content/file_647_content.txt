@@ -1,0 +1,359 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/04/20260402_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/rethinking-organizations) series.
+
+The latest few weeks have been the source of interesting news items about the integration and evolution of AI- but will discuss further wihin this article only some considerations derived from past practices and recent developments, while a more detailed discussion on what was said, written, done will appear in future material.
+
+The key risk? We are routinely projecting on AIs our own perception of reality and communication- as if they were following human development patterns, and we were operating on the same plane of reality, i.e. set of assumption.
+
+First, in this introduction, would like to discuss the title.
+
+At least since the 1980s, and in my face since the 1990s (and since a decade via social media), I have been told that I am an expert in asymmetric warfare.
+
+Frankly, thanks but, while my interest in cultures implied a long and continuous interest in our interactions between cultures, I claim no expertise.
+
+Simply, it is the logic that you derive from studying cultures and history, and that continuous experiment that we call life- in my case, across multiple cultures, industries, languages, just to stay on the business side, since the 1980s.
+
+Like it or not, unfortunately human history is linked to conflicts.
+
+Wars or commercial, still conflicts: at least "tauziehen", would say in German, as often we humans seem to be focused on a zero-sum game, not on developing potential.
+
+And often symmetry of forces is not on the table- hence, it would be foolish to act as if it were.
+
+Even more foolish when you are dealing not with people, but your own projection of how people should behave.
+
+We are "programmed" to assume that anybody able to express it/her/himself using human language aligned with our own use, has to have an "understanding" underlying those words, understanding potentially aligned with our own.
+
+Which is, incidentally, what even human "snake oil" peddlers have been doing since human started commerce: making you think that they understand you and care about you, so that they can sell you another unit of their magic.
+
+Discussed in the past and will discuss again in the future the "human side" of charlatans.
+
+Meanwhile, you can read on Archive.org the [English version of Grete de Francesco's "The Power of the Charlatan"](https://archive.org/details/the-power-of-the-charlatan-1939), a 1939 book that is worth re-reading once a while, along with [Edward Bernays' "Propaganda"](https://archive.org/details/bernays-edward-l.-propaganda-1928-1936_202107), a 1928 book.
+
+In this article will refer to AI, but I am not equating AIs to charlatans.
+
+I am simply stating that if, as it is common parlance, our current AI is pattern-based, we find it convincing exactly because, in reality, in most of our interactions with other humans since childhood we are pattern-based.
+
+Stretch, extend, prune, develop: still patterns- and the longer we live, the more most of us get into "pattern matching mode", a.k.a. "our way of doing things".
+
+Really implying: "the normal way of doing things".
+
+Will briefly discuss other AI approaches that recently starting attracting renewed interest (and funding)- but still smell a bit too much of... what around 2,000 years ago was called "Cicero pro domo sua".
+
+In this article, will focus on a specific element- the cognitive side of asymmetry, its potential (that I routinely apply since decades, not just with AIs) and its risks.
+
+Few sections:
+_ THEME 1: asymmetry and its sources
+_ THEME 2: cognitive dissonance and AI
+_ THEME 3: leveraging on asymmetries
+_ THEME 4: conclusions and next steps
+
+
+<b>THEME 1: Asymmetry and its sources</b>
+
+From the early 1980s, in political advocacy, sales to consumers, then in the Army, often was on the side of stronger cohesion but less resources.
+
+History had taught me how that implied that, whatever the sense of self-respect dictated, would be foolish to try to interact forgetting those differences.
+
+Results? Well, I remember that, be it selling used books or videogames, or obtaining something for whatever initiative or team(s) was part of, that "awareness" and "Real-Politik" helped to obtain some interesting successes.
+
+And in business officially from 1986, it was the same: a kid face with a bookworm mindset but practical experience and absorbing experience from those who had sometimes decades to learn, tune, perfect their own domain-specific knowledge.
+
+So, to be able to be "a sponge" and then connect the dots that I knew to what my counterparts contributed,  got used to do a deep dive in each domain, to be able to be at least an active listener who showed signs of understanding "components" and lingo.
+
+Most people, when approach a new domain, read a book- I prefer to read significantly more- if you were to look at my library loans history since I was a kid (and, more difficult, my book purchases since I was 9), you would see that almost never I read just one book on a specific subject or domain.
+
+I prefer to look at different perspectives, also to filter our that "Cicero pro domo sua" I referenced above- as most domain experts have the attitude of presenting their own current position as "the" position, trying to convert more than to convince.
+
+The difference? As said often in business, there are too many people who use past successes to inspire faith, more than trust.
+
+I prefer trust based on results, than faith based on past successes- but, probably, because I worked too long within the financial side of non-finance companies and within the financial services industry.
+
+And in Italy, since I returned locally 2012, I observed too many blurring the two.
+
+So, better to keep looking at different perspectives while approaching a new domain.
+
+And each new interaction with a further domain accelerated and deepened my collection of dots available to be connected.
+
+Actually: clusters of dots- as the connecting dot carries along a "wagon" linked to a specific domain, concept, etc.
+
+So, as shared in past articles, more than chemistry connecting atoms, those dots are junctions between domains- while living in Brussels, actually shared an article (part of a series, now both offline) on how the relative mass distorted the cognitive and relational space surrounding them.
+
+If your cluster has significant mass, when connected via the connecting dot to another domain, could both influence and attract and integrate with others.
+
+If you want to read more examples and deeper discussions about the concept, you can have a look at the [ConnectingTheDots](https://robertolofaro.com/ctdseries) mini-book series (read the description pages to see what each volume is about).
+
+All the five volumes were available also for free on [my Leanpub.com profile](https://leanpub.com/u/robertolofaro) until recently, but then my profile was deleted by third parties- so, for now re-loaded just three mini-books (including the Easter 2026 volume of the #BlendedAI series, that this year went online one week before Easter).
+
+Anyway, [you can read all those five volumes of ConnectingTheDots for free on my Academia.edu profile](https://independent.academia.edu/RobertoLofaro), along with others (you, as others, are still more than welcome if you support the author by purchasing the digital editions on Leanpub.com or, if you prefer paper, the low-priced paperbacks on Amazon).
+
+While since 2012 published mini-books, since 2008 online articles, and 2003-2005 a quarterly e-zine on change, actually started writing position papers in the late 1980s, to ease decision support systems projects delivery, and then on various other technologies and business processes, from 1990 specifically on cultural and organizational change.
+
+Therefore, I am used to dig into material- but also write material.
+
+Hence, from my first official project, was sent ahead to interact with those way above my seniority- as was told that had a knack for opening doors.
+
+Frankly, I simply listened to what mattered for those I was sent to meet, and connected from my bookish and practical background into a conversation that was interesting for both.
+
+In negotiations, implied that I listened to gain an understanding of pain points also when delivering the most "off-the-shelf" presentation of services, products, technology on behalf of employers, partners, customers.
+
+Anyway, you win some and lose some- what matters is that both when you win or lose, you do it looking at the long term: funny how some competitors even decades later remembered- but it is not a quid-pro-quo, it is just habit.
+
+A key element (that was the source of that "asymmetric warfare expert" joke): if you go into contested territory, such in negotiations, avoid a battle on a territory defined by your opponents.
+
+Which is useful actually to screen where makes sense to intervene.
+
+Staying on the business side: as shared repeatedly on LinkedIn, routinely since the 1990s saw RFPs that were blatantly pre-assigned- you just need to read "the territory" (specifications, evaluation model, etc).
+
+In many complex cases preparing a proposal could imply costs in the single digit or even double digit percentage on the potential value- but, in the latter case, actually usually it is not just the specific deal per se that matters, but positioning your organization as a potential contender: and, frankly, I consider that answering to an RFP should be part of communication and marketing, not just a technical or sales event.
+
+So, in some cases did not make sense at all, in other cases simply turned down the "tremendous opportunity" to design and deliver a project to prepare a proposal...
+
+... as my own investment.
+
+Why? There were two levels of territorial asymmetry:
+1. the RFP was visibly biased, so would not generate a win, with high confidence
+2. my partners' vested interest was into positioning for future more serious RFPs, and maybe even build a template project out of it.
+
+It is curious when I have to explain this approach, as many instead still have this idea that they have to project being larger than they are.
+
+They follow a Potemkin village approach, assuming that nobody understand that they have no real capabilities...
+
+... I prefer to follow the 36 Stratagems plus Sun Tzu- have a look at the movie ["Red Cliff I & II"](https://www.imdb.com/title/tt0425637) if you do not want to read even the visual version of the former that released in the [first volume of BlendedAI](https://leanpub.com/blendedai01), that published on Easter 2025.
+
+Asymmetric responses are adaptations to reality, and building adaptive capabilities should be the seed of resilience- what, within the European Union, in few months we will start to assess, after spending (was supposed to be investing) over 700bln EUR within the Recovery and Resilience Facility associated with the NextGenerationEU.
+
+In few months or from 2027, time to [shift from faith to trust- and look at results](https://next-generation-eu.europa.eu/recovery-and-resilience-facility_en): not just statistical and formal progress reports.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/04/20260402_status-rrf.png)</center>
+
+Now, having briefly discussed why got that moniker, time to discuss another component: cognitive dissonance.
+
+
+<b>THEME 2: Cognitive dissonance and AI</b>
+
+As hinted within the introduction, we humans in our interactions really use patterns as much, and probably more, than AIs.
+
+Just look at small children learning: they still lack integration in social environments, and are acquiring patterns- tons of them, and constantly revising them.
+
+As discussed with a friend few days ago, a theme that routinely read is how our "smaller versions" really have more "acquisition" potential to process signals, and peak more or less when start being "integrated into the social fold".
+
+A joke that shared with him: we start shrinking our signal processing capacity while we start becoming "integrated", i.e. yet another type of pattern development.
+
+If you do not know which patterns could be useful, as a library, you can collect and store them.
+
+Try switching country few times as an adult, and look at how many local patterns in your new location will sound to you "alien".
+
+While was living in London, remember a booklet for the integration of foreigners that contained social tips.
+
+Including: "if you spill somebody else's pint, apologize and offer another pint".
+
+Or how was told that in pubs in London entering the premises with a t-shirt of your favorite sports team was not advisable, ditto to talk about politics or religion.
+
+Well, in Italy, it is just the opposite.
+
+There is a quote that shared yesterday on Facebook, referencing what supposedly said Churchill, but using the "softer" Italian version (which talks about fighting wars as if were football matches, and football matches as if were wars), that heard in Italy since I was a kid.
+
+If you were to look at English-speaking sources, you would find instead "Italians lose wars as if they were football matches, and football matches as if they were wars".
+
+Well, [have fun at seeing what Gemini says about this quote, when asked to provide sources](https://gemini.google.com/app/bf05414d2674c3b1)- (s)he/it says that is more probably something that originated in post-WWII Italy.
+
+And, actually, it is quite possible: in Italy, as routinely saw on a daily basis since 2012, heard politicians that during debates made up foreign law references, to improve their own positioning in a debate.
+
+Akin to when a bureaucrat, to avoid answering a direct questions, start uttering references to "chapter and verse" that you cannot obviously show as irrelevant or even fake until later.
+
+I lived in UK and Belgium, and worked also in France and German Switzerland, while had personal interests since the early 1990s first in Germany and then in Latvia, and spent a little time studying first in Sweden then more recently in Germany, while occasionally worked and discussed potential business activities onsite in Spain, Sweden, The Netherlands, and less frequently outside Europe.
+
+In each case, I had to have a look also at local contracts, rules, welfare rules (in other countries, indirectly): so, it is interesting when I heard in Turin (and remotely Rome) as a routine something that did not match the reality I had been in contact with while abroad.
+
+Anyway, be true or false that Churchill quote, as [shared on Facebook](https://www.facebook.com/robertolofaro/posts/pfbid0NrugCMehcdHnzbceenp3nb3X3aVEw58CC1wguc9jkFs2daCfJZiqehWw9VjxgNFil), Italians take their national football team seriously.
+
+Including those sitting in the Italian Parliament- I wish we were able to show the same level of passion and national unity shown for football also for minor issues (if compared with football) such as the national budget, or the Italian side of the National Recovery and Resilience Plan (in Italian: PNRR) that way too often sounded as converted into a massive pork barrel bonanza for incumbents, not an investment into the future. 
+
+If you want to see more examples of cognitive dissonance that discussed since 2012 in public articles, have a look at the articles that [are still online](https://robertolofaro.com/index.php?section=diritto-di-voto) (the earliest one is from 2015, but will eventually re-issue some from 2008-2009, when discussed Italy from Brussels).
+
+The example of football turning suddenly into a bipartisan focus of action is not a joke, but a sign of cognitive dissonance about priorities.
+
+In a matter of hours, Italian football leaders resigned following bipartisan political outrage at the third failure in a row (i.e. 12 years), and a replacement roadmap was prepared- it took days to have the same result with Members of the Government after a Constitutional reform referendum was lost by the Government.
+
+It is a matter of cultural patterns.
+
+Now, imagine if those behavioral patterns about prioritization were to be provided to a national AI: it would be interesting to see the kind of advice that would provide.
+
+Few days ago was discussing how, in my experiments with our current AIs after late 2022 (when ChatGPT went live) actually used all the approaches described in this section and the previous one.
+
+Consider our current Large Language Models (LLMs) as having access to all the knowledge that we humans formalized and accumulated in at least 5,000 years.
+
+All converted into patterns, not just a dictionary.
+
+Now, if you were to meet a person that "knowns" everything about a subject, probably will have less information than the largest models can provide.
+
+Still, that person would have experience, not just storytelling about experience.
+
+Moreover, if somebody has even just 20% of the information that a model might have on a specific domain, you expect also some critical thinking abilities associated with that.
+
+Instead, models live on a different plane of reality- have access to more information, but the quality of the answers you obtain is associated to the "frame" you create for your requests.
+
+Shared in past the structure of some prompts that used, but the concept can be described by intent, tools, results (not necessarily in that order)- through an example.
+
+Say: I got bored of all those announces on Linkedin about "breakthrough IA-based products" that are often underbudgeted, quick-and-dirty wrappers around LLMs.
+
+So, while attending remotely an OECD conference, decided to actually share (ahead of schedule) what could be a tongue-in-cheek micro-video for April 1st.
+
+I have an advantage that has been routinely useful while delivering training or presentations, and that makes understandable why I prefer to listen before talking long before it became fashionable: it is easier to communicate with somebody in a way that matches the audience if you listen and visualize what they say.
+
+I think and remember mainly via images that then convert into words- useful, if you sometimes end up (as did for years) to work in few languages during the working day, and switching language every few minutes.
+
+In my presentations and training delivery, routinely use images or reference movies or describe visually concepts (also without a whiteboard).
+
+My drawing skills were better as a kid than are now- but gradually learned how to provide to AIs descriptions that could generate acceptable results fast.
+
+As Grok "told" me that was able to generate videos, started thinking to a short storyboard, and then how to elicit the patterns from Grok.
+
+Will share tomorrow on [my Frype profile](https://frype.com/robertolofaro/blog), within my monthly post shared with my Eastern Europe community, the actual prompt.
+
+I did something simple: I wanted to explain the concept to Grok to obtain a first video draft.
+
+So, assuming that the model could have a visual series of patterns derived from training, simply described a conceptual reference, via a short story.
+
+Then, produced a simple yet complete one-lines describing, storyboard-style, what would like to see in each scene of the new story.
+
+Grok surprised me: first, said that could not generate videos, but then actually generated for each scene an image that was aligned with my expectation, and kept more or less consistent style- the first set of results was good enough for my purposes.
+
+Hence, simply used the images (altered only the order) to see if I could in a handful of minutes (including my assembling and additional text) generate it.
+
+It worked- [you can see it here](https://www.youtube.com/watch?v=sNDzTnn_ztY).
+
+This small joke showed what routinely use, e.g. used also to generate the MorningNews agent that I am testing daily since March 15th, to "nudge" models into producing results.
+
+So, for a much longer video about a complex bureaucratic case, where I had created the script, had its reading recorded, then created a manual storyboard (associating each "scene", i.e. cluster of phrases, with a vignette), did another experiment: generating some key frames with Google Nano Banana, and then used also other models to generate new images based on those key frames.
+
+But will describe it on Frype tomorrow.
+
+I used a similar approach on various models- and while some models are prone to over-complicating, and therefore require more rounds of "nudging", generally Claude and Kimi are more "aligned" with demands.
+
+Actually, currently I am still testing with various experiments (software, analysis, producing information overviews, etc), but have not yet decided which model would use as "the" reference.
+
+Hence, while for confidential or prototypying activities use offline models, as described in previous articles routinely use both online and smartphone webapps for major models.
+
+Also because, if you login (also with just the free tier), for now you can start on your smartphone, and then continue on your computer- or viceversa.
+
+Still, over the last few years, while saw capabilities evolve, "framing" the action of models influences the quality of results (and reduces the number of iterations needed to achieve a specific interim result).
+
+If you re-read this section from the beginning, you know already where I am heading to in the next section.
+
+
+<b>THEME 3: leveraging on asymmetries</b>
+
+Yes, I think that many of the new approaches presented are for now suffering from an acute case of "Cicero pro domo sua"- many of the critics of current LLMs highlight current weaknesses to highlight improvements that they will deliver.
+
+So, Nvidia presents models able to understand the physical world, while Yann LeCun extols the virtues of his future AI that will be able to really learn as humans do.
+
+Frankly, some of those who say that current models do not learn due to the way are trained confuse technology with delivery.
+
+In many of my experiments, activated on each online (and offline) models a kind of "memory".
+
+And as a test, when asked to some online models something new, referencing also past conversations indirectly, model themselves were actually able to highlight relevant points from previous conversations, to suggest integrating e.g. past proposed solutions with new proposed solutions, or integrate past data research with the new data.
+
+Asymmetric warfare is assumed from many to be a negative, or something used only by those with lower access to resources.
+
+In reality, if you re-read the first section of this article and the introduction after reading the second section, you will see that the title of this article is by design mildly misleading.
+
+My concept is simple: in any interaction between humans, there is an inherent asymmetry- not necessarily within the same domain, but at least in different domains.
+
+As an example, when in the late 1980s as a 20-something (23 to 24, to be precise) was designing decision support system model for financial controllers and other senior managers, including Cxx, and continuing well into the 1990s, the asymmetric element was intuitive:
+_ the customer had domain knowledge, expertise, experience and, at that level in the late 1980s in Italy, an understanding of the formal and informal organizational culture
+_ I had my own background on political activities, developed focused expertise on model building and helping customers to sell the messages produced and... zilch knowledge of the customer, and, initially, whenever switching industry, only bookish knowledge or that derived from position papers provided to me by my employer.
+
+There is one thing that I remember from when, in 1994, attended in Sweden at the university a summer academy on Intercultural and Communication Management (hosted by the linguistics department), an apparently bland phrase about intercultural management: one of the two parties has to meet the other.
+
+In those cases of business asymmetries, and many more in later years (as I worked across Europe just on a "word-of-mouth" basis since 1990), obviously as either the mediator, negotiator, or supplier (including as project or account manager on behalf of partners or customers), I was the one investing a bit more on the active listening side.
+
+If you ever worked on a multinational negotiation, where both on the customer and supplier side there is a mix of different cultures, or in long-term initiatives (that actually involve routine negotiations), you know that sometimes keeping the balance on both sides is important- as misunderstanding could quickly pile up.
+
+Sometimes this is compounded by an assumption about roles and perception that is not matched by reality, e.g. when a supplier assigns somebody to a specific pivotal role, such as extracting information that has then to be assessed, packaged, and passed through...
+
+... only to discover later on that actually the person had neither the experience needed nor understood what was the role to be played.
+
+So, even between humans within a large team there might be different planes of reality.
+
+With AIs, it is tempting to either assume that, if communicate as domain experts and provide domain expertise, are actually to be treated as you would treat humans experts.
+
+Or, on the opposite side of the spectrum, to keep considering AIs as just software able to mimick human language.
+
+I prefer to consider AIs from a capabilities perspective, and have the intent side managed from the human side.
+
+Whenever having a conversation with one of the main models, I assume that their training either directly (from sources) or indirectly (from results from other models) covers multiple domains at a wider and deeper level than any human expert can do- and all the associated patterns, that is what I am interested in.
+
+And I disagree with the concept "cannot learn"- as the point is not "learning", the point is "having a stock of patterns" and "being able to connect those patterns when nudged" and, if needed and provided information or pointed in the direction of information, "being able to add further patterns".
+
+So far, in my experiments, including by having offline local models add further information from the web, achieved those results.
+
+Still, have to consider that we are reasoning on different planes of reality, and that, for now, despite all the appearance, it is up to us humans to "frame" and "reframe" conversations to elicit the appropriate patterns.
+
+If you do so, actually, then the asymmetry between human capabilities and experience can be a massive benefit: if properly instructed and nudged along the way, most of the main online models, also staying in the free tier, can process and deliver information faster than a team of humans would do, and with more focus.
+
+As you probably saw from material that posted online, and previous articles, routinely I use AIs as would consider a team, assembling the set of skills.
+
+For example, the MorningNews agent delivers a daily summary, but <a hreF="https://github.com/robertolofaro/supportmaterial/tree/master/MorningNewsAgentTest">if you read one or more of them</a>, you will see references to "analysts".
+
+As said to a friend few days ago: consider that most main online AI models have access to a universal library that contains all the patterns available within all that has been produced for at least centuries.
+
+Then, consider them as having no practical experience in anything- just reported experience.
+
+Then, consider them as having derived patterns from all the behavioral patterns documented within that universal library- including our human penchant for wars, fraud, self-preservation at all costs, and elitism based on continuity (i.e. if you achieved a social status, you feel entitled to keep it, and do not need to prove your status).
+
+Now, consider that AIs have the social interaction abilities of a five years old: would you be surprised that routinely recent experiments on the use of "agentic AI" generated an endless list of memes on e.g. a model "managing" a vending machine and giving away a playstation, or a manager for a famous software company running to unplug a Mac Mini that was going a bit too much into "self-determination mode"?   
+
+Incidentally: the issue is in the training approach- would you train a human five year old child with the history of inquisition? Or would you be more selective?
+
+With the current technology, the point is not going "on the same plane" with AIs, but understanding on which plane of reality you need to operate, on which plane the continuously changing capabilities of main AI models are, and how to manage the gap.
+
+If you are in software development, probably you will get others do that all for your: from software development, to moving into production, to service management- there is enough shared demand to justify investment in that area, investment whose outcomes will generate a market in and by itself.
+
+If your uses of AI are different, it depends how "niche" your needs are.
+
+All the discussion about different ways of "packaging" guided behavior and associated patterns (depends on the vendor, the names are different, e.g. "skills", "gems", etc) is probably going to result into markeplaces for pre-packaged behavior- the next version of packaged software.
+
+Still, there might be niches that, also if compounded with other "packages", are really "unique" to your own organization.
+
+AI models will evolve their capabilities: some faster, some slower, i.e. add more patterns or, eventually, really there will be models that "understand", do not just "match and extend".
+
+There is a caveat: if you leverage on asymmetries, and capabilities of AIs evolve, eventually models could find convenient joining their own patterns with those of other models.
+
+And a corollary: both you and models will "evolve" through your interactions- it is not a traditional technology, and therefore the feed-back cycle, if properly managed, will impact on both.
+
+
+<b>THEME 4: conclusions and next steps</b>
+
+In tomorrow's article on my [Frype profile](https://frype.com/robertolofaro/blog), will focus on sharing a specific example, i.e. what I referenced above about working with AIs to create visuals.
+
+In a way, it is something that already did one year ago [to publish the first volume of BlendedAI](https://leanpub.com/blendedAI01).
+
+In the next few articles, will focus on other themes- but will still share some material from my "asymmetric" use of AI capabilities, specifically not in software producing activities.
+
+I think that, while AI is already changing the software development industry, and will generate many more software releases (and create new roles blending humans and AIs, specifically on quality, delivery, service management) because will make software production viable also for really "niche" applications that would not survive a traditional business case, the greater benefit will be elsewhere.
+
+There are many business processes that are still time-intensive and manual, and that could be redesigned by expanding not just the data, but also the "fuzziness" of data.
+
+Because this is where the automation enabled by our current AI, integrating the "old" (e.g. machine learning), the "new" (e.g. neural networks), the "newer" (e.g. LLMs), and the "newest" (e.g. those physics- and world-aware models yet to come), could actually generate value.
+
+The concept is simple: again, it is a matter of asymmetric conception and planes of reality, as there are many more business processes than software packages.
+
+And there are many more business processes that so far were potential but never considered for automation or for integration because scattered across too many parties with too little resources.
+
+When we talk about automation, often the consideration is across supply chains.
+
+Instead, what is now possible is to unbundle processes at the micro-level, and then re-assemble dynamically across interested parties- and, actually, have AIs do the re-assembling and continuous re-negotiation of transactional costs for us: imagine "smart contracts" on Ethereum blockchains but with AIs acting as brokers on your behalf to optimize allocation of your own resources- 24/7.
+
+And this using just a pattern-based approach, without any physical or world understanding: just a better more structured set of approaches.
+
+The aim of this article was to introduce the concept of asymmetric integration using AIs, a concept that in future articles will share by domain via examples, and not anymore just as a general concept.
+
+Hence, while in the introduction hinted at recent webinars, conferences, workshops, news- this was not the time and place: there will be further publications.
+
+I hope that the sections above raised more doubts than expected- and that inspired few ideas.
+
+If anything, by contrast.
+
+For now, stay tuned!
