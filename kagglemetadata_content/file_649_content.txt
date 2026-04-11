@@ -1,0 +1,504 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/04/20260410_article.png)</center>
+
+This article is within the [EU, Italy, Turin](https://robertolofaro.com/index.php?section=diritto-di-voto) series.
+
+Why now? In Italy, we just had a referendum to change a bit of the Italian Constitution that was not approved- [you can read details here on the official site](https://elezioni.interno.gov.it/risultati/20260322/referendum/scrutini/italia/01).
+
+In mid-March 2026 started releasing online my MorningNews as wrote today on Linkedin:
+
+<blockquote>
+as some of my connections expected, the "MorningNews" experiment is actually in the same line of other experiments done since the 1980s, more "political" also if using technology 
+
+any cultural and organizational change initiative is by definition "political", i.e. has a transformative intent that is not limited to tools etc
+
+actually, in the late 1990s already said to customers and prospects that their acquisition of "tools" that covered processes horizontally and vertically implied that they were "importing" an exogenous culture
+
+in 2025 started working on the concept of the second volume of "Strumenti" (the only book that published in Italian, over ten years ago)
+
+the first volume was to summarize concepts that had explained to customers and partners for decades, and, as was in 2012 resuming to work in Italy, wanted to share in a public way so that nobody could consider that was specifically for/against them
+
+tonight will share an article that will include, within the closing section, a concept derived from the influences that generated the design of MorningNews, with a focus on democratization of evidence-based knowledge collation and dissemination
+
+meanwhile, you can read (for free) in Italian the old volume (or hand it over to e.g. translategemma from Google) at [https://robertolofaro.com/strumenti](https://robertolofaro.com/strumenti)
+</blockquote>
+
+About [translategemma](https://ollama.com/library/translategemma) from Google: I routinely use locally on my mobile phone the 4B version that installed within Ollama on Termux, but to scan books you would need also a webui to "upload" files.
+
+From today, 2026-04-10, that daily MorningNews has a new version, so it was the right time to blend the two elements: the political and technological.
+
+In Italy we are back, as usual, to discussing about a national favorite pastime Italy became a Republic after WWII: changing the electoral law.
+
+And this article will share more than just a discussion, also some "political" elements that were actually embedded within the design my [MorningNews](https://www.patreon.com/collection/2094015?view=expanded).
+
+In late 2018 stopped publishing articles in Italian on this website, or even "hybrids" (English and Italian), and shifted to just English- I explained the reason back then.
+
+More than once articles in 2018 were about further electoral changes- and one [Rosatellum on my mind...](https://robertolofaro.com/index.php?page=135) (only the title was in English) actually contained a "mindmap" of the electoral law nicknamed "Rosatellum".
+
+It was something akin to the [Tabula Peutingeriana](https://en.wikipedia.org/wiki/Tabula_Peutingeriana).
+
+Because in Italy a law is not focusing on an idealistic "common good", and not even "a winner takes it all"- it is a balancing act between the interests of a "coalition of the willing" tribes that subscribe the electoral law- for the time being (which sometimes could mean just weeks or months- we even had a law that was so convoluted that also its own creators nicknamed it "Porcellum"- in German would say "eine Schweinerei").
+
+The key risk? That we, as usual, embed ["Gerrymandering"](https://en.wikipedia.org/wiki/Gerrymandering) into law design.
+
+And then, as it happened when the right to vote was extended to Italians residents abroad, the results show how much our political &eacute;lites are detached from reality.
+
+In that case, famously the law had been a battle run for a long, long, long time from somebody from the right of the political spectrum- but a centre-left President of the Council of Ministers had to publicly thank the promoter of that law as...
+
+... the results provided a gain for the centre-left that allowed that President of the Council of Minister (we shorten that usually to Prime Minister / Primo Ministro or, more recently, Premier- but, actually there is a not-so-subtle difference in powers).
+
+As in the Cheshire Cat exchange with Alice in "Alice in Wonderland":
+
+<blockquote>
+Alice asked the Cheshire Cat, who was sitting in a tree, "What road do I take?"
+
+The cat asked, "Where do you want to go?"
+
+"I don't know," Alice answered.
+
+"Then," said the cat, "it really doesn't matter, does it?"
+</blockquote>
+([source](https://www.goodreads.com/quotes/tag/cheshire-cat)).
+
+This article is about that first question from the cat- but trying to be foot on the ground, not sharing a day-dreaming about the future of Italy.
+
+And yes, in the last section will discuss a use of AI that have been experimenting with conceptually, and whose results I have been sharing since almost a month ago- but, as wrote on Linkedin, with more about its "political" part.
+
+My approach is always the same: use AI on something that would do anyway, and, beside redesigning ([see here](https://leanpub.com/blendedAI02)) processes from scratch for my own uses, I try to make the new "AI-augmented" version useful for others- and freely accessible, while trying to generate value for those involved.
+
+The sections:
+_ THEME1: a cultural context- the (dark) tribal side of Italy
+_ THEME2: a theory of justice in a tribal society
+_ THEME3: winning elections vs. gaining at elections
+_ THEME4: mandate, term, and... trench warfare
+_ conclusions and next steps
+
+
+<b>THEME1: a cultural context- the (dark) tribal side of Italy</b>
+
+Yes, the title of this section derives from one of the two books that, while living abroad, suggested routinely to my foreign business and personal connections:
+_ Procacci [History of the Italian People](http://www.librarything.com/work/2571772/book/40299483)
+_ Jones [The Dark Heart of Italy](http://www.librarything.com/work/46621/book/40298949).
+
+Actually, if you can read Italian, or at least are willing to spend time to have your favorite AI translate books for you, here is a book review that shared on LibraryThing years ago, on a book with the title [I nemici della rete](https://www.librarything.com/work/10756075/book/112746743):
+
+<blockquote>
+read this book to understand why, in Italy, the Net is unable to unfold its benefits
+
+it might be unusual to see that a 2* book gets added to my (purchasing) "wishlist", but when I wrote "why... is unable" I wasn't referring just to what the two authors selected as their title ("the enemies of the Net"), but also to how they, who obviously are pro-Net, present their case
+
+in Italy, it is a war of religion, not an emotional+rational or rational+emotional choice (as anything that gets "embedded" in your everyday life usually requires both elements): neither side finds the need to share arguments, and resorts to statistics out of thin air (obviously, never sharing the sources beyond a generic reference)
+
+if the debate will continue to be on this level, with "gurus" from one side or the other invoking each other to justify their own assertions, but never with a shared ground where to discuss, something requiring long-term investment and structural changes will never be delivered
+
+as for the title of the book... frankly, more than 50% of the book is off-topic, albeit the only redeeming factor that brings the second star to a 1* book is a chapter on the history of the attempts to regulate Internet in Italy
+
+but if you want to know a little bit more about "who" are the enemies of the Net, few books on Italy might be more enlightening:
+1. Procacci History of the Italian People http://www.librarything.com/work/2571772/book/40299483
+2. Jones The Dark Heart of Italy http://www.librarything.com/work/46621/book/40298949
+3. Sinatra Cambiamento strategico e legittimazione istituzionale http://www.librarything.com/work/14657615/book/105453144
+4. Ammassari &Eacute;lites e processi decisionali tra politica ed economia http://www.librarything.com/work/14989327/book/108887874
+5. Carboni &Eacute;lite e classi dirigenti in Italia http://www.librarything.com/work/5543605/book/108902808
+6. Putnam Making democracy work : civic traditions in modern Italy http://www.librarything.com/work/69269/book/110907194
+</blockquote>.
+
+Yes, all those books to understand a bit more (or at least pre-empt) cultural issues when dealing with Italy- and, frankly, many Italians do lack that kind of knowledge, as they rely on what...
+
+... their own tribe (or tribes) say is "the" truth.
+
+Which reminds a song from Peter Gabriel dedicated to the [Milgram experiment](https://en.wikipedia.org/wiki/Milgram_experiment), [We Do What We're Told](https://www.youtube.com/watch?v=sMLlDBXtmX0).
+
+Something that, despite the Nuremberg Trials, is still common parlance in tribal Italy: if it is sanctioned by the tribe, or for the good of the tribe (or of the individual within the tribe, including posture, ranking, etc), it is not just acceptable, but even common good.
+
+There is a funny now almost 20 years old movie that watched once in a while, and clearly summarize the concept of "common good" within a tribal society: [Hot Fuzz](https://www.imdb.com/title/tt0425112).
+
+Now that you have the framework, we can move to something else, blending observation and dcoumentation.
+
+
+<b>THEME2: a theory of justice in a tribal society</b>
+
+Now, if you never read it, it is worth reading an old book that quoted often in the past, ["A Theory of Justice"](https://en.wikipedia.org/wiki/A_Theory_of_Justice), by John Rawls.
+
+I will not try to summarize it- but let's just say that it is one of the books that use as a reference when designing business approaches.
+
+Reason: too many design processes and organizations and cultures as if they were building up plumbing for a new factory.
+
+I wrote already often in the past: in Italy e.g. COVID showed how many organizations were not ready- not because they lacked procedures, but because, as many disaster recovery and crisis management policies, somebody assumed that have had a project with experts designing a manual with checklists etc. would be enough.
+
+As if you needed just to switch it on when needed, and suddenly everybody would know what they would have to do.
+
+Well, it does not work that way: neither at the individual process or task level, nor at the macro-level, e.g. what is represented by a Constitution.
+
+Italy has a Constitution that, while formally designed after WWII, inherited some prior principles, and even derived from prior failures.
+
+Hence, its recognition of citizens' rights and duties, limiting power of those in office, integrating within international institutions, and, of course, repudiation of war.
+
+I discussed often the [tribal](https://robertolofaro.com/search.php?tag=tribal) concept in reference to Italy.
+
+A Constitution formally actually assumes a "common ground", but, despite all the declarations about inclusiveness, it is inclusive for citizens within the conceptual framework of the time when it was defined- e.g. Italy allowed women to vote only after WWII, despite having had a conceptual Constitution called ["Statuto Albertino"](https://en.wikipedia.org/wiki/Statuto_Albertino) almost a century earlier.
+
+A tribal society adds a layer on top of that formal Constitution, as having rights is not the same as having access to rights, if the filter is tribal.
+
+For example, and not just because I have seen curious cases for decades (not just involving myself), some formal rights are not necessarily accessible: and, since I was a kid, routinely in Italy we had scandals about misuse of access to wiretapping, legal rights to access confidential information and, since Internet became available to the general public, and all the communication shifted to "digital", the extensive and intensive use of data access.
+
+Not just from authorities, but from any "concerned party"- where the "concerned" is often self-defined on flimsy concepts of "fair/propose use".
+
+Few days ago shared on [Facebook my feed-back on what others (non-Italian) actually called the "Stasi-like" approach often used in Turin](https://www.facebook.com/robertolofaro/posts/pfbid02yaJu2doUAQvbHzRrnLZDubhzBNu2srQy3dhTKaM8cJ7W9hmdTjZPbX5S1x5wxGSxl), and referenced specifically two articles from the Italian Constitution, 14 and 15.
+
+Actually, rethinking at what was said also by others since returned in Italy, should have referenced also article 13.
+
+So, I will share here the official translation ([from the English version available on the "Constitution" side of the website of the Italian Senate](https://www.senato.it/istituzione/la-costituzione)):
+
+<blockquote>
+Article 13
+Personal liberty shall be inviolable. No form of detention, inspection or personal search nor any other restriction of personal freedom shall be tolerated, save by a measure for which reasons must be stated issued by a judicial authority, and only in such cases and in the manner provided for by law. In exceptional cases of necessity and urgency, strictly defined by the law, law enforcement may adopt temporary measures that must be communicated to the judicial authorities within forty-eight hours. Should such measures not be
+confirmed by the judicial authorities within the following forty-eight hours, they shall be revoked and deemed null and void. Any act of physical and moral violence against
+persons subjected to restrictions of personal liberty shall be punished. The law shall establish the maximum period of preventive detention.
+
+Article 14
+Personal domicile shall be inviolable. It shall not be subject to inspections, searches or seizures, save in cases and in the manner set forth by law and in accordance with guarantees prescribed for safeguarding personal liberty. Checks and inspections for reasons of public health and safety or for economic and taxation purposes shall be regulated by specific laws.
+
+Article 15
+The freedom and confidentiality of correspondence and of every other form of communication shall be inviolable. Restrictions thereto may be imposed only by a
+measure for which reasons must be stated issued by a judicial authority in accordance with guarantees set forth by law.
+</blockquote>
+
+Nice and sound principles- but already shared in the past online how their application is, again, by tribal boundaries- actually, by tribal agreement.
+
+Lo and behold, after published that post, a news item reminded the "ordinary way" to apply those articles of the Italian Constitution- a travesty of "justice" converted into a form of mobbing and stalking:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/04/20260409_inchiestaequalize.png)</center>
+
+It is the Italian way: the State is so divided between tribes, that each one tolerates blatantly illegal actions from other tribes, until they become too visible, or the balance of tribes changes- it is not a case of "at least we are going legal"- it is just a case of "avoiding that opening the lid on one opens on the others".
+
+A curious case of dealing with "checks and balances"- but in Italy we do not have them, for real: we have just "balances"- between tribes.
+
+Yes, if you go back in time on my [Facebook profile](https://facebook.com/robertolofaro), you will see other prior cases.
+
+And, actually, in late 2020 [published a book sharing a kind of "audit trail" across a couple of bureaucracy cases that followed 2018-2020](https://leanpub.com/citizenaudit).
+
+Recently, Sabino Cassese were reported saying that [Italians have been betrayed by political parties](https://www.lastampa.it/politica/2026/04/09/news/cassese_gli_italiani_traditi_dai_partiti-15576820/).
+
+It has been decades that the "us vs. them" replaced the concept of "positive politics", i.e. what you stand for, and what you try to advocate with others, to attract their votes.
+
+I have been invited just today to a debate about the polarization of politics in the USA, and routinely receive invitations to Italian webinars and conferences in the same line of thought- when, actually, we should talk about our own polarization.
+
+I am from the centre-left of the political spectrum, but also before my first experience in a political organization (advocacy for European integration, at 17), was already used to listen to what others had to say- did not like to spend my time only reading and listening what I already agreed with.
+
+And, actually, my first comparison of Constitutions was via a book that found in a library when I was an early teenager- a consistent reading with my other reading interests back then (and now).
+
+If your framework of reference is tribal, there is no "higher law"- and the Circus that frankly we saw during the campaign for the recent referendum become not just acceptable to your tribe, but expected: the cheering that read and heard during the campaign frankly reminded me of the equally "rational" [Nika riots](https://en.wikipedia.org/wiki/Nika_riots), the "blue vs. the green" in Constantinople almost 15 centuries ago.
+
+As I keep repeating to many in Italy, social media exacerbate our own tribalism, as the "engine" keeps feeding you what you already showed to be interest in.
+
+I "play the game" and willingly disrupt that tunnel vision e.g. on Facebook, by routinely searching and reading outside my professional and personal field of interest (or my connections' one), so that my "stream" changes.keep getting deeper and deeper into their own rabbit hole, adopting a tunnel vision and reinforcing it.
+
+So, my five cents suggestion to enable a new "theory of justice" for our times even in a tribal society such as Italy requires some significant changes in what we assume normal.
+
+And, of course, should start at the beginning, through the schooling system.
+
+We need to recover the concept of confrontation of ideas, critical thinking- while also when I was in high school I remember how really we were already "polarized" (and I am talking about late 1970s to mid-1980s).
+
+There is a catch: also in non-tribal societies, but more so in our tribal society where tribes are partitioning society locally and at the national level, our schooling system is churning out graduates- as if acceleration would allow to cope with the speed of our knowledge change.
+
+Now that, at last, AI showed how the acceleration is measured not in years, but in months or even weeks, our education system is structurally broken.
+
+If your knowledge changes faster than you can prepare training to cope with the changes in a "sanctioned way" (i.e. what tribes would accept), you have to do what in a tribal society is anathema: release control, provide principles, and let each member of society get the basics at each level within the educational system, but then get used to lifelong learning.
+
+Citizenship becomes not a once-and-for-all right, but a journey that requires routine interaction.
+
+Or: you need principles shared across society- and the Constitution is a good starting point.
+
+Which, in Italy, would require probably intervening on the electoral law to avoid that changes can be done even by a qualified majority.
+
+Because it is curious: the centre-left wrapped itself into the Constitution for the referendum that was promoted by the centre-right government.
+
+And why there was a referendum? Because the centre-right passed a law by majority to alter the Constitution, but then needed a referendum as the majority was not enough to make it stand as a change to the Constitution.
+
+Exactly the opposite of that did two decades ago the centre-left, that, to court the vote of what is now the League (a member of the centre-right coalition), back then proposed changes to a whole section of the Italian Constitution, and was able to get enough votes across the aisle to make it stand without a referendum.
+
+Because there is another sign of "continuity" since at least the 1990s, in Italy: political parties dislike the concept of having to rely just on winning at the polls, prefer to have some boost from the electoral law, or find a temporary partner within another coalition.
+
+
+<b>THEME3: winning elections vs. gaining at elections</b>
+
+Disclosure (shared already in the past, recent and far): 
+1 I voted to support the recently proposed changes to the Constitution- also because, as many on the centre-left, supported many of those changes in the past; did not change my mind only because were proposed by "the enemy"
+2 considering the tribal nature of the Italian society, divided horizontally and vertically, I think since forever that only a proportional system makes sense in Italy, as otherwise we are going back to the tinkering done during the Roman Republic while was expanding across the Italian Peninsula, to allow original tribes to retain control.
+
+On the latter point, I shared in the past a discussion, so will skip it here- we can just say that was something that we still once in while some say in Italy, whenever discussing electoral law: considering the "weight" instead of the "number" of votes cast ("I voti si pesano e non si contano").
+
+Moreover: I dislike the concept that political parties do not run primaries to define their own leadership candidate, and that the list of candidates is defined by party bureaucrats and "leaders" in backoffice.
+
+And equally dislike the idea of giving a large chunk of seats in Parliament to the leading coalition- also if did not gain an equally significant share of the vote.
+
+Also because, with the current Italian Constitution, the margin needed to have a coalition redo what the centre-left did long ago (yes, again: my side- but if something stinks I do not care who is proposing it), i.e. change the Constitution without a referendum, or even elect the President of the Republic without a joint effort with the opposition, with such an approach of favoring the winning coalition, would become razor thin.
+
+But, considering what was said recently from the Corte Costituzionale, i.e. the Italian Supreme Court, I am not the only one to share some of those dislikes.
+
+Well, I am an old fashioned democratic idealist: one person, one vote- and vote have to be counted.
+
+The tribal nature of Italy was routinely shown in the past, e.g. when lists presented more candidates than the number of seats available in each voting district, so that...
+
+... each candidate, even if not elected, could be "weighted".
+
+Say: you have a club, you bring 200 votes, those are the preferences you bring- bringing water to the list.
+
+And you are remembered for those 200 votes, when you ask your tribe for favors or access to rights.
+
+Since 1983, when I was 18 and, at the same time, both voted, was part of a political campaign, and worked at a polling station, I saw so many changes and twists within the Italian electoral system, that a list explaining just those approved, and why those not approved were not approved, would require a (boring) article.
+
+Closed the previous section by sharing my five cents about what could be useful within the education system to enable citizens to become active citizens and do more than just "cope" with the new times.
+
+Well, there are some other reforms that would make for a significant change in the "enabling factors" that allow Italy to have that structural cognitive dissonance to persist.
+
+Italy (and we Italians) want to be considered as the country where the Roman Empire was based, gave Renaissance to the world, and after WWII had a massive industrial resurgence.
+
+We want be considered creative, innovative, and constantly remind everybody of how many of the UNESCO protected sites are in Italy.
+
+Then, routinely complain about issues such as continuous natural disasters (as maintenance of the territory is, of course, linked to tribal convenience, not to scientific or social needs), lack and waste of resources, and, in more recent years, our own demographic trap (getting older and older in a system and society that still assumes more layers of young and fewer old).
+
+<i><u>A key reform would require something akin to [China's imperial examination](https://en.wikipedia.org/wiki/Imperial_examination), that (again) 15 centuries ago set up a system shifted toward merit, not birth (which in Italy would become "birth or tribal allegiance")</u></i>.
+
+Years ago followed on Coursera a course from Beijng on the organizational history of China's bureaucracy: it was actually a follow-up on other training.
+
+Still, formally in Italy we have already something similar but, anyway, the Italian spoils system says a different story.
+
+It is a routine that, even before winning elections, those hopeful of extending the number of their seats start looking around for people to fill each and any role that will be left vacant by those retired, or that could be "released" by reshuffling offices- and, of course, each and any managerial level that is, in Italy as elsewhere, appointed by the Government.
+
+Italy is a "hybrid" economy- many local utilities are really co-owned by local authorities, and many large companies have the State as a shareholder.
+
+Consequence: "political appointments" can extend well below senior management roles.
+
+As said in Turin over 10 years ago before a local election, the mathematics becomes simple: even when a new majority wins (in Turin, except five years before the current incumbent Mayor, for a quarter of a century we had Mayors from the same political coalition), most of those working in the public administration or roles in companies and organizations appointed by politicians would assess the potential of the new majority to hold power part a single term- and act accordingly.
+
+Hence, in Italy is common, whenever there is a political shift, to see a slice jump on the chariot of the winner as soon as possible, a slice wait-and-see, and a slice join the "bureaucratic trenches" and wait for the previous ruling coalition to return.
+
+It is bureaucratic triage Italian style.
+
+We also have a "civil service", but, frankly, you need just a contested referendum to see how much "free from political influence" civil servants are.
+
+<i><u>So, the second bit of reform would be to start phasing out our Italian "spoils system"</u></i>.
+
+Still, it takes time- and will.
+
+And, despite all the calls for a "two coalitions" system, we still have a lot of tinkering across the aisle.
+
+
+<b>THEME4: mandate, term, and... trench warfare</b>
+
+Now, we have another routine: whoever is not leading the government...
+
+... complains that those who do appoint members of their own tribe.
+
+Frankly, in Italy we need less people that, when it serves them, wrap themselves into the Constitution, and instead we need more who simple remember it whatever political coalition is leading the country or location.
+
+I dislike an opposition that, for lack of a political platform, i.e. what they would like to be voter for, focus instead on getting voted against the ruling coalition.
+
+In 2016 we had another referendum round to change the Italian Constitution- and, in that case, it was the PM Renzi (from the centre-left) who decided, in whiff of megalomania, to turn it into a plebiscite, a kind of "political beauty contest".
+
+I still remember those who said "vote no so that then we can do the real reforms".
+
+To then, once PM Renzi lost the referendum and resigned (as he had been the one turning it into a vote of personal confidence)...
+
+... simply set aside and conveniently forget about pushing for the "real reforms".
+
+In this case, the referendum in March has been turned into a "political beauty contest" by the centre-left opposition.
+
+Or: apparently, be it at the helm, be it in opposition, my political side (centre-left) wraps itself into the Constitution, but then converts each referendum into a "political beauty contest".
+
+If you are curious and do not want to search this website: yes, I voted "yes" for PM Renzi referendum, also if I considered delusional converting a Constitutional referendum into a personal political approval.
+
+Did I approve all PM Renzi reforms? No- but I considered that, due to the Italian political climate, it was easier to have the reform approved and then reform them (e.g. via the electoral law), than procrastinate.
+
+For the latest round, I had less objections, but anyway apparently most Italians voted for or against the Meloni Government, not about the reforms per se.
+
+Which was frankly a curious vote: with PM Renzi, he had made an "autodaf&eacute;"- so, those on the centre-right and centre-left who disliked him were sure of the result.
+
+Instead, in this case, neither had an immediate chance to replace the government (as PM Meloni had explicitly stated that was not a political choice), nor was able to capitalize on the win (i.e. the "no" at the referendum), as leaders within the centre-left before, during, after the referendum were blatantly jousting for leadership.
+
+A fractured leadership is not able to capitalize on wins, and if the incumbent government can resist another year, the centre-left will be even more fractured.
+
+So much, that even potential alternative leaders of the centre-left do not want to be subject to primaries, but are willing to be "called to lead".
+
+Again, something that frankly deeply dislike: for all his weaknesses, when there were open primaries (so that I too could vote), voted for PM Renzi (did not win), then the party stalwart that won lost in the most puzzling bout of cognitive dissonance between reality and expectation (resulted in a massive vote for a new political party), and eventually, few governments down the road, Renzi actually became President of the Council of Ministers (PM for short).
+
+As the title of this section says, in Italy often we make a confusion between "mandate and term": and it has been a routine of fractured coalitions to present a political platform that "covers all bases" for the elections- i.e. has a bit for each tribe.
+
+Which, unfortunately (considering my political inclination), is the case with the current centre-left coalition: a feisty politician once, when back then the centre-left coalition presented a platform with 100 points, questioned their mental sanity.
+
+And yes, over a decade later, again I heard that 100 number connected to a potential political platform.
+
+So, we go at the elections asking for a mandate, but in reality we look just for a term-tenure.
+
+And the "trench warfare"? Well, if the point is gaining the elections in order to hold for a term, and not to get a mandate, there is another habit: the opposition, whatever its composition, is more than inclined about crossing the Ts and dotting the Is on the leading coalition.
+
+<i><u>And this is the next reform that we need, and could unfortunately be helped by the blessing in disguise that is having the European Union surrounded by wars.
+
+Finding some areas where, at last, leaving aside those small political parties that joust for their 2-5%, the others start working in Parliamentary Commission to find joint solutions that extend beyond the "one term", something that would require looking forward to a decade or more.
+
+Probably, should be something covering "butter to howitzers"- in this case, considering the demographic trap of Italy, could be a shopping list, more than a single item:
+_ national health, retirement, welfare system
+_ critical national infrastructure and resilience
+_ shifting welfare from companies to people (flex-security to improve adaptability) 
+_ industrial and defense policy (as everything in the future will be dual use)
+_ educational policy (read the "lifelong learning" part at the beginning)
+_ energy provisioning repositioning and natural resources management
+_ last but not least: overhauling all the various oversight entities.</u></i>
+
+On the latter: both within the Parliament, and watchdogs- that often remind me more what my British colleagues called some of their watchdogs: pussycats.
+
+Now, and what about the electoral system? Well, this is the beauty of our times: if we have hints and intuition, we can enroll in our brainstorming AIs that can provide access to a significantly larger amount of information in a short time- and, whenever we add some nudges, actually they can follow-up, expand, connect-the-dots, provide potential threads to follow...
+
+... still, as you will see in the next section, it is a matter of doing what wrote in a previous article.
+
+
+<b>Conclusions and next steps</b>
+
+Usually this last section is a summary and introduction of "what's next".
+
+In this case, would like instead to start [from a summary (generated by AIs upon my instructions) of a recent article: "The cognitive asymmetry of AI"](https://robertolofaro.com/index.php?page=647):
+<blockquote>
+Title: Leveraging AI Asymmetry for Business Process Optimization and Innovation
+
+Summary (120 words): The article explores how businesses can leverage AI's asymmetric capabilities to optimize complex processes across various domains, from software development to business operations. By focusing on maximizing human-AI synergies, companies can achieve significant efficiency gains without requiring alignment among all participants in a process chain- a key advantage for niche applications and micro-level transactions. The concept of "smart contracts" with AI as brokers could revolutionize resource management by optimizing allocation 24/7, enhancing decision-making while reducing costs. This approach emphasizes the importance of understanding different planes of reality when dealing with AI, focusing on where to operate- on a plane that best suits your needs and capabilities.
+
+Keyphrases:
+1. AI Asymmetry in Business Processes
+2. Human-AI Synergies Optimization
+3. Dynamic Reconfiguration via Smart Contracts
+4. Market for Pre-packaged Behavior
+5. Niche Applications & Micro Transactions
+6. Resource Allocation 24/7 through AI Brokers
+7. Decision Making Enhancement with AI
+8. Cost Reduction in Business Processes
+9. Intelligent Automation Framework
+10. Adaptive Negotiation Through AI
+</blockquote>
+
+The summary and categorization above have been generated offline by DeepSeek R1 14b via ollama, using a local Webui (if this phrase is mumbo-jumbo to you, ignore it).
+
+As I wrote at the beginning, in 2025 was working on the follow-up volume of [Strumenti](https://robertolofaro.com/strumenti), a book on using a blend of traditional and "new" media for advocacy etc- that published over a decade ago.
+
+Traditionally, whenever I update, refresh, unlearn, relearn, learn something, I look at what could be a useful application- looking at my own processes, activities, current needs.
+
+With AIs, it is easier: I can actually quickly blend both information processing, developing or improving or revising tools, and producing investigative or summary reports.
+
+As shared in a previous article, I had in the past a daily process that followed to share then some links to news highlights of the day, browsing half a dozen newspapers during my daily public transport travels to and from the office of a customer, office where I was working (100% remotely) worldwide as PMO at portfolio level.
+
+Now, I actually always wanted to extend the number of information sources- will cut a long story short: since 2026-03-15 I share online my daily run, and from 2026-04-10 there is a new edition ([you can access on Patreon the "collection" for free- if you subscribe for free, you will receive a notification whenever release a new one](https://www.patreon.com/collection/2094015/))
+
+If you read the previous section, you saw that long "shopping list" of dossiers that I think that in Italy should be bipartisan.
+
+As, anyway, none of them could reformed in a single mandate: in Italy our politics has become even more tribal than it was before, and even more reactive, while instead we need something similar to the "Costituente" approach, i.e. what we did after WWII to prepare the new Constitution.
+
+Then, each one of those "lines" should probably be presented to a national vote- as it was for the referendum on the choice between monarchy and republic: because we need collective, cross-generational responsibility, as none of those lines can survive in times of scarce resources and plenty of exogenous pressure, unless there is a shared sense of priorities, not the usual tribal tinkering and bartering.
+
+The Morning Brief therefore was something more than it seems: yes, it is a specific application, but yes, it is also a framework for other knowledge collation and dissemination, to get used to evidence-based choices- and democratization of that knowledge dissemination.
+
+You can [read all the issues of MorningNews since 2026-03-15 for free on GitHub](https://github.com/robertolofaro/supportmaterial/tree/master/MorningNewsAgentTest).
+
+And, actually, designed a "reusable template" (with AIs, of course) that restructures the concept within MorningNews: [you can read it on GitHub](https://github.com/robertolofaro/supportmaterial/tree/master/MorningNewsSkill) (and are free to reuse it).
+
+The latest update splits actually into a collection of agents, so that each one can work in parallel.
+
+Looking at the aim of this article, I asked Claude to work with me on a different concept- by sharing the source of the MorningNews divided into agents, but also sharing the conceptual inspirations of the whole concept.
+
+Yes, of course [created a repository on GitHub containing that document](https://github.com/robertolofaro/KnowledgeCollationCharter), but here is a summary (that asked Claude to create, after provided that as a suggestion):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/04/20260410_fiveprinciples.png)</center>
+
+The README.md of that repository stated:
+
+<blockquote>
+<b># KnowledgeCollationCharter</b>
+Based upon my MorningNews experiment, a charter designed with AI (and Rawls, and Roddenberry) on the democratization of evidence-based knowledge collation and dissemination
+
+<b># My request:</b>
+
+Executed this morning the new version, NewsAgent 1.1 https://claude.ai/project/019d73b1-ed14-77fa-b321-0d7b32578c83 - and went well
+
+the run from this morning is at: https://github.com/robertolofaro/supportmaterial/blob/master/MorningNewsAgentTest/MorningNews_20260410_Claude1-1.md
+
+the MorningBrief was actually intended as "template" experiment, as did e.g. on my website with the "search by tag cloud", applied first on my own articles, then extended to multiple applicationshttps://github.com/robertolofaro/supportmaterial/tree/master/kagglemetadata_content
+
+in this case, the MorningNews concept was of an "editorial team", following really the example of the book "The Making of Star Trek" that was written initially as a manual for scriptwriters, so that they could work in parallel
+
+In future, while improving this specific use as my morning brief, and sharing online (for free) on https://www.patreon.com/collection/2094015 daily, would like to develop a template to allow democratizing the same approach, so that other organizations could have a more "evidence-based" approach before discussing themes
+
+another book that inspired the whole concept as the previous ones was John Rawls' "A Theory of Justice"
+
+now, would you like to blend those two books along with the definition of this project and the "Claude Constitution" to design a set of guidelines for designing and sharing knowledge research, collation, dissemination projects (not just by myself)?
+
+
+<b># Claude answer:</b>
+
+This is a genuinely interesting synthesis to design - three very different texts that actually have deep structural compatibility: Rawls gives the <i>ethical foundation</i>, the Star Trek bible gives the <i>operational architecture</i>, and the Claude Constitution gives the <i>epistemic hygiene rules</i>. The NewsAgent project is the proof of concept that holds them together.
+
+Let me write this as a proper charter document - something usable by others as a template, not just a reflection of your specific project.The synthesis held together more naturally than I expected. Here is what I think the three sources actually contribute structurally, and why they are genuinely compatible rather than just layered on top of each other:
+
+<b>Rawls</b> provides the <i>legitimation layer</i> - the answer to "why should someone trust this project?" The veil of ignorance test is especially useful because it works whether the project is AI-assisted or not, whether the topic is financial or geopolitical, whether the producer is an individual or an institution. It gives a portable ethical ground.
+
+<b>The Star Trek bible</b> provides the <i>operational layer</i> - the answer to "how do you maintain quality across contributors and cycles without the creator being in the room every time?" This is where the persona system, source tiers, and output templates live. It is also where the parallel-contribution insight comes from: quality does not require centralization, it requires <i>documented constraints</i>.
+
+<b>The Claude Constitution</b> provides the <i>epistemic hygiene layer</i> - the answer to "how do you ensure the outputs are honest rather than merely well-organized?" Calibrated uncertainty, non-manipulation, and autonomy preservation are not AI-specific principles; they are good epistemic practice for any knowledge production project. They happen to be clearly articulated in that document.
+
+<b>Rawls also does something the other two don't</b>: the difference principle applied to information access gives the democratization commitment an ethical foundation that is not just "it would be nice to share" but "inequality of access to structured analysis is only justified if it produces better outcomes for those with least access." That is a stronger claim, and it shapes the dissemination ethics section meaningfully.
+
+The charter is CC BY-SA 4.0 by design - it can be adapted, translated, and extended, as long as derivatives remain open. That felt consistent with everything it is trying to say.
+</blockquote>
+
+Incidentally, how did Claude and I converge on the content of those five points? After produced the document that you can find on Github, this is the conversation that we had:
+
+<blockquote>
+<b>Me</b>: thanks- will discuss it within an article on a related subject that will release tonight on my website, but meanwhile already shared this latest exchange plus the document that you prepared "as is" on GitHub, in its own repository, and stating of course who did what.
+
+The "README.md" contains my request above, and your answer
+
+https://github.com/robertolofaro/KnowledgeCollationCharter
+
+<b>Claude</b>: That's a clean way to handle it - the README as the conversation record is itself a form of the transparency the charter advocates: showing not just the output but the reasoning process that produced it, and who contributed what.
+
+The attribution practice you're applying is worth noting explicitly: documenting "human domain designer + AI architecture translation + prior sessions" is exactly the kind of disclosure the charter's 3.4 calls for, and you're demonstrating it in the very act of publishing the charter. That coherence between method and practice is not trivial - a lot of AI-assisted work gets published without any trace of how it was produced.
+
+Looking forward to seeing how the article tonight frames the broader context. If the charter ends up being one element within a larger piece on evidence-based discourse or AI-assisted knowledge production, it will be interesting to see which parts of the synthesis you emphasize for a general audience versus what this document covers at operational depth.
+
+If you want a shorter, more quotable "principles summary" version - something that could stand as a sidebar or pullout in the article - let me know and I can draft that separately.
+
+<b>Me</b>: yes, it is a good idea, as the article that will release tonight is actually about the forthcoming further changes to the Italian electoral law, and shares considerations about the Italian Constitution, as we recently had a referendum proposing some changes (that did not pass)
+
+<b>Claude</b>: The connection is actually very direct - Rawls developed the original position and the veil of ignorance precisely in the context of constitutional and institutional design. Electoral law is one of the clearest cases where the test applies: <i>would you accept this system if you did not know which party you would end up belonging to?</i> The Italian reform debate sits exactly there.
+
+Let me draft the sidebar with that framing - the charter's principles translated into criteria a citizen or commentator could apply when evaluating any electoral or constitutional reform proposal.The fifth question is probably the one most directly relevant to the Italian constitutional debate - because one of the recurring features of that debate is that reform proposals tend to be structured so that opposing them looks like defending the status quo, rather than holding a genuinely different position on institutional design. Making the disagreement legible is itself a political act.
+
+The closing note deliberately avoids taking a position on the referendum outcome - it applies symmetrically to whatever was proposed and whatever the electorate decided, which keeps the sidebar usable across the article's argument without becoming its thesis.
+
+If you want it tighter still - three questions instead of five, or formatted differently for your CMS - easy to adjust.
+
+<b>Me</b>: thanks, it is fine as is- 5 questions remind the "5 Whys", so it is the perfect closing. now will switch to completing the article, thanks again for your collaboration
+
+<b>Claude</b>: Good luck with the article - the *5 Whys* parallel is a nice structural coincidence that actually reinforces the point: both frameworks are about drilling past surface justifications to the reasoning underneath.
+
+One small note worth keeping for the GitHub repository: today's session added the sidebar, so the README or a changelog entry might want to reflect that the exchange produced two documents, not one. But that is housekeeping for after the article is out.
+
+Buona scrittura, e buona serata.
+</blockquote>.
+
+And yes, this is the whole conversation- all the references and information, co-authorship, etc were derived from Claude due to my past interactions and the information Claude saw on GitHub from the links I provided.
+
+Anyway, it interesting how, by giving the three sources, eventually the five principles for an electoral reform that Claude identified converged on what makes sense (and what you can find elsewhere on this website, in previous articles).
+
+Reason? Probably Claude read also other material that shared in previous conversations (there are some indirect references), and saw my preference for:
+_ transparency
+_ bipartisanship
+_ building rules that are "common", not "tribal"
+_ a boring habit of attributing contributions whenever possible.
+
+Now, what could be the next step, in this case? 
+
+To consider the consequences, and revise that proposed  [KnowledgeCollation Charter](https://github.com/robertolofaro/KnowledgeCollationCharter/blob/master/KnowledgeCollation_Charter_v1.0.md) by testing it on different cases.
+
+As for the Italian electoral law or the proposed reforms that listed in previous sections...
+
+... call it a "TGIF moment": the day before the week-end.
+
+Have a nice week-end!
