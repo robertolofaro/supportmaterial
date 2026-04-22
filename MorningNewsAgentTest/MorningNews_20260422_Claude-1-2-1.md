@@ -1,11 +1,3 @@
-**PHASE 0 complete** — Run date: 22 April 2026 · 21:16 CET
-
-Now executing Phase 1 (direct fetch) and Phase 2 (search) in parallel.
-
-Now running Phase 2 searches in parallel:
-
-I now have sufficient data for all sections. Compiling the full brief.
-
 ---
 
 ```yaml
