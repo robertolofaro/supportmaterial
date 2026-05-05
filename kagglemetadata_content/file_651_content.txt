@@ -1,0 +1,282 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260505_article-1.png)</center>
+
+This article is within the [Organizational support](https://robertolofaro.com/index.php?section=organizational-support) series.
+
+If you previously read other articles on this website, you know that I do not just preach "continuous learning"- I walk the talk.
+
+Which actually is a reason why I worked in multiple industries, multiple domains, multiple technologies and also multiple (human) languages- to say nothing about the roles.
+
+As I keep repeating, you need to have "verticals" you focus on and nurture, and then blend with people who have the specific vertical(s) needed for each activity.
+
+It is curious how, as we increase the complexity of our society to the point of inflection where technology is being perceived as magic (yes- I am blending Arthur Clarke and AI)...
+
+... we seem constantly focusing on oversimplifying: one person, one leader, one voice (and here I am blending Grete de Francesco's book on the "Charlatan" with Peter Gabriel's song about the Milgram experiments).
+
+Yes, I did all those quoting without links on purpose: to give you a taste of what happens when you interact with somebody that has a complex and yet different cultural background.
+
+Now, imagine interacting with somebody/something that embeds most of the human knowledge- but has no real "verticals" to connect those dots: just a collection of dots that get connected by patterns.
+
+Interacting and communicating seems simple, but has to consider the difference- but wrote previous articles (and mini-books) about that.
+
+Now, on Linkedin, it seems that everybody is an AI expert: and start listing "technicalities" (including those that write about but never used).
+
+Actually, I do not claim to be one- as I was not claiming to be a Decision Support System models expert when, in the late 1980s, my employer sent me at least once a day in a different project or customer site, to review, advise, support sales, carry out solution engineering, and, in some cases, work on POC or even design and deliver models working directly with the customers' management.
+
+Yes, current AI is different from those old models, or even my PROLOG toying in the 1980s and 1990s, but, again, explained the difference vs. our current "trendy" AI in previous articles.
+
+Considering the section where this article is positioned, what matters is something else: how this technology is (and will be) entering business environments.
+
+Why now? Over the last few months, gradually integrated within my processes different elements of "ancient" and "modern" AI (waiting for post-modern, future paradigms).
+
+In this article, will focus specifically on the iterations relating to a process: getting articles, and "feeding" the "search by cluster".
+
+The key risk? In business environments, you budget availability will often risk becoming the cost of building your resistance to change to the introduction of AI.
+
+Whenever there is a new technology, since the 1980s I saw plenty of "pushing" leveraging on the "fear of missing out"- do what is trendy because it is trendy as otherwise you will be considered not aligned with time.
+
+So, budgets get allocated and spent more on faith than trust- and I see too many "replicant" projects that sound as copies of the exercises in DeepLearning courses or even of YouTube videos about AI experiments.
+
+Instead of grandiose schemes that rely on using a tool or paradigm across the board, in my view and experience of corporate environments small, large, multinational...
+
+... the difference with this technology is that what matters is really [building up awareness and then give the option to integrate AI](https://robertolofaro.com/index.php?page=646) by having processes redesigned by those who live those processes, of course after [delivering training where matters](https://robertolofaro.com/index.php?page=607).
+
+Anyway, while this article is focused on an applied example, future articles, as past ones, will discuss instead the "concepts" and "frameworks" needed at the organizational level to make the approach not just work, but also be sustainable in organizational terms- long-term.
+
+This technology will keep evolving, probably past the point we consider right now the matter of science-fiction: so, our organizational structures, too, will need to evolve.
+
+After this long introduction, a long list of short sections, each one leveraging on the previous one.
+
+The table of contents:
+_ THEME 1: Lessons from the past
+_ THEME 2: Harmonization before consolidation
+_ THEME 3: Experimenting impacts before committing resources
+_ THEME 4: AI landscape evolution
+_ THEME 5: Two processes and one approach
+
+I hope that you will find the material in this article useful and reusable (also if you do not use AI for now).
+
+
+<b>THEME 1: Lessons from the past</b>
+
+The first lesson that you learn when you work as a consultant on business number crunching in a multinational or complex organization diffused on a territory is that those that design and "evolve" processes are usually at the headquarters, not in peripheral offices- and have a mindset aligned with the structures where they are used to work.
+
+If you have scattered offices across territories, there is limited chance that each "unit" will have exactly the same size, structure, volume of transactions, infrastructure, and, of course, staff.
+
+Even shops that start with copycat shops scattered around, adapt then to the local market conditions: few would turn down business just to retain the identical size, the "interchangeable cog in the same wheel" attitude.
+
+So, there is an organizational conundrum, further expanded if you grow by acquisition (and therefore import and integrate other organizational cultures, histories, structures).
+
+As shared in previous articles discussing e.g. rules that saw since the 1990s originating in Brussels to be applied across the whole of the European Union, often the capabilities available to the designers (e.g. experts) generate a consensus that would require a similar (albeit maybe with less depth) mix in, for example, local authorities.
+
+Italy is a country that used to have more than 8,000 towns each with a Mayor and each expected to provide the same services to all the citizens.
+
+Now, smaller villages cannot even afford full-time staff, and routinely, for "technical" roles, was told of "fractional staff", shared between different locations.
+
+Shifting back to the corporate world, if you have a market presence in a country where e.g. you do not have manufacturing facilities, and adopt a country-by-country organization, you will have further differentiation- albeit each country will be required to report at the country level, some "schedules" will not be applicable.
+
+So, while defining management reporting, KPIs, and controlling systems, and also new or revised processes and systems, you should consider the different level of resources available, and look at what is the purpose of that reporting, those KPIs, all that controlling.
+
+
+<b>THEME 2: Harmonization before consolidation</b>
+
+Working across different industries since the 1980s was useful to see how some issues were common- notably the "organizational design done at the top without involving the bottom", organizational design that often then seeds all the number crunching (and associated systems) discussed in the previous section.
+
+If you have companies with 50 FTEs and 500 FTEs or more in your organization, but all the above is designed by the 5000+ FTEs central organization, the slicing and dicing of data to report and enable control, coordination, etc could generate a bureaucracy focused on crossing the Ts and dotting the Is, assuming that there is a certain amount of resources dedicated to those activities.
+
+In missions in the late 1980s, and the across 1990s, 2000s, 2010s, routinely saw actually what was workable was to design based on purpose, not just bean counting.
+
+Designing by purpose allow then to identify the actual scalability and granularity, and deliver harmonization.
+
+Because, that you have a unit with 50, 500, 5000 FTEs, there are some common elements that requires following to have the "pulse" and spot trends.
+
+In more structured units, there could be additional sub-elements contributing to those elements- still, whatever is contributed, should have a clear lineage, value delivered, and, preferably, should be a side-effect of operations, not generated on purpose by applying some "transformation"- as the latter would expose to the risk of manipulation.
+
+As an example: if you have sales managers whose bonus is linked to sales, not to actual billable, they could sell what is not possible to deliver.
+
+And if you ask them for a budget that would identify the threshold for their bonus, you would risk a lower budget- which could be compounded by other issues if that bonus is detached from actual sales that exceed the budget ("capped" on target earnings).
+
+To stay on sales, if you ask an annual expected sales figure from each region, product, etc, you would get that number.
+
+But then, of course you would like to assess monthly- and therefore you would ask a monthly figure for expected sales.
+
+Now, unless you provide shared guidelines on how to spread across the year the budget (e.g. linked to specific seasonality for the product, or purchasing cycles for specific industries), you risk to have more experienced sales manager provide a figure that aligns with historical sales, and junior ones that would simply divide the annual figure by twelve.
+
+To keep this section short, I invite you to read previous articles and mini-books (e.g. [#relevantdata](https://robertolofaro.com/relevantdata), published a decade ago), for more details.
+
+I hope that the concept is anyway clear: if you want to identify "clusters" across a complex organization, or across material that might have completely different structural characteristics, you need to harmonize before you consolidate- otherwise, you get apple with pears and oranges, and the result is a fruit salad.
+
+
+<b>THEME 3: Experimenting impacts before committing resources</b>
+
+If you read previous articles and mini-books that shared about integrating humans and AIs, you will see that used different online and offline AIs.
+
+The concept is: test drive.
+
+In the 1980s, when I was on the selling side of business software, often we won negotiations because our competitors played the "featuritis", i.e. piled up bells and whistles, and tried to convince customers to use that as the benchmark to be measured against.
+
+My approach, in the 1980s as well as until late-2000s (thereafter did not work directly for software sellers), was to focus on the business needs and business value.
+
+Which implies: you need to understand your audience and their business motivation.
+
+Actually, the higher you go within an organization, the higher the need also to understand management's motivation- which implies also knowing the organizational culture.
+
+In my AI experiments, so far I paid for training, for hardware on which I installed local models or tested concepts, but I am still within an "extended software selection initiative" on cloud-based AIs.
+
+Reason? As will discuss better in the next section (but you can see plenty of posts that shared on Linkedin on service and software pricing/positioning), from a commercial standpoint, despite its size and investments by VCs and others, the AI platforms market is not yet commercially mature.
+
+All the gimmickry about "A investing in B in exchange of B promising to buy services almost on the same size from A" is something that in real open markets frankly should be forbidden (I declined the "offer", on a really small scale, when given two decades ago), and I think should be covered by SOX- as distorts the value and revenue of companies that are listed or about to be listed on the market.
+
+Anyway, playing on promises is common between startups and for new initiatives- hence, it is more than tolerated, also if way too many forget to call it what it is.
+
+So, I tested and test routinely multiple models and, as you can see in later sections, I also split iterations (to stabilize a version) and increments (basically, new versions), as well as "audit" and "check" roles across time and across models.
+
+There are two key reasons:
+_ avoid committing before seeing a continuity in features (if each update destroys the pipelines, it is akin to switch model)
+_ avoid lock-in (if what you prepare is bolted within a specific platform and cannot transfer it elsewhere.
+
+Anyway, since late 2025, there has been an interesting evolution, worth discussing in a section.
+
+
+<b>THEME 4: AI landscape evolution</b>
+
+As I wrote in the previous section, the key concept of my experiments is to redesign processes and use them instead of the existing ones.
+
+First, it starts with a replication, to assess the potential time and resources savings.
+
+Then, a process redesign "capped" at the time and resources that used for the old process, to see if those savings are real.
+
+Then, further increments to extract more value from the technology, but always within the confines of the business purposes- technology is the engine, not the driver.
+
+Since late 2024, expanded my Linkedin profile to have more information about domain-specific evolution of the AI landscape (e.g. health, legal, smart cities), as well as technological and commercial trends.
+
+Using online just the free tier of AIs since 2018, the idea was to identify which platform eventually to subscribe to, and which platform(s) could be useful to subscribe on a month-by-month basis for specific projects: hence, if you were to read all my cloud-based AI logs, you would find it confusing, as I seem to have multiple threads, connect some of them,or even spawn others.
+
+Which is actually the purpose.
+
+I must say: also my AI industry connections routinely complained, with increasing frequence, how their (paid) quota was increasingly consumed by the inefficiency of interaction processes.
+
+And it is true that, for example, using the same process (e.g. my [MorningNews](https://www.patreon.com/collection/2094015?view=expanded) since mid-March 2026), I saw how recently the same activity consumed more and more "tokens".
+
+The same applied with other AI platforms, that, when you ask a structured question similar to previous ones, now stretch answering in half a dozen or more "question rounds" instead of asking in a couple of rounds what they need.
+
+Some of the online AI platforms are basically wrappers- and, on that too, will not repeat here what I wrote in posts that you can read on my Linkedin profile.
+
+The key concept is what [shared online](https://www.linkedin.com/posts/robertolofaro_harvey-just-raised-at-11b-then-killed-its-activity-7456286675304939520-9g-3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg):
+<em>there is another point worth considering
+
+a benchmark is anyway a focused assessment
+
+if somebody creates a domain-specific and its associated benchmark, it is reasonable that it takes months using a new frontier model (and the compute capabilities accessible to those producing it) to do something akin to:
+_ assess your status vs. the benchmark
+_ design and present a mix of cases to elicit answers
+_ use the latter for another round
+_ then get your inputs and outputs and give them as examples of expected behavior, and identify new patterns to add
+_ then, have an assessment to confirm improvement
+
+if it is a service delivery, it takes time to buid all the organizational culture and associated patterns
+
+if it is just an outsourced service giving an input and receiving an output, your lifespan is the time needed to the something akin to the above
+
+which, incidentally, is also what saw happen since the 1980s in consulting: small niche focused tech seeing Big8, then Big4 developing at a scale what they were delivering
+
+I remember a small company (I will not say who where what) over a decade ago proudly stating that their 5 people team of specialists had as many as one of the Big4- forgetting that the latter used those 5 to "seed" a practice with the usual levels of knowledge and processes to generate billable on a scale that those 5 would not be able to and with a structure"</em>
+
+Or: it is an open question how many online AI companies will have such differentiating factors, as neither their structure nor their organizational culture are service-oriented.
+
+There are also other social and technological issues, but, again wrote about that previously.
+
+So, time to shift to the specific case.
+
+
+<b>THEME 5: Two processes and one approach</b>
+
+I hope that you read the previous sections- as those section actually provide the conceptual information needed to understand the framework used in this section, as well as the potential of the case study that it represents.
+
+The two processes were actually first to optimize my local AI stack:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260505_gantt_consolidation.png)</center>
+
+And to add a search by cluster base on the "understanding" of the content of articles:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260505_gantt_implementation.png)</center>
+
+Yes, the timeline is overlapping- but this is common with my AI experiments, as I wrote in the previous section.
+
+I wrote within the two Gantt charts which cloud platform used when, but almost always omitted:
+_ the concept and design phase
+_ the use of local models.
+
+The use of the latter was also to tune the timing should use the new AI stack or search by cluster on information that cannot be shared with cloud based AIs.
+
+As shared in previous articles: read the terms and conditions of whatever AI cloud platform (also via smartphones) you want to use- privacy is available only for some, also if you think that by paying a monthly fee (the "pro" tier) you get it, it is not what you would consider "normal".
+
+The AI stack consolidation implied arriving at a simpler architecture, focused on covering three needs:
+_ offline for batch processing, with and without GPU
+_ offline with a web interface, able also to go online 
+_ online but integrated with the offline elements
+
+I will not discuss the details (maybe will share materials in the future), and I will instead discuss the "search by cluster" component.
+
+The idea started simply as an evolution of the current [search by tag cloud](https://robertolofaro.com/search.php) that activated since 2019.
+
+Or: instead of individual words, finding way to identify share concepts, and aggregate articles around concepts- without altering the user interface of the website, just another way to access the material.
+
+The first preliminary activity in 2025 was to study and aggregate articles in different ways, to identify the "clusters" that would make sense, considering not just the current material, but also the forthcoming, planned, and foreseeable publications.
+
+A key requirement is to ensure a degree of continuity, allowing to add articles without redoing everything.
+
+Below is a step-by-step description of the journey followed.
+
+So, identified few "clusters" I would like to connect articles to; moreover, considering that my articles ranged from 500 words to over 11k words, it was a prime candidate for that "harmonization" that discussed above.
+
+Otherwise, longer articles, or shorter yet more focused ("dense") articles could influence the balance.
+
+And how did I harmonize? Tried different ways, but eventually settled on having a short summary generated by an LLM, along with a list the 10-20 key concepts discussed within each article.
+
+If you consider 500 words as the bottom word count, yo could probably think that extracting a meaningful summary and key concepts list is not feasible.
+
+Well, let's say that it took a while to get the right balance that also survived different models (because, online as offline, did not want to be "locked-in" a specific model).
+
+Now, once I had identified the clusters and defined how to get that "card" for each article, had to generate all the cards, and have that feasible incrementally.
+
+So far, just input preparation and harmonization: the next step was to process those "cards" to see:
+_ which article was to be associated with which cluster as its main cluster
+_ then, for each article, which cluster(s) would be additional dimensions
+_ then, for each article and across all the articles, which themes were represented
+_ then, generate various summary tables, including the one used to feed the search by cluster online.
+
+As you can see, each one of those steps was a candidate for various techniques.
+
+First, started with just embedding and "pattern matching", and did few iterations around that concept (went up to v21).
+
+Then, tried to expand the LLM use, to see if quality improved: execution time (notably offline) did, but quality, frankly, did not- also when, instead of using the "cards", added back the whole article.
+
+Reason? Each article was seen as its own context, and could not (considering the number of themes covered by my articles) create a shared context.
+
+Some LLMs tried to create a "system prompt" that represented all the 350 articles: imagine few hundred words representing 1.7mln words, and trying to be comprehensive.
+
+The proposals sounded as the old joke by I think Groucho Marx (or Woody Allen) about speed reading: I used it for War and Peace, and it is about Russia.
+
+Disclosure: I learned, used, and use speed reading whenever relevant- but not when it does not.
+
+So, back to the drawing board: where did LLM deliver value?
+1. in the "harmonization" phase (summarization and extracting article-by-article key concepts)
+2. not in the classification part (as the need is for deterministic association)
+3. not in the themes identification part (albeit this could evolve)
+4. not in the themes building part (it can be solved by traditional Python).
+
+For the classification and themes identification part, used simply embeddings using sentence-transformers model (all-mpnet-base-v2), but tested a dozen of different models before settling on this one and its multilingual sibling), and "traditional" scikit-learn, while the themes building part is actually just plain Python, once the themes are identified across the corpus, and incremented for each article.
+
+Tried also with Spacy, but got better results with the (small) mpnet model, for my content.
+
+As for proper LLMs: offline, eventually Qwen3.5-4b was useful for offline uses with a decent response time and acceptable quality, but again tested many, while online for summarization used Kimi, as it is one of those that follows better structured requests. 
+
+There is an obvious architectural choice:
+_ to ensure continuity, the "clusters" would be held steady at least on a yearly basis
+_ to enable alignment to evolution within the content, a possibility to rebuild the whole on demand.
+
+For now, just the clusters are visible online, as the themes are just useful for my other publication activities (more about this in future articles).
+
+The integration with the website of the search by cluster is currently limited to producing a list of articles based on the parameters selection, with links to the actual articles.
+
+Anyway, as it happened with the search by tag cloud in 2018-2019, after few further months of testing (and, probably few more versions), the same concept will be expanded also to other content-heavy areas of my website (e.g. datasets currently on Kaggle, the search engines for ECB speeches and the AI Ethics Primer, etc).
