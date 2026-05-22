@@ -25,4 +25,3 @@ The articles identify critical structural issues in Italy regarding cultural and
 - **"Grass Filings" (Fili d'erba)**: Initiatives often start small but require continuous support and integration into broader systems; without this continuity, they fail at scale.
 
 - **Political Industrialization**: Political decisions are treated as isolated events rather than part of a larger industrial or economic strategy, leading to fragmented implementation efforts.
-- 
