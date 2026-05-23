@@ -1,0 +1,845 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260523_article.png)</center>
+
+This article is within the [EU, Italy, Turin](https://robertolofaro.com/index.php?section=diritto-di-voto) series.
+
+Actually, the title of this article derives from what I have chosen as one of the two proposed questions on the [articles chatbot](https://huggingface.co/spaces/robertolofaro/articles) that released this week: "the potential of Italy".
+
+That chatbot is an AI model reading my material and producing outlines out of that- you can ask questions to both [a dozen of my mini-books on change](https://huggingface.co/spaces/robertolofaro/books), and [350+ articles](https://huggingface.co/spaces/robertolofaro/articles).
+
+You can also download one or both models, if you prefer to integrate with your own material.
+
+The idea is to save my time and save your time- but will discuss it in the first section of this article.
+
+The added bonus? The models and applications will be available permanently, also if I were again to have incompatibilities that would not allow to add further material.
+
+Somebody in Italy and elsewhere (at least nominally elsewhere) already said that shifting everything that is "crystallized" into CC-BY-SA-4.0 accessible to everybody online means undermining your own assets.
+
+Personally, I think that the commentary confirms that many still do not get which direction our times are heading into.
+
+Those who assume that consulting was, as I saw in the 1990s, converting books by Porter into Powerpoint slides mildly disguised, calling that a methodology, and deliver services following that approach, are in for a significant cutting down of their revenue streams.
+
+What will make the difference in the future is not the ability to "recycle" material- for that, our current AIs that are pattern-based and mainly probabilistic are better and more structured than any human will ever be- also if they work by compute, not billable hours.
+
+The difference will be in being able to choose which dots to connect from a collection that is not anymore limited to your own organizational (or individual) experience memory, and integrate with what is specific in a new environment- and then, evolve and adapt continuously.
+
+Yes, this time will focus mainly on Italy, with limited references to the EU and Turin (on the latter, you can read the previous article on [Rethinking talent lifecycle: a visual storytelling using Turin as a case study](https://robertolofaro.com/index.php?page=652), that released two weeks ago and already has been read more than 3,000 times).
+
+Aim: probably the title says it all.
+
+In Italy, business is politics and politics is business- hence, in this article will have to necessarily discuss both.
+
+Again, will use a "visual storytelling approach"- sharing and connecting posts and news items that shared online over the last couple of weeks.
+
+In Italy, we issue laws and edicts with a frequency that only President Trump has been at last able to exceed.
+
+More than laws, we issue "edicts", i.e. something that is often at best half-baked, and ambiguous enough to enable many to each understand what they want.
+
+And when eventually is completed and finalized, if there will be disappointment by some at the actual "final version" integrated with implementation procedures, we can invoke the Italian tradition of selling tinkering as a success, not as a demonstration of the inability to prioritize and make choices, and failing to resist to tribal pressure when the need would be to prioritize the common good.
+
+We have a long-term experience in that legislative overdrive, and are better at pretending a degree of consistency and continuity than President Trump.
+
+So, nothing new so far- and will discuss in more detail within the sections of this article.
+
+Why now? Personally, I still do not see any reason to consider long-term permanence in Italy- as shared long ago, my country has a curious concept of what is "ordinary", and shifts to melodrama and obsessive-compulsive behavior whenever does a "faux pas".
+
+Too much melodrama, and too much resistance to change sold as continuity, while anyway trying to be considered "pivotal" in European and world affairs.
+
+Add on top of that inclination digital transformation, and you get not streamlining and acceleration, but dilution and procrastination where each "innovation" is useful to add new hoops to jump in, not removing the existing ones.
+
+When I lived in UK, a former banker colleague described the pre-digital era of bureaucracy in the private sector managing complaints as "sandbagging".
+
+In Italy, we have digital sandbagging used to remove accountability- as if insiders were singing a collective and continuous "time is on my side" as the official anthem, akin to the song within the 1998 movie with Denzel Washington ["Fallen"](https://www.imdb.com/title/tt0119099).
+
+A country that, as even the European Court of Human Rights reported in previous cases, when an organization makes mistakes, instead of learning a lesson, promptly fixing, and moving on, prefers to announce that made significant changes, while "gaslighting" anybody who documents failures to reform or mistakes, and way too often playing the legal and social side of "statute of limitations" to avoid having to upset tribal balances by actual selective intervention.
+
+It has a flip-side: those from outside the country that know this inclination, have used it against ourselves.
+
+As it has been in the past by many to pit tribe against tribe and use Italy to... increase the price to be attracted to invest elsewhere, e.g. by pretending to be considering doing investment in two different Italian regions, "tertium non datur"...
+
+... and then, use the results to actually improve the enticements offered by a third territory- outside Italy.
+
+Yes, the tribal element is overall the weakest element, as also affects the ability to seize opportunities.
+
+In Italy, we get lost in building Gordian knots to avoid accepting failure, learning, and moving on.
+
+As I shared in the past with foreign colleagues (and some confirmed from their own experience), often signing a contract in Italy is not the just the beginning of its execution- it is the beginning of renegotiation.
+
+Anyway, there is a (belated) silver lining: at last, recently heard quite often in webinars and also in-person events that in Italy we must learn to accept failure and then trying again, if we want to improve- as our tinkering approach is significantly slower than even the Japanese "ringisho", and generating decreasing returns.
+
+In the latter, the point is to achieve consensus/remove objections all the way up, so that, when it is time to implement, execution does not find roadblocks.
+
+In Italy, consensus often is a temporary lesser evil to avoid being singled out as a scapegoat for delays etc, and to allow buying time while waiting for a change in the balance of power.
+Still, I hold an Italian passport, and now as in 1983 (the last time that was part of the "backoffice" of a political campaign during national elections) I am more interested in the long-term sustainability and "structural health" of this tribal State.
+
+A State where lecturing about honesty, common good, change etc is a continuous election winner at least since 1983, when I was 18.
+
+Back then, we had had already almost a decade of signs that the "Cold War" forced stability (keeping the Democrazia Cristiana in the Government, and the Partito Comunista out, to paraphrase the famous quip about NATO) was not going to last.
+
+Personally, I still have the same bipartisan spirit that applied when, while living abroad but planning to return, in the early 2000s accepted a significant cut in my daily rate to work as part-time PM and BA on Government projects in Rome.
+
+Only to see how in Rome do the Roman way- was being "too American", as apparently everyone I talked with instead said that the game in supplying the State is inflating reported value and squeezing on costs, to maximize profits and ensure continuity.
+
+So, the reason for "why now" is because we have yet another round of potential electoral reforms, but for the first time with a Government whose leadership is a political party that never had that role since the founding of the (first- after WWII) Italian Republic.
+
+The key risk? 
+
+Italy is within the core of a perfect structural storm.
+
+We have three wars affecting us directly and indirectly.
+
+We are (again) applying or planning reforms but striving to keep everything in the old tribal balance (do not take at face value the melodrama of our political debates, look at what they do while in office).
+
+Soon there will be national elections and will have to choose a new President- as President's Napolitano second term (interrupted) was an exception but, due to a divided Parliament, also his successor, President Mattarella, was asked to stay on for a second term.
+
+Therefore, some of the political quarrels that you hear now are actually to shape the territory where the next national elections and selection of the President will occur (as, in Italy, the Italian President of the Republic is not directly elected by citizens).
+
+A further element to explain some of the continuous request for the current Government to resign: during the last six months of his mandate, the Italian President cannot invoke elections, and in case of inability the President of the Senate will cover his functions- which is one of the reasons while recently there have been continuous attacks also in that direction, asking for resignation.
+
+So, 2027 will be a pivotal year- but already this week-end there will be a relatively large electoral test in Italy, as [will be scattered around Italy](https://elezioni.interno.gov.it/risultati/20260524/comunali/votanti/primoturno/italia).
+
+The massive injection of funding that was the PNRR (part of the Recovery and Resilience Facility) is ending- and we will see the results, including covering maintenance of what was built at an accelerated pace, as will discuss within the article.
+
+And yes, we still have a massive national debt while the industrial base is contracting, but political parties are more focused on "who" will lead than "what" or "why" will lead for- will discuss later in this article (anyway, you can search for previous articles on this website).
+
+We just got another rating confirmation and even a "positive outlook" from yet another rating agency: fine for the re-financing of our debt, but what about the reality of our competitiveness?
+
+If you pull the plugs to all the equipment certainly you can save on the utilities bills- but it is doubtful that you will generate revenue streams...
+
+Moreover, we have a continuous piling up of constraints derived from the commitments taken nationally and at the European level by the last few governments (including the incumbent one), constraints negotiated out of our continuous quest to become "an ordinary nation".
+
+On that, add a business environment where the "gentrification" of organized crime is the only side of the national and local economy that keeps expanding at high speed since decades- again, will share recent information across the article.
+
+So, the "perfect storm" composed of local and imported elements that concur to the weakening of the social fabric.
+
+Anyway, using as an excuse the outlines of the previous pile of articles that my AI models released online allow to extract in few minutes, will show across the article, courtesy of posts that shared online, that there are still positive elements worth focusing on- and some of them are actually the flip-side of the structural weaknesses coin.
+
+The sections of this article:
+_ PROLOGUE: distilling past articles and books on change
+_ BACKGROUND: the structural political dimension of Italy
+_ THEME1: our own best enemy gets a technological upgrade
+_ THEME2: the cognitive dissonance of structural insiders
+_ THEME3: how I learned to stop worrying and thrive with chaos 
+_ THEME4: building the institutional commons
+_ THEME5: the structural facilitating side
+_ THEME6: quis custodiet ipsos custodes-lessons from audit
+_ conclusions and next steps.
+
+
+<b>PROLOGUE: distilling past articles and books on change</b>
+
+Everybody writes and talks about the business potential of AI, the dangers of AI, a new Renaissance, and whatever you can think about.
+
+Within the scope of this article, will not repeat what wrote in past articles and mini-books, and will try instead to be pragmatic.
+
+Hence, as I wrote above, I started releasing models to ask questions to my mini-books on change and articles without asking me.
+
+I know that many assume that this kind of application is nothing fancy, not "trendy" enough- but, frankly, I prefer to use AI agents to carry out tasks or collaborate on producing results, for now "delegation of authority" lacks an element that we build in human systems for any back-office activity.
+
+Or: backoffice activities have to be repeatable, predictable, traceable, and a with a clear line of accountability.
+
+Yes, I know that on the latter in Italy we did not wait for AI to make it fuzzy by splintering across multiple actors whenever convenient- still...
+
+... most of our current obsession with AIs doing all by themselves our bidding instead at best controls the first steps of the route, not all the way end-to-end.
+
+In the 2000s to early 2010s I was helping other companies and startups develop, with my [PartnershipIncubator.com](https://partnershipincubator.com) initiative.
+
+One of the first things I explained to any potential business partner when we started testing working together on any initiative: unbundling and layering interventions.
+
+It was the same thing that in previous years (the 1990s) had done for customers.
+
+The concept is simple: many small companies that are built by a team of experts have an issue- scalability.
+
+Because experts at best think that training and developing other experts is the way to grow, as their reference is having more of... themselves.
+
+Forgetting that the reason why they started as a small team was because it was often self-organized, and building an organization was not really their cup of tea.
+
+Instead, my concept was really simple: identify the "layers of knowledge", and anybody interacting outside the organization had to know her/his own layer, plus the "connecting points" to the next layer.
+
+It is akin to when somebody (I met many) has a fake "presentation speech", and delivers it in a single swoop: once done, there is no "depth".
+
+Instead, that "layer connecting below" is what allows to involve others if and when needed, but with continuity of communication.
+
+Nothing sci-fi: if you ever managed a "funnel", you know the drill- but I learned it from other disciplines long before started to work.
+
+The idea is that you use your scarce resources when they can be more effective, not on every "potential".
+
+Hence, also when prepared my [MorningNews](https://www.patreon.com/collection/2094015?view=expanded) as a more structured AI project (multiple agents acting as an editorial team assembling experts in each domain, plus a coordinator and others focused on data and brand), did the same.
+
+So, I ask few questions:
+_ Which subset can be focused?
+_ Which team member should cover what, without any need to have others working on that at the same time?
+_ How do you integrate it all and influence activities running in parallel based upon the feed-back of the first-past-the-post?
+_ Which team can actually, with a proper coordination role, deliver a systemic perspective?
+_ ...
+
+It is a matter not just of orchestration, but also of "casting" (as for a movie) the right people with the right role- and managed layers of activities.
+
+Then, the orchestration/facilitation can actually solve minor issues in unbalanced teams or impefect casting (you have to cope with the resources that you have- AI models included)- but I will not summarize here what you can find in any book on project management and team development.
+
+Anyway, the same applies, from my perspective, on AI models.
+
+Hence, while the raw material (the articles on this website) was the reference, how you integrate that material through a tool can make a difference- if you let the reference be the guideline, and whatever you add is within the "framework" started by that element?
+
+As an example, if you use the model about articles that you can download (look at the menu of the website on the left-hand side, or [visit here](https://huggingface.co/articles-model)), if you integrate the concepts above, you can get something like this:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_00_00_infographic.png)</center>
+
+If interested, you can get the source markdown [here](https://github.com/robertolofaro/supportmaterial/blob/master/20260521_example_Italy-potential.md).
+
+So, also a limited set of material such as my less than 2,000,000 words (counting just the articles), if properly connected and integrated, can produce something useful.
+
+The issue is: how often? And who coordinates, control, decides, and, more important, stops?
+
+We had the same issue with technology since forever- remember e.g. the ethical issues after WWII about using the results of Germany's "medical research" during WWII.
+
+So, it was to be expected that AI would become a focus also of ethical attention:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_00_01_pope.jpeg)</center>
+
+Anthropic is opening on May 28th its Italian office- and, within the AI industry and tech consulting, there is already a feeding frenzy about the potential impact on talent compensation.
+
+Personally, I will not even bother to look at their "jobs" section- if they follow the profiles used elsewhere, I am not the right candidate, as they have already other covering what I could contribute- not in the Italian market but, in this phase, probably will keep using the HQ to build the credibility of the branch, and only later will "clone" locally a tailored operation.
+
+My focus with AI is, beside my experiments and some potential products embedding AI in the future, is the same as it was in previous technological change waves since the 1980s.
+
+Or: redesigning processes with a cultural and organizational change perspective.
+
+On AI, it is what I have been working on since 2018, and specifically with intensity since the first COVID lockdown in 2020: having a foreseeable window of one-two months where you cannot do anything and cannot go anywhere can become an opportunity.
+
+As part of that thread, actually since started working again in Italy in 2012 attended multiple business and technology workshops, from 2020 mainly remotely or in Turin.
+
+Next week I am curious to see what will be discussed, and how, in Turin at some of the events of the FutureWeek:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_00_02_futureweek.png)</center>
+
+So, if you are in Turin next week, attending events, maybe we could have the chance to meet.
+
+Otherwise, stay tuned for more material online.
+
+Well, I presented above a potential results of the articles model that you can download, if you add some context.
+
+But the model "as is", if you ask about Italy's potential, is also able to extract blunter assessments summarizing those 350+ articles:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_00_03_a-view-on-italy.png)</center>
+
+And this is useful to introduce the next section.
+
+
+<b>BACKGROUND: the structural political dimension of Italy</b>
+
+In Italy, as wrote above, business is politics, and politics is business.
+
+And, actually, while we have formal "lobbying", it is the informal side, linked to our tribal dimension, that has longer-term influence and effects.
+
+Since at least the early 1990s, around the time of the "Mani Pulite" (clean hands) country-wide corruption scandal that at peak time affected almost 1/3 of the Italian Parliament, scandal that started with a tiny amount (1992-02-17, see [here](https://www.storicang.it/a/17-febbraio-1992-larresto-di-mario-chiesa-e-linizio-dellinchiesta-mani-pulite_17833)), Italy has been struggling to move from the old "two churches and satellites" multi-party, proportional voting State (the two churches being the Democrazia Cristiana and Partito Comunista), to something more "modern", and "promoting stability".
+
+You can read more data about that scandal [here](https://lespresso.it/c/attualita/2017/2/16/25-anni-di-mani-pulite-i-10-verbali-che-hanno-cambiato-litalia/9777).
+
+A curious detail: I remembered from previous readings that all started with a bribe of 20mil LIT (roughly 10k EUR), but actually at that linked article the first item remembered was worth 7mln LIT (i.e. 3.5k EUR)- and unleashed a scandal impacts to billions of EUR.
+
+The lesson that was learned back then was not to stop doing it, but to do it in a better way.
+
+As reminded back then, for a little time the costs in public works went down, and then spiked up again: instead of envelops containing cash ("bustarella") the 1990s and 2000s were quite creative in creating different ways to spread around.
+
+On the political side, we had a multiplication of political parties- until the focus (some would say obsession) became having in Italy something akin to the two-parties political system that all we Italians assumed was the UK system, with its ritual, when an elected Member switched side, to have to physically cross on the other side.
+
+Well, despite mimicking as much as possible a system to generate incentives for a"two blocks" Parliament, over the last few decades we had a routine of "splinter cell" political parties generated out of existing ones, and maybe merging again in a different way few years or even months later.
+
+I wrote in the past how at a time, due to a specific issue about funding, those political parties actually became dozens, e.g. because each political party was entitled to funding for a newspaper that could qualify as "official media".
+
+Since the founding of the Italian Republic after WWII, we made electoral reforms with a zeal and frequency that are quite uncommon in more "ordinary" countries.
+
+And this, frankly, confirms why all the reforms so far failed to achieve either objective: we are not more "structural" modern than we were, and we have an apparent stability, as only occasionally we had a government staying in office for anything close to the full term.
+
+I will ignore the point that the former, "becoming modern", is a sign of our national sense of being a second fiddle in global affairs while we feel "entitled" to a different role, not a program for reforms, [as discussed the point of our "Frankenlaws" approach](https://robertolofaro.com/search.php?tag=frankenlaws) in a number of previous articles.
+
+It is not just with AI models that "contextualizing" before announcing ("prompt") makes sense: but, again, wrote often how in society, politics, business "replicating" a "best practice" (or assumed best practice) ignoring its original context could actually generate monsters- as it always the case when reason is set aside and your start believing your own announces.
+
+If you ignore the context that made feasible and producing positive results a specific "best practice", you risk importing what could, in your own organizational culture, actually become detrimental.
+
+As for "promoting stability", it is a mantra- look at previous articles about reforms in Italy.
+
+Just looking at what happened since I was made to return work in Turin, Italy, in 2012, the number of attempted or discussed electoral and Constitution reforms is quite a sign of instability.
+
+Our instability (e.g. the habit of getting elected with a party or coalition, and then generating "splinter cell" mini-parties, with some of the elected Members of Parliament switching side multiple times in the same term) is really a sign that trying to enforce "stability" on a superficial level without generating the conditions to have it as an organic result does not produce results.
+
+And no, I am not advocating to alter the Italian Constitution to force elected Members to stay with the party that elected them: as our own political parties, even in recent years, flip-flopped political agenda and coalition members during the same term.
+
+So, if being elected is an expression of voters' confidence, should stay with the individual elected, not backroom deals.
+
+
+<b>THEME1: our own best enemy gets a technological upgrade</b>
+
+The title of this section comes from a book by Dixon, really about cognitive biases.
+
+You can actually read a joint review along with Axelrod's "The Evolution of Cooperation" (which actually concerns Italy) on [LibraryThing](https://www.librarything.com/work/47311/reviews/110907179) (yes, I have over 100 longer book reviews on this website, but have over 200 on LibraryThing- also if it has been a while since published new ones; this one is from 2014).
+
+And, whenever I write about Turin and Italy, "cognitive dissonance" appears often- e.g. what local consider as "anomaly" and "ordinary" is not really so almost anywhere I lived or worked abroad, and way too often is "self-referential".
+
+A bit like the obsession that I heard in Turin to deprecate from the stage the supposed "understatement sabaudo" of Turin- to which I usually replicate that:
+a) understatement is to be defined by the observer, not boasted about from the observed
+b) using that as a "fig leaf" to justify structural resistance to change is no solution to a continuous decline.
+
+While the "background" section had no visual elements, and was quite extensive, I think that it was needed to build the foundations for the article.
+
+There is a couple of books that read recently, one from Sabino Cassese, and one questioning the viability of democracy, specifically of a democracy with a "one head, one vote" approach.
+
+I counterbalanced the latter with another book questioning instead the concept of meritocracy, but I will let you explore both.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_02_01_books.png)</center>
+
+In reality, the book from Sabino Cassese discussed both themes: personally I would prefer that, of course with the contribution of legislative and ministerial staff, laws were voted and approved as a full package, not as a skeleton to be filled "for the boring details" by unelected Mandarins.
+
+Yes, this would slow the legislative process- but will avoid also having laws that become something else (or even never get completed with the implementation part) after leaving the Parliament- still, it is a matter of personal preference from somebody who is not part of the legislative process.
+
+And our accelerated yet often inconclusive recent legislative process in Italy is more attuned to current political marketing approaches: Italy too is a country of announces.
+
+As shared in various articles about the EU initiatives after COVID, such as the Recovery and Resilience Facility that in Italy generated the PNRR, in Italy we found ourselves asked to comply with processes that implied a different approach to administration.
+
+And, slightly one month before the due date (I will not discuss here grant vs loan, as it is not really that the point, as shared years ago), this is the status:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_02_02_pnrr.jpeg)</center>
+
+The "NextGenerationEU" and associated (and ensuing) measures were supposed to support recovery, but also resilience, i.e. generate future revenue streams, to support future generations.
+
+Looking just at Piedmont, the region where I was born and reside again since 2012 this is the map of the demographic risks:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_02_03_demography-piedmont.jpeg)</center>
+
+I wrote within the "background" section about a large corruption case that "exploded" in the 1990s.
+
+While over recent years the information that 10-11% of the Italian economy might be "informal" (which does not necessarily mean from criminal activities) started with business associations, eventually was presented by the Bank of Italy, and few days ago was discussed from the stage of an event about economy directly by the representative of the security force that in Italy covers generally financial and economic crimes:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_02_04_degennaro.png)</center>
+
+It is a matter of culture: even students, who receive a small amount to spend on books, culture, and related, did instead accept to extract cash by circumventing the rules courtesy of an e-commerce:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_02_05_inspiration.jpg)</center>
+
+Incidentally: the amount of the PNRR spread across few years was not too far from the amount of the annual turnover of the "informal" economy- but the PNRR is linked to missions, objectives, measures, etc.
+
+Of course, "investment" is not the same as "turnover".
+
+Now, it is interesting to look at the overall status across the EU:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_02_06_pnrr-leftover.png)</center>
+
+Obviously, the invasion of Ukraine and Gaza, and the attacks on Iran did not simplify the context- and actually pushed toward cocooning in what we already knew, a boost to our collective cognitive dissonance.
+
+
+<b>THEME2: the cognitive dissonance of structural insiders</b>
+
+Since 2022, when Russia invaded Ukraine, I wasn't the only one to reference repeatedly books such as "The March of Folly" or "The Sleepwalkers" or ["The Guns of August"](https://robertolofaro.com/index.php?page=315), and, obviously, Sun Tzu and the [36 Stratagems](https://leanpub.com/blendedAI01).
+
+Being kept outside my past activities has an advantage: I could work on other activities but seen from a perspective aligned to the roles that I had or supported in the past.
+
+Of course, it is not a complete exclusion: as was asked in Turin since 2012 but, frankly, also since the late 1990s across Italy, when first moved abroad, I am allowed (or requested) to do that unofficially and unpaid- for the tribal glory and potential.
+
+Well, if you do not belong to any tribe, a curious proposition.
+
+When you are in your 20s, it is common in Italy when you are outside tribes to work in that way for "future recognition" (no, not for the CV- as should not go on your CV).
+
+But when, as I was in 2012, in your late 40s, and keep being said around Italy for almost 15 years, it is shifting from annoying to frankly a joke.
+
+And I have to admit: since 2012, as documented repeatedly since 2018 when I was required to register for a digital certified email in Italy (PEC), beside keeping up-to-date my skills, Italy provided plenty of opportunities to study and assess processes, organizations, bureaucracies, and structural cognitive dissonance.
+
+Recently heard in many events how Italy (and, of course, Turin) invested a lot to attract talent- but still is not working.
+
+Well, shared in recent and not so recent articles [my assessment and perspective on Italy and talent](https://robertolofaro.com/search.php?tag=italy_talent)- you can read there. 
+
+A tribal country has a specific issue: there is no life outside the tribe, hence, one or more tribes, Italians have to continuously confirm their own allegiance.
+
+Does not matter who foots their bills or pays their salary- when the tribe calls, they answer.
+
+Collateral damage: change comes only through either a crisis or a mandate from the tribal leadership.
+
+If and when resources allow, it is safer to be quiet than to think about the impacts on the common, shared assets.
+
+Decay one step at a time is structurally acceptable in Italy- somebody else will sort it out.
+
+Or, as was told way too often in Italy in this century: if you solve an issue, then it becomes your problem.
+
+My preference instead was to elicit feed-back and commentary.
+
+To temper that tribal instinct, usually when asked by others to coordinate or facilitate teams, learned already in the late 1980s to ask those complaining not just to "report and share", but also to present options.
+
+Which actually implies, unless you are prey of cognitive dissonance between your abilities and reality, asking to enforce collaboration- even cross-tribe.
+
+You can imagine how often of course that consequence implied that many had a choice between being silent and sharing just complaints, but not solving.
+
+The old quip-on-a-desk of a USA President, "the buck stops here" would never be popular here: historically scapegoating is how you build careers, also if everybody praises "problem solvers".
+
+As shared in the 1990s with a project manager on an initiative where I was asked to be a facilitator, generally in large organizations when there are emerging issues, there are three layers of project management.
+
+What could summarize, from another perspective, in terms of mandate:
+_ the first one start into the unknown, and then gets stuck as the mandate is missing for the "real" need, not the stated initial purposes and stated initial assessment of the environment
+_ the second one is asked to solve, but in reality is making issues emerge and get documented- and ends up often being the scapegoat
+_ then, at last, the third one arrives, and is "the problem solver", courtesy of the work done by the second, and swiftly appointed hero by resolutely and in no time having solved whatever issues had been building up over time.
+
+So, in a tribal environment, the first and the last are generally associated with tribal structures, the second one instead has to be disposable, unless the tribe is large enough to have multiple cases where will be again called to play that role- if they need a specialist in "phase 2".
+
+Otherwise, you can be phase 1, phase 2, phase 3 in different assignments, if your organization is large enough.
+
+Yes, if you look at my [projectmanagement.com](https://projectmanagement.com/profile/aleph123) profile, you will see repeatedly the word "recovery" and its synonyms. 
+
+And, in Italy and abroad, those "recovery" activities were quite common for somebody working by word-of-mouth and with a cross-domain and multicultural experience (I was not the only one).
+
+With a difference: abroad, usually covered the second and third, and sometimes the first second third.
+
+In Italy, generally was asked to cover the second and third- but then, as soon as the second was done and also the preparation for third appeared to some to be done... you get it.
+
+A decade ago somebody called me "The Wolf" as in Quentin Tarantino's "Pulp Fiction"- well, I think that Harvey Keitel was more "cool" than I will ever be- and his invisibility was part of the role (and acknowledged and expected, not disguised).
+
+I lost count of how many times in the past since returning in Italy heard the concept of "riserva della Repubblica", meaning one of the many "The Wolf"- generally on the political or large business side.
+
+Well, the first time I was expecting somebody like a [Cincinnatus](https://en.wikipedia.org/wiki/Lucius_Quinctius_Cincinnatus): being called up, serving, and returning back to deliver what was delivering.
+
+Instead, in Italy I saw a different pattern: those "riserve" are actually closer to being "kept on ice" waiting for the right tribal opportunity to get on stage- to never leave it.
+
+Again, a tribal issue.
+
+If we, Italians, had a "sense of State" as was assuming when in the early 2000s worked in Rome, there would be plenty of opportunities to contribute across the board with competencies and expertise that are available across tribes, when needed.
+
+Instead, we have this unusual attitude of taking a "one trick pony", and then, as that is an entry point for a specific tribe, keep her or him in place, and even move up across.
+
+Yes, I have a few "tricks", as proved by my business past, but I too consider to be one that fits some roles and not others- and while I like to learn and experiment, routinely turned down opportunities where was asked to pretend that I was an expert in something I had just limited experience on.
+
+Net result? Our obsession for "great leaders" that are more "minor deities" than "human leaders".
+
+And, therefore, we get in Italy "leaders" whose focus is mainly continued confirmation of their own unique self-image.
+
+Corollary: and, of course, even if the Pope renounced the infallibility dogma, our "minor deities" are routinely presented as having delivered the social equivalent of miracles.
+
+Further corollary: cannot accept to have made mistakes, and some of their courtesans get promoted to the scapegoat role.
+
+This generates a further consequence: falling is never graceful, as there is no way to fade away and have a structured "phase-in" (the new one) and "phase-out" (the old one)- it is always a melodrama.
+
+Now, how does this cope with the dream of becoming an "ordinary country" by tinkering here and there with laws, electoral system etc?
+
+
+<b>THEME3: how I learned to stop worrying and thrive with chaos</b>
+
+What was Edward Murrow's famous quote? "No one man can terrorize a whole nation unless we are all his accomplices."
+
+And yes, the title is from the movie "Dr. Strangelove".
+
+Today in Italy we remember one of the many killings done by organized crime, specifically Judge Falcone, as it was a turning point.
+
+There is still much work to do, if news items that kept sharing on Facebook (and sometimes on Linkedin) since 2012 continue telling a story not just of corruption, conniving, but also of adopting behavioral patterns into the "ordinary", "formal" economy and society that derive from the "informal" (whatever its level of criminality) side.
+
+Along, of course, with the expansion of organized crime beyond mere money laundering, and into "investing" in connections and activities in the "legal" economy.
+
+Do not take my word for that: again, look at the news items that shared, including recently a new appointment that stated in her opening speech how uncomfortably close is the relationship between some businesses and parts of the organized crime.
+
+To shift from money laundering to investment in businesses and business development, in a country like Italy where many related professions require a license, you need "willing partners"- [the "grey area"](https://www.ansa.it/piemonte/notizie/2026/03/09/musti-nella-lotta-alla-ndrangheta-attenzione-alla-zona-grigia_afccd610-a350-4ed5-9764-81143ba3e64a.html), to paraphrase a recent movie with the former Superman ([In the Grey](https://www.imdb.com/title/tt27681354/)).
+
+What I call since decades the "gentrification of organized crime": as wrote long ago, "retirement" in that domain might mean having a caf&eacute; or a restaurant or other cash-processing business activities, and through that enter the economy, but increasingly also in manufacturing.
+
+As quoted often in the past, a President of the Council of Ministers, Giulio Andreotti, wrote a book with the title "governare con la crisi"- where he reported his political and ministerial experience since the provisional governments at the end of WWII, and will into the times up to early 1990s.
+
+There is an element worth considering: in Italy, with our "scapegoating" culture where failure is never temporary, rather than consider "sunk costs" and call a day something that was badly designed and badly managed, it is common to keep going on until is get simply "frozen forever"- and bullying your way into submission via tribal pressure.
+
+From decades ago, we had famous pictures of public works building roads and bridges that were started from both sides, but never met.
+
+And we had highways that had an official inauguration multiple times- always good before an election.
+
+Even perfectly rational tribes (the "Vulcanian" within the book criticizing democracy whose cover picture shared in a previous section) end up presenting the case from a tribal perspective as if it were a universal value and benefit.
+
+Obviously, the results of such presentation depend on the relative weight of the tribe at the time of delivery.
+
+It is anyway always entertaining to follow for a couple of legislatures Italian politics, as it is impressive how often some can show outrage and lecture also on what results from what they did while in office, or presenting options for when they would be in office, and then sideline, until are again in opposition.
+
+Then, there is another element: the "political inclination" (left, centre, right) of our political parties since the 1990 is somewhat fluid.
+
+The only constant is crises, better, cries about crises, as the latest one:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_04_01_60k-jobs.png)</center>
+
+As shared (in Italian, but you can see it on Linkedin and have it translated) few days ago, when the incumbent Italian Government celebrated its own time in office as the second longest since Italy became a Republic after WWII, I never voted for any of the political parties currently at the helm.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_04_02_government.png)</center>
+
+Still, I would prefer Government and opposition each covering their own role, and, on what has systemic and not political cycle impacts, consider the opportunity for collaboration when this does not imply supporting the opposing agenda.
+
+Instead, we end up duplicating efforts across, so that when the political balance changes, there are support structures that are aligned with the new "political vibe".
+
+There are few exceptions, but, frankly, there is little continuity of initiatives from a government to another, also when needed.
+
+Net result? 
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_04_03_fdi.png)</center>
+
+I will discuss automotive and banking in other articles, but you can read from newspapers what happens when Italian banks try to go abroad, and what happened after the various announces of relaunch of the Italian side of Stellantis.
+
+For now, the latest European announce was of a joint-venture to jointly use plants with yet another Chinese manufacturer- then followed by an announce that, after previously Spain with another company, now the choice was France, not Italy, for these new partners.
+
+After observing continuously since 2012, I do not think that it is an issue of either resources or capabilities, but of culture.
+
+And we even export it- as shared few days ago again with my foreign contacts on Facebook, many of them from my time in Brussels (hence, they remember):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_04_04_italian-antics.png)</center>
+
+Curious how my fellow Italians are so open and blatant also when abroad in their antics, showing for all to see what "ordinary" means in Italy- without considering how it is perceived elsewhere.
+
+There is more that shared in the past, even while still living in Brussels, along with the supporting material, but anyway that outline summarizes quite well.
+
+Hence, you can understand why, under that cultural perspective, sharing material online for free is considered a waste: "control" is what is often mistaken in Italy for "business development".
+
+And since 2012 in Turin, I lost count (again) of how many initiatives without funding and capabilities saw announced, and then, even while going around to procure funding outside the territory, presenting the "tremendous opportunity" with so many strings attached, including an assertion of control, while claiming that the aim was "collaborative", that you wonder why, after the first failure, the lesson was not learned.
+
+So, I stick to my approach:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_04_05_sharing-as-marketing.png)</center>
+
+Since around a decade I saw plenty of announces and events about "creating commons"- but apparently the concept is closer to licensing than creating commons.
+
+Personally, I think that if all you can do is just what your material selectively formalizing what you did (books, papers, reports), then you are a one-trick pony.
+
+I think instead that, again, the matter is "layering" disclosure.
+
+As I wrote previously in this article: if your value-added is that Powerpoint that you derived from a book from Michael Porter, then frankly an AI is faster and probably more consistent.
+
+If your value-added is in asking the right questions in each context to blend that in a way that delivers value and increases capabilities of the organization, then it is different.
+
+Hence, I think that more and more in the future will release more and more of what in the 1980s and 1990s would have been considered "proprietary".
+
+Anyway, the future of IPR and collaboration will be part of other articles.
+
+The key concept, and where Italy still can have some upsides, is a different one.
+
+
+<b>THEME4: building the institutional commons</b>
+
+I shared above and before about trhe tribal side.
+
+I shared in the past about the issue represented by the small size of companies- including plenty of data.
+
+And will keep doing so in the future.
+
+Yes, the obsession with tribal boundaries is a structural weakness, as implies that, in fast moving times, we cannot seize opportunities unless within our own tribe already somebody started on what is emerging a new technology, approach, potential business.
+
+When this happen, as you can see in many offers about AI from Italian companies, sometimes we produce something that is at best recycling what is already available, as obviously the aim is to jump on the bandwagon, not to invest and develop.
+
+To invest and develop, we need to have an acceptance of failure that is still outside our culture.
+
+The small size of our companies, if at last the few private larger companies and the State and local authorities in major towns (i.e. those with a budget) go beyond the tribal element, could instead enable doing what a country with more "structured" companies could do not.
+
+We can have multiple independent points of innovation that, having a potential safety new and acceptance that you can survive a failure to fight another day but with some lessons learned, could start anywhere whenever there is an opportunity, no matter how small.
+
+The State should anyway pay a role, directly or indirectly (as routinely the organization that basically manages postal saving accounts, [Cassa Depositi e Prestiti](https://www.cdp.it/sitointernet/it/cdp_chi_siamo.page), does) work on that side.
+
+Currently the tribal element of the Italian economy is also represented by the way funding is allocated: to companies.
+
+If we want to develop the potential of having many smaller companies potentially try, and if needed, fail, but still retain value, we cannot subsidize "zombie companies".
+
+Instead, that side of welfare should be on the individuals.
+
+A company willing to try and experiment could get the aggregate access based on the people covering those needs that it has, allocated on the people, not on the company.
+
+Welfare should shift to the individual and social level, to ensure that the pool of talents is maintained and replenished also after failures, and available for new initiatives.
+
+Instead, the small Italian companies still in knowledge-intensive industries seems oriented to "hire-to-retire", which generates a self-fulfilling prophecy of bandwagon and obsession, not of pulling the plug on revenue streams that live only out of State and other grants.
+
+I shared in the past how, when, while living in Brussels, attended workshops and seminars on the various elements of e-government (e-inclusion, e-health, e-participation), almost always was the only Italian.
+
+Once at last met an Italian company in one of those events, but one that I never heard of- while other countries sent people from larger, well-known companies.
+
+So, I asked them during a coffee break.
+
+The answer? De facto, their job was to be the "Italian side" in any EU-funded project or initiative they could find where there was a requirement to cover at least n countries.
+
+And they did just that.
+
+Over 20 years ago, when was supporting startups as at the time planned to return to Italy (it did not last long, after I watched what was "under the hood", and shifted to Brussels), I remember a colleague who was focused on supporting companies getting funding complaining that, instead of being asked "we had this initiative, what can we get", most small and medium companies asked "what can we do that would get funding".
+
+We need to get rid of this parasitical attitude, and prize risk-taking.
+
+That current parasitical attitude is not that much different from teenagers getting a card to buy books, watch movies, "buy culture", and find a shopkeepers that help them learn the basics of money laundering to extract cash.
+
+If funding and welfare from the State were allocated to promote the development of capabilities both at the individual and company level, having multiple smaller companies in different territories would enable Italy to become a virtual lab for new technologies, products, services.
+
+Also, would allow developing as a "national common" a pool of talent that would probably stay not for a bigger paycheck, but for a larger range of opportunities to try experiment learn discover.
+
+A researcher should get funding, but an individual researcher cannot get a personal lab that carries along with her or him, infrastructure included, if the company folds and joins another one- albeit also research facilities could be "loaned and maintained" until a company is strong enough to build its own.
+
+Example: decades ago, for a partner, helped to reposition and "clean up" contracts, business partnerships, contracts with customers.
+
+One of those customers had within its quality department a small wind tunnel that sat idle most of the time.
+
+Year before, as quality in most manufacturing companies is considered a cost to minimize, they got the authorization to allocate idle time to generate revenue so that they could improve equipment etc.
+
+In the end, when I met them, was becoming a small profit center- because, when became known that they had equipment, a wind tunnel, and a computer monitoring setup that allowed external companies, for a fee, "outsource" that part, they had some customers.
+
+And it was the Italian, Piedmont branch of a non-European manufacturing multinational.
+
+Hence, the model works and is feasible: what would be needed, is avoid turning that model into yet another sinecure for the well connected ("strapuntino", aking to a bar stool but with a salary), and building more potential development points.
+
+Actually, the "arena" approach for talent selection that you can not see often if you use AI (e.g. try installing OpenWebUI to access AI locally and online, and you will see "Arena"), to test different models.
+
+In the late 1980s first in Alitalia (on decision support systems, in Rome), and then in the late 1990s in Bouygues (on business intelligence, in Paris) saw something that is similar to the current hackaton approach.
+
+The idea? In both cases, was a kind of temporary licensing of the software, the same requirements given to every company, all of them having trying to deliver their own version of the solution.
+
+In Paris, was even more interesting, as the companies were all in the same office (at least when I went there), and therefore both the customer and the competitors could see how each company and each product approached the requirements.
+
+If talent were to be pooled, and resources allocated on need and with the aim of generating a "common", actually this could further attract talent better than many of the "support entities" (the sinecure for the well connected) that keep seeing announced in Italy.
+
+Of course, the focus here was about the "future" companies- but also companies with existing capabilities could actually generate new companies where they contribute some of the talent, some of the facilities, get talent with fund attached, get seed funding for the new initiative, and scaled further funding by milestone, up to when can actually be self-standing.
+
+The key concept is: fine to push smaller companies to aggregate, but our economic environment structured around smaller companies can also be useful to start developing.
+
+The risk? As usual, as when some 20 years ago was told that a significant amount was given to a specific cultural heritage site nearby Turin, that...
+
+... in order to avoid the bandwagon effect from all the tribes (as you could not selectively choose one project and refuse most of those proposed by other tribes)...
+
+... the common complaint was that was just sitting on the funding and waiting.
+
+So, again, the tribal element has to kept off the concept.
+
+Alternative? What you see now: Italy will keep expanding debt and contracting competitiveness, companies that are successful yet small will become acquisition targets from abroad, management will come from abroad, and what will be left really local and really managed by locals with a local mindset will be mainly companies deriving from the "gentrification of organized crime".
+
+There will still be Italian companies that will avoid the latter, but mostly will have State, local authorities, or other groups as owners- and will be hard for them to resist to those "influences".
+
+What we need is to have a continuous restructuring by swarming and layering between long, medium, short term district economies- as, at last, is being attempted for the space and defense district covering Piedmont, Liguria, Lombardy.
+
+It is a cultural change journey, not just a matter of appointments and helicopter money to satisfy incumbents and concerned tribes.
+
+
+<b>THEME5: the structural facilitating side</b>
+
+Yes, the previous section was mainly focused on the private sector development and building a common ground of opportunities, shifting the way we allocate funding, to escape the tribal trap.
+
+Anyway, in Italy, as wrote above, "evidence-based" is not really yet part of the culture.
+
+As showed with those examples from my interactions in Brussels "entrapment" by faking evidence is, instead- and for the last few months in Italy we had yet few more rounds on media discussing misuse of resources to alter, tamper, modify, collect evidence.
+
+When was in Brussels, I had already had more than a couple of decades of projects that were "evidence-based": which implies not just numbers, but numbers whose lineage, potential, weaknesses you know, along with other characteristics (<a hreF="https://robertolofaro.com/relevantdata">see here</a>).
+
+To give you an example of how much my fellow Italians put tribe in front of evidence, while I was in Brussels the Italian debt was around half of what is now.
+
+So, I said that maybe 400bln EUR more in debt, bringing to 2,000bln EUR, would make some in Italy wake up to reality and stop selling dreams.
+
+Local Italians in Brussels let's say that did not appreciate- and called me mad.
+
+I called them delusional, and received a string of demonstrations of Italian cognitive dissonance in action- across all the levels of society.
+
+Gaslighting those who present inconvenient truths is a tradition that saw in Brussels from Italians before even was made to return in Turin to work from 2012.
+
+Well, this chart that shared in 2019 article ([From #Mattei to #MES / #ESM - #Europe and #Italy](https://robertolofaro.com/index.php?page=385)) shows how I had only to wait for 2012 to get my forecast turn into reality:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2025/10/dirittodivotoseries_201912_20191209_debt_volume.png)</center>
+
+The current value? 
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/screenshot-from-2026-05-23-17-50-40.png)</center>
+([source](https://it.tradingeconomics.com/italy/government-debt))
+
+Cocooning in self-referential mutual acknowledgement does not replace reality.
+
+Why in this section a discussion about the national debt? Because everybody talks about GDP %, but, frankly, the volume has another impact, and justifies the recent quest of getting a rating improvement, and also to strive to get under the 3% deficit.
+
+Reason? Look at the table above- if you compare with other information with that 2019 article linked above, and with the "Legge di Bilancio 2026" (which was [just 22bln EUR](https://www.mef.gov.it/focus/Principali-misure-della-legge-di-bilancio-2026/)), you can see how making refinancing cheaper could make a difference.
+
+We still need to inject within the Italian State a concept about bureaucracy in the XXI century: it is not just about having access to more data about citizens (and that too recently was altered when it went a little bit too far).
+
+It is also about a balanced relationship between State bureaucracies and citizens.
+
+I shared in the past how I was surprised of the speed with which the UK paid e.g. VAT credit and without the need to do anything, while was there.
+
+And how once was even receiving a payment because, as my accountant told me, I had paid well in advance the tax, so I was paid the same commercial interest that would have paid if I had paid late.
+
+Why did I pay early? Because while I was in Italy, in the 1990s was used to a routine of banks launching a strike just on the last day or days of the tax payment period, so that you then, to avoid interest and penalties linked to having paid late, had to prove that your bank had been on strike just that day.
+
+So, transparency and de-biasing administration in Italy is not just a matter for the State or local authorities- even private businesses routinely play games that maybe eventually will add into another (evidence-based) book of the series CitizenAudit.
+
+Again, it is not a matter of issuing edicts, making speeches, presenting nice brochures: on that side of political marketing, Italian institutions are quite good.
+
+It is the actions, that matter.
+
+I referenced above what the European Court of Human Rights said about procrastination to get into statutes of limitation.
+
+What I did not write, and was reminded today, is that was a specific case related to the G7 in Genoa, what is universally known in Italy as "Diaz" (there was also a movie) or "Bolzaneto".
+
+One of those captured in international waters by Israeli armed forces, interviewed about the tortures and beatings and humiliations that received under the "greetings committee" of Minister Itamar Ben Gvir, said that it was the "Bolzaneto" of the Minister.
+
+Not really the example that we Italians want to be known for.
+
+Eventually, Italy after Diaz/Bolzaneto at last complied with international agreements and treaties and adopted a law about torture.
+
+A law that, curiously, is going to be invoked now for those actions following a kidnapping in international waters (and it is not the first).
+
+At least, this time will not take 17 years to have our own justice administration and Government acknowledge it- as, after the first interviews and pictures, this time immediately all the political parties recognize it for what it was- torture.
+
+It will take time to get from the political statement to the whole processing on the judicial side, but, for all its negativity, it is a sign that Italy too can change and become more transparent.
+
+Ditto for current media obsession with few cases, after a long, long time.
+
+Still, we do not have what would be ordinary in other environments: a line of accountability at the top.
+
+When I had an issue with a bank in UK, and got bounced between offices, a colleague former banker told me that it was the usual "sandbagging" in retail banking.
+
+So, suggested to write directly at the top- and so I did, and so what had been bouncing around for months was solved in days.
+
+That is "the buck stops here".
+
+In Italy, when interacting with a public office over the phone, recently was told repeatedly in the same call that any administrative appeal would be considered by an office within the same organization, different from those involved in a complaint, so that the whole organization could be made aware of any anomaly identified.
+
+A catch: both offices report to the same offices and directors that already had been informed formally between October 2018 and summer 2019, including with their own documentation, that an issue was still open since July 2010. And, actually, as it was still stated in their own documentation that in May 2019 was not yet done, apparently at last acknowledged that there was an anomaly, as in late September 2019 did something- but end February 2026 still wrote that had not been done the second of two steps that was to be done from July 2010..
+
+Anyway, there was in that dossier a curious cameo (along with many others- published a book, there is enough material for a second one), further proving that the information had been spread across the structure at least since then: in 2020 yet another registered email requesting why had not yet been completed what should have been done in July 2010 received an answer that included the original question, the answer and... the full thread on the way up to the top (each one passing the buck), and then all the way back down (again passing the buck), with no real answer.
+
+Unusual to receive an internal thread- but, frankly, since 2018 with different organizations in Turin and Rome had the same experience: curious to consider that the "customer" has to act as a liaison between internal offices, probably a national habit that was developed while I was abroad since the late 1990s.
+
+So, instead of accountability and solution, six years more (and counting, as of late May 2026) of back-and-forth, and invitations to get through a process to make the organization aware of what blatantly the organization itself documented to be aware of.
+
+On accountability, still a long way before a more ordinary "the buck stops here".
+
+There is another dimension within Italian bureaucracies, private and public- the habit of outsourcing internal processes, both to owned (or co-owned) companies, and to companies that are just one-two degrees of separation from those who oversee the organization that outsources activities.
+
+The example of transparency should start at the top: supposedly, as they oversee and influence through legislation that affects any business in Italy, Members of Parliament since years should report financial information, and also for their immediate siblings, with a catch- it is not fully compulsory as you would expect from something that was announced as "transparency".
+
+Instead, recently a weekly magazine reported the appalling statistics of how few disclose information including siblings (I will not share the number- "appalling" says it all).
+
+Hence, we know about conflicts of interest only when there is a scandal, or some competitor complains.
+
+And this is the level of transparency that would attract business and investment in Italy? Imagine what would happen if something gets stuck on time-critical decisions...
+
+
+<b>THEME6: quis custodiet ipsos custodes-lessons from audit</b>
+
+Italy would need again to look at its own "quis custodiet ipsos custodes" as a principle- maybe starting by having watchdogs report to the President of the Italian Republic, after being nominated by the Parliament with a qualified majority of 2/3, to enforce there too an element of bipartisanship.
+
+If this seems "political dreaming" more than "political reforms": years ago, as passed a first round in a selection for a role on vendor management at the European Central Bank (no, was not selected- was "on hold" for six months, then received a second letter), as usual read all the documentation provided.
+
+Which included also a clear description of:
+_ conditions of employment
+_ salary and benefits
+_ and constraints both in- (before you can be considered as a candidate) and out- (after your complete your mission), to avoid any "incompatibility".
+
+So, it is feasible: it takes just political, bipartisan, systemic will.
+
+As the European Central Bank has also a significant regulatory role over banks operating within the EU, it makes sense to have strict and unconditional rules for "admission" and to avoid a "revolving door" with banks.
+
+Recently watched a webinar on related themes:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_07_01_corruption-court.png)</center>
+
+A quick reminder from a book that read recently: you design and oversee a bureaucracy to provide a result- which is both a right and a duty:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_07_02_maladministration.png)</center>
+
+Corruption is a matter of quid-pro-quo, an exchange, but often we got used to see it only in terms of monetary exchanges, as was in the "Mani Pulite" scandal in the 1990s in Italy.
+
+Anyway, corruption is a bit wider, and gets back to a concept that is over 1,000 years old- not just money, but also action or inaction are a form of corruption.
+
+So, an International Anti-Corruption Court could be an interesting element to add:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_07_03_corruption-court-details.jpeg)</center>
+
+In a tribal economy such as Italy, it is often difficult to spot the difference between outright corruption and mere organizational failures linked to the need to integrate the interests of different tribes:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_07_04_italian-bureaucracy.png)</center>
+
+It is a matter of independent oversight: while "self-regulation" already produced disasters in our financial markets, in our technological times we keep shifting from a pure self-regulation to pre-emptive regulation as if announces were enough to produce changes:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_07_05_industrial-policy-paper.png)</center>
+
+Anyway, in my interactions with bureaucracies across Europe since the 1990s, saw from the late 1990s that the push from the OECD toward e-government generally resulted in:
+_ streamlining
+_ traceability
+_ transparency
+_ acceleration
+and at least the attempt to have independent oversight.
+
+Trying to solve that thousands year old issue of "quis custodiet ipsos custodes".
+
+I shared already decades ago why in Italy selective cuts are more difficult than the quixotic "across the board".
+
+If you are within a structure, notably higher up, there is a balance between tribes that brought you there- and this implies that the balance could be upset by selective cuts, and generate a "cascading retribution effect": those tribes negatively affected would wait the opportunity.
+
+So, a linear cut across is the choice.
+
+Something that usually is a sign of lack of understanding about how an organization works and increases inefficiency (as you remove both those who perform, those who do not, and both positives and negatives of the "informal" organization).
+
+Anyway, it is "politically" easier to manage.
+
+Therefore, it is no surprise that a decades old cartoon from Bruno Bozzetto that showed how Kafkian can Italian bureaucracies be, still holds true:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_07_06_italian-bureaucracy-spinningwheel.png)</center>
+
+A basic lesson that was taught when, in the late 1980s, started creating decision support system models also for financial controllers (sometimes they were twice my age) was that you have to keep apart the left-hand and the right-hand, e.g. incoming and outgoing in a warehouse or storage on a building site.
+
+Moreover, that you need independent reviewers that are neither customers nor suppliers to those that they review.
+
+As wrote above, in Italy, we routinely outsource processes of local or national authorities to entities where those overseeing have an interest: a structural conflict of interest.
+
+The solution? Formally, one or two degrees of separation.
+
+Something that, in my private sector activities in the past, would have been quickly spotted (and, in some cases, helped solve by phasing out both the supplier and those who supposedly did oversee them).
+
+I shared in the past specific cases of interactions with Italian bureaucracies, and apparently will continue to do likewise in the future.
+
+Because procrastination as shown in that cartoon above is the usual way Italian bureaucracies deal with anomalies- as showed in the past within a book that published both [in a public version (with limited data) in English](https://archive.org/details/citizenaudit01), and in a more extensive version focused on just one case, the former available also on archive.org at the link provided.
+
+This is Italy, sitting on a pile of 3000+ bln EUR that need to be refinanced at the tune show in this picture:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_07_07_italian-debt-expiration.png)</center>
+([source](https://www.dt.mef.gov.it/it/debito_pubblico/dati_statistici/scadenze_titoli_suddivise_anno/))
+
+A country that did all the possible cuts to get an improved rating to lower that refinancing cost that exceeds the annual budget on new expenditure.
+
+And, moreover, that is currently asking for leniency to get more deficit to offset the consequences of the war in Iran.
+
+So, procrastination is a curious habit to keep.
+
+We exported at the European Union level the "continuous tinkering" approach.
+
+The continuous tinkering that is being done there assumes a level of structural (national) cohesion that we still do lack in Italy.
+
+Our own local "continuously tinkering" is instead reinforcing the "tribal" element of Italian society and business.
+
+As shown routinely by fractional demands from all sides to have "tailored" rules, e.g. weakening some social and consumer rights to ease business processes.
+
+And as confirmed by a continuous string of scandals about the different dimensions of corruption (that, as shared in the past quoting somebody from almost 15 centuries ago, is in my view not just limited to monetary exchanges) that affect private and public, including security forces, the judicial system, and it seems from recent news reports even watchdogs.
+
+Frankly, I never used so often the phrase "quis custodiet ipsos custodes" ADDLINK as I did since I started again living and working on a daily basis in Turin in 2012.
+
+A system where those behavioral patterns are endemic and discovered only when scale up enough to cast their shadow on (and undermine) the affairs of other tribes, is a system where the incumbent cannot accept to make mistakes even in the most blatant cases, and, au contraire, spends whatever resources and allows "whatever it takes" to deny their own cognitive dissonance.
+
+Little chance to reform, a system like that.
+
+And, frankly, when worked as cultural and organizational change management consultant in the 1990s and 2000s, more than once turned down opportunities either after a preliminary assessment or a first feasibility mission.
+
+If you look just for confirmations of your status quo, and accept only draconian measures when it has become unmanageable, you are not "governing", you are "surfing".
+
+
+<b>Conclusions and next steps</b>
+
+My approach in this article has been to blend data, feed-back, and proposals.
+
+I know fairly well that, being our national and local issues mainly tribal, it is not somebody who is outside tribes that can solve them.
+
+Tribes should quit quarreling, bickering, undermining each other whenever they are not on the winning side, and accept that winning and losing are part of the game- and you prepare to win the next time, and meanwhile scout continuously for:
+_ where and when to cooperate for a common, long-term good
+_ where and when (and why) to attack
+_ where and when (and how) to build up for the next round.
+
+During the week, shared on [Linkedin](https://linkedin.com/in/robertolofaro) and [Facebook](https://facebook.com/robertolofaro) posts announcing the progress on the release of AI models, and at last the inclusion of the activity within my CV- releasing three models and two chatbots in a week implies that can add some results.
+
+Actually, the previous week had been working on confirming which information would add, plus the design of the "pipeline" starting from the material, down to "training" the model and testing it locally and online.
+
+If you survived through the discussion about the structural weaknesses of Italy, you at last were presented first the potential, and then, here and there, some proposals.
+
+So, I think that it is time to share that will further develop on them.
+
+As for the examples that used across the article, look forward to the "potential" to show positive changes- or otherwise gear up to publish more studies on Italian bureaucracies.
+
+What I am confident about, as probably until the end of 2026 will still on location, is that the next few months, either through me or others, there will be plenty to report on.
+
+Anyway, as usually in this section I share announces about what's coming next, so let's just say:
+_ I had planned to release this article on May 24th, as for Italy has an historical reference
+_ but the first model was planned for June 2nd, Republic Day.
+
+Hence, in reality, I am more or less one month ahead of schedule- time enough to re-iterate and improve, and start working from June 1st on the next phase of a project that was due from July 1st.
+
+Stay tuned!
