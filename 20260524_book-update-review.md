@@ -1,7 +1,5 @@
 I liked a lot a 2023 book on EdgeAI that received from [EdgeImpulse](https://edgeimpulse.com).
 
-The book is about EdgeAI.
-
 Followed training on the subject years ago (you can probably still find it on HPI/SAP).
 
 In preparation of some further EdgeAI projects but blending with my recent experiments on LLMs and other "sides" of AI.
