@@ -90,10 +90,11 @@ Real-world start date is recorded in the Ongoing Situations Tracker below.
 🔄 ONGOING SITUATIONS
 
 
-Situation        Real-world start        Brief Day #        Last significant development        Status        
-Russia-Ukraine war        24 Feb 2022        Day 89        Sweden transfers 16 Gripen fighters; Ukraine strikes Tuapse refinery        🔴 Active        
-Israel-Lebanon war        2 Mar 2026        Day 89        Ceasefire extended 45 days; Pentagon talks scheduled 29 May        🟡 Ceasefire        
-Iran-US conflict / Hormuz crisis        28 Feb 2026        Day 91        Reports of tentative 60-day ceasefire extension; Brent down 16% in May        🟡 Ceasefire        
+| Situation   |     Real-world start  |      Brief Day #     |   Last significant development   |     Status    |    
+| --- | --- | --- | --- | --- |
+| Russia-Ukraine war     |   24 Feb 2022    |    Day 1,556   |     Sweden transfers 16 Gripen fighters; Ukraine strikes Tuapse refinery     |   🔴| Active   |     
+| Israel-Lebanon war    |    27 Nov 2024     |   Day 549   |     Ceasefire extended 45 days; Pentagon talks scheduled 29 May  |      🟡| Ceasefire  |      
+| Iran-US conflict / Hormuz crisis    |    28 Feb 2026   |     Day 91     |   Reports of tentative 60-day ceasefire extension; Brent down 16% in May   |     🟡| Ceasefire |       
 
 
 ---
