@@ -12,8 +12,8 @@ alert_counts:
   yellow: 6
   green: 4
 ongoing_situations:
-  - {name: "Russia-Ukraine war", day: 89}
-  - {name: "Israel-Lebanon war", day: 89}
+  - {name: "Russia-Ukraine war", day: 1,556}
+  - {name: "Israel-Lebanon war", day: 549}
   - {name: "Iran-US conflict / Hormuz crisis", day: 91}
 sources_fetched: 11
 fetch_status:
@@ -51,9 +51,9 @@ DIGEST SUMMARY
 
 | #  | Category | Headline | Alert | Day # |   
 | --- | --- | --- | --- | --- |
-|  1 | ⚔️ Ongoing Wars | Sweden transfers 16 Gripen fighters to Ukraine | 🔴 |     Day 89   |       
-|  2 | ⚔️ Ongoing Wars | Israel-Lebanon ceasefire extended; Pentagon talks today | 🟡 |      Day 89    |      
-|  3 | ⚔️ Ongoing Wars | GCHQ: 500,000 Russian soldiers killed since 2022 | 🟡 | Day 89   |       
+|  1 | ⚔️ Ongoing Wars | Sweden transfers 16 Gripen fighters to Ukraine | 🔴 |     Day 1,556  |       
+|  2 | ⚔️ Ongoing Wars | Israel-Lebanon ceasefire extended; Pentagon talks today | 🟡 |      Day 549   |      
+|  3 | ⚔️ Ongoing Wars | GCHQ: 500,000 Russian soldiers killed since 2022 | 🟡 | Day 1,556  |       
 |  4 | 💼 Business | Brent crude falls to 92.26/bbl on Hormuz reopening hopes | 🟡 |      Day 91   |       
 |  5 | 💼 Business | S&P 500 extends winning streak; gold stabilises near 4,506 | 🟢 |     —   |       
 |  6 | 🇪🇺 EU Affairs | Euro area inflation hits 3.0% in April; ECB holds at 2.00% | 🟡 |      —   |       
@@ -61,7 +61,7 @@ DIGEST SUMMARY
 |  8 | 🤖 Technology | EU Chips Act review and quantum legislation due in 2026 | 🟢 |      —  |        
 |  9 | 📈 Trends | FAO Food Price Index rises for third consecutive month | 🟡 |      —    |      
 | 10 | 📈 Trends | IMF cuts 2026 global growth to 3.1% on war impact | 🟡 |      —    |      
-| 11 | ⚔️ Ongoing Wars | Ukraine strikes Russian refineries and airbases | 🟡 |      Day 89   |       
+| 11 | ⚔️ Ongoing Wars | Ukraine strikes Russian refineries and airbases | 🟡 |      Day 1,556   |       
 | 12 | 💼 Business | ECB warns energy shock pushing inflation above target | 🟡 | —   |      
 | 13 | 🇪🇺 EU Affairs | EU industrial policy shifts to "Made-in-Europe" local-content rules | 🟢 | — |      
 
