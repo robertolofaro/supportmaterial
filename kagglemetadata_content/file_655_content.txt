@@ -1,0 +1,299 @@
+This article, as announced yesterday on Linkedin, is an experiment.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260525_prologue.png)</center>
+
+The introduction will be shared between all the segments, and eventually will remove the segments from the website, and publish a new article containing all the segments plus connecting material.
+
+The sections (for today):
+_ Introduction- the approach 
+_ 2026-05-26 - the breakfast
+_ 2026-05-26 - neurotechnology for capacity development
+
+
+<b>Introduction - the approach</b>
+
+Yes, some remember that did a similar experiment in 2012, when visited Berlin.
+
+Back then, wrote in a first post that was going to visit Berlin for a couple of weeks, but, whenever a post reached 50 readers, would publish a new one.
+
+And, back then, ended up, to keep my promise, sometimes to have to publish twice in a day.
+
+In the end, it became a mini-book prepared in late 2012 and released in early 2013, where also explained the history of my [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com), a quarterly on cultural and organizational change that published between 2003 and 2005, in preparation of my return from UK to Italy.
+
+You can download that mini-book, [#BerlinDiaries - a personal journey through the new nervous centre of Europe](https://www.slideshare.net/slideshow/berlindiaries-a-personal-journey-through-the-new-nervous-centre-of-europe-v20-downloadable-book/93427582).
+
+The approach was actually a side-effect of of my business experience, that was across different domains, industries, technologies: you end up continously updating and scouting.
+
+It happened often that for either customers or partners, and in the late 1980s to early 1990s also for my employers, had to switch domain, usually interacting with domain experts.
+
+As for the magazine, the reason why I stopped it in 2005 was that... after supporting part-time startups, private companies, and working as part-time PM/BA in Rome on Government agencies projects for a partner...
+
+... decided that was too foreigner for Italy, and accepted an invitation to relocate instead to Brussels .
+
+As somebody unknown who once, years later joined me for a pint I think in Rotterdam told me, moving to the "new Berlin" with my CV was not necessarily the smartest idea.
+
+Lost count of how many "checking the background on missions" were informally done by inviting me to dinners, fairs, exhibitions.
+
+But certainly both those and previous tests in London (as was unusual to have somebody suddenly appearing from Italy, working in banking in Switzerland living not in Chelsea but in an area considered poor, and going around weekly either to Paris or Zurich) were better than the treatment in Turin (and a bit in Rome) since 2012.
+
+Different background checking and recruitment styles.
+
+Anyway, writing in segments online really started in Brussels in 2008, and I remember that by 2009 had published multiple article series (now offline), all based on my experience, research, update- and blending different domains.
+
+Just to make it funnier: after few of those articles got some local feed-back, including questions about who were my sources (disclosure: if you worked in enough different domains long enough, you can connect the dots and forecast new dot connections often even before many of those involved, except their bosses, can)...
+
+... I received an email.
+
+I was 43 and living in Brussels, and the email was from an American former officer- I had met him in the late 1990s, while he represented a large US system integrator, as I was in Brussels visiting my brother (once in a while took the Eurostar London-Brussels), and entered a list to work on PHARE projects.
+
+I was never called up for a project, but probably had made a positive impression- because, when he wrote me, he was in Moscow with a Russian-American company, and the title of the email was something like "a shot from the blue" or "out of the blue".
+
+He asked for my CV- which, having always worked through word-of-mouth since 1990, was frankly a pro-forma, with no names and no details.
+
+Then, came a reply: please send a fully detailed CV with every project your worked in and in which capacity, no more than a paragraph for each project.
+
+The document ended up being 9 pages long- so, asked an Italian friend working in banking to give me a feed-back.
+
+The reply: that I was trying to hide my age, because claimed to be 43, but to have done all that should have been 143.
+
+The beauty of working by word-of-mouth: you are not called for the CV, but for the capabilities already proven, and being asked either to use them, or if you are willing to develop new ones that could leverage on the existing ones.
+
+So, I send it anyway.
+
+The final reply: basically, that they had no idea how they could allocate me- welcome to specialization world.
+
+Once in Brussels I was let to know by a recruiter that he turned down the opportunity to vet my background for a role using a 360- he said because with my CV would have been at least few years, and doing that kind of challenge testing for more than one year is inhumane.
+
+Say: Italians have no qualms, as tests actually started when first moved to UK in late 1990s, and then from the public side again when started working part-time in Rome with some curious cameos to let me know that was known where I went, who I met, etc, in 2004.
+
+What doesn't kill you builds you- hence, the ability to work across even more activities at the same time and across timezones with a follow-the-sun... as an individual.
+
+My CV back then in the mid-2000s was nothing special, frankly: 99% perspiration through word-of-mouth, and 1% inspiration- chaotic for some, but simply, if you looked by industry, there were many parallel lines.
+
+If I were to prepare it now with the same level of detail, maybe as an AI Q&A model, would be even funnier and less credible: still, enabled to accelerate auditing of and writing about patterns.
+
+As you can see on this website, writing in segments [is a habit](https://robertolofaro.com/multipart): as it started in the late 1980s, when was almost on a daily basis in a completely different town and business environment, mainly around Italy.
+
+Therefore, the approach for this week has been to reserve events where I could "sample trends" and get "signals" from the territory, also to get different perspectives, and, potentially, different opinions on the same concepts about innovation, emerging technologies, change, etc.
+
+And now, today's segment.
+
+
+<b>2026-05-26 - the breakfast</b>
+
+This morning attended a formal networking breakfast at the OGR, to see if the environment evolved.
+
+As I said to the only one I talked with, as I had met him in previous events, I was used to attend similar (albeit usually self-organized) events in London and Brussels, while actually I had other meetings in Paris, Zurich, and, via IEEE and IET, different towns in The Netherlands (the latter usually hosted and sponsored by Philips, the electronics company).
+
+My suggestion would be always the same: remove tables, so that people have to wander.
+
+Admittedly, as there were two presentations about the lifecycle from concept to multiple rounds from two startups, standing-only would have been a bit uneasy for many.
+
+And, incidentally, I wish that those present who really either planned to open a startup or were just considering the concept had had more time to discuss with the two presenting the experience- as that part reminded me something that had abroad, and, from my discussions with potential startuppers since 2012 (when I returned in Turin) but also in the late 1990s to early 2000s (when had more contacts), unfortunately some important points that the presenters hinted at (e.g. team covering the skills needed) were too fast and lost in the breakfast.
+
+In the 1990s, despite having had already a couple of years of building models that represented the three souls of an annual report, plus financial controlling models and management reporting, when started as freelance decided to buy a computer (in Andersen started with a Compaq "brick" and ended up with a Toshiba with a plasma color screen), and ended up (that was my personal budget) with an unusual combination- an Olivetti M15 Portable with two 3.5in slots, plus an electric typewriter/plotter (I think Philips) that could use both as an electric typewriter (still working!), a plotter, and... connect to the Olivetti to be used as a plotter-printer (all the courses in Italian on soft skills that you find [here](https://robertolofaro.wordpress.com) were actually developed on that system), printing also what we called "transparencies" (acetate sheets).
+
+On that configuration, purchased a game called "What They Don't Teach You at Harvard Business School", based on McCormack book, with the purpose to... test my balance sheet skills.
+
+It was a business simulation game (I think that you can find it online), and the funny part was that a crazy scientist had developed a new robotic technology and then decided not to patent it and to give it away, so a market for home bots and pet bots developed.
+
+You along with a partner (one covered the tech, the other business and financial) were the CEO, and had to read a version of the Wall Street Journal across each iteration in the game, and develop production plans, investment plans, etc- and then see the annual report, and make choices for the next year.
+
+It was really fun- and went quite well... courtesy of what I had learned from people much older than me on real businesses across multiple industries, and also memory of childhood (I had no formal education in the area, also if as a pre-elementary school kid remember my mother doing the accounting of our small family business- an actor back then could not live just with that and have a family).
+
+So, when, in the late 1990s, actually started writing business and marketing plans for new initiatives, products, or startups, actually I had seen both the real business side and discussed who those who explained me the numbers, and then, through gamification, had got the mindset about rounds etc.
+
+I had planned to spend few years in Andersen and then settle within a company (e.g. in 1990 interviewed for roles as what we would now call CIO in small companies), but, due to some interferences, I had plenty of first interviews, and then was ghosted, until, as shared in the past, one company called me and made me meet the two CEOs, to tell me that was too young on the commercial side (was a role in selling treasury management systems), but they wanted to tell me that they were confident that I was "clean". Hence, ended up continuing in management consulting- and was equally fun, having an understanding of organizations, people, numbers, and what made different industries "tick".
+
+This morning there were no investors, and litte communication: when I was in Brussels, I actually leveraged on my experience first in London, then supporting Italian startups.
+
+In London actually once considered converting a tool into a product, and created a specific company for that, as had received some contacts from the business angels environment via my UK former colleagues- so, prepared the business plan, and tried- but opening the door is not really my thing (later, turned down all the "cold calling" roles: if somebody opens the door, I can get a POC and negotiation to the end, but I am not the one opening a dialogue with the unknown).
+
+At the time, there were tax incentives for investments of that type, but, as I had my own consulting activities and that would be purpose-built but still funded in part by me courtesy of my results from consulting (I always reinvested in my activities and took a small salary, as wanted to build something), looked for a relatively small amount (five digits including four zeros).
+
+Why that small amount? Because, used to budgets for both small and large projects, I had validated the "lifecycle", a kind of storytelling, and for each phase, as did for startups and initiatives for customers,  looked at the capabilities needed, from finance, to people, etc.
+
+I was offered instead (due to the tax incentives) five times that amount, but with 60% of the company as collateral, and a two years period of grace, after which either returned capital plus a series of elements, or that 60% was gone.
+
+I turned it down- and said directly that the reason was that in my plan could not "burn" that amount of cash so fast and get anything more, hence would spend two years to turn the product with all the paraphernalia that a product requires (in my view, also the service and evolution pipeline, funnel structure and definition, etc) and then, when was time to start reaping the results, would lose the company.
+
+Developing that product from scratch for others, assuming that they had the specs (they had not, hence the offer) would take much more than what was the investment.
+
+So, ended up being yet another potential product that then, as time passed, lost market meaning.
+
+And this is another element that many startuppers should have noted: you need the right team, you can find resources, but you get a market if you have timing; otherwise, as other I was in contact with did, they went into the "we will build a new market", and, when they were done evangelizing, had spent so much time evangelizing that somebody smart enough and better at marketing simply entered the market that they had created, with resources that the originators did not have.
+
+If you want to create a cult around your products, might work- but there are few Steve Jobs around.
+
+So, frankly, I think that this morning was a good beginning- but probably Turin has to learn that those events thrive if you open the door and give a nudge, not if you want to control.
+
+When shifted to Brussels, as shared in the past, saw that potential in the way the Betagroup worked, as was an extension but continuous of the "Lion's Den" that had seen in InfoSecurity in London few years before.
+
+Or: Cxx of large companies would be a panel, and each startup had a slot of time, no props, to convince them. Just one survivor. It was funny in London to see that my past activities helped to align with the choices of the panel before were announced: again, 99% perspiration 1% inspiration- those who say that they have "knack for it", are just massaging their own ego and forgetting that either they piled up experience, or walked on the shoulders of others who did.
+
+In Brussels, it was not a formal panel: simply, once you could be in the audience commenting after each presentation, and, when you had a feeling that you were ready to present your product or service, up you went on stage (in Brussels, were almost exclusively product, maybe with a service component- but that frankly is a different set of skills, and many product-based companies forget it).
+
+I think that could make sense simply to start doing something akin to meeting (I know- too Northern European) to meeting in a pub, sip a pint or whatever while talking, but all standing.
+
+Then, periodically organize the "gentle lions den" to actually help startuppers improve, a kind of "training ground" before meeting real customers or real investors.
+
+And, once the team spirit (no pun intended) builds up, maybe you can skip the latter, and convert each pub meeting into a "speakers' corner for startups": who, before or after one or more pints, feels ready to talk, just stands on a stool and talks- for 2-5 minutes, not more, and maybe even without props.
+
+I still saw too many people in Italy delivering training or presentations talking to the slides, instead of taking the "pulse" of the audience to modulate their own storytelling and keep the tension and attention alive.
+
+In the end, when I was selling or supporting selling, I was told in different languages at different times in different locations where we won that we won... because we understood their business: technicalities can be fixed, a small structure, if balanced, can be helped to scale up- but if you do not understand the business, and are 100% in "evangelist mode", you are trying to convert to your cause, not to sell a product or service- and, unless you are one of those few from the old Microsoft, Apple, and now Nvidia, don't even bother to try.
+
+As you risk investing to build somebody else's market awareness.
+
+
+<b>2026-05-26 - neurotechnology for capacity development</b>
+
+Let me start with a service announce:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260526_00_models.png)</center>
+
+Actually, as this section is about neurosciences applied to technology, would like to share another service announce, but one that received tonight.
+
+It is time-sensitive, as will be tomorrow evening 2026-05-27, but usually the recording will be available later, while the paper is linked within the invitation.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260526_01_climate-brain.png)</center>
+
+My interest (and limited use) of neurosciences in society and business started a long, long time ago- imagine that when was time to choose where to serve in the Army, applied for a specific "segment" because as a teenager saw that books talking about the Italian prison system were all looking just at one side of the coin, but, from reading more "technical" material on the organization, I assumed that also the other side was to be considered, if you wanted to really reform it.
+
+I just spent time in Montecassino to do some health checks, but then was sent back to wait for the call for the regular Army.
+
+Side-effect? When I was in the regular Army (actually, Artillery), I have two "dossiers" (I think that was called SA10M)- and somebody half-jokingly said that it was because I had been in a military jail... and others believed it (to keep my independence, I had let my beard grow the day before starting the service, so people assumed that I was much older, not just 21, and actually somebody called me "architect"; I did so because I knew that this would result in my eczema appearing and, as there were no dermatologists around, could get an exemption from cutting the beard as otherwise would be bleeding each morning- which was actually the other way around: if I shave and want no issue, I have to keep shaving).
+
+Interesting times- also because I had a chance to meet people from different backgrounds that I would have never met in real life on daily basis for months, and from across the country: and, ending up working later in the office that was assigning services and petitioning the offices for R&R, exemptions, etc, improved the listening skills that were useful in business years later- by accident.
+
+My prior interest in neurosciences was there also when started designing tools while attending the university in 1984, as looked at the most common mistakes that my classmates made, and e.g. prepared a tool to recover the source from the list in PASCAL under VAX (most people forgot a parameter and lost the input while compiling), and then when designed a training course in the Army, well before started again in late 1980s to design course curricula and training material, including a course on data-driven (currently we would say "evidence based").
+
+Fast forward to the early 1990s, shifted to designing courses in "soft skills" for a the managers and project managers of a small company, before being hired by the Italian branch of a French group.
+
+Initially, the purpose was to deliver training on methodologies in Turin- and was hired as senior project manager courtesy of my prior experience in delivering training both technical and non technical management and senior people.
+
+Anyway, while in Paris, as sent to join a sales event for a customer that would have been buying our corporate software products and change services both in France and Italy, to represent the Italian side.
+
+I will skip what happened- let's just say that eventually the Marketing Director of the HQ once said to me to stay in a meeting, and told me that, instead of returning in Turin to just deliver training, with the CEO of the Italian branch had decided something else.
+
+I was offered to return to Milan, where would be provided also lodging (eventually, an apartment), to lead a new business unit whose purpose would be to localize, develop, deliver methodologies within the Italian market, expand the use of our corporate methodologies across all the product divisions, and generally develop the business.
+
+I was to report both to the CEO of the Italian company, as well as the Marketing Director in Italy.
+
+So, I left Andersen to be able to at last graduate in information technology, as my work on decision support systems across the country and in support to both Comshare and Andersen as pre-sales consultant and on pilot/proof-of-concept projects (I was covering the PC-side software, first three-dimensions, then five dimensions, with goal-seeking and what-if capabilities, basically built around Aitken multivariate)
+
+As Andersen had a rule that nobody could decline a call of a partner, and at a time became a critical resource as was alone on the "techie" (model design and audit side) for the product-based side, after had instructed a secretary to filter calls so that could work one day in the office without having "non-maskable interrupt" by a different project across a different division around Italy every few minutes, was shuttled to the head office of Andersen in Turin.
+
+Moreover, as was almost everyday in at least one different site and different customer, and my days extended to 18 hours a day, was even offered by the company...
+
+... to install and pay at their own expenses a telephone line in my apartment- an honor that gently declined.
+
+So, studying and preparing university exams was not really feasible.
+
+The French company, Compagnie G&eacute;n&eacute;rale Informatique, had the offices in Turin the same building where the faculty of information technology had recently moved.
+
+Information technology had not been my first choice: I would have preferred philosophy of language (not yet active in Turin back then) or theoretical physics, but in the end assumed that information technology would make me financially independent faster.
+
+Anyway, with the French company that expectation, to at least graduate, expired in six months: hired in July, spent few weeks (I think a month) in Paris, returned to Italy, found that actually Milan was exactly as had been with Andersen- a different location almost everyday and just sleeping (but not always) in Milan, in 1991 pulled from university.
+
+Still, I had a chance to have to design courses locally, not just localize, and then from 1993 was a freelance program manager on cultural and organizational change in a banking outsourcing company where I had been a consultant for my French employer, when at last did not sign for a role as Financial controller for a company where I had been, with the authorization of the CEO of the Italian branch of my employer, management consultant on decision support systems in my spare time.
+
+From 1993, as in Italy being a freelance required to have more than one customer, accepted also parallel missions from business intelligence (product) companies where the "Comshare diaspora" ended up.
+
+I ended up designing training courses, but that role on cultural and organizational change had a specific structure that allowed both sperimentation and long-term investment.
+
+Meaning: I had agreed with the CEO to have annual objectives (I was told that that would have been a role as manager within the banking industry, but there were few hurdles, and the offer was made right before Xmas 1992, to start right after Xmas, in early January 1993, not after six months of back-and-forth with various bureaucratic entities).
+
+And we had also more or less quarterly objectives and prioritization reviews- and was soon to be tasked to work alongside managers and project managers as an advisor on critical and high-visibility strategic projects.
+
+It went well enough that was renewed for few years, and the customer offered to increase the rate, there was a gap just in 1997, but in 1997 itself, after working on a negotiation for an English company on risk management, was contacted again to work on organizational design first, and then on post-M&A integration.
+
+All along that, updating on organizational development- which implied also reading on applied neurosciences within HR development in corporate environments.
+
+So, in 1994 and 1995, preparing for the future, decided to attend two summer schools on International Political Economy from the perspective of companies at London School of Economics, and in 1994 also a summer academy in Sweden in Intercultural Communication and Management.
+
+And, again, perception vs. reality, and cross-cultural integration were part of the material that we had to read and discuss (basically, semester courses compressed in few weeks, but with tons of papers to read and discussion groups every day.
+
+That's my idea of fun: having a shared basic of reference, and discussing from different perspectives- something that, in non-tech environments, often ends up into an agreement to disagree, as there is no "right" or "wrong" answer.
+
+Let's move forward to mid-2000s, skipping few elements that shared already in the past (e.g. buying a Playstation II slim for my nephew in order to get his old second-hand original and bulky Playstation II, so that could add the Linux kit that had been presented in London by Sony engineers at a presentation organized by IEEE- the concept was to use the vectorial facility to test some concepts related to an old language, PROLOG- again, fun).
+
+In Brussels, as I had to wait to phase out all the customers elsewhere to then have no strings attached and settle in a company in Belgium (hence, was living there from 2005 but actively went into "job searching" mode only in 2008), decided to spend time reviewing my CV, experience, and writing- as that forced me to cross the Ts and dot the Is by reading and studying material that just marginally involved in my prior activities.
+
+Some of my contacts from twenty years ago (as was coming from London and working in Paris and Zurich, I was probably one of the few Italians that did not spend time with Italians) probably remember some article series that wrote, and also "how".
+
+Anyway, now I can add another bit: the sources.
+
+Since the 1990s, as shared in previous material, was inside mailing lists first for the "Re-inventing the Government", DoD, and then, after buying some proceedings from workshops on themes that were related also to neurosciences and other medical "technical" sides (including on communication), mailing lists that contained invitations to workshops and meetings.
+
+Never attended (started only in 2020, courtesy of the transition to webinars due to COVID), but anyway kept reading from both NAAS and RAND reseach papers on various subjects- that then resulted in subtle and not-so-subtle details embedded in how approached my cultural and organizational change management consulting activities.
+
+While still in Brussels, by chance ended up on Yale online courses, and went through almost all covering political science, history, social history- but started from behavioral economics, as that was the domain that, by coming from 1980s political advocacy for European integration, and then building decision support models for senior management in the late 1990s, saw worth integrating.
+
+It is interesting how, by collecting few data points but harmonized across a whole organization, you can spot specific behavioral patterns issues in specific areas of an organization.
+
+Jump forward, few years ago followed a long and interesting course (as was structured as those that had attended in 1994 and 1995 in my "summer study": plenty of papers and videos from real neuroscience and social sciences experiments to support presentations within lectures).
+
+Formally, was on Neuromarketing and provided by a Russian university on Coursera.
+
+But was a time of experimentation: as shared in the past, a Chinese university posted instead on Coursera material on the history of organizational development of the Chinese bureaucracy.
+
+Pity that, last time I checked, neither was anymore online.
+
+Now, all this prologue to share not my background, but the journey (and skipped what had already shared in the past about the beginnings).
+
+Because this session hosted by the training center in Turin of the ILO was actually an introductory kick-off for a masterclass launch event.
+
+I do not know if I will be allowed to attend (even remotely), but I assumed that would be worth sharing with those of my connections that are within the training and organizational development or HR side of companies, notably now that we have to redesign everything to consider AI part of the environment, not just a tool.
+
+So, capacity building it is.
+
+I will share now few slides- just to entice you to look at the recording (that I hope will be made available soon, as I attended via Zoom).
+
+To close this section, I would like to answer how, in plain term, knowing about neurosciences can help you- by sharing a couple of examples from my past.
+
+First: if you deliver training within a corporate environment, I know that many got used to the final test.
+
+Anyway, a multiple choice final test just at the end of a course is more a crossing the Ts and dotting the Is checking if people was awake, than a decision-making tool to help management (including HR) to tune future sessions and adapt curricula.
+
+In the 1990s, we did not have the tools that we have know: so, as I had already few years of experience in delivering training up to senior management with different degrees of scolarization, decided that the closing test would be more interesting if done across, and complemented by the identification of gaps and real feed-back.
+
+Hence, each session had a form or another of practical activities, e.g. writing a description- followed by a class discussion, and then the next step would start from a shared solution proposed and discussed.
+
+At the end of the training, the evaluation was really about the course, not the attendees- and also about the teacher (myself).
+
+To debias from those who might try to be gentle with the teacher, and equally those who could attack the course as a Trojan horse to express criticism on the company (it happens), beside looking at suggested practices in training design and delivery, including those that used (and learned) before...
+
+... looked also at material from the polling industry, where properly design questionnaires (not those often on magazines) include also control questions to spot anomalies (which is not what some say that they would remove all that answer the same, all that are not within a specific, etc... that is leading to obtain results, not testing).
+
+Then, did something else: an agreement with the customer that, as there would be also open-ended questions (always cross-checked), I would not deliver the questionnaires filled to the customer, as each course was within the curriculum, and the aim was to spot adjustments, not to build a database of answers to spot dissenters or supporters.
+
+Some customers refused, and then gave them just a simpler questionnaire.
+
+Reason: if your purpose is organizational development via training etc, you need to allow people to be frank in their assessment, so that you can identify areas of improvement, knowledge gaps etc.
+
+But if you associate that with individuals, you will get "sanitized" feed-back, and will discover the difference only when there will be (negative) operational impacts.
+
+And now, some screenshots to entice you into looking in the material, which included also sharing reference to recent papers.
+
+The masterclass has been announced as "open class", hence probably should be available to anybody interested.
+
+I think that overall just having a look might help improve if not material, at least delivery, assessment, knowledge gap identification, and approaches to tailor improvement to individuals.
+
+Also: there is a gamification element.
+
+Stay tuned!
+
+And now, without further comment, some of the screenshots that took from the presentation- the last one contains the QR-Code to actually registered for the Masterclass (which was announced that probably, on this "neuroAI" theme and related, will be the first of many).
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260526_02_a_overview.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260526_02_b_simulating.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260526_02_c_multimodalsimulation.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260526_02_d_interconnected.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260526_02_e_neuroai.png)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260526_02_f_scan.png)</center>

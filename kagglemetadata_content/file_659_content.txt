@@ -1,0 +1,264 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260602_article.png)</center>
+
+This article is within the [Book writing blog](https://robertolofaro.com/booksblog) series.
+
+Initially, I had planned to release it a couple of days ago, but then decided first to revise some publishing plans.
+
+Anyway, this article within this section will be useful to share few links on some publication and data projects that are either already ongoing, already had at least one release, or whose preliminary material already shared.
+
+Hence, no announces about new projects that started: first, will have to release some material- but plan to release something about the new projects in July.
+
+Incidentally: today in Italy is a national holiday.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260602_repubblica.png)</center>
+([you can read more here](https://www.quirinale.it/))
+
+And now, will not share anything about that- wrote in the past, will write again in the future, but not in this article.
+
+As shared few days ago on Linkedin:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260530_linkedinpost.png)</center>
+
+Anyway, had a small change in planning, following the number of readers on the daily notes that saw each morning (as I released the "notes" of the day each evening).
+
+Over the week-end it expanded:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260602_feedback.jpeg)</center>
+
+As for the title... in part is linked to the official motto of the #FutureWeek Turin 2026 ("L'innovazione diffusa si fa sistema"), in part of what you could have read within the notes that published on daily basis between 2026-05-25 and 2026-05-29.
+
+And, of course, in part of the actual purpose of the publications discussed in this article.
+
+And now, the sections, starting first with publication updates:
+
+_ THEME 1: connecting the dots - a book series rationale
+_ THEME 2: the lifecycle of collaborations with AI
+_ THEME 3: fostering a grassroots innovation ecosystem
+
+
+<b>THEME 1: connecting the dots - a book series rationale</b>
+
+Connecting the dots is both an attitude and a natural inclination.
+
+And, so far, published [five volumes](https://robertolofaro.com/ctdseries) within the series with the same title (yes, you can read them also for free- search online):
+_ 01 #synspec, on talent management
+_ 02 #quplan, on planning
+_ 03 #relevantdata, on identifying and managing data relevant
+_ 04 #innovationitaly, sharing notes and ideas on innovation
+_ 05 #consentdata, on the steps toward building a data-centric society
+
+The book series derives from a series of casual events that already described in the past, hence no point in repeating.
+
+Let's just say: started publishing mini-books in 2012, when started working again in Italy from February 2012 after becoming again resident in Italy in January 2012.
+
+Interesting how already the first few interactions in a market where was unknown, Brussels, where moved after halted in the early 2000s my planned return to Italy, actually resulted in getting the nominal roles I was looking for, but already planning the next steps to get where I was- i.e. Cxx roles or interacting at that level.
+
+Funny how it was faster to get there in Belgium, a mere few months after started officially to look for roles there (first, 2005 to early 2008 had to phase out activities elsewhere) than in my own birthplace, where by choice I had not been working and living frankly since the late 1980s.
+
+Therefore, already in 2012 had to decide- and decided to work on missions but keep updating what I had derived from my business experience since the 1980s, focusing as usual on the dual cultural/organizational change plus data for decision-support.
+
+And program, project/ change / PMO management? Well had been part of my activities since the 1980s, and started training, coaching, recruiting project managers since 1990.
+
+And that "keep updating"? Implied that, in parallel to my official missions, continued research, experiment, spending time and money on training- and started publishing mini-books on change.
+
+As for the missions since 2012; if you were to look at the official title of my missions since 2012 that left on my [CV](https://robertolofaro.com/cv), you would see that the actual content was routinely "extended" vs. the official title.
+
+Justified, considering that generally each mission had been presented as either really long-term or temp-to-perm.
+
+Anyway, this implied that this website, that used to be just a kind of postcard/CV presentation until 2008, then while trying to settle in Brussels evolved into a way to publish articles just to position on the market my skills and experience, from 2012 instead became a way to share results of my experiments and research, ideas, and considerations.
+
+And the mini-books published since 2012? 
+
+The general concept is simple:
+_ each mini-book is focused on a specific theme
+_ it is a kind of "signpost" across a continuum on the theme
+_ hence if could be preceded or followed by articles.
+
+Since the late 1980s I was used to prepare position or review papers for business uses, and from the early 1980s to read position papers in politics and policy, hence was changed was that I had to shift to different audiences.
+
+As you can see, on this website there are few hundred articles (there are more now offline): writing once in a while a mini-book (around 100 pages) connecting elements around a theme is just a natural evolution.
+
+The next one will be based on what shared as daily notes from my attendance last week of #FutureWeek Turin.
+
+And, incidentally, to support this mini-book, plan to do some other AI-related releases.
+
+
+<b>THEME 2: the lifecycle of collaborations with AI</b>
+
+In this section, would like to share considerations more than updates.
+
+I do not know if you read my daily MorningNews that started testing earlier this year, and released since March 2026.
+
+Few days ago, released yet another "increment" based on the feed-back from AIs as well as monitoring how it went.
+
+The main model that I use is Claude (<a href="https://www.patreon.com/collection/2094015?view=expanded>here on Patreon you can access each daily release</a>), using Kimi as a fall-back when there are some issues with Claude.
+
+I did share in the past part of the development process and material (e.g. [the general outline](https://github.com/robertolofaro/supportmaterial/tree/master/MorningNewsSkill)), but probably in the future will share the full Claude project along with a step-by-step history of development and changes (currently the version is 1.2, 1.2.2 from few days ago).
+
+Specifically, I think if I were to shift working with or for a provider of a base model, would release the source of that project (along with others made with other models as well as Claude) along with commentary on the lifecycle and development/evolution process, as a kind of tutorial collection.
+
+It comes with the territory: since my first official project in 1986 (was not my first project, IT or otherwise), I had always to formalize, structure, design, redesign processes- and design, position, "sell", deliver training curricula, both about business software and organizational issues.
+
+And then methodologies and structured approaches: and, frankly, I think that with the current AI there are too many putting the cart in front of horses.
+
+In my view, the key element of collaboration with AI is actually to keep integrating also collaboration with humans.
+
+Reason? Because, in part due to out structural inability to process the same quantity of information that usually "feeds" training of AI models, and in part because we cannot compress time by going in parallel as computer do, we humans bring to the table potentially unique perspectives based on our imperfect and selective grasp of data and the systemic context.
+
+While taken individually this could be a weakness, if we escape the trap of confirming that usually converts "wisdom of the crowd" into a "collective dissonance" to converge on what is the current "mainstream", having a continuously evolving and mutating aggregation of humans focus on something can generate new ideas.
+
+Anyway, integrating AIs, also if trained from the same material, but adopting a different "framework" in using that training, plus updating with different interactions with different human groups, can allow to use AIs to identify what, if done by humans, would be considered "creative" maybe, but certainly innovative- and I am not referring to copying what already exists and applying a new label, or mere incremental innovation.
+
+Still, I think that it is up to us humans to revise our own way to organize society and work, to maximize benefits.
+
+
+<b>THEME 3: fostering a grassroots innovation ecosystem</b>
+
+This section is both about capabilities building and repositioning a territory, a former company town called Turin, Italy.
+
+While completing this article I am following [The State of the Science Address 2026](https://www.nationalacademies.org/events/1133?status=attended&session=4086733&eventID=347002&ID=69507848), a virtual (and in-person, but I am not in Washington D.C) organized by the National Academies of Sciences Engineering Medicine.
+
+There have been changes in policies since 2025 that resulted in exporting STEM talent instead of importing talent.
+
+Turin is expanding its investment in academia, courtesy also to the presence of banking foundations that invest on the territory by articles of incorporation.
+
+Still, repositioning, in the XXI century, requires more than just investing in academia, as innovation does not necessarily comes directly from academia or industry, and developing new patterns might require a different blend of STEM and non-STEM.
+
+I think that the event is recorded, and therefore will be available later- and it is interesting how in the USA are reconsidering not just the how of funding, but also the why- rethinking rewards and missions.
+
+If you read articles on this website, you know that I like to quote history books, to show how not necessarily considerations useful while discussing innovation need to reference only what has been published in the latest decade.
+
+Instead of the usual Peloponnesian War, whose length would be more appropriate for my  personal long-term collection of interference from the territory...
+
+... will focus on a more recent and shorter historical example.
+
+Selected a specific element of the Peninsular War during Napoleon times, from the British perspective: "Spying for Wellington - British Military Intelligence in the Peninsular War".
+
+Why this example?
+1) it is about organizational development
+2) shows how past successes do not protect from cognitive dissonance
+
+As discussed about the British operation against Denmark (not only President Trump), "They were situating the appreciation rather than appreciating the situation".
+
+The point is that when talking about innovation, we often focus on innovation per se, and collect the components of innovation, as if by putting all the ingredients for chocolate cookies, magically cookies would appear.
+
+There is an obvious difference: with innovation, just having ingredients available is not necessarily producing results- but it is part of the rules of the game, not every potential innovation produces results.
+
+Anyway, from the same ingredients (talents, funding, infrastructure), you could get zilch or a valley of innovation- the latter requiring that whatever is learned, positive or negative, can flow into other potential innovations.
+
+What matters is to help develop the ecosystem, not working in vertical "control freak" silos.
+
+I know that the old saying is that if you want to go fast, run alone, but if you want to go far, do with a team.
+
+Still, those who quote that phrase forget an element: it matter also with which team.
+
+Let me give you a couple of examples.
+
+Late 1980s, was working for Andersen+Comshare in Italy on decision support systems, and it all started when the manager of my branch of a software development structure belonging to Andersen (that was available, beside Italy, in some Spanish-speaking countries, I was told) asked me to join him into a new business unit that was being set up to sell software products and associated services.
+
+Specifically, he told me that, considering my past (PROLOG) could be interested in the technology that was going to cover for Andersen+Comshare, the PC-side of decision support systems.
+
+Well, it was quite a ride.
+
+The first test project was one that joined... while was about to end.
+
+Apparently, a tradition of mine, being called to complete or recover+complete.
+
+It was 1988- ended up producing documentation of a large management reporting system using a PC-based model to collect data, and then a kind of "electronic mailbox service" to receive everything from every subsidiary, consolidate, and then have a central system do presentation and analysis.
+
+Documentation, I said- to the tune of over 800 pages following Andersen's methodology and using Andersen's methodology and associated documentation tool, and then... following the printing and distribution of copies to around 60 companies, plus working on delivering pilot management training  
+
+Then, had a long list of sites and industry and customers and projects on whose models worked on- from internal Andersen projects (different divisions, control systems), to customers of different divisions of what eventually became Andersen Consulting, to also a bit for a unit of the audit side, to Comshare customers in Italy.
+
+You can [see at the end of my CV page](https://robertolofaro.com/cv) a sample list of customers by industry- and includes both decision support systems (1980s-1990s), business intelligence (1990s-2000s), and, of course, cultural/organizational change (1990s-2000s officially, and unofficially in all the missions from the 2010s).
+
+To make a long story short... I was a table tennis ball ricocheting mainly across Italy with few hops even abroad, extending my working day to even 18 hours.
+
+And, actually, improved my multi-tasking and context-switching skills, as, in times when there were neither email nor mobile phones, I ended up working to get approval of my own way of using the standard time reporting, as each day worked often on multiple projects.
+
+Andersen's rules required generally once every two weeks to report time and cost- by specifying customer account codes or internal codes your hours and expenses would be billed to.
+
+The permission I had to ask? To use two forms (one, two pages, was not enough), and... to charge in 15mins slots (i.e. .25, .50, .75), not just full hours (also because the couple ethical standards plus personnel reference binder, derived from the audit branch, explicitly stated that you could not double bill the same hour).
+
+So, after more than one year of that, once a colleague in office half-jokingly said that should consider setting up my own shop, as I was working in so many projects under multiple layers of management.
+
+And, suddenly, my other colleagues that were there said that if I opened shop they would join me.
+
+A good idea isn't it? Well... none would be willing to work how I was working- so I would replace layers of management and coordination while receiving a salary, with other layers that I would subsidize.
+
+The second case happened when I was in Brussels, and met many who were waiting to get a role within European or other international institutions, and some meanwhile worked in ASBLs (non profit) with unusual titles (useful if the ASBL shut down, as then there would be zilch chance that a role with the same title would be found, as I was told by some- hence, you would keep getting benefits for a while).
+
+In that case, I had set up a Facebook fan page for a pub where we all went, and that page started having some traffic.
+
+So, some offered to join me on the organization side but... asking me to give them titles that would sound well on their CV for the roles that they were looking for.
+
+Work? No, not really- they just asked for a title to add, and promised not to interfere with what I was already doing...
+
+I could share more cases that received from others, but the lesson is the same: yes, to go far you need a team, but a decent team where each member contributes.
+
+Hence, the title of this article: if you read the "segments" that posted online during the #FutureWeek in Turin 2026-05-25 to 2026-05-29, you saw that here and there repeated often concepts related to team building, community building, learning, etc.
+
+Notably, something that is still not-so-often considered in Turin: self-organizing teams and communities.
+
+Repositioning the territory of a former company town is never easy, notably one that used to be larger than it is now, had (and still retains) a significant infrastructure that needs to be renovated, maintained, used, and moreover a territory that keeps looking for and trying new ways to become attractive.
+
+Diversifying within a financial portfolio makes sense, but even there timing is relevant, you cannot jump continuously on the latest bandwagon.
+
+Also because, at least since 2012 when returned, I saw that that bandwagon effect in Turin has a curious element: many trying to show that they were precursors, notably by highlighting when first they did it locally- as if it had been the first certainly in Italy, but maybe in Europe or the world.
+
+In human affairs, it is even more complex.
+
+If you add on top of that the habit of trying social engineering approaches imposed from the top but without having the willingness to wait the time needed, you understand why within those ["segments"](https://robertolofaro.com/index.php?page=654) instead proposed to change perspective.
+
+The format of #FutureWeeks allows to blend domains, and have people with different backgrounds share the same discussion space.
+
+Out of those accidental meetings, thinking to set up a hierarchy with few local champions appointed by local tribes, to control all that comes out of that is at best delusional, at worst detrimental.
+
+Shared in the past how, in a previous even, saw how such an open attempt to "set up the command center locally" was rebuffed: Turin has to learn to lose control, if it wants to attract people and funding to develop- also on what really generates here (and not just on those "bandwagon" cases).
+
+In a territory where everybody and everything is used to micro-management, you have to provide an environment that allows those that found a potential to develop a micro-community of interest to actually try- and maybe also to fail.
+
+Failure has to be one of options on the table.
+
+If you have errors, you improve and recover- and that is not a failure.
+
+But, anyway, the environment should enable to share and communicate also failures- as that would allow others to transfer lessons learned in other domains.
+
+As I shared in previous articles (including the "notes" for #FutureWeek Turin 2026), it is one of the reasons why we in Italy, and not just in Turin, should decouple welfare and training plus experimentation funding from companies, and allocate to individuals or teams that then will either create a startup, or will be "hosted" by a corporate entity that has already in place the infrastructure (physical and organizational) needed.
+
+A point that has been repeatedly discussed, and not just last week, is how universities focus on spin-offs (hence, many startups coming from academia start with professors) and licensing, despite the massive public funding provided by State and other entities, instead of being created by students.
+
+Those discussions reminded me what an American colleague told me in the 1990s: his wife was used to do research for universities whenever they switched country.
+
+In other European countries, when the research received a grant from European institutions, she or the team "paid" the services of the university.
+
+In Italy (I will not say which university where, but was in Northern Italy and not in Turin), she received a grant- that went through the university, department, etc- all the academic hierarchy, each layer taking a slice.
+
+When at last she saw the residual amount, she complained that could not do research with that amount- and was told to do as others did: visit the library.
+
+It is curious to see how often, to show that they are "modern", locals in Turin in every public event talk about "abandoning" the automotive mono-industry approach.
+
+Forgetting that automotive was and is an industry of industries, and that, once those capabilities are in place and maintained, it is possible to experiment on new production lines and concepts.
+
+Moreover, when trying to show to be even more modern and post-industrial, initiative presented are again suffering from the same "control freak" attitude, with a difference.
+
+At least, when Turin was a company town, the company at the top of the pyramid provided funding.
+
+The new entities instead often ask for funding as if were entitled to a blank cheque.
+
+While, at the same time, "in sedicesimo", trying to assert control.
+
+This is not how you can actually generate multiple potential streams derived by talents unfolding (and maybe failing but then learning and developing new ones).
+
+As shared within the daily notes last week, anyway while on Monday and Tuesday the usual "we are the best, we are unique, we are the innovators" was almost a preaching to the choir, gradually saw a shift and more and more admitted that ideas can come from outside, and that you need to accept different contributions, if you want to innovate.
+
+Now will be interesting to see if, after this week that closed with the final panel at the Museo Egizio where new opportunities were presented, really the territory will use the "contamination of domains" derived from the meetings to create an environment where innovation will get a fair try.
+
+Or if, after the local champion moved away, instead the mindset "cradle to grave" is still there, with its associated "control room" approach.
+
+Usually, in Italy June and July is when things start slowing down, while August, notably in company town, used to be when nothing move- as a kid in the mid-1970s, I remember how in Turin was even difficult to find open bakeries, in August.
+
+This year is even more complicated than 2025, and we will see the impact of wars and climate (e.g. the supernino announced) on development and events.
+
+
+So, stay tuned for more updates.

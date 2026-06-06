@@ -1,0 +1,163 @@
+This article, as announced earlier today on Linkedin, is an experiment.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260525_prologue.png)</center>
+
+The introduction will be shared between all the segments, and eventually will remove the segments from the website, and publish a new article containing all the segments plus connecting material.
+
+The sections (for today):
+_ Introduction- the approach 
+_ 2026-05-25 - the opening session.
+
+
+<b>Introduction - the approach</b>
+
+Yes, some remember that did a similar experiment in 2012, when visited Berlin.
+
+Back then, wrote in a first post that was going to visit Berlin for a couple of weeks, but, whenever a post reached 50 readers, would publish a new one.
+
+And, back then, ended up, to keep my promise, sometimes to have to publish twice in a day.
+
+In the end, it became a mini-book prepared in late 2012 and released in early 2013, where also explained the history of my [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com), a quarterly on cultural and organizational change that published between 2003 and 2005, in preparation of my return from UK to Italy.
+
+You can download that mini-book, [#BerlinDiaries - a personal journey through the new nervous centre of Europe](https://www.slideshare.net/slideshow/berlindiaries-a-personal-journey-through-the-new-nervous-centre-of-europe-v20-downloadable-book/93427582).
+
+The approach was actually a side-effect of of my business experience, that was across different domains, industries, technologies: you end up continously updating and scouting.
+
+It happened often that for either customers or partners, and in the late 1980s to early 1990s also for my employers, had to switch domain, usually interacting with domain experts.
+
+As for the magazine, the reason why I stopped it in 2005 was that... after supporting part-time startups, private companies, and working as part-time PM/BA in Rome on Government agencies projects for a partner...
+
+... decided that was too foreigner for Italy, and accepted an invitation to relocate instead to Brussels .
+
+As somebody unknown who once, years later joined me for a pint I think in Rotterdam told me, moving to the "new Berlin" with my CV was not necessarily the smartest idea.
+
+Lost count of how many "checking the background on missions" were informally done by inviting me to dinners, fairs, exhibitions.
+
+But certainly both those and previous tests in London (as was unusual to have somebody suddenly appearing from Italy, working in banking in Switzerland living not in Chelsea but in an area considered poor, and going around weekly either to Paris or Zurich) were better than the treatment in Turin (and a bit in Rome) since 2012.
+
+Different background checking and recruitment styles.
+
+Anyway, writing in segments online really started in Brussels in 2008, and I remember that by 2009 had published multiple article series (now offline), all based on my experience, research, update- and blending different domains.
+
+Just to make it funnier: after few of those articles got some local feed-back, including questions about who were my sources (disclosure: if you worked in enough different domains long enough, you can connect the dots and forecast new dot connections often even before many of those involved, except their bosses, can)...
+
+... I received an email.
+
+I was 43 and living in Brussels, and the email was from an American former officer- I had met him in the late 1990s, while he represented a large US system integrator, as I was in Brussels visiting my brother (once in a while took the Eurostar London-Brussels), and entered a list to work on PHARE projects.
+
+I was never called up for a project, but probably had made a positive impression- because, when he wrote me, he was in Moscow with a Russian-American company, and the title of the email was something like "a shot from the blue" or "out of the blue".
+
+He asked for my CV- which, having always worked through word-of-mouth since 1990, was frankly a pro-forma, with no names and no details.
+
+Then, came a reply: please send a fully detailed CV with every project your worked in and in which capacity, no more than a paragraph for each project.
+
+The document ended up being 9 pages long- so, asked an Italian friend working in banking to give me a feed-back.
+
+The reply: that I was trying to hide my age, because claimed to be 43, but to have done all that should have been 143.
+
+The beauty of working by word-of-mouth: you are not called for the CV, but for the capabilities already proven, and being asked either to use them, or if you are willing to develop new ones that could leverage on the existing ones.
+
+So, I send it anyway.
+
+The final reply: basically, that they had no idea how they could allocate me- welcome to specialization world.
+
+Once in Brussels I was let to know by a recruiter that he turned down the opportunity to vet my background for a role using a 360- he said because with my CV would have been at least few years, and doing that kind of challenge testing for more than one year is inhumane.
+
+Say: Italians have no qualms, as tests actually started when first moved to UK in late 1990s, and then from the public side again when started working part-time in Rome with some curious cameos to let me know that was known where I went, who I met, etc, in 2004.
+
+What doesn't kill you builds you- hence, the ability to work across even more activities at the same time and across timezones with a follow-the-sun... as an individual.
+
+My CV back then in the mid-2000s was nothing special, frankly: 99% perspiration through word-of-mouth, and 1% inspiration- chaotic for some, but simply, if you looked by industry, there were many parallel lines.
+
+If I were to prepare it now with the same level of detail, maybe as an AI Q&A model, would be even funnier and less credible: still, enabled to accelerate auditing of and writing about patterns.
+
+As you can see on this website, writing in segments [is a habit](https://robertolofaro.com/multipart): as it started in the late 1980s, when was almost on a daily basis in a completely different town and business environment, mainly around Italy.
+
+Therefore, the approach for this week has been to reserve events where I could "sample trends" and get "signals" from the territory, also to get different perspectives, and, potentially, different opinions on the same concepts about innovation, emerging technologies, change, etc.
+
+And now, today's segment.
+
+
+<b>2026-05-25 - the opening session</b>
+
+I would like to start by sharing again a picture that posted within my latest article, [The potential of a structurally tribal country #Italy](https://robertolofaro.com/index.php?page=653):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260522_00_01_pope.jpeg)</center>
+
+As, today, there was a <a href="
+https://www.linkedin.com/posts/the-pope-just-teamed-up-with-anthropic-today-ugcPost-7464699992138625024-Dzxh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg
+">further announce</a>, and one of the co-founders of Anthropic co-sharing the stage with the Pope, focusing on AI governance.
+
+Today ended up attending only the opening event of #FutureWeek in Turin- and covered all the morning.
+
+As shared with some colleagues, as expected there was a bit too much of "Cicero pro domo sua", but overall was informative and interesting, as the discussion ranged themes from AI adoption, to "old" and "new" AI, to potential, and a convergence on the need to revise business practices, not just tools.
+
+Also, multitasking, from a company adopting AI in manufacturing, was discussed as a differentiating factor for the youngest generation that recently entered the market.
+
+Meaning: it is not multi-tasking per se, but also the business logics that conflict with the potential.
+
+Somebody said that there are still 1990s practices- as shared with some colleagues via social media in private messages, it was a generous form of criticism.
+
+Because, frankly, I heard way too often noises also in various events in-person and remote that would not have been out-of-place in the late 1970s.
+
+This morning was panel after panel, each one focused on a different element:
+
+<i>
+08:00 - 09:00 Registrazione partecipanti
+
+09:15 Presentazione del lancio della settimana di Future Week Torino
+
+09:20 Torino del presente e del futuro: grandi eventi, innovazione, trasformazione industriale
+Cristina Prandi, Rettrice UniTO
+Chiara Foglietta, Assessora alla Transizione ecologica e digitale, politiche per l'ambiente e innovazione, Comune di Torino
+
+10:00 I 4 pillar della citt&agrave;: Intersezioni Industriali, Frequenze Creative, Nuovi Mondi e Piattaforme della Conoscenza
+Focus Intersezioni Industriali:
+Cristina Fresia, CEO Fresia Alluminio
+Fiorenza Succu, Chief Evangelist AI4I
+Maurizia Rebola, Manager Culturale, Fondazione per la Cultura Torino
+Alberto Conrotto, Digital & Open Innovation Manager di CA Auto Bank
+
+10:30 Lavoro, risorse umane e innovazione
+Lucio Oliveri, Direttore Generale Direzione Lavoro
+Elisa Mongiano, Presidentessa SAA
+Federico Sandrone, Presidente Giovani Industriali Torino, Unione Industriali Torino
+
+11:00 L'industria del futuro: ingegneria, automazione, manifattura avanzata
+Ugo Alberti, Teoresi DigiTech Division Manager, Teoresi Group
+Andrea Mazzarano, Senior Advisor for Digital and Product Sustainability, POMINI Long Rolling Mills
+
+11:25 L'industria del futuro: ingegneria, automazione, manifattura avanzata
+Andrea Marchese, General Manager - DMC Division, Yaskawa
+Claudia Diez, Product Quality Manager, Comau
+Andrea Ganio, Relazioni istituzionali, Spea
+
+11:50 Chi ha rapito la fiducia? Inchiesta e retroscena di un sistema economico sotto pressione
+Luca Berti, Country Manager CreditSafe
+
+12:15 L'innovazione come collaborazione tra pubblico e privato
+Guido Improta, Chief External Relations & Communication Officer, INWIT
+
+12:35 - 13:05 Dall'idea all'impatto: l'innovazione che prende forma in UniTo
+Paola Pisano, Professor at the University of Turin
+Sara Marovelli, Graduate of the University of Turin, co-founder of Improntix
+Alberto Fringuello Mingo, Bracco Global Research & Development / Digital Health
+</i>
+
+There was even an additional duet between the the presenter and a representative of ENEA (the agency originally for atomic energy, currently focused on fusion and overall alternative energy) and the Industrial Liaison Officers Network.
+
+I still think, as shared with some friends, that here in Italy we have too much talk and too little walk, but overall was informative, and will share more details in a later article.
+
+In Italy, as confirmed today, we still have this attitude to "pilot from above"- while, instead, modern technology and model innovation (but not just now- also under the old "quality" and "lean" movements) should emerge from those on the frontline, who have a unique continuous perspective certainly for incremental innovation, but also as catalysts for disruptive innovation.
+
+It was interesting to hear some elements that discussed within a previous article about "talent" and Turin [Rethinking talent lifecycle: a visual storytelling using Turin as a case study](https://robertolofaro.com/index.php?page=652), and the latest article that linked above.
+
+It is not a sign of prescience: simply, of convergence and "connecting-the-dots" as described within the introduction.
+
+As shared with a friend today, I think that, while in Italy still hear discussions about potential integration of support to students with connecting with former students, something that already was old story and common even just for summer schools students when attended LSE in 1994 and 1995 for two summer schools, it should be students that start self-organizing their own networking and proposals for experimentation.
+
+As was remembered today by a professor, in Italy still professors are behind many startups, not students- and, frankly, already 20 years ago, when a business and marketing plan that prepared for a startup won a prize in Turin, I remember noticing that we were the only ones that did not have a professor between the founders.
+
+So, there is still some work to do- but, anyway, as will share in my "notes about details" next week, it was still worth listening to get my "signals from the territory"- a bit of self-promotion if the rate of signal to noise is decent still is a good investment of your time.
+
+Stay tuned!

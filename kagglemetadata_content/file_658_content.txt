@@ -1,0 +1,278 @@
+This article, as announced Monday on Linkedin, is an experiment.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/20260525_prologue.png)</center>
+
+The introduction will be shared between all the segments, and eventually will remove the segments from the website, and publish a new article containing all the segments plus connecting material.
+
+The sections (for today):
+_ Introduction- the approach 
+_ 2026-05-29 - keep calm and use AI, plus repositioning academia
+_ Closing considerations
+
+
+<b>Introduction - the approach</b>
+
+Yes, some remember that did a similar experiment in 2012, when visited Berlin.
+
+Back then, wrote in a first post that was going to visit Berlin for a couple of weeks, but, whenever a post reached 50 readers, would publish a new one.
+
+And, back then, ended up, to keep my promise, sometimes to have to publish twice in a day.
+
+In the end, it became a mini-book prepared in late 2012 and released in early 2013, where also explained the history of my [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com), a quarterly on cultural and organizational change that published between 2003 and 2005, in preparation of my return from UK to Italy.
+
+You can download that mini-book, [#BerlinDiaries - a personal journey through the new nervous centre of Europe](https://www.slideshare.net/slideshow/berlindiaries-a-personal-journey-through-the-new-nervous-centre-of-europe-v20-downloadable-book/93427582).
+
+The approach was actually a side-effect of of my business experience, that was across different domains, industries, technologies: you end up continously updating and scouting.
+
+It happened often that for either customers or partners, and in the late 1980s to early 1990s also for my employers, had to switch domain, usually interacting with domain experts.
+
+As for the magazine, the reason why I stopped it in 2005 was that... after supporting part-time startups, private companies, and working as part-time PM/BA in Rome on Government agencies projects for a partner...
+
+... decided that was too foreigner for Italy, and accepted an invitation to relocate instead to Brussels .
+
+As somebody unknown who once, years later joined me for a pint I think in Rotterdam told me, moving to the "new Berlin" with my CV was not necessarily the smartest idea.
+
+Lost count of how many "checking the background on missions" were informally done by inviting me to dinners, fairs, exhibitions.
+
+But certainly both those and previous tests in London (as was unusual to have somebody suddenly appearing from Italy, working in banking in Switzerland living not in Chelsea but in an area considered poor, and going around weekly either to Paris or Zurich) were better than the treatment in Turin (and a bit in Rome) since 2012.
+
+Different background checking and recruitment styles.
+
+Anyway, writing in segments online really started in Brussels in 2008, and I remember that by 2009 had published multiple article series (now offline), all based on my experience, research, update- and blending different domains.
+
+Just to make it funnier: after few of those articles got some local feed-back, including questions about who were my sources (disclosure: if you worked in enough different domains long enough, you can connect the dots and forecast new dot connections often even before many of those involved, except their bosses, can)...
+
+... I received an email.
+
+I was 43 and living in Brussels, and the email was from an American former officer- I had met him in the late 1990s, while he represented a large US system integrator, as I was in Brussels visiting my brother (once in a while took the Eurostar London-Brussels), and entered a list to work on PHARE projects.
+
+I was never called up for a project, but probably had made a positive impression- because, when he wrote me, he was in Moscow with a Russian-American company, and the title of the email was something like "a shot from the blue" or "out of the blue".
+
+He asked for my CV- which, having always worked through word-of-mouth since 1990, was frankly a pro-forma, with no names and no details.
+
+Then, came a reply: please send a fully detailed CV with every project your worked in and in which capacity, no more than a paragraph for each project.
+
+The document ended up being 9 pages long- so, asked an Italian friend working in banking to give me a feed-back.
+
+The reply: that I was trying to hide my age, because claimed to be 43, but to have done all that should have been 143.
+
+The beauty of working by word-of-mouth: you are not called for the CV, but for the capabilities already proven, and being asked either to use them, or if you are willing to develop new ones that could leverage on the existing ones.
+
+So, I send it anyway.
+
+The final reply: basically, that they had no idea how they could allocate me- welcome to specialization world.
+
+Once in Brussels I was let to know by a recruiter that he turned down the opportunity to vet my background for a role using a 360- he said because with my CV would have been at least few years, and doing that kind of challenge testing for more than one year is inhumane.
+
+Say: Italians have no qualms, as tests actually started when first moved to UK in late 1990s, and then from the public side again when started working part-time in Rome with some curious cameos to let me know that was known where I went, who I met, etc, in 2004.
+
+What doesn't kill you builds you- hence, the ability to work across even more activities at the same time and across timezones with a follow-the-sun... as an individual.
+
+My CV back then in the mid-2000s was nothing special, frankly: 99% perspiration through word-of-mouth, and 1% inspiration- chaotic for some, but simply, if you looked by industry, there were many parallel lines.
+
+If I were to prepare it now with the same level of detail, maybe as an AI Q&A model, would be even funnier and less credible: still, enabled to accelerate auditing of and writing about patterns.
+
+As you can see on this website, writing in segments [is a habit](https://robertolofaro.com/multipart): as it started in the late 1980s, when was almost on a daily basis in a completely different town and business environment, mainly around Italy.
+
+Therefore, the approach for this week has been to reserve events where I could "sample trends" and get "signals" from the territory, also to get different perspectives, and, potentially, different opinions on the same concepts about innovation, emerging technologies, change, etc.
+
+And now, today's segment.
+
+
+<b>keep calm and use AI, plus repositioning academia</b>
+
+Considering the way I filled my agenda this week, today was unusual- as selected a conference just before lunch, then (too warm!) decided that a book and a quick lunch in the park were the best way to escape the heat wave while... waiting for the event that closed the day.
+
+This week I had planned to have a "fill the waiting time" book a re-read of a book on EdgeAI with some updates to obtained from AIs to re-validate a 2023 book for 2026.
+
+Then, saw that my usual local circus tried to use that as a subject to approach, and switched to a book on... how to lose a battle (and, often a war and kingdom).
+
+Yes, I knew a bit about most the of lost battles I read about so far, but it was nice to see on each battle few pages focused just on what, in business terms, could call...
+
+... "root cause analysis"- which, in this case, amounted mainly at human failure to remove biases from their own decision-making.
+
+Hence, if you read the introduction, you understand why I selected that book.
+
+Moreover, you can understand why, for the last couple of "operational events onsite" (there was a conference that I had to listen in parallel but, as was recorded, will have a look tomorrow).
+
+Today selected two conferences structured as a kind of "speed dating meets talking about cultural change"- the first one explicitly about Cybersecurity and AI from the perspective of those impacted or trying to set up governance, the second about a specific case of academia discussing its own role considering the ongoing changes (not just AI), involving its stakeholders- not just academia itself, but also current students, recent-and-not-so-recent graduates, and the business perspective (as there was also a representative of the Unione Industriale of Turin within the audience).
+
+This time, instead of sharing my own narrative, would like to do something different: share first my draft notes from both events, and then some considerations.
+
+With a twist: for the first one, will share textual notes (that already shared online with some today), for the second one, first images, then much shorter notes.
+
+Finally, shorter considerations that really cover the whole week so far.
+
+So, this article will be shorter than the others this week.
+
+Reason? 
+
+Will explain in the next section.
+
+Now, the first event: "CyberMind: AI e sicurezza digitale": I took the notes during the event, so you get my own conversion in English and real-time summarization and "connecting-the-dots" exercise.
+
+<em>Fabio Ciravegna
+. Streamlining and productivity increase by shifting non-knowledge-intensive activities to AI
+. Cprporate level shifting processes to supply chains with embedded orchestration
+. Cpnveying agentic via the paraphrase of approach
+. Risk/opportunity: systems with human & tech problems
+
+Angelo Sacc&agrave;
+. Organizational impact of AI in PA (in Italian: public administration- could be State, regional, local offices and agencies)
+. First procurement T&C constraints
+. Segregation of duties and need to know in information access and dissemination 
+. Convergence on guidelines integrating w/processes
+. Often underimining control to accelerate
+. Issue on scalability due to resources/processes/budgets
+
+Paolo Dal Checco
+. Focus on forensic cybersec
+. E.g. using AI to document lineage of attacks
+. Issue externalization of models on cloud or 3P infra
+. Leveraging on capalbilities of platforms to build local on premise tools
+. Flipside is that also criminals do the same
+
+Mauro Alovisio
+. Legal issues on cybersec NIS2 compliance?
+. In September also [Cyber resilience Act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
+. Cybersec is not anymore just cyber, but systemic- physical and digital
+. Raise awareness at the Board level, and provide flows to the Board for review
+
+Laura Marengo (avvocato Unione Industriale)
+. Corporate data governance
+. 2200 companies, 85% SMEs [NDR: it is the local branch in Turin of the Industrialists' association, akin to UK's CBI]
+. Paradigm shift: not just ICT, but also top level management- regulations etc focus on that level (my note: remember SOX)
+. With AI act, needed proactivitu- legal org tech with multidisciplinary teams (larger companies already doing)
+. 1 map systems that could be using AI
+. 2 GDPR and other (e.g. copyright, IPR) compliance
+. 3 protect confidentiality and corporate- including unauthorised use of AI of corporate or private devices
+. Policy adoption
+. Training and Awareness
+. Convergence toward orchestration in compliance to turn into competitive advantage
+
+Giacomo Tassone (as Marengo but Confindustria Cuneo)
+.
+
+Sergio Bianchi Confservizi Nord Ovest
+. Attack surface continuously expanding, e.g. sensors
+. 1. Developed training facility and funding on training
+. 2. On AI: a. Awareness b. Prompt engineering and protecting organizational perimeter c. Governance
+. Companies: develop protocols, internal LLM models with man-in-the-loop
+
+Claudio Ruffini Augeos S.p.A.
+. Banking industry
+. +49% high-impact attacks worldwide
+. Slightly less than 10% worldwide attacks are on Italy, where 0.13% of GDP.on cybersec- Europe double
+. 2024: 450mln EUR in cybersec AI,  60% infra 10% services 10% compliance
+. Issue and vulerability: coexisting legacy and modern
+. priority 2026: industrialization core and cybersec processes, overall fintech
+. Again connectivity and weak link issues, IoT and physical, olus geopolitical issues (e.g. hacktivism)
+. A. Security by design B training C increase intelligence D compliance E defensive AI
+. Focus investment on governance
+. Ethical issues
+. Sustainability of AI
+
+Fabiola Silvestri - training previously cyber police
+. 95% data breaches in 2025 human error
+. Shadow AI and delegation of authority and reuse for training downstream
+
+Simona Alfiero universit&agrave; Torino
+. presenting the new master: mgcybersecurity.unito.it
+
+</em>
+Then, the second event was called "RI-FORMA: ricerca, formazione e impatto ambientale".
+
+Let's see if you guess what it was nominally about by looking at the images...
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_01_20260529_161352_801_redux.jpg)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_02_20260529_162049_211_redux.jpg)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_03_20260529_162942_484_redux.jpg)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_04_20260529_163806_500_redux.jpg)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_05_20260529_164059_275_redux.jpg)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_06_20260529_165210_926_redux.jpg)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_07_20260529_174058_672_redux.jpg)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_08_20260529_174253_130_redux.jpg)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_09_20260529_180500_117_redux.jpg)</center>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/05/202060529_10_20260529_180750_203_redux.jpg)</center>
+
+Yes, the discussion was nominally about "biology", as that was the faculty- but really the interest of the discussion, and why attended, was both the format and those involved, as the issues that were discussed are common in Italy for any faculty.
+
+As an example: when attended in 1994 and 1995 the Summer School at London School of Economics, and in 1994 also in Gothenburg a Summer Academy at the linguistics department, we had three elements that was already familiar with from my own training design and delivery in school, Army, business.
+
+Or: we had a the traditional part where the professors transferred to us a "knowledge framework", but we had also to prepare each lesson with readings, and we had discussion panels between us and the professors each day- and, when back at the dorm, often I did not simply read the papers to prepare for the next day, but joined my classmates to jointly develop on the subject (which, in many cases, as I had already quickread the material, for me meant mainly actively listening first, and then exchanging ideas).
+
+From the discussion, while elements of interaction have been added, still "transferring formalized knowledge" is the main elements, in Italy.
+
+Also due to the timegap between identification of a need to evolve material or the curriculum, and time to get through all the approvals even up to the Ministry in Rome for any change.
+
+So, it was discussed how, instead of MOOC or other "push online the lectures", now are trying to add micro-credentials that are not formally part of the curriculum, to enable changing fast if needed and have an "expiration date" attached- plus experimenting between mixing "traditional" credits to graduate plus smaller "pills" that can anyway by composed into something more complex.
+
+Seen from my perspective, the discussion was still more on "this is what you need to do to graduate" than, if you really want to push adaptability and flexibility, "layering" compulsory and electives, also to help students to learn- if, as stated at the end, the point is also to have students get used to lifelong learning.
+
+If in private business certifications the "credits per year" to acquire (sometimes in a distorted way) are needed to retain your certification "alive", doing the same within Italy at the university level would be even more complex than when I was in the Army, and I remember meeting in the 1980s people who had served as 2nd Lieutenant and kept being recalled when there was an equipment update.
+
+Maybe also the internship concept should be reviewed, again to use it both as a learning tool on "hard skills" and on "soft skills"- including organizing your own work and working within scope, targets, budgets.
+
+Frankly, I think that academia should also control the quality of those internships- as I used to say in business to partners, if you add in a small team one person that has to be coached and trained, assume that will "absorb" at least 25% of the time of somebody more expert.
+
+Hence, if a company piles up internships, smells more as a matter of lowering HR costs than actually a balanced exchange and also support to keep the market having skills.
+
+Nothing new- what I heard and saw around since 2012 (and a bit a decade earlier) was also common on the 1990s elsewhere in Europe.
+
+When I said in the late 1990s to a London colleague that an American classmate at LSE and his Russian friend attending another university both met while doing an internship, and they talked to me of internships at oil companies, large retailers, etc in the US, describing their learning experience e.g. within the marketing department, my colleague in London told me that the history I would hear in UK about "internships at retailers" weren't about a university student working within the marketing department and learning, but about...
+
+... working at the checkout line and scanning products.
+
+As you saw from the slides above, there is also something else that was unfortunately discussed too briefly- how there is a knowledge gap between the self-referential definition by the academia of which skills or knowledge they transfer to students or students develop by interaction and choice during their studies, and the perception outside academia.
+
+Due to past first interests, then (limited) business activities in pharma and life sciences and related, my perception of biology is that, if students want, actually the curriculum, as in philosophy or some branches of physics, develops a systemic perspective as an instinct and natural side-effect, and also, due to the need to consider interactions continuously, a capability cope better than others with complex systems.
+
+As many of those studying biology then ends up teaching in public schools, not even universities, those skills are not necessarily immediately associated with the subject.
+
+Still, the complexity of the field and number of subdomains with continuously evolving techniques and regulations implies that a "continuous learning" and "systemic" perspective should probably be taken for granted.
+
+I was able to stay just a couple of hours (as that was the scheduled time), and stayed a bit more, but some of the elements discussed, also thanks to the interactions from the different stakeholders, could suggest to consider extending the conversation into maybe a full day event with a similar format and more time for discussions as I remember we were doing at LSE or Gothenburg: setting in a circle, with the teaching staff being part audience as anybody else and part facilitator.
+
+
+<b>Closing considerations</b>
+
+Closing this article, would like to summarize few points that shared today with colleagues.
+
+Across the week, as you can see also in my notes from the previous days, so a gradual building up of the awareness that the #FutureWeek is both a "broadcasting opportunity" (of the potential of the territory) and a "cross-domain catalyst".
+
+In business, worked across multiple domains since the beginning (1986 was the official one, albeit I had already done bits since 1980).
+
+And, as saw in the Army, often it is difficult in Italy to have different "tribes" meet on the level, i.e. without grandstanding, lecturing, posturing- but listening before talking, exchanging ideas, and even learning to agree to disagree.
+
+The week started with almost every event praising elements of the "torinesit&agrave;", i.e. the local "genius loci" (strongly tribal), and every day brought some confirmation.
+
+Still, gradually, that turned into discussing each specific event as an opportunity to build a community of connections that shared some interest also if coming from domains that usually will never meet.
+
+I think that listening both yesterday and today that same concept repeated was probably one of the best results.
+
+Then, frankly, it is up to the locals, as I keep repeating, to learn, after a "catalyst event", to "keep the flame alight", without waiting for a "hierarchy" to tell them when where how to meet.
+
+So, the closing point of this article is simple: will not write just on the closing event (for now confirmed my participation, hopefully will attend it on Sunday).
+
+And, despite what I wrote within the introduction, will not remove the articles published since Monday- I will even connect them next week.
+
+Instead, next week will prepare a different articles, and then develop yet another mini-books inspired by this week, but sharing both the notes, my remarks (and feed-back from memories resurrected by actively listening during each event), and additional material that could help, hopefully, to develop some "subcommunities of the willing".
+
+No, do not plan to even try to be a catalyst on that- will just share "my five cents" online, and share ideas with my contacts that could be interested.
+
+As, half-jokingly, said today: when first arrived in Brussels to stay, whenever asked, said that I was a "ghost" (yes, a quote from a XIX century political philosophy book).
+
+I started publishing under my own name really in 2008, but simply because I wanted to settle in Brussels, where I was an unknown entity and had limited contacts, contacts mainly not local and linked to my background and the background of my foreign contacts (notably Anglo-American).
+
+There is no way back to anonymity- but still I prefer, as used to do in the past, to help develop multiple potential emerging elements, than try to appear in everyone.
+
+Hence, I wish you a nice week-end, and see you in the next event or through the next post online!
