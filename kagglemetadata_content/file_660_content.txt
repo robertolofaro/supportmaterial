@@ -1,0 +1,871 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260609_article.png)</center>
+
+This article is within the [Organizational support](https://robertolofaro.com/index.php?section=organizational-support) series.
+
+As remembered few days ago while standing in line for a coffee: in planning, it is not the plan that really matters, but the planning per se.
+
+Yes, I am not the source of the concept- somebody else much more important shared the concept before I was even born.
+
+The concept is really simple: planning is a journey, the plan is just a deliverable.
+
+Most plans do not survive contact with reality (same source)- but what you learned while preparing the plan is the key element.
+
+Provided, of course, that you understand what was behind each and every "box" on your PERT, line in your Gantt, or whatever you use- not if you just gave a description and a target date, and asked an AI Chatbot to write it for you.
+
+Yes, around one year ago was able to prepare a roadmap for a new compliance program in less than half an hour, including identifying milestones, "gates" (to realign prioritization and embed feed-back), etc- without using AIs.
+
+Anyway, that was feasible because I had had plenty of experience in planning not just projects but also services, products, new businesses- and...
+
+... before that exercise, did actually some research on the potential target and a kind of "assessment" of what was the target and the regulation critical points.
+
+Hence, when received additional framing questions, was starting from patterns and integrating the new information.
+
+If I had not done that preliminary analysis, my "mental roadmap" would have had zilch flexibility- take or leave.
+
+Anyway, those who have experience but did not prepare, do what I saw often, both while sitting on the same side (as a competitor), or on the other side (supporting a customer or partner): leverage on that experience to talk platitudes, concepts, "philosophy of the plan", potential risks, etc- mumbo-jumbo to avoid uttering even a single potential commitment.
+
+About non-committal to dates: while in school, I always hated "rota learning"- no understanding of the dots that you connected, just learning dates and names in sequence.
+
+Once a professor in high-school tried to force me to give only dates- starting from monks as repositories of knowledge (Cluny etc).
+
+Well, I did start there, and visualized in my answers a connection through time of the evolution of thinking up to... Japan's "5th Generation" (we were in the 1980s) research (which is also, incidentally, one of the reasons why, a couple of years later, actually studied and used PROLOG).
+
+At the end of the questioning, the professor rated my "performance"- giving a relatively high marking because, she said, I did stay the course to the point that did not want to use dates, but put everything in the right sequence and followed a thread that made sense.
+
+If I had limited my learning at school to what school books provided, that would have been impossible- but I had been since childhood a bookworm, so much that tried to enroll in the adult library (to complement my personal and my family library) when I was still in elementary school (but had already a tiny moustache- useful to bypass filters), and in high school, after each protest march, took refuge into libraries.
+
+As a kid, I had been told that I could join the kids' library- and instead went using the reading room but selecting what I wanted, not what had been "digested" for my age. Ditto in high school: at the beginning of high school, as I had already a beard that most of my classmates did not have until they started university, tried to enroll into the national library of Turin- there too I was told that needed to be at least 18 (was 14 or 15), but again my facial hair saved the day: it was funny to read in library books printed in the XVI century to the XX century, whenever a footnote or side remark in class or within school book left a point up in the air.
+
+And all that was what allowed to be able, when my plan for the interrogation was tossed into the paper basket due to the request to tell just dates, to have a new plan.
+
+If you learn that attitude to continuously revising and pruning your knowledgebase as a kid, then it stays for life- and also learn early that it is not enough to read a single book on a subject to then do as many adult do: try to bring the discourse on that terrain, and then lecture everybody as if you were an expert.
+
+Also because that superficial knowledge, when meets reality, shows that there is no depth, as you cannot adapt and regroup- and the same applies to measuring (via KPIs or other methods) that ignores the "lineage" of data points- you just take at face value and build a skyscraper on toothpicks.
+
+So, it is the planning and a continuous revision of your assessments that "frames" the plan, and provides information about capabilities, opportunities, etc.
+
+In previous articles shared some planning "pointers" for my own publications, and most will stay as they were.
+
+Nonetheless, the interactions over the last few weeks, both in local events in Turin and online via webinars and workshops, suggested to accelerate some publishing activities that were planned for later in 2026.
+
+Considering the section this article appears in, and the title, probably you are considering "yet another article about KPIs" ([yes, there are already dozens on this website- 69 as of today](https://robertolofaro.com/search.php?tag=kpi)) or even "again about efficiency and efficacy" (["just" 22](https://robertolofaro.com/search.php?tag=efficiency_efficacy)).
+
+In this article, would like instead focus on the "structural" part of measuring- both the social and technological infrastructure.
+
+I will do some upfront loading, with a <u>first theme sharing some reading material</u>, i.e. mainly links to posts where, either on [Facebook](https://facebook.com/robertolofaro) or <a hreF="https://linkedin.com/in/robertolofaro">Linkedin</a>, shared my commentary on other articles.
+
+The aim? Simple- to start with the first part of the title of this article, before transitioning to some concepts, and finally ending up with the second part of the title.
+
+After the "bibliography", the <u>second theme is about the "why" of measuring</u>.
+
+If a why is reasonable or not depends on <u>a proper contextualization</u>- and this theme obviously will be an opportunity to again share my skepticism about the obsession of testing, benchmarks, "best practices", and all the paraphernalia- taking again a lesson from my past as a negotiator.
+
+Once you survive through those three sections, time to bridge to the second half of the title, by discussing <u>know what you measure</u> in a data-centric world.
+
+Obviously, that acts also as threshold for further structural contextualization: if you look at my stream on social media, you will find plenty of references to engineering, advanced technologies, multinational business, etc.
+
+Human beings are both consumers and producers of data but mainly in the "rich" world, say the [Member States and partners of the OECD](https://www.oecd.org/en/about/members-partners.html).
+
+And, actually, those covering (by choice) both roles are still a (vocal) minority also in "rich countries".
+
+Outside that, human beings are mainly producers of data: and this will be the focus on the <u>fifth theme: the non-data centric humanity</u>.
+
+Because, like it or not, keeping few billions back is not simply denying them access to potential benefits- is a form of neocolonialism.
+
+I shared in the past plenty of articles where discussed what I mean with the concept of <u>corruption</u> ([some 34 articles as of today](https://robertolofaro.com/search.php?tag=corruption)), but, frankly, I still see a distortion that verges on structural superficiality.
+
+This semantic difference is actually a difference in Weltanschauung that impacts on the ability to benefit from the current (and forthcoming) technological trends.
+
+As shared in previous articles, a data-centric society where everybody is at least potentially both a producer and consumer of data has some structural and conceptual requirements: remove them, or undermine them, and you will get a significant knowledge gap vs. your competitors.
+
+In such an environment, measuring (and KPIs) is not anymore just a top-down choice, but a collaborative effort that must evolve continuously.
+
+Moreover, undermine that concept, and you actually motivate your own to move elsewhere- and even last week I saw, as usual, slides presenting the case of EU startups leaving the European Union to expand.
+
+Will the EU28 (the new "virtual jurisdiction") solve it? I shared already last year, when the President of the European Commission presented the concept, my "critical points highlights"- as I know by experience what happens in Europe if you work across multiple jurisdictions- but will share an article focused just on that during the summer.
+
+So, after that "thinking stop", time to switch to a <u>closing section discussing the "pragmatic" side of KPIs</u> in our current AI landscape.
+
+Incidentally, I had planned until the end of the month to stay clear from Turin, after my intense presence over the last two weeks.
+
+Anyway, received last Friday evening an invitation to an event that goes at last into the direction of the [Quirinale Treaty](https://robertolofaro.com/search.php?tag=quirinale_treaty) between France and Italy: I will discuss the event in the closing section.
+
+Both France and Italy soon will have to choose a new President of the Republic, directly (France), and paving the way for the actual selection potentially few years down the road (Italy).
+
+Formally, France has a Presidential election in 2027, and Italy has to wait a bit more- but, as shared a while ago, Italy in reality already started.
+
+Because in 2027 we should have national elections.
+
+Some are trying to have them earlier, to avoid having the current center-right coalition at the helm while the negotiations for the identification of potential pool of candidates for the role of President will officially start.
+
+Anyway, posturing and positioning already started- and, in our current volatile geopolitical scenario, unfortunately mud-slinging is trumping over the common interest and "preaching to the choir".
+
+The impacts of President's Trump term started in 2025?
+
+Piled up on previous impacts from the COVID in 2020, the invasion of Ukraine, and the invasions in the Middle East, creating a "perfect storm" for the European continent.
+
+So, while there will be time to discuss in future articles, an event focused on [France and Piedmont](https://www.ui.torino.it/unione-per-te/estero/notizia/103455/imc/), bringing together companies across different industries, could be a good starting point to discuss future scenarios.
+
+The key risk? Using as an example Italy, the delusional concept that what worked in the past can keep working in the future by just layering more technology on top of that.
+
+If you add a Ferrari engine to a tractor, you are not going to win an F1 championship with a tractor- and a tractor with a Ferrari engine would absorb too much in terms of tuning and maintenance to be a viable option.
+
+As was shown by the layering of EU directives and regulations, if the country is not ready, all that "activity" generates overhead and an apparent modernization, but in reality negatively affects productivity and the actual exercise of citizens' rights.
+
+Since 2012, we had few cases of "streamlining" Italian bureaucracy that actually even business organizations said that were making things even more convoluted.
+
+What I call "digital transformation Italian style", seen from the perspective of an Italian citizen who registered abroad first in UK almost 30 years ago, and then in Belgium with the local Italian Consulate, was not what I saw since the late 1990s in other countries.
+
+As shared in previous articles, in Italy [we are still far away from altering the picture that Bruno Bozzetto shared in a cartoon decades ago](https://www.youtube.com/watch?v=tzQuuoKXVq0).
+
+For now, just once wrote in a book format in late 2020 on a couple of cases related to bureaucracies ([the public version with some masked data is here, along with my first 2025 experiment in writing a book with AIs](https://archive.org/search?tab=all&query=roberto+lofaro)), and in 2018 [innovation in Italy](https://robertolofaro.com/innovation-italy) as a general concept.
+
+Of course, will write something more in the future, but these few paragraphs about the risks for Italy were to share a summary of concepts that, instead, for the European Union as a whole, were within countless articles, and specifically the <a hreF=https://robertolofaro.com/ep2024">#EP2024 article series that released between April 2024 and early 2025</a>.
+
+Italy, and frankly since 2019 also the EU, got a penchant for "quick fixes"- looking for somebody that would save us from... ourselves.
+
+So, in Italy, when there was an inability to find a majority to form a government, or there were critical issues that no individual political party would touch with a thousand feet pole...
+
+... here comes the "technocratic government" (in Italian "governo tecnico") or "President's Government".
+
+Well, in both cases, under the current Italian Constitution, both are frankly an oxymoron- as we vote for a Parliament, and the Parliament (along with others) selects a President, while a President of the Council of Ministers has to get a vote of confidence from the Parliament (in Italy, we use "Prime Minister"- but, frankly, words have a meaning, and the head of the Italian Government is most definitely not akin to a UK Prime Minister).
+
+Hence, Italy is a democracy mediated by a Parliament- and any government therefore is a political entity with an agenda.
+
+Looking just a two recent cases, the Monti Government and the Draghi Government, both had to make political choices: "evidence-based" still requires prioritization of choices, notably about the impacts.
+
+I discussed in the past both, and will discuss in the future- still, a confirmation of our Italian approach that, when an issue is generated, either is swept under the carpet, or transferred to others to solve, so that we can claim to have no accountability on the choices made.
+
+Hence, our approach to leadership, as shared within an article that published in January 2017 [Il paese dei leader](https://robertolofaro.com/index.php?page=125) and was viewed over 40,000 times since then.
+
+And the same applies in any organization "measuring" something, as discussed across this article- the "why" cannot be delegated to a software provider, has to be an organizational choice.
+
+I am a bipartisan favoring reforms in politics and society, but reforms, to succeed, should gradually expand from the bottom up, not from the top down.
+
+And this imply choices, balancing between different interests, offsetting negative externalities, but still making choices that overall maximize positive impacts for society (or the organization) as a whole.
+
+This applies also to structural changes whose catalysts are social or technological changes.
+
+Somebody says that AI is just another technology- and I agree that many patterns in adoption are the same that saw since the 1980s.
+
+The difference is not just the speed (remember, ChatGPT went live in 2022), but that this technology interacts with and alters the behavioral patterns of its human users- creating new patterns that do not necessarily include the same human users (or even exclude humans).
+
+You could say: it happened also with previous technological waves since the 1980s, e.g. ERPs.
+
+Well, the point is that previous technological waves were deterministic, did not adapt potentially autonomously to the environment through mere feed-back with the users.
+
+And needed anyway human "drivers"- not even potentially could do every choice by themselves if new data arrived.
+
+Moreover, our interactions influence the selection of behavioral patterns selected by technology.
+
+The risk is that trying to apply to AI the same digital sandbagging adopted in previous round of digital transformation could actually undermine not just the future, but also the continuity and leveraging on the prior social and cultural development since, respectively, the unification of Italy (1861) and the Treaty of Rome (1957). 
+
+And now, the table of contents:
+_ THEME 1: background readings
+_ THEME 2: the why of measuring
+_ THEME 3: a proper contextualization
+_ THEME 4: known what you measure
+_ THEME 5: the non-data-centric humanity
+_ THEME 6: the structural side of corruption
+_ THEME 7: a different approach
+
+
+<b>THEME 1: background readings</b>
+
+I suggest that you follow both my [Facebook](https://facebook.com/robertolofaro) and <a hreF="https://linkedin.com/in/robertolofaro">Linkedin</a> profile, as, beside articles and mini-books, I also routinely share commentary on specific news items and material posted by others.
+
+The rationale is simple: since really 2008, I prefer to leave permanently on social media signposts that might eventually "seed" further publications, but in a public way (posts on  both profiles are 99.999% public)- so that also others can use them for their own publications or to develop new ideas.
+
+The [new issue of a Finance&Development, June 2026](https://www.imf.org/en/publications/fandd/issues#09e3e82e915942398eb350960fb88670), is a good starting point:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_01_01.png)</center>
+
+This decade started with plenty of opportunities (with a silent or loud bang) to re-assess what we took for granted.
+
+Globalized supply chain, specific countries' role in geopolitics, the concept of international law, what transparency and corruption mean, how sustainability converts into different perspectives depending where you start from (e.g. the rich countries "let's reduce GDP" imposed as a mantra to a world where people still starve to death or die of diseases that could be prevented)- all (and more) had to be reassessed.
+
+As a recent McKinsey article [Leading from the field: Transformation in distributed operation](https://www.mckinsey.com/capabilities/transformation/our-insights/leading-from-the-field-transformation-in-distributed-operations) highlighted a key point: <em>"For transformation teams, the task is to turn enterprise priorities into site-level actions that local leaders can believe in and own. Without that level of buy-in, improvements achieved at one site rarely scale to others.
+
+The organizations that have experienced the most success in transforming distributed operations have emphasized this sense of ownership from the outset. "</em>
+
+As shared on Linkedin: 
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_01_02.png)</center>
+
+In the first decade of this century, we had a major financial crisis linked to layer upon layer of assumed trust.
+
+The "ratings" mechanism showed its structural weakness and embedded conflicts of interest, but still we did not replace it with something else- and still countries (Italy included), sitting on piles of national debt that has to be refinanced year after year, strive to play the rating game.
+
+I am skeptical: as shown almost 20 years ago, a rating should highlight trends and risks, but if major organizations can shift from top ratings into receivership in days or weeks, there is something inherently wrong in the measurement system- it does not provide what supposedly should, an early warning system.
+
+Which is something relevant to this article.
+
+I will skip discussions on the concept per se- you can actually read past articles on this website just on the different dimensions of [rating](https://robertolofaro.com/search.php?tag=rating)- 207 articles as of today.
+
+We read on a daily basis about the stellar evaluations of "tech barons companies" that are going for an IPO soon- and the current next trend in converting money from something representing value, to something representing trust in the issuer.
+
+The concept of "fiat" money, without collateral, has been expanding across centuries- even [before the end of Bretton Woods system](https://en.wikipedia.org/wiki/Bretton_Woods_system), that everybody associates with President Nixon halt to the direct convertibility of dollar into gold, as actually started long before.
+
+What many call "digital currencies" such as Bitcoin (I prefer to consider them "digital bets" akin to Tulips centuries ago) paved the way to remove even the last part that was physical.
+
+By making our money digital, the printing, distribution, replacement costs will be removed or, at least, minimized to the same or similar level of wire-transfers.
+
+Hence, while a ["digital Euro"](https://robertolofaro.com/ECBSpeech_index.php?tag=digital_euro) is gearing up its regulatory and digital infrastructure, it was just to be expected that also financial industry actors would leverage on the stock of trust that they built with their customers, and move into generating yet another "stablecoin" (and more to come).
+
+As <a href="https://www.linkedin.com/posts/robertolofaro_beyond-stablecoins-the-emerging-architecture-activity-7468596271331561472-RT0o
+">shared on Linkedin</a>.
+
+I know that probably, as bibliography to an article about KPIs and measurement, you expected something else.
+
+Anyway, the links provided are consistent with the purpose of this article: the structural side of measurement.
+
+It does not make sense to keep building measuring systems that are deeply rooted in an era of mass production (even pre-WWII), just implemented with new hardware and software concepts.
+
+The key concept is that in the XXI century, due to internal and external crises, we had a transformation of context and transformation of knowledge supply chains.
+
+In our old intellectual framework, we were used to have time, also in the 1980s-1990s, to test, integrate, adapt before adopting- and changing at least some cultural patterns within organizations took years.
+
+There was a catch: access to the technology was filtered by the most common barrier to access- cost and infrastructure, hence a "priesthood of access" was feasible.
+
+Already 20 years ago, the International Telecommunication Union (as shared in my contribution to a 2009 book on using social media within the corporate marketing mix, and again [in this mini-book](https://robertolofaro.com/bsn2013)) identified the ease of access to Internet via smartphones as a key enabler.
+
+Also countries that, as discussed in a later section, are considered "outside the AI revolution" can actually have grassroot uses of AI, at least for now, while, pre-IPO, the leading AI platforms allow at least partial free use and access to "hook" users for when will switch fully to "pay-per-use".
+
+Personally, I think that factoring in power of purchase parity to "layer" that free access also in the future could be useful to keep developing talent and concepts creatively where our own infrastructure and capabilities are not available- and would also extend the pool of talent for a marginal cost.
+
+Still, in our "rich" world, used to a structured approach on the adoption of innovations (as also the "agile" and "lean" are structured approaches), the economics of this phase of smartphone with low cost Internet access plus use of AI platforms for free or at a relatively low cost change the landscape.
+
+Currently is also possible to download locally models that provide features that in the past would have required significant infrastructure.
+
+Hence, the potential of disruptive activities by end users not adequately understanding the impacts is significant.
+
+The latest changes e.g. [introduced by Google on Android phones by integrating Gemma models](https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/) enable "agentic AI" without using all the paraphernalia that I had to use last year to have local offline models (as shared in previous publications within my [BlendedAI](https://leanpub.com/blendedAI02) Easter mini-book series).
+
+On YouTube, you can actually find step-by-step instructions on how to convert that into offline agentic AI on your Android phone.
+
+Something that, if you do not consider and monitor all the security and data disclosures elements, or you lack the knowledge to do so, could be a recipe for disaster (imagine doing that on a phone that has all your online credentials stored locally, and by mistake installing an AI agent that is a Trojan horse for purchases).
+
+Most security systems are structured around protecting from outsiders, not from insiders: and discussed that point in a couple of past books, [BYOD](https://robertolofaro.com/byod) and [BYOD2](https://robertolofaro.com/byod2).
+
+As shared in past publications, with AI, some employees, notably those younger who are into a "contest" to decide which one will shift from temp to perm or get promoted, might be tempted to "shine" by getting a little help from their friendly AI- no data leaves the premises, it just simply get typed or read (as now even offline models have voice listening capabilities) and processed over the phone and, for more complex activities, online.
+
+Yes, you can do now on your mobile for free also voice cloning and dictating, something that in the 1980s-1990s was shown in Galactica and I remember that in 1990 for a customer did a software selection on dictating software (style Dragon Dictate)- expensive.
+
+And then, the results of those undocumented interactions with AIs are typed into your system- so, you have no access to the lifecycle of that information, and cannot discount the potential for an online AI to actually share with your employees what actually was confidential information provided by an equally superficial employees of a competitor, that could then end up verbatim into your own material, and unleash a potential for litigation when that word-by-word copy is recognized.
+
+If this is a risk for organizations, there is an additional, social risk.
+
+When everybody adopts without adapting models and concepts that derive from a specific cultural context, and do this across all their own academic life, there are consequences.
+
+The locals, notably in Italy but also in Europe, will get used to specific expectations- hence, European States seed and fund what will then, as will be associated with patterns built elsewhere, naturally gravitate toward where those patterns are native.
+
+In each conference and article about lack of funding, in reality the point is a cognitive dissonance between what those providing training and funding expect, and what those receiving both expect, looking outside the boundaries of their existing constraints, and not understanding why should be limited by that "old" mindset.
+
+By using non-native patterns, in Europe we are doing at the Continental level the same mistake that saw in Italy done by companies that jumped on the quality ISO9000 bandwagon just as a compliance and "label", as discussed in previous articles, instead of redesigning processes.
+
+I was lucky enough in my first major cultural and organizational change program that involved ISO9000 certification to be allowed by the customer to actually do that- redesign and integrate- so well that somebody picked up the methodology manuals, added a company logo, and... years later saw them surface in Turin.
+
+The same applied to companies that jumped on ERPs in the 1990s to early 2000s as if they were just a matter of technology, and not a cultural and organizational change that, actually, came with a "culture embedded" within the technology.
+
+Therefore, before thinking about measuring, think about what your current organizational culture assumes as "normal".
+
+And now, ask yourself: why do you want to measure?
+
+
+<b>THEME 2: the why of measuring</b>
+
+Modern companies, since digital transformation started becoming common also for smaller businesses in the 1980s, generate more data that they can process.
+
+So, if you are "drowned" by data, it is just tempting to try to make sense of it all by measuring.
+
+You measure, formally or informally, your own people and their performance against objectives.
+
+You measure your market and customers.
+
+You measure your suppliers and, if data are available, your supply chain.
+
+The motivation of measurement can be regulatory (e.g. compliance with certifications that you company obtained, or if your are operating in regulated industries), but also purely business-oriented.
+
+I will give you an example from my personal experience.
+
+In the mid-1980s, my first official employer was basically the Italian branch of an American company (a little bit more complex than that, but good enough a description).
+
+Before that, had just worked in sales as a clerk selling at a tech event, and to sell used schoolbooks, plus a bit of "unofficial ghostwriting", plus my political advocacy activities in a "structured" organization, plus service in the Army where covered both office management, a bit of logistics for training exercises, and designing and delivering training and train-the-trainer.
+
+My first employer had a "rating form" that we received periodically: we had a one-to-one meeting with our own direct boss, and would be shared the results of our "rating", up to "outstanding", that resulted into an impact on our salary.
+
+There was an interesting layered worldwide process on the allocation of the latter, but that would be for another time.
+
+In more recent times, in Brussels was told of a 360 with a different concept (challenging and testing- and was asked an explicit authorization over the phone), but in Italy since 2012 heard often directly and from colleagues working with other companies that a different meaning for a 360- just that "everybody evaluates everybody".
+
+Something that is probably fine in a different culture- but, in a tribal economy, produces further distortions, as becomes a "retaliation tool": do what I ask or else I will add in your own objectives something that is not reachable.
+
+So, motivation for measurement is fine, but also understanding all the parties involved is needed.
+
+I will discuss in the last section a couple of cases when, actually, the measured ones were more monitored than measured, and that monitoring was not necessarily shared unless generated impacts.
+
+Anyway, within the past international relationship framework, since the early 2000s we got used to have also countries measured by international institutions.
+
+As part of my pre- and post-COVID data project, years ago released a dataset that contained EU selected indicators 2020-2021 World Bank notebook and dataset (you can read the [Linkedin post here](https://www.linkedin.com/posts/robertolofaro_and-another-benchmarking-notebook-passes-activity-7468216947252490240-HdQq):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_02_01.png)</center>
+
+So, the motivation matters and can influence both what is being measured, and how it is being measured.
+
+Discussed the theme in previous articles, but it is worth repeating now: if your measurement approach can have impacts on those measured, expect also the potential of diverging motivation, i.e. the measured and measuring ones have in the end different aims, and this could imply some "adaptation".
+
+Again, it is a matter of... contextualization.
+
+
+<b>THEME 3: a proper contextualization</b>
+
+Now, over a decade ago, to share with Italian colleagues concepts that used in my activities formally since 1990, but informally well before (as tested them in the early 1980s, in political activities, sales, and then in the Army), published a mini-book in Italian, [Strumenti](https://robertolofaro.com/strumenti), whose content you can read on this website.
+
+Anyway, this "meme" that [received on Facebook](https://www.facebook.com/robertolofaro/posts/pfbid02zFmUAU1izWxSKAkivpzkbxBySU9D1JpmSaNFLhfGxZL2GfLddghSQ2KBTcD5DgU4l) summarizes nicely the key concept:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_03_01.png)</center>
+
+Contextualization is meant by many, and not just when talking about AI, as a "projection" of reality- their own reality.
+
+Actually, it is a mutual and continuous integration.
+
+You do not know the full context of your counterpart or audience.
+
+Moreover, in the future, more and more people you will interact with in organizations will not be the old "cradle to grave" (or "graduate to retirement") type of employees.
+
+If most of the purely vertical activities will be automated as will be any mainly deterministic activity, those who can connect or cover specific niches that still will require human intervention will be working where they can use their skills and keep developing their competencies.
+
+I developed the concept simply because I lived it since the 1980s- first in political advocacy, then in the Army, then by working through word-of-mouth across Europe, in different industries, domains, activities. 
+
+Or: as wrote in [#Synspec](https://robertolofaro.com/synspec) over a decade ago, you will have to get used to a kind of "virtualization" of your organization.
+
+So, many will be interacting with multiple contexts, as well as developing their own- more "roving agents with a toolset" than employees.
+
+Something akin to the old TV 1950s series ["have a gun, will travel"](https://www.imdb.com/title/tt0050025/)- which, in the 1990s, half-jokingly with an American colleague became "have a brain, will travel".
+
+Few organizations would be able to fully allocate on relevant activities those "new specialists", and, actually, as shared in a past article, also a company as large as the aerospace and defense conglomerate Leonardo said that they were helping small suppliers to develop organizational capabilities, so that they could be part also of other supply chains, including competitors', and enable a continuous exchange of new ideas.
+
+Therefore, using just your own context when measuring e.g. your own supply chain could be useful, but still an underestimation of both potential and risk.
+
+If you want to contextualize properly in an environment where both individuals and suppliers are part of one or more larger ecosystems, you need to keep tab also with their own context, not just your own.
+
+Another example that shared few years ago: due to the disruptions and potential disruptions of their own supply chain, Airbus identified the need to assess risks not just on their own suppliers, but also on the suppliers of their suppliers.
+
+Which implied: when they presented that concept in a webinar during the COVID crisis, they said that actually had to review contracts, as obviously suppliers would not be so keen to expose their own supply chain to a customer who could then either bypass them, or renegotiate prices.
+
+In the future, will therefore become even more critical to "delayer" our communication- as there will be limited time in each exchange, hence- what could have worked when people were there day in, day out, forever...
+
+... would not be a proper communication and information exchange approach.
+
+So, time to relaunch a different approach- which is actually something that works in cultures different from the Western culture, but also when you can parachuted into activities to "hit the ground running" with teams that you did not work with before, as <a href="https://www.linkedin.com/posts/robertolofaro_japantech-workplacejapanese-careerinjapan-activity-7468181356968218624-g4Dx
+">shared on Linkedin</a>:
+ 
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_03_02.png)</center>
+
+As wrote within the introduction, how reasonable is your "why" depends on proper contextualization.
+
+And, again, contextualization questions our current renewed obsession with comparative tests, benchmarks, etc.
+
+
+<b>THEME 4: known what you measure</b>
+
+In the 1990s, "benchmarking" and "best practices" started being a cottage industry.
+
+Some companies developed quite a business out of that.
+
+And, in our AI times when new models appear almost on a weekly basis, frankly I got tired of how many, to attract likes and visibility, post on Linkedin their own "new test" to rate models against... what they deem to be relevant.
+
+Reminds me what I saw when I was at times on the "seller" side, at times on the "buyer" side (the customer).
+
+Some companies were quite good at presenting their own "reference parameters" set, which, incidentally, rated against their own bells and whistles, but presented as if it were an objective assessment.
+
+It was back then relatively easy to dismantle that manipulative approach, it is less easy now, as the frequency is too high.
+
+So, before you add to your contextualization measures that are defined outside your own organization, validate what you are actually measuring and its relevance to your own context.
+
+An example: not too long ago, there was a trend to prove that your organization was adopting AI- to get licenses, and then ask employees to use the new tools often and intensively.
+
+All this, at a time when, to prove that there is a potential revenue stream, major AI platforms are shifting to a pay-per-use approach, including by shifting to pay-per-use what until recently was included within the "monthly bundle" (e.g. agentic AI).
+
+It is what has been nicknamed ["tokenmaxxing"](https://en.wikipedia.org/wiki/Token_maxxing), with curious consequences.
+
+If you mistake "productivity" for "consumption", you are forgetting the business dimension.
+
+Companies such as Uber stated that consumed the full budget in few months, while Microsoft decided to drop Anthropic licenses, and there is a long list of (fake, true) cases on Linkedin reporting how the same activities done before within the monthly bundle now generate significant costs.
+
+So, it makes sense this joke:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_04_01.jpeg)</center>.
+
+Elements that make sense now:
+_ consider if what you measure is relevant
+_ use technology to measure, but under human supervision
+_ have humans manage by exception.
+
+Yes, none of them is really new- e.g. also in the late 1980s - 1990s on decision support systems, 1990s - 2000s on business intelligence, the concept was to use the software to have a comprehensive and coherent view, but then also to highlight what was worth to focus on.
+
+If you read previous articles on KPIs on this website, routinely said that KPIs should not be permanent: when all the organization converges on a limited range, personally I see two options:
+1. the KPI is now embedded within the organizational culture- hence, makes sense to remove it and replace with something that still highlights differences
+2. the KPI is not relevant anymore, is a target achieved- hence, remove it, but still have some "alerting system" to monitor potential regression.
+
+If you introduce in the picture measurement systems that are able to "learn" and adapt, then it is tempting to generate a closed system that is based on the same context.
+
+The risk? You will introduce more and more measures to slice the same events, not to identify new events.
+
+Something that already saw in the late 1980s- the typical "this new KPI or new management reporting can be generated at zero cost".
+
+As a manager said already in 1988 to a colleague: zero cost, and negative value added.
+
+In our times, after all the experience in new ways to integrate external data into decision-making, helped by the lower cost of processing and management, it makes more sense to use the "intelligence" that generated the initial contextualization.
+
+How? To actually have an additional "layer of intelligence" that, whenever the system (or its human coordinators) designs a new or modified KPI, also does a kind of "intelligence recontextualization"- call it "non-regression testing for the contextualization".
+
+Meaning: is the context still relevant? does the new measure require a different contextualization? etc...
+
+When I wrote within the introduction: <em>"Once you survive through those three sections, time to bridge to the second half of the title, by discussing <u>know what you measure</u> in a data-centric world"</em>, I meant what you read above.
+
+
+<b>THEME 5: the non-data-centric humanity</b>
+
+Why I kept across this article to blend measurement and AI?
+
+Because AI adoption is a useful paradigm to discuss about the biases embedded in our measurement paradigms.
+
+When I read about companies generating incentives to consume more tokens, I considered that even more crazy than the prior "billable hours" obsession that saw in the 1980s, 1990s, 2000s from consultancies.
+
+When a supplier is larger than most of its customers, there is a significant shift in strategy: you optimize for value extraction, as generating custom value each time would imply non-repeatable business and a significant amount of repeat investment that would be difficult to turn into value generation elsewhere.
+
+It is the concept of project: each project as a non-repeatable, highly contextualized, set of activities aiming to deliver something.
+
+Somebody could say "Cicero pro domo sua"- but, frankly, also in the first case when I was actually delivering services to multiple customers, on decision support systems model design, in the late 1980s, there were two dimensions:
+_ thesaurization, ranging from "lessons learned" to method development
+_ developing a toolset of practices that would be useful with other business cases.
+
+Both elements were those that could allow to develop small, "boutique"/"advisory", and large projects or continuous services.
+
+Anyway, that model, as wrote in previous articles, converting consulting into really a product+maintenance service is becoming structurally weak.
+
+Not because those companies do not deliver value- but because, if compared with the 1980s, shifted from value to volume.
+
+The old name of the game was to convert into a service or product- repeatable, scalable, the latter with marginal additional costs per unit sold.
+
+The actual development of staff was as a side-effect of that "billable hours"- and, once developed, the staff could take on new roles on different customers, while you retained a small core of specialists researching and evolving and producing that thesaurization and toolset development, to enable "scalability".
+
+Or: few experts, many "replicants" who could invoke experts following an "escalation" approach, to maximize their impact across multiple activities.
+
+And saw that in my two first official roles, from 1986 until 1988: it was a project, but we used a "prebuilt template" to accelerate development.
+
+Ditto from 1988, when worked on building decision support models- the development side was really analysis and using components, as the software itself provided the toolbox to be used.
+
+In the 1990s, shifted to CASE (Computer Aided Software Engineering), and software packages built using that platform, and then business intelligence tools.
+
+Currently, as AI tools are eating into the old model, the real value added should be found in their aggregated "centuries equivalent" of experience- but it is difficult to "distill" that.
+
+Some are trying to do so into AI models, but the issue is having customers accept a further shift- from billable hours, to days, to impact.
+
+And it is a constant source of jokes to see how many companies posted online their own chatbot based on proprietary information, and then...
+_ you see memes online showing how to extract the underlying "distilled" knowledge for free
+_ you see memes online showing how to be a cheapskate by asking a chatbot to do what the underlying model can do.
+
+On the latter, it is funny to see how many ask e.g. the chat bots of fast-food chains (that probably are using major models) to solve their own programming needs- for free.
+
+Billing on impact anyway requires a different approach on both sides- those buying and those selling.
+
+An American colleague told me already in the 1990s based upon his USA experience in the 1980s, when found customers willing to pay be impact (e.g. share of savings, business increase), as I saw also in Europe in the 1990s and 2000s, that when it was time to share the results...
+
+... customers went creative to avoid sharing.
+
+In Europe, we discuss a lot also about how AI could help deliver real smart cities: AI embedded in anything from streetlamps to infrastructure, all talking with each others and those passing by.
+
+Again- I already hinted above something about "non-data-centric humanity": we ignore them, in all our technocentric discussions.
+
+Moreover, as our technological frontier requires infrastructure that is available only in few countries, we associate lack of infrastructure with the lack of competencies.
+
+It is again an issue of measurement without contextualization.
+
+Remember that 4G was first delivered in South Africa in 2012 on a country level- in Italy, the same company actually delivered in the same year just in Milan and Rome: coming late to the mobile data game, instead of building first a 2G and then a 3G (as had been done in Italy), went directly into 4G.
+
+In Italy, companies first were looking how to recover the investment in 3G licenses.
+
+Also mobile payments, such as [M-Pesa](https://en.wikipedia.org/wiki/M-Pesa), did not start in Europe, as we had too much investment in existing payments infrastructure.
+
+Most of the [megacities](https://en.wikipedia.org/wiki/Megacity) are not in rich countries- and megacities are the environments that could benefit more from introducing smart city concepts and services- to optimize the allocation of scarce resources.
+
+If you look at the datasets that shared on [Kaggle](https://kaggle.com/robertolofaro), you will find also data on urbanization and other elements of analysis in Europe, but also worldwide.
+
+Have a look at this map:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_05_01.png)</center>
+
+I wrote within the introduction that those in [Member States and partners of the OECD](https://www.oecd.org/en/about/members-partners.html) are actually both producers and consumers of data- but that is a description of potential.
+
+What I mean with "consumers", in this context, is not mere users of data- I mean those able to acquire data generated by themselves and others, and turn that data into a product or service (or both) that is:
+_ accessible to others
+_ generates a revenue stream.
+
+Even in our countries we have a vocal minority being actively both, but many are just data producers, data that others process and use to extract or generate value.
+
+Increasing access worldwide to basic health services (which, in my view, include also water, full healthcare from pre-birth to at least elementary school, basic sanitation and hygiene), plus access to those "telco enabling services" (mobile Internet as well as data centers across Africa and Asia- which became visible to us Europeans only after the USA attacks on Iran)?
+
+An investment, not charity.
+
+Not having access to the same infrastructure that we take for granted implies developing different approaches.
+
+So, being late to the data-centric world for other countries could actually allow them to do again what did decades ago: jump forward.
+
+This section was not really about AI- and not really about sustainability or having a more inclusive world (also if hope that inspired some considerations).
+
+It was about another element that we often forget: measurement assumes a level of homogeneous maturity in accessing technology that is not even available in all multinational companies across their whole supply chain, and not even in our heavily urbanized societies.
+
+Even fully owned subsidiaries might have, due to internal or local conditions, have access to different levels of infrastructure- as I shared in past article, when discussed few cases of actually having solution architects coming from the USA and trying to replicate in Europe what worked assuming a T1, and finding instead that with the same cost in Europe you could get (late 1990s) a 9.6k baud with a peak 14.4k...
+
+Differential capabilities are also associated with differential levels of maturity in users.
+
+I saw that routinely over the last couple of years while going around Turin once in a while: ChatGPT replaced Google (sometimes forgetting the difference between a deterministic and non-deterministic system, i.e. asking questions and expecting twice the same answer, and then complaining about "hallucinations").
+
+Many use on their mobile cloud-based AI platforms, but few go beyond basic chatting.
+
+The "data-centric" and "non-data-centric" divide is not black-and-white separation between countries that have and countries that have not.
+
+Hence, as I wrote previously, if that "freemium" business model (free for basic access, premium/subscription for advanced uses- something that became popular with Internet in the late 1990s, but was actually part of our pre-digital culture) will shift to "pay-per-use", differentiating access by demographic and socio-economic profile in countries could actually foster innovation.
+
+And this generates another lesson in measurement: if you monitor e.g. AI adoption (a current obsession) as any other indicator, you also have to consider not just the technical infrastructure, or economic resources, but also the social infrastructure.
+
+This is where, also if that "investment" I wrote about before were to be done, we could come short.
+
+
+<b>THEME 6: the structural side of corruption</b>
+
+If you worked in multinational environments across multiple organizations, there are a couple of elements that eventually will come into discussion:
+_ corruption
+_ inflation.
+
+The two are not necessarily linked, but generate different levels of "creative adaptation".
+
+Until not too long ago, even European countries considered as "business promotion" (or something like that) corruption- provided that it was done abroad.
+
+Both corruption and inflation share a characteristic: absorb value and generate a distortion in access to resources.
+
+Moreover, both really follow [Gresham's Law](https://en.wikipedia.org/wiki/Gresham%27s_law): "bad money drives out good".
+
+You can have a look on [oyc.yale.edu](oyc.yale.edu) to some courses about political philosophy and political history, and hear how reducing the amount of actual "store of value" metal (gold, silver) was a way to keep up.
+
+In the previous section, used countries that we consider not-data-centric as a reference case to discuss the concept of homogeneous access to infrastructure.
+
+I will use in this section as a case study my own country, Italy, do discuss instead the structural side of corruption, but with an extensive concept of corruption, as usual.
+
+I wrote repeatedly about the [tribal side of Italy](https://robertolofaro.com/search.php?tag=italy_tribal) (well, the concept is within 142 articles as of today).
+
+In a tribal economy, you get used to bypass queues, virtual or real, as you have different ways to get access.
+
+Local allegiance and, within each location, tribal allegiance trump any structural duty- actually "corrupt" structural duty and access neutrality.
+
+I had this discussion abroad with foreigners, notably those from a security or State background, and generally the concept is that "they protect their own".
+
+Which could be fine (up to a point) if confined to tribal issues within the tribe.
+
+Albeit, on that too, in Italy we have already too many "self regulating" entities that live on their own, and even assume that ordinary laws do not apply to them, as they have been granted a "self regulation" power.
+
+Routinely I said to my foreign contacts, while abroad but also in Italy, that my country has a curious concept: wants to be modern and benefit from all that the XXI century can provide, but behaves as if it were still in the XIX century.
+
+And, in my birthplace Turin, often I remind myself that it took few centuries to abolish indentured servitude, if [compared e.g. with Bologna in the XIII century](https://en.wikipedia.org/wiki/Liber_Paradisus): tribal allegiance by birth is almost taken for granted.
+
+Not my assumption- but books about the history of Piedmont and Turin that referenced in the past (including an around 9,000 pages on Turin, courtesy of the Accademia
+delle Scienze di Torino and funding by the Fondazione Cassa di Risparmio di Torino).
+
+If you blend that attitude with the tribal concept, you get something that is routinely joked about in Hollywood movies about Italian-American organized crime: you never leave.
+
+So, social control is a natural consequence, but was working (more or less) within an agricultural society, or when transitioned to a "cradle to grave" company town.
+
+Anyway, also before the local main company started setting up shop in other areas of Italy and then abroad, already that concept of society started clashing with the demands of a complex, post-WWII society.
+
+I was born in Turin and made to return to work Turin in 2012, but, as I keep repeating to locals, since the 1980s worked around Italy, before moving abroad for the first time in the late 1990s.
+
+Hence, I must say that, while in Turin those "tribal elements" feed a stronger cognitive dissonance than anywhere else in Italy (hence, my nickname "Macondo-am-Po"), are quite common across Italy.
+
+In different forms, but it has been quite common, since the late 1980s, to hear stories from those who went to a different town, expected to have the same access that they had in their own territory, and did not.
+
+There is a difference: when you are called up from another territory to come and settle or cover a role, as you are actually "co-opted" within a tribe before you have set foot on the territory.
+
+I remember once commentary from locals in Turin about a manager of a public institution, a couple of decades ago: "he is from Bologna but understood immediately" how to integrate in a local tribe for the time that would be staying here.
+
+If you expected, within a section with this title, a discussion about "corruption" as in bribes etc- you are probably disappointed.
+
+You are welcome.
+
+I wrote "structural side of corruption": "corruption" has not really to do about money, but about failure to work properly, or degrading performance without interventions to halt the decline.
+
+If your processes are not neutral but work depending on the tribal allegiance, also repairing degrading performance becomes subject to a tribal bartering, and sweeping under the carpet is better than starting a "feud" between tribes retaliating on each other, if one of them dares to expose issues generated by a different tribe.
+
+How do you solve it? With a major crisis that requires cross-tribal collaboration, and finding new ways.
+
+Collateral damage: "let bygones be bygones"- that in Italian becomes "chi ha dato, ha dato; chi ha avuto, ha avuto"- and let's forget the past.
+
+Which is not problem solving or continuous improvement, but sidelining issues and hoping that will not surface again- something that, few years down the road, routinely happens.
+
+If a "structural corruption", i.e. a decay that nobody dares to halt and reverse as would create enemies that would wait for a revenge, sets foot, the point is transferring the cost of that decay, not remediation.
+
+And this is how this section and case study matters for the design of measures.
+
+If you measure something, you make assumptions on how should work ordinarily- then measure and monitor.
+
+When it fails to do so, you have to consider if it is a temporary or structural failure.
+
+Any complex system can have failures, and any human organizational can make mistakes- what matters, is if it able to have internal resilience (capacity to adapt) to recover- and how.
+
+In business organizations, a structural corruption happens when, instead of recovering while ensuring continuity, the internal structure goes [sabre-rattling](https://en.wiktionary.org/wiki/sabre-rattling) as a way to avoid solving mistakes by instead sweeping mistakes under the carpet and, for good measure, following the "attack is the best defense" approach.
+
+That's why within the European Union eventually we needed a "whistle-blowing" protection formal structure, albeit, frankly, so far on that side Europe (and Italy) failed miserably.
+
+Decades ago, was asked by a customer, following a request from the Board, to have a look at the Sarbanes-Oxley and the "rapid fire" rules issued by Borsa Italiana aligned with that concept, and make an organizational proposal.
+
+My proposal, after studying both (I had already worked on organizational design and re-design at both the company and group level)? 
+
+A process and structure- but the structure was to report to the Board, not to HR or any other internal structure- to avoid the usual "quis custodiet ipsos custodes" conunundrum.
+
+I should specify: in tribal Italy, it is neither a complicated nor a complex issues (a "conundrum"), but really becomes a Gordian knot built on mutual tribal obligations.
+
+In Italy, this tribal attitude has been compounded by what already described to foreign colleagues and contacts while living abroad: the war against organized crime that Italy started already under Mussolini and then was halted for tribal purposes, and resumed after WWII, is a war of attrition.
+
+In a war of attrition, the more cohesive side is able to undermine the counterpart, with outright bribes, and by slowly infiltrating its own culture within the counterpart.
+
+I wrote in the past articles about these concepts- you can just search this website.
+
+Hence, here would like to use those concepts again to bring the point about measurement.
+
+When you measure, you have also to assume that those providing measures are unbiased- or factoring in biases, to offset them.
+
+In our data-centric times, factor into your measurements the "social structure" side.
+
+How? By identifying points that can either be assessed independently, or can be counterbalanced by other points that cannot be affected by the same affecting the previous ones.
+
+If your company states "we are a family"- you are tribal by definition, and your are open to the same risks as above: whenever there is an issue, the tribe closes up instead of focusing on solving, notably if an external source (or whistleblower, after seeing that was impossible to have it solved internally) did so.
+
+In Italian we have a word for that concept- it is "omert&agrave;", which allows also to solve often issues by using that "keeping quiet" by using statute of limitations.
+
+I do not just preach and teach: I walk the talk.
+
+When I was just 21, in the Army, my office work implied that I had to interview and review (and confirm assigned roles) for a new "batch" of recruits that had passed through the training center in Diano Castello (Liguria) each month- around 20.
+
+Once, there was an issue in transportation- and the travel to Vercelli (where I was) took much much longer (talk days instead of hours).
+
+It was a routine that the newly arrived were made, on the night of arrival at the barracks, to "march" by those that were in the last month of their 12 months compulsory service.
+
+As I knew in which conditions they would arrive, also if I was few months away from the end of my service, hence not concerned, I simply called up in the dorm (I was the one preparing the services, and proposing R&R to the officers, so I knew each one of those already there individually).
+
+Then said that if they were to have the kids arriving march, I would report them.
+
+The kindest insult I received was "rospa" (frog- is was back then one of the "levels" of seniority).
+
+They arrived. They were asked to march. I went there and repeated. Did not care.
+
+Then went to the officers, and they declined to accept my complaint- and in the dorm saw that somebody had added a nice design on my bed: a two-rings target by cutting my blanket with a bayonet.
+
+I had been previously told that, during an inspection for potential drug distribution, had found weapons within the dorm- as many of those involved had already a "rap sheet".
+
+And, frankly, when arrived a batch of soldiers from a nearby town, one of them eventually was found dead. Another soldier who knew him before told me that actually could have been a matter of drug distribution, as even before the Army that kid had been "trouble".
+
+Did I get scared? Well, a couple of decades ago a colleague of mine told me that is better never to have met me than have me as an enemy.
+
+I am unfortunately used to mafiosi behavior (and saw them also as a much younger kid in Calabria- but these were instead from a section of Naples, Forcella I think).
+
+And that's why already while living in London and Brussels to my foreign colleagues talked about the consequences of a "war of attrition": I had already seen how weakens those who should be on the right side, and gradually "gentrifies" their counterparts.
+
+So, I filed a written complaint, with all the names (I think that were around 20- those from that "team", plus other locals that had "sympathized", and in a previous case had included an architect who complained that he wasn't like that- as saw in Italy often, "mobbing" is an attractor- he should have known better).
+
+Eventually, one of those punished told me that I was a "man of respect": in their logic, he explained me that I had been left alone also by officers, but kept my word and had them punished.
+
+Now, how many organizations allow that "structural corruption"? In business, I always considered my duty, as project manager, coordinator, management consultant to help develop capabilities, not to exploit them or what the role provided.
+
+Whatever your measurement choices, in the XXI century, in a data-centric environment, there are no more excuses: you can layer your measurement system to spot and identify anomalies without any human intervention- but it is a design and governance matter.
+
+<em>"Finance ministries must think about digital public infrastructure as they do roads and power grids"</em>
+(from [here](https://www.imf.org/en/publications/fandd/issues/2026/03/digital-infrastructure-diane-coyle))
+
+Now, the point is revising what we consider "normal" and part of the environment, [as shared on Linkedin](https://www.linkedin.com/posts/robertolofaro_corruption-perceptions-index-2024-activity-7468686022697222144-657A): 
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_06_01.jpeg)</center>
+
+If you read previous articles, you know that beside business number crunching, I am partial to political economy and behavioral economics/finance.
+
+Actually, if you have time, I suggest a couple of courses from Yale delivered by [Robert Shiller, a Nobel Prize winner](https://en.wikipedia.org/wiki/Robert_J._Shiller):
+_ [Financial Markets (2008)](https://oyc.yale.edu/economics/econ-252-08)
+_ [Financial Markets (2011)](https://oyc.yale.edu/economics/econ-252),
+as both contains lessons from the professor, but also discussions with those who actually work in the market.
+
+I followed the first one while in Brussels, I think in 2009, and the other I think in 2012, while in the mountains in Italy.
+
+The concept is: we need to reconsider what we took for granted at least since WWII, as the world is more complex:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_06_02.jpeg)</center>
+(from [here](https://www.imf.org/en/publications/fandd/issues/2026/06/editor-letter-the-geoeconomic-calculus)).
+
+One bit that was customary back in the 1990s and 2000s when prepared business and marketing plans for startups and new initiatives was the SWOT- Strenghts, Weaknesses, Opportunities, Threats.
+
+Since the 2012, informally, routinely morphed the SWOT, even when considering just a new initiative or recovering an existing one, but covering multiple countries.
+
+I think that should become ordinary: [PESTLE](https://en.wikipedia.org/wiki/PEST_analysis), i.e. extending to Political, Economic, Social, Technological, Legal, Environmental- also if I prefer to write PESTEL- that a matter of prioritization.
+
+Somebody would say that SWOT and PESTLE (or PESTEL) are two different dimensions of analysis- but, frankly, I think that, in reality, each one of the elements within the PESTEL includes its own SWOT.
+
+And that, overall, they contribute to a matrix of risks to monitor, and enables a dynamic re-assessment.
+
+The PESTEL approach with an internal SWOT actually is better suited to spot signs of potential "structural corruption", as described above.
+
+The point being, as wrote above, not about avoiding issues or mistakes, but preventing as much as possible, and repairing whenever needed.
+
+Last but not least: all this work if you drop also another Italian habit: looking for a scapegoat- including when we appoint somebody "leader".
+
+Those who make mistakes are often those best positioned to review what happened, identify the issues, and avoid an encore- unless, of course, was criminal neglect.
+
+Now, would like to close the article with a last section based just on examples.
+
+
+<b>THEME 7: a different approach</b>
+
+From the title of this article, you probably expected something more "technical".
+
+Personally, I think that shared in the past more "technical" material on KPIs.
+
+Considering what I keep received on a daily basis on my Linkedin profile, and what I heard over the last couple of weeks of events, decided that this was the right time to shift on sharing principles- before talking again about "technicalities".
+
+Whatever you measure, be it from people or machines, needs to be measurable.
+
+If you ask people to measure something that is impossible to measure, or fail to provide information, they do exactly what LLMs got us used to: 
+_ really few would decline to answer
+_ most would answer "something"
+_ the smartest ones would use existing information to fill the gaps.
+
+Hence, for this article, decided that it was better to focus on something else:
+_ in THEME 1, share material that could provide some doubts
+_ in THEME 2, help in getting used to decide if measuring makes sense at all- the "why"
+_ in THEME 3, what means to contextualize and to evolve your contextualization
+_ in THEME 4, more about questions than answers- before misunderstanding what you have 
+_ in THEME 5, used a case to discuss a further element of debiasing- thinking outside the box
+_ in THEME 6, social architecture assumptions that often distorts perception, again using a case.
+
+In this last section, will bring all that together, but using examples from my experience to discuss both what was in the past, and how could evolve in the future.
+
+The key element to consider is simple: our current AI, if coupled with other elements, allows to blend both deterministic and non-deterministic patterns.
+
+Actually, over the last year and half, many of my experiments in building tools and pipelines using multiple AIs at the same time, aimed a replicating in part what I used to do with PROLOG decades ago (deterministic), with decision support systems (basically, converging by approximation- not completely deterministic, but potentially so), with neural networks and LLMs etc.
+
+The starting point, in every case, was actually a process that used to do manually, and see how could be redesigned to "offload" not just the deterministic part, or even not just classifying etc., but also a feed-back cycle that was actually studying the observations from applications, and "proposing" improvements.
+
+Actually, if you read the [AI to AI language proposal](https://github.com/robertolofaro/supportmaterial/tree/master/AI2AI_language_experiment), you saw that integrated also an "escalation mechanism"- which is a conceptual yet structural implementation of the "management by exception" approach.
+
+That experiment is part of a long journey.
+
+Now that we are on the "data-centric" side of this article, the first element to consider is [what was already within a mini-book that published over a decade ago, #relevantdata](https://robertolofaro.com/relevantdata).
+
+The concept is simple: just because now is cheap and feasible to store massive amounts of data, centrally, in the periphery, or even on dispersed devices ("EdgeComputing"), and add an "intelligent" layer to every storage of data, does not imply that those data contribute to the quality of decision making.
+
+If you defined the "why" you want to measure, properly contextualized, and then followed the questions within the themes 4 5 6 of this article, you can end up as I did in the late 1980s.
+
+I was sent to help design a model, working with the Financial Controller of a company.
+
+The request was to use a bundle of specifications, and create a model that should have been delivered quickly, work on a PC (late 1980s, think that had a fraction of the space and power of any modern Android smartphone), and become a service with minimal maintenance.
+
+So, the first point of order was to identify the relevant data and architecture- and understanding the "why".
+
+As the analysis was available, went through it, and then went through it with the customer, the Financial Controller- again, to confirm the "why".
+
+Well, I think that there never was a business analysis that reached for the trashbin so fast.
+
+Not because was bad- but because required a massive setup to provide all those data with the proper "lineage" (tracing the lifecycle of each data point).
+
+Moreover, when the purpose was to monitor behavioral pattern through the identification of KPIs, instead proposed to build a true "usine &agrave; gaz" that provided plenty of additional services and slicing-and-dicing, when something much, much simpler was the demand.
+
+So, the architecture proposed was simpler: I asked to see which data were already requested to provide and the motivation for providing that data (if data are provided to "feed" what you get paid, chances are that you will take care of what you provide, more than if the data is simply a different way of slicing what you already provide).
+
+Then, designed with the customer few items, presented into a report across all the structure, to enable spotting immediately unusual behavioral patterns.
+
+Example (was not the case, but represents the concept): if you have always the same customer base and turnover, but you generate more sales and more credits to write-off sales, that is something worth investigating- as you generate more commissions on sales on the same turnover.
+
+Years later, the same happened in a completely different context and system- in this case, business intelligence.
+
+In business intelligence, it was common to design what was called a "star schema": a "fact table" (or more) in the middle with the actual data and the "coordinates" of other dimensions of analysis, plus tables describing each dimension.
+
+Typical example: having sales by region product date etc, and then dimensions representing the hierarchy of the regions and the hierarchy of products.
+
+It is nice to be able to "drill-down" by region, product, day- but it is better if the system actually highlights what represents an exception worth investigating.
+
+In both these cases, actually defining the KPIs and what could represent exceptions is something that can easily be done by AIs digging into data, and then proposing improvements, after receiving input on what are the key elements.
+
+A note on this point: I disagree with those that says that "prompting is dead"- since few years ago, after following different courses, did something different.
+
+Or: 
+1 get an idea or concept (relatively easy, as was designing and delivering analysis and methodologies almost four decades ago).
+2 Then, discuss it with few AIs, to have different perspectives.
+3 Then, obtain a more structured prompt assembling what you want to retain, and ask another model to revise it.
+4 Then, hand it over to the "development team" (another AI).
+5 Then, revise the product with another one, test, and iterate or increment if needed.
+
+In some cases, the first three steps are really quick- if you have already developed once a similar pattern with models, and it is still in your mind, you can actually directly skip to the fourth step as actually you have already in your mind done again what you previously did with AIs, and "know" how to present the idea or concept in a way that improves results (in some cases, you saved the prompt and recycled it by changing what needs to be changed).
+
+So, "prompt engineering" is not dead- is even more critical than before, but simply evolved into a collaboration that delivers the same concept but much faster.
+
+For example, followed that approach 1-2-3-4-5 to actually produce my daily [MorningNews](https://github.com/robertolofaro/supportmaterial/tree/master/MorningNewsAgentTest) that discussed in previous articles- which both saves me around 1h a day, but also builds up since around a month a structured knowledgebase that will use in the future (the "yaml" at the beginning of each daily is exactly to ease access by other AIs).
+
+In the 1980s-1990s with decision support systems, and 1990s-2000s- with business intelligence, usually those analyses had a dynamic navigation (you could drive through data), but a static structure (the formulas, dimensions, etc).
+
+If I were to redesign those two systems now (and others that followed a similar approach, e.g. balancing staff across the organization while creating new branches by using a skills rating matrix, deciding where to set up a new warehouse to minimize logistics costs, optimizing production plans based on sales trends, etc)?
+
+Would blend what did back then (the architecture, design, building) with what is feasible now (having reports and dashboards monitored by an AI that can highlight new patterns or if an existing KPI is becoming almost constant, spot new emerging potential candidates, etc).
+
+The point in these examples? 
+
+You have to retain the same discipline that had before.
+
+Now, with proper instructions, you can have different AIs supporting you across the different phases of the lifecycle of a measure.
+
+From spotting areas worth measuring, to monitoring execution to suggest improvements, to auditing results periodically to identify potential emerging trends...
+
+... unbundle your process, and see how AI can augment you in each step.
+
+R.g. in finance or procurement or logistics this could help spot anomalies while are still minimal, or at least identify in that early stage the exceptions worth monitoring, and continuously adapting.
+
+Since the COVID crisis, I saw multiple cases where actually was considering that logic.
+
+Anyway, should be applied by those who are insiders and have continuous access to data that have to be provided, e.g. for the Recovery and Resilience Facility (the one the Italian PNRR derives from), insiders could have actually spotted and "nudged" Member States, to allow continuous adjustments and increase the probability that all the funding was allocated and invested on what represented investment, reducing the glorified political "earmarks".
+
+If the data you have to use to produce measures is generated by those who do not have a motivation aligned to your own, you need also to integrate some "buffering" to carry out continuous reality checks.
+
+Living in a data-centric environment implies that actually there are multiple potential sources of data and concepts on how to convert data into information.
+
+Hence, it is useful to get used to at least monitor the "frontend" of evolution in science and technology.
+
+To share an example that posted on Linkedin:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_07_01.png)</center>
+(from [The State of the Science 2026 from National Academies of Science, Engineering, Medicine](https://www.linkedin.com/posts/robertolofaro_now-live-httpslnkdindh5ck-iz-activity-7467653037076004864-28js)).
+
+Also because, after WWII, we were used to a world that does not exist anymore, further reinforced by the melting down of the former USSR.
+
+In reality, this is e.g. an assessment on evolving positions:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_07_02.png)</center>
+
+The predatory practices continuously implemented by the President Trump administration in his second term sometimes follow routine pattern, e.g the "voluntary" pre-emptive disclosure of leading edge AI models, as [shared on Linkedin](https://www.linkedin.com/posts/robertolofaro_from-todays-morningnews-links-https-activity-7467808373158178816-t9F9):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_07_03.png)</center>
+
+Anyway, if you follow the approach of AI as a coworker blended into your processes, remember always to identify the risks of dependency.
+
+I do not know if this example of "tokenmaxxing" is true, but it is funny to share:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_07_04.png)</center>
+
+We need to reconsider something more than business processes: in a data-centric world where you routinely integrate AI in a semi-autonomous or autonomous way within your business activities, continuous learning should be lifelong, and also universities should change their XIX century approach that simply augmented with computers in the XX century:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_07_05.jpeg)</center>
+
+I could add more examples from my past revisited by blending in AI- but the pattern is what shared in previous articles and outlined within the two cases discussed in theme 5 and 6, as well as the two practical examples from decision support systems and business intelligence.
+
+Maybe will share more examples in the future- but directly as fully developed cases.
+
+I had some plans for June, after spending the last week and this week attending few local business events in Turin, but, as wrote within the introduction...
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/06/20260607_07_06.jpeg)</center>
+
+So, see you in few days for the next article.
