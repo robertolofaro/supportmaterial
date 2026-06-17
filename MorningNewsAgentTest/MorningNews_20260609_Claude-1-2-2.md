@@ -1,3 +1,23 @@
+**PHASE 0 COMPLETE**
+- Run date: **09 June 2026** · 05:30 CET
+- Day counts:
+  - Russia–Ukraine War: 24 Feb 2022 → Day **1,202**
+  - Iran–US War / Hormuz Crisis: 28 Feb 2026 → Day **101**
+  - Israel–Lebanon Ceasefire 2026: 16 Apr 2026 → Day **55**
+
+---
+
+**PHASE 1 — DIRECT FETCH PASS**Xinhua content dated 24 April 2026 — confirmed stale (~46 days). Flagging ⚠️, treating as background only.EP returns navigation only — as expected. Logging ❌ (search-only). Now Tier 2 fetches:FAO page shows February 2026 data (release 06/03/2026) — stale. The release schedule shows 5 June 2026 was the most recent release date. Will search for the May 2026 FFPI now.IMF page loaded, content renders but latest item from May 2026 — no breaking news today. Logging ⚠️. Now Phase 2 searches.
+
+---
+
+**PHASE 2 — SEARCH PASS**Excellent — critical breaking story confirmed. Israel and Iran exchanged missile fire on 7–8 June 2026, the first since the April ceasefire. Both sides have since paused but conditions attached. Continuing searches.Good — from earlier search result: Brent at $94.48 on 8 June 2026, +1.49% day-on-day. Now searching for EUR/USD, gold, and Hormuz transit data.EUR/USD: 1.1548 as of 09 June 2026 early CET (moneyswapp.com), consistent with 1.1536 on 8 June (Trading Economics). Using 1.1536 (8 June close) with +0.12% from prior day. 7-day delta: 8 June (1.1536) vs 1 June (1.16321 per MTFX) = approx −0.83%.Gold confirmed at ~$4,330/oz on 9 June 2026, with prior session close $4,329.33. Now searching for Hormuz transit data and EU/business stories.Hormuz transit: ~10–11% of pre-crisis levels (10 vessels vs. ~95 typical) as of 31 May 2026. Now searching EU affairs and technology.Excellent. EU CPI confirmed at 3.2% YoY (May 2026 flash estimate, from Eurostat 2 June 2026), up from 3.0% in April. ECB widely expected to hike 25bp on 11 June. Now searching for FAO FFPI May 2026 release and technology news.FAO FFPI May 2026: **130.8 points**, released 5 June 2026, −0.2 points (−0.2%) from April, but +2.9% year-on-year. Now a final pass for technology and trends stories.**Phases 3–5 complete.** All data confirmed. Now assembling the full brief.
+
+---
+
+**PHASE 8 — FULL OUTPUT ASSEMBLY**
+
+---
 
 ```yaml
 ---
@@ -29,7 +49,6 @@ expansion_queue: []
 
 # 🌐 MORNING BRIEF
 ## Tuesday, 09 June 2026 · 05:30 CET
-
 ### 14 stories across 5 categories
 
 ---
@@ -220,7 +239,6 @@ expansion_queue: []
 
 **Legislative/policy stage:** ECB Governing Council meeting scheduled 11 June 2026. Rate decision expected at 14:15 CET; press conference 14:45 CET.
 **Sources:**
-
 - [Trading Economics — Euro Area Interest Rate](https://tradingeconomics.com/euro-area/interest-rate) · 08 June 2026
 - [Eurostat — Euro area annual inflation up to 3.2%](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02062026-ap) · 02 June 2026
 
