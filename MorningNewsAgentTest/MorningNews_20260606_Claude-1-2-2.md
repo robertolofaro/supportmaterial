@@ -1,3 +1,15 @@
+**Phase 0 complete.** Run date: **06 June 2026** · 05:40 CET
+
+Day counts:
+- Russia–Ukraine War: 24 Feb 2022 → 06 Jun 2026 = **Day 1,199**
+- Iran–US War / Hormuz Crisis: 28 Feb 2026 → 06 Jun 2026 = **Day 99**
+- Israel–Lebanon Ceasefire 2026: 16 Apr 2026 → 06 Jun 2026 = **Day 52**
+
+---
+
+**Phase 1 — Direct fetch pass**Xinhua content dated 24 April 2026 — flagged ⚠️, applying search fallback.EP navigation structure only — confirmed ⚠️. Proceeding to Tier 2 institutional fetches.FAO FFPI data extracted: 125.3 points (February 2026, released 06 March 2026). Note: the June 2026 release (5 June per calendar) would be the May 2026 figure — need to check if that's been published.The FAO June 2026 release (scheduled for 5 June 2026 — yesterday) should have published the May 2026 FFPI. Need to check the UN media release for the April figure and the May figure.FAO May 2026 data confirmed: 130.8 points, −0.2% from April (April revised: ~131.0). Now proceeding with Phase 2 search pass across all categories.Excellent Hormuz data from straits.live. Now searching for Iran–US war latest developments and Israel–Lebanon ceasefire update.Brent data: ~$94.81 today (06 Jun, early morning from oilprice.com). Trading Economics shows $95.25 on 5 June. Good data picture assembled. Now searching EU Affairs and Technology.Excellent. All key data now assembled. Let me do one final search for trends/food security and the ECB rate decision.All data collected. Now assembling the complete brief across all phases.
+
+---
 
 ```yaml
 ---
