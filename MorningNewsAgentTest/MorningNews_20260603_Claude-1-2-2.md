@@ -1,4 +1,61 @@
+**Phase 0 complete.** Run date: **03 June 2026**, 06:14 CET.
 
+Day-count calculations:
+- Iran–US War / Hormuz Crisis: start **13 April 2026** → Day **52**
+- Russia–Ukraine War: start **24 February 2022** → Day **1,561**
+- Israel–Lebanon Ceasefire: start **27 November 2024** → Day **554**
+
+---
+
+### PHASE 1 — Direct fetch passXinhua fetched — most recent datelines 29–30 May 2026, outside 24h window. Noting one useful item (Trump/Iran draft deal, 30 May). Flagging ⚠️ — date-validation required on all items.EP returns navigation structure only — confirmed known pattern. Switching to search fallback.FAO data confirmed: February 2026 = **125.3 points** (latest published). Next release **5 June 2026** — today is 3 June, so May data not yet released. Carrying February 2026 value. January 2026 = 124.2 (implied from +0.9% to reach 125.3). Now proceeding to Tier 2 fetches.IMF news page returns nav structure; content loading via JS. Will use search for IMF data. Phase 1 complete. Proceeding to Phase 2.
+
+---
+
+### PHASE 2 — Search passGood. Now correcting day-count for Israel–Lebanon ceasefire: the tracker previously held 27 November 2024 as start date. A **second** Israel–Lebanon ceasefire began **16 April 2026**. I will update the tracker accordingly. Let me now search remaining categories.Good. Brent = **~$96.89 USD/bbl** on 3 June 2026, up +0.93% from prior session (from Trading Economics). Prior session (2 June) ~$96.00. Now searching for EUR/USD, Gold, equity markets, and EU CPI.EUR/USD: ~1.165 as of 1 June 2026, latest available from Trading Economics. 7-day prior (27 May): 1.16259. Now searching Gold and S&P 500.Gold confirmed: **$4,477.78 USD/t.oz** on 3 June 2026 (Trading Economics), down −0.27% from prior session ($4,490 est.). EUR/USD: ~1.1635 (FXStreet, 3 June). Now searching EU CPI, IMF growth, and S&P 500.Excellent. EU CPI May 2026 flash estimate confirmed: **3.2% YoY** (up from 3.0% in April), released 2 June 2026. Now searching for IMF growth forecast and S&P 500.IMF data confirmed: April 2026 WEO = **3.1%** global growth for 2026 (reference forecast, down from January WEO 3.3%). Now searching S&P 500 and ECB.Excellent data collection. S&P 500 closed at **7,609.78** on 2 June 2026 (new record). ECB deposit rate currently **2.00%** with 91% market probability of a +25bp hike on 11 June. Now searching EU Affairs, Technology, Trends, and Hormuz transit.Excellent. Now searching Technology and Trends categories.Excellent — very significant Tech story: Trump signed AI executive order on 2 June 2026 seeking government early access to frontier models. Also: Anthropic filed confidentially for IPO. Now searching Trends and Hormuz transit data.Hormuz transit data confirmed: ~**4–6% of pre-crisis levels** as of early June 2026, per IMF PortWatch. Baseline ~95 vessels/day; current ~4–6 vessels/day. Now one final search for Trends/food security and global shipping.All data phases complete. Proceeding to Phase 3–9: pool merge, editorial filter, and assembly.
+
+---
+
+**Phase 3–5 internal summary:**
+
+Story pool (26 candidates):
+1. Iran suspends US negotiations, threatens full Hormuz closure (1 Jun) — Trump says deal reachable "next week"
+2. Iran-US MOU draft: 60-day ceasefire extension + Hormuz + nuclear terms (30 May–2 Jun)
+3. Trump–Netanyahu Lebanon rift: differing accounts of Lebanon offensive scope
+4. ISW: Ukrainian forces largely halt Russian Spring-Summer 2026 offensive; Russian gains in May fraction of prior year
+5. EU CPI May 2026 flash: 3.2% YoY — highest since September 2023 — ECB June 11 hike all but certain
+6. Eurozone stagflation risk: EU GDP Q1 2026 +0.1% QoQ; CPI rising
+7. Peter Magyar secures €16.4bn in frozen EU funds from von der Leyen (29 May)
+8. Hungary + Ukraine EU accession: Magyar conditionally lifting veto, 9 of 11 issues resolved
+9. Trump AI Executive Order (2 Jun 2026): government 30-day early access to frontier models, voluntary
+10. Anthropic files confidential IPO with SEC (2 Jun 2026)
+11. SpaceX IPO imminent — potential $1T+ valuation
+12. Hormuz transit at 4–6% of pre-crisis level; Iran threatens full closure after suspending talks
+13. Food security: UK warning of global food crisis; FAO warning on fertiliser shortages
+14. Global oil inventory draws: 6th consecutive weekly US crude draw — inventory cushion shrinking
+15. S&P 500 record close 7,609.78 (2 Jun); AI/chip boom driving equity rally despite oil spike
+16. SAFE programme: 18 of 19 EU member states approved; €150bn defence loans framework active
+
+Alert calibration: 16 stories, cap at 40% red = max 6 red. Target: 13 published stories.
+
+Selected 13 stories:
+- Conflict: 3 (Iran talks suspended + Hormuz; Lebanon/Israel rift; Ukraine Spring offensive)
+- Business: 3 (ECB hike; oil inventory + Brent; S&P record)
+- EU Affairs: 3 (CPI/ECB; Hungary/funds; SAFE disbursements)
+- Technology: 2 (Trump AI EO; Anthropic IPO + SpaceX)
+- Trends: 2 (Food security; Hormuz shipping structural impact)
+
+Alert distribution: 🔴 × 5, 🟡 × 6, 🟢 × 2 = 38% red ✅
+
+Ongoing Situations Tracker — revised dates:
+- Iran–US War / Hormuz Crisis: start 28 Feb 2026 → Day 95 (3 Jun − 28 Feb + 1 = 95)
+- Russia–Ukraine War: start 24 Feb 2022 → Day 1,561
+- Israel–Lebanon Ceasefire (2026): start 16 Apr 2026 → Day 49
+
+*(Note: The Iran–US war start date confirmed as 28 Feb 2026, not 13 April — the April date was the ceasefire, not the war start. Day count corrected.)*
+
+Now assembling full output.
+
+---
 
 ```yaml
 ---
@@ -84,7 +141,6 @@ fetch_status:
 **Summary:** Iran's state-affiliated outlet Tasnim reported on 2 June that Iranian negotiators have halted the exchange of messages with Washington through intermediaries, citing ongoing ceasefire violations — specifically Israel's military operations in Lebanon, which Tehran insists must be included in any deal. Iran simultaneously threatened to "completely block" the Strait of Hormuz and activate the Bab al-Mandeb as a second pressure point. Oil prices surged more than 7% on the initial Tasnim report. Trump, speaking to ABC News on 2 June, said a deal to reopen Hormuz was reachable "over the next week" and that an MOU could be signed imminently, though he demanded written commitments on nuclear concessions. A regional source told CNN talks were "back on track" hours after the suspension announcement.
 **Significance:** The suspension–resumption cycle illustrates how closely the Hormuz reopening is linked to the Lebanon front, a variable Washington does not fully control. A full Hormuz closure would remove the residual 4–6% of pre-crisis transit volume, erasing the last marginal oil supply flow from the Gulf and accelerating inventory depletion globally.
 **Sources:**
-
 - [CNBC — Iran stops negotiations with U.S., vows to 'completely' block Strait of Hormuz](https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html) · 01 June 2026
 - [CBS News — Trump recently edited possible U.S.-Iran agreement, including on enriched uranium and Strait of Hormuz](https://www.cbsnews.com/live-updates/iran-war-us-trump-vance-ceasefire-strait-of-hormuz-deal-close/) · 01 June 2026
 - [CNN — Trump insists talks continue after Iran suspended negotiations](https://www.cnn.com/2026/06/01/world/live-news/iran-trump-lebanon-war-news) · 01 June 2026
@@ -98,7 +154,6 @@ fetch_status:
 **Summary:** A sharp divergence emerged on 2 June between Trump and Israeli Prime Minister Netanyahu over the scope of Israel's operations in Lebanon. Trump declared that Israeli forces would not move on Beirut after a call with Netanyahu — a call described by sources as heated — and pressed Israel to scale back its Lebanon offensive to prevent it from collapsing the Iran negotiations. Netanyahu's office, however, stated that Israel would continue striking southern Lebanon. Separately, Lebanese authorities confirmed that Hezbollah had agreed to a US ceasefire proposal under which strikes on Beirut would halt. The 2026 Israel–Lebanon ceasefire, brokered by the US on 16 April and extended on 23 April, is now on Day 49 and under acute stress.
 **Significance:** The Lebanon front has become the principal destabilising variable in US–Iran negotiations. Tehran has made Israeli de-escalation in Lebanon a condition of any MOU; Washington cannot deliver Israeli compliance, creating a structural impasse that may outlast any short-term deal.
 **Sources:**
-
 - [CNN — Live news: Iran-Trump-Lebanon war](https://www.cnn.com/2026/06/01/world/live-news/iran-trump-lebanon-war-news) · 01 June 2026
 - [Fox News — Iran peace talks in question as Trump pressures Israel for ceasefire](https://www.foxnews.com/live-news/trump-iran-war-israel-lebanon-hormuz-june-2) · 02 June 2026
 **Trend:** ↗ Escalating
@@ -111,7 +166,6 @@ fetch_status:
 **Summary:** The Institute for the Study of War's 1 June 2026 assessment concluded that Ukrainian forces have largely halted the Russian Spring-Summer 2026 offensive, with Russian gains in May amounting to only a fraction of territory taken in May 2025. ISW attributed the slowdown not to seasonal weather but to structural battlefield shifts, including Ukraine's expanding mid-range strike campaign against Russian ground lines of communication from occupied Luhansk Oblast to Crimea, and expanded drone strikes against Russian training grounds. Neither side made confirmed advances on 31 May. Russia nonetheless launched 229 drones in a single overnight salvo. Russian President Putin is reportedly resisting pressure from economic officials to reduce defence spending despite warnings about its unsustainability.
 **Significance:** A stalled Russian offensive may indicate approaching operational culmination or a strategic pause before renewed pressure; it is not indicative of imminent de-escalation. Ukraine's ability to target logistics over extended range represents a qualitative shift in its defensive posture.
 **Sources:**
-
 - [Kyiv Post / ISW — Russian Offensive Campaign Assessment, June 1, 2026](https://www.kyivpost.com/post/77319) · 02 June 2026
 - [Ukrinform — War news 02 June 2026](https://www.ukrinform.net/rubric-ato) · 02 June 2026
 **Trend:** ↘ De-escalating
@@ -130,7 +184,6 @@ fetch_status:
 **Summary:** Eurostat's flash estimate released 2 June confirmed eurozone CPI at 3.2% year-on-year in May 2026, up from 3.0% in April — the highest reading since September 2023. Energy (+10.9%) remains the dominant driver, directly linked to the Hormuz crisis, but services inflation jumped to 3.5% from 3.0%, indicating broadening price pressures beyond the supply shock. Core inflation rose to 2.5% from 2.2%, beating consensus of 2.4%. Financial markets have now fully priced a 25 basis-point rate hike at the ECB Governing Council meeting on 11 June, which would push the deposit facility rate from 2.00% to 2.25%, ending the easing cycle that defined most of 2025. One to two further hikes are priced for the autumn.
 **Market signal:** Bearish for eurozone equities and duration bonds — rate reversal into a stagflationary environment raises borrowing costs without improving the growth backdrop.
 **Sources:**
-
 - [Eurostat — Euro area annual inflation up to 3.2%](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02062026-ap) · 02 June 2026
 - [Reuters / Investing.com — Euro zone inflation jump reinforces case for June rate hike](https://www.investing.com/news/economy-news/euro-zone-inflation-rises-again-reinforcing-case-for-ecb-hike-4721075) · 02 June 2026
 **Trend:** ↗ Escalating
@@ -145,7 +198,6 @@ fetch_status:
 **Summary:** Brent crude rose to $96.89 USD/bbl on 3 June 2026, gaining for a third consecutive session (+0.93% on the day) as US–Iran negotiation uncertainty maintained a geopolitical risk premium. Industry data showed US crude inventories declined by 6.8 million barrels last week — if confirmed by official EIA figures later Wednesday, it would mark the sixth consecutive weekly drawdown. The EIA's May STEO forecasts global oil inventories will fall by an average 8.5 million barrels per day in Q2 2026. Brent remains approximately 49% above year-ago levels. The UAE's departure from OPEC (effective 1 May 2026) has reduced OPEC spare capacity estimates for 2027 from 3.8 to 2.5 million b/d.
 **Market signal:** Moderately bullish for crude in the near term — consecutive inventory draws point to structural undersupply while the Strait remains functionally closed, though any confirmed deal progress could trigger a sharp reversal.
 **Sources:**
-
 - [Trading Economics — Brent crude oil price 3 June 2026](https://tradingeconomics.com/commodity/brent-crude-oil) · 03 June 2026
 - [EIA — Short-Term Energy Outlook May 2026](https://www.eia.gov/outlooks/steo/) · 01 June 2026
 **Trend:** ↗ Escalating
@@ -160,7 +212,6 @@ fetch_status:
 **Summary:** The S&P 500 closed at 7,609.78 on 2 June 2026, breaking above 7,600 for the first time in history, driven by AI-linked semiconductor names including Marvell Technology and Hewlett Packard Enterprise, which beat earnings expectations and raised full-year guidance. Technology and energy were the only two S&P 500 sectors in positive territory, reflecting the bifurcation between AI investment optimism and geopolitical risk. The Nasdaq closed at 27,086.81 and the Dow at 51,078.88. All three major indices are at or near all-time highs. Markets are also digesting Trump's AI executive order (see Technology) and Anthropic's confidential IPO filing.
 **Market signal:** Bullish for technology sector near term — AI capex cycle intact and equity markets are treating geopolitical risk as a containable premium rather than a systemic shock.
 **Sources:**
-
 - [TheStreet — Stock Market Today June 2 2026: S&P 500 finishes above 7,600](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-02-2026) · 02 June 2026
 - [CNBC — S&P 500 closes at a record to kick off June trading](https://www.cnbc.com/2026/05/31/stock-market-today-live-updates.html) · 02 June 2026
 **Trend:** ↗ Escalating
@@ -179,7 +230,6 @@ fetch_status:
 **Summary:** Hungarian Prime Minister Péter Magyar met European Commission President Ursula von der Leyen in Brussels on 29 May 2026 and secured the release of €16.4 billion in cohesion and recovery funds that had been frozen over rule-of-law deficiencies under the previous Orbán government. Von der Leyen confirmed a further €6.4 billion would be unlocked, meaning Hungary is now on track to receive all previously suspended funds. Both leaders stated there was "absolutely no link" between the funding decision and Ukraine's EU accession process. Magyar is expected to lift Hungary's veto on the next stage of Ukraine's EU membership process — likely on or after 16 June — once nine of eleven outstanding bilateral issues with Kyiv are resolved; Magyar confirmed nine are agreed.
 **Legislative/policy stage:** Cohesion fund disbursement in implementation stage pending formal legal completion of agreements. Ukraine accession negotiations — next Inter-Governmental Conference step pending Hungary veto lift, expected mid-June.
 **Sources:**
-
 - [Kyiv Independent — Magyar secures frozen EU money, Ukraine issues remain stuck](https://kyivindependent.com/magyar-secures-frozen-eu-money-ukraine-issues-unresolved/) · 29 May 2026
 - [Euronews — EU approves €90 billion loan for Ukraine after Hungary lifts controversial veto](https://www.euronews.com/my-europe/2026/04/23/eu-approves-90-billion-loan-for-ukraine-after-hungary-lifts-controversial-veto/) · 23 April 2026
 **Trend:** ↘ De-escalating
@@ -192,7 +242,6 @@ fetch_status:
 **Summary:** The May 2026 Eurostat flash CPI release — 3.2% headline, 2.5% core — has confronted the ECB with a dilemma largely of the conflict's making: inflation is rising and now spreading beyond energy into services (3.5%), yet eurozone GDP grew just 0.1% in Q1 2026. The ECB held rates at 2.00% on 30 April; minutes published 29 May showed some Governing Council members would have supported an April hike. Markets now price a 97% probability of a 25bp increase on 11 June. Finnish ECB member Olli Rehn described the expected hike as an "insurance" move. Core inflation at 2.5% — its highest in over a year — suggests second-round effects are beginning to emerge.
 **Legislative/policy stage:** ECB Governing Council meeting scheduled 11 June 2026; rate decision expected that day. New ECB staff projections will also be published.
 **Sources:**
-
 - [GMK Center — Inflation in the eurozone accelerated to 3.2% in May](https://gmk.center/en/news/inflation-in-the-eurozone-accelerated-to-3-2-in-may/) · 02 June 2026
 - [Eurostat — Euro area annual inflation flash estimate May 2026](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02062026-ap) · 02 June 2026
 **Trend:** ↗ Escalating
@@ -205,7 +254,6 @@ fetch_status:
 **Summary:** The EU's Security Action for Europe (SAFE) programme has cleared national defence investment plans for 18 of 19 participating member states, unlocking a total of up to €150 billion in low-cost EU-backed loans for defence procurement — the largest single EU military spending instrument in the bloc's history. The Council approved defence funding for 18 states between January and April 2026. Only Hungary's plan had been held in abeyance, pending the resolution of its Ukraine veto dispute — which was subsequently resolved following the Magyar election victory on 12 April. The programme requires 15 of 19 participating member state plans to include Ukraine defence industrial co-operation provisions. The European Parliament has launched a legal challenge arguing that SAFE bypassed normal parliamentary budgetary oversight via Article 122 TFEU.
 **Legislative/policy stage:** Implementation phase — loan agreements being finalised with member states. First disbursements made or imminent. EP legal challenge at Article 122 pending judicial review.
 **Sources:**
-
 - [EU Council — What is Security Action for Europe (SAFE)?](https://www.consilium.europa.eu/en/policies/safe/) · 10 April 2026
 - [European Commission Defence Industry — SAFE approvals unlock defence funding for Czechia and France](https://defence-industry-space.ec.europa.eu/safe-approvals-unlock-defence-funding-czechia-and-france-2026-03-26_en) · 26 March 2026
 **Trend:** ↗ Escalating
@@ -220,12 +268,10 @@ fetch_status:
 > 🤖 **TECHNOLOGY ANALYST** · 2 updates today
 
 ### 10. Trump AI Executive Order: Voluntary Government Pre-Access to Frontier Models 🟡
-
 **Alert:** 🟡
 **Summary:** President Trump signed an executive order on 2 June 2026, titled "Promoting Advanced Artificial Intelligence Innovation and Security," directing the NSA, CISA and Treasury to establish within 60 days a classified framework under which AI developers would provide the US government up to 30 days' early access to frontier models before public release. The order explicitly states this is voluntary and does not constitute a mandatory government licensing or preclearance requirement. It frames frontier AI simultaneously as a national security asset and threat, establishing a cybersecurity review apparatus. The order is explicitly deregulatory in philosophy, framing itself as a continuation of the administration's approach of "slashing bureaucratic constraints."
 **Analyst note:** The voluntary framing limits immediate compliance pressure on labs, but establishes a precedent for government pre-release review that, if normalised over 12–24 months, could shift the regulatory landscape for frontier model deployment — particularly relevant as Anthropic, OpenAI, and SpaceXAI all approach public markets.
 **Sources:**
-
 - [White House — Promoting Advanced Artificial Intelligence Innovation and Security](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/) · 02 June 2026
 - [CNBC — Trump signs AI executive order asking companies to give government early access to models](https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html) · 02 June 2026
 **Trend:** ↗ Escalating
@@ -238,7 +284,6 @@ fetch_status:
 **Summary:** Anthropic, developer of the Claude large language model family, filed a confidential S-1 registration with the US Securities and Exchange Commission on 2 June 2026, initiating the process for a public listing. OpenAI is separately reported to be preparing an IPO later this year. SpaceX — whose AI lab SpaceXAI operates the Grok model series — is set to list "as soon as next week" at a potential valuation exceeding $1 trillion, which would make it the largest technology IPO in history. The cluster of AI-sector listings is occurring as markets reach record highs driven partly by AI infrastructure investment and as the Trump AI executive order reframes federal government engagement with the sector.
 **Analyst note:** A wave of AI-sector IPOs over the next 12 months will provide the first transparent market valuations for frontier AI labs, which could recalibrate private-market valuations across the ecosystem and intensify public scrutiny of model safety and governance practices.
 **Sources:**
-
 - [CNBC — Trump signs AI executive order asking companies to give government early access to models](https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html) · 02 June 2026
 **Trend:** ↗ Escalating
 **Tags:** #AI #LLM #IPO #AI-regulation #semiconductor
@@ -256,7 +301,6 @@ fetch_status:
 **Summary:** UK Foreign Secretary Yvette Cooper issued a stark warning on 19 May 2026, stating the world is "sleepwalking into a global food crisis" due to the Hormuz disruption. Her remarks echoed a UN News report of April 2026 and FAO Chief Economist Máximo Torero's warning that a prolonged closure risked reducing global fertiliser availability and crop yields across import-dependent economies. Global fuel prices are more than double 2025 averages per UN estimates. Fertiliser costs in the Middle East rose 19–28% in the first weeks of March. Countries identified as most at risk include India, Bangladesh, Sri Lanka, Somalia, Sudan, Tanzania, Kenya, and Egypt. The Hormuz crisis has been described by the IEA head as "the largest supply disruption in the history of the global oil market."
 **Horizon:** Medium-term — if the Strait remains effectively closed through June planting decisions, the FAO projects reduced wheat, rice and maize yields and elevated food price inflation into Q3–Q4 2026 and into 2027.
 **Sources:**
-
 - [Time — Lawmaker warns of 'global food crisis,' urges immediate reopening of Strait of Hormuz](https://time.com/article/2026/05/19/global-food-crisis-concerns-strait-of-hormuz-iran-trade-choke-hold/) · 19 May 2026
 - [UN News — 'Clock is ticking': Hormuz disruption raises fears of global food crisis](https://news.un.org/en/story/2026/04/1167289) · 13 April 2026
 **Trend:** ↗ Escalating
@@ -271,7 +315,6 @@ fetch_status:
 **Summary:** Per IMF PortWatch data as of 24 May 2026, just four vessels transited the Strait of Hormuz against a pre-crisis baseline of approximately 95 per day — roughly 4% of normal flow. Over 1,500 vessels remain stranded. War-risk insurance is priced at 8× pre-crisis levels, with six P&I clubs having withdrawn cover. The bypass pipelines of Saudi Arabia and UAE can handle only ~5.5 million barrels per day — roughly one-quarter of the region's typical export volume. Even if the Strait were reopened immediately, Lloyd's List estimates it would take until at least September for tanker and oil markets to normalise. Iran has now threatened to escalate from partial to complete blockade (see Conflict § Story 1).
 **Horizon:** Medium-to-long-term — structural shipping rerouting is under way; alternative route capacity (Cape of Good Hope, overland pipelines) insufficient to compensate at scale. The 95-day effective closure is already reshaping insurance frameworks, charter markets, and Gulf energy export routing for years ahead.
 **Sources:**
-
 - [USNI News — Strait of Hormuz commercial transits at lowest level since Operation Epic Fury start](https://news.usni.org/2026/05/01/strait-of-hormuz-commercial-transits-at-lowest-level-since-operation-epic-fury-start-shipping-data-shows) · 01 May 2026
 - [Polymarket — Strait of Hormuz traffic returns to normal by end of June](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) · 02 June 2026
 **Trend:** ↗ Escalating
