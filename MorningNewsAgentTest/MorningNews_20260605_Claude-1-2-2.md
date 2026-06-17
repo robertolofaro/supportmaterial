@@ -1,3 +1,28 @@
+**PHASE 0 COMPLETE** — Run date: 05 June 2026 · 05:01 CET
+
+**Day # calculations:**
+- Russia–Ukraine War: 24 Feb 2022 → Day **1,198**
+- Iran–US War / Hormuz Crisis: 28 Feb 2026 → Day **97**
+- Israel–Lebanon Ceasefire: to be confirmed from source data
+
+---
+
+**PHASE 1 — Direct fetch pass begins**Xinhua ⚠️ — content dated 24 April 2026, outside 24h window. Applying search fallback.EP ⚠️ — navigation only, confirmed. Now Tier 2 institutional fetches:FAO ⚠️ — March release (06/03/2026) is most recent visible; checking if May release (8 May) is published. The page notes next release: 5 June 2026 — today. Searching for fresh data.IMF ⚠️ — no 24h stories in snippet. Now Phase 2 — all search queries:Today (5 June) is the FAO scheduled release date. Searching for the May 2026 FFPI figure:FAO's May 2026 release is today (5 June) but not yet indexed in search — the April 2026 FFPI was 130.7 points (released 8 May). Carrying April forward as latest available. Now searching remaining categories:**PHASE 3 complete — pool merged and deduplicated. Now executing Phases 4–9.**
+
+---
+
+**URL verification, editorial filter, and assembly:**
+
+Data summary:
+- EUR/USD: 1.1615 (5 Jun, Trading Economics) — prior session 1.15975 (3 Jun, Wise); Δ = +0.15%
+- Brent: ~$97/bbl range today (TE: fell below $97 Thu); Yahoo shows $94.82 during US trading 4 Jun. Using $96.70 (Investing.com intraday range 96.47–97.96)
+- Gold: ~$4,450 (TE, 4 Jun); $4,436.64 (LiteFinance, 4 Jun)
+- EU CPI: 3.2% (May 2026 flash, Eurostat, 2 Jun 2026)
+- FAO FFPI: 130.7 (April 2026, released 8 May) — May release today, not yet indexed
+- Hormuz transit: ~11% of pre-crisis volume (31 May, straits.live)
+- Israel–Lebanon 2026 ceasefire start: 16 April 2026 — Day 51 today (inclusive from 16 Apr)
+
+---
 
 ```yaml
 ---
@@ -80,12 +105,10 @@ expansion_queue: []
 > 🔎 **CONFLICT ANALYST** · 3 updates today
 
 ### 1. Iran–US Peace Deal Stalled as Both Sides Exchange Strikes 🔴
-
 **Alert:** 🔴
 **Summary:** Negotiations over a 60-day memorandum of understanding between Washington and Tehran have stalled after Trump tightened terms — demanding tougher language on Iran's nuclear stockpile and Strait of Hormuz reopening — and sent the framework back for Iranian consideration. Iran's foreign minister confirmed dialogue continues but cautioned against premature expectations. Over the preceding weekend, US forces conducted self-defence strikes against Iranian radar and command-and-control sites following the shootdown of a US MQ-1 drone; Iran launched attacks on US bases in Bahrain and Kuwait. Hormuz transits remain at approximately 11% of pre-crisis volume. Pakistan-mediated negotiations continue.
 **Significance:** The failure to finalise the MoU prolongs the world's most acute energy-supply disruption; analysts warn it could take until at least September for tanker markets to normalise even if the strait reopened immediately.
 **Sources:**
-
 - [Al Jazeera — Trump tightens terms on Iran war deal, US media say](https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say) · 31 May 2026
 - [CNN — US and Iran exchange renewed fire as Trump asks for changes to proposed deal](https://www.cnn.com/2026/05/31/politics/trump-iran-deal-changes) · 31 May 2026
 - [PBS NewsHour — U.S. and Iranian negotiators reach tentative deal to extend ceasefire](https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks) · 28 May 2026
@@ -95,12 +118,10 @@ expansion_queue: []
 ---
 
 ### 2. Lebanon Ceasefire Agreed — Hezbollah Formally Rejects Deal 🔴
-
 **Alert:** 🔴
 **Summary:** On 3 June, Israel and Lebanon agreed to a conditional ceasefire requiring a complete cessation of Hezbollah fire and the creation of "pilot zones" under exclusive Lebanese Armed Forces control. However, Hezbollah leader Naim Qassem formally rejected the agreement, demanding full Israeli withdrawal from southern Lebanon as a precondition. A UNIFIL peacekeeper (Serbian national Sergeant Milovan Jovanovic) was killed by mortar fire on 4 June near Marjayoun. Iran's foreign minister stated the war will only end when Lebanon is also included. Next round of comprehensive talks scheduled for 22 June in Washington.
 **Significance:** Hezbollah's formal rejection transforms a diplomatic agreement into an enforcement problem; UNIFIL casualties raise UN political pressure and risk complicating the June 22 track.
 **Sources:**
-
 - [Al Jazeera — Israel and Lebanon agree to conditional ceasefire](https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire) · 4 June 2026
 - [NPR — Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon](https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire) · 4 June 2026
 - [Axios — Israel, Lebanon agree to full ceasefire, but Hezbollah rejects it](https://www.axios.com/2026/06/03/israel-lebanon-ceasefire-hezbollah-us) · 3 June 2026
@@ -114,7 +135,6 @@ expansion_queue: []
 **Summary:** British Defence Intelligence assessed on 1 June that Russian forces are conducting slow, steady assaults on fortified Ukrainian urban positions in Donetsk — Dobropillia, Vovchansk, and Kostiantynivka — with the situation in Kostiantynivka deteriorating as Russian units operate within the city. Moscow is also advancing in Sumy and Kharkiv oblasts seeking a 20-kilometre buffer zone. Ukrainian rail operator Ukrzaliznytsia reported 541 Russian strikes on railway infrastructure in Q1 2026, causing approximately $178 million in losses and a 6.4% decline in freight volumes. Ukrainian forces continue short-range drone strikes against Russian assets in occupied Donetsk.
 **Significance:** Kostiantynivka's fall would open a pathway into the Donetsk fortress belt; the systematic targeting of rail infrastructure threatens the logistics of Western military aid deliveries.
 **Sources:**
-
 - [Kyiv Post — British Defence Intelligence Update Ukraine 01 June 2026](https://www.kyivpost.com/post/77479) · 4 June 2026
 - [Critical Threats / ISW — Russian Offensive Campaign Assessment, June 1, 2026](https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-june-1-2026) · 1 June 2026
 **Trend:** ↗ Escalating
@@ -133,7 +153,6 @@ expansion_queue: []
 **Summary:** Brent crude futures traded between $96.47 and $97.96 on 5 June, reflecting a fourth day of subdued range-trading as markets assess conflicting signals from US–Iran negotiations. A sharp $4.71 single-session spike to $101.36 on 3 June (after Trump's statement that Iran had agreed not to pursue nuclear weapons) reversed when Iranian forces struck Kuwait and Bahrain. US crude inventories declined for a sixth consecutive week approaching minimum operating levels. The EIA notes Hormuz — carrying approximately 20% of global oil and LNG — remains effectively closed. War-risk insurance for tankers is priced at 8× pre-crisis levels.
 **Market signal:** Bearish on supply certainty — until an MoU is signed and Hormuz transits recover, structural premium above $90 is locked in.
 **Sources:**
-
 - [Trading Economics — Brent crude oil price and history](https://tradingeconomics.com/commodity/brent-crude-oil) · 3 June 2026
 - [Fortune — Current price of oil as of June 3, 2026](https://fortune.com/article/price-of-oil-06-03-2026/) · 3 June 2026
 - [straits.live — Strait of Hormuz Day 96 tracker](https://straits.live/) · 4 June 2026
@@ -149,7 +168,6 @@ expansion_queue: []
 **Summary:** Eurostat's flash estimate released 2 June confirms euro-area annual HICP inflation accelerated to 3.2% in May 2026, up from 3.0% in April and the highest reading since September 2023. Energy remains the dominant driver at 10.9% annually, but services inflation also rose sharply to 3.5% — signalling broadening price pressures beyond energy. Core inflation (excluding energy, food, alcohol and tobacco) rose to 2.5%. Markets are now pricing a 95% probability of a 25-basis-point ECB rate hike at the 11 June policy meeting, with two to three further increases expected through year-end. ECB board member Isabel Schnabel cautioned that the exact number of hikes remains uncertain.
 **Market signal:** Bearish for growth assets; the energy-driven inflation shock is transmitting into core services, raising the probability of a restrictive ECB cycle through late 2026.
 **Sources:**
-
 - [Eurostat Euro Indicators — Euro area annual inflation up to 3.2%](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02062026-ap) · 2 June 2026
 - [Trading Economics — Euro Area Inflation Rate](https://tradingeconomics.com/euro-area/inflation-cpi) · 2 June 2026
 **Trend:** ↗ Escalating
@@ -164,7 +182,6 @@ expansion_queue: []
 **Summary:** For the first time in history, three memory-chip manufacturers breached the $1 trillion market-capitalisation threshold within the same week. SK Hynix surged 9.21% on 27 May; Micron climbed over 19% on a UBS price-target tripling; Samsung had crossed the threshold weeks earlier. All three are primary suppliers of high-bandwidth memory (HBM) chips to Nvidia. A global HBM shortage — with supply projected to remain constrained through 2027 — has driven valuations to levels previously seen only among mega-cap technology firms. South Korea's Kospi index has nearly doubled since the start of 2026.
 **Market signal:** Bullish on the AI memory supply chain; tight HBM supply ensures sustained pricing power but heightens concentration risk for the Korean benchmark.
 **Sources:**
-
 - [CNBC — SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks](https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html) · 27 May 2026
 - [CNN — SK Hynix: South Korean chip company joins the $1 trillion club](https://www.cnn.com/2026/05/29/business/sk-hynix-chips-trillion-dollar-club-intl-hnk) · 29 May 2026
 **Trend:** ↗ Escalating
@@ -183,7 +200,6 @@ expansion_queue: []
 **Summary:** The European Parliament and Council concluded trilogue negotiations on 1 June, reaching a provisional agreement on the Return Regulation establishing a Common European System for Returns. The regulation introduces uniform return-decision procedures, mandatory cooperation obligations on third-country nationals, extended detention periods, longer entry bans, and a framework for "return hubs" in third countries. It will enter into force immediately upon publication in the Official Journal, with some provisions applicable after 12 months. The agreement complements the EU Pact on Migration and Asylum, which itself enters force on 12 June 2026. Rights groups including the International Rescue Committee warned of a "draconian detention and deportation machine."
 **Legislative/policy stage:** Provisional agreement reached 1 June 2026; formal adoption by Parliament and Council pending following legal-linguistic revision; immediate entry into force after Official Journal publication.
 **Sources:**
-
 - [European Commission — Commission welcomes political agreement on the Return Regulation](https://home-affairs.ec.europa.eu/news/commission-welcomes-political-agreement-return-regulation-2026-06-02_en) · 2 June 2026
 - [Council of the EU — Council and Parliament reach deal on returns](https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/council-and-parliament-reach-deal-on-returns-of-illegally-staying-third-country-nationals/) · 1 June 2026
 - [NPR — EU strikes migration deal for deportations and detention centers abroad](https://www.npr.org/2026/06/02/nx-s1-5844100/eu-migration-deal) · 2 June 2026
@@ -193,12 +209,10 @@ expansion_queue: []
 ---
 
 ### 8. EU Tech Sovereignty Package: Chips Act 2.0, Cloud and AI Development Act Proposed 🟡
-
 **Alert:** 🟡
 **Summary:** The European Commission on 3 June presented the European Technological Sovereignty Package, a set of legislative and policy measures targeting the EU's over-80% dependence on non-EU digital products and infrastructure. The package bundles four initiatives: Chips Act 2.0 (advanced semiconductor manufacturing capacity); the Cloud and AI Development Act (CADA), which sets sovereignty tiers for cloud workloads and aims to triple EU data-centre capacity by 2035; an Open Source Strategy; and an AI-and-energy-market digitalisation strategy. Executive Vice-President Henna Virkkunen stated US cloud providers are unlikely to reach the highest sovereignty tier due to the US CLOUD Act's data-access provisions.
 **Legislative/policy stage:** Package presented by Commission on 3 June 2026; Chips Act 2.0 and CADA now proceed to Parliament and Council for first reading. Rating scheme for cloud sovereignty expected 2026; first labels 2027.
 **Sources:**
-
 - [European Commission — Commission proposes tech sovereignty package](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1187) · 3 June 2026
 - [CNBC — Europe unveils tech sovereignty package amid growing concerns over reliance on US tech](https://www.cnbc.com/2026/06/03/europe-tech-sovereignty-us-tech-reliance.html) · 3 June 2026
 **Trend:** ↗ Escalating
@@ -213,7 +227,6 @@ expansion_queue: []
 **Summary:** The European Parliament's International Trade Committee is scheduled to vote on 5 June on two pieces of legislation implementing the EU–US Turnberry deal on tariff and trade exchanges. If adopted, Parliament is set to hold its final plenary vote on 16 June in Strasbourg. The Turnberry deal emerged in response to earlier US Section 232 tariff pressure and represents the first comprehensive EU–US bilateral trade framework in over a decade.
 **Legislative/policy stage:** INTA committee vote scheduled 5 June 2026; plenary final vote expected 16 June 2026 in Strasbourg.
 **Sources:**
-
 - [EUbusiness.com — EU Agenda: Week Ahead 1–6 June 2026](https://www.eubusiness.com/politics/eucalendar/) · 1 June 2026
 **Trend:** → Stable
 **Tags:** #EU-institutions #single-market #diplomacy
@@ -231,7 +244,6 @@ expansion_queue: []
 **Summary:** The Cloud and AI Development Act (CADA), proposed within the EU Tech Sovereignty Package on 3 June, introduces a tiered EU-wide framework assessing cloud and AI sovereignty. The highest tier — required for processing sensitive government and critical-infrastructure data — is expected to be unreachable by US hyperscalers due to the extraterritorial reach of the US CLOUD Act. The Commission aims to triple EU data-centre capacity by 2035 and has earmarked approximately €320 billion over ten years for cloud, AI, and semiconductor investments. SoftBank separately announced an intention to invest up to €75 billion in AI data centres in France.
 **Analyst note:** Within 12–24 months, CADA's tiering rules are likely to fragment the European cloud market, creating mandatory carve-outs in healthcare, defence, and energy procurement that advantage EU and GDPR-aligned non-US providers — a structural shift with durable revenue implications for hyperscalers operating in the EU.
 **Sources:**
-
 - [Global Policy Watch — EU Tech Sovereignty Package](https://www.globalpolicywatch.com/2026/06/eu-tech-sovereignty-package/) · 4 June 2026
 - [Light Reading — European Commission unwraps tech sovereignty package](https://www.lightreading.com/ai-machine-learning/eurobites-european-commission-unwraps-tech-sovereignty-package) · 4 June 2026
 **Trend:** ↗ Escalating
@@ -244,7 +256,6 @@ expansion_queue: []
 **Summary:** The simultaneous crossing of the $1 trillion market-capitalisation threshold by Samsung, SK Hynix, and Micron within a single week signals that AI-driven demand for high-bandwidth memory (HBM) has produced a structural supply deficit of historic proportions. SK Hynix shares are up approximately 250% year-to-date in 2026; Micron's UBS price target was tripled. Analysts note the memory shortage will not ease before 2027, with all three producers unable to ramp production at the pace AI data-centre expansion demands. COMPUTEX 2026 (2–5 June, Taipei) is running concurrently under the theme "AI Together," reflecting the industry's unanimous orientation toward AI infrastructure.
 **Analyst note:** Within 12–24 months, sustained HBM undersupply is likely to act as a hard cap on AI training and inference deployment rates, potentially forcing hyperscalers to adjust scaling roadmaps and accelerate vertical integration efforts.
 **Sources:**
-
 - [SiliconANGLE — Micron and SK Hynix surpass $1T valuation milestone](https://siliconangle.com/2026/05/26/micron-sk-hynix-surpass-1-trillion-valuation-milestone-surging-ai-memory-demand/) · 26 May 2026
 - [CNN — SK Hynix: South Korean chip company joins the $1 trillion club](https://www.cnn.com/2026/05/29/business/sk-hynix-chips-trillion-dollar-club-intl-hnk) · 29 May 2026
 **Trend:** ↗ Escalating
@@ -263,7 +274,6 @@ expansion_queue: []
 **Summary:** UNCTAD's Trade and Development Foresights 2026 (released late May) projects global merchandise trade growth to decelerate from 4.7% in 2025 to between 1.5% and 2.5% in 2026, with the Strait of Hormuz disruption identified as the dominant driver. Rising maritime freight rates, higher insurance premiums, and the redirection of traffic around the Cape of Good Hope are raising transport costs across all commodity classes. UNCTAD also warns of financial stress among major food-trading firms, which could amplify food-security risks in developing economies already exposed to tighter fiscal space and energy-driven fertiliser inflation.
 **Horizon:** Medium-term — the shipping realignment is a structural shift that will persist for 6–18 months regardless of when the strait reopens, as carriers renegotiate contracts, insurance markets reprice, and new routing infrastructure is built.
 **Sources:**
-
 - [UNCTAD — Global economy faces new test as trade, food and finance shocks spread](https://unctad.org/news/global-economy-faces-new-test-trade-food-and-finance-shocks-spread) · 20 May 2026
 - [UNCTAD — Trade and Development Foresights 2026](https://unctad.org/publication/trade-and-development-foresights-2026-global-economy-faces-geopolitical-challenge) · 20 May 2026
 **Trend:** ↗ Escalating
@@ -276,7 +286,6 @@ expansion_queue: []
 **Summary:** FAO's April 2026 Food Price Index report (the most recent published data; May release scheduled for today) documented the third consecutive monthly increase in global food commodity prices, reaching 130.7 points in April, a 2.0% year-on-year rise. The FAO explicitly linked fertiliser cost pressures — driven by elevated energy prices and disruptions associated with the Hormuz closure — to moderating wheat plantings for 2026 crops. World wheat production is now forecast at 817 million tonnes, approximately 2% below the prior year. FAO cited resilient cereal stocks as a stabilising factor, but warned of broader food-security risks in import-dependent developing nations facing simultaneous energy and shipping cost shocks.
 **Horizon:** Long-term — fertiliser and shipping cost transmission to food prices operates on a 6–18 month lag; 2026 harvest forecasts will determine whether today's cost pressures become a 2027 food-security event.
 **Sources:**
-
 - [FAO — FAO Food Price Index up for third consecutive month](https://www.fao.org/newsroom/detail/fao-food-price-index-up-for-third-consecutive-month-largely-on-rising-vegetable-oil-prices/en) · 8 May 2026
 - [FAO — Global Agrifood Implications of the 2026 Conflict in the Middle East](https://openknowledge.fao.org/server/api/core/bitstreams/1aafb5d8-39d1-481a-b1f8-25facaec3051/content) · March 2026
 **Trend:** ↗ Escalating
