@@ -1,3 +1,36 @@
+**Phase 0 complete.** Run date: **13 June 2026** · 06:21 CET
+
+Ongoing Situations Day counts:
+- Russia–Ukraine War: 24 Feb 2022 → Day **1,206**
+- Iran–US War / Hormuz Crisis: 28 Feb 2026 → Day **106**
+- Israel–Lebanon Ceasefire 2026: 16 Apr 2026 → Day **59**
+
+---
+
+**Phase 1 — Direct fetch pass beginning.**Le Monde ❌ — search fallback queued.FAZ ❌ — search fallback queued.Kommersant ❌ — search fallback queued.Xinhua ⚠️ — content dates from 24 April 2026, outside 24-hour window. Search fallback mandatory.European Parliament ❌ — navigation structure only, no stories. Search fallback mandatory.
+
+**Phase 1 complete.** Fetch log: Le Monde ❌ · FAZ ❌ · Kommersant ❌ · Xinhua ⚠️ · EP ❌
+
+---
+
+**Phase 2 — Search pass beginning.**Good. Now moving to Business, EU, Technology, and Data searches.**Phase 2 complete.** All searches executed. Proceeding to Phase 3–8 assembly.
+
+---
+
+**Data summary confirmed for Key Data table:**
+- EUR/USD: 1.1565 (12 Jun 2026), −0.07% vs prior session; vs 7d ago (Jun 5): 1.15243 → +0.35%
+- Brent: ~$87–88 on 12 June; dropped ~4% on peace deal optimism; prior session: ~$91 → ~−3.8%
+- Gold: ~$4,200 (12 Jun 2026); vs prior session ~$4,080 (11 Jun) → +2.9%; vs 7d ago N/A
+- IMF Global Growth 2026: 3.1% (April WEO, "reference forecast"); vs Jan WEO: −0.2pp; vs Oct WEO: −0.2pp
+- EU CPI (May 2026 flash): 3.2%; vs April: +0.2pp; vs 3m ago (Feb): +2.0pp (approx)
+- FAO Food Price Index: 130.8 (May 2026); vs April: −0.2%; May 2026 = latest available
+- Hormuz transit: 2% of normal (~2 vessels vs ~94/day); effective closure since at least 8–12 June
+
+---
+
+Now assembling the full brief:
+
+---
 
 ```yaml
 ---
@@ -85,7 +118,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** Pakistani Prime Minister Shehbaz Sharif announced on 12 June that "a final, agreed upon text of the peace deal has been reached," with Islamabad "working closely with both sides to finalise the next steps." Iran's Foreign Minister Abbas Araghchi stated a deal has "never been closer." Trump suggested a signing ceremony could occur as early as Saturday or Monday, likely in Europe — with Geneva under active consideration ahead of the G7 opening in Évian-les-Bains on 15 June. Significant tensions persisted: Trump had earlier that day threatened to strike Iran "VERY HARD" and seize Kharg Island before reversing course. Two Iranian drones were shot down near Hormuz overnight 12 June. No direct US or Iranian confirmation of the final text emerged before this run.
 **Significance:** If finalised, the MOU would extend the ceasefire 60 days, mandate Hormuz reopening within 30 days, suspend sanctions, and include Iranian commitments to forgo nuclear weapons development. A deal would be the most consequential geopolitical event of 2026 — but failure to confirm the text from both principals remains the principal near-term risk.
 **Sources:**
-
 - [Al Arabiya — Pakistan PM Sharif says final text of US–Iran peace deal agreed](https://english.alarabiya.net/News/middle-east/2026/06/12/pakistan-pm-sharif-says-final-text-of-usiran-peace-deal-agreed-working-on-next-steps) · 12 June 2026
 - [NBC News — Pakistan says 'final, agreed upon text' of deal reached; Iran holding 'final' deliberations](https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-drones-trump-deal-war-hormuz-tehran-rcna349750) · 12 June 2026
 - [Iran International — Pakistan: final text of Iran-US peace deal agreed](https://www.iranintl.com/en/202606127755) · 12 June 2026
@@ -102,7 +134,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** As of 12 June, commercial transit through the Strait of Hormuz stood at approximately 2 vessels per day against a pre-crisis normal of ~94/day — a 98% collapse in traffic, per IMF PortWatch data and live AIS tracking. Zero outbound commercial vessels were recorded on 8–12 June on the most sensitive monitoring platforms. The UK House of Commons Library, in a briefing dated 11 June, confirmed a 95% reduction in crude oil and a 99% reduction in LNG shipments since the conflict began. War-risk insurance premiums have risen to 8× pre-crisis levels, with six P&I clubs having withdrawn cover. The prospect of a peace deal has prompted shipping rerouting discussions, but traders cautioned that clearing mines, restarting production, and repairing infrastructure will delay any normalisation for months after a deal.
 **Significance:** With 20% of global petroleum and 20% of global LNG historically routed through Hormuz, the structural damage to supply chains will persist well beyond any formal ceasefire, making the energy price path highly uncertain even under optimistic deal scenarios.
 **Sources:**
-
 - [Straits.live — Live Strait of Hormuz Traffic](https://straits.live/) · 12 June 2026
 - [House of Commons Library — Israel/US-Iran conflict 2026: Reopening the Strait of Hormuz](https://commonslibrary.parliament.uk/research-briefings/cbp-10636/) · 11 June 2026
 - [CNBC — Brent drops toward $88, lowest in nearly two months](https://tradingeconomics.com/commodity/brent-crude-oil) · 12 June 2026
@@ -118,7 +149,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** Israeli airstrikes struck multiple sites in southern Lebanon on 12 June, including Majdalzoun, Qusaybah, Sinai, Kafr Tebnit, Al-Shahabiya and Jebchit. The Israeli army stated it had conducted 310 airstrikes in southern Lebanon in the preceding week. A Vatican-organised aid convoy of 25 trucks, coordinated with UNIFIL and led by Apostolic Nuncio Paolo Borgia, was stopped by Israeli tanks near Kfar Tebnit and forced to reroute — arriving at its destination after 12 hours. The conditional ceasefire agreed between Israel and Lebanon on 3 June remains effectively inoperative: Hezbollah rejected its terms (requiring Hezbollah withdrawal south of the Litani and cessation of fire) and has continued attacks. Both sides have continued daily exchanges of fire.
 **Significance:** The Lebanon front remains a secondary theatre, but persistent Israeli violations and Hezbollah's rejection of the conditional ceasefire terms make a durable settlement unlikely before the broader Iran deal clarifies Hezbollah's strategic position.
 **Sources:**
-
 - [Lebanon liveuamap — 12 June 2026 airstrike log](https://lebanon.liveuamap.com/) · 12 June 2026
 - [CBS News Live Updates — Vatican convoy blocked in Lebanon](https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/) · 12 June 2026
 - [Daily Sabah — At least 12 killed in continued Israeli strikes on southern Lebanon](https://www.dailysabah.com/world/mid-east/at-least-12-people-killed-in-continued-israeli-strikes-on-s-lebanon/amp) · 10 June 2026
@@ -134,7 +164,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** The Pokrovsk axis in Donetsk Oblast continues to record the highest density of combat engagements on the Ukrainian frontline, with 196 combat engagements reported on 7 June alone (over 50 at Pokrovsk alone). ISW and independent analysts assess that the Kramatorsk–Kostiantynivka defensive belt has become the principal theatre of Russian offensive operations as Moscow presses to capture the remaining major urban centres of Ukrainian-controlled Donetsk. Analysts note that Russian forces can still attack but are unable to convert tactical gains into operational success. The Huliaipole area has also seen intensified fighting. Ukrainian drone strikes continue targeting Russian logistics deep in occupied Luhansk Oblast.
 **Significance:** Pokrovsk's continued resistance — now over a year under sustained assault — has become a strategic symbol, but the Kramatorsk–Kostiantynivka shift signals Russian operational re-prioritisation that could yield more significant gains if Ukrainian defences are overstretched.
 **Sources:**
-
 - [Lviv Herald — The Ukrainian front line in June 2026](https://www.lvivherald.com/post/the-ukrainian-front-line-in-june-2026) · 9 June 2026
 - [Russia Matters / ISW — Russia-Ukraine War Report Card, June 3 2026](https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-june-3-2026) · 3 June 2026
 
@@ -157,7 +186,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** Brent crude futures fell to approximately $86.98–$88 per barrel on 12 June, their lowest level since mid-April, after Pakistan confirmed a final deal text and a Trump administration official put 80% odds on a signing. The decline of approximately 3.8–4% in a single session follows a month-long collapse of nearly 19% from the 2026 highs above $140 reached in April when the conflict escalated. WTI fell over 4% to settle at $84.33. Analysts caution, however, that even a formal deal would not immediately normalise supply: clearing mines from Hormuz, repairing infrastructure, and restarting idled production fields will take months. UBS noted Iran's crude loadings in May had averaged below 0.3 mb/d, down sharply from April's 1.5 mb/d.
 **Market signal:** Bearish in the short term as deal optimism accelerates, but with significant rebound risk if deal talks collapse again — the gap between current prices (~$88) and a full Hormuz normalisation scenario remains wide.
 **Sources:**
-
 - [Trading Economics — Brent Crude Oil price, 12 June 2026](https://tradingeconomics.com/commodity/brent-crude-oil) · 12 June 2026
 - [TradingKey — Iran deal oil price WTI Brent G7 June 12 2026](https://www.tradingkey.com/analysis/stocks/us-stocks/261964642-iran-deal-oil-price-wti-brent-g7-trump-market-tradingkey) · 12 June 2026
 - [CNBC — Oil drops 20% from 2026 peak on ceasefire talks optimism](https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html) · 29 May 2026
@@ -175,7 +203,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** SpaceX (ticker: SPCX) debuted on the Nasdaq on 12 June, raising $75bn at $135 per share — triple the size of any prior IPO. Shares opened at $150 and closed at $160.95, a gain of 19%, giving the company a market capitalisation exceeding $2 trillion on its first day. CEO Elon Musk, who retains over 82% voting control, became the world's first trillionaire on paper. The listing included xAI (acquired February 2026), Grok AI models, and the social network X. Former Nasdaq CEO Robert Greifeld indicated he expects OpenAI and Anthropic to follow SpaceX to public markets. S&P 500 rose 0.50% and the Dow gained 0.70% on the day, supported by the IPO and Iran deal optimism.
 **Market signal:** Bullish for tech and AI-adjacent equities — SpaceX's pricing signals that public markets are willing to absorb trillion-dollar valuations for companies with negative cumulative earnings ($41.3bn total loss since 2002) if the long-term narrative is sufficiently compelling.
 **Sources:**
-
 - [NBC News — SpaceX stock gains 19% on first trading day](https://www.nbcnews.com/business/markets/spacex-ipo-stock-price-rcna349760) · 12 June 2026
 - [CNBC — SpaceX IPO SPCX live updates](https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html) · 12 June 2026
 - [NPR — SpaceX makes history as largest IPO ever](https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk) · 12 June 2026
@@ -191,7 +218,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** The ECB's Governing Council raised all three key interest rates by 25 basis points on 11 June, effective 17 June 2026, lifting the deposit facility rate to 2.25%, main refinancing to 2.40%, and marginal lending to 2.65%. The move was near-unanimously expected (100% market probability per LSEG data). The ECB cited Iran war-generated inflationary pressure as the primary driver, noting "the decision is robust across a range of scenarios." Updated staff projections raised the 2026 eurozone headline inflation forecast to 3.0% (from 2.6%) and core to 2.5%, while cutting the 2026 GDP growth projection to 0.8% (from 0.9%). Markets now price at least one further hike, most likely in September.
 **Market signal:** Mildly bearish for eurozone risk assets — stagflationary dynamics (rising rates, falling growth forecast) weigh on credit-sensitive sectors, though the move was fully priced in and the ECB signalled caution about excessive tightening.
 **Sources:**
-
 - [ECB — Monetary policy decisions, 11 June 2026](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html) · 11 June 2026
 - [CNBC — ECB hikes interest rates for first time since 2023](https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html) · 11 June 2026
 - [Reuters/US News — ECB raises rates in long-telegraphed move](https://money.usnews.com/investing/news/articles/2026-06-11/ecb-raises-interest-rates-in-long-telegraphed-move) · 11 June 2026
@@ -215,7 +241,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** The European Parliament's June plenary session (15–18 June, Strasbourg) opens with a dense legislative agenda. Key items include: (1) a vote on the Digital Omnibus on AI, provisionally agreed in May, extending high-risk AI system compliance deadlines to December 2027 and August 2028; (2) a vote on 16 June to implement the EU–US Turnberry trade deal; (3) debates on own-initiative AFET reports on Western Balkans accession (Montenegro, Albania, Kosovo, Bosnia-Herzegovina, North Macedonia) and Turkey; (4) a statement from the President of Montenegro; and (5) Andrzej Poczobut (2025 Sakharov Prize laureate) addressing Parliament following his release from Belarusian detention. The Council and Commission will also make statements ahead of the European Council (18–19 June).
 **Legislative/policy stage:** Plenary session 15–18 June 2026; votes on AI Omnibus and EU–US trade deal scheduled for 15–16 June. European Council conclusions on Iran war response and defence integration expected 18–19 June.
 **Sources:**
-
 - [EP Think Tank — European Parliament Plenary Session June 2026](https://epthinktank.eu/2026/06/12/european-parliament-plenary-session-june-2026/) · 12 June 2026
 
 **Trend:** → Stable
@@ -229,7 +254,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** Council Presidency and European Parliament negotiators reached a provisional agreement on 10 June on new legislation to simplify security and defence procurement, facilitate defence investments, and support the European defence industry — part of the broader ReArm Europe/Readiness 2030 framework. The agreement complements the €150bn SAFE instrument (adopted May 2025) and the European Defence Industry Programme (EDIP). Between February and April 2026, the Council green-lit SAFE funding for 18 EU member states. The Commission has correspondingly raised EU-Bond issuance targets for H1 2026 to €100bn (up from €90bn) to fund both Ukraine support loans and SAFE defence procurement. Separately, the EU Commission's tentative SAFE allocations cover missile defence, drones, air-defence systems, cyber, strategic enablers, and space assets.
 **Legislative/policy stage:** Provisional agreement reached 10 June 2026; formal adoption by Council and Parliament pending. SAFE loan agreements with member states being finalised.
 **Sources:**
-
 - [Council of the EU — Simplification: Council and Parliament strike deal to boost EU defence industry](https://www.consilium.europa.eu/en/policies/defence-funding/) · 10 June 2026
 - [European Commission — Commission increases funding target for EU-Bonds, H1 2026](https://commission.europa.eu/news-and-media/news/european-commission-increases-its-funding-target-first-half-2026-2026-05-06_en) · 6 May 2026
 
@@ -244,7 +268,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** The European Parliament's International Trade Committee approved legislation implementing the EU–US Turnberry trade deal on 2 June by 31 votes to 6, paving the way for a final plenary vote on 16 June. The deal, provisionally signed in Scotland in summer 2025, eliminates EU duties on most US industrial goods while US exporters continue to face an approximate 15% rate. The committee secured a sunset clause lapsing the rules at end-2029, and a provision enabling the Commission to suspend the deal if the US fails to lift tariffs on EU steel and aluminium by end-2026. INTA chair Bernd Lange said Parliament was likely to back the agreement, while warning there could be "no certainty" that the US would honour its side. Trump has threatened 25% tariffs on EU cars if implementation does not proceed by 4 July.
 **Legislative/policy stage:** Final plenary vote scheduled 16 June 2026 (Strasbourg). If adopted, implementing regulations enter into force upon publication in the Official Journal.
 **Sources:**
-
 - [Euronews — Trade MEPs back EU–US deal despite watered-down safeguards](https://www.euronews.com/my-europe/2026/06/02/trade-meps-back-euus-deal-despite-watered-down-safeguards) · 2 June 2026
 - [EUToday — EU–US trade deal nears Parliament vote as doubts persist](https://eutoday.net/eu-us-trade-deal-nears-parliament-vote-as-doubts-persist-over-washingtons-reliability/) · 11 June 2026
 
@@ -267,7 +290,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** The European Parliament is due to vote on the Digital Omnibus on AI during the 15–18 June plenary. The provisional agreement, reached on 7 May and approved by IMCO and LIBE committees, extends the application of high-risk AI rules from August 2026 to December 2027 (stand-alone systems) and August 2028 (embedded systems), providing critical compliance runway for European businesses. The agreed text also codifies a ban on AI systems generating non-consensual sexual content and child sexual abuse material, and introduces fixed deadlines for applying high-risk rules. Formal adoption must occur before 2 August 2026 to avoid the original AI Act enforcement cliff-edge. The broader Digital Omnibus package also proposes amendments to the GDPR, ePrivacy Directive, NIS2, and Data Act.
 **Analyst note:** Extending the compliance deadline to 2027–28 gives European AI companies 18–30 months of additional runway but creates a divergence risk with the US, where AI governance remains voluntary — potentially widening the EU–US competitive gap in frontier AI deployment within 12–24 months.
 **Sources:**
-
 - [EP Think Tank — European Parliament Plenary Session June 2026](https://epthinktank.eu/2026/06/12/european-parliament-plenary-session-june-2026/) · 12 June 2026
 - [White & Case — EU agrees Digital Omnibus deal to simplify AI rules](https://www.whitecase.com/insight-alert/eu-agrees-digital-omnibus-deal-simplify-ai-rules) · 7 May 2026
 - [Council of the EU — Artificial Intelligence: Council and Parliament agree to simplify rules](https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/) · 7 May 2026
@@ -285,7 +307,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** SpaceX's $75bn Nasdaq listing on 12 June, described by former Nasdaq chief Robert Greifeld as trading "not on fundamentals but on the aspiration of what's possible," is widely viewed as opening the IPO window for AI-native companies. SpaceX's portfolio includes xAI (acquired February 2026), Grok AI models, X (formerly Twitter), Starlink satellite internet serving AI data relay functions, and an ambition to position orbital infrastructure as AI data centre real estate. The company has accumulated $41.3bn in total losses since 2002. Greifeld stated he "would definitely bet" that OpenAI and Anthropic follow SpaceX to public markets in 2026.
 **Analyst note:** If OpenAI and Anthropic proceed with IPOs in H2 2026, the combination of three frontier AI-adjacent listings would represent a structural shift in how AI infrastructure is capitalised — moving from private equity dependency toward public market discipline, with significant implications for governance and safety commitments over a 12–24 month horizon.
 **Sources:**
-
 - [CNBC — SpaceX IPO SPCX live updates, 12 June 2026](https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html) · 12 June 2026
 - [The Motley Fool — How to buy SpaceX stock (SPCX)](https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-spacex-stock/) · 12 June 2026
 
@@ -308,7 +329,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** The 52nd G7 summit opens in Évian-les-Bains, France, on 15 June with Iran peace deal prospects and Ukraine as the dominant issues, alongside global economic imbalances and critical minerals. Trump's decision to attend is described as noteworthy given his disdain for multilateralism. French President Macron has invited Saudi Arabia, the UAE, Qatar, Egypt, Syria, South Korea, Brazil, India and Kenya as guests; Ukraine's Zelensky is also attending. Macron is planning a video call involving China and G7 members on global imbalances. Zelensky has raised concerns that the Iran conflict has diverted US attention from Ukraine. The summit comes one day after a potential US–Iran deal signing in Geneva — meaning the G7 agenda could be dominated or transformed by a deal breakthrough on the eve of the meeting.
 **Horizon:** Short-term signal (days to 2 weeks): A US–Iran deal signed before or at the G7 would reshape the entire summit agenda, likely producing a coordinated G7 statement on Hormuz reopening sequencing, sanctions architecture, and post-war reconstruction. Failure to sign would leave deep transatlantic rifts on display.
 **Sources:**
-
 - [Times of Israel — Iran and Ukraine loom over G7, France hopes Trump will stay for duration](https://www.timesofisrael.com/iran-and-ukraine-loom-over-g7-as-france-hopes-trump-will-at-least-stay-for-duration/) · 12 June 2026
 - [CFR — Macron's Agenda Meets Trump's at the G7 Summit](https://www.cfr.org/articles/macrons-agenda-meets-trumps-at-the-g7-summit) · 11 June 2026
 - [Athens Times — US-Iran deal likely in Geneva before G7 summit](https://athens-times.com/bloomberg-us-iran-deal-on-strait-of-hormuz-likely-in-geneva-before-g7-summit/) · 12 June 2026
@@ -324,7 +344,6 @@ expansion_queue: ["#peace-deal (Iran–US MOU context)", "#IPO (SpaceX listing)"
 **Summary:** The FAO Food Price Index averaged 130.8 points in May 2026, down a marginal 0.2% from April's revised 131.0, but 2.9% higher than a year earlier — near its highest since January 2023. Cereal prices rose 2.6% month-on-month, with wheat up for a fourth consecutive month driven by smaller expected harvests in major exporters (US winter wheat crop conditions are the least favourable in decades), higher fuel and fertiliser costs linked to the Iran conflict, and weather-related pressures. FAO Director Ben-Belhassen explicitly flagged that "continued uncertainty affecting key trade routes, including the Strait of Hormuz, could reduce fertiliser use and place additional pressure on food prices." World cereal production is forecast to shrink 2% in 2026/27.
 **Horizon:** Medium-term trend (months to 1 year): The Hormuz–fertiliser–cereal transmission mechanism is structural. Even with a Hormuz deal, reduced fertiliser availability and elevated energy costs will sustain above-target food price pressure into H1 2027, with disproportionate impacts on low-income food-importing countries.
 **Sources:**
-
 - [FAO — Food Price Index broadly stable in May, cereal quotations increase](https://www.fao.org/newsroom/detail/fao-food-price-index-broadly-stable-in-may-even-as-cereal-quotations-increase/en) · 6 June 2026
 
 **Trend:** ↗ Escalating
@@ -361,7 +380,6 @@ xychart-beta
     y-axis "USD/bbl" 60 --> 145
     line [72, 109, 111, 95, 92, 91, 89, 87]
 ```
-
 *Sources: Trading Economics, CNBC. Data points are approximate closes/intraday levels from confirmed tool calls.*
 
 ```mermaid
