@@ -7,9 +7,21 @@ Starting the run. Phase 0 confirmed: **21 June 2026, 05:00 CET**.
 ---
 Proceeding to Phase 1 — direct fetch pass.
 ---
-Phase 1 complete. Fetch status: Le Monde ❌, FAZ ❌, Kommersant ❌, Xinhua ⚠️ (stale), European Parliament ⚠️ (stale), FAO ✅ (May 2026 data), IMF ⚠️ (stale), ECB ❌ (nav only), European Commission ❌ (no content). Proceeding to Phase 2 — search pass.
+Phase 1 complete. Fetch status: Le Monde ❌, FAZ ❌, Kommersant ❌, Xinhua ⚠️ (stale), European Parliament ⚠️ (stale), FAO ✅ (May 2026 data), IMF ⚠️ (stale), ECB ❌ (nav only), European Commission ❌ (no content). 
 ---
-Phase 2 search complete across all six query categories. Moving to Phase 3–5 (pooling, dedup, editorial filter) — pool surfaced ~19 candidate stories, filtered to 14 for publication. Red-alert cap check: 2 of 14 stories (14%) flagged 🔴, well under the 40% ceiling. Tag check: all selected tags map to the closed list — no Expansion Queue entries this run. Charts: both Chart 1 (Brent trajectory) and Chart 2 (Hormuz transit series) fail the "no fabricated/estimated points" test this run — available figures are either too sparse (2–3 confirmed dated points) or actively contested between IRGC and CENTCOM reporting — so both are omitted rather than approximated. Proceeding to final assembly.
+Proceeding to Phase 2 — search pass.
+---
+Phase 2 search complete across all six query categories. 
+---
+Moving to Phase 3–5 (pooling, dedup, editorial filter) — pool surfaced ~19 candidate stories, filtered to 14 for publication. 
+---
+Red-alert cap check: 2 of 14 stories (14%) flagged 🔴, well under the 40% ceiling. 
+---
+Tag check: all selected tags map to the closed list — no Expansion Queue entries this run. 
+---
+Charts: both Chart 1 (Brent trajectory) and Chart 2 (Hormuz transit series) fail the "no fabricated/estimated points" test this run — available figures are either too sparse (2–3 confirmed dated points) or actively contested between IRGC and CENTCOM reporting — so both are omitted rather than approximated. 
+---
+Proceeding to final assembly.
 
 ---
 
