@@ -20,7 +20,7 @@ I now have sufficient data to assemble the full Morning Brief. Let me proceed wi
 
 ---
 
-yaml
+```yaml
 ---
 brief_date: 2026-06-24
 version: v1.2.2
@@ -48,7 +48,7 @@ fetch_status:
   european_commission: "❌"
 expansion_queue: []
 ---
-
+```
 
 ---
 
