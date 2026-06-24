@@ -93,6 +93,7 @@ DIGEST SUMMARY
 🟢 Strait of Hormuz records 16 million barrel single-day transit — post-crisis record on 21 June, but war risk insurance remains at 8× pre-crisis levels
 ---
 ⚡ Iran's IRGC and foreign ministry issue contradictory Hormuz statements — military declares closure while diplomats claim "operating normally"
+---
 
 ---
 
