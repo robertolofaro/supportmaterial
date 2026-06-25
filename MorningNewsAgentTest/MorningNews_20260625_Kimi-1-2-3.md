@@ -3,7 +3,7 @@
 
 | Phase | Status | Notes |
 |-------|--------|-------|
-| **Phase 0** — Timestamp & date anchor | ✅ Complete | Run date: 25 June 2026 · 07:12 CET. Day # counters calculated for 3 ongoing situations. |
+| **Phase 0** — Timestamp & date anchor | ✅ Complete | Run date: 25 June 2026 · 05:12 CET. Day # counters calculated for 3 ongoing situations. |
 | **Phase 1** — Direct fetch pass | ⚠️ Partial | All Tier 1 outlets attempted. Le Monde ❌, FAZ ❌, Kommersant ❌, Xinhua ❌, EP ⚠️ (no 24h stories). Tier 2: FAO ✅, IMF ✅, ECB ✅, EC ⚠️. Resilience Directive applied — proceeding to Phase 2. |
 | **Phase 2** — Search pass | ✅ Complete | 25 domain-scoped queries executed across Conflict, Business, EU Affairs, Technology, Trends, Data. Search fallback applied for all ❌ outlets. |
 | **Phase 3** — Deduplication & pool merge | ✅ Complete | Phase 1 + Phase 2 pools merged. 14 unique stories surfaced before editorial filter. |
@@ -20,7 +20,7 @@
 ---
 brief_date: 2026-06-25
 version: v1.2.3
-run_time: "07:12 CET"
+run_time: "05:12 CET"
 stories_published: 10
 categories: [conflict, business, eu_affairs, technology, trends]
 alert_counts:
@@ -49,7 +49,7 @@ expansion_queue: []
 ```
 
 # 🌐 MORNING BRIEF
-## Thursday, 25 June 2026 · 07:12 CET
+## Thursday, 25 June 2026 · 05:12 CET
 ### 10 stories across 5 categories
 
 ---
@@ -86,15 +86,6 @@ expansion_queue: []
 ⚡ **Russian MoD now using AI-altered footage to aggrandise battlefield claims — a new frontier in state-sponsored cognitive warfare.**
 ---
 
-## 🔄 ONGOING SITUATIONS
-
-| Situation | Real-world start | Day # | Last significant development | Status |
-|-----------|-----------------|-------|------------------------------|--------|
-| Russia–Ukraine war | 24 Feb 2022 | Day 1,583 | Russian drone strikes on civilian vessels in Black Sea; infiltration tactics intensify in Donetsk | 🔴 Active |
-| Israel–Lebanon conflict | 1 Oct 2024 | Day 633 | No new developments in last 24 h | 🟡 Ceasefire |
-| Iran–Israel tensions | 13 Jun 2025 | Day 378 | No new developments in last 24 h | 🟢 Stable |
-
----
 
 > 🔎 **CONFLICT ANALYST** · 3 updates today
 
@@ -243,7 +234,7 @@ expansion_queue: []
 | Field | Value |
 |-------|-------|
 | Agent version | MORNING BRIEF v1.2.3 |
-| Run timestamp | 2026-06-25T07:12:00+02:00 |
+| Run timestamp | 2026-06-25T05:12:00+02:00 |
 | Fetch status | Le Monde ❌ · FAZ ❌ · Kommersant ❌ · Xinhua ❌ · EP ⚠️ · FAO ✅ · IMF ✅ · ECB ✅ · EC ⚠️ |
 | Sources queried | 11 / 11 |
 | Stories surfaced | 14 |
