@@ -1,3 +1,21 @@
+---
+## EXECUTION PHASES COMPLETION LOG
+
+| Phase | Status | Notes |
+|-------|--------|-------|
+| **Phase 0** — Timestamp & date anchor | ✅ Complete | Run date: 25 June 2026 · 07:12 CET. Day # counters calculated for 3 ongoing situations. |
+| **Phase 1** — Direct fetch pass | ⚠️ Partial | All Tier 1 outlets attempted. Le Monde ❌, FAZ ❌, Kommersant ❌, Xinhua ❌, EP ⚠️ (no 24h stories). Tier 2: FAO ✅, IMF ✅, ECB ✅, EC ⚠️. Resilience Directive applied — proceeding to Phase 2. |
+| **Phase 2** — Search pass | ✅ Complete | 25 domain-scoped queries executed across Conflict, Business, EU Affairs, Technology, Trends, Data. Search fallback applied for all ❌ outlets. |
+| **Phase 3** — Deduplication & pool merge | ✅ Complete | Phase 1 + Phase 2 pools merged. 14 unique stories surfaced before editorial filter. |
+| **Phase 4** — URL verification firewall | ✅ Complete | All URLs in output verified against tool-call returns. No fabricated URLs. |
+| **Phase 5** — Editorial filter & tag assignment | ✅ Complete | 10 stories published (reduced from 14). Alert calibration: 3 🔴 (30%), 4 🟡 (40%), 3 🟢 (30%) — within 40% 🔴 cap. 2–4 tags assigned per story from closed list. |
+| **Phase 6** — Agent assembly | ✅ Complete | 5 analyst sections assembled: Conflict (3), Business (2), EU Affairs (2), Technology (1), Trends (2). |
+| **Phase 7** — Data Office | ✅ Complete | 7-indicator table populated. Slot 7: Ukrainian hryvnia (UAH/EUR) as conflict-linked indicator. |
+| **Phase 8** — Full output assembly | ✅ Complete | All 8 mandatory sections present and ordered per output_formatter.md. |
+| **Phase 9** — Metadata footer | ✅ Complete | Agent metadata table written below. |
+---
+
+
 ```yaml
 ---
 brief_date: 2026-06-25
@@ -33,23 +51,6 @@ expansion_queue: []
 # 🌐 MORNING BRIEF
 ## Thursday, 25 June 2026 · 07:12 CET
 ### 10 stories across 5 categories
-
----
-
-## EXECUTION PHASES COMPLETION LOG
-
-| Phase | Status | Notes |
-|-------|--------|-------|
-| **Phase 0** — Timestamp & date anchor | ✅ Complete | Run date: 25 June 2026 · 07:12 CET. Day # counters calculated for 3 ongoing situations. |
-| **Phase 1** — Direct fetch pass | ⚠️ Partial | All Tier 1 outlets attempted. Le Monde ❌, FAZ ❌, Kommersant ❌, Xinhua ❌, EP ⚠️ (no 24h stories). Tier 2: FAO ✅, IMF ✅, ECB ✅, EC ⚠️. Resilience Directive applied — proceeding to Phase 2. |
-| **Phase 2** — Search pass | ✅ Complete | 25 domain-scoped queries executed across Conflict, Business, EU Affairs, Technology, Trends, Data. Search fallback applied for all ❌ outlets. |
-| **Phase 3** — Deduplication & pool merge | ✅ Complete | Phase 1 + Phase 2 pools merged. 14 unique stories surfaced before editorial filter. |
-| **Phase 4** — URL verification firewall | ✅ Complete | All URLs in output verified against tool-call returns. No fabricated URLs. |
-| **Phase 5** — Editorial filter & tag assignment | ✅ Complete | 10 stories published (reduced from 14). Alert calibration: 3 🔴 (30%), 4 🟡 (40%), 3 🟢 (30%) — within 40% 🔴 cap. 2–4 tags assigned per story from closed list. |
-| **Phase 6** — Agent assembly | ✅ Complete | 5 analyst sections assembled: Conflict (3), Business (2), EU Affairs (2), Technology (1), Trends (2). |
-| **Phase 7** — Data Office | ✅ Complete | 7-indicator table populated. Slot 7: Ukrainian hryvnia (UAH/EUR) as conflict-linked indicator. |
-| **Phase 8** — Full output assembly | ✅ Complete | All 8 mandatory sections present and ordered per output_formatter.md. |
-| **Phase 9** — Metadata footer | ✅ Complete | Agent metadata table written below. |
 
 ---
 
