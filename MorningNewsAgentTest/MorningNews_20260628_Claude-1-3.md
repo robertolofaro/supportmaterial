@@ -84,7 +84,7 @@ expansion_queue: []
 🟡 **IMF's April reference forecast still puts 2026 global growth at 3.1%, a 0.2pp downgrade from January, with the war seen as the dominant drag**
 ---
 ⚡ **Eurozone inflation jumped to 3.2% in May — the highest since September 2023 — driven by a 10.9% surge in energy prices**
-
+---
 ---
 
 > 🔎 **CONFLICT ANALYST** · 3 updates today
