@@ -43,7 +43,9 @@ Today's Morning Brief is ready — 15 stories, led by the Hormuz blockade's rein
 - **EUR/USD's prior-session delta** is N/A for the same reason; sources gave conflicting snapshots.
 - Both `#reroute-shipping` and `#chip-export-controls` appeared again — worth checking if they've now hit the 3-brief threshold for closed-list migration.
 
-- ```yaml
+-
+
+```yaml
 ---
 brief_date: 2026-07-17
 version: v1.3
@@ -66,7 +68,10 @@ fetch_status:
   european_parliament: "✅"
 expansion_queue: ["#reroute-shipping (queue count: see metadata)", "#chip-export-controls (queue count: see metadata)"]
 ---
+
+
 ```
+
 
 # 🌐 MORNING BRIEF
 ## Friday, 17 July 2026 · 05:00 CET
