@@ -47,7 +47,7 @@ Morning Brief for 21 July 2026 is complete — 13 stories across all five catego
 - Fetch pass: Le Monde/FAZ/Kommersant blocked as expected (❌), Xinhua stale (⚠️), EP fetched but no 24h stories (⚠️) — FAO was the only clean Tier 1/2 direct fetch.
 - Expansion Queue is empty — no new candidate tags this run.
 
-- ```yaml
+```yaml
 ---
 brief_date: 2026-07-21
 version: v1.3
