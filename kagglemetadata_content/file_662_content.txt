@@ -1,0 +1,388 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260715_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/rethinking-organizations) series.
+
+Aim: two weeks ago, released a 17k words article [Unbundling the State and (limited) signal intelligence #Turin #Italy #EU](https://robertolofaro.com/index.php?page=661).
+
+That article was presented as a mini-book (say- summer reading, for those interested) where each section would seed further material.
+
+Recently, followed some local business events in Turin and national news- all related to the usual theme: industrial policy.
+
+My old 2018 article <a hreF="https://robertolofaro.com/index.php?page=138">Per una politica industriale che veda oltre le prossime elezioni #industry40 #GDPR #cybersecurity / For an industrial policy that survives election cycles #industry40 #GDPR #cybersecurity</a> is reaching 50k reads: and since the 2020 COVID crisis, and half-jokingly assigned that readership to its short length and being both in English and Italian.
+
+Anyway, there is a continuous interest on this subject, subject that since 2020 actually became a minuet between local, national, European Union initiatives.
+
+Turin is a former company town for the "industry of industries", automotive.
+
+My birthplace was nicknamed "the European Detroit"- but with just one company, not many: like a miniature solar system, with just one sun at the center.
+
+Since returned to work and live in Turin and Italy in 2012, I observed an interesting routine: times and again, discussions on media and industry events all focused on the future of Turin or Italy, and, also when not in Turin, discussing Turin and its past role in automotive.
+
+The reason? Not just that the past FIAT group (then split joint-ventured spinned-off merged etc) was the largest automotive company in Italy, but was a conglomerate that, while being based in Turin, had significant impacts with its plants and associated supply chain all across the country.
+
+Hence, had a strong political impact- and it was a mutual understanding.
+
+Its influence extended way beyond automotive- I remember how, whenever expanding, companies decades ago asked for the "tasso FIAT"- i.e. the same interest rate that was paid by FIAT.
+
+A kind of financial recognition of their increased size- a curious approach, but it was well before Enron, "too big to fail", KYC, and all the financial industry regulatory paraphernalia trying, as we say in Italian, to close the barn doors after the horses run away.
+
+Eventually, the local champion gradually spread outside the country, expanded elsewhere, and, through a long series of events, shifted from being the "ministry of automotive", "industrial engine of Italy", to sailing through a series of financial rough waves and treacherous tides.
+
+Including: an investment from Libya that some journalists described as a loan, and within a famous book was stated that had an exit involving dumping shares at inflated prices on major Italian banks, which in turn dumped on what was back then called "parco buoi" (slaughterhouse cattle)- small investors that routinely got the bad side of a deal.
+
+Ups and downs for a while, up to a point when, before Marchionne arrived from Switzerland and Canada in the early 2000s, colleagues told me that could not get invoices into the factoring pipeline as the FIAT group was considered too risky.
+
+Then, it turned around, and evolved into something different.
+
+Why this article now? Because, while a degree of cognitive dissonance was visible since 2012, as discussed in previous articles since then, over the last few years became a continuous stream.
+
+In the previous article, stated that was going to use the material within the "themes" in that article to develop new material, and therefore here will get inspired by:
+_ <b>THEME7: Cascading consequences of short-termism</b>
+_ <b>THEME8: Shifting a local industrial ecosystem</b>.
+
+Inspired- meaning that you can still read those two sections, because will not repeat here that material, just use it as reference.
+
+The key risk? Currently we are at a pivotal time due to endogenous and exogenous pressures- certainly in Turin, with a good degree of approximation in Italy, and increasingly also within the European Union as a whole).
+
+Hence, it is worth sharing some concepts and pointers.
+
+Even the latest events confirm that external pressure, instead of generating more focus, is resulting an acceleration of announces.
+
+But more about that in later sections of this article.
+
+Obviously, in each and every event that attended locally or followed online, AI is part of the landscape.
+
+From European Union interoperability of services across Member States, to multinational compliance in accounting, to more "technical" conferences (business processes and technologies), to reports about the current and forthcoming state of the local, national, European community, AI is always there.
+
+It is almost as if everybody had a mandate to say AI at least once each time had an audience- also when you have no value to add.
+
+Albeit, frankly, for now the focus locally is more in creating boxes that steer, control, oversee, advice- than actually to do what wrote one year ago (2025-07-25) within [The #human #side of #AI #adoption- where #funding should go](https://robertolofaro.com/index.php?page=607).
+
+The table of contents:
+_ A_Assessment
+_ B_Considerations
+_ C_Hypotheses
+_ Conclusions and next steps
+
+
+<b>A_Assessment</b>
+
+If you follow my [Facebook](https://facebook.com/robertolofaro) since a couple of years (or more), you know that routinely I share positive and negative news items from local newspapers about the "business side" of society, politics, and, of course, actual business.
+
+Italy has at least a couple of structural issues: when we started following Reagan and Thatcher preaching, our privatization run had plenty to turn into private hands, but we went more creative.
+
+As in Italy is a tradition that "the winner takes it all", meaning not just top management roles, but plenty of roles across any organization where politics has a say, e.g. utilities were privatized by retained as shareholders local authorities, sometimes even with a controlling stake.
+
+So, local authorities are used to extract dividends, but while asserting that they retain strategic influence for the good of the community.
+
+Well, it is matter of perspective- and data- but starts as an obvious oxymoron, a conflict of interests, as described in the previous article.
+
+As an example, Turin recently had a significant frequency of blackouts scattered around the center of the town:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260713_a01_admin01.png)</center>
+
+Locally, planning and execution are still often living on two different planes of reality- but shared that also decades ago, as wrote in this Linkedin post:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260713_a02_announces-pnrr.png)</center>
+
+The reason for that post was that on June 30th the "PNRR era" (the national recovery and resilience plan that each EU Member State prepared to access grants and financing from the NextGenerationEU / Recovery and Resilience Facility) formally ended.
+
+In reality, when was presented the concept and after the approval of national plans, it was often discussed as a "template" for future initiatives.
+
+In Italy, since 2020, way too often heard local authorities (and sometime also national authorities) talk about "spending" those funds.
+
+The focus ("NextGenerationEU") should have been on investments that would generate revenue streams able to both repay what was to be given back, plus, courtesy of that "seed funding", should have enabled further investments.
+
+Well, I saw plenty of local work supported by that funding, but I am still skeptical on the impact and viability of the initial proposition.
+
+When from Brussels was said to focus on few projects expected to have an impact, a first announce from Italy was to announce a potential project of 1,000,000 trees planted for 1bln EUR.
+
+So, it will be interesting to see how many projects funded or co-funded by the Italian PNRR will have a future impact.
+
+The Italian political system had already embedded within the Constitution written post-WWII a concept of multi-level democracy and administration, also if for some elements (e.g. the Regions) it took decades to see few formal steps of recognition.
+
+For others, as wrote in the previous article (and many others before), we are still waiting.
+
+Since the founding of the Italian Republic after WWII, probably the first institutional change really was in the 1970s, when one of the two main political parties, the Italian Communist Party (PCI) had a significant expansion of presence in the local authorities, and, gradually, began the journey that eventually brought it to have a President of the Council of Ministers and then even a President of the Republic.
+
+Anyway, there is an old saying: power corrupts, absolute power corrupts absolutely.
+
+And few days ago there was a news item that frankly reminded me of Looney Tunes cartoons that watched in the elementary school: somebody parked where was allowed and free, and overnight the blue lines that require payment were painted... under the car and around the wheels, as shown here:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260713_a03_admin02.png)</center>
+
+When I had a girlfriend in Germany, we had met in Amsterdam, and, as town planner in a small village, the idea was that we would both move to Amsterdam- as at the time the best practices adopted there were the envy of many cities.
+
+And, at the same time, I came to signing a contract (then stopped last minute) as financial controller for an Italian company belonging to a French-Dutch group, with the potential of relocating to The Netherlands.
+
+One of the best practices was built around communication with citizens before anything was decided, not just done.
+
+What happened in Rome is a sign of our times and how Italy is still way behind other EU Member States in terms of relationship between citizen (both for private citizens and companies) and State.
+
+Anyway, at last, some lessons are learned- as what in the early 1990s was explained to me by my girlfriend as the process used in The Netherlands was recently at least in part followed also in Turin, for the new wave of town planning- which should be completed probably before the 2027 elections.
+
+So, the overall assessment is: we had still to change the structural context- not just formally, but in practice, to align international treaties that we sign, announces that our leadership (across the political spectrum) routinely make (with more indignation when are in opposition), and shared expectations.
+
+As so far, whenever there is an issue, we in Italy are inclined to compound it by creating yet another layer of "decision-making bureaucracy" (yes, another oxymoron) which, in turn...
+
+... eventually requires another layer: a good way to create sinecure for beached politicians and their circle of friends, including as training ground for future roles, not to bring competencies where are needed when are needed- fixing the aftermath of the Genoa bridge collapse few years ago was an exception, but many would like to make it a rule to circumvent all that layering and externalizations created by the Italian approach to privatizations- of course, while keeping all of of that.
+
+
+<b>B_Considerations</b>
+
+Yes, closed the "assessment" section with a reminder of how in Italy bureaucracies are created and expanded, never removed- and, if anything, when urgency call, our typical "crisis management mode" is to create a temporary structure with exceptional powers- which remains temporary only because the exceptional powers elicit fear across the board.
+
+Hence, we create anomalies- such as our "governo tecnico"- to sort out what our ordinary was created for.
+
+What is a "governo tecnico"? Another Italian oxymoron to claim that we appoint an unelected technocratic government, usually to implement political measures that no individual political party would like to be associated with: the latest one, led by Mario Draghi, had all the political parties in- except Fratelli d'Italia, the political party of the current President of Council of Ministers (the official title of the Italian "Prime Minister"- title that describes quite well the limitation of power vs. e.g. the UK Prime Minister).
+
+One of the latest events that I attended in Turin was to present the annual socio-economic report on Piedmont, the region where Turin is based, the main town, the largest economic and power center, and the HQ of the region.
+
+In my view, frankly, along with the Citt&agrave; Metropolitana that covers the whole former county of Turin, too many roles for a single-point decision-making, and those too many roles often in the past generated unbalanced choices- akin to "what is good for Turin is good for the Citt&agrave; Metropolitana / the region".
+
+Something reminding the Athenian attitude toward the Delian League: you pay, we decide.
+
+As I wrote above, Turin was the "industrial power engine" of Italy, courtesy of the "industry of industries"- but when the automotive industry started shifting elsewhere (e.g. the "motor valley" in Emilia-Romagna), local &eacute;lites in one of their routine detachments from reality decided that being "metalmeccanico", "industrial", was not good enough- and fell in love with the concept of a tourist town built on culture and events.
+
+Net result? Developing a "gig economy"- hence, when I read "the paradox of productivity", consider what is the background, i.e. that shift:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260713_b01_gigeconomy.png)</center>
+
+As I wrote in this post on Linkedin published on the same day, there will be time to look at the details- for now, the presentation of the report was useful also to see the local reactions and posturing:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260713_b02_overall.png)</center>
+
+And I concur with President of Region Piedmont Cirio: we need to remove blocks and build real enablers, not just sinecure.
+
+I voted twice for him and never for any of the political parties of his coalition- Piedmont allows a split vote between leader and members, and I routinely used it whenever the candidate presented from my political side was presenting more a "we want seats" than a convincing political platform.
+
+Not being from Turin is of course part of the reasons I voted for him, as he was able to gradually move from his area, Cuneo and its surrounding areas (where Ferrero and Satispay originated, between others, bypassing then Turin to move abroad), to taking care of the whole of Piedmont.
+
+Such as the logistical initiatives that I first was presented and discussed about in the early 2000s while supporting startups and, at the same time, working as fractional project manager in Rome in Sviluppo Italia for a partner.
+
+The closing point of that post on Linkedin was on the general impression that in Turin there is still a misconception about what automotive is.
+
+Not really from those within the industry, also if many had transferred their strategic planning or at least thinking to the main customer, now Stellantis plus the other Exor entities (e.g. Iveco, CNH, soon maybe again a bit of Marelli, a bit of Comau, etc).
+
+Certainly instead from the many who routinely on local media talk about industrial policy and, actually business plan for Stellantis&Co.
+
+From the leading politicians, to the Archbishop, to the Trades Unions leaders- all seem to a clear idea of how many models and how many vehicles should be produced in Turin: again, it is a "sinecure" approach shifting from "support"/"watchdogs" to manufacturing.
+
+Reminds me when in the late 1980s in Turin was told that FIAT retained selling cars in Australia because there was an Italian community, as, from a business perspective, the support structure and dealership at the time would make more convenient to bring those car to harbors in Australia- and then give them away to anybody willing to take one.
+
+Anyway, Turin still does not miss an opportunities to go tribal: there was plenty of space, but suddenly found myself surrounded in my line of chairs by vocal commentators of whatever was said from stage (from the commentary, probably the other political tribe):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260713_b03_cameo.png)</center>
+
+Again, the key point is: automotive is not "a industry"- but, as somebody else said decades ago, "an industry of industries"- and wrote plenty of articles ([ on automotive, 135 as of today still online](https://robertolofaro.com/search.php?tag=automotive), but also on [banking, 146](https://robertolofaro.com/search.php?tag=banking)) outlining the point.
+
+One year ago [2025-06-20 Too Big To Fail 2 In Europe: 1- introduction and the industry of industries #automotive](https://robertolofaro.com/index.php?page=599) actually started online a multi-part series of articles on the "too big to fail", discussing the concept.
+
+As I wrote within the introduction, I still see that the concept here is not yet mature enough but, as usual, in Turin as well as in Italy we are putting the execution cart in front of the analysis horses, whenever analysis is "too complicated".
+
+Which is what an American colleague and mentor who had worked also in Rome for Italian State agencies told me was the common reaction when proposed a solution.
+
+Specifically, a solution that would have required choices and, therefore, disappointing at least some of the incumbent tribes.
+
+How do you think that Italy piled up over 3,000bln EUR in national debt (search for "Italy debt" on this website to read past articles)?
+
+Now that also leading German automotive manufacturers are shifting toward a scaling down of production (as the model of consumption will change), the Italian companies within their supply chain are starting to suffer.
+
+And, again asking to extend to the whole of Italy the ZES ("Zona Economica Speciale"), akin to what did China decades ago.
+
+At the time, China was unable to support its own Army- and gave also trade licenses to generals.
+
+Some went "entrepreneurial", and, beside helping restore support and fighting ability, started "laundering" by investing abroad- personally, when connected the dots decades ago with colleagues working in many industries in Italy, saw patterns that shared with my colleagues, was said that was wrong- and then, they woke up stating e.g. that whole production lines and associated concepts had been transferred to China, that improved them, and whole sets of Chinese subcontractors in Italy cut off the Italian intermediaries and started selling directly to companies up in the feeding chain.
+
+Yes, to bring back order somebody will remember that eventually there were announces of Chinese general and politicians receiving stiff punishment for corruption etc- but that was an ordinary transition.
+
+
+<b>C_Hypotheses</b>
+
+I would like to keep this article as short as possible, and therefore will transfer part of the commentary to a book commenting on "why" battles and wars were lost.
+
+Remember that wrote above how in Turin many found so "not up to our potential" to talk about manufacturing, as if it were a new Athens ready to enlighten the universe (hence, the routine "Turin is the natural location for <whatever is trendy in the world>):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260713_c01_thucydides-1.png)</center>
+
+The [Peloponnesian War](https://en.wikipedia.org/wiki/Peloponnesian_War) was something else- but, still, there were so many twists and turns and botched initiatives, that some lessons are still worth deriving- and I added to my re-read list this summer Thucydides (and others should).
+
+I will set aside for now the discussion about the ZES and the assessment of the results of the PNRR- both are worth at least a mini-book each.
+
+My first political, then business experience since the 1980s is evidence-based multi-industry, officially starting in procurement in automotive and general ledger and moving onto controlling and supply chain and outsourcing: all industries that required to look at the "big picture", not just minutiae.
+
+Boring, but helped understanding the difference between lifecycles based on capabilities and pipedreams.
+
+As wrote above, in our preparation of the post-automotive Turin, we are on a "war footing" mistake.
+
+Too many keep talking of automotive as "an industry" to be replaced- you cannot replace it if you adopt that mindset, as you first need to understand that you are replacing not a single closed ecosystem, but a system of systems.
+
+I remember a funny cameo of Marchionne, who beside finance had had also study in philosophy, when asked about some subjects: "sono un metalmeccanico".
+
+And, as somebody nominally from the left said after Marchionne passed away "he was too good with workers, and too strong with managers".
+
+Which, frankly, I think is what should happen- as managers are expected to coalesce capabilities and competencies to produce results (be directly the bottom line or the future potential, e.g. adaptability/"resilience").
+
+Otherwise, Italian style, those at the top expect Olympian perks and zilch accountability.
+
+So, we do not need just to consider how to replace a system of systems.
+
+We need also the overall shift in capabilities and competencies.
+
+Probably, in the short-term will be easier to modify/retrain the bottom, than long entrenched managerial habits of mass-producing automotive suppliers and associated services.
+
+Also in the financial sector, funding one million or two million car purchases per year at the consumer or small company level, with few "fleet management" cases, would not work well if you have to shift toward the financing approach routinely used for e.g. the acquisition of a Boeing or Airbus, with fleets of vehicles whose lifespan will be designed according to a depreciation-and-replacement plan.
+
+Implying: many people also in the financial industry will have to go, and those left will need new processes, concepts, and systems.
+
+It was hinted at the report presentation, but shared in the past in other articles: if you have a territory whose average age was reported few years ago as 47 or above (Turin), making it more attractive to a younger cohort requires not just having events, but also having occupational opportunities that go beyond the "gig economy" that since 2012 saw extending from the usual culprits (tourism, caf&eacute;, restaurants, hotels, etc) to all the industries.
+
+Also, an older town has different infrastructural needs (I consider public transportation, basic services, hospitals, home care as "infrastructure").
+
+If you have a turnover by employee on an industrial scale, you can afford CAPEX that enable to sustain a structure viability- otherwise, you minimize and, again, it is not just employees that get a "gig economy treatment", eventually it is also assets.
+
+In Turin we had a town-in-town called Mirafiori, the automotive heartland, the South side of Turin.
+
+In Turin, often we talk of "Mirafiori Sud" and "Mirafiori Nord"- but actually only the former is Mirafiori, the other area is so nicknamed just because was another area of automotive (e.g. North of Barriera di Milano) and associated logistics presence (e.g. Pescarito), 
+
+Transforming Mirafiori has been attempted few times- and shared since 2021 some commentary.
+
+In June 2020 actually shared on LibraryThing a [review](https://www.librarything.com/work/24913797/reviews/184867491) of a book with the title "Chi ha fermato Torino?: Una metafora per l'Italia"- worth reading (the book- my review is just connecting few dots).
+
+In 2012 first, and 2015-2018, then 2021-2022 saw how the automotive district evolved vs. the late 1990s, when I was first called 2 days a week in Turin as facilitator on a datawarehousing initiative to recover.
+
+Personally, if we were to shutdown many of the resource-absorbing sinecure, we could concentrate resources in that area and have our own "Station F" but with a twist: manufacturing is small but still there, the Polytechnic has its design side there, could add laboratories, coworking facilities- all in the same place, replicating a bit of what happened elsewhere (e.g. Zurich and Paris), but left more to a concept based on providing resources and enablers, and having people cross-paths to become their own catalysts.
+
+Then, there would still be need for those providing e.g. structuring abilities to be able to understand what takes to scale up, and put founders on a on-the-job learning path: but we need less lecturers, and more doers.
+
+Turin had a short-lived past as capital of a unified Italy, but a longer prior past preparing for that role- hence, many barracks and military structures are still there.
+
+Recently, there has been a series of announces about the transformation of former military barracks in town into office blocks for innovation.
+
+The real point is: both the local consulting and innovation champions that built their own foundation (and cashflow) on the "FIAT galaxy" and the local academic environment have to evolve and adapt, while local authorities have to decide, as Detroit did in the past, if really all that was leftover from the automotive past has to be converted, or, as happened in the USA, in some cases is better to simply remove, clean, and plant trees or flowers.
+
+The new plan for Turin will be an opportunity only if it will be used systemically, not to generate multiple sinecure across the town while doing nothing to generate revenue streams able to sustain a different model of town, with a different economy, and a different infrastructure.
+
+Otherwise, the lower cost of living than Milan and Rome that is currently attracting foreigners willing to benefit from the law taxation for rich foreigners and those returning will be just a temporary fluke, not something to build on.
+
+Then, as happened elsewhere (e.g. already in Florence late 1990s), the town will become too expensive for those working in it- and the current round of gentrification will generate soon a backlash, while many of the renovations promised will be again announced, as was repeatedly for Italia '61 (the area of the expo 1961) and Mirafiori.
+
+And, again, will be another case of Peloponnesian War- this time, Turin against Turin.
+
+
+<b>Conclusions and next steps</b>
+
+Turin can become a laboratory if uses its own strengths fast enough to replace new development with just sitting on a continued decline.
+
+As wrote in that book review in 2020:
+<em>Dimensions of decline?
+
+Between 2001 and 2016, if compared with other metropolitan areas in Italy:
+- value added +22% (Italian average +29%)
+- greater decrease of new companies
+- worsening in export, companies density, local branches, building, inhabitants with a university degree (and this, despite having increased the number of university students, now at around 100k on less than 900k inhabitants).
+
+Over the last few years, I read the annual "Rapporto Rota"- worth reading if you want to understand (and identify opportunity in) Turin. https://www.rapporto-rota.it/
+</em>
+
+The "industry of industry" left in Turin another element worth considering (in part, Cicero pro domo sua- as my first job was in software development): the high quantity of software development and technological companies.
+
+The tribal side of Turin had a side-effect: lost count of how many times had contact with companies that really had the connections to receive a mission, but did not have the capabilities or experience: something that any purchasing should be able to filter out.
+
+Hence, I shared already on Linkedin, started seeing publicly on Linkedin what had already seen in the past, when multiple companies contacted me with different rates for the same job description: the rate or salary offered states how many degrees of separation there are from the customer.
+
+Shared in the past how, decades ago, while supporting a partner during a visit in Turin to meet a customer and offer SAP services, the purchasing side of the customer told us after a while (a sales meeting turned into a brainstorming- my standard of "free management consulting" as sales and account management)...
+
+... and showed that they had started sending emails with requests to all the companies, but listing clearly which other companies received the same message.
+
+As he was tired to receive multiple times the same CV for the same person from different companies- all pretending to be able to deliver services, and none having people on staff able to do so.
+
+Now, if you have a huge customer as when Turin was a company town, that "ecosystem of intermediaries" is sustainable, and, actually, can be exploited to keep rates down, externalize workforce if you are unable to carry out proper capacity planning, and generally externalize risk to your suppliers.
+
+A project loses funding? Pull the plug from the supplier.
+
+Turin had another tradition: something that frankly found only here- suppliers routinely providing services outside budget, as they expected the next year budget to cover that- until, when the music changed, simply the customer thanked the supplier and said that there was no budget for the year.
+
+Of course, all those intermediaries and all those practices are unsustainable- e.g. while working elsewhere as consultant in the 1990s, I was used, when working on fixed price, to bill a part before the kick-off, and then associate the other billing events to mission events (not necessarily milestones), plus a bit for the final approval.
+
+I remember a customer surprised because we had negotiated such a project and, eventually, as saw that two sessions of brainstorming had solved and was able to deliver the final report, the third session we agreed could be canceled, releasing the time of the senior managers involved.
+
+The buying manager asked me to invoice the missing part- to which I replied that as per agreement those billing events that had been covered had already been billed, and was not going to bill for work that was not going to prepare and do (as each brainstorming session embedded in its price also the preparation and ex-post).
+
+It was a bill of materials approach: if I pre-budget for 3 gears but then you need just two, I expect to pay 2, not 3.
+
+In time&material, the point was different- was a mutual commitment, hence there was an initial amount (as did for the first project in Turin over two decades ago) that was a percentage of the budget, and then each month the actual billable minus the relevant quota of the initial amount- to avoid a customer asking for 200 days, doing all the knowledge-intensive work in the first 10, and then pulling the plug to transfer to another supplier (it happened- hence, I offered the "feasibility study" approach).
+
+So, also the local market, if the previous main customer shrinks demand, will have to build a different positioning, instead of just expecting that their connections will provide them some budget each year.
+
+With the new industries, and if the knowledge-intensive startups will start to develop, there will be a case of actually scarcity of capabilities, and a case of capabilities that will not be needed anymore- in part due to AI replacing what is rota learning and repetitive monitoring and execution, in part due to the content changes.
+
+It is interesting how many of the practices that saw on mainframe and larger projects, now that AI is going beyond the "pilot project", while return- including considering "business proof" and not "technology proof", as [shared on Linkedin](https://www.linkedin.com/posts/robertolofaro_i-concur-also-in-all-the-data-projects-between-share-7481626164273471488-v-oG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260713_d01_dataprojects.png)</center>
+
+Of course, we still have the usual theatrics: when the locals decide that would like something but funded from outside the territory, do not get it, get something else, cannot accept reality and, in pure capability planning mode, leverage on that to develop that "niche" and eventually maybe getting what they wanted.
+
+No- instead, if you were to come to Turin, you would see occasionally curious communication differences- that sometimes becomes almost a duet on cognitive dissonance: locals calling the center for AI for Industry the "national AI competence center" (or variations thereof), and visitors from Rome spelling out the official title- with a more limited scope.
+
+Yesterday newspapers talked about AI Ethics and that companies in Italy are starting to see the need to considers (again) adding philosophers: I shared above the quip from Marchionne about being "a metalmeccanico" when he had a difference background blending "technical" (finance) and "social" (philosophy), but I think that it is going to become even more critical.
+
+The only issue: it is not enough to do as some (e.g. Anthropic), and hire a philosopher, write a Constitution- all laudable initiatives.
+
+Then, if you shift pre-IPO your practices to the usual predatory (on customers) and derogatory (on competition), it means that you did not read your own documents that you released as a sign of an "ethical business".
+
+It is curious that actually started answering requests for somebody able to review the ethical side of AI and technology- at last, everybody is considering the reputational and business impacts of releasing the next Mengele-style "just technical" ignoring the impacts.
+
+Equally curious that what started in July 2023 [as part of an essay context where I selected AI ethics as a theme](https://www.kaggle.com/code/robertolofaro/a-primer-on-ai-ethics-via-arxiv-focus-2020-2023), and now is going soon to have its 2026-07-11 monthly update ([my AI Ethics Primer](http://robertolofaro.com/aiethicsprimer)), now has already 983 papers and almost 24,000 pages.
+
+The original purpose of that essay was to target those who would have decision-making impacts but would not necessarily be "technical", so that they could be able to understand the mindset of the "technical" side.
+
+In our current redesign of the territory, actually the local presence in Turin of both the Turin Polytechnic and Turin University that already tried to build years ago a technical+social curriculum, is worth considering as an opportunity.
+
+I remember and shared in the past how it was dropped initially as looked for a dozen of master students but with a significant quota from companies.
+
+And, being companies small, and in a tribal market, obviously most companies feared that, if there was really a demand, anybody who were to be sent for learning while still on the company payroll would then find better opportunities elsewhere.
+
+It is well shown also by recent data on internships presented in that report: many of those attending the technical high school end up working for those where they made their internship- the idea of generating an ecosystem of talent is still missing what my American classmates described in their own personal experience in the 1990s, and is close to what a UK colleague said few years later in reaction when described how my friend had been in couple of Fortune 500 companies doing internships covering marketing and finance (if I remember correctly).
+
+My colleague said: if Tesco were to get an intern to do the same, here the intern would end up scanning products for the customer.
+
+It is similar to what happened decades ago, while working on cultural and organizational change, and was asked if I could help with a local school communication.
+
+It was a school created to allow daughters and sons of peasants to follow a highly intellectual curriculum blended two different "licei" (high school).
+
+When I was a kid, I remember older friends of my parents telling that the scientific high-school had been created to churn out generals and managers, while the classical high-school aimed to produce politicians and high-ranking State bureaucrats.
+
+The communication issue was that they had a video but was unappealing to students.
+
+The point was: had asked somebody from the educational side of State TV to prepare the video, and was akin to a Soviet-style presentation, not the MTV-style that was ongoing there.
+
+While discussing that, and suggesting not to redo it, but how to restructure it and frame it in a different way (if you ever delivered presentations, you know how often just rearranging and adding some bits here and there can turn material around)...
+
+... was told of another issue: students had issues with the families.
+
+In Emilia-Romagna, in the area, peasants had both fields to tend, and animals to care for- and, as a manager said, when their company was set there by the banks it belonged to, was because in that area they were not used to 9-to-5: if a cow has to be milked, has to be milked- also if after hours.
+
+So, the real issue with the families was that they had been completely shut off from the students- the more the students came back home with readings and material, the more distant they were.
+
+Proposed solution: to involve them in small pills, such as events, so that they could become supportive not just at the beginning, but also across the educational journey.
+
+Morale: if you want to "elevate", you have to elevate the ecosystem, not just the individuals- as otherwise you will have two set of pressures, from the new territory, and from the old territory, in the end bringing back that old concept of "alienation".
+
+As shared in that article published one year ago [The #human #side of #AI #adoption- where #funding should go](https://robertolofaro.com/index.php?page=607).
+
+If you focus on details (training about this or that of AI, or teaching how aerospace manufacturing is different from automotive manufacturing), you miss the opportunity and generate alienation.
+
+You need to actually create a different environment- systemically.
+
+Is the territory ready? Yes, if it drops the concept of "recycling" those sponsored by tribes.
+
+Anyway, my experience since 2012 is that what I used to do in the past is still useful and can be adapted- but provided that then everybody can go back to the usual.
+
+Unless Turin is gently nudged into losing old habits, will just try to replicate them- by building layer upon layer of experts in observing and commenting but not in helping to deliver, except when deliver implies "painting by numbers".
+
+On that, the tons of sinecure in Turin is a specialist: but the results show that this only spawns more sinecure.
+
+Stay tuned!
+
+PS I know, this time not 17k, but still 6k...

@@ -1,0 +1,1133 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260701_article.png)</center>
+
+This article is within the [EU, Italy, Turin series](https://robertolofaro.com/diritto-di-voto).
+
+It has a curious history.
+
+Started as a concept, a title and few lines on the main themes.
+
+All across June 2026, that short note on my smartphone evolved into something else.
+
+As of 2026-06-26, was over 14k words: a mini-book.
+
+Whenever I attend a webinar, course, conference, I do exactly what I do while being part of a mission for a customer or partners: scout for pointers to integrate with what already did, learned, worked on, and identify if and when makes sense to expand also for future uses.
+
+The 2026 #FutureWeek in Turin was a chance to listen to different perspectives- mainly local (Turin), but also a bit from Italy and Europe.
+
+At the same time, in Europe (e.g. from some European Commission groups) and elsewhere (e.g. NAAS, Rand, ForeignAffairs/CFR in the USA), as well as the "usual suspects" (IBRD/World Bank, ECB, UN, WEF, IMF/F&D) plus occasional new ones...
+
+... heard a lot about impacts of AI and a batch of crises that we started having in 2020, human-made or human-influenced.
+
+As shared repeatedly in the past, in a recent book written by somebody who has much more depth on the inner workings of the Italian State, he wrote how often there is a concept of converting your role into an asset- the "patrimonializzazione del posto pubblico".
+
+Will share further material in another section of this article, but we Italians have an issue, when it comes to reforms and "becoming an ordinary country": we cross all the Ts and dot all the Is (will repeat this concept again) formally requested, only to then, in practice, divert toward "business continuity" of what we are used to.
+
+We are too tribal and prone to internecine wars, to benefit, as could have been done, by the many opportunities in disguise that we had since 2020.
+
+Including those that we received from our European Union fellow Member States when they accepted to allow us potentially, for the NextGenerationEU, to shift from net contributor to net receiver of EU funding.
+
+Yesterday was the last day of the PNRR, the Piano Nazionale Ripresa e Resilienza (national plan of recovery and resilience) that we prepared as part of the Recovery and Resilience Facility / NextGenerationEU.
+
+I wrote a lot about that few years ago- so much, that more than once I had the routine, annoying typical Italian approach when somebody has a role, has no ideas, and tries to get ideas and information from those who do- but without sharing anything: not just the budget, but also the credit.
+
+Eventually, went almost silent- and the reason was simple: shared online the messages initially on what was needed, hoping that reached (bipartisan) all who could be concerned.
+
+Others were (should now say "were supposed to be") in the driving seat- so, collected a continuous stream of announces, news, puzzling choices, but waited.
+
+Changes? Be it supply chain, business, society "perimeter", and, of course the form and operation of the State, formally we went quite well.
+
+Beside a series of sections on concepts, will share few sections each containing a use case.
+
+A collection of (short) case studies that will in the future convert into mini-books, a proposed guideline for change leveraging on examples from my past, to provide elements that others could evolve into their own initiatives.
+
+I do not know yet if those mini-books will be akin to [#QuPlan](https://robertolofaro.com/quplan), that eventually had its own fictional case study on compliance program management of over 200 pages- albeit, for the cases within this article, there is nothing fictional, only documents and news items. 
+
+The title of this article obviously deserves some explanation: but will be spread across the article.
+
+The reason why this article is within this section whose Italian title is "diritto di voto"?
+
+Because its aim is to discuss how some long-term changes that started in Europe during the Thatcher/Reagan era, and its ripple-effects and collateral damage, not half a dozen years ago.
+
+Of course, we Italians embraced most of those changes, but without really applying them: our privatizations mostly created externalizations while retaining political influence or even guidance and a significant chunk of the shares- and dividends.
+
+Intentional, unintentional? You will be the judge- but some of those damages, short-term, were along the direct results of the usual "you cannot make an omelette without breaking some eggs".
+
+I observed the changes from an "evidence-based" side at least since 1982, the first time that was part in Italy of a structured organization blending data and politics.
+
+The key risk? The European Union sometimes reminds me what I saw as a teenager in politics within an advocacy on European integration.
+
+Specifically, our discussions as teenagers at the Central Committee- long on melodrama, short on results: how long can you discuss about a comma?
+
+Or, to be more more practical, how often can you revise a regulation just before it is due its enforcement, before generating more entropy than the regulation planned to remove?
+
+Look at the Italian Constitution, and read about the works of "Costituente", that after WWII produced the first version of the document.
+
+Article I: <em>"Italy is a Democratic Republic founded on labour. Sovereignty belongs to the people, who exercise it in the manner and within the limits provided for by the Constitution."</em> (from the translation available on the Italian Senate website).
+
+Labour, not workers: just a single word could have shifted the State toward a different model- as <i>labour</i> describes what could call a "capability", while <i>workers</i> would have excluded those not yet (or not anymore) of working age.
+
+So, a comma or a single word can actually alter the structure of a State- imagine of a business contract or role.
+
+As a teenager, from 1979 actually read not just the Italian Constitution- but also compared with those of other countries.
+
+Moreover, was able to develop a skill that would become useful and unique on my business side (as usually in business is done by lawyer who really are not experience working on the business side): reading law, finding reference legal material, digging and comparing, etc.
+
+Why? I had to prepare some lessons I had volunteered for, and therefore as any decent bookworm went in libraries reading the "Gazzetta Ufficiale" (back then available on paper and relatively expensive, while now at least it is a bit of Italian digital transformation that worked well- you can see on [Normattiva](https://www.normattiva.it/) laws and also the history of their changes).
+
+Well, all that focus on commas and single words was anyway useful years later, when revising offers, auditing vendors, and renegotiating with customers on behalf of partners- helping to make choices.
+
+Choices generate a conceptual backbone that filters out whatever new information or just mere "signal" arrives- also if actually were part of the original context.
+
+And discussing "signal intelligence" is part of this article.
+
+If choices are done by somebody who does not see the whole picture, the risk is that will create a tunnel vision- call it digging your own hole and then jumping into it.
+
+In the past, had to re-negotiate with customers ICT delivery contracts that frankly had been previously setup as just "fair weather contracts"- i.e. working only if everything was going well, and turning into a nightmare otherwise.
+
+The conceptual backbone and its "tunnel vision" consequence are even more critical in a tribal society as Italy, where we still way too often lack a systemic perspective, and simply project our own tribal interests as if they were universal and spreading the benefits evenly across all the tribes.
+
+Pity that reality, generally, at a systemic level, did not and does not follow suit.
+
+The larger the differences, the higher the ensuing cognitive dissonance and risk of an escalation of frictions that brings up to a tipping point were no recovery is possible.
+
+Since post-WWII, actually since after the Treaty of Rome, in Europe we had a "solution", the "Monnet" moments, as I call them- i.e. the leading tribe or coalition jumps forward, expecting that the others will join the bandwagon to avoid being left outside, and only minor adjustments will have to be negotiated later on.
+
+Which was fine during the Cold War, as we had obvious exogenous pressures, but, also if some now try to leverage on Russia's invasion of Ukraine to position Russia as was positioned the USSR and hence enable further EU integration without debate, we live in different, more complex times.
+
+Anyway, shared similar considerations across multiple articles in the past- and a good summary is within the [#EP2024 article series](https://robertolofaro.com/ep2024).
+
+As for leaders and leadership, two critical elements in any cultural/organizational change initiative (or new product/service launch)...
+
+... all across Europe (including Italy) the 1980s, long before the fall of the Berlin Wall, brought about politicians sold as products (or rockstars).
+
+Yes, Bernays wrote about that already a century ago, as I like to remember once in a while, within his "Propaganda".
+
+As usual, more people quote its title than read it.
+
+Different times, different concepts, but it is still worth reading to understand the mindset and transpose, along with other more recent books that shared in the past.
+
+Actually, an article that published in 2017 on the subject but focused on Italy, [Il Paese dei Leader](https://robertolofaro.com/index.php?page=125), was read over 44k times (probably also because it is in Italian and quite short, for my standards).
+
+The recently announced agreement between USA and Iran (brokered by many, but those two are the main actors whose collaboration is needed to make it work)?
+
+More than a solution is an exist strategy to avoid yet another Iraq- and mid-term elections are a gentle reminder that, despite what some think, within Western democracies you have to win elections.
+
+Anyway, President Trump too often reminded the ["shock and awe" intelligence gathering (if I can call it still "intelligence gathering") approach described in a 2017 movie](https://www.imdb.com/title/tt5540992/) (and a bit of ["Wag the Dog"](https://www.imdb.com/title/tt0120885)).
+
+Yet another sign of leadership in our times: communication detached from reality that, the more detached is, the more has to increase its detachment- as otherwise would tarnish the public image of the leader, a leader replacing reality with communication.
+
+As will discuss in the first section, the key issue is always the same: putting the theory cart in front of the data horse.
+
+The table of contents of this article starts by... sharing the theory (actually, the assessment and discussion of potential scenarios and consequences), then discussing three cases, from micro to macro to systemic.
+
+Again: in the end, our post-ideological leadership is really more about leaders than about the results of that leadership. 
+
+And this has an impact both on efficacy and efficiency of the action of States and their bureaucracies.
+
+Since the "less state, more business" drive picked up momentum in the early 1980s and spread as a wildfire across the world, this impacted on the way reforms were selected, designed, implemented- often, piling up before even just considering an assessment of the impacts.
+
+And not just in Italy.
+
+COVID and a couple of conflicts on our steps changed that.
+
+Collateral damage(s)? A couple of major financial crises, a string of conflicts that really started in the 1990s, and a continuous stream of "leaders" that, despite leading complex organizations, routinely go on a "solo flight" as if they were freelancers.
+
+Even rockstars know that structure is what enables their world tours... 
+
+Anyway, as usual, AI will be part of the discussion, as e.g. the three cases are not just the "autopsy of a decay", but seeking for pointers for improvements.
+
+Next week hope to connect more positive dots but, anyway, this article is useful as a preliminary assessment.
+
+In the first section, will share something more about the history of this article that is really a mini-book: as of last Friday, it was around 14400 words, and already received some preliminary commentary.
+
+Well, it changed significantly since last Friday, as decided to increase discussing elements aligned with the perspective of the most read article on this website [Per una politica industriale che veda oltre le prossime elezioni #industry40 #GDPR #cybersecurity / For an industrial policy that survives election cycles #industry40 #GDPR #cybersecurity](https://robertolofaro.com/index.php?page=138), that published in March 2018.
+
+As this article was already quite long, decided to move in a forthcoming publications some material, and add discussion of multiple cases within this one.
+
+The table of contents:
+_ THEME1: The development path of this article
+
+THEORY
+_ THEME2: ï»¿Wrapping your biases into selective data
+_ THEME3: Signal intelligence and its limitations
+_ THEME4: When a State dismantles itself
+_ THEME5: Unintended consequences of cognitive dissonance
+
+PRACTICE
+_ THEME6: An ordinary (Italian) case of bureaucracy 
+_ THEME7: Cascading consequences of short-termism
+_ THEME8: Shifting a local industrial ecosystem
+
+CONCLUSIONS
+_ THEME9: Bundling the unbundled
+
+
+<b>THEME1: The development path of this article</b>
+
+Yes, set aside the time to be in Turin and attend the #FutureWeek 2026, as in past years, also when I was on missions, attended e.g. the TechWeek in Turin, and workshops about the industrial future of Italy also in Milan along, of course, with plenty of webinar, online workshops, and the obvious intensive book reading.
+
+What was the progression of the article?
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260701_01_1_writing.png)</center>
+
+The commentary that received in Turin with Turin and Rome/other accents on Friday 26th convinced me that was better to expand the material, and focus on sharing short business cases with different levels of complexity.
+
+So, there will be a case that followed for others since 2018, a discussion about the impacts of that wave of privatization that Italy introduced at the national level but notably at the local level and, finally, a discussion about how some signals are continuously misunderstood in Turin, and what could follow.
+
+I always shared that since the late 1980s I had two "lines of business"- cultural/organizational change and data for decision-making support.
+
+Starting in 1986 within consulting was not a life choice- and, when I left the first employer, actually tried to enter in companies that were build around products- specifically, physical products.
+
+Well, ended up staying again in service+product, also if the "product" was not just software, but also "packaged services" (i.e. repeatable: training curricula, etc).
+
+When you sell change-related services, also if you try to "package" what is repeatable, there is always an upfront element that is tailored to the customer- as any assessment, no matter how "packaged" it is, requires analysis specific for the customer context.
+
+Trying to "reuse" too much or too little are both mistakes- you need to identify the adequate balance for your specific "product"- to enable scalability while staying useful to the customer.
+
+As I said once to a manager in a customer who said that I adapted and tailored the methodology that was selling: if I were just able to repeat what is within the book, you would need me.
+
+In publications, as shared in the past, until the early 2000s wrote only for customers, partners, and selected few; only in 2003-2005 at last published for an audience that I had never met, and, to that end, before publishing, set up a direct marketing project as I had done for my employers first in the late 1980s, then in the early 1990s, in both cases targeting senior management.
+
+It worked well, but, while was both in English and Italian, that initiative was part of my return to Italy, which in 2004 started with the negotiation for a potential merger of my tiny UK Ltd with an Italian company, so that they could get a presence abroad, plus my contacts, and I could get a structure and staff covering also small-scale managed services and software development.
+
+My passage in Rome as fractional project manager and business analyst on government projects was an opportunity to see from the inside how Italy work, as I had been away too long.
+
+I also supported Italian startups on business and marketing planning- again, as the plan was eventually to return to Italy, hence wanted to use locally the array of competencies that had developed elsewhere.
+
+Eventually, it did not take long to decide to move again abroad- and temporarily shutdown the publication- [BusinessFitnessMagazine](https://businessfitnessmagazine.com).
+
+Will decide in the next few months what to do- but, for now, it is doubtful that will have to do with Italy- except for publications.
+
+From July, will add further material and media blending my cultural/organizational change and evidence-based managerial decision support, using local public material as case studies.
+
+Anyway, AI started connecting the dots on my seemingly disconnected request that bounce and evolve between local and online AIs.
+
+And Claude got so much used to my manual launching and review of the Morning News (that from today marked as Morning Brief) around 5am while refusing to automate it completely (as want to retain editorial filtering), followed by 5ish feed-back on crossing the Ts and dotting the Is, that this morning greeted me with...
+"Welcome, night owl"- shifting later to the more usual "Welcome, Roberto".
+
+This article, as many on this website, actually is a collection of pointers- when I have time, develop a mini-book, or create a new dataset, that then share online.
+
+In May started sharing also AI models trained on my material- more as a concept and to ease access, and to free myself from those unwilling to provide a budget but pestering me with questions whenever we meet- now, I can say "go ask the model; and if you want to provide data, no need for an NDA to basically recycle what I provide: just download the model and use it, it is CC-BY-SA".
+
+It seems risky to adopt "creative common, attribution, share alike" as copyright approach for most material- but it is consistent with the content of the material.
+
+What you read in this website or my mini-books is a narrative based on data and experience, but still a selective narrative based on the context that each time I write select.
+
+Hence, leave outside many "if", "but", and other qualifiers.
+
+As in that famous story, you do not pay the beating with a hammer, but knowing how and where and when to use it properly.
+
+The aim of this article, as many others, is to share a journey- journey that could then turn into further material, but, meanwhile, why not let others have a look and maybe develop their own variant or, even, develop ideas, so that I can shift to something else?
+
+Incidentally: as started in 1986 officially as a mainframe programmer, do I still develop software? Not really- only to support my publications.
+
+And, must say: if you have experience in designing and validating software written by humans, as I did since 1986, including specifically QA/QC/release management in 1987-1988, working with AIs is not simply "vibe-coding": is a team effort that allows to obtain what you need in minutes.
+
+Example: I created different components of my AI stack for specific uses in my publication activities- at zero cost (except my time and electricity), both online and with models offline, and this not only saved a lot of time, but also enabled publication activities that in the past would have required a team (e.g. some elements of semantic search).
+
+And what's next? Time will show (after the summer).
+
+Now, would like to shift to the first section of the "theory" side of this article.
+
+
+<u><b>THEORY</b></u>
+<b>THEME2: ï»¿Wrapping your biases into selective data</b>
+
+The reason why within the introduction quote the Italian Constitution and Costituente is simple: "framing" your starting point delivers the results.
+
+Italy, at the time, was coming out of a civil war, but, due to the incoming rumors of the Cold War, there was not doubt about being against the fascist regime that was dissolved in 1943, but there were different concepts of the future.
+
+I always said that in Italy, after WWII, we had two Churches- the Roman Catholic one, represented in Parliament by the Christian Democrats, and the Communist Party.
+
+As for dealing with fascists, well, frankly I consider that in Italy, as Austria, was next to impossible to "clean up": many "converted" under Mussolini when was convenient, e.g. to keep a job, and "converted" again when was convenient to suddenly forget- e.g. to obtain new roles within the new Italian Republic under oversight by the Allies.
+
+Hence, for example, we kept in training for the future security forces somebody who came from the security organizations of the fascist regime: not the best way to introduce a new mindset.
+
+Anyway, since few centuries ago, when both France and Spain had interests in Italy, we have a joke: "con la Francia o con la Spagna, purch&eacute; se magna"- no matter which side, provided that feeds us.
+
+Last week there was a celebration:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260701_02_01_costituente.jpg)</center>
+
+Yes, the Italian Republic really started with an assembly designing a new Constitution but leveraging both on political sensibilities, recent (negative) experience, and past history on creating similar "frameworks" in Italy.
+
+Which, calling back the title of this section, was a positive allocation of resources: biases are embedded in how we humans interact with reality, e.g. ignoring signals that are continuous background noise, while focusing on signals that are unexpected- as we cannot consciously process all the data all the time.
+
+Modern Western democracies are complex organizations, and, except for those deriving from the unwinding of the Soviet Union and COMECON, have centuries of continuous history of evolution also from the political and governance side.
+
+This implies also that layered the organizational culture of their bureaucracies for at least a century- as you can expect that probably every two-three generations there is a restructuring.
+
+Example: look at how the US military-industrial complex was structured before WWI and after WWII, and its impacts across the functioning of the Federal government, the choices of Congress, etc.
+
+As saw in the 1980s and 1990s, in my first official projects, the first Information Technology transformation integrating computers, in the 1950s and 1960s, did start by inheriting and translating to the new medium old processes.
+
+And I saw the same also in the introductory course to information technology that out of boredom designed, proposed, delivered while serving in the Army in 1985-1986, to both conscripted soldiers and NCOs+officers up to Lt.Col, reporting to the Colonel in charge of training (what we called CAD-OATIO), including coaching additional teachers.
+
+Actually: implementing old logic with new architectures implied a continuous spawning of new forms, files, printouts- and when memories became cheaper and, in the 1990s, databases more common, that too expanded the quantity (also if not always the quality) of data collected and processed.
+
+As bureaucracies thrive on control, and whenever a new technology allows to have more data and more control, often jump the gun before any legislative changes enabled them to do so- they do it for "internal efficiency and efficacy", but then turn to their input and ask for more.
+
+I remember a curious cameo from 1990-1992: a large customer told me that one a major Italian State agency collecting data from employers few years before contacted them asking for a new statistical report.
+
+They saw immediately that the report, to be produced, required data that were past the statutory terms of data retention- still, as many large companies in Italy (Italy is famous for its retroactive laws and habit of litigation digging into the past), if and when have space and resources, they keep copies of everything.
+
+So, they produced the report.
+
+Then, the Italian State agency contacted them and said: as you were able to produce the report, it implies that you have the data. Could you kindly give us a copy, as we lost it?
+
+And, from what was told, the company checked with others, and the other companies that had provided the report got the same request.
+
+So, if a manual process had dozens of pages, an automated process could inherit those, plus an assorted array of additional reports, forms, restructuring of the same information.
+
+As I saw in the 1990s while, for a customer as a business case on the investment in methodologies, was briefly part of the business analysis team to show how the process could be quickly redesigned, along with the supporting system (streamlining both).
+
+This was done by using the methodology that I had designed and provided- 4/5 of the pages were marked as not needed anymore.
+
+How did I get that mission? The CEO asked me some time before if, after delivering the methodology and teaching, i.e. after preaching, was ready to walk.
+
+So, I was part of different projects- organizational, BPR (including systems), and new activities (both systems and setting up new services/activities).
+
+It is not the first time that share how, by living and working in different countries since the late 1990s, when the OECD gave its gentle "push" on e-government, I saw for decades how each instance of digitalization elsewhere streamlined bureaucracy.
+
+In Italy, since 2012, both directly and indirectly, saw how the extension of digital transformation actually made more complex many processes.
+
+Example: instead of standing in line to do something in an office, we shifted to having to be able to access an online agenda and then, if and when accessible, look for available slots, to have then a first meeting where could be told what was needed, and fix another meeting when to actually start the procedure.
+
+Over the last couple of years at last somebody revised that process in some cases- but still would like to see an external assessment on the lifecycle of those requests (what we call in Italian "tempo di attraversamento"), compared with the past.
+
+Let's say that for now I saw an improvement only on the first step (accessing the agenda- capacity planning at last works also in Italy), but for the other steps...
+
+... I still compare with what saw before- and remember how e.g. decades ago in UK once filed the VAT, received a reimbursement directly on the company account one week later.
+
+And, as shared in previous articles, how, when paid taxes ahead of schedule, asked my UK accountants why I had received a wire-transfer from the State, and, after seeing what I had done, the partner told me that in UK simply you were charged an interest if late, and the same interest was paid to you if you paid ahead of schedule: no need to ask, you would get that payment.
+
+I do not know if with Brexit this changed, but that was the status... a quarter of century ago.
+
+Not my experience in Italy.
+
+So, despite all the OECD and European Union "push" for harmonization and convergence toward reaping the benefits of digital transformation (and, soon, AI), that "historical layering" still represents an issue.
+
+Notably in a country that was unified just in 1861, "merging" states and towns that had been independent in few cases for centuries or since the fall of the Western Roman Empire, only to then receive few decades ago another layer of bureaucracy at the regional level, compounded in the early 2000s by a Constitutional reform that transferred further powers to regional governments (and currently there is a discussion about a further round in that direction), while creating new ways to integrate the different levels of bureaucracy and regulations.
+
+I will not discuss other European Union Member States- as Italy is adding more and more layers, and therefore can be used as a case to discuss the theme of this article in such a way that concepts can be recycled elsewhere (also to pre-empt temptations to go the "Italian way to bureaucracy" to remove accountability).
+
+When I write about "bias", or "corruption", as routinely wrote also in recent articles, I have a different concept from the usual- hence, it is better to summarize what is relevant to this article:
+_ <u>bias</u>: the longer an organization's history, the higher the level of assumptions that filter whatever signal is derived from reality- distorting perception and choices
+_ <u>corruption</u>: more in some countries than in others, bureaucracies are never temporary- and, once set in place, gradually their own main priority is survival, not whatever purposes that made their creation necessary.
+
+Example: as a routine, in Italy since I was a kid remember discussions about "enti inutili", i.e bureaucracies that had done their job (if any at all).
+
+My favorite within one of the older lists was a structure whose purpose was to provide support to veterans... of those who fought with Giuseppe Garibaldi in the XIX century.
+
+Well, went on the chopping list- but ended up being converted into a society focused on the history of those wars.
+
+And also the structure set up temporarily for the Turin Winter Olympic Games of 2006, was still there until few years ago.
+
+I shared in the latest article concepts about "measuring" ([Organizational Support 18: Measuring in a data-centric world, or: pragmatic KPIs within an AI landscape](https://robertolofaro.com/index.php?page=660)), and there you will find plenty of links and references to specific issues related to the different dimensions of measuring.
+
+A key element of the "bias" and "corruption" that re-defined above: bureaucracies strive to define which information is acceptable to them.
+
+While at the beginning of their life the selection is strictly related to the purpose(s) assigned, gradually bureaucracies define their own internal needs, and, leveraging on their own "filter" role, rationalize elements:
+_ expansion of information that they require
+_ selectivity in the information that they accept
+_ their own unique ability to self-oversee their own activities
+and actively lobby with the legislative and executive branch of power (or their equivalent in the private sector) to adapt to their needs.
+
+So, while many see bureaucracies, both in the public and private sector, as "helpers", in reality in our modern, complex societies often they become "political" actors, i.e. stakeholders with distinct needs and interests- notably in a tribal country such as Italy (but will share more in sections 6 and 7).
+
+In Italy, at least in the public sector we are still often discussing again interoperability and sharing of data to have a shared perspective.
+
+In the private sector, industry-by-industry often something was already implemented by consensus (or "gentle suasion" from Industrialists' associations, Bank of Italy, etc), and I remember how in my first project in automotive, 1986, there were discussions about the implementation of EDI- Electronic Data Interchange between companies, at a time when there was no Internet (the closest was a kind of dropbox where you sent data and somebody else could retrieve data).
+
+In companies that grew by acquisition, the lingering culture of each component generates friction, but, being under unified ownership, with some efforts, generally some unified systems and concepts are gradually emerging- by design and by accident (in my experience, usually both).
+
+The changes that started in the 1980s-1990s with the wave of privatizations in Italy took a series of formal steps and a parallel line of informal ones, mainly due to the Italian concept of spoils system.
+
+If you were to read Italian newspapers over the last few years, it would seem that the incumbent government is doing a kind of "occupy the State".
+
+Most of my fellow Italians have a selective memory- as, frankly, it has been a constant since I was a teenager (and probably before)- and I was born in 1965.
+
+So, it is a routine- as shared in previous articles, what happens is that whatever role "opens" in either the State or local authorities, or in formally private companies (even listed on the stock exchange) but that actually have still either the State or local authorities as significant shareholders, the coalition in charge at the appropriate level is inclined to have loyalists appointed.
+
+And if there are no roles available but the new government wants to generate a governance shift?
+
+Well, you can always restructure, merge, spin-off, so that old seats are lost, and new ones are generated.
+
+The key reason why there is an outcry now is that the political side I voted for since 1983 (center-left, or should say left-center, as the current coalition at the helm is considered right-center)?
+
+Because for almost two decades (more in Turin) has been often in power long enough to spread across the structures its own choice of people, as also when did not win the elections, was part of the coalition at the helm.
+
+As we Italians are used since the 1990s to have coalitions that routinely flip side- just look on wikipedia at the coalition behind each government since then.
+
+In Italy we had also few governments that covered almost every political party- we call them "governi tecnici", as if technocrats when making political choices were neutral- choices are political choices, when done by a government- but this allowed "plausible deniability" on the consequences of choices needed but unpopular, or done without proper preparation to fast track solutions.
+
+So, having a coalition that could stay long enough to have its "imprint" across all the structures could generate a series of cascading effects.
+
+Instead, the relatively short tenure of the center-right (or right-center) coalitions since the 1990s, within the tribal concept of State that is common in Italy, left the opportunity to those with longer organizational history to consider those minor nuisances, and keep getting into any placement opportunity.
+
+You can collect how many signals you want, but if you do not understand them, you are just wasting resources.
+
+
+<u><b>THEORY</b></u>
+<b>THEME3: Signal intelligence and its limitations</b>
+
+A couple of examples before discussing the concept.
+
+If I were to show you this post, what would you think?
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260701_03_01_legal.png)</center>
+
+I received the announce of this result first from other sources, then from the company that actually was involved as a supplier of AI support.
+
+A first interpretation could be: well, it works- we can do without lawyers.
+
+In reality, if you read the specifics, you see that this was a case that usually generates billable hours for repetitive activities, i.e. where actually having a legal background generates next to zilch value added, if documentation is there.
+
+Still, in many cases where in the past was asked to collaborate to review vendors, projects, or even just renegotiate contracts, the first point was to actually collect the real signals.
+
+And, I am boring, I know...
+
+... avoid to put the interpretation cart in front of the evidence horses.
+
+Anyway, understanding signals is highly contextualized: you need to know the domain.
+
+For example, most people assume that Morse coding is neutral.
+
+Instead, e.g. for the case during WWII when Polish officers were killed by our ally USSR, it was confirmed in part via the "typing patterns" used to report the information ([see here a recap](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/fr/document/katyn-massacres-1940.html))- yes, "forensic signal intelligence".
+
+For a while it was convenient to all to accept at face value the official version provided by USSR.
+
+Sometimes, signals can be willingly playing on your expectations.
+
+While living in London, I remember a funny book describing how the Allies actually, to divert attention from the forthcoming landing in Normandy, made up a different Army, and therefore generated fake equipment, but also fake signals delivered as if they were true.
+
+Deception is part of signal intelligence- and, probably the [Operation Mincemeat](https://en.wikipedia.org/wiki/Operation_Mincemeat) is one of the most famous cases: how do you make fake documents look real and build all the narrative around them to be accepted as real?
+
+The flip side is of course when you want to deny the value of real document, and build counter-narratives- and this is something that had a chance to discuss within a book that published at the end of 2020 (["A 25-years long case (and counting)"- you can read it here for free](https://leanpub.com/u/robertolofaro), just set the price to zero), providing the "audit trail" of documentation and exchanges- but more about that in section 6.
+
+A simpler but fascinating case of falsification is the one represented in this Facebook post:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260701_03_02_understanding-signals.png)</center>
+
+Anyway, as I wrote at the beginning of this section, also if you receive the right signals, the point is interpretation.
+
+And this require having the right people on the receiving end, with access to the right tools and ability to use them.
+
+As shown by Pearl Harbor, it does not make sense to send a warning about a forthcoming war, if nobody takes action, or to provide a radar station, if it is active few hours a day and, more important, who leads it does not understand how it works.
+
+Suggested reading? A couple of books on "how to loose a battle" (search online) or, if you are not so inclined to read, an old BBC series on "Great Military Blunders"- as both converge on the point: the cognitive dissonance derived from the inability to process information per se, instead of applying a self-referential (and self-aggrandizing) filter.
+
+A recurring theme, if you read previous articles on this website- maybe one day will publish a list of the suggested readings/suggested movies/suggested documentaries embedded within articles.
+
+Shifting from history and specific cases, signal interpretation does not necessarily imply cloak-and-dagger or dealing with counterparts with interests not aligned with your own.
+
+Sometimes, signal intelligence issues are self-inflicted.
+
+In the early 2000s I was working as part-time project manager and business analyst on Government project in Rome.
+
+Actually, fractional, as was working on different customers and different projects or programs at the same time for different partners and direct customers elsewhere.
+
+Was asked to give my feed-back on participation on a tender for a national tourism portal and for a portal to basically build up a cadastre of State-owned buildings, to enable securitization of those assets: two typical "national systems" that would expect within a unified country.
+
+Well, after looking at few clauses of both documents, advised against the first, as was blatantly already assigned- so, would have been a waste of time and money to prepare an offer.
+
+On the second, due to the complexity, when was asked to do it as "my investment" (I had in the past for partners covered that coordination role, but paid), in exchange for consideration of involvement in the project, laughed and politely declined- my assessment was that just my role for the coordination and preparation was a consulting project that assessed at a value of at least 40k EUR.
+
+In Italy, most governments routinely "pad" the annual budget by stating a provisional amount to be "earned" by selling buildings belonging to the State.
+
+Look at the track record of those assumptions: in Italy, we consider it more ritual-oriented than results-oriented.
+
+Generally, the idea is selling those buildings.
+
+I think that also in Italy learned the lesson of the UK HMRC "leaseback" few decades ago: they sold the buildings assuming to then lease from the buyer the office space, and, due to the taxation effect on rent, would have both received the sale proceeds to offset the rent, and tax revenue.
+
+Problem: as reported across time "Private Eye", in short sequence was discovered that:
+a) the buyer was not UK resident, hence tax revenue...
+b) after a while, said that the amount paid as lease was not enough- and threatened to shut down buildings and put them on auction.
+
+I did not follow how it ended up- but, in Italy, we had similar cases- as when an Italian Government, over a decade ago, again assuming what would happen but without digging too much...
+
+... was reported by media to have paid a financial derivative that was supposed to "protect" against fluctuations more than the risk it covered.
+
+In those cases when I was directly asked to intervene (also in Milan and Turin), I stopped the "drifting away from reality" before either I or the company that offered those "tremendous opportunities" allocated time and resources for "dead in the water" ships that would never set sail for any direction.
+
+In other cases, involving local and national authorities in Italy, unfortunately that cognitive dissonance became visible only later.
+
+In Piedmont, the region where Turin is based, once the Regional Government (again, decades ago) found itself defending from two banks in UK (one Italian, one Belgian, if I remember correctly) using the curious argument that a financial contract that they had signed was not applicable because the manager that they had assigned did not have the English language skills needed to understand the contract.
+
+The answer from the judge in UK? Similar to when an American woman filed a complaint and requested damages against a fast food chain as their apple pie was too hot.
+
+Or: you made the choice, you have to apply common sense- specifically in the financial case should have appointed somebody who could understand what was signing on behalf of the organization.
+
+Akin to when was offered by an Italian bank to sign for a health insurance and, while the employee discussed it with me, asked just a couple of questions- and saw that actually the premium, considering my individual situation and what was excluded, had a high probability of exceeding any costs that I would have to cover.
+
+As you can see, all cases of wrapping your biases into selective data to confirm you choices- as I described within the introduction, putting the cart in front of the horses.
+
+Actually, this section was to pave the way for the next section, where instead will move to the core theme within the title and introduction: the consequences of that trend set in motion by Reagan/Thatcher in the 1980s.
+
+
+<u><b>THEORY</b></u>
+<b>THEME4: When a State dismantles itself</b>
+
+A small cameo: in 1983 was in London with friends of my parents.
+
+Was my first visit there, and privatizations etc were ongoing.
+
+I remember once that we went outside town by train, and then went to buy the return ticket to London.
+
+When we arrived at the ticket office, the ticket agent and a colleague were closing and leaving.
+
+We asked what we could do: he said that would not care, as they were not paid overtime, and was not their problem.
+
+In Italy, we had a specific issue that took few decades to solve: during the Mussolini government, we had some crises and initiatives that resulted in having State-owned enterprises.
+
+In banking, it was a routine that, when a bank was shaky, moral suasion from the Bank of Italy arranged a marriage with one of the main banks- also in the 1980s and 1990s.
+
+So, for example, the banks that before unification issued banknotes were gradually acquired by other banks.
+
+Before leaving that Andersen unit where worked on decision support systems, as the bank was a customer of Andersen, we had an offer that included some specific favorable conditions- hence, became a customer of Bank of Sicily, where I had also been asked before to go in Palermo for Andersen to revise a couple of uses of the decision support system software platform.
+
+Eventually, that bank was absorbed by what now is Unicredit- one of the two leading banks (the other is Intesa Sanpaolo- that first met as a consultant for Andersen in 1987-1988 on the completion and delivery of a general ledger).
+
+So, in the 1980s and 1990s we had plenty of potential privatizations: energy, utilities, banks, even manufacturing.
+
+At the same time, in 1990 was set up in motion an "agent of change" that has a significant impact, and that initially was more "technical", now is increasingly part of the political scene at local level: banking foundations.
+
+You [can read a book review that shared in 2020- "Tombari-Greco - Fondazioni 3.0: Da banchieri a motori di un nuovo sviluppo"](https://robertolofaro.com/index.php?page=415)
+
+As I keep writing, Italy is still tribal- at the local and at the national level.
+
+Meaning: more than "commons", we have "tribal commons" and "no man's land".
+
+When I was living in London, as soon as settled considered buying an apartment there, as was planning to settle permanently.
+
+So, purchased a book on the UK real estate market: laws, regulations, business, etc.
+
+In Italy, except for independent houses, most flats are within a "condominium", i.e. all the common parts are co-owned in proportion to how large is your chunk of the overall property.
+
+And costs, coverage, maintenance are shared accordingly.
+
+Back then, in UK this approach was uncommon- and in multi-flat buildings the issue was exactly who would be responsible if something happened not in your own flat, but started in the common parts and affect your property.
+
+Also for mortgages, back then it was explicitly said that, unless there was something covering that risk, it would be difficult.
+
+Then, of course, there was the issue that a lease was not a transfer of ownership- just a kind of lesser ownership for the years remaining (back then had been recently extended I think up to 99 years).
+
+Once, in an airport, while standing in queue remember an American woman who complained that she had acquired an apartment in London at no small expense, but then discovered that just planting a nail in the wall to put a painting up violated the terms of the agreement.
+
+I do not know how the market evolved- but the purpose of sharing those two cameos from UK is to explain some concepts relevant to Italian privatizations.
+
+When in other countries was done a "privatization", usually, except "golden shares" for critical assets, it was a transfer of ownership.
+
+In Italy, many privatizations still retained the State or local authorities as significant shareholders, entitled (and interested) in dividends, and, without the confines of the Italian spoils system.
+
+So, if you were to look at the real (not the summaries that are posted on companies' websites) CV of many in senior leadership positions within privatized companies, you would see also the "political lineage" they are coming from.
+
+What is a State? To make it simple and short, we can look the other way around: how should a State relate with its citizens.
+
+Within the Italian Constitution, article 3 states:
+
+<em>"Article 3
+<snip>
+It is the duty of the Republic to remove economic and social obstacles which, by limiting the freedom and equality of citizens, prevent the full development of the natural person and the actual participation of all workers in the political, economic and social organization of the country.
+"</em>
+
+The privatization of utilities, e.g. telcos energy water, generated few issues: when local or national monopolists were delivering those services, there was the expectation to have a minimal level of "social" services.
+
+In Italy, where we still had 8,000+ towns for around 60mln inhabitants, some services were not economically viable from a pure private sector perspective.
+
+As an example, I remember attending in Turin events discussing why the broadband was late in Italy, and:
+_ private companies focused only on the high-value markets, where there was a higher concentration of businesses and inhabitants
+_ the EU funding covered providing broadband in smaller and remote villages, to avoid de-population 
+_ many Italian manufacturing companies are small, and are historically located on the outskirts of towns- where no company wanted to provide coverage.
+
+Many years earlier, remember when the utility providing water services to Turin had to absorb also the distribution network across the whole county of Turin.
+
+I was told that the village where my parents lived had a significantly large network that was obsolete, and that would be prohibitively expensive to bring it up (and keep it up) to the standards, as had less inhabitants than a single large building complex in Turin.
+
+Privatization was usually announced as having the potential to reduce costs and improve services.
+
+Then it was announced universal health service- but, gradually, were introduced elements such as allowing doctors to have their own practice "on premise" within hospitals, as a fractional activity toward their public service activity. 
+
+Then, private companies were involved to externalize services.
+
+If you look at my CV, you will see that my longest business experience (countless missions and projects) was for a banking outsourcing and BPO company- first mission (few days) in 1990, latest mission 2006.
+
+I had a chance to see chapter and verse of externalization, service management, issues with further externalizations- expanding on what I had seen in business since 1986, and also abroad from the 1990s.
+
+Since my return to work in Italy in 2012, I had routinely to interact with the bureaucracy of companies that had been privatized, or with private companies that had been transferred via externalization services that actually elsewhere are on the public sector.
+
+Meaning: from processes about querying the status of a process (why you should pay for that, directly or indirectly, e.g. via a membership fee? moreover, after those receiving the.externalization already get paid a service fee?), to actual decision-making/filtering processes.
+
+On top of that, as it was quickly seen that did not work as expected, we started piling up two things:
+_ external watchdogs, mimicking what happened in e.g. UK
+_ internal review processes that reported to the same structure
+_ internal review concepts (not processes) that were within the same structure to avoid external "interferences"
+_ external services to act as a kind of mediator between the parties.
+
+On the first and the last, I remember in UK how much were worth: once, a vendor failed to activate my business mobile line, so filed a complaint.
+
+The watchdog bounced back-and-forth, and then simply wrote to me that they were there to make the parties talk with each other, otherwise we could go to court.
+
+To which I replied: going to court against a company with a turnover of 700mln GBP and that is sandbagging? A waste of time and money.
+
+I was confirmed by an English colleague: due to the revolving door with industry, they nicknamed watchdogs "pussycats".
+
+Years later, I had an issue with a bank- they too started sandbagging to avoid reimbursing a fee charged on my account.
+
+A colleague former banker told me that it was exactly why those complaint services were there- assuming that eventually you got tired.
+
+So, he helped me write directly to CEO- and in few days my complaint was assigned to a director, and few more days was solved- without any further intervention from my part.
+
+Knowing the system, when an utility playing with the VAT credit system in UK (the bill, back then, included a potential discount if you paid earlier that the due date, due to quirk within VAT regulations in UK- pity that... all the letters were sent too late), found the way to make them understand that understood, and from then on, I had my credit.
+
+Shift to Italy.
+
+A State should retain internally processes that affect what Article 3 of the Italian Constitution states- not externalize them to the point that nobody is accountable.
+
+Externalization, as learned in outsourcing, should be on execution, not on accountability: if, then, the organization wants to start its own internal disciplinary inquiries, it can do so- but that should be decoupled from the actual commitment that the organization made when authorize to make payments to obtain benefits, once the payments have been completed.
+
+We had cases in the past that generated probably more costs that the case itself, e.g. the [Iraqgate](https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-filesations-10312.pdf) involving Saddam Hussein's Iraq, the Atlanta branch/subsidiary of an Italian bank, and also different governments, agencies, etc.
+In Italy, there was a different perspective.
+
+Privatization of utilities (including listed on the stock market) or externalization of control to almost self-regulation for filtering generate a structural transparency and accountability dilution issue, as will discuss in section 7.
+
+When I had an issue with a consulting invoice payment with an Italian customer, as the accounting office played the procrastination game, eventually the CEO intervened to release the invoice and avoid an encore- and in other Italian companies was told that this is quite common in Italy.
+
+So much, that a customer told me that some suppliers refused to work with them as every payment was a nightmare- "pagano poco e male", is how we describe it in Italian.
+
+Now, all those privatization and externalizations of processes that should be internal to retain ownership of accountability, usually are discovered only when something happens where the State actually identifies that lost the ability to properly oversee.
+
+Probably, we should learn to embed traceability in our processes- and on that said AI might help in exploring what is available to identify patterns, outliers, and spot the root cause that would help sort out.
+
+I routinely attend workshops on integrating AI within organizations- including the State.
+
+The key element to remember is that this rush to AI adoption should not forget what I shared in multiple previous articles, notably when wrote about "Frankenlaws".
+
+The European Union has 27 Member States- and we routinely try the "one size fits all", notably since 2019.
+
+In reality, we should recover the concept of "convergence" coupled with "harmonization": you always need the latter, but the former is not necessarily always the best option.
+
+Italy is not alone, and the June 2026 issue of a magazine from the IMF (F&D) had this table:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260701_04_01_mulder-table1-june26.jpg)</center>
+
+Yes, we are in for a wave of de facto nationalizations- our complex societies depend on a blend of assumptions. 
+
+In Europe, due to our demographic evolution, we have to take care of the health, retirement, and minimal services- it is a standard of living issue.
+
+Remove that, and you remove the reason to stay within the European Union.
+
+Geopolitical pressures are pushing toward different forms of joint nationalizations, as what was recently announced by President Macron and President of the Council of Ministers Meloni on nuclear power stations.
+
+Because "nationalization" is a concept, not a label.
+
+Yes, I am still a federalist who "believes" in subsidiarity and is bipartisan.
+
+In the next section, would like to share (again) some concepts and example, before the closing section.
+
+
+<u><b>THEORY</b></u>
+<b>THEME5: Unintended consequences of cognitive dissonance</b>
+
+I hinted in the previous section to all the discussions about integrating AI that I am attending.
+
+Yes, it is trendy.
+
+Yes, the conversational side, LLMs, makes it intuitive and attractive.
+
+Also, many politicians and administrators are absorbing concept such as
+_ will make possible 24/7 services
+_ no risks of "human bias" and associated issues
+_ can be easily monitored.
+
+Probably, in many bureaucracies, the last point is what makes it really attractive.
+
+Example: for various dossiers, I had phone calls where the counterpart states often misleading or utterly wrong information.
+
+When you are communicating with large organizations, usually they record calls.
+
+Still, who listen to that?
+
+On my computer, I have a local model (so that I do not have to pay a service) called whisper that use to transcribe audio when needed.
+
+If you were an organization, with such a tool integrated within your systems, but only used as alerting system, you would be able to spot immediately and intervene to amend, rectify, and pre-empt potential legal action.
+
+Why "only used as alerting system"? I worked in cultural and organizational change for decades.
+
+And I already shared how, once, refused to provide to a representative of the customer the questionnaires that attendees of training courses had filled.
+
+Why? Because the purpose was to identify knowledge gaps, amend if needed training material, and adapt curricula, as well as identify ad hoc interventions to ensure harmonization of knowledge across the organization.
+
+Not to monitor performance. Not to assess satisfaction with the company. Not to assess loyalty.
+
+If AI is used correctly, in my view, should be considered an assistant: recording nothing, sharing just the alerts with the person directly interested.
+
+Then, if the same alert type happen again, escalate to HR- not the details, but the areas of improvement suggested.
+
+Difficult to implement- but, in the future, our workforce will be used to dialogue with conversational AI as I see routinely on public transport.
+
+Cognitive dissonance derives from a difference between perception and reality.
+
+It is obviously a matter of having the signals and then selecting them, instead of looking only for signals that confirm your preliminary assessment.
+
+When you have 27 different states with different organizational cultures and different languages, the risk is that you will delegate to the European Commission or the European Parliament.
+
+And both live in their own "bubble". 
+
+Once you enter the structure, you are in the structure- and you lose the perception (and signals) of reality of the 27 Member States, and instead you adopt your own "filtering" system.
+
+Already in the early 2000s, when decided to prepare a new service, saw that often what was coming from Brussels was written by expert, for experts, and assuming that on the receiving end there would be the same mix of resources.
+
+In Italy, this implied that each one of those 8000+ towns would receive the same requests- be the specific location with just 200 inhabitants and 1.5 employees, or 800k inhabitants with 1,000 employees.
+
+Over the years, it improved, but there is still cognitive dissonance between the "issuing side" and the "receiving side"- as proved by the continuous revision and adjustment that, not only in the public sector, but also with private companies, generates a "Sisyphean reflex": you are almost there to the due date, and suddenly it is revised, or postponed.
+
+And you are left in the middle of nowhere: applying new rules that do not apply because you have already changed everything, or rolling back and tossing away everything? 
+
+Lucky if you can just sideline temporarily- but that requires resources, and people are not robots- if you spent months to train everybody on the new rules, and suddenly you say "no, sorry, we stay on the old ones", gear up for some unintended consequences- e.g. people mistakenly confusing old and new.
+
+A typical case of cognitive dissonance is "industrial policy", usually expanded to "European Union industrial policy".
+
+Well, if almost the article that posted in 2019 on [Per una politica industriale che veda oltre le prossime elezioni #industry40 #GDPR #cybersecurity / For an industrial policy that survives election cycles #industry40 #GDPR #cybersecurity](https://robertolofaro.com/index.php?page=138) has been read almost 50k times, despite being over 4,000 words long, maybe there is a reason.
+
+In Europe and Italy talking about "industrial policy" is almost compulsory- talking, not doing.
+
+27 Member States are not so easy to align.
+
+And the temptation of setting up a kind of "Gosplan ministry" is quite strong.
+
+In reality, we need more flexibility.
+
+Anyway, first, we need to learn again to think long term: it is nice to hear, as heard last week, praise for long-term thinking (the closing keynotes was on science in the next 250 years, from NAAS and Smithsonian).
+
+An example of short-termism is given by the "AI shift" of many consulting companies.
+
+You see these articles, and start getting worried:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260701_05_01_consulting-market.png)</center>
+
+Many larger Italian consulting (system integration, mainly) companies were born in or developed a significant presence in Turin.
+
+Of course- linked to the previous status as "company town" for the "industry of industries", automotive.
+
+So, rates were low, but business was continuous- moreover, this explain why many Italian companies that never went around Europe, show offices in Brasil, United States, and other locations where the former local champion had business units.
+
+Anyway, that created a "layer" of cashflow that supported expansion, acquisitions, and, due to the source, often companies adopted (more than adapted) the same organizational and process logic that were within the old FIAT.
+
+So, bureaucracy self-referential, processes convoluted yet now maybe automated, and really no organizational design- organizational "inspiration".
+
+The typical large Italian consulting company has multiple layers- when the late Sergio Marchionne arrived in FIAT and "flattened" the organization some 20 years ago, it was shocking for many in Turin.
+
+Well, I am biased: my outfit was an Artillery Specialist group, and we had an unusual high density of people holding a university degree, many in STEM- yes, you get a degree in biology so that you can go and hide under a lead blanked, inject yourself atropine, and report on the nuke blast that anyway is visible by everybody.
+
+The only time I went in a training exercise was in Sardinia, but we had already trained- and roles were assigned by competence, not by what was on your shoulder, as we had to report information to help artillery by looking practically at a small weather balloon.
+
+I know- my American former military friends would say that was so WWI/WWII, but that was the status back then.
+
+Now, how does this collate with the consulting point? 
+
+Our mix was needed to be able to provide what was needed, and we adapted.
+
+In our AI times, the mantra "less people for entry level activities" is already generating some curious changes- and, as Italy usually a little bit with a timelag, now I see implementing what was elsewhere done in 2025.
+
+A typical example of our bureaucratic approach is that, while a PESTEL (yes, I put environmental before legal) analysis would assess, before technicalities, market and demography, a purely technocratic SWOT would instead convert into long-term opportunities what at best are short-term and temporary windows.
+
+Example: if you visit my [huggingface profile](https://huggingface.co/robertolofaro), you will find both applications (chat bots- on articles and mini-books), and models (the above plus AI Ethics), as well as some additional tools.
+
+Do I plan to pivot to producing those models? Frankly, would be short-sighted.
+
+Because if you monitor research, already online there are on GitHub and ArXiv repositories and papers describing how to skip the preparation involved in embeddings etc, and last week in its own "FutureWeek" Microsoft presented how embeddings, vectors, etc can be directly managed and used (along with semantic search) with the latest version of its database.
+
+So, if you dump what would cover the health, retirement, basic services, to shift toward producing custom-trained "tuned" models akin to what I did as a showcase for my articles and mini-books, you are bartering what requires an organization and specific organizational structure, resources, capabilities, for something that will put you in competition with boutiques.
+
+If the technology stays: if the technology changes, you are just pivoting the company toward producing better horse shoes when the first cars appear on the road.
+
+
+<u><b>PRACTICE</b></u>
+<b>THEME6: An ordinary (Italian) case of bureaucracy</b>
+
+The title of a video interview with Sabino Cassese on the official YouTube channel of INPS, the national agency covering the welfare (retirement benefits included)?
+
+"Guardare l'amministrazione dalla parte degli utenti e non dalla parte degli erogatori dei servizi"
+Or: "look at bureaucracy from the customers' side and not from the vendor side".
+
+Subtitle: "Come migliorare la Pubblica Amministrazione: parla Sabino Cassese" (yes, "how to improve")
+
+[here is the video](https://www.youtube.com/watch?v=nFTtcbH6UhM)
+
+It is part of the modernization of the Italian State- and already over a decade ago, not just INPS but other parts of the State bureaucracy started talking the "service-orientation" and "customer-centric" lingo.
+
+Well, you may remember of when the CEO of my customer asked me to "walk the talk"- and I would like to be able to ask INPS and the Italian State to do the same.
+
+By accident (I was visiting my parents) in July 2018 heard at my parents' home a phone call with an employee from the INPS- that, from an organizational change consultant perspective, was mixing apples and pears- three threads that were clearly different.
+
+It was the beginning of a long journey- eventually, from October 2018 started sending on behalf of my parents only registered electronic emails (PEC is Italian acronym).
+
+Reason? As documented in a white book that published in late 2020, [a book essentially composed only of back-and-forth communication](https://archive.org/details/citizenaudit01), my parents in 1994 had filed a request to INPS to transfer some pension contributions toward the pension fund ENPALS (for actors etc) where my father had contributed since well before I was born in 1965.
+
+Instead of approving or denying within the terms of the applicable law, the answer came in 1999, asking to send the originals of the documents.
+
+Then, again in 1999, another letter from INPS, this time to ENPALS, informing them that from that moment on those contributions were "locked" on ENPALS- and that ENPALS should inform INPS if the "customer" decided not to go ahead (or halted) the contract once approved, so that they could release the contributions for other uses.
+
+Then, was approved in 2000- and it was written as a contract: stating how much would cost to transfer those contribution toward the pension fund ENPALS, conditions to accept, timeline to pay, and conditions also to change mind (i.e. stop the payments).
+
+In the end, it was relatively simple:
+_ you had to pay the first three installments to accept the contract
+_ then pay every other installment on time, with the possibility, if you already had retirement benefits, to withdraw from that
+_ my parents did the first three payments immediately, and the completion of the installments was between July 2000 and July 2010.
+
+Well, that book that linked above is the "short version"- with some data removed, as the full book with data is 150+ pages on just a single case (the book online covers also a different case that will discuss in the next section).
+
+That book that referenced above is quite long, and contains a specific case that started really in 1994, but at least, after receiving the last payment in 2010, should have generated positive side-effects within months if not weeks (e.g. specifically a change in benefits, and payment of arrears back to the December before the year when the request was presented, i.e. December 1993).
+
+As INPS is a State agency, its oversight includes the Parliament, but the different parts of the judicial and executive system are also there to oversee it, as basically, as was said recently in a conference in Turin, the State fills the gap and provides the funding.
+
+In that case, over the years externalization created a maze that no oversight could solve- notably, when the oversight includes those related to structures that actually are suppliers of externalized services.
+
+We are in July 2026, the last payment was done in July 2010, the discussion started in July 2018- you would expect that has at last been solved, following what that interview with Sabino Cassese from the official YouTube channel of INPS said?
+
+No, not really- we are still into "back-and-forth between offices mode": a typical old Italian bureaucracy game akin to that "sandbagging" adopted by the bank in London, that, in that case, was solved with a simple letter to where "the buck stops here"- the CEO.
+
+With INPS, lost count of how many PECs were sent to all the oversight and central directors- but resulting only in bouncing down to Turin, that then bounces up to Rome- and back-and-forth we go.
+
+Eventually, will prepare a second volume of that book- the first one was 2018-2020, in this case will started again from 2020, as it is when something seemed to move, but instead of solving what had been left dormant since July 2010, in September 2019 was done something that only in end February 2026 we were written within an email that was not what would have been needed.
+
+Within the dossier, you will find a curious case of a letter later in 2020 where, eventually, also the employee involved got tired: instead of sending just a reply, he sent back a reply but:
+_ it included the original request from our part
+_ it included what he asked to the level above
+_ it included all the escalation up to the directorship level
+_ then, it included all the dumping down from the directorship level basically across the same hierarchy
+_ ended with the invitation to the requestor to provide an answer to us.
+
+A catch: no information was added, just bouncing up and down.
+
+That exchange was in 2020, hence, all the organizational structure, vertically and horizontally, was informed.
+
+There are also other curious letters, such as when was requested to provide an attachment that was missing, and replied with a screenshot of their own system showing their request side-by-side with the attachment that was supposedly missing.
+
+Lost count of how many times one office wrote or told me (even as recently as few weeks ago) to talk with another office- that had already shared that the first office had not done what was needed; even funnier when they try to explain to me why everything is fine as misinterpret some data, and I have to quote directly what their offices wrote in 1999, 2000, 2020, 2026- so, the customer has to read the bureaucracy what the bureaucracy wrote after they misquote their own material.
+
+The curious part? In 2026, as I find curious public statements of transparency, innovation, acceleration, added as addressees all those that should control, oversee, steer, govern: so, at least the system confirms that they have all been informed- executive branch, judicial branch, and, in the past, also (in two different Parliament terms) legislative branch.
+
+Alexis de Tocqueville would be happy.
+
+It is still ongoing, and, frankly, eventually [prepared a couple of months ago also a script to summarize with a data narrative, a cartoon, and released it on YouTube](https://www.youtube.com/watch?v=voOZzuFIpms).
+
+The voice is in Italian, but YouTube can provide subtitles- and, anyway, designed the visuals to make intuitive the concept.
+
+It is quite representative of the typical cases when in Italy a bureaucracy gets stuck- despite what INPS sponsors in that interview with Sabino Cassese, it is the bureaucracy defending itself via procrastination.
+
+Why the procrastination? Look at the cartoon, and you will see... Bismarck- there is a catch within the law that makes cheaper for the Italian State to cash in the payments, but then procrastinate until the beneficiary or his spouse are not there anymore.
+
+I should consider that this is how the Italian State manages contracts.
+
+It is still curious to see the cognitive dissonance between the public communication, including that interview on their own YouTube channel, and the actual delivery in specific cases- as recently there have been other issues reported on media, affecting more than one person and covering multiple cases, e.g. on the preparation of documents.
+
+As somebody said, and not just in this case, also for banks, that all the work to reposition and improve done at the center is swept away from local issues around the country.
+
+Well, frankly: in business, it is called "governance"- we Italians have to work on the boring side of delivery, not just on the marketing.
+
+I will see how it ends- but it is quite interesting to make an organizational culture study out of that, before taking commitments such as those that I made in 2004 when, to be a fractional project manager and business analyst in Rome on Government projects, considering the "common interest", accepted to cut my rate from 1600/8h to 600+100/8h.
+
+Npw, this case represents well what happens in Italy with privatizations, externalizations, etc: bureaucracies become self-referential, and even the central structure is unable to have action delivered, while, on the receiving end, citizens and companies end up as in that cartoon from Bruno Bozzetto that shared often in the past: being bounced back-and-forth between offices until they get tired.
+
+An interesting point: while the State and local authorities are quite strict on due dates, "expiration dates" etc on the citizens' side (private and business), as you can see within the cartoon that linked above, all that communication about transparency, accountability, etc does not apply to bureaucracies- that can reply years later also when are supposed to reply within a specific timeframe that sometimes is counted in months.
+
+I saw that also with banks and utilities.
+
+Our concept of "normal" changed- and yesterday heard an Italian Minister announce organizational reforms affecting the 3.5mln of Italian "civil servants" (not really, but more about that in previous articles and a later section in this one).
+
+I must confess: heard it a few times in the past similar announces, and was also one of the reasons why, over 20 years ago, accepted a significant rate cut to work on Government projects in Rome, also if the government in charge back then was not from my political side.
+
+When it comes to making the State work, there should be no political allegiance- as we citizens are the State.
+
+While working in Rome, started seeing what I kept seeing since returned to work and live in Piedmont in 2012: organized tribal chaos that crosses all the Ts and dots all the Is of modernity- on paper and in word, but not on execution.
+
+Italy is a country that has a long history and, frankly, came to the XX century not structurally ready: as we were not ready for WWI, WWII, and the current geopolitical challenges.
+
+Not because we lack resources (we do, but resilience impacts on that- and we Italians proved repeatedly that, despite all the appearances, we can overcome or at least work around that).
+
+We lack organization- and, as wrote repeatedly, we lack a sense of the "shared common" which, actually, seeds organization: hence, when I hear "civil servants" and compare with my experience in UK, there is still a long way to go.
+
+Before talking about "civil servants", I think that that phrase from the Sabino Cassese interview should become an ordinary reality, not just a statement of intent.
+
+If you are considering moving into Italy or setting/acquiring businesses here, another paper from Sabino Cassese discussing years ago many of the points that heard presented by the Minister could be interesting- [L'ideale di una buona amministrazione: principio del merito e stabilit&agrave; degli impiegati](https://web.unica.it/UserFiles/File/News/2007/cassese_18gen2007.pdf)
+
+The outline (in Italian) is interesting, as lists many of the points still critical in Italy, and that discussed in previous articles:
+"
+Sommario
+1. stabilizzazione dei precari e precarizzazione dei dirigenti
+2. concezione patrimoniale dello Stato, v&eacute;nalit&acute; des offices, political patronage, spoils system, funzionari-parlamenti
+3. Merit e tenure nella formazione storica dell'amministrazione 
+4. Le quattro ragioni moderne della burocrazia
+5. Attualit&agrave; del merito e della stabilit&agrave; nelle funzioni
+"Another paper: [Il Sistema Amministrativo Italiano](https://www.eticapa.it/eticapa/wp-content/uploads/2016/02/IL-SISTEMA-AMMINISTRATIVO-ITALIANO-CASSESE.pdf) 
+
+Yesterday heard references to meritocracy, training, stabilization, quality of work and quality of life for workers, and having for managers their first assignment temporary, to confirm their managerial role after an evaluation.
+
+There is a point that quoted in previous articles and that often gets lost: if you take over a managerial role, in my view, you should not be liable for what your predecessor did- otherwise, the game is to get somebody into a managerial role when times are mature for a review, and move elsewhere who actually generated what will be revealed during the review.
+
+Sometimes it is included within reforms, sometimes it is not.
+
+
+<u><b>PRACTICE</b></u>
+<b>THEME7: Cascading consequences of short-termism</b>
+
+I had planned to discuss in this section another couple of cases that followed, but, while one of those is already within the book that linked in the previous section (specifically: how you can end up in Turin to find assigned to you the trash collection tax of your neighbor), will probably add the other cases to a future second volume of [CitizenAudit](https://robertolofaro.com/citizenauditcontent).
+
+Instead, would like to focus this short section on a general discussion and the outline of a specific case.
+
+My experience since 2012 in Turin and Italy overall shows that something went amiss across multiple layers of local and national government, including the capability to "control the territory" (physical and organizational) in a way that is consistent with the communication that is done by the political side.
+
+We also had recently issues more frequent in Turin, but I have been reported of other location having similar issues.
+
+The concept is simple: again, if you privatize but still retain an interest and urge to generate dividends, the structure where you have more than a say in deciding who stays or goes at the top will have an incentive to focus on minimizing costs and maximizing revenues.
+
+Also if that generates two levels of what amount to a form of taxation:
+_ increased costs for the same material given the same conditions
+_ taking care directly of "cushioning" potential consequences.
+
+We already had a similar more dangerous case not too long ago, when a bridge in Genoa went down, killing most of those who were on the bridge at that time.
+
+Again, privatization and externalization: the former on the bridge and maintenance, the latter de facto on controls.
+
+When worked in outsourcing, the concept was that you externalized execution, but while you had to report on quality, level of service, etc, it was the customer who had its own right to make inspections to confirm that you were delivery the service as planned.
+
+If you read [my Facebook stream](https://facebook.com/robertolofaro), you can see often posts on my birthplace, Turin.
+
+Unfortunately, most of them are about collateral damages of political or business choices.
+
+For various reasons, during the privatizations drive of the past, many local authorities privatized local utilities, with a triple potential benefit:
+_ could generate dividends
+_ as discussed above, allow to shift directly to citizens maintenance costs that otherwise would have required taxation
+_ Italian bonus: if a local authority has at least a partial ownership, can not just "influence" management- can have people hired.
+
+Many of those local privatization in Italy have been in the past used so often to generate jobs for local political patronage that, when local authorities with a deficit could not hire employees directly, eventually a center-right government wanted also the employees of those companies that were considered "partecipate" counted within the limitation.
+
+Why center-right? Because, back then, the center-left had more presence at the local level.
+
+Overlapping and conflicting interests are not limited just to local authorities- also at the national level it is a routine that removing or changing the leadership of privatized companies is not for the faint-hearted, as it is a political quagmire.
+
+The short-termism is actually a cognitive dissonance.
+
+Local authorities think in terms of their own cycle, while business investments in utilities might imply decades.
+
+I saw it already while living in UK, when a major rail disaster was shown to have been in part linked to the concept that companies received contracts requiring maintenance or interventions whose return on investment would have been possible only if the contracts had been two-three times longer.
+
+Example: if I receive a 3-years contract, and I am asked to do something implying investments that produce benefits after 10 years, accepting such a contract is a charade- as nobody of those involved is so gullible to expect it to be workable- it is just a rolling lie.
+
+So, if you push for dividends, it is not anymore a matter of "what needs to be done", but of "what needs to be done now".
+
+In Turin, privatization of utilities created different companies, but eventually a company shared with Reggio Emilia and Genoa absorbed different services- and a multi-utility is even more politically cumbersome that a single privatized company.
+
+As the company is private but has to manage the relationship with the local authorities and, absorbing different entities, it is just ordinary management to optimize resources.
+
+And optimization obviously starts with buffers that each company adopts when has to deal with external suppliers: if you are part of the same organization, you can take at face value process, service, data integration- and streamline whenever feasible according to the new post-integration risk assessment.
+
+I actually did some number crunching in post-M&A integration in the past, and it makes sense.
+
+Still, it relies on a constant update of the risk model.
+
+Over the last few weeks, Turin has been routinely subject to a wave of blackouts.
+
+It is not the first year, and this is already an issue.
+
+Anyway, 2026 has been really warm, and apparently the capacity to deliver what customers assume to have on their contract as maximum power that they can "extract" is not the capability that the provider is able to deliver- also because the physical infrastructure, due to the heatwave, is under stress.
+
+Seen from outside, what surprised me is a sequence of news items (that you can find on my Facebook profile):
+_ announce about to solve from Mayor
+_ counterpoint from Iren at least one year
+_ announce Board meeting of Iren
+_ announce prioritization after board meeting
+_ immediate result next day risk of losing power to the water treatment plant, that was offline for few hours, but then provided emergency power generators.
+
+Considerations from an organizational change perspective, leaving the details to the posts that shared on Facebook:
+1. if it happened already in previous years, then why there has not been a re-assessment of capabilities?
+2. I understand the media pressure (and a local "executive order" from the Mayor)- but you need crisis management teams, not the Board, to meet
+3. if it happened before, you would expect that those crisis management teams would have already degrees of freedom of intervention- not to wait the Board
+4. if the crisis at the water treatment plant was solved that way, why there was no pre-emption, considering that for days blackouts had been common?
+
+The title of this section is about "short-termism", but there is an element that many forget.
+
+I used the case of utilities for a simple reason: if weather events are more extreme, all our plans that stated that a risk was "one every 1,000 years", maybe should be re-assessed.
+
+And this would have impact on investments, "buffers", crisis management preparedness, and allocation of resources: goodbye most of the dividends.
+
+Yes, there might have been sheer short-termism (e.g. more dividends in all the companies I worked for implied eventually cutting on R&D, maintenance, etc).
+
+But, probably, simply nobody at the Board level assigned a mandate to revise all the risk plans assuming the new landscape, and the recent trends (talking about day and weeks, not decades).
+
+Electricity and water are easy to spot and critical- but how many organizations work assuming that both will have continuity, and have critical productions or services depending on that continuity, with no fall-back to avoid costs and maintenance of scarcely used infrastructure and equipment to be used for that "fall-back"?
+
+As wrote in previous sections- we have a difference concept of ordinary, we should better get used to it...
+
+
+<u><b>PRACTICE</b></u>
+<b>THEME8: Shifting a local industrial ecosystem</b>
+
+Turin used to be the automotive capital of Italy- and will not repeat here what shared in previous articles.
+
+I will just focus, again, on the cognitive dissonance elements.
+
+Example: I shared in the past what was within an old International Herald Tribune article, of when Renault sold a truck production line to a Chinese company.
+
+The line was using robots and, after a short while, in China robots were removed.
+
+Obviously, the comment was that China is not yet ready for advanced technology.
+
+Later, people were removed and new robots installed.
+
+Reason? From the Chinese side, it was told that the old robots were too maintenance-intensive, so they simply removed them, put people to study processes and activities, and then designed new robots and new processes that were lighter on maintenance and costs.
+
+So, shifting an ecosystem requires adapting before adopting.
+
+In Turin, shared already how there is currently a feeding-frenzy on the defense industry, as a safeboat for local companies that risk being made idle from the latest and forthcoming rounds of changes in Stellantis.
+
+Issue: if you are used to mass-produce parts that need to have a lifecycle of few years in a consumer market, the defense industry has smaller production runs requiring different standards.
+
+An airplane might be like the B-52: still running decades later.
+
+How many modern car could run for two decades (ignoring the emission laws)?
+
+Another cognitive dissonance: Turin received as part of the reorganization the "circular economy side".
+
+What does it mean? Extend the life of vehicles by streamlining repairs into replacing what needs to be replaced, and recycling everything else (I am oversimplifying).
+
+Now, it makes sense to use people for vehicles that were not designed for that approach- at most, you had highly customized interventions in repair shops.
+
+Converting that repair shop approach into a production line implies studying which processes could be set up in place, and how.
+
+Then, using that knowledge to actually feed the design of new vehicles, to make easier to have a kind of Lego bricks approach to vehicles.
+
+Net results? For a while, on older vehicles, process-based repair and recycle might be less expensive than traditional repair shops- and put the latter out of business.
+
+Then vehicles will be designed to be repaired- and, probably, automation will be possible.
+
+Hence, using expert people in "circular economy" activities is not building their own employment future- it is building a future revenue stream that offsets other revenue streams currently allocated to others (e.g. repair shops), while eventually making redundant those who actually made that automation possible by using de facto this "circular economy" as a "design-thinking" shop.
+
+Recently it was announced that Marelli, the component maker that as part of the FIAT group was called Magneti Marelli and included dozens of companies (I know because my first decision-support project and third project for Andersen in 1988 was... to work on the final phase of group-reporting application), will be probably part of an agreement between Exor/Stellantis and a Japanese company, to each take part of the assets.
+
+If you read past articles, I never considered selling Magneti Marelli a good idea, considering how vehicles in the future will shift toward a longer lifecycle as, instead of ownership, more often will be on a "pay-per-use", and, therefore, will need to be kept working- hence, more repair parts.
+
+Anyway, if you blend this latest news item with the "circular economy" part that shared above, it makes even more sense.
+
+Another element on the territory is the truck and business vehicles producer Iveco- the defense part will go to Leonardo, but Tata recently announced that the postponement of the acquisition is just that:
+"Tata Motors expects Iveco acquisition to conclude by Q2 FY27" 
+([link](https://auto.economictimes.indiatimes.com/news/commercial-vehicle/tata-motors-nears-completion-of-iveco-acquisition-by-fy27/132067306))
+
+Excerpt: "non-cyclical businesses grew 18.2 per cent during the year, with spares and services contributing a larger share of profitability".
+
+Again, the same point.
+
+If already in 2012 Porsche could say in Milan during a business event that a fifth of their revenue was from software and services, that composition is bound to become common also for non-luxury vehicles, including commercial vehicles and, probably transportation vehicles.
+
+The point is: the territory of Turin has a significant past expertise, but is it ready for the future?
+
+When people look at projects, most people look at the "deliverable" of project management- but forget (notably for those who worked repeatedly on project recovery) what implies and how much work is invisible.
+
+You have to have latent capabilities emerge and converge toward shared purposes, notably in multi-vendor and multi-stakeholder environments.
+
+AI can replicate patterns- but while in self-contained projects with no external influences (I still have to find one, since the 1980s) might work, the "non-repeatable as is" nature implies a level of mutual interaction by all those involved that requires orchestration, non just plan execution.
+
+I had interviews with AIs for project management roles, and routinely declined training AIs on project management.
+
+Not just because it is a non-repeatable business if successful.
+
+But also because AI feed-back on that sounded as if were to extract a pattern and making it universal, while was highly contextual.
+
+Anyway, I saw the same mistake in many managers trained more by "painting-by-numbers" than "on-the-job training" (i..e learning by the usual briefing, observing, debriefing on what they observed, delegation, debriefing on what observers saw them doing, and then finally flying solo).
+
+For some types of projects, probably we will see more AI+human couples- with AIs covering what currently most junior PMOs (or, in smaller cases, PM themselves) do, and fractional PMs working on multiple initiatives at the same time. 
+
+As discussed within the "circular economy" part above, the temptation is to learn, formalize, and then automate- removing the source of that learning and formalization (i.e. people).
+
+My critical remark is always the same since 2023: if we really remove people from the equation when it is feasible, when will people learn the basics "on the ground", to then grow in seniority and experience?
+
+The risk? that even we humans, a decade down the road, skipping the basics, will really be unable to do anything better than replicating patterns, as we never experienced the "facepalm" experience of learning and being explained why what we did should have been done, in that specific context, in a different way.
+
+But AIs probably will enter into the "ex-post" phase soon, and give the illusion that, as can easily spot patterns ex-post, can do the same pre-empting.
+
+As [shared on Linkedin a while ago](https://www.linkedin.com/posts/robertolofaro_i-concur-most-people-look-at-the-deliverable-share-7472584763653124096-kBgz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg).
+
+So, the "business case" of Turin will be an interesting conflict between short-term temptations and long-term identification of potential impacts.
+
+As saw since my projects building models for Financial controllers, senior management, Cxx in the late 1980s, being able to design scenarios and revise them implies having learned to spot signals- also by making mistakes when the impact of those mistakes is minimal (i.e. studying or in junior roles).
+
+Turin was almost a closed system, for few decades, akin to those USA military bases abroad that had their internal shopping mall, gym, movie theatre).
+
+Repositioning systemically a territory (and applies not just to Turin) implies not just thinking about the destination point (that might evolve), but also assessing capabilities you start with, and consider the journey and potential impacting factors, both endogenous and exogenous.
+
+As stated in a [recent Foreign Affairs article](https://www.foreignaffairs.com/united-states/survive-artificial-intelligence-shock-davidson-slaughter):
+"According to the Federal Reserve Bank of St. Louis, AI-related investment accounted for about 39 percent of total U.S. GDP growth in 2025. That number is set to go up in 2026. According to the Financial Times, the four largest U.S. âhyperscalersâ in AI and cloud computingâAlphabet, Amazon, Meta, and Microsoftâplan to increase their collective capital spending on AI in 2026 to $725 billion, a 77 percent increase from the roughly $410 billion they collectively spent last year."
+
+The title of the article? About surviving the AI shock.
+
+
+<u><b>CONCLUSIONS</b></u>
+<b>THEME9: Bundling the unbundled</b>
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260701_09_01_impacts_of_unbundling.png)</center>
+
+Yes, the unusual use of Feynman diagram (my variant) for organizational change is a summary of this article.
+
+And, yes, this long article/mini-book is composed of 9 sections- but each section is just the incipit of a further publication.
+
+If you want to introduce change, you have to consider the real context, not the supposed one.
+
+Do not expect to catch everything- there will still be some "photon" escaping, that will stir the waters and generate doubts, resistance to change, event attrition and proposed alternatives.
+
+The point is that, if you get a mandate related to what you see on the right on the picture, you also have to consider and monitor the evolution all along.
+
+When in 1993 I had my role as program manager on cultural and organizational change, as the customer needed me from January and we met right before Xmas, I was hired as a freelance, due to some hiring constraints specific to the banking sector back then.
+
+Anyway, as the role was a managerial role, I discussed and we agreed both on the overall mandate, and an approach that implied an annual contract, but routine revisions (more or less quarterly), plus specific milestones and, of course, ad hoc.
+
+So, prioritization was not just at the beginning- was continuous, and integrated with communication.
+
+If you do change as a painting by numbers, at best you miss opportunities, at worst, you generate unnecessary friction and regression.
+
+In our new context, we need to learn to virtualize our organizations, while building continuity also with staff that, to optimize allocation and use of their competencies, probably will operate across multiple customers.
+
+So, contextualization will be critical.
+
+Last week, as part of my monthly blog release in Eastern Europe, released an article about the risks of tribalization ([A week long party and tribal courts](https://www.frype.com/robertolofaro/blog))
+
+As I wrote before, and as many now are saying- if you data and processes are dubious at best, introducing AI as a big bang will probably generate a big crash.
+
+I would like to share two posts on linked where I commented material from others:
+_ [how to survive the AI shock](https://www.linkedin.com/posts/robertolofaro_how-to-survive-the-ai-shock-activity-7475226555628064768-J25L)
+_ [a practical case on token economy](https://www.linkedin.com/posts/robertolofaro_token-economy-activity-7475837706200145920-OE6X)
+
+When you introduce AI, moving forward, now that models are improving, it is better to consider also "layering" your use of AI- no model fits all uses.
+
+Also maybe having some parts of your AI pipeline that are done locally.
+
+For example, in that second post, showed how, after adapting so that my MorningNews is closer to being "model neutral" (I am testing it also on offline local models that are open source), saw that Kimi required around 50% of the tokens that Claude required- for the same product (minimal differences).
+
+When you use AI, you should get used to do what I did in the 1990s when designed a vendor evaluation model for a customer: covered both tangibles and intangibles about the vendor.
+
+You do not buy just a product, you also buy:
+_ the capability to solve issues within the product fast
+_ the capability to help you in future integration/data exchange issues with the product
+_ you evaluate also response times, costs-per-unit of intervention, frequency of intervention expected
+_ also you evaluate the running resources needed (in this case, compute/tokens, but in other cases would include also "human time" before and after)
+
+If, to produce the same results, it costs twice as much, you have to justify the gap in terms of risk mitigation and future potential.
+
+This article was about cultural and organizational change, but wanted in this section and previous one to highlight potential impacts of AI.
+
+With current technologies, many of the externalized or outsourced processes could get back with local authorities and the State, improving accountability and transparency.
+
+Anyway, the transition should include also consideration for those who are neither digital nor AI native: as with bank branches, probably the best option, saving also costs, could be simply to decouple the "what can be internalized" from "what anyway did not belong to the local or national authorities to start with".
+
+Or: the knowledge footprint of those helping those not used to technology to use the new AI-imbued systems and processes to interact with local and national authorities, would be much lower- more an assistant in using the AI-based part, ,than somebody who has expertise.
+
+Anyway, redesigning organizations and processes is not something that you do in 20 words (and not even 20k), but is linked to the context.
+
+Will update in the future on how things evolve, but for now I will close the article by sharing that soon also my Hamster friends will be more present more often.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/07/20260701_09_02_hamste.jpg)</center>
+([you can find more here](https://www.facebook.com/profile.php?id=61580594577830)).
+
+Stay tuned!

@@ -1,0 +1,283 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260804_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/rethinking-organizations) series.
+
+And yes, will focus both Italy and the European Union, but focusing just on the domain covered by "dual use".
+
+As customary since mid-July, will be (for my standards) a relatively short article: and its content will be developed in future articles.
+
+Actually, as shared today via WhatsApp with some connections, after posting on [my Linkedin profile](https//linkedin.com/in/robertolofaro) some remarks, what you see within the title is something that, from different angles, already was hinted at or partially discussed within [75 articles as of today still available on this website, and published generally between 2012 and 2026](https://robertolofaro.com/search.php?tag=dual_use_technology_security).
+
+The aim of this article is to discuss how the concept of "dual use" could evolve- as in event upon event in Italy I heard about disappointment at the lack of results of all the initiatives to increase the number of innovative startups (more in a later section), and discussions or hints on how...
+
+... to avoid startups and talent to leave the country.
+
+Why now? The focus currently is not anymore on technology that by its nature is potentially dual use (e.g. helicopters that, as in the 2005 movie ["Lord of War"](https://www.imdb.com/title/tt0399295/), may or may not be considered weapons depending on "accessories"), but on technology that since inception is defined by its integration, in a continuum where "dual use" is more fluid, not static.
+
+The key risk? 
+
+Actually, the June 2026 [Executive Order 14409, "PROMOTING ADVANCED ARTIFICIAL INTELLIGENCE INNOVATION AND SECURITY"](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/) contains clauses such as <em>"develop and maintain a classified benchmarking process to assess the advanced cyber capabilities of AI models and determine the threshold at which an AI model should be designated a 'covered frontier model' for the purposes of this order, sharing such assessments with AI developers and researchers as appropriate"</em> and <em>"provide the Federal Government with access to covered frontier models, subject to appropriate confidentiality, cybersecurity, insider-risk, and intellectual-property protection, use, and nondisclosure requirements, for a period of up to 30 days before they plan to release such models to other trusted partners"</em>.
+
+Yes, it states that <em>"Nothing in this section shall be construed to authorize the creation of a mandatory governmental licensing, preclearance, or permitting requirement for the development, publication, release, or distribution of new AI models, including frontier models."</em>- but then public announces were to consider anything using technology generated in the USA as leading to a path of deciding who does what when.
+
+You just need to read at the long history of the data privacy and access to confidential information, to see how it is a one-way street.
+
+So, does each EU Member State define its own "dual use" approach? And how effective would be even a EU-wide structural consistent approach to the same concept (and confidentiality, and market-restrictions), if we keep basing that on USA-generated technology that needs just another Executive Order to shut the door, or to require USA-citizens and green card holder to abide by it, wherever they are?
+
+As hinted above, I still heard in Italy way too often commentary reminding the Cold War but still assuming that there was a unite Western bloc with shared purposes, not a layering of purposes, and a single Eastern bloc: fine for Orwell's 1984, but our world is a little bit more complex- and even recent statistics on the use of models state that many USA companies spend their tokens on Chinese frontier models, not on American ones.
+
+We live in a world where war is not necessarily done with bullets and missiles- but also with economic and technological means, as shown by the XXI crises and even the recent support to the Yen by the USA.
+
+The table of contents:
+_ A_Personal journey
+_ B_Brave new world
+_ C_Needs and means
+_ Conclusions and next steps
+
+
+<b>A_Personal journey</b>
+
+Since 1993, when first supported startups in Italy, found that Italy was still stuck in Cold War "bloc" mindset, but blended with the typical Italian approach to public procurement:
+_ Who you know is more relevant than what you know
+_ If what you propose has no "friendly" supplier, can get shelved until such a party appears
+_ Then, as I was told personally in at least one case, and have others report to me, when such party appears, things suddenly move at a fast clip
+_ As shared in the past, I also received "pre-emptive strikes": such as being asked to leave 50% on the table if I wanted to proceed and avoid opposing forces.
+
+Decades ago, while working with American and European colleagues first in Italy then in UK, France, and German Switzerland, I cross-checked with some of my contacts who, before working in consulting or banking were working in other environments, how it worked mainly in USA, and also in other countries.
+
+And they described a different approach from the "tribal" one that found in Italy.
+
+I remember (and shared in the past) a curious suggestion by a local partner in Turin to see funding for a startup that I was supporting on business and marketing planning.
+
+Why curious? Because he told me that they had a significant amount of money to invest, but were unable to allocate them- not for lack of startups, but for lack of requests.
+
+I had a quick look at the conditions, and understood why: it was clearly stated that, unless one of the shareholder of the fund was between the shareholders of the startup, a conditio sine qua non was that the founders of the startup would transfer commercial rights to the organization: imagine then looking for further investment, if you basically received investment only to develop something that you would not be able to sell.
+
+I shared in the past other "tremendous opportunities" that either I or colleagues received- and, in this climate, you understand why developing in Italy what elsewhere could command millions in VC investment and other investors and then turn into listing on a stock market is therefore a risky choice: unless you are confident that you can "control" that market (i.e. also if a tribe tries to interferes, there is really limited or no chance that could take over the idea and develop it without your founding team).
+
+I will just start by saying that, if I supported startups in Italy since 1993... continued to do until 2010- but then stopped.
+
+As never saw a penny also when the startups survived and were sold to third-parties, e.g. as a startup told me once in Turin when, after two years was still alive and was time to pay deferred income and deferred equity, they had transferred all the assets to another company: "sue us" was their reply.
+
+Only to then come back later when had decided to sell, and needed to negotiate a structure the agreement, and offered twice but...
+
+... again after the transfer of the company was completed: I told them to have fun, and never worked again with any of the founders.
+
+Since 2012, I lost count of how many times turned down local "tremendous opportunities" in Turin: in a tribal society, unless you have a tribe behind you (money is not enough, in a tribal society- connections that can apply pressure are more relevant), any contract is eventually open to renegotiation or even the trashbin.
+
+With AI, frankly, there is another reason: I spoke with way too many who, in the end, presented a company that had no product or service- were just "wrappers" around somebody else's model and data.
+
+Fine if you build something differentiating, but if your value is just "being the first" on something that anybody can replicate and actually improve by having better models, a deeper dataset, or a larger portfolio of customers...
+
+I wrote at the beginning of this section "personal journey"- but so far wrote just about startups: in our times, "dual use" in technology of course implies AI and its uses and integration in products and services.
+
+When, during the COVID times, I was confined in lockdown, I spent my time studying- as at least had a "window" of one or more months to focus.
+
+Focus on what? Expanding my update on AI that I had started in late 2010s, leveraging on 1980s-1990s limited activities (first for fun, on PROLOG, then for business, on DSS, then blending both) and 2000s following evolutions.
+
+I was relatively lucky, as in 2019 had already used few times online AI compute facilities mainly for data science and limited "testing the ground" on [my Kaggle profile](https://kaggle.com/robertolofaro), and focused on actually publishing datasets that developed from either open data or from scratch.
+
+Aim? I wanted to see if what I did 1980s-2000s for customers using corporate software licenses could be done with open source- it was, but with a continuously evolving landscape.
+
+In 2020, there was another element: some electronics projects that conceptually had in the late 1970s to early 2000s (mainly reading books, tinkering with my home computer hardware, and thinking potential products while also supporting startups on physical products since the early 1990s).
+
+Now, could adopt new technologies that were ludicrously cheap- from sensors to "systems-on-chip" (SOCs).
+
+Hence, bypassing local shops that anyway procured their material in China and the applied a hefty markup but delivered no value-added, went the Ali Express way and acquired components for what a colleague called my "portable electronics lab"- including courses that will follow fully when will have time.
+
+Meanwhile, since summer 2022, expanded my program and project management knowledge going beyond the organizational and IT experience I had had since the early 1990s, by adding courses on program/project management within infrastructure and electronics-based product development.
+
+In part refreshing to 1980s concepts on product development that acquired to Anglo-American partners, BOM (Bill of Materials), MRP, production logistics, plus what I had learned by supporting different startups (including, in UK, to actually support a marketing company to position a spin-off with physical products to be sold: did not go ahead, we did not earn anything, but learned a lot; with other product-based companies, at least our feasibility and marked development consulting activities were paid).
+
+Actually, few years ago, for a cycle of courses on engineering a product (a delivery drone for a fictional chemist chain), had to apply the concept to develop a full plan on a product, including costing etc.
+
+Something that I had seen in the past for startups and business software companies, but following a different framework- nice conceptual test for something that will need later, a journey that shared in 2023 within ["Organizational Support 05: A flying project"](https://robertolofaro.com/index.php?page=508) shared the journey (was about converting a drone fleet so that could deliver prescriptions to patients at their home).
+
+The key point: as shown after the invasion of Ukraine, it is not the technology that is really dual use, but its application- as any current technology embeds the potential of being used for different purposes, courtesy of the introduction of electronics (also without AI).
+
+
+<b>B_Brave new world</b>
+
+The current technological landscape is not the one we were used to in the 1950s, when the "Iron Curtain" was both a conceptual and physical barrier to decide which technology could be used where and when. 
+
+On AI, there was that comedy of errors that was first the banning from Government use, then temporary "iron curtain" the latest Anthropic models, then new guidelines on "leading edge" AI models originating in the USA: a completely different "world order".
+
+When did the check with my non-Italian colleagues abroad about how a potentially dual use patent would be treated, they told me that if the company was too small, and the product was blatantly dual use or critical for security, could actually assign patent and manufacturing to a "vetted" main contractor, and find other ways (e.g. project management of the production, advisory roles, etc) to provide for the actual originators.
+
+So, apparently, at least outside Italy are not anymore in the times of the famous [Hedy Lamarr patent about frequency-hopping](https://airandspace.si.edu/multimedia-gallery/image/4790640jpg) and others.
+
+I do not know if it is true or not, but over a dozen years ago, when I asked about a potential dual use patent in Italy for a third party, was informally advised against- as could be stopped before even filed, and would be transferred to a company that was already "accepted".
+
+Anyway, an article from the 2026-07-27 published by Italia Oggi states that, [despite tax incentives and all the paraphernalia about support to startups, innovative startups in Italy contracted by 19% vs. the peak of 2021](https://www.pressreader.com/italy/italiaoggi-sette/20260727/281724096339788?srsltid=AfmBOoojCJN__jMFenotU4Yt_aiMFvXQqL9Z_2b0GbFcmEnux3ra_qpJ).
+
+Then, we have another issue: in my mind, and when talking with foreign colleagues, "innovative startup" is an entity built around a product, a service, a technology that disrupts existing practices, and potentially develops a new market.
+
+In Italy, I keep reading about "innovative startups" or "scaleups" that frankly are more aggregators or raiders, providing products or services, than "focused".
+
+Recently a company that in Italy is considered my many a tech startup but [actually has been growing via acquisitions since its founding](https://medium.com/@vcnewsfr/bending-spoons-the-grittiest-company-in-tech-49d90bbf8ba8), after listing on Nasdaq, had a first significant announce.
+
+An [acquisition in the USA](https://www.ilsole24ore.com/art/primo-colpo-il-nasdaq-bending-spoons-rileva-airtable-1285-miliardi-AJFycKe).
+
+Also another company, Prysmian, [announced an investment in the USA within the data center industry](https://ilsole24ore.com/art/prysmian-rilancia-mercato-usa-rilevando-aktor-33-miliardi-AJ7kyOd).
+
+Hence, following a reading of the recent announces from the White House, we are actually exposing also technology developed in Italy to potentially falling under the coverage of those "anything that used USA technology" provisions.
+
+Ditto for the recent announces of a network of "compute farms" in Europe using Nvidia technology.
+
+If you consider investment in AI and compute facilities strategic and critical for the future capability of developing technology to keep ahead with leading innovations, we are following a puzzling path, within the European Union.
+
+We are creating regulations, but then the products and services subject to those regulations increasingly are not produced in Europe, and access to the latest technologies that we are trying to regulate should not be taken for granted- as hinted within the introduction (e.g. the Executive Order), and will be further outlined within the conclusions. 
+
+
+<b>C_Needs and means</b>
+
+There can be a different approach: while living in Brussels decades ago, I remember buying a product, a 3D mouse that you attached with straps at your fingers.
+
+I found curious the technology and started looking at how such a technology could become a consumer product in Brussels after coming out of Israel, considering that was blatantly dual use.
+
+What I had read already in the 1990s in reports e.g. from the USA's NAAS environment, was that actually a small country such as Israel could finance technology by willingly blending civilian and military uses.
+
+This resulted in the development of the much studied ["Silicon Valley of Israel"](https://en.wikipedia.org/wiki/Silicon_Wadi), born out of necessity.
+
+It is akin to a choice much later in China, at a time when the PLA had issue financing itself, of [providing trade licenses to help self-finance](https://en.wikipedia.org/wiki/Business_activities_of_the_Chinese_military)- somebody went a little bit too far in becoming entrepreneurial, but let's just say that eventually that was brought back under control in China (not before some side-effect on the development of Chinese businesses elsewhere).
+
+However you look at it, also if we in the West constantly refer to the role of e.g. DARPA in fostering the development, we are too often still developing technologies "top-down", i.e. by political choice, not as an "emergent" reality that survived markets, and develops by aggregate.
+
+Despite all the communication from Brussels (and many European Union capitals) extolling the virtues of free market, private enterprise etc.
+
+Just to repeat what shared in other articles: I do not think that a purely free self-regulating market is the best choice for a democracy, and the financial crises since the beginning of this century should be a proof that we went often too far, and then taxpayers had to foot the bill of private mistakes.
+
+Currently, compute and AI are "raw materials" for innovation across product design in any industry (e.g. simulation of physics, accelerated product development, testing theoretically the behavior of materials and molecules not yet existing in reality, assessing impacts of flows and data).
+
+The European Union is called a Union, and has some "federalist" elements- but, by and large, beside technocratic "shared domains", it is still a confederation of independent Member States whenever there is a conflict of interests- I will not discuss the immigration or defense (defence for my British and Continental friends), as will share more about that in future articles.
+
+I am still waiting to see how the 28th jurisdiction that was announced by the President of the European Commission will work- notably on two domains, considering the scope of this article:
+_ defense is still by country- what would a "dual use" company have to align with, in terms of compliance?
+_ maybe taxes etc will be sorted out- but what about patents (as "dual use" often is linked to that) and litigation cross-EU?
+_ yes, we have a shared horse designed by a committee that is called the "European Defence Fund", but it is really tiny
+
+On the latter, you can find [more material here](https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf-official-webpage-european-commission_en).
+
+The 28th jurisdiction would need some crossing the Ts and dotting the Is in any domain- but anything related to "dual use" (real or potential) would create a regulatory nightmare, if the European Union Member States will not converge on a shared "security posture".
+
+Still, I think that a proper definition of a "dual use" concept across all the technologies listed should develop a cross-EU consensus (list from the website):
+<em>
+* Artificial Intelligence in Defence
+* Quantum in Defence
+* Cyber in Defence
+* Biotechnology in Defence
+* Multi-Domain Combat Clouds
+* Drones and Counter-Drone Systems
+* Electronic Warfare</em>
+
+Look at that list: if your remove "in Defence" or "Combat" or "Counter-Drone", or the all-encompassing "Electronic Warfare", those are technologies that will be pivotal for any future development of our societies.
+
+If the concept of "dual use" retained is the old one (blocking and filtering), we actually risk creating yet another Gosplan approach.
+
+We need to create "enablers", as eventually became Silicon Valley or also the more recent initiatives in China, and then in parallel increase and accelerate the defense (or defence, if you prefer) side of the research- in parallel.
+
+Private companies, except few multinationals, lack the expertise to really develop and operate unified architectures built around critical national infrastructure at the scale required to build a comprehensive defense on a territory as large as Europe- but can contribute the building blocks, and become partners within each new development.
+
+It is not a matter of knowledge or purchasing power: it is simply a reality of our economic system.
+
+When companies go lean, externalize, outsource, they rely on external partners/providers that are focused.
+
+And each one adopts a risk model to channel investments: would you, in the private sector, invest on infrastructure assuming to be able to sustain on a daily basis the impact of an event of once in a 1,000 years?
+
+As shown in recent recurring floods in Europe, Italy included, even the public sector is still considering events potentially occurring once in 1,000 years what now sometimes occurs once every 10 years- and investing accordingly, and the fixing ex-post.
+
+If you shift to the defense side, consider what should be considered "critical national infrastructure" (as I wrote in the past, somebody should redo a modern version of the old "Black Ice" study): all the technologies listed above should, in a refresh on that concept, be considered- in terms of impacts, resilience, and preparedness.
+
+Now, any CEO and CFO who were to present to their Board investment plans on that line would probably be shown the door- as none of those investments align with not just the bottom line now, but even the life of most assets.
+
+Hence, while those technology might start in the same research labs, their "applications" that qualify as "dual use" might require a completely different mindset and timeframe.
+
+Like or not, we would need research facilities that are aligned with technological trends, work on emerging technologies, but then adopt their own unique and specific perspective in their integration: some of those research activities could actually, as for Israel, shift to the non-military, and viceversa- but we need a continuum in research to improve efficiency and domain-specific efficacy, not just a rubber-stamping ex-post.
+
+It will be interesting if, beside procurement for technologies, the new "EU-wide dual-use paradigm" will generate also parallel research facilities.
+
+It is a routine to see protests against the collaboration of universities with research for defense and overall security uses- and the highlight on [Ethics in EDF](https://www.youtube.com/watch?v=WtiYvoeMFo0) is welcome- also in my [monthly AI Ethics Primer](https://robertolofaro.com/aiethicsprimer) that published since July 2023 and currently halted while preparing new publications, without much fanfare, included papers about AI Ethics and autonomy in weapons systems- albeit, on that side, I am closer to the [position of SIPRI](https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/autonomy-weapon-systems).
+
+Only, again: where does the civilian side ends, and the security side starts, when e.g. you design and build coordination systems for swarms of drones?
+
+Being in Europe, probably by coming late to the game we can avoid the over-classification that marred the USA initiatives in that area: when everything is classified, classification loses meaning and becomes really just a huge carpet to sweep mistakes under.
+
+Now probably you understand why the title of this section was "Needs and means": as we are going to build in Europe our own approach and our own defense industry and posture, we should never forget that we are still an open society and should find the right balance between transparency and security, and avoid to blur the boundaries so much that, a decade or so, a future President of the European Union would have, at the end of the mandate, do an encore of President's Eisenhower [famous speech about the military-industrial complex](https://www.youtube.com/watch?v=CWiIYW_fBfY).
+
+Everybody quotes just the famous phrase- but within the European Union we are now at the same threshold that President Eisenhower stated when he said that none of his predecessors ever had a military-industrial complex as large as it was in 1960: hence, we can learn lessons from history while building our own
+
+
+<b>Conclusions and next steps</b>
+
+We have a key difference from 1960.
+
+President Eisenhower was talking about "big science and research", with the "solitary inventor" replaced by teams.
+
+Nowadays, solitary inventors relying on the aggregated knowledge and distillation from experience of countless of humans across centuries that is contained in large language models can actually generate something new that really represents not just a team, but even potentially a dream team of the best of the best.
+
+Somebody said that soon will be possible a one-person unicorn, i.e. a company with just one person but valued at 1bln USD.
+
+Maybe, maybe not: many AI enthusiasts forget that you need to integrate whatever you do with the elements that actually generate revenue.
+
+You can use Claude to replicate Amazon's website in few sessions.
+
+Still, you would lack:
+_ processes
+_ logistics
+_ contract with vendors
+_ data to feed your recommendations and generate sales
+_ etc etc
+
+Hence, maybe VCs, as in the late 1990s Internet-bubble, will value billions one-person-plus-AIs teams, as in the late 1990s saw at least one business intelligence company with no Internet element whatsoever raising hundred of millions by claiming to be an Internet company.
+
+Anyway, it is feasible now that few people with the right business skills and network of contacts could deliver in months if not weeks a MVP that is already usable and could start delivering a service while attracting investors.
+
+And, considering the standardization of components that saw in my own purchases on Ali Express for my own experiments (I lost count of how many repairs could do just because some components were standard, and others were available), building even complex products could start with some exchanges with AIs to build a concept, then a product architecture, then its software components, then the Bill of Materials, then even the 3D printing instructions to send to an online service, then the PCB production to send to another, and maybe even to find services able to assemble (maybe automatically) from a BOM finished products to then handover to logistics companies to fulfill orders.
+
+Production facility? Zilch.
+
+Warehousing? Zilch.
+
+Logistics? Zilch.
+
+Frankly, wrote about that in some mini-books that published since 2012, so will not repeat it here- [you can find on Amazon (paid, paper) or Academia.edu (free, digital)](https://robertolofaro.com/published) most of thom.
+
+The element is that our current technology enables purchasing from one side of the World, and delivering on another continent: yet another element to consider in our new "dual use" concept.
+
+Contextualization is not just on the product side: awareness is something that has to be developed also on the human side:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260804_00_contextualize.png)</center>
+
+No, I am not advocating to imitate the [ 1951 cartoon "Duck and Cover" with Bert the Turtle](https://www.youtube.com/watch?v=IKqXu-5jw60), that taught kids to hide under their desk if a nuke blast occurred.
+
+Still, in our future defense posture, increasing awareness about technology and specifically AI will be part of defense as much as scattering around swarms of drones or sensors.
+
+Anyway, awareness is not enough, we need to develop and continuously feed the talent development, attraction, retention supply chain.
+
+As I wrote this morning, it is not just a matter of investing on the end "product" (talent) and directly enabling factors.
+
+We need also to consider a further later- the bureaucratic context, which is quite significant in Italy:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260804_01_talents-bureaucracy.png)</center>
+
+As shared in recent articles, e.g. [The potential of a structurally tribal country #Italy](https://robertolofaro.com/index.php?page=653), [Self-defeating choices and repositioning a territory #Turin #Italy](https://robertolofaro.com/index.php?page=662), and [Unbundling the State and (limited) signal intelligence #Turin #Italy #EU](https://robertolofaro.com/index.php?page=661)...
+
+... both Italy and Turin have structural issues- and while many consider the tribal culture a positive, I would say that was maybe so many centuries ago, in a pre-industrial Italy.
+
+Over the last few decades that culture only aggravated the decay of the Italian State organization well represented by the pork barrel that became the national debt.
+
+Debt that also created the conditions for the expansion of an increasingly gentrifying organized crime that no State apparatus has been really able to contain since at least the 1980s-1990s, as proved by statistics on the expansion of its economic impact.
+
+At the end of the XX century, organized crime became even a counter-state sharing bed with terrorists to try to influence directly choices, deciding then that was better for business simply to infiltrate all the State, private and public, using its best weapon: abundant cash-flow, and influence through corruption (not necessarily monetary).
+
+Hence, why it is critical that the lessons outlined by President Eisenhower, while creating our own military-industrial complex within a modern democratic European Union, is done with increased vigilance against any infiltration small or large, as otherwise we will end up as when allies in Africa did not share with us information, as did not know who would receive information about operations: we do not need to become the weapons smuggling supermarket of the European Union.
+
+Otherwise, the daily theatrics of the quarrels between government coalition and opposition, an opposition that usually voted but over the last few years apparently remembers its own platform only when not at the helm, will just ensure that Italy increases its debts and further damages its social fabric, making shortcuts the institutional approach to any issue, while our European Union partners instead will have to converge toward a different model of society to make it workable across the whole European Union. 
+
+Shifting toward a more positive tone, talking about Italy but European Union as well, would like also to share the preview that I received via WhatsApp of the new issue of the magazine of the Italian Ministry of Defense, where a journalist what was previously editor of La Stampa in Turin, then at La Repubblica, in this issue focuses on the new NATO:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260804_02_change.png)</center>
+
+We are starting a journey- it makes sense to leverage both on what differentiates the European Union from others jurisdictions, and on lessons learned elsewhere.
+
+Have a nice week!

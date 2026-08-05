@@ -1,0 +1,89 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260801_article.png)</center>
+
+This article is within [BooksBlog- Books in progress](https://robertolofaro.com/index.php?section=books-blog) 
+
+I will keep it short and direct, as the purpose is to share progress on something that I am revising and preparing, while in future articles will focus on developing some of the concepts hinted at here, plus something that shared over my [Facebook](https://facebook.com/robertolofaro) and [Linkedin](https://linkedin.com/in/robertolofaro) profiles over July (news items and commentary).
+
+Therefore, there will be no sections- just a data storytelling to explain a bit of my "backoffice".
+
+I will start by sharing how actually you seed PESTEL analysis (Political Economic Social Technological Environmental Legal- many prefer PESTLE, but I am taking a systemic perspective).
+
+It is not a one-off or on-demand: you execute on-demand or even one-off, but you need a continuous "feeding" by collecting signals.
+
+In the past, I did it manually- but meant spending over 1h a day, and not always had that much time- moreover, sorting out from all the material what was fitting my parameters sometime took even more time.
+
+Or: not feasible to do it personally everyday- and "serendipity" (what you really do) makes sense only if done by somebody who can "spot" the dots to connect- not if you delegate to somebody just reading everything at face value.
+
+It is akin to audit: when working on business number crunching, was told decades ago from a former audit manager that juniors, most seniors, i.e. those who churn billable hours...
+
+... could add up apples and pears and feel perfectly happy with the results- you need to go way up the feeding chain to have "domain understanding".
+
+So, my MorningNews that started releasing online in mid-March 2026, developed using various AIs by redesigning a manual process that used long ago, eventually settling on Claude (and Kimi as a backup, but recently saw that models that you can install on your computer are getting good enough to be able to do it as well) was not just a matter of productivity- was a matter of efficacy.
+
+It usually runs for 5 to max 10mins, finds a couple of dozen of items that fulfill my requirements and concepts and collateral evolving trends, selects around a dozen, and highlights if it finds new trends.
+
+Many look at integrating AI to redesign processes to achieve efficiency- doing more in the same amount of time (or the same in less time).
+
+Instead, as in all my business activities, I focus first on efficacy and then efficiency.
+
+It does not matter that much to do a lot more of something totally useless.
+
+It would be what while in the Army was told by an NCO or officer from Naples is defined as "facimmo ammuina"- look as a busy bee while doing little that matters.
+
+As some Big4 discovered by piling up fines since introducing AI on the "report delivery" side, and prizing efficiency (how fast and how much you can bill per unit of time) vs. efficacy (ensuring that what you deliver to paying customers makes sense and lacks hallucinations and other variations on evidence-based reality).
+
+Anyway: MorningNews is based on my own focus across few domains plus AI- using that to "steer" its own serendipity would still risk building a tunnel vision- and therefore you need to extend across domains.
+
+Linkedin is used by many as a presentation platform: I got tired of people posting something that is a set of platitudes, coming along with a giant picture of themselves- they could at least post an infographic, or generate a chart with an AI based upon their own post.
+
+Instead, as wrote already well before 2022, when ChatGPT went live, I routinely used Linkedin to connect with people I worked with, but also following the approach that was my custom when worked across Europe: connecting the dots required having "antennas" in different domains, and learning a bit about their own way to see the World ("Weltanschauung" in German) and their lingo.
+
+Which is a bit of philosophy and bit of history (or the other way around- depends on context and domains, but both elements are needed- more about this in a future publication).
+
+The quid pro quo was not on a pure transactional basis (I tell you this you tell me that), but a continuum- I trust you to share points about a domain where I am not a specialist, and I can convey to you what either I or others can "distill" from our own domains of expertise.
+
+Actually, also as a fractional account manager for a partner, while negotiating or having the routine checkpoint with customers' CIOs, we did not discuss just the "transactional" part- the account I was managing.
+
+Routinely, I shared news and advice (as I had been a management consultant officially since 1990 and working with senior management since the late 1980s), and together we discussed their domain- something that was mutually beneficial.
+
+On Linkedin, routinely prune and evolve my network- based on evidence.
+
+Exceed a threshold on AI-slop or self-promotion or platitudes or obsession about posting by re-releasing old material with no value added, and I see no reason to be updated on what you post.
+
+There is an added bonus in my MorningNews daily routine: as I do that check between 5 and 6am, I have sometimes plenty of leads to think about before most people have their breakfast.
+
+Today started with my usual daily MorningNews with Claude- and then reviewing interesting items from streams across the various social media.
+
+It is interesting how sometimes a single post about a relatively minor issue can actually open the door to something else.
+
+And it was funny to start the morning fast-reading through a 100+ pages ruling quoting "The Federalist Papers"- it has been a while since I read a legal document released by a court that was so deep about constitutional history.
+
+It all started with a post about potential AI regulation impacts in the USA from a Supreme Court ruling, but it felt as it was really about separation of powers- [so, commented on the original post, but then went into the ruling](https://www.linkedin.com/posts/robertolofaro_how-trump-v-slaughter-strengthens-the-case-activity-7489199131874373632-vCix?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAUT8sBHrqxYdQXQm0hH6hcF5fnJ-Z7AMg) and saw that actually the hunch was right: it could potentially have much wider impacts.
+
+Anyway, the first short-term impact is already developing, as was stated within the post I commented on: and it is impacting on how some States are dealing with the regulation of AI.
+
+So, if your role is bridging between domains to help converge toward a purpose, the above is my "Weltanschauung": what you see is the result of continuous looking for signals and connecting dots with experience and prior knowledge, and sharing is useful as requires conveying to others without overloading with details.
+
+Publishing on the open web started for me in 2003, when I released the first issue of my [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com) on change- after working on its preparation for a while, and keeping it up until 2005, as it was part of my choice to return in Italy full-time by 2005.
+
+Eventually, instead, in 2005 decided that was better to accept an invitation to relocate to Brussels- as the Italy I saw in Turin, Milan, Rome in 2004-2005 was actually in a far worse shape than the one I left in the late 1990s to move to London and work in Paris and then also in German Switzerland.
+
+If you bother to ask: no, was not my choice to return to Italy in 2012, as in 2008 was already starting to settle in Brussels and looking at real opportunities while building connections there- but Italians had other ideas, and eventually here I am- as I wrote earlier today, doing my by now 14 years of cultural and organizational study about my own country seen with foreign eyes.
+
+So, in 2007 started publishing again by chance- but under a "nom de plus" (aleph123), and only from 2008 started using my own name.
+
+Again: before that, from the late 1980s I had had a routine of having to prepare what could be called "position papers", or "investigative reports" on contracts, projects, etc.
+
+I will skip what did before the late 1980s to develop those skills (yes, I also did a bit of "ghost writing") but, again, it is 99% perspiration and 1% inspiration.
+
+As [shared this morning](https://www.facebook.com/robertolofaro/posts/pfbid0cQXQts2N55ry52oFWSnpQ2Fj7VnwCmMfSRBnpN95WsD42M8tbkB2ziHenGtLaNgTl?__cft__[0]=AZbT3tONdxqysM9kP529rafmKw_xckacdteQvvBeC3P3OK2WzcNrrU7PHtcwbGe-sYI6dM7NXtHljk3YoLzl6pkmQpbB_WvOK2rL2lP2MDytHMPJRq4vJHmu_49Y4UkVOmNeZScLRT8_EVQojQdgWFlRg2i2jYdXXt8aQEu2m5M_obypMDft_kSc1akw0cH4_sA&__tn__=%2CO%2CP-R), I started already working on something else: [updating datasets that released since 2019 on Kaggle](https://kaggle.com/robertolofaro).
+
+I already collected most of the data that will need, and the target is to release by end August those focused on a specific domain- here is my outline roadmap:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260801_updates.png)</center>
+
+There are also other "publications" in progress (articles, a mini-book, datasets, AI)- but, as usual, will share something when ready to release.
+
+Meanwhile, if you want to follow the updates on the AI side, you can also [have a look also at my HuggingFace](https://hf.co/robertolofaro) and [GitHub](https://github.com/robertolofaro) profiles.
+
+Have a nice Sunday!
