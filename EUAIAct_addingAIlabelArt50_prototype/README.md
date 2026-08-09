@@ -1,10 +1,9 @@
 # AI Etiquette beyond the mere formal requirements
 
-Prototype to test concepts, do not use it for compliance
-Seek formal legal advice before using it for compliance with the EU AI Act
-
-Software designed by Roberto Lofaro, developed with Kimi and Grok
-CC-BY-SA-4.0 2026-08-09 https://linkedin.com/in/robertolofaro
+* Prototype to test concepts, do not use it for compliance
+* Seek formal legal advice before using it for compliance with the EU AI Act
+* Software designed by Roberto Lofaro, developed with Kimi and Grok
+* CC-BY-SA-4.0 2026-08-09 https://linkedin.com/in/robertolofaro
 
 Formally, the AI EU Act Art. 50 requires to add a label to multimedia and material generated or modified with the use of AI.
 
