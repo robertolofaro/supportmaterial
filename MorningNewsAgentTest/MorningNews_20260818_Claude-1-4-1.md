@@ -75,7 +75,7 @@ expansion_queue: []
 | 6 | 💼 Business | EU's 21st Russia sanctions package bites on banks, crypto | 🟡 |
 | 7 | 🇪🇺 EU Affairs | Digital Omnibus on AI enters into force, defers high-risk deadlines | 🟡 |
 | 8 | 🇪🇺 EU Affairs | EU sanctions listings on Ukraine extended to September | 🟢 |
-| 9 | 🤖 Technology | Unpatched GeoServer flaw under active exploitation | 🔴 |
+| 9 | 🤖 Technology | GeoServer zero-day patched after days of active exploitation | 🔴 |
 | 10 | 🤖 Technology | Frontier AI leaderboard refresh shows open-weight models closing gap | 🟡 |
 | 11 | 📈 Trends | Low Danube water levels strain Central/Eastern Europe's energy system | 🟡 |
 | 12 | 📈 Trends | Hormuz transit collapses to fraction of pre-crisis norm | 🟡 |
@@ -196,13 +196,13 @@ expansion_queue: []
 
 > 🤖 **TECHNOLOGY ANALYST** · 2 updates today
 
-### 1. Unpatched GeoServer flaw under active exploitation 🔴
+### 1. GeoServer zero-day patched after days of active exploitation 🔴
 **Alert:** 🔴
-**Summary:** An unpatched SQL injection vulnerability in the open-source GeoServer platform, capable of leading to remote code execution, was publicly disclosed on 12 August by a researcher on X. Security researchers report exploitation attempts began within hours of disclosure, with hundreds of attempts observed from a small pool of IP addresses. No CVE identifier has yet been assigned, and the flaw remains unpatched as of 17 August.
-**Analyst note:** Enterprises running exposed GeoServer instances face an active RCE risk window that is likely to persist for weeks given the absence of an assigned CVE or vendor patch, raising near-term incident-response burden for GIS and public-sector mapping deployments.
+**Summary:** A critical SQL injection vulnerability in the open-source GeoServer platform's `jsonArrayContains` filter function, capable of unauthenticated remote code execution on PostGIS-backed deployments, was publicly disclosed on 12 August by a researcher on X. Exploitation attempts began within hours, with watchTowr reporting hundreds of probes from a small pool of IP addresses. GeoServer has since released patched versions 3.0.1, 2.28.5 and 2.27.6, with the flaw assigned GitHub security advisory GHSA-mqjf-5f49-2fjh and a CVSS score of 9.8.
+**Analyst note:** Organisations running GeoServer — widely deployed across government, defence and environmental agencies — should prioritise patching to 3.0.1/2.28.5/2.27.6 immediately, as the multi-day window between disclosure and patch release left internet-exposed instances open to active RCE attempts.
 **Sources:**
-- [The Hacker News — coverage of GeoServer jsonArrayContains SQL injection](https://thehackernews.com/) · 17 August 2026
-**Trend:** ↗ Escalating
+- [The Hacker News — GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE](https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html) · 17 August 2026
+**Trend:** ↘ De-escalating
 **Tags:** #cyber #data-centre #AI-safety
 
 ### 2. Frontier AI leaderboard refresh shows open-weight models closing gap 🟡
