@@ -16,7 +16,7 @@ Quick run summary:
 - **Two 🔴 stories:** the Hormuz/Iran standoff and a French tax authority (DGFiP) breach exposing 678,000 records.
 - **Data table:** all six permanent slots filled with this-run figures; Slot 7 (Hormuz transit) marked with a partial figure and N/A delta rather than fabricated, per your data-integrity rule.
 
-- ```yaml
+```yaml
 ---
 brief_date: 2026-08-19
 version: v1.5
