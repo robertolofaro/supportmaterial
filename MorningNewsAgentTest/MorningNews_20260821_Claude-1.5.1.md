@@ -46,7 +46,7 @@ expansion_queue: []
 ```
 
 # 🌐 MORNING BRIEF
-## Friday, 21 August 2026 · 05:15 CET
+## Friday, 21 August 2026 · 05:00 CET
 ### 12 stories across 5 categories
 
 ## DIGEST SUMMARY
