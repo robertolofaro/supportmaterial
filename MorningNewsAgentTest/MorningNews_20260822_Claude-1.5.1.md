@@ -84,7 +84,7 @@ expansion_queue: []
 **Significance:** A rhetorical claim of "territory" over an international strait, even if not backed by a formal legal position, signals Washington may be preparing to justify an extended military and economic posture in the Gulf rather than seeking near-term de-escalation.
 **Sources:**
 - [Al Jazeera — Trump says he views Strait of Hormuz as 'American territory'](https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war) · 22 August 2026
-- [CNN — US imposes new sanctions on Hezbollah, threatens economic pressure on Iran](https://www.cnn.com/2026/08/20/world/live-news/iran-war) · 20 August 2026
+- [CNN — US imposes new sanctions on Hezbollah, threatens economic pressure on Iran](https://www.cnn.com/2026/08/20/business/iran-economy-war-leverage-intl)) · 20 August 2026
 **Trend:** ↗ Escalating
 **Tags:** #Iran #Hormuz #naval-blockade #escalation
 
