@@ -18,6 +18,8 @@ Notes on this run:
 - **European Parliament, ECB, European Commission press corner, IMF, and World Bank** all returned stale or empty Phase 1 fetches (August recess/no 24h content) — logged internally, search fallback used where relevant.
 - Timestamp was routed through `user_time_v0` → written directly into both the YAML and metadata footer, per your fix.
 
+
+```yaml
 ---
 brief_date: 2026-08-22
 version: v1.5.1
@@ -34,6 +36,8 @@ ongoing_situations:
 sources_fetched: 9
 expansion_queue: []
 ---
+```
+
 
 # 🌐 MORNING BRIEF
 ## Saturday, 22 August 2026 · 04:58 CET
