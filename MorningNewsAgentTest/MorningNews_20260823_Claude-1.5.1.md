@@ -139,6 +139,7 @@ expansion_queue: []
 🟡 Brent crude holds near $93–94/bbl; gold at $4,603 — markets pricing a prolonged Hormuz impasse with no credible diplomatic off-ramp visible
 ---
 ⚡ EU Digital Omnibus on AI entered into force 27 July (published 23 August context): high-risk AI obligations delayed to December 2027 — a structural reversal of the August 2026 compliance cliff that had been months in preparation
+---
 
 ---
 
