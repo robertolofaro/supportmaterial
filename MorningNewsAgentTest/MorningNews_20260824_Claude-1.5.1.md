@@ -1,6 +1,4 @@
----
-
-## 📋 PHASE 0 — Date & Day-Counter Confirmation
+**PHASE 0 — Date & Day-Counter Confirmation**
 
 - **Run date:** Monday, 24 August 2026 · 05:30 CET
 - **Russia–Ukraine War:** Day **1,643** (anchored 24 Feb 2022)
@@ -71,6 +69,27 @@ Good — alert cap within bounds (28.6% red). Source diversity within bounds —
 Now assembling the brief file:
 
 ---
+
+```yaml
+---
+brief_date: 2026-08-24
+version: v1.5.1
+run_time: "05:32 CET"
+stories_published: 14
+categories: [conflict, business, eu_affairs, technology, trends]
+alert_counts:
+  red: 4
+  yellow: 9
+  green: 1
+ongoing_situations:
+  - {name: "Russia–Ukraine War", real_world_start: "2022-02-24", day: 1643}
+  - {name: "Iran/Hormuz Crisis", real_world_start: "2026-02-28", day: 178}
+sources_fetched: 13
+expansion_queue: []
+---
+
+```
+
 
 **Morning Brief v1.5.1 — Monday, 24 August 2026 — Run complete.**
 
