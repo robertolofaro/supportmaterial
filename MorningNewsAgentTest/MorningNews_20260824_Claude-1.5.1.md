@@ -85,6 +85,7 @@ Here's the phase-by-phase summary for the record:
 
 **Phases 3–5:** Pool of 22 candidates → 14 published | Alert cap: 4 red (28.6%, cap 40%) ✅ | Source diversity: Reuters 31.6%, Al Jazeera 26.3%, Bloomberg 15.8% — all within 35% ✅ | Mandatory outlet-scoped queries: Bloomberg, Reuters, El País, Guardian all completed
 
+---
 
 # 🌐 MORNING BRIEF
 ## Monday, 24 August 2026 · 05:32 CET
