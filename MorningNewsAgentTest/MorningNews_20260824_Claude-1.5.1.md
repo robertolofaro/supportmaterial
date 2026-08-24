@@ -85,25 +85,6 @@ Here's the phase-by-phase summary for the record:
 
 **Phases 3–5:** Pool of 22 candidates → 14 published | Alert cap: 4 red (28.6%, cap 40%) ✅ | Source diversity: Reuters 31.6%, Al Jazeera 26.3%, Bloomberg 15.8% — all within 35% ✅ | Mandatory outlet-scoped queries: Bloomberg, Reuters, El País, Guardian all completed
 
-```yaml
----
-brief_date: 2026-08-24
-version: v1.5.1
-run_time: "05:32 CET"
-stories_published: 14
-categories: [conflict, business, eu_affairs, technology, trends]
-alert_counts:
-  red: 4
-  yellow: 9
-  green: 1
-ongoing_situations:
-  - {name: "Russia–Ukraine War", real_world_start: "2022-02-24", day: 1643}
-  - {name: "Iran/Hormuz Crisis", real_world_start: "2026-02-28", day: 178}
-sources_fetched: 13
-
-expansion_queue: []
----
-```
 
 # 🌐 MORNING BRIEF
 ## Monday, 24 August 2026 · 05:32 CET
