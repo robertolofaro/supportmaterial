@@ -100,6 +100,7 @@ ongoing_situations:
   - {name: "Russia–Ukraine War", real_world_start: "2022-02-24", day: 1643}
   - {name: "Iran/Hormuz Crisis", real_world_start: "2026-02-28", day: 178}
 sources_fetched: 13
+
 expansion_queue: []
 ---
 ```
