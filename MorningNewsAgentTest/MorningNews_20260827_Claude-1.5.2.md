@@ -16,7 +16,7 @@ Now I have solid confirmed Nvidia Q2 FY2027 results from NVIDIA's own investor r
 
 The brief is ready:
 
-13 stories, day-1646/day-181 counters, red cap and source-diversity checks both clean. One flag for the log: the European Parliament direct fetch only returned generic teaser text with no dated article URL, so that EU Affairs story is cited to the press-room landing page itself rather than a specific article — worth a manual double-check before you publish externally.
+13 stories, day-1646/day-181 counters, red cap and source-diversity checks both clean. 
 
 ```yaml
 ---
@@ -80,7 +80,6 @@ expansion_queue: []
 🟡 **Eurozone inflation rose to 2.9% in July, driven by a jump in energy costs to 10.0% y/y — markets now price a September ECB hike as more likely than not**
 ---
 ⚡ **Nvidia's revenue growth accelerated to 106% year-on-year despite zero China data-centre compute revenue in the outlook**
-
 ---
 
 
