@@ -1,0 +1,445 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/rethinking-organizations) section.
+
+This article is about evolving organizations and integrating AI using common sense, with a specific focus on small-medium enterprises (henceforth SMEs), and is the second part of a series:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_00_series.png)</center>
+
+It covers also the need for transparency and compliance "tailored" to capabilities but while ensuring harmonization across a whole supply chain.
+
+A couple of movies could actually inspire something on both elements:
+_ 1982 ["wrong is right"](https://www.imdb.com/title/tt0084920/) 
+_ 2023 ["the equalizer 3"](https://www.imdb.com/title/tt17024450/).
+
+I will use SMEs in Italy as main discussion point but, as will hint later, the concepts expressed in this article will gradually extend elsewhere in Europe, and covers both SMEs and startups, as both are needed to help reshape the industrial landscape of the European Union, and develop local capabilities, instead of keep licensing somebody else technology or, even worse, develop with European Union (i.e. taxpayers) funding technologies that then are converted into products and services elsewhere, having our own investments...
+
+... subsidizing the business development of those who would then license or sell to us what we actually funded.
+
+The theme is really about considering SMEs as structural components within supply chains that include all types and sizes of companies- not just mere "subcontractors" that are delegated the execution of parts of a whole.
+
+For practical reasons, you will see that my focus is on manufacturing supply chains- but this article could be easily expanded into a mini-book and integrate other domains.
+
+The table of contents:
+_ A_The concept
+_ B_The context
+_ C_SMEs, compliance, and... AI
+
+This article series will continue across the whole month of August 2026, and later there will be other material.
+
+
+<b>A_The concept</b>
+
+My summer readings, as shared a while ago online, in 2026 are focused on lessons learned by defeats- and I considered as such also long-running conflicts.
+
+The reason is that, frankly, since the late 1980s I have been often called up in coordination or "problem solving" or "facilitating" or "auditing activities and vendors" (under labels ranging from PMO to project/program manager, to just "facilitator" or even "account manager") on existing activities and initiatives.
+
+Hence, beside the stated aims, I had first, informally or formally, to carry out a "floating audit": inspections and audits formally declared usually put people on the defensive, and generated a significant risk of "Potemking village", akin to those Intourist tours of the USSR- scripted, cleaned, and not useful if you need a real assessment from the ground to help move forward, improve, complete, recover.
+
+So, studying what went wrong (or could have gone better) and its "why" is important- and requires, first and foremost, to drop the attitude common to too many inspections and audits: looking for culprits (or scapegoats).
+
+Notably in 2026, when I write "conflicts", people think about armies, guerrillas etc.
+
+Anyway, as will discussed in the next section, the context has to be considered a bit wider.
+
+So, for example, these are two of the books that finished reading early this morning:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_01_01_book.png)</center>
+
+I am reading also another book from the same author- but, again, in Italian, not in the original German- as my art and architecture vocabulary in German is for now too limited to be useful- will need spending some time visiting again art exhibitions and a museum or more, maybe when eventually I am back in Frankfurt (I went there few years in a row to attend a technology conference, and also to attend in 2017 my first official course in German, spending a month at the Goethe Institut- expensive, but experience worth the price, as were my 1990s summers spent in universities in London and Sweden) or Munich or Berlin or Hamburg.
+
+Now, what have those two books to do with the subject of this article?
+
+If you were to read both of them, you would find histories of communication, hierarchies, organizational culture, and, of course, clash of personalities that transcend the formal roles and missions assigned, including misalignment between stated, organizational, and individual or team motivation.
+
+You would find also elements of what happens when capacity planning forgets to consider needed and available resources vs. the nominal objective, and making that objective visible across the whole structure- and the impact on time, execution, and, of course, results.
+
+In the 1990s, I remember that an American colleague who had worked for the American branch of a Japanese technological company producing hard-disks for computers told me few elements of the cultural difference between the USA operations and the Japanese headquarters, including what meant in Japan being part of an organization.
+
+The elevator guy in Japan was informed and was able to tell about the results of the company and the stated intent and plans that all the staff had been informed about.
+
+Something that, at the time (but also recently, from my experience) is not so common in Western organizations (European Union included).
+
+How can you align efforts and collect signals from across the structure, if they do not know what are the objectives and therefore which signals could be relevant to report, instead of just noise?
+
+This "string" of articles is prefixed with "The Future of Europe"- and in this one, will use actually a specific structural element of the Italian economy (and society) as a reference case to discuss elements that will gradually get more and more impact in Europe.
+
+Obviously, I am referring to the large presence of small companies, notably in manufacturing.
+
+In Italy, small manufacturing companies are not just subcontractors- they are structural nodes within larger supply chains.
+
+As shared in part articles, in various conferences and workshops in Milan and at the Unione Industriale of Turin, I heard repeatedly a key element: small suppliers specializing on a specific product or component often become the weak link of a supply chain of a larger company.
+
+A case that remind often is what happened when a German company had to pay an automotive customer in Germany due to the late delivery from a small Italian supplier within its own supply chain.
+
+As reported by Italian newspapers, the German company did not look for another supplier- identified that the technology and products and engineering and quality were fine.
+
+What was missing was a management culture structured enough to enable working as a component of a larger and demanding supply chain.
+
+Hence... they acquired the company and installed new management.
+
+Many Italian small companies with technological products converted into what we call "pocket multinationals": multiple manufacturing units scattered in few countries, overall maybe 50 to 150 million EUR in turnover- but, often, as will repeat in this article again, never leaving the cocoon of the supply chain of the company that they started working for in Italy.
+
+As you will read in the next section, quoting the latest IMF World Economic Outlook (July 2026), there are multiple emerging trends, and each one would require its own line of specialists advising somebody with a systemic perspective- CEO and CFO and Board included.
+
+Few years back, the defense complex called Leonardo in Turin said that they were supporting their small suppliers to be able to join supply chains, including competitors' supply chains, by providing knowledge and organizational support- as they needed them to become more open-minded and contributing more than just churning out what was asked from them.
+
+By losing many larger manufacturing companies, due to internationalization and ownership transferred abroad, Italy found itself lacking also structures large enough to develop management talent across decades.
+
+I shared in the past bits about this history of the development of Chinese state bureaucracies, from a course from Beijing that was briefly available on Coursera years ago: that course actually resonated with choices about industrial development that are still shown routinely, in each "generation" of industrial development- including the current AI and high-tech drive.
+
+In Italy, already the end of the Cold War challenged some habits, and the past enlargement wave of the European Union (when many formerly COMECON Member States became EU and NATO Member States) challenged also business "traditions".
+
+Gone were the supply chains of the past- but many smaller suppliers did not develop internal managerial capacities (they lacked the structure to enable that investment) to build the future- just joined more supply chains that told them what to do: reminds Peter Gabriel song about the Milgram Experiment, [We do what we are told](https://www.youtube.com/watch?v=sMLlDBXtmX0).
+
+We in Italy are focusing on the investment needed to create new ZES (Zone Economiche Speciali, akin to what e.g. China did decades ago). but we are still behind in actually developing the capabilities to enable our typically way too small companies to scale up.
+
+Many called in the past Italy the "capitalismo senza capitali", i.e. capitalists without resources to invest, or investing elsewhere instead of re-investing on their own companies.
+
+An element of consolidation was done within the banking industry (I had missions and contacts in that industry in Italy between 1987 and 2007, and since then kept monitoring, so I saw the evolution both as an insider and as an outsider with insider experience).
+
+In manufacturing, I heard instead curious stories such as a company integrating with another one had no manufacturing synergies with, only to be able to sign up with a German company a large contract that, this way, became less than 50% of the Italian supplier's turnover- to avoid to have to takeover if the customer decided to shuffle suppliers.
+
+The resilience of the manufacturing industry in Italy requires building up the resilience of its small companies- which implies generating something not linked just to individual companies, which often in Italy are considered as "families", i.e. close social systems.
+
+We need to create "commons": ethos, knowledge, but also processes, methods, technology-savvy staff that can be "interoperable" with different companies, so that they all can access a larger pool when needed.
+
+As I remind to my Italian colleagues once in a while, the late Marchionne at a time was reported considering Confindustria (the Italian Industrialists' Association) as a bureaucracy whose membership included mainly smaller companies that were on a different plane of reality from companies such as those manufacturing companies that used to be part of the FIAT group (and now part of Exor): from Magneti Marelli, to Iveco, to CNH, to FIAT itself (now part of Stellantis).
+
+It seemed as if the largest ones paid membership fees based on turnover, but voting was by "one man, one vote".
+
+So, for a time stepped out.
+
+Personally, I think that might be difficult within the Italian culture, but the only way to have small Italian manufacturing companies develop internally and overall a market in the type of capabilities they need, is to have their own associations provide training opportunities and incentives, more than it has been done even recently.
+
+Shared in the past how, when left a software business unit called Andersen Software belonging to Andersen via its partners in 1990, I received anyway the 1990 pocket agenda.
+
+Which included a section on figures about the company, e.g. stating that there were over 5,000 people in the USA, out of an aggregated worldwide workforce of over 70,000, and those 5,000+ people where focused on "digesting" and disseminating knowledge generated across the world by those 70.000+.
+
+I remember a customer in Milan joking that we arrived with our green "units" and wreaked havoc as the ruler of Libya at the time with his green flag, but those "units" were actually part of a progression path- you were supposed to be prepared for a role by a mix of practice and theory, before you would be allowed to formally get promoted.
+
+And even partners half-jokingly compared themselves on the number of "units" that they had been through.
+
+There is a need to increase mobility through a market and to foster a "common" around those scarce capabilities, not to confine them in companies where will be used only occasionally.
+
+As reminded few days ago, quoting in reality what wrote in 2003-2006 in my e-zine on change [BusinessFitnessMagazine](https://businessfitnessmagazine.com) and a decade later within a book on integrating experts within organizations increasingly having elements of "virtualization", there is a key element.
+
+As I saw since the late 1980s in business in Italy, smaller companies, but also larger companies, often in Italy are used to look for experts, hire them to "cover that element"- assuming that then they are covered when needed.
+
+Akin to what somebody I met over two decades ago in Zurich told me: he had "sold" to a bank in London a technical expert at a time when Internet was not yet available.
+
+After six months, he received a call from his expert who was bored of spending all his days in a secure environment playing... solitaire on a PC.
+
+My contact told the customer that this way, when needed the expert would not be operational, if they never used his skills.
+
+The rationale of the customer? Needed that expert to cover risk and lower insurance costs- not really to have an expert.
+
+Instead, most companies do the same mistake- but unintentionally, and while assuming that this way they got in-house those capabilities.
+
+So, in smaller companies, the current hiring trend for AI experts or other experts does not ensure that their "capabilities" will be up-and-running whenever needed.
+
+Moreover: if you hire somebody as "in-house expert" and then do not provide opportunities to evolve and keep alive that expertise, most experts turn into a roadblock whenever something new in their domain of expertise comes on the table.
+
+In Italy, we are prodigious generators of "supporting" bureaucracies, notably in Turin: its "company town past" within what I used to call the "ministry of automotive", as shared in previous articles is still, to echo somebody else, a "lingering ghost".
+
+As hinted before and discussed later, "scaling up" is still confused with mimicking the structure and habits of something that, frankly, while adopting "modern labels and titles", reminds the endless pyramid and inherited the rituals of that "ministry".
+
+Some even consider that with pride- a sign of growth.
+
+So, you get an SME that was focused and used to a steady pace within a steady environment, expose it to an environment where being small and flat and able to change direction fast would be paramount, and you get... a wannabe behemoth, whose organization chart is a nightmare to navigate.
+
+And, often, an upside-down pyramid: I remember seeing some startups founded by former managers and cadres within that "ministry of automotive" where each one of the founders was a "director" of something- no operational resources, and they themselves of course now wanted to be directors, not doing what they were doing before.
+
+Frankly, in my first large assignment on organizational and cultural change, already in the early 1990s proposed and worked on the introduction of a "matrix" organization: leaner, meaner, more focused but with cross-domain collaboration.
+
+Anyway, cross-domain collaboration was one of the reasons I had been called: already existed, but resulted in those covering some domains spending more time in meetings than working on their own domain, so the concept was to introduce also a "lifecycle" concept.
+
+Or: if and when to generate enough critical mass to justify a meeting and activating those "matrix" elements.
+
+Otherwise: people would risk that each domain got on loan somebody who, after a while, became part of the destination, while pretending to be part of the source- and losing touch with the evolution of the domain was coming from.
+
+Better to fund the cost of one or more shared resources, fractional experts, that will work everyday using their skills (and updating them), but also knowing the specific organizational culture and needs of each organization.
+
+Which is, actually, what did for Andersen+Comshare in the late 1980s in Italy on Decision Support Systems, going down to having billing units of 15mins, and in the early 1990s, when was going around Italy to help design, customize, adapt, adopt methodologies and best practices.
+
+Anyway, this would require not just having few experts within e.g. each local branch of Confindustria, accessible on-demand via scheduling, maybe with a "pool" of accessible hours, also to help to identify when is needed to add more experts, or prune the roster of the existing ones.
+
+The point is shifting from hiring a "datapoint", or a "point in time", but getting used to consider capabilities across the lifecycle- and optimal allocation.
+
+To recap, the key element is to keep:
+_ having access to a pool
+_ keeping that pool operational (both with projects and readiness drills)
+_ having each member of the pool have a roster of "companies" that has to be conversant with- you need business and technological awareness, not just technical experts.
+_ having an organizational structure that actively manage the pool, collects feed-back, assess ROI of each intervention (in collaboration with the companies).
+
+There are some further elements in such a monitoring organization- but I am not the only one on the market that can deliver that kind of setup expertise.
+
+Currently there is limited demand, but, frankly, it is a matter of starting.
+
+Otherwise, we will risk seeing in Italy what saw few years ago, when the University of Turin and the Polytechnic of Turin tried to set up a cross-disciplinary master, but wanted 9 out of 12 to be from companies within the target described above, to show how the social science and technological side had to be blended in the future.
+
+The first time was canceled for lack of interest.
+
+Something that saw already 20 years ago in Brussels, when authorities offered a 9-months training on change management components for SAP, as no companies would invest on that.
+
+Reason? If a skill is in demand, and you invest 9 months to 1 year of somebody that is already in demand within your own organization, the mindset is that, once trained, will go elsewhere.
+
+Hence, a rotating pool covering multiple companies, all linked by the shared membership in the same industrialists association and continuous access to lessons learned by also KPIs on ROI impacts etc.
+
+The "data model" already exists- and 30 years ago was translating it in English for a UK business partner on whose behalf was supporting a negotiation to introduce at the bank branch level a kind of "risk dashboard".
+
+That model was how the Centrale dei Rischi worked in Italy: every financial institution contributed its own data, and in exchange could access overall information (not the details in each organization) about aggregated risk exposure, along different dimensions.
+
+Search for articles about "big bang"- and you will see that I am a strong critic.
+
+I prefer building "oases", and then use them as champions to expand.
+
+In a future article within this "string", will discuss more in detail why this model and approach could actually have a wider reach in Europe in the future.
+
+Again: with SMEs, we should avoid doing the mistake done with startups, to keep generating new support structures that eventually instead become "filtering" bureaucracies, each one with its own rituals, hierarchy, motivation, and each one, instead of supporting startups to get what they need to grow, becoming de facto a satrapy that also State and institutions have to acknowledge by giving an institutional badge or even using it as a partner to decide how to allocate funding- also when there are preference rules in allocation for existing partners.
+
+Turin could be an interesting laboratory: there are too many SMEs that scarcely went outside the supply chain of the former local champion (in Italy and abroad- look at how many local companies claim to be multinationals but actually have foreign operations only where the companies of the former local FIAT group have plants).
+
+So, de facto lost strategic intent capabilities: abdicated long ago that role to the local "ministry of automotive"- kept complaining about prices and payments, but survived.
+
+Exposing them to the open market requires knowledge transfer and active on-the-job training, not just workshop and coaching.
+
+And some larger companies did while "inheriting" some of those local companies within their local supply chain already started delivering that kind of support.
+
+Not for some "free market development" ideology- but because were looking at what many SMEs have to learn (or re-learn) to do: looking long-term and at the big picture.
+
+An example that received this morning could be useful both to startups and SMEs trying to "grow", as it explains quickly the difference between being fast and nimble and flexible (something that both startups and SMEs could integrate in their own organizational DNA), and becoming part of a system:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_01_02_sevenchurches.png)</center>
+
+Which actually is what was discussed in those two books whose covers showed at the beginning of this section.
+
+Now, considering Italy but also Europe, will shift from the concept (building an ecosystem for capabilities and talent for SMEs) to the context where this would develop.
+
+
+<b>B_The context</b>
+
+The incipit of the IMF World Economic Outlook Update of July 2026 delivers a good summary of both the context and emerging trends.
+
+Worth sharing in full:
+<em>"Global growth is projected to be 3.0 percent in 2026 and 3.4 percent in 2027, down from the average of 3.5 percent observed in 2024-25 and broadly unchanged on a cumulative basis compared with the forecasts in the April 2026 World Economic Outlook (WEO). 
+
+The modest slowdown reflects the effects of the war in the Middle East being partly offset by accelerated demand-driven momentum in the global technology cycle thanks to advances in artificial intelligence (AI) and its adoption. 
+
+<u>The impact varies widely based on countries' exposure to the war and position in the technology value chain.</u> [NDT my emphasis] 
+
+Energy exporters outside the conflict zone benefit from favorable terms of trade, whereas economies plugged into the technology-led upturn experience stronger activity even if they are energy importers. 
+
+In contrast, activity weakens for energy importers with limited participation in the technology value chain, a group that includes many low-income countries. 
+
+Global headline inflation is expected to increase from 4.1 percent in 2025 to 4.7 percent in 2026 before declining to 3.9 percent in 2027. 
+
+Slightly revised upward from April, these projections indicate that the disinflation trend in place since the beginning of 2024 has stalled. Risks to the outlook are more balanced than in April but still tilted to the downside. 
+
+The possibility of renewed Middle East conflict looms large and could extend commodity price volatility, further threaten supply chains, raise prices, and weigh on financial conditions. 
+
+Trade fragmentation could accelerate, possibly hurting output and increasing prices. 
+
+A possible correction in technology-driven expectations adds to the downside risks, whereas eroded policy buffers can amplify those risks. Upside risks stem from a swifter-than-expected normalization in energy markets, stronger-than-expected technology investment, a revival of durable cooperation that lowers trade barriers, and structural reform that raises medium-term growth. 
+
+Policy priorities are restoring price stability, supported by clear communication, central bank independence, and strong financial oversight, while rebuilding fiscal buffers and using fiscal tools sparingly through temporary, targeted support that preserves price signals.
+
+Structural reforms are needed to promote energy security, AI readiness, domestic rebalancing, and international cooperation should be strengthened to relieve the strain of ongoing tensions."</em>
+
+While the previous section introduced the key concept, this section instead is focused on giving a better perspective on the context.
+
+What does national debt affect?
+
+Flexibility. Freedom of movement in defining policies. Sustainability of existing policies.
+
+Including the ability to fund initiatives on technological and business transitions, industrial policy, etc.
+
+Reduce those degrees of freedom in policy due to the weight of the debt and associated payments, and you end up talking about partitioning crumbles to provide subsidies based on political pressure from each group, not fostering development and making choices.
+
+What is a characteristic of European Union Member States that differentiates them from the USA (and, apparently, with the conundrum of the first choices of the new UK PM, also UK is potentially try to be in both "worlds")?
+
+The welfare state- both to pre-empt and to solve issues: and, in part due to EU rules, its sustainability is strongly affected by the impact of the national debt.
+
+The point is that, within the above mentioned context and emerging trends, key European Union Member States have a significant "backlog" that affects each and any choice that is or might be done.
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_02_01_countries-with-the-most-government-debt_site.webp)</center>
+
+In March 2026 [shared on GitHub](https://github.com/robertolofaro/supportmaterial/blob/master/20260306_attachment-italy_sovereign_debt_analysis.md) a document to support one of my article, the results of a chat with AIs, including a large number of links- the outline was:
+<em>
+1. Total General Government Debt (Maastricht definition)
+2. Debt Composition by Instrument (as of 30 September 2025)
+3. Major Bond Maturities by Year - Key Lines Outstanding (medium/long-term)
+4. Key Interest Rate & Refinancing Parameters
+5. Mermaid Diagram - Medium/Long-Term Maturities 2026-2028 by Main Bond Line
+6. Bar Chart - Estimated Annual Redemptions 2026-2028 (medium/long-term bonds)
+7. Sources & Link Validation
+8. Analytical Notes
+</em>
+
+That outline generated by AI including interesting closing points that reminded what, beside the specifics, something that many Italians (business, citizens, and even politicians, from what they often say in interviews) seem to forget: it is not just huge pile, but has to be constantly refinanced.
+
+Hence, also if I never voted for any of the political parties included in the current Italian Government, the choice to work to obtain an improvement in Italy's rating produced results.
+
+You can see the closing statements about refinancing in 2027 at the end of that GitHub document.
+
+Anyway, in my case, that was a test that was part of my preparing and releasing the [MorningNews](https://github.com/robertolofaro/supportmaterial/tree/master/MorningNewsAgentTest) briefing from mid-March 2026 (a PESTEL experiment- I selected specific elements to cover each part of the Political Economic Social Technological Environmental Legal/compliance sides), that, again, you can read on GitHub (I announce its release each morning between 5am and 7am CET, around a dozen news items each day, summarized with links, and a statistical table)- where the main "collaborator" is Claude (albeit I used it also with Kimi, and already tested with other models, including installed locally).
+
+Few days ago, received a document from the [Osservatorio sui Conti Pubblici Italiani](https://osservatoriocpi.unicatt.it) that was specifically stated as produced with AI, "La composizione dei detentori del debito pubblico italiano: un aggiornamento"- released on 2026-08-05.
+
+<em>"Questa nota &egrave; stata predisposta nell'ambito di una procedura sperimentale di redazione assistita da intelligenza artificiale generativa (Codex di OpenAI) delle nostre note di aggiornamento di natura periodica. Il modello &egrave; stato configurato seguendo il formato di precedenti pubblicazioni OCPI sullo stesso tema e impiegandolo per aggiornare i dati e per preparare una prima stesura. Fonti, calcoli e testo finale sono stati revisionati dall'autore, che ne assume la piena responsabilit&agrave;."</em>
+
+Which is, to summarize (if you do not want to have it translated by your browser or an AI model (such as the gemma4 that has been installed automatically on most recent Android devices), a description of the approach that would be advisable:
+_ first, have an "editorial guide" (e.g. the previous releases)
+_ then, provide the aim
+_ then, have the AI model of your choice use both the history and aim to produce results
+_ then, remember anyway that the human organization is accountable, i.e. appoint somebody to control, be accountable, and sign off release.
+
+Look at this table:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_02_02_italian-debt.png)</center>
+
+In Italy, sometimes I still hear echoes of "let's leave the Euro"- I wonder how, if they were successful, would expect to cover the Euro-denominated quota of the national debt held by foreigners.
+
+As for those resident in Italy from a tax perspective: there could be alternatives, e.g. our Governments routinely put within the annual budget a forecast figure for selling State-owned buildings and assets...
+
+... that never actually reached the expected result.
+
+Now, if Italy were really able to deliver on that, or at least get into the securitization path, Italy could actually have its own read sovereign wealth fund.
+
+A [recent article on "The Conservative" of 2026-08-01](https://www.theconservative.online/italys-national-sovereign-fund-a-new-strategy-to-unlock-growth-and-long-term-investment) discussed a different concept to achieve the same purpose- but focused on mobilizing the "private public partnerships" that did not deliver that much where when first started.
+
+For example, also the National Recovery and Resilience Plan (PNRR in Italian) was supposed to use those 200bln+ not just to fund work delivered by private companies, but also to attract resources from the private sector.
+
+Currently, it is all to be see, but this chart represents what has been achieved by countries much smaller than Italy- generating sovereign wealth funds that often invest worldwide:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_02_03_the-worlds-largest-sovereign-wealth-funds_website_may4.webp)</center>
+
+Yes, because we still in Italy (and in Europe) focus on investments within the European Union: but, as shown by other countries, generating value long-term could require to look at opportunities were available, not just in your own house.
+
+Now, after the concept and the context, time to get back to increasing resilience across the supply chain in the weakest link- SMEs.
+
+
+<b>C_SMEs, compliance, and... AI</b>
+
+We Europeans are proud of our ability to spawn new laws and regulations overnight.
+
+Yes, I am joking.
+
+And as I keep writing since 2019, were not enough this penchant for (over)regulation, we adopted since before COVID the habit to keep tinkering and flip-flopping continuously.
+
+If you are a bureaucrat shuffling paper, that is annoying enough.
+
+If you are manufacturing, altering the compliance framework for your own product continuously, is absorbing resources that deliver no value and subtract from operations.
+
+Notably for SMEs, who, as I wrote in the first section of this article, already did not have that much "slack" available to start with.
+
+Nonetheless, if SMEs are consider critical nodes within a supply chain, should deliver a level of transparency, accountability, and measurement that is aligned with what the whole supply chain needs.
+
+Meaning: you need to add something to fill the organizational culture gap, without adding overhead.
+
+Meaning: you need to harmonize whatever SMEs are asked to deliver in those terms of transparency, accountability, and measurement- and in this case organizational support (as the industrialists' associations) and tailoring regulations to SMEs both matter.
+
+Hence, useful this page published recently from Il Sole 24 Ore:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_03_01_accounting-smes.png)</center>
+
+Still, focusing just on regulations forgets that many regulations assume a specific organizational structure.
+
+As wrote in the past, the European Union has a penchant for writing regulations etc that, instead of harmonizing on the purpose, harmonize on all the details to fulfill a purpose.
+
+Meaning: if a team of mega-experts from Brussels even has a discussion with industrialists' associations and other concerned parties...
+
+... the net result is often a horse designed by a committee that had a "Trojan horse" mindset.
+
+Hence, sometimes the rules require specific organizational capabilities as a side-effect of the nominal requirements:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_03_02_cybersecurity-organizational.png)</center>
+
+Technology can help: if you were to follow my [Linkedin stream](https://linkedin.com/in/robertolofaro), you could see routinely my reactions to posts from others on how recent AI developments are "democratizing" access to expertise.
+
+
+<b>A_SMEs and aI</b>
+
+Democratizing is fine- but SMEs are not necessarily equipped to scale up.
+
+Growing up implies not just hiring more people or building a vertical structure.
+
+Actually, I saw many small companies growing by adding layer upon layer of coordination: and this is a clear sign that they did not really grow up.
+
+If you were to measure their productive vs. non productive vs. turnover at the beginning, and after few years, you would see that the growth rate of overhead exceeds the growth rate of productive staff.
+
+A SME typically does not hire: co-opts within its own organization.
+
+In Italy, many SMEs adopt a paradigm of reference akin to a "family".
+
+So, if and when growing fast is needed, it is not uncommon to see that the first element to fail is the ability to motivate.
+
+Reason? What worked before, when each new hire was co-opted, "motivational patterns" assumed that each new "member" aligned with the existing culture.
+
+If you add more than you can "co-opt", they are actually "importing" their own culture.
+
+A first reaction is that "layering" I wrote above, compounded by piling up of "prescriptive" measures: overhead.
+
+Curious this post from Anthropic's CEO:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_04_01_evolving-smes.png)</center>
+
+What does "braccino corto" mean? 
+
+As shared long ago in previous articles, it is a bit of "Italian business history".
+
+There was a time when cloth was sold by using measures such a "an arm".
+
+So, the "braccino corto" referenced the concept that the customer paid "an arm" of cloth- but, conveniently, the merchant had a kid (with small and short arms) to measure the length.
+
+If you assume instead that, before adding layers, you actually consider the organizational culture differences needed, and design a new "motivational ecosystem", then you have a new harmonized culture to use as a new starting point.
+
+Again, as in the first section: it is a matter of lifecycle management, not just of a single point of time.
+
+And this is yet another element that many SMEs find complex: while scaling up, beside expanding without inflating overheads, also have to shift to a relatively steady culture and, overall, product/service lineup, to a continuously dynamic adjustment.
+
+Because a larger structure implies more significant longer-term commitments to manage.
+
+Another risk:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_04_02_losing-development.png)</center>
+
+Now, not just SMEs can be tempted to use AI to accelerate.
+
+A larger organization following the "oases" approach that described above might recover by an overzealous introduction of AI to automate any "entry-level" activity, by using resources not yet affected.
+
+A SME, notably in Italy where a skeleton force is allocate to what is not directly linked to product and sales, could be tempted to go "an AI too far" ([A Bridge Too Far](https://www.imdb.com/title/tt0075784/) is a movie with many reusable lessons).
+
+Anyway, discussed the point about talent management within a blended human+AI collaborative landscape in past articles (and future ones), so will let you use your own common sense.
+
+Now, talking about common sense- probably you know that from early August 2026 there are some "transparency" compliance requirements when publishing AI-generated or AI-modified materials:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_04_03_ai-act-compliance.jpeg)</center>
+
+As you can see from the post above, I have a stronger position: in my view, differentiating between publishing online professionally or not does not make that much sense in our web 2.0 + AI times (i.e. when anybody can be both reader and producer).
+
+Because you cannot know the lifecycle of your material- and while some material that you post online just as commentary might be recognized by your immediate circle as AI-generated, the further it goes, the more it can generate misunderstandings.
+
+Hence, I think that the earlier we get used to marking whatever material could be even remotely ambiguous as AI-generated or AI-modified, also if not published for business purposes, the better- to create a debate about "AI etiquette" as in the 1990s we had an "email etiquette".
+
+If you are in doubt about compliance, you [can use the tool referenced within the post I replied to](https://www.label-or-not.com/).
+
+Personally, I went a step further.
+
+Created what I called "AI Etiquette beyond the mere formal requirements"-
+
+Aim: to clearly mark material, by adding both the logo (AI or AI-modified or AI-generated) plus metadata and watermark.
+
+It is a prototype to test concepts, not to enforce compliance, and includes a tool to check a watermark.
+
+Seek formal legal advice before using it for compliance with the EU AI Act.
+
+How did I develop it? As usual, I took over the architect/design and project management role, and involved AIs to build and test and evolve.
+
+In this case, as it was simple, used just Kimi and Grok to see how much they knew about the EU AI Act.
+
+In other cases instead either used only offline models, or a blend of offline+online models- depends also on the level of confidentiality.
+
+It is [on GitHub](https://github.com/robertolofaro/supportmaterial/tree/master/EUAIAct_addingAIlabelArt50_prototype),  CC-BY-SA-4.0 
+
+See you at the next article.

@@ -1,0 +1,526 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260821_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/rethinking-organizations) section.
+
+You probably saw the previous articles of this series about "The Future of Europe" ([you can see here the first of the series, each article links to the next and the previous](https://robertolofaro.com/index.php?page=666)), the latest addition to my [list of multi-part article](https://robertolofaro.com/index.php?page=621).
+
+As I shared in the previous article, it actually started as a single article, but eventually saw that it was the right time to carry out a kind of variation of the theme of the [#EP2024](https://robertolofaro.com/ep2024) article series.
+
+Hence, in the multi-part list the description is "An article series looking at the European Union from a cultural and organizational change perspective- a conceptual follow up to #EP2024 (a 17-parts article series that was released in 2024 and 2025)".
+
+In this article, will focus on a theme that has been a constant since at least the late 1970s, i.e. since when we European citizens started voting for candidates at the European Parliament, instead of having Members of national Parliaments deciding.
+
+Third part of a series:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_00_series.png)</center>
+
+Obviously, the theme is: reforms. 
+
+Which often in Europe seems to be "reforms, more reforms"- echoing the famous scene within the movie "Matrix".
+
+As, in effect, each reform is presented as yet another "weapon" to increase competitiveness of the European Union as an aggregate.
+
+Specifically, in this article will focus on those related to how to make decision-making viable without the shortcuts that notably since 2019 we got used to.
+
+As decision-making bypassing decision-makers and building a consensus ex-post, the typical ["Monnet moment"](https://robertolofaro.com/search.php?tag=monnet_moment) that I criticized repeatedly in the past, is not really the best way to make a multi-level organization work.
+
+While I will reference documents with recent proposals prepared by experts, my focus is on cultural and organizational change and structural sustainability of proposals "as is".
+
+Will focus as a starting point on the Franco-German document released on 18 September 2023, with the title "Sailing on High Seas: Reforming and Enlarging the EU for the 21st Century".
+
+Yes, will briefly reference the more recent document from Mario Draghi (2024 and its "one year later" in 2025), but that will be the focus of another future article.
+
+In politics and diplomacy, creativity in communication often overrides content- hence, whatever the concept, its implementation might produce a different landscape.
+
+Also because often reform proposals are built in a cocoon, i.e. assuming that you can reform to increase your own competitiveness, while all the other global actors will stand still and let you improve your positioning.
+
+Global development should not be a zero-sum game, but in recent years frankly we saw a return to that approach ("your win, my loss"), temporarily (?) sidelining globalization ("win-win").
+
+Still, within the European Union often we seem to be what I described in article almost two decades ago, while I was living in Brussels, as a "fair-weather union": more about this later.
+
+The table of contents:
+_ A_A bit of history and a set of proposals
+_ B_The fair-weather European Union
+_ C_Way forward?
+
+This article series will continue across the whole month of August 2026, and later there will be other material.
+
+
+<b>A_A bit of history and a set of proposals</b>
+
+No, will not list here all the attempts.
+
+I will just share a bit of personal political history, to show how some of the recent reform proposals and discussion are really old.
+
+When in the early 1980s was within the youth element of a political organization advocating converting the European Communities into a federal state, this is a list of the options discussed to improve decision-making:
+_ shifting completely to majority instead of unanimous vote in decisions in Brussels
+_ further reinforcing the Parliament powers
+_ having a real segregation of powers (executive, legislative, judiciary)
+_ reinforcing subsidiarity and the collaboration between cross-border regions
+_ introducing a minimal threshold to obtain seats within the European Parliament
+_ having an upper chamber representing the cross-border regions or the States (I prefer the first option)
+
+Why I focus on cross-border regions? Because it is more aligned with the European social history and also those regions have often to deal with "borders-oriented" policies.
+
+Hence having an upper chamber representing Member States would just mirror what the European Parliament, elected at the national level and not one cross-European platforms and parties, would miss a significant voice representing interests- maybe an evolution of the [COR](https://www.cor.europa.eu/en/about) could be that upper chamber.
+
+Notably because the European Union is highly-urbanized: and having regions and cities (both within the COR right now) could help also evolve our smart cities into smart regions and influence the design of future infrastructure.
+
+Also, the idea was to have a real executive.
+
+We had then few rounds of reforms, usually named as the town that hosted closing events, Nice, Maastricht, and, after the attempt to have a European Constitution was torpedoes by France and Netherlands citizens due also to a curious "we know better, trust us" campaign, Lisbon.
+
+As previously shared, that "we know better, trust us" attitude surfaced again during the Brexit campaign- and produced the same results.
+
+Not because the content of the proposals (back then the Constitution, then the reason to stay within the European Union) were not positive, but simply because also that attitude gave value to the proposition of the counterparts- counterparts that, instead of having to offer quantifiable value, could just leverage on the attitude and ignore the data.
+
+For Brexit, the results were immediately visible- and will not repeat here the long list of cameos that since then scattered across my previous articles: from a village of fishermen that discovered that the funding they received was as a part of a European Union policy to keep small communities alive (few voters, no local political interest to keep the subsidy), to curious announces by the then-PM that would leave also Euratom (before was informed that actually UK did not have anymore the capabilities to replace those services, and anyway Euratom was not part of the EU but extended).
+
+So, beside the "Monnet" jumps that hinted at within the introduction, which ignore consensus and assume that will come later, many of the changes and campaign failed for the usual issue when a political body turns into a self-referential bureaucracy: cognitive dissonance.
+
+The "Sailing on High Seas: Reforming and Enlarging the EU for the 21st Century" contains many of the points that heard discussed in the 1980s, and also the "variable-speed European Union" that wrote about almost twenty years ago, while living in Brussels, as a potential evolution of Europe.
+
+In this section, I would like to focus on that 2023 document, before moving onto the next section, quoting extensively specific segments.
+
+Anyway, will focus as usual on the cultural and organizational change perspective.
+
+On page 5, the second phrase of the executive summary states:
+<em>"For geopolitical reasons, EU enlargement is high on the political agenda, but the EU is not ready yet to welcome new members, neither institutionally nor policy wise."</em>
+
+Then continues: 
+<em>"Recognizing the complexity of aligning diverse Member States' visions for the EU, the report recommends a flexible EU reform and enlargement process. It highlights the need for immediate action to improve the EU's functionality, proposing a list of initial steps before the next European elections [NDT 2024: a missed opportuniy]. More substantial reforms - including preparations for treaty revisions - should be implemented during the new legislative term (2024 to 2029).
+
+The report's recommendations are aimed at achieving three goals: increasing the EU's capacity to act, getting the EU enlargement ready, and strengthening the rule of law and the EU's democratic legitimacy."</em>
+
+On the structural side, the main proposals are within the organizational structure and decision-making processes, starting with:
+<em>"The EU's current institutions lack agility and are penalised by complexity and an abundance of players. The report suggests that the number of MEPs should not be increased beyond the current 751, and a new system to allocate seats, as well as modifying the 'trio' system for the rotating presidency of the Council of the EU in favour of 'quintets' and either reducing the size of the Commission's College to two-thirds of Member States or developing a hierarchical model."</em>
+
+And, of course, the next point is the voting system on key decisions- but will let you read the document, as the purpose of this article is not to summarize the documents that will quote- just to build a narrative through them.
+
+More curious is the proposal to carry out <em>"harmonization of electoral laws across Member States for EP elections"</em>.
+
+In a way, confirms the cognitive dissonance, as de facto ignores a key element.
+
+It is a political minefield, as, anyway, the European Parliament seats allocated for each country are part of the national political environment: would be easier but equally idealistic to ask each "political family" to prepare EU-wide candidates list on a single platform.
+
+Both reforming the electoral law to have one or a fully harmonized one (akin to the GDPR approach) for the whole EU, or anything that could head into the direction of a "EU platform" for each political family would probably split the existing ones into few more.
+
+The balancing between national interests and political family is still imperfect: as shown by the recent impacts on European political families of choices at the national level on immigration.
+
+Also the "Spitzenkandidat" approach, to select a candidate for the European Commission and build a coalition around that resulted in the curious choice of having in 2019 a candidate hand-picked &agrave; la Monnet by few Member States.
+
+Candidate that then, toward the end of the mandate, de facto campaigned for a renewal, as if she were not President of the European Commission appointed by a political negotiation, but a USA-style candidate that does not even need primaries, and to turn from fall-back in 2019 into a two-term President of the Commission.
+
+As for recent issues: 
+<em>"the report stresses the importance of probity, transparency, and anti-corruption measures within EU institutions and suggests the establishment of a dedicated new independent office equipped with large competences and the means to undertake them."</em>
+
+Occasionally, when talking about similar point, reminded that, when asked by the CEO of a customer to propose a SOX-based organizational structure and process a couple of decades ago...
+
+... my report and proposal was for a structure and process reporting to the Board, not to management: in Europe, we have too much "internal audit" that is paraded as if it were a really independent technical structure.
+
+On enlargement, there is a list of changes proposed- again, you can read them within the report.
+
+Specifically, the report presents the future of Europe not as a single Union, but many: <em>"Differentiation could lead to four tiers of European integration, made of an inner circle (deep integration in areas like the eurozone and Schengen), the EU itself, a larger circle of Associate Members, involving participation in the single market and adherence to common principles, and finally the European Political Community (EPC), as an outer tier for political cooperation without having to be bound to EU law."</em>
+
+As I hinted above, a "d&eacute;j&agrave;-vu", as if even I, a humble management consultant with no access to any restricted or privileged information, could present that option almost two decades ago as a natural consequence, one wonder what happened since then.
+
+The rationale of my proposal back then was simply that a "core" group of Member States had developed a shared organizational culture, more than just the formal "acquis communautaire".
+
+New Member States, already under the Chancellor Kohl initiative that pushed many former COMECON Members within the European Union and NATO, had a kind of accelerated path motivated by the target, focusing on the formal, final state, not on cultural and structural change.
+
+The new proposed rounds, while keeping Turkey as an eternal candidate, instead would like to further accelerate, even ignoring what anybody reading news can see as structural deficiencies in some of the candidates- notably in what I called "Drang nach Osten" (Caucasus).
+
+If our American ally has "e pluribus unum", the two countries that already in the 1960s started working on closer integration (the [Elysee Treaty](https://www.diplomatie.gouv.fr/en/country-files/germany/france-and-germany/elysee-treaty/), with an encore few years with Italy, the [Quirinale Treaty](https://www.diplomatie.gouv.fr/IMG/pdf/26_11_2021_traite_bilateral_franco-italien_cle07961c.pdf 2021), before renewing again the 1963 French-German Treaty) ended up proposing a mere 3 years ago, discussing as what would be needed in the current term of the Parliament...
+
+... something completely different: "e uno pluribus" or, at least, "a continuation of "unum ex multis"- but the latter would be feasible, under that proposed change, only if there were no unanimity rules whatsoever.
+
+Otherwise, it would be back to what I heard once in Brussels a British diplomat presenting a book quipping about the UK position: to keep multiple tables, so that UK could be part of a different majority in each one.
+
+That presentation was in place called "La Piola", a Turin and Piedmontese name for a wine-shop, that had been just been opened nearby the European Commission, and routinely had book presentations (and introduced the Turin-style "apericena" in that section of Brussels).
+
+What was presented was a social engineering approach, that frankly in the XX century produced various side-effects, but as was reminded by a professor from Asia at LSE in summer 1995, a bit of social engineering (e.g. relaunching the "caste" system in India) was also a solution adopted before that.
+
+You can read within the official story of the MI5 how our own Mussolini actually was on payroll during WWI to help "monitor" an ally (Italy).
+
+It actually also listed the amount paid.
+
+So much for "patriots".
+
+Anyway, on enlargement, despite the rumors we heard since Russia invaded Ukraine, i.e. a faint echo of President Kennedy's "within this decade", the report 
+<em>"recommends setting a goal for both sides (EU and candidate countries) to be ready for enlargement by 2030"</em>
+adding 
+<em>"finally highlights nine principles for future enlargement strategies that all aim to make the process more effective, credible, and politically guided."</em>
+
+If anything, frankly, the reforms proposed would be too easy to block once implemented, to represent a real way forward (e.g. an 80% majority as an evolution of Article 7 TEU), or automatic sanctions five years after a proposal to trigger- as this would overlap with electoral cycles, and probably turned into a bartering tool.
+
+Too technocratic to be applicable.
+
+Obviously the report contained also a segment on EU reources, worth quoting in full:
+<em>"5. EU resources
+_ increase the EU budget in the coming budgetary period both in nominal size and in
+relation to GDP
+_ new own resources to limit tax optimisation, avoidance and competition within the EU
+_ budget decisions moved towards QMV for spending. If not possible: more enhanced
+_ cooperation between smaller groups of Member States to finance policies together
+_ establish a thorough spending review to reduce the size of some spending areas and to increase others
+_ enable the EU to issue common debt in the future
+_ each institutional cycle (EP term) sets a new MFF (five years)"</em>
+
+My position about the EU is of course closer to that discussed on page 12 as one of the two sides (before proposing a third one, remining the UK "New Labour" tradition): 
+<em>"Others see the EU as a parliamentary democracy evolving towards a federal state, a perspective embraced for instance by the CoFoE. The European Parliament (EP) should thus
+be further empowered, the Commission should become the EU's politicised executive and the Council a high chamber. From this perspective, politicisation of the EU is considered a good thing, democratic decision-making should replace technocracy, and a European public sphere should be fostered."</em>
+
+There is a contradiction between seeing the European Commission adopting a political role (which would imply accountability but also being subject to voters' scrutiny), and suggesting to have two layers of Commissioners:
+<em>"Ideally, the two Commissioners should not belong to the same political family."</em>
+
+Or the proposal, reminding the beginning of the ECB, to have "Lead Commissioners" switch roles with the "Commissioners" after 2.5 years.
+
+The incumbent Commission already more than once announced what were political choices- sometimes, as an initial intervention on Palestine, or proposed EU-level management of defense procurement, or proposing to send troops, apparently (from what the media reported) without even achieving first a consensus not just with the "political families" that supported the European Commission, but even Member States.
+
+I am a freelance, but I am not the President of the European Commission.
+
+And even as a freelance, when on a mission, I have stakeholders to involve in decisions, and would be sent packing if I were to routinely take initiatives and then pass the bucket to the stakeholders to foot the bill.
+
+In 2023, writing about the "Spitzenkandidat" approach, the report wrote: 
+<em>"The launch of the lead candidate system in 2014 and its semi-failure in 2019 ultimately led to post-electoral messiness."</em>
+
+Well: if anything, in 2024 we got an even worse case- a different coalition to have confirmation of the President of the European Commission and to define the Commissioners did not help to clarify.
+
+So, overall, while many of the proposed reforms of 2023 aimed at the next electoral cycle (your could read it as the current one, or the next one), it will be interesting to see how the long negotiations and consensus building would make it feasible within a European Union with 27 Member States and a continuous stream of national elections that could flip the coalitions in each Member State and hence the agenda represented by them.
+
+The diagnosis on how even recent reforms in the 2019-2024 resulted more in rubber-stamping than reducing the democratic deficit is something difficult to disagree with, but the recommendations have feather-like weight: if the European Commission prefer to state that it knows better and ask everybody (not just citizens' panels) to rubber-stamp its choices, it is not the European Commission that will alter the balance.
+
+The proposal to create a new "Office for Transparency and Probity" (OTP) independent from the EU institutions is probably the strongest point, considering the continued expansion of initiatives where EU institutions (notably the European Commission) has a leading role: 
+<em>"The centralisation of competencies relating to EU institutions' good governance in the hands of the OTP would have three advantages. First, it would enable the uniform and consistent application of the rules to the various EU actors and institutions which is not currently the case.
+
+Second, it would clearly affirm the EU's desire to be exemplary in this area. Third, the OTP would have the means to actively promote transparency and probity, without waiting for
+complaints or allegations of misconduct, as is often the case with existing organs"</em>
+
+The only point of the report that really survived the 2024 EP elections is the enlargement of the budget: 
+<em>"The prospect of enlargement and the reconstruction of Ukraine, as well as the fact that EUR 600 billion every year will be needed to meet the EU's emission reduction objectives, all call for a substantially larger EU budget. Additionally, the debt issued under the NextGenerationEU programme will need to be repaid
+progressively as of 2027".</em>
+
+As shown while presenting the new budget, when Members of the European Parliament told the Commissioner sent as a sacrificial lamb into the lion's den before the President of the Commission elsewhere presented the budget...
+
+... on YouTube you can find the recording: they were receiving less information than journalists, and anyway the NextGenerationEU repayment was missing from the figures.
+
+Interesting the consideration within the conclusions: 
+<em>"The first is that the inclusion of new Member States is a geostrategic imperative - the stability of the continent and the security of the EU and candidate countries require rapid progress in this area, whatever the scale of the task.
+
+The second observation is that the EU's institutions, policies, and budget must be reformed before any further enlargement, or at the very moment of the next one. If this does not happen, the EU's ability to function well will be at risk. Reforms after enlargement will be more difficult and very unlikely. The new Member States will be preoccupied with managing the acquis communautaire and their integration into the single market and the Union in general. At the same time there is no reason why the current 27 should not be in a better position to agree on post-enlargement reforms than now."</em>
+
+And this is the "map" of the Dante's "Divine Comedy"-style circles:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260821_purgatory.png)</center>
+
+How do I rate the report? A missed opportunity for a "Monnet Moment" that would have made a difference if fully implemented before the incumbent President of the Commission started campaigned to become 
+
+The only thing that really is apparently reaching a consensus is keeping 2030 as the proposed next enlargement round.
+
+Personally, the recent ["Drang nach Osten"](https://en.wikipedia.org/wiki/Drang_nach_Osten) aiming to include Moldova, Georgia, Ukraine in the next round would add three weak states whose alignment with the EU values is still to be proved.
+
+Three states with plenty of issues, adding just a buffer zone that would need anyway to be supported and defended from our side.
+
+Yes, that concept is actually from the XIX century political history of Germany- I suggest to read ["Bismarck: Der weisse Revolution&auml;r"](https://www.amazon.it/Bismarck-weisse-Revolution%C3%A4r-Lothar-Gall/dp/3548265154) to understand a bit of the developmental history of the unification of Germany.
+
+With some quirks: in the early 1990s, my German girlfriend reminded me that Bavaria formally never signed, and for fun (she was working in that domain) she showed me visually how in other German States the road were connecting points, while in Bavaria all the roads seemed to lead to Munich, the Rome of Germany.
+
+A reminder of a German contact working for some official organization while I was living in Brussels, who, at the time when Georgia was about to get into a conflict and then into it, made up a supposed love story in Georgia to have an excuse to go and visit Georgia.
+
+Or what I read while visiting the Wannsee museum about the nazis' plans for the Caucasus (including Ukraine) after winning the war.
+
+Thinking geopolitically, would make more sense adding instead Iceland and consolidate the Balkans as soon as possible.
+
+To complete the arc from Greenland, getting more say on the new North Pole routes that will become increasingly critical for international trade, also if you ignore the natural resources lying there.
+
+And to avoid having a fifth column in the Balkans, a wedge between Greece Romania Bulgaria and other existing Member States, such as Croatia, Slovenia and, yes, Italy.
+
+Personally, I would prefer eventually to see also Turkey join the EU.
+
+Anyway, within the annexes of the report you can see details on the "how" of each proposal, summarized within the conclusions as:
+<em>"- the better protection of the rule of the law, via a reform of Article 7 TEU;
+- the harmonisation of EU Member States' electoral laws concerning EP elections;
+- the adoption of a new mechanism to allocate seats in the EP and to limit their number;
+- transition to QMV and OLP in all 'policy' areas;
+- changing voting weights within QMV in the Council;
+- limiting the use of unanimity in the Council;
+- extending EU competences;
+- the creation of a 'Joint Chamber of the Highest Courts and Tribunals of the EU';
+- a reform of the EU's Multiannual Financial Framework;
+- increasing the EU budget in nominal size and in relation to GDP;
+- the creation of an 'associate member' status.
+"</em>
+
+The future is now, yes- but building a future requires something more than writing a manifest online.
+
+
+<b>B_The fair-weather European Union</b>
+
+Yes, you already saw the title of this section within the introduction, in previous articles, in posts online, and...
+
+... will see it few more times.
+
+What you read within the previous section is just a hint of what could or could not be part of the collective future of the European Union- 27, 28, 35- whatever.
+
+Actually, most of that report assumes also that Member States would accept to become part of a circle or another, and will also support the overall cost of the whole.
+
+Something akin to another example from history that since President Trump returned to the White House repeated often: [The Athenian Delian League](https://en.wikipedia.org/wiki/Delian_League).
+
+While President Trump asserts repeatedly his supposed inherent right to hegemony over allies, within the European Union it is more nuanced- the "Monnet moments" I repeatedly refer to were a sign of temporary convergence of interest that pulled the European train in a direction chosen by the aggregation of interests, assuming that the others will follow.
+
+Also the 2023 report discussed in the previous section, while improving decision-making is one of the stated purposes, still integrates that European obsession with various forms of "exceptionality": and, frankly, it is difficult to understand how decision-making would be improved if there is the continuous presence of the "opt-out" Damocles' sword.
+
+At best, creates regulatory bartering opportunities for parties able to relocate at will to benefit from the options (mainly corporate entities and those from outside Europe), generating a de facto self-inflicted "beggar thy neighbor".
+
+At worst, in our world where, as shared in the first article of this series, the concept of "dual use" and "domain exclusive" is next to impossible, a veto opportunity that was carefully removed by crafting the policy domains where e.g. being unanimous would not be required, could resurface from downstream choices that are still on a State-by-State basis.
+
+I actually recently focused in posts on a couple of themes that represent a significant test of the "union" part in European Union:
+_ defense (or defence, if you prefer)
+_ migration management.
+
+Just two examples of what shared, first on defense procurement:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260821_european-procurement.png)</center>
+
+then on migration management:
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260821_migration_20260818.png)</center>
+
+If we were a real union, our external borders, while still remaining national until formally there is a political appointed executive with democratic legitimacy also at the European Union level, should be considered a shared burden: being a land-locked country and benefiting from being a Member of the European Union should include sharing the burden of external boundaries.
+
+Ditto for defense- both industry and "boots on the ground": European Union Member States even since the beginning of the XXI century repeatedly were unable to converge on a shared foreign policy set of choices.
+
+On both issues, we are actually exposing a significant weakness that could (actually, is) be exploited by both friends and foes to follow the old dictum "divide and rule"- which was actually what the UK diplomat presenting his book in Brussels was defining, in pure "Yes, Minister" or "Yes, Prime Minister" style, as the strategic interest of UK.
+
+Italy, my country, was said, around the time when was unified "too large to play second fiddle, too small to be premier league", hence often we ended up in doing what my British friends said "never ending a war with the same side it started with".
+
+UK instead was able to be on all sides as once- and I remember how, when Tony Blair was UK PM, commentators said that one of the issues was that, whenever involved e.g. as a mediator, anybody talking with him came out with the feeling that he was on their side.
+
+Being unable to share burdens and converge on a unified position way too often for comfort, media reported during President Obama mandate that his comment was that we Europeans created no issue, but helped to solve none.
+
+In recent discussions about adding Moldova, Georgia, and Ukraine, they were variously described as a "buffer zone" against Russia.
+
+Which reminds when decades ago there were discussions about deploying tactical nukes (e.g. launched by artillery), and delegating authority to those on the battlefield.
+
+Fine concept to reduce response time should the defenders risk of being run over from superior conventional forces invading Europe from the East.
+
+Fine, if you are based in Washington- but imagine if you are in Germany or Poland, and then receiving the direct impact of those tactical nukes, and, moreover, being unable to return for a long time.
+
+Once President Biden made a speech about Ukraine that I summarize under "we will fight to the last Ukrainian": I do not think that in Moldova and Georgia would like to hear the same kind of speech.
+
+The title of this article contains the keyword "balance"- and, as you can see from just these two domains, the point is again balancing between States and the European Union: something that has been part of the debate in the USA since the beginning, as remembered recently by a Supreme Court ruling on a specific case that could actually have ripple-effects, backpedaling from federal agencies that in the end covered both executive, regulatory, and assignment of penalties and remedy (three powers rolled into one), to a different balance- and some States are already reported starting their own "national" frameworks.
+
+Within the European Union, our approach has been routinely, not just in Directives (that require a local adoption) but also in Regulations (e.g. GDPR) a kind of "together but separate while harmonizing".
+
+Which is fine while there are no issues- but then divergences arise.
+
+Setting aside defense and migration that would require a more systemic perspective, just read the preamble of the original GDPR, and look at the "opt-outs" adopted by some Member States.
+
+There are structural differences between countries- and not just on the debt measure that makes the Northern side of the European Union obsess.
+
+Admittedly, a State debt has to be sustainable: and rightfully the "bazooka" used by Secretary Bessent to "offset" the announce that the 40 trillion debt threshold has been passed was riduculed, e.g. in this funny articles in French:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260821_usadebtbazooka.png)</center>
+
+That "nano-bazooka" frankly reminded me the creative market manipulation that in 1994 was shown in Dublin: with an American classmate, we visited one of his Irish family friends, who was working in local stock exchange- a story that shared in the past few times, but it is relevant now.
+
+I brought us first to visit the room were back then they were still meeting- adding that it was kept just for sentimental reasons- and, incidentally, showed us nearby the place where the U2 started.
+
+Then, we went in his office, and he showed us where the real business was done- screens looking at London and at New York.
+
+Then, later, showed us what happened during lunch break in New York back then: trading flattened, but suddenly there were some spikes unrelated to volume.
+
+He explained us that back then were just ignored- as were rookies who assumed to be smart by waiting for everybody to go to lunch.
+
+Solution? Not regulations etc- at the time (it was long before our hypertech times and when Internet was not yet "the thing"), simply were ignored.
+
+So, that "nano-bazooka" was timed in a creative accounting way- akin to when in the 1980s was told that, as the same analyst was assigned to each stock year after year, a gimmickry was to write annual reports that looked identical, using (it was before many rounds of regulations) miniature notes to highlight questionable elements- that were often missed, as the brain of the analyst saw visually exactly the same, and looked therefore at the same elements to see differences, but often did not really register the cryptic decomposition in notes.
+
+France and Italy have a large stock of debt, and a social welfare system (including health) that is under strain.
+
+On top of that, Italy has seen a wave of delocalizations and contractions in production: in my birthplace, Turin, I still wonder whenever I read bombastic announces from those in the automotive industry announcing a shift toward the defense and aerospace industry- forgetting that volumes, product characteristics, business processes and quality measures are structurally different.
+
+If a car is built to be replaced via the continuous regulatory changes, a plane is build to fly for decades, with a "cadence" of maintenance runs that first saw, on a smaller scale, while in the Army.
+
+Back then, we had the equivalent of the military Jeep, the AR76- and whenever one was delivered, there was the routine schedule of maintenance that also car users are used to.
+
+Plus, more significant maintenance as time went by.
+
+Well, I already shared how, during an alert following Libya's launch of "missiles" toward a Sicilian island, for around a month we were on a daily alert, and each evening I was there typing the "crew list" of vehicles- and putting myself as "capomacchina" on the last one (I declined twice to be promoted, so was just an Artigliere but Furiere, along with other things: office management, and the like).
+
+So, maintenance schedule: but what do you do when supply of components is not aligned with demand, and you have a failure before the scheduled time for that level of maintenance?
+
+Cannibalize. And when, one night, instead of the alert being called off, we went up to seeing the second to last vehicle revving up the engine to move, when my crew said that it was our time, I replied that, if really the vehicle in front of us started moving, they should prepare to jump off- and push.
+
+Reason? The engine had been "cannibalized"- no enging, but that engine produced many spare parts for other vehicles.
+
+Now, why this joke-digression? Because it is exactly the approach that in Europe we still follow often in industrial policy- and not just in defense.
+
+Italy has had a long history before becoming unified in 1861- and we are still endowed with buildings and assets of the former statelets that composed the peninsula.
+
+As shared in the past, it is a routine for the annual budget to include "selling" of bits of those assets, to balance figures, and... never to actually achieve anything close to that.
+
+Hence, instead of playing an accounting gimmickry, now that the Italian debt is attractive to foreigners, to avoid potential issues somebody could just consider swapping the debt held nationally with those assets, and reduce the stock of debt- a kind of "selective default" that actually is akin to a buyback without using fresh money, and avoiding a chunk of those 200+ billions/years that need to be refinanced.
+
+It could actually create a market for interior designers, if rules were relaxed, and expand the market in AirBnB and the associated services.
+
+A joke- just a joke: but, in Italy, often you hear short-term solutions that are equally convoluted, such as the continuous (since decades, also if the opposition seems to forget) scam that has been the management of the licensing for beaches in Italy.
+
+Now, you can read on newspapers each summer how migration flows touch a nerve across the whole of Europe, not just European Union.
+
+As we still show the map with external borders, talk about Frontex, but then... each country is left with the lighted match burning the incumbent government fingers, and the ensuing political fallout.
+
+Nice to read that crystal palace that was the 2023 report, and all the bilateral treaties, and the Draghi report, and all the speeches that came along the Recovery and Resilience Facility / NextGenerationEU.
+
+Then, you look at reality: outside our control, as migration- and under our control, as the implementation of that quilt that is the industrial-policy-by-announces-and-lump-funding that has been a constant since the first term of the incumbent President of the European Commission.
+
+And you will still see a "fair-weather Union": something glossed over by the annual "State of the Union" that increasingly mimicks the USA one- specifically, President Trump bombastic announces.
+
+As wrote before, often our own policy design seems to be linked to cocooning in our self-referential sense of European superiority, up to the point of stating what we will do as if all the rest of the World were to then frozen and wait for us to fully deploy and implement.
+
+Unfortunately, also before the invasion of Ukraine in 2022, that has not been the case- and that our own industrialists keeps asking for tinkering with regulations while expanding assets outside the European Union to manufacture under non-European rules but ready to "integrate" that into "Made in Europe" products as soon as the tinkering goes far enough is a clear sign that we still are just a market, and increasingly a target market.
+
+Anyway, instead of focusing on segmented policy and tinkering, we could take a page from other domains (and other experiments- including that French-German report of 2023).
+
+
+<b>C_Way forward?</b>
+
+The Draghi Report released in September 2024 (official title: "The future of European competitiveness", specifically "Part A | A competitiveness strategy for Europe") was around the same length as the French-German report, but had a hefty second volume.
+
+As shared within the introduction, will discuss it in another article, focused on the "business side" of this series.
+
+Anyway, everybody routinely references just a bit of the section "5. Financing investments"- when it comes to investments, riding on the shoulders of the former President of the European Central Bank is a kind of "free pass" for any politician proposing initiatives that require massive investments.
+
+Unfortunately, many focus on the first part:
+<em>"To meet the objectives laid out in this report,
+a minimum annual additional investment of EUR 750 to 800 billion is needed"</em>
+
+forgetting its contextualization:
+<em>"based on the latest Commission estimates, corresponding to 4.4-4.7% of EU GDP in 2023. For comparison, investment under the Marshall Plan between 1948-51 was equivalent to 1-2% of EU GDP. Delivering this increase would require the EU's investment share to jump from around 22% of GDP today to around 27%, reversing a multi-decade decline across most large EU economies.
+"</em>
+
+More than a "bold" move, a marketing ploy: that 5% would make significant impacts if done as an aggregate or at least with a portfolio approach (if you need, as in the USA, to then share job creation across different Member States), not just by simply expanding on a country-by-country basis the existing.
+
+And who would control that 5% EU-wide, to ensure impacts, as it is becoming blatant that the Recovery and Resilience Facility / NextGenerationEU focused on the first element of the triad, but still to be assessed the real impacts on the second and third?
+
+The Draghi report section "Three transformations ahead for Europe" does surf on the issues, but does not push the "jointly" button, excerpts:
+<em>1. "the need to accelerate innovation and find new growth engines"
+2. "Europe must bring down high energy prices while continuing to decarbonise and shift to a circular economy"
+3. "Europe must react to a world of less stable geopolitics, where dependencies are becoming vulnerabilities and it can no longer rely on others for its security"</em>
+
+There is of course also in that report a reference to the same points discussed in the French-German proposal, but with a "technocratic" perspective that betrays the experience as national and EU central banker, as the description mirrors what I saw since the late 1980s in Italy to evolve the Italian banking industry:
+<em>"To move forward, Europe must act as a Union in a way it never has before, based around a renewed European partnership among Member States. It will require refocusing the work of the EU on the most pressing issues, ensuring efficient policy coordination behind common goals, and using existing governance procedures in a new way that allow Member States who want to move faster to do so. In many areas, the EU can achieve a great deal by taking a large number of smaller steps, but doing so in a coherent way that aligns all policies behind the common goal. There are other areas, however, where a small number of larger steps are needed - delegating to the EU level tasks that can only be performed there. The case for delegation applies most of all to the type of European public goods described above. Such goods may not have direct spillovers on all countries which are called to contribute, but they have large indirect spillovers for the whole EU. There are still other areas where the EU should do less, applying the subsidiarity principle more rigorously and showing more 'self-re-
+straint'. It will also be crucial to reduce the regulatory burden on companies <omissis>. To begin with, a small number of overarching, targeted institutional changes should be made - without the need for Treaty change".</em>
+
+Yes, the concepts are the same that were in the previous section: but, frankly, are the same that as a young federalist heard in the early 1980s.
+
+Hence, the focus on the "800 billion"- which seems a large amount but depends on what will be considered within that- as other estimates state that, as an aggregate, EU already is on the tune of 600 billion per year, so, as it happened with the Recovery and Resilience Facility, some might consider a "washing" of the figures to show progress.
+
+If really were to be 800 billion new resources each year, it would mean, assuming that it is searched on the market, having an aggregate of 4 trillion EUR in a five year term.
+
+The "multi-speed" European Union has been a structural element since long ago- it is what "Monnet Moments" are all about.
+
+Ditto bilateral treaties.
+
+Still, it was at a time with no collective European Union debt to serve.
+
+Asking to have that amount as a collective, but then have really to benefit those willing to "move faster" would be akin to the Delian League or, if you prefer "robbing Peter to pay Paul".
+
+I do not think that the Peters of the European Union would be that happy, to sustain the accelerated integration of the Pauls of the European Union.
+
+And stating "we know better, trust us" did not work for the European Constitution referenda, and did not work for Brexit: why should it work now, notably when it is expected to have the like of Le Pen or AfD to expand their political influence on the European agenda?
+
+The more grand-standing we get in announces, the more that side wins, as does not need to provide counterpoints on specific elements- can, as was done for Brexit, simply highlight the attitude and fabricate "future figures".
+
+It would make more sense to blend those "Circles" with costs and benefits- and financing, if really cannot built a shared new single European Union way forward.
+
+Or: each circle should have a kind of Memorandum of Understanding, with associated financial (including investment and pooling of resources) and structural obligations.
+
+Still, there would be a set of "shared services", our "European Union Commons"- but, as we are heading toward a probable re-balancing of powers, observing what will happen with USA federal agencies after the recent Supreme Court ruling could inspire some ideas.
+
+There is another element that we forget, when we wrap ourselves into the European Union flag and mystique.
+
+When I was traveling from Ann Arbor to Phoenix by car in the late 1990s after the graduation of an American friend at University of Michigan, we had time to talk also with other travel companions, and others what we met across the USA.
+
+I was supposed to visit him only for the graduation, but he asked me if I could spend a couple of weeks there- and of course seized the opportunity to see the USA across with other Americans, not as a tourist- and notably areas that tourists would not visit.
+
+At the time, I was told that up to 10% of the population shifted state each year- and actually one of his family business activities eventually was to look for property vacated by those who relocated, and offer to renovate and sell or manage, as many of those who moved did not have time to follow that process.
+
+So, when we talked about salaries, we discussed each one of the continental states, and saw the significant differences- funny the pun "if you do not mind earthquakes, you can move to California", and comparing how much a salary had to be in New York or Dallas or Chicago to have the same lifestyle of a smaller town.
+
+Still, in a country with no official language, having all the laws in a single language, and the possibility to rely on networks that allowed smooth transitions plus federal laws helped.
+
+Yes, a friend in California and then others in Texas told me that sometimes to get by you needed to have Spanish, not just English.
+
+In Europe, I relocated few times: from Italy to UK, from UK to Belgium, from Belgium to Italy.
+
+Moreover, worked for a time mainly in Paris and German Switzerland, and was able to see plenty of differences, and talk with other colleagues who had done other relocations.
+
+Already now is still complex: better than before, but still complex.
+
+Example: decades ago, in the late 1990s, I had just moved to London, and had not yet converted my Italian driving license into a UK one. 
+
+While visiting in Brussels, it was stolen.
+
+Then, I discovered that Italy could not give me a duplicate as I was not anymore resident, and the UK relevant office wrote me that they could consider documentation but, having not received the original one and therefore having no evidence, was out of luck.
+
+In Belgium did not try- as was living in Brussels, and also in Paris and German Switzerland was fine with public transport.
+
+When returned to Italy, eventually was said by friends to go and apply before my 50th birthday, so that could be renewed for 10 years instead of 5, as now the rules had changed.
+
+Went to the relevant office and was told that, as I had received the driving license in 1990 and had expired in 2000 but they had not proof that I ever used it (I did, but never got fines, suspensions, etc)...
+
+I said "then, I can study and pass again".
+
+They told me to hold my horses: as I had driving license permit, I would first need to have a meeting with a commission evaluating, then could redo all the paraphernalia again.
+
+Anyway, the commission met only few times a year, and would take months, and... would go well past my 50th birthday.
+
+So, I said that I would do it when I were to need it again.
+
+Now, imagine having to transfer not just yourself, but also your family- and each time having to deal with different bureaucracies in different languages with different traditions.
+
+Add on top of that the "circles" of integration within the French-German and Draghi proposals, and you will see a cognitive difference.
+
+It is fine for large corporations, not for small ones or individuals.
+
+And, frankly, from my discussions with colleagues and customers since the 1990s and up to 2026, also for a large corporation shifting somebody from a Member States to another Member States while keeping even a "neutral" impact on existing state-by-state treatment of employees is not so easy- notably if you do not want to make exceptions, but set up rules.
+
+When in the 1990s was hired by the Italian branch of a French company to work in Turin as senior project manager to deliver courses on methodologies, after my induction month in Paris and seeing that I had already experience in pre-sales in management consulting, the head of corporate marketing announced me that he had had a talk with the CEO of the Italian branch (a Swiss-French) and I would return not to Turin, but to Milan, to head a new business unit.
+
+The transfer package including an apartment (initially, a "residence") plus being considered permanently as if I were outside town (as anyway would not stay that much in Milan- I had to travel around Italy a lot), with a charter to develop my business unit but also the use of our methodologies by other product-oriented business units.
+
+And was further promoted to "cadre" shortly thereafter- despite having no university degree, with the motivation that, beside minding my own commercial and content business, I also went the extra mile to help other peers in order business units, and not trying to "show off"- as my attitude has always been to help others work beyond their assumed potential, and becoming owners of what we built together, as I was switching from mission to mission.
+
+So, in that case, the French company actually adopted an approach that found again recently.
+
+Few years ago, was told that transferring in Italy somebody from France, notably if had children, would generate additional costs to the company just to keep "neutral".
+
+Unsustainable, in many cases.
+
+And also in 2024-2025 met others coming from France for smaller companies, in business development roles: in their cases too, in the end, as it was one-off and temporary, they had actually formally retained the French contract conditions, not the Italian ones.
+
+So, reforms should consider not just the "technicalities" of integration- but also the practical side and what would be the impact on citizens.
+
+We have a de facto multi-speed European Union- but formalizing that within the structure, resources, etc would have significant impacts on everyday life- and should consider the political climate.
+
+The first litmus test will frankly be the implementation of the 28th jurisdiction for companies and startups that the President of the European Commission announced in September 2025 in Turin.
+
+But that will be for another article.
+
+Meanwhile, if you really want to generate incentives to develop European Union integration, extend the Erasmus approach (without the funding and bureaucracy) to citizens and companies, maybe by creating a new EU Agency whose purpose is just to have a cross-EU relocation advisor, something that with AI and all the regulation-collection entities should be relatively easy to develop: not yet another portal, but a tool that, given information about your own current status in your own country, would tell you how that would convert in another Member State (yes, also after introducing the circles), and prepare a draft list.
+
+If you want to change status (e.g. moving from being an employee to becoming a freelance) is still more complex, but having that first "assessment" would help you in making choices- maybe then contacting specialized agencies that of course would "wrap around" that service.
+
+My personal relocations were done manually, but while moving to UK anyway had local contacts that provided me a temporary office, a list of things to do, the name of their accountant, the name of the company formation agent- was much smoother than my relocation in Brussels, where instead e.g. to open a VAT ended up having to prove that my high school in Italy existed (was not on the list, despite being one of the most important in Turin), and proof that I had had already a VAT in other EU countries (which should have been done automatically), as each area of Brussels had its own "filter agent" to pre-validate demands: when the answer arrived, I had already shifted as could not get local customers without that.
+
+And re-registering in Italy in 2012 was equally cumbersome, despite having been a citizen since my birth in Turin in 1965, and having had already a long local history.
+
+So, there is plenty of potential "integration" work to do- while defining what would be (a roadmap is needed) the balance between Member States and the European Union looking forward, probably negotiating some "pivot opportunities" along the way, and keeping, anyway, open eyes to what the rest of the World is doing, not building a self-referential roadmap.
+
+A small announce: and recently updated my "Morning News with Claude", now at version 1.5.1 (you can find on GitHub the daily releases since March 15th, while on Patreon there is a free collection)- now Eurostat is formally integrated, not just referenced when news appear.
+
+The logic of that application of AI is actually an evolution of a process used since decades to manually walk the talk about "looking beyond your own knowledge boundaries", a PESTEL (Political-Economic-Social-Technological-Environmental-Legal) perspective that actually helped already in the 1990s in many business activities for my partners and customers.
+
+So, will build and release something around that "history of daily releases"- but will discuss this in a future article on why I think that software licensing should be replaced with something else, something that actually saw already working decades ago, to avoid the cumbersome management of licensing and evolution of requirements.
+
+Meanwhile, have a nice week-end!

@@ -1,0 +1,104 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260901_article.png)</center>
+
+
+This article is within [BooksBlog- Books in progress](https://robertolofaro.com/index.php?section=books-blog).
+
+It will, as usual in this section, short.
+
+If you followed either my [Linkedin](https://linkedin.com/in/robertolofaro) or [Facebook](https://facebook.com/robertolofaro) profiles, you saw that few weeks ago announced the forthcoming release of a new initiative related to my [UHF](https://changerulebook.com) fictional team (at the link you can see also their own Facebook page, instead the website is in preparation).
+
+Actually, you might have also seen that in July halted temporarily the expansion of the monthly [AI Ethics Primer](https://robertolofarolofaro.com/aiethicsprimer) that started releasing in July 2023.
+
+Key reason? I saw a dwindling release of papers that added to the purpose of the AI Ethics Primer (helping non-technical business people to cope with ethical and governance issues)- and too many "I have to publish papers on this", including some that sounded a lot as at least "AI-assisted".
+
+So, as shared last month, will for now just keep updating the existing 999 papers within the database, should new version be released, while I prepare material related to the concept.
+
+I was considering a concept to release later in September, a dual "book + comics presentation", both really focused on cultural and organizational change integrating AI, and I had a nice opportunity.
+
+Received few weeks ago a message from Amazon/KDP about a run from Amazon UK that started on May 1st and was to end on August 31st, 23:59 BST.
+
+Well, I decided that August would be the right time- so, changed my plans, and decided that both my UHF magazine and the book would be out by August 31st.
+
+Unfortunately, had few delays, hence ended up...
+
+... releasing the paperback version by 23-something CET on August 31st, and then saw this morning, while checking my 5am Morning News, that actually the confirmation of the book release was sent at 00:12 CET, i.e. in time to actually release also the Kindle version.
+
+Now, it will be interesting to see if that is considered having released the book within the deadline- or partially in, partially out.
+
+Anyway, the deadline push did the usual- resurrected by habits from when had some project or initiative recovery activities that required an immediate set of stop-gap interventions.
+
+Few years ago on a project, where during a transition to go live, ended up being so focused that was the only one who stayed on continuously, 6am to 2am, and then again the following day, until completion- delivering a degree of continuity while staying in backstage.
+
+In this case, the "tour de force" of 18-20h/day activities lasted a week- but this time, was used to start really early, as if... were preparing for a meeting before lunch in Australia (also if my daily meeting instead is with Claude, to review the run of my Morning News before releasing it, and see if Claude identified issues that require adjusting- hence, it is now at version 1.6.1).
+
+Curious how, instead of being tired, I felt this morning energized- as I did in the late 1980s when I had to do similar activities on different projects.
+
+This image is how this morning announced on social media the dual release:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260901_publication.png)</center>
+
+As I had decided to release on Amazon + Kindle, immediately the point was: color or not? And how to manage the AI-generated content (the images that I included in the comics- designed the team, the description, the appearance, but then used AI for this first issue, to ensure consistency while I recover my drawing skills for my hamsters' sake)?
+
+Solution: have a book that can be just B&W, move all the comics side into a separate magazine as planned, and, as it is more a style and ethical guideline for the H-Team, put it on archive.org as a permanent reference for anybody to read and use- as, in reality, describes different roles that should be available in each project or initiative.
+
+The book is really an application to advocacy of concepts that developed and used since decades in business with partners and customers, and that the UHF side represents in a hopefully more entertaining way than my long articles on change.
+
+For now, will not discuss more about the book content, but will just shared the table of contents:
+<table>
+<tr><td>
+<tr><td>DEDICATION</td><td>3</td></tr>
+<tr><td>CONTENTS</td><td>v</td></tr>
+<tr><td>Introduction</td><td>1</td></tr>
+<tr><td>1 Active citizenship</td><td>5</td></tr>
+<tr><td>2 Citizen Audit</td><td>18</td></tr>
+<tr><td>3 Open Source Intelligence</td><td>28</td></tr>
+<tr><td>4 AI-Augmentation</td><td>39</td></tr>
+<tr><td>5 Phases</td><td>57</td></tr>
+<tr><td>6 Network</td><td>64</td></tr>
+<tr><td>7 Leadership</td><td>73</td></tr>
+<tr><td>8 Conclusions</td><td>81</td></tr>
+<tr><td>Introducing UHF Journey</td><td>85</td></tr>
+<tr><td>Bibliography</td><td>87</td></tr>
+</table>
+
+And this time the dedication did not select my usual round of authors- albeit Rawls, Orwell, Bernays, Packard, Eyal are quoted within the book, along with the Italian Constitution and... Claude Constitution.
+
+I selected someone that I equally liked while in high school, at a time when one of my pastimes was to read and compare Constitutions: Catullus, specifically... <em>"Nil nimium studeo, Caesar, tibi velle placere, nec scire utrum sis albus an ater homo."</em>
+
+Which is quite aligned with the title and content.
+
+The UHF Journey 2026_00 actually had a double duty: summarize concepts within the book on "how" to organize those activities, and presenting the roles and concepts assigned to each team member, and introduce what in the book is better described within e.g. chapter 7: leadership within a "swarming" and purpose-oriented temporary organization.
+
+Because I worked and helped design, improve, reform bureaucracies- but I think now as since forever that bureaucracies are about continuity- and potentially (but with humans is difficult- maybe AI will help) technocratic neutrality that transcends tribes, lobbying, and even corruption.
+
+Not creativity. Not problem solving. Not innovation.
+
+Elements from bureaucracies must be part of those three elements, if you want to obtain any of the three: I am against scapegoats, as I think that those who fail often with a small nudge can be key to finding the solution and avoiding an encore.
+
+And walked the talk as a management consultant: listening more than talking, and having a penchant for listening to those that many avoid in most organizations- people who complain, complain, complain- but based on evidence.
+
+Because they might be disheartened, disappointed, might have develop their cynical side against any change- but, if they talk and share in a structured way, they actually still care about the organization.
+
+The mini-book actually embeds in chapter 4 a primer on using AI in organizations, not just temporary and leaderless.
+
+As usual in my articles, it contains links and discussion on books, movies, and reports- including the recent (June 2026) report from the OECD about the future of democracy and AI.
+
+I made a choice: each assertion is documented by links, as I want others, as usual, to be able to make their own mind.
+
+More material will follow in the future- as this mini-book is about active citizenship, citizen audit initiatives, citizen auditors, and AI- but each one of the three elements would deserve its own mini-book: and, actually, if you search this website both within the articles and books that published, you will see that the concepts in the book (less AI) have been part of the material shared online since at least 2003, when published my [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com) e-zine on change.
+
+Incidentally: the hamster side will use the website [ChangeRuleBook.com](https://changerulebook.com), and also, eventually my YouTube channel, [@changerulebook](https://youtube.com/@changerulebook).
+
+As for [BusinessFitnessMagazine.com](https://businessfitnessmagazine.com) and its consulting companion [PartnershipIncubator.com](https://partnershipincubator.com) that used to both support startups in the early 2000s to early 2010s, and to also join workshops organized by European institutions in Brussels on e-government and related (e-health, e-inclusion, e-participation, etc)...
+
+... was considering selling them to a party that already acquired almost 20 years ago a related website (I used it to self-finance my first customer project in Brussels, the one that I had to leave due to interference from Italy in July 2008)- but as received neither feed-back nor an offer, the table is still open, as anyway the plan is to move into publication (under that name or another) in 2027, or as soon as the EU 28 "jurisdiction" is up and running.
+
+So, for the time being, while next week will resume publishing articles within [The Future of Europe](https://robertolofaro.com/index.php?page=666) and other articles, will also prepare the next quarterly issue of UHF Journey, as a year-end release.
+
+Each issue will be focused on a specific case, represented by a single word on cover.
+
+Inside, you will find a narrative following a structure that will follow my management consulting approach, and where H-Team members will show in practice how they cope with each case, with team organization aligned to the specific needs, not to a hierarchy.
+
+Incidentally: and will keep releasing, as did yesterday, the Monday evening update on ECB public announces and communication, to ease access and research.
+
+Stay tuned!
