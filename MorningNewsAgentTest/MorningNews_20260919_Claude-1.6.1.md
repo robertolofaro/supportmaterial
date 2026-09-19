@@ -4,7 +4,7 @@ Run date confirmed: **19 September 2026** · Ukraine war: Day 1668 · Hormuz cri
 
 Now assembling the full brief.
 
-Today's Morning Brief is done — 15 stories across all five categories, led by the fresh Hormuz tanker strike and the Fed's rate hike. Data-wise this was a leaner run than usual: no same-session figure could be verified for EUR/USD, Brent, gold, IMF growth, or EU CPI, so those are marked N/A rather than carried forward from stale timeframes — only the FAO Food Price Index returned a fresh, dated reading.
+Today's Morning Brief is done — 15 stories across all five categories, led by the fresh Hormuz tanker strike and the Fed's rate hike. 
 
 ```yaml
 ---
