@@ -171,10 +171,10 @@ expansion_queue: []
 **Summary:** The Left party made significant gains in Berlin, raising the prospect of a left-led city government focused on housing. In Mecklenburg-Western Pomerania and other eastern contests the AfD recorded further advances, maintaining pressure on Chancellor Merz’s coalition. Exit polls and early results confirmed a fragmented landscape.  
 **Legislative/policy stage:** Government formation under way in Berlin; federal implications for Merz.  
 **Sources:**  
-- [Euronews — Left triumphs in Berlin as AfD surges in Mecklenburg-Western Pomerania](https://www.euronews.com) · 22 September 2026  
+- [Euronews — Germany: The Left triumphs in Berlin as AfD surges in Mecklenburg-Western Pomerania](https://www.euronews.com/my-europe/2026/09/21/germany-the-left-triumphs-in-berlin-as-afd-surges-in-mecklenburg-western-pomerania) · 21 September 2026  
 - [Al Jazeera — ‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains](https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains) · 22 September 2026  
 **Trend:** ↗ Escalating  
-**Tags:** #single-source
+**Tags:** #MULTI-SOURCE
 
 ### 9. Russia sanctions · Rollover difficulties 🟡
 **Alert:** 🟡  
@@ -182,7 +182,7 @@ expansion_queue: []
 **Legislative/policy stage:** Council decision pending; EPF amendment adopted.  
 **Sources:**  
 - [European Council — European Peace Facility: Council increases support for the Djibouti Armed Forces to €20 million](https://www.consilium.europa.eu/en/press/press-releases/2026/09/22/european-peace-facility-council-increases-support-for-the-djibouti-armed-forces-to-20-million/) · 22 September 2026  
-- [Euronews — EU remains divided on Russia sanctions](https://www.euronews.com) · 22 September 2026  
+- [Euronews — Europe Today: Trump et Zelenskyy à l’ONU, l’UE échoue sur les sanctions russes](https://fr.euronews.com/2026/09/22/europe-today-trump-et-zelenskyy-a-lonu-lue-echoue-sur-les-sanctions-russes) · 22 September 2026  
 **Trend:** → Stable  
 **Tags:** #sanctions #Russia #Ukraine
 
@@ -204,10 +204,10 @@ expansion_queue: []
 **Summary:** The Canadian province of British Columbia filed a lawsuit against OpenAI in California, alleging the company failed to inform law enforcement of threats made on ChatGPT before a school shooting in Tumbler Ridge that left nine dead. The case raises questions about platform liability for user-generated threats.  
 **Significance:** Early test of whether generative-AI providers can be held responsible for failing to flag imminent harm.  
 **Sources:**  
-- [Le Monde — Une province canadienne attaque en justice OpenAI…](https://www.lemonde.fr/archives-du-monde/22-09-2026/) · 22 September 2026  
+- [Le Monde — Une province canadienne attaque en justice OpenAI, derrière ChatGPT, après la tuerie de Tumbler Ridge en février](https://www.lemonde.fr/international/article/2026/09/22/une-province-canadienne-attaque-en-justice-openai-derriere-chatgpt-apres-la-tuerie-de-tumbler-ridge-en-fevrier_6779544_3210.html) · 22 September 2026  
 - [Al Jazeera — Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting](https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting) · 22 September 2026  
 **Trend:** ↗ Escalating  
-**Tags:** #single-source
+**Tags:** #MULTI-SOURCE
 
 ---
 
@@ -219,7 +219,7 @@ expansion_queue: []
 **Significance:** The week will test whether any diplomatic off-ramps emerge on the two major active wars.  
 **Sources:**  
 - [Al Jazeera — UN General Assembly 2026: Who is speaking and when?](https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when) · 22 September 2026  
-- [European Council — President Costa to attend UNGA](https://www.consilium.europa.eu) · 18–22 September 2026  
+- [European Council — President Costa to attend UNGA High-Level Week in New York](https://www.consilium.europa.eu/en/press/press-releases/2026/09/18/president-costa-to-attend-unga-high-level-week-in-new-york/) · 18 September 2026  
 **Trend:** → Stable  
 **Tags:** #peace-talks #Iran #Ukraine
 
@@ -228,9 +228,9 @@ expansion_queue: []
 **Summary:** French President Emmanuel Macron met US President Donald Trump in New York for approximately 30 minutes and described the exchange on the Middle East and Ukraine as “very constructive.”  
 **Significance:** Limited but positive signalling ahead of wider UNGA bilaterals.  
 **Sources:**  
-- [Le Monde — La rencontre entre Emmanuel Macron et Donald Trump … a été « très constructive »](https://www.lemonde.fr/archives-du-monde/22-09-2026/) · 22 September 2026  
+- [Le Monde — La rencontre entre Emmanuel Macron et Donald Trump sur le Moyen-Orient et l’Ukraine a été « très constructive », selon le président français](https://www.lemonde.fr/international/article/2026/09/22/la-rencontre-entre-emmanuel-macron-et-donald-trump-sur-le-moyen-orient-et-l-ukraine-a-ete-tres-constructive-selon-le-president-francais_6779511_3210.html) · 22 September 2026  
 **Trend:** → Stable  
-**Tags:** #EU-US-relations #peace-talks
+**Tags:** #EU-US-relations #peace-talks #single-source
 
 ---
 
@@ -255,3 +255,4 @@ expansion_queue: []
 MORNING BRIEF is an AI-assisted digest. All summaries are paraphrased from original sources.  
 Verify time-sensitive information at the linked URLs before acting.  
 Output language: British English.
+
