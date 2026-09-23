@@ -73,6 +73,7 @@ expansion_queue: []
 
 ## 🚨 SIGNAL BOARD
 
+---
 🔴 US-Iran: three-hour UNGA talks confirmed after public “annihilate” threat; Hormuz reopen offer on table if pressure eases  
 ---  
 🔴 Greenland deal: two new US bases + expanded Pituffik + non-NATO investment bar; Trump claims “permanent control over security”  
@@ -82,6 +83,7 @@ expansion_queue: []
 🟡 Brent slips under $100 on Hormuz diplomacy signals and Saudi East-West pipeline restart reports  
 ---  
 🟢 FAO Food Price Index 133.3 (Aug): +1.9% m/m, led by sugar (+11.9%) and cereals  
+---
 
 ---
 
