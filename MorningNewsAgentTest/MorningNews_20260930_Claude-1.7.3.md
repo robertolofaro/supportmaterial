@@ -74,7 +74,7 @@ expansion_queue: ["#tariffs", "#terrorism"]
 
 ## 🚨 SIGNAL BOARD
 
----
+--
 🔴 **Russian drones killed nine and wounded more than 80 across Ukraine on 28 September, including two dead at Kyiv's National Academy of Sciences (Zelenskyy, via Reuters).**
 ---
 🟡 **Brent stands near USD 105/bbl (Trading Economics) while US–Iran talks deadlock over Hormuz versus nuclear terms; Washington has ordered a further SPR release of up to 40 million barrels.**
@@ -87,8 +87,6 @@ expansion_queue: ["#tariffs", "#terrorism"]
 ---
 
 ---
-
-> ⚔️ **CONFLICT ANALYST** · 5 updates today
 
 > 🔎 **CONFLICT ANALYST** · 5 updates today
 
