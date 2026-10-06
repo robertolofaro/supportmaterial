@@ -1,0 +1,388 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260923_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/index.php?section=rethinking-organizations) series.
+
+Actually, this is the first of a three-articles mini-series.
+
+I had planned to release it as a further mini-book, but prefer for now to release as a "draft" split in three (hopefully shorter than usual) articles.
+
+This introduction will be shared across all the three, so will keep it short.
+
+Yesterday, as found that the time I had allocated to work on something was free, decided to work a bit more on the preparation of my October in-depth refresher on forensic accounting and new tools.
+
+AI helps a lot on analytics and replicating patterns that in the 1980s-1990s required plenty of manual number crunching.
+
+Right now, as shared in previous posts, I already tested models (and soon also other tools) on various mini-assessments, and is interesting to see how activities could be split across human and AI contributors.
+
+September is when actually in that domain as related (i.e. finance, AI in finance, sustainability reporting, etc) suddenly everybody awakes from the summer vacation- and just few days ago the European Union [released an update on ESRS and voluntary sustainability reporting](https://www.efrag.org/en/news-and-calendar/news/european-commission-adopts-revised-esrs-and-voluntary-sustainability-reporting-standard-efrag).
+
+If only were to be spread across the day, would be better- following multiple webinars at the same time and juggling with the key parts of those that would later be available as a recording is becoming a second nature.
+
+Anyway, my background soundtrack yesterday was neither music nor movies nor documentaries nor webinars.
+
+As I had received from the White House mailing list the announce that President Trump would deliver a speech at the UN, wanted to listen to it live.
+
+Something that I expected could actually be useful for the discussion within this mini-series- and was not disappointed.
+
+I heard also those preceding him, and shared with some yesterday my commentary "live".
+
+Frankly, I was less surprised by what he said than from a stream of face-saving statements before and after his speech and the signing of the agreement with Greenland and Denmark.
+
+Living in different planes of reality as we Europeans did almost a century ago, when assumed that it was all talk and bragging with no substance- also if this time we already had at least since January 2025 to see how in this term talk has more substance than signed agreements.
+
+It is an issue with continuity: just because we are used to some rituals, does not imply that everybody will go beyond paying lip service if needed, and instead would assert, as done repeatedly (e.g. Venezuela and Gaza but also Iran, and, from what was said yesterday, maybe Cuba and Mexico if it does not behave as expected), a "special right".
+
+Time will see what will happen: as I shared online this morning, I look more at behavioral patterns than at a statements.
+
+An agreement between two parties requires that both recognize a forum to solve disputes, but if you are claiming to be prosecutor, judge, jury and even executioner, and invite even to dissolve the International Criminal Court (as President Trump did yesterday) because you disagree with it, then it is doubtful that a mere agreement on paper will hold the balance.
+
+As the first half of the speech was extolling the virtue of unparalleled force and its use whenever needed for your own national interests.
+
+Why this digression? Because this mini-series is focused on a similar cognitive dissonance.
+
+In previously articles since I returned to work in Italy in 2012, but also while I was living first in London (via my e-zine on change, [BusinessFitnessMagazine](https://businessfitnessmagazine.com), published 2003-2005), and when started publishing under my own name in Brussels from 2008, routinely described how we still considered organizational change under the framework of our past, not our present.
+
+In this mini-series, will explore three elements, and will develop more if and when will have time to prepare the mini-book that I had planned.
+
+Each part of this mini-series, beside this introduction, will include the same table of contents:
+_ A The past
+_ B The present
+_ C What's next
+
+Yes, the "past" section is what others would call "present", but I think that, within the scope of this mini-series, should be considered really what relies on concepts that belong to the past.
+
+The title of this mini-series includes "The Weltanaschauung of continuous organizational change"- something worth explaining.
+
+The idea is quite simple: if you work long enough within cultural and organizational change, you adopt a different perspective on reality, notably if you follow multiple missions at the same time.
+
+In the end, you will learn and understand, as I shared already with my employers and customers in the early 1990s, that this type of change has to be considered a continuum.
+
+Since the 1990s, I often saw presentations of change initiatives that presented change as moving from state A to state B.
+
+In my experience, this is almost never what happens- unless the change is just a fa&ccedil;ade, i.e. reshuffling the front while keeping all the existing.
+
+As an example, even a simple process or technological change can introduce exogenous cultural elements that eventually generate friction.
+
+I had learned that "on the field"- and will before started officially working for my first employer in 1986, right after my service in the Army.
+
+Therefore, in this mini-series will just discuss three concepts, one for each article- but hopefully will have time to share more material in the future, within a mini-book and associated tools and examples.
+
+For now, have a nice reading- hope that this mini-series will inspire some.
+
+This is the first part, and its focus will be on the concept of "pay-per-use society".
+
+
+<b>A The past</b>
+
+There is a couple of documentaries that both in writings and in my business consulting activities routinely suggested to watch.
+
+One of them is [The Century of Self](https://www.youtube.com/watch?v=eJ3RzGoQC4s).
+
+It is an interesting itinerary across the XX century, from a specific perspective.
+
+The title of this part of the mini-series refers to "pay-per-use", and that is our present (a present that seeds our future).
+
+In this section, good to remind what was the XX century, the century where, notably after WWII, mass production and "broadcasting values" to consumers expanded as never before.
+
+The late XX century, courtesy not just of media, but also social media, further expanded that approach- and gradually became normal to acquire products that had been developed and manufactured gradually across the world.
+
+Again quoting something that is a century old, Edward Bernays in "Propaganda" presented how to convert a product into an identification.
+
+And how few can motivate many into feeling part of something larger by the simple act of purchasing products- one, two, many: duplicating that shared identity.
+
+So, it is funny how e.g. ownership of a metal bottle that I refill with water made many younger than me assume that I belonged to their same political tribe- simply because I prefer a metal (or glass) bottle instead of a plastic one.
+
+Or how my choice to shave my head in 2014 for other reasons, while in Germany in Frankfurt in summer 2017 to at last attend a formal language course at the Goethe Institut after using the language occasionally in business for years, resulted in people from a certain political side to assume that somebody who favored a black-and-white color palette and had a shaved head with no beard must have their political inclination.
+
+Again- wrong.
+
+This "tribalism" in the past was concurrent with physical ownership: the car you purchased, the home you lived in, your clothes, the mobile phone and computer you used, etc.
+
+It is interesting how, when you travel around, and out of necessity use shared facilities such as coworking, you can easily spot the "tribes"- e.g. the iPhone and metal water bottle and Mac tribe.
+
+When the interaction between citizen-consumer and product or service is based on ownership, the obvious consequence is that suppliers have to ensure that demand continues to feed their bottom line- and that you keep purchasing as often as possible replacement or refill products.
+
+Sticking to the latest example, e.g. when was announced that some smartphone producers on purpose slowed down older phones whenever updating the software ([e.g. read this 2020 article on Apple fined in France](https://www.bbc.com/news/technology-51413724)), or, in business, the "planned obsolescence" that I often heard customers complain about (e.g. when installing a new version required significantly more hardware to obtain exactly the same level of service on the existing applications).
+
+All this focus shows how much devices entered our life: as we did not have e.g. something similar in shirts- albeit, as a kid, I remember how high-quality shirts were sold with spare parts, from cuffs to collar, and how the collar was designed to be reversible.
+
+In a time when ownership also of cars could be long-term, repairing a car was something that even some owners could do.
+
+Regulations are a double-edged sword, when involve products you own: they help and protect consumers, but can become the access point to enforcing "planned obsolescence" also for consumers.
+
+Look for example at the continuous revision of car emission standards.
+
+Regulators often played catch-up, by forcing, in that case, automotive companies to allow access to spare parts outside their own network.
+
+Solution? Add electronics on board to provide new services and features,.
+
+Already saw in the mid-1990s in the USA the consequences: something as simple as repairing a radiator broken by a rock in the USA desert resulted in a full assessment of the spare parts of the car via and electronic system that highlighted which parts where original or not (it was a Japanese car), the status of each component, etc.
+
+More recently, any car has an on board a main computer and plenty of sensors generating and collecting data- and most activities (except filling your tank) involve accessing the information system of your vehicle.
+
+So, gradually, in the XX century, we shifted from "ownerships" of objects as an absolute, to ownership as a relative- as we can never detach completely from those who sold us the product we supposedly own- and, actually, the latest trend is that all those products with all that on-board electronics simply are constantly potentially connected with the provider.
+
+Your vehicle is part of an infrastructure- not as advanced as the one depicted in a book from MIT published over a decade ago, where each electrical vehicle was also a "storage" facility for the network, but still more complex that just the old, individual vehicle whose only communication means were lights and the car horn.
+
+In the late XX century and early XXI century there are really few objects that do not carry a "data element"- as also clothing already two decades ago started adding tracking labels and other forms of identification.
+
+Post-WWII, also during the Cold War from the late 1940s to the late 1980s, our world became smaller- faster physical and data connections, distribution of data ignoring national boundaries, and, of course, in the late 1990s, Internet, generated new incentives to shorten product life-cycles, as more data implied that you could leverage on them to generate a "need" to improve and replace.
+
+I am the kind of person that, if likes a product, gets it repaired- but if it contains electronic components and exchanges data, my personal choice is not relevant.
+
+If I want the product to keep being able to interact with its environment, I have to constantly align to what that external environment decides.
+
+Hence, while we still "buy" some products, the higher the data content, the higher becomes the incentive to consider how much really we use the product- as the old "life-cycle" concept does not apply anymore.
+
+Probably you use your smartphone every day at least once every hour.
+
+But your desktop computer?
+
+And other devices or tools?
+
+And you car? That MIT book that referenced above stated that most people use their car to commute to/from the office, i.e. spends most time parked somewhere.
+
+Yes, I am interested also in circular economy concepts- and it is something that will discuss in the next section, but here I am talking about something else.
+
+In the past, ownership of a product that you purchased, for whatever reason (personal or business or social), was unlimited- and you decided when to dispose of, replace, or enhance the product.
+
+I first had to consider recycling in the early 1990s in Germany, as in the State where my girlfriend lived they had in each building a series of containers- e.g. one for each different glass color, plus plastic etc.
+
+So, you started also when buying products to look at how to recycle them- and how to minimize packaging.
+
+Then, in mid-2000s, in Belgium started getting used to see that each product came along with a kind of "recycling tax" attached.
+
+Recently, the European Union started enforcing different rules to make life easier for customers- from setting a standard USB-C, to soon enabling customers to replace batteries, replace parts, etc.
+
+It is a laudable choice, notably for somebody who, like me, since was a kid is used to modify improve repair replace anything (from a mere adding of a pocket inside a vest, to altering buttons or replacing computer components or tablet and smartphone screens, to adding accessories- yes, not just data and AI).
+
+Anyway, the way forward is a different landscape- and in part for the reasons I described above:
+_ how often do you use them?
+_ how much that use converts your initial investment in acquiring it in cost-per-use?
+_ how long would it last before the next forced upgrade (on restriction on its use) will be make it both useless for your purposes and impossible to sell?
+
+Already a decade ago, as wrote in past articles, while living in Turin as I had a mission there that required full-time onsite presence and had been presented as a temp-to-perm organizational development activity (remove the "-to-perm", and you get the real description: how to get a problem solver without paying a problem solver price), saw that many in their 20s and 30s did not consider anymore buying a car.
+
+Living in town, they assumed that they needed a driving license, used public transport during the day, and used cars as they used smartphones.
+
+And their assessment was that acquiring a car implied acquiring both obligations (taxes, parking fees, etc), mandatory maintenance cycles (tires, inspection, etc), and, with regulations changing every few years and restrictions to use continuously expanding to the latest or second-to-last regulatory upgrade, did not make sense to acquire a personal vehicle, for a city-dweller.
+
+Of course: if you have a family with one-two kids, you know how much stuff you have to carry around whenever you shift location for at least half a day- hence, a car becomes a need- whatever the costs and whatever the answers to those questions above.
+
+As for the others, notably in their 20s or 30s: they got used to have a phone number and paying just a down payment on a new smartphone, and then keep paying a monthly fee along with a traffic all-inclusive fee (this is how in the 2000s mobile phones evolved in Italy).
+
+I first experience pay-as-you-go in UK while living in London between late 1990s and early 2000s, but in Italy this expanded in something different- as the pay-as-go in UK could become really expensive.
+
+If you are in you 20s and since you had your own phone you are used to that "pay-per-use" plus "standing fee" approach, ownership shifts gradually toward a different approach.
+
+You consider ownership only for what you retain- and even your clothing (with or without data) might end up into one of the second-hand shops, while you shift to "fast fashion" that does not last much longer than it is fashionable.
+
+Get used to that and extend, and this becomes a conceptual framework: as a kid, we were used to have a home with a kitchen and a dining room.
+
+Younger people have a more limited concept of cooking, and also when I was in Paris in the late 1990s, my girlfriend there had a small kitchen but was used mainly for salads, breakfast, and microwave- not to really cook.
+
+While living in Turin a decade ago, frankly I do not remember ever seeing an apartment renovated within the last decade that had a traditional kitchen.
+
+At best, were open spaces such as those I was used to whenever since the 1980s I went around for business and used (a lot) aparthotels.
+
+So, let's say that we are gradually forgetting the old concept of "ownership" for what we use in our daily life- as even a smartphone and computer use standard components (a SIM card, an NVMe disk) that you can easily shift to a new device whenever needed.
+
+For everything else (car, home), it is pay-per-use.
+
+
+<b>B The present</b>
+
+You probably noticed that in the previous section hinted at those "gentle pushes" to switch product- from planned obsolescence, to simply the technological and social environment requiring something different.
+
+I did not write explicitly about a theme that in the 1980s-1990s became common under different names, but that was really much older.
+
+Whenever I quote Bernays, I end up also quoting Vance Packard and his discussion about the layout of supermarkets.
+
+More recently, we added the "nudge" concept explicitly, and also countries, as wrote in previous articles, used it.
+
+And, frankly, in my three cases of relocation within the European Union between 1997 and 2012 (Italy to UK, UK to Belgium, Belgium to Italy), plus activities in other countries, routinely saw a degree of integration of those element into what we got used to call ["gamification"](https://en.wikipedia.org/wiki/Gamification).
+
+As an example: you enter a lottery if you get a sales receipt and share the code with the State; or get some reimbursements if you ask the shopkeeper to associate the receipt to your tax code; or you get a discount on services and taxes if you pay earlier, etc.
+
+Countless examples that shared in the past- some of which were actually inspired by the Government, and used by some companies for creative accounting, as I saw while living in UK on VAT discounts.
+
+In my view, "gamification" is not just about keeping scores or giving something tangible back- sometimes, as happened in Australia, is also just using information to keep the citizens connected, e.g. by showing where their tax money goes.
+
+Others are more "strict" in their definition, and assume that a quid-pro-quo (an exchange) is needed, e.g. by having a leaderboard showing the best payers or those recycling more.
+
+Well, decades ago the Mayor of my parent's location, a small village nearby Turin, while I was formally resident there while working and living elsewhere, simply because nobody wanted to allow to set legal residence- so, it was common for people to relocate, work where they had relocated, and still be resident elsewhere- a matter of tax and regulatory incentives.
+
+For reasons unknown, the Mayor decided to publish on local newspapers a leaderboard of the top taxpayers.
+
+Well, my salary was good- but not that high: still, considering the level of tax evasion in Italy, I ended up being inside that selective table.
+
+Open any newspapers and magazine, and on a daily basis you will see lists of everything: from the level of corruption in each country, to the parity purchase power equivalence of the average salary in each country, to how much is the rent in each town, etc.
+
+What we do not consider is how much this "gamification" coupled with the disintermediation of communication enabled by social media impacted.
+
+Meaning: in the past, media were filters, but filters that belonged to an an establishment, with shared interests to keep the system holding together.
+
+Nowadays, people who could have been a silent and marginal minority in a location as their number is small, can connect with others with the same attitude elsewhere.
+
+Still locally a marginal minority, but not anymore silent- and, what is more interesting, these transversal communities or "virtual tribes" often become an interest group that, when useful, both traditional media and traditional political forces invoke, coopt and... "game".
+
+If it were just so, there would still be a relatively small amount of people able to leverage on that to generate aggregates that turn into the "silent majority" described in Graham Greene's "Our Man in Havana" or Le Carr&eacute; "The Tailor of Panama"- a non-existing mass movement.
+
+While living in Brussels, in the late 2000s out of boredom followed courses about political philosophy, history, and other subjects to refresh and update my knowledge (e.g. game theory, some engineering and economics courses, etc)- up to the point of procuring or acquiring the books needed to follow all those courses that selected as if I were a student.
+
+I had the potential and opportunity for a couple of reasons:
+1. had already done something similar in the past, also for political activities as a teenager on European integration
+2. even before starting to work in business, had hands-on experience in applying those concepts
+3. in business, when designing decision support system models in the 1980s, decided to dig into books on decision-making theory and practice.
+
+So, I had a blend of theory, practice, and impact-evaluation that helped to contextualize.
+
+Still, it was time intensive- but, frankly, really funny (for me) to listen and watch to those courses.
+
+Now, in our pay-per-use society, which is where we are now, for example in Europe in the 1990s "privatization" of national utilities in different countries (including Italy) implied that eventually at the European Union level we agreed on a kind of "structural unbundling to enable competition".
+
+Meaning: while the old State monopolist had the full stack- from infrastructure, to service provision, to billing, to credit recovery, to integration with security forces, now we had multiple layers.
+
+And our utilities bills became what I first saw in UK: a standing fee for the network, plus the actual "subscription", plus the actual use.
+
+Each component subject to its own "game rules".
+
+In some cases was overdue: the previous price billed to consumers was really subsidized.
+
+In other cases, it was akin to the "planned obsolescence" that heard customer complaining about: same service, simply unbundled so that each element had its own price, and, overall even when nothing had changed about provision, the aggregated price was higher.
+
+Few years ago, on e.g. energy, became common to discuss about the potential to integrate consumers not just in associations that ex-post complain and redress, or ex-ante try to lobby regulators and Parliaments, but also into "purchasing communities"- to acquire the negotiating power needed to obtain better prices.
+
+I remember while living in Belgium, and attending events organized by IEEE/IET including in The Netherlands, a presentation from Denmark on how a kind of "citizens' network" had been created to have Internet broadband reach rural areas that had no business interest for major operators.
+
+More recently, in Italy routinely attended few meetings discussing yet another evolution of local regulation about those "energy communities"- as, in some cases, villages could actually both produce and consume, and therefore become something different.
+
+Water, energy, transportation, even food provisioning and local minimal maintenance: all those are elements where some "gamification" and "pay-per-use" could actually become just a natural evolution.
+
+Probably you are now asking why I did not talk about AI in our "present".
+
+It is because, frankly, it is more about "what's next".
+
+
+<b>C What's next</b>
+
+You can see on this website and access online the results of some of what I call my "AI experiments".
+
+In reality, in many cases, were experiments a couple of year ago- now are just implementations good enough for my uses, implementations that I share online should others be interested in evolving and developing something out of that.
+
+In parallel, I am working on evolving those and others.
+
+Until recently, extending our "pay-per-use" society required an organizational infrastructure that few organization could afford.
+
+I do not not think that matters that much to develop new AI models, new AI algorithms etc for our "pay-per-use society": the key differentiating element is knowledge, domain knowledge.
+
+And community of shared interest.
+
+Now, the current AI enables yet another level of disintermediation: if you have domain knowledge, and have coordination skills, you can blend human and AI experts to identify what would be the best model to adopt for your own community, and where are the optimal elements to leverage on in both defining the community, and discussing with counterparts.
+
+Then, you, as a community, can quickly develop the "virtual communication infrastructure" that enables the community to obtain the level of collaboration and transparency both inside and with the outside, and without having to invest.
+
+I highlighted the key element:
+_ domain expertise
+_ coordination (i.e. soft skills)
+_ communication.
+
+If you lack any of those three elements, better to involve experts in those three elements instead of just starting your delusional "AI trip" (akin to LSD trips) as many do.
+
+With AIs, if you do not care about reality checks, you can actually generate a gazillion of "ideas" a day- but then it is implementation, delivery, and "service continuity" that will reveal if you have those three elements.
+
+There is a further element.
+
+In the 1980s, when designed my first software that "sold" was something really simple: using the "gaming" and "visualization" capabilities of my ZX Sinclair Spectrum to implement a graphical and symbolical solver for 2nd degree equations.
+
+It used some graphical concepts to actually have on a single screen multiple "windows" (was early 1980s), each representing a dimension of the solution: the values (if possible), the conversion of the symbolic part, and its visual representation.
+
+Now, it was a "closed system".
+
+Imagine that your own community created with the help of AIs is implementing a different level of "gamification".
+
+It will continuously interact and "transact" with other AI-powered communities- both from the user, enterprise, and State or regulator sides.
+
+If you read older articles on this website, you know that I wrote years ago about a couple of potential activities involving blockchain that I had been contacted for.
+
+Eventually, nothing happened, but, in my pure "M-shaped" approach, to be able to be conversant stepped up at the time my understanding, followed training, decided to dig into books, and eventually, was interested by the ["smart contracts"](https://en.wikipedia.org/wiki/Smart_contract) associated with [Ethereum](https://en.wikipedia.org/wiki/Ethereum).
+
+What is a smart contract? To make a long story short: a contract that has a software element that converts it into a live thing with a lifecycle (this is the definition that we need within the scope of this article).
+
+I wrote above that even the humble car now is both a collector and generator of data.
+
+Imagine now that the car is not <em>your</em> car, but a car that you pay-per-use.
+
+Already in 2017, while in Germany for that German language course I wrote above, collected a pile of books, including one with the title [Silicon Germany](https://robertolofaro.com/index.php?page=298) (my book review has been read over 30k times- hence, maybe there is something worth reading).
+
+One of the point it discussed was something that heard in Milan from Porsche Consulting (yes, the consulting side of Porsche)- about how their revenue stream already was at 20% not from the car and usuals.
+
+In that book, the author talked about the possibility of offsetting part of the cost of you trip with a car, notably a car that was full self-driving, by...
+
+... paying in credits, or just accepting to receive and watch advertisement or share data.
+
+This digression has a purpose: put on the table all the elements that guide to the next step.
+
+If you have an AI-powered community that can e.g. both produce and consume data and energy
+If you have all the relationships based on smart contracts.
+
+Then you can have a continuous integration with other AI-powered entities to extract continuously the best price for what you deliver (data, energy) and get the lowest cost for what you purchase (data, energy, physical products, water, etc).
+
+Yes, pay-per-use is possible already today.
+
+Still, such an environment would operate at such a speed and frequency of interaction that no human user, provider, or even regulator could really assert a more than nominal control.
+
+Hence, while the current "pay-per-use" might result in gradually expanding to different domains, this "what's next" depends on something else:
+_ regulation that follows principles and is "a biological ecosystem"- i.e. interactions make it evolve
+_ integration and aggregation of interests that transcend the short-term benefit and consider long-term impacts 
+_ perfect transparency, accountability (which can be only human- hence, probably "ring fencing" would be the practical way), and shared acceptance of ultimate adjudication.
+
+The last row is probably a bit too dense, so better to... unbundle it.
+
+We will need perfect transparency to keep trust in the system- more A. C. Clarke ["The Light of the Other Days"](https://en.wikipedia.org/wiki/The_Light_of_Other_Days) that your routine disclosure.
+
+Accountability of AI already is becoming a joke: hence, we need, as IBM said in the 1960s, to remember that only humans can be accountable- hence, "ring fencing", i.e. defining the degrees of freedom structurally in such a way that damage is contained- as you would do in your own bets and investments.
+
+Shared acceptance of ultimate adjudication is again a structural element: if you interact with a party that assumes to be prosecutor, judge, jury, executioner- you already know that it is a "fair weather" business relationship- as, when something goes bad, it is always your loss; hence, if the party proposing or accepting to enter into a transaction refuses to underwrite also the resolution mechanism, you have to "hedge" against that potential.
+
+Incidentally: in this section wrote about "communities"- and for a simple reason.
+
+In my past experience since the 1980s on spreading around processes, cultural changes, and technologies (e.g. decision support systems), I never considered feasible or acceptable a "Big Bang".
+
+You need people who have a need that are supported to introduce what is the proposed change- and this applies also to AI, hence the bullet lists that you saw above.
+
+What happens practically is that somebody or a small group with a specific need are converted into a success story, and then become the first stepping stone toward build the demand to have a competence center.
+
+Meaning: they are successful because whatever had been introduced is functional to their needs, and they can share the experience and discuss it with others who have different needs but could potentially be helped.
+
+Anyway, you cannot have those that were the "first experimenters" to turn into a competence center- as otherwise what they assumed could help in their needs would turn into an overload of activities.
+
+Hence, they can be visible champions and case studies, but not advisors full-time.
+
+So, while demand grows, others could either get inspired, or start building the competence center.
+
+In this specific context, starting with a community, then the community itself could become a visible example, inspire other communities, and also individuals.
+
+Because the difference between AI (with or without smart contracts) vs. past technological and organizational changes is that, eventually, even individuals could achieve the same results.
+
+The point is that the first ones would need multiple levels and types of domain expertise- something that few individuals would have.
+
+Also, to "promote" this type of initiatives, it is better to have a volume of transactions, as, at least until all the governance framework will be in place, there will be a significant amount of tuning and checks and changes before it will be a replicable model.
+
+Something that can be justified if there is an organizational complexity and volume of transactions that makes economic sense- again, not really for the individual.
+
+Anyway, also members of a community might eventually get inspired in adopting the same approach, and find new ways to spread it: and the community itself could become a competence center part of a network of competence centers across multiple communities, finding ways to aggregate and "scale up" without losing local identity.
+
+Hence, it is a matter of time, focus, and patience- more than financial resources.
+
+And, as the title of this mini-series says, once you set it in motion, it will keep evolving.
+
+As I wrote above, this was the first part of a three-parts mini-series that was supposed to be part of a mini-book.
+
+Hence, what you read here should be considered a draft to share concepts and ideas.
+
+If and when I will have time, a proper book will follow.
+
+For now, I hope that this short article inspired enough doubts and ideas or reactions that could be useful at least for a discussion.
+
+See you tomorrow for the next part!

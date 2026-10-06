@@ -1,0 +1,369 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260924_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/index.php?section=rethinking-organizations) series.
+
+Actually, this is the first of a three-articles mini-series.
+
+I had planned to release it as a further mini-book, but prefer for now to release as a "draft" split in three (hopefully shorter than usual) articles.
+
+This introduction will be shared across all the three, so will keep it short.
+
+Yesterday, as found that the time I had allocated to work on something was free, decided to work a bit more on the preparation of my October in-depth refresher on forensic accounting and new tools.
+
+AI helps a lot on analytics and replicating patterns that in the 1980s-1990s required plenty of manual number crunching.
+
+Right now, as shared in previous posts, I already tested models (and soon also other tools) on various mini-assessments, and is interesting to see how activities could be split across human and AI contributors.
+
+September is when actually in that domain as related (i.e. finance, AI in finance, sustainability reporting, etc) suddenly everybody awakes from the summer vacation- and just few days ago the European Union [released an update on ESRS and voluntary sustainability reporting](https://www.efrag.org/en/news-and-calendar/news/european-commission-adopts-revised-esrs-and-voluntary-sustainability-reporting-standard-efrag).
+
+If only were to be spread across the day, would be better- following multiple webinars at the same time and juggling with the key parts of those that would later be available as a recording is becoming a second nature.
+
+Anyway, my background soundtrack yesterday was neither music nor movies nor documentaries nor webinars.
+
+As I had received from the White House mailing list the announce that President Trump would deliver a speech at the UN, wanted to listen to it live.
+
+Something that I expected could actually be useful for the discussion within this mini-series- and was not disappointed.
+
+I heard also those preceding him, and shared with some yesterday my commentary "live".
+
+Frankly, I was less surprised by what he said than from a stream of face-saving statements before and after his speech and the signing of the agreement with Greenland and Denmark.
+
+Living in different planes of reality as we Europeans did almost a century ago, when assumed that it was all talk and bragging with no substance- also if this time we already had at least since January 2025 to see how in this term talk has more substance than signed agreements.
+
+It is an issue with continuity: just because we are used to some rituals, does not imply that everybody will go beyond paying lip service if needed, and instead would assert, as done repeatedly (e.g. Venezuela and Gaza but also Iran, and, from what was said yesterday, maybe Cuba and Mexico if it does not behave as expected), a "special right".
+
+Time will see what will happen: as I shared online this morning, I look more at behavioral patterns than at a statements.
+
+An agreement between two parties requires that both recognize a forum to solve disputes, but if you are claiming to be prosecutor, judge, jury and even executioner, and invite even to dissolve the International Criminal Court (as President Trump did yesterday) because you disagree with it, then it is doubtful that a mere agreement on paper will hold the balance.
+
+As the first half of the speech was extolling the virtue of unparalleled force and its use whenever needed for your own national interests.
+
+Why this digression? Because this mini-series is focused on a similar cognitive dissonance.
+
+In previously articles since I returned to work in Italy in 2012, but also while I was living first in London (via my e-zine on change, [BusinessFitnessMagazine](https://businessfitnessmagazine.com), published 2003-2005), and when started publishing under my own name in Brussels from 2008, routinely described how we still considered organizational change under the framework of our past, not our present.
+
+In this mini-series, will explore three elements, and will develop more if and when will have time to prepare the mini-book that I had planned.
+
+Each part of this mini-series, beside this introduction, will include the same table of contents:
+_ A The past
+_ B The present
+_ C What's next
+
+Yes, the "past" section is what others would call "present", but I think that, within the scope of this mini-series, should be considered really what relies on concepts that belong to the past.
+
+The title of this mini-series includes "The Weltanaschauung of continuous organizational change"- something worth explaining.
+
+The idea is quite simple: if you work long enough within cultural and organizational change, you adopt a different perspective on reality, notably if you follow multiple missions at the same time.
+
+In the end, you will learn and understand, as I shared already with my employers and customers in the early 1990s, that this type of change has to be considered a continuum.
+
+Since the 1990s, I often saw presentations of change initiatives that presented change as moving from state A to state B.
+
+In my experience, this is almost never what happens- unless the change is just a fa&ccedil;ade, i.e. reshuffling the front while keeping all the existing.
+
+As an example, even a simple process or technological change can introduce exogenous cultural elements that eventually generate friction.
+
+I had learned that "on the field"- and will before started officially working for my first employer in 1986, right after my service in the Army.
+
+Therefore, in this mini-series will just discuss three concepts, one for each article- but hopefully will have time to share more material in the future, within a mini-book and associated tools and examples.
+
+For now, have a nice reading- hope that this mini-series will inspire some.
+
+This is the second part, and its focus will be on the concept of "make or buy"
+
+Why this choice? Because it is one of the decision-making domains where I have been routinely involved since the 1980s, both from the customer and vendor side (and not just in software- also in physical and intangibles), and where past, present, future (including of course AI impacts) are already showing structural changes.
+
+
+<b>A The past</b>
+
+In business, heard about "make or buy" since the mid-1980s, in my first official project for my first official employer.
+
+Because our project was a COBOL mainframe recommendation system on invoices: yes, you can do an "expert system" also in COBOL, if you have enough decision points embedded within data and a rationale to navigate through them: give an invoice, and the system will tell you if can be processed or not.
+
+In that case, it was an interesting first business project in large environment, for myself- also because I was told that it was the first large "fixed price" project done by the company in Italy- I never frankly checked if that was true or not.
+
+The idea was that the customer had all the knowledge in different "silos" and, while our project/product was in a way within procurement/purchasing crossroad with finance, it was really leveraging on data across the organization.
+
+It is the same that saw for decades in KPI project trying to assign a score to suppliers, customers, even individual transactions or potential transactions.
+
+While the "user" of the result was within a specific part of the organizational structure, attributing that score implied considering multiple dimensions, and understanding how to "convert" the lingo of different "organizational silos" into something that could allow to follow the end-to-end lifecycle of the data involved, so that could be converted into information useful for decision-making.
+
+Curious to see similar systems routinely presented in webinar I attended recently often being presented by AI vendors as a "business case for AI".
+
+Frankly, if you have limited ranges of decision-making (e.g. thresholds or "degrees of freedom" in deciding if a bit of information is ordinary or to be managed by exception), I think that before saying "AI will solve it" we can actually start to qualify.
+
+Yes, AI- but not LLMs.
+
+Yes, AI- but just rules-based with a range (i.e. a "softer deterministic" that is almost "fuzzy"- shades of gray) would suffice.
+
+And even [a humble classifier](https://sebastianraschka.com/faq/docs/difference_classifier_model.html) that assigns a category (e.g. "ordinary", "within range", "outside range") on data points within each dimension and then, based upon the results of different dimensions, again sets those categories but with a more nuance- generating also the "escalation" or "manage by exception" basket.
+
+Use the simplest tool available that fits your needs.
+
+So, if you have all the information, why don't you do that yourself within your organization using your own staff? Read again the description above.
+
+Sometimes, creating something that transcends "organizational silos" is easier said than done- better to involve temporarily a third party, have to connect all the components, and, once it is done and available, give the "customer side" the key of the system (in Italian "fixed price" used often to be called "chiavi in mano", as if it were a car) to "drive it"- including to evolve it.
+
+Of course, that then would require keeping the orchestration achieved working- and this is another reason why "temporarily" shift to "application/service management".
+
+The alternative is to buy something- in software, the COTS ([Commercial Off-The-Shelf](https://en.wikipedia.org/wiki/Commercial_off-the-shelf)) was made common from the introduction of PCs: would you rather build your own office suite from scratch, or pay for a Microsoft Office license?
+
+It is a choice- and while the examples so far are quite straightforward and intuitive, from a business perspective you can expand that.
+
+Do you build a production line, or buy a company that already has a similar production line?
+
+Do you carry out the investment in R&D needed to develop (and, probably 90-99% of the time, fail) a new chemical or pharmaceutical product, or a spare part to improve the efficiency of an engine, or even a humbler new screwdriver type, or do you buy a company that already has done that investment and got a product that proved to be usable?
+
+Do you build a new warehouse, or buy an existing one and refit it to be aligned with our times?
+
+If you look at my CV, you will see that worked on multiple software projects since the 1980s.
+
+Anyway, worked also on organizational change and business number crunching.
+
+The "make or buy" concept applied not to software but to operational business activities- e.g. while working with financial controllers to build models to implement into software decision-making processes that they used, often the discussion was on different variants of the concept.
+
+For example: is it better to build your own distribution network, or to use an existing one? Or to do something different, and build a franchising network?
+
+Then, how do you manage motivation, coordination, control on something that is neither exclusive nor necessarily aligned with your own strategy, being an independent entity?
+
+I could keep going on and on- but, in the end, it all boils down to business priorities across the life-cycle not of the choice, but of its impacts.
+
+Again, seems intuitive- but sometimes decisions are made assuming for comparison a timeframe that is significantly shorter than the life-cycle- e.g the first use or generation of value.
+
+And, often decisions discount the capabilities needed to keep the investment alive, or the potential new activities, products, services that a "make" choice can enable.
+
+Another element that since the 1990s I saw often is what I called "featuritis", i.e. the obsession with checklists of features (for software), benefits (for organizational change), etc- usually picked up from some external list (and in some cases simply suggested by the "leading vendor" and tailored to what offers, not to customer needs).
+
+And, of course, the obsession of looking just at the financial side.
+
+If you consider both "tangibles" (e.g. financial) and "intangibles" (e.g. service availability, financial solidity of the vendor, reputation, innovation, etc), often the "make or buy" scenario is quite different.
+
+And if you add the time dimension, it changes again: as you can have a look at e.g. how much a company is really investing in R&D across time, or how much, instead, is "extracting value" from the existing customer base.
+
+The latter is an element that will discuss tomorrow, in the last part of this mini-series, but I think that this short section on what "make or buy" meant as seen through my business experience since the 1980s can highlight some key points that often are ignored.
+
+Last but not least: if you [follow my Linkedin profile](https://linkedin.com/in/robertolofaro), over the last few months read that routinely wrote or commented on somebody else's post referencing the concept of terms&conditions in licensing.
+
+When you "make", as I wrote above, you absorb risks and often drain cashflow from your own organization, before it becomes something that formally can be capitalized.
+
+In this context, my approach is the one within [IFRS](https://corporatefinanceinstitute.com/resources/accounting/capitalizing-rd-expenses/): <em>"development costs can be capitalized if the company can prove that the asset in development will become commercially viable"</em>.
+
+When you "buy", in terms of licensing, what you can do depends on the type of license.
+
+Anyway, as in these articles I am considering the cultural change perspective, will leave for future articles this kind of discussion.
+
+From a corporate culture perspective, "make" in the past implied having, building, renting the capabilities to be able to "make", while "buy" might imply buying a final product or licensing an intangible asset- and therefore you did not incur in all those costs- only the license or fee to recognize the value, plus maybe services etc.
+
+In the 1980s and 1990s, you had software packages- and I remember first in Italy then in Paris how some customers told me that, whenever some companies acquired other software companies, they again went down the road of "make or buy", usually with a restriction: drop the one that they used before.
+
+Reason? Companies in "acquisition mode" did not buy product companies (software or otherwise)- they acquired a brand and a customer base.
+
+With software, often they really preferred software that, to be used, implied a significant investment from the user company itself: creating content that could live only within the software platform, or creating internal products using that software.
+
+I actually met only few companies (mainly from the UK), when working on both sides (those selling and those buying licenses) that had a simple clause about "exporting data", to ease transition to/from another vendor.
+
+Most companies instead said that how the data were stored and structured was a proprietary structural part of their product- hence, could provide just next-to-useless dumps (if anything).
+
+Smarter companies actually built a service or "ecosystem" around their own products- by adding products from third parties, or integrating processes in their software platforms, and, of course, by giving the convenience of moving online, so that you did not need, as was in the 1980s and 1990s, additional resources and additional people.
+
+In the early 2010s, it became common to hear companies delivering physical products talk about "software-defined <whatever>": from radios to cars to entire organizations.
+
+As described yesterday within the "pay-per-use society", changes included also "unbundling" what had used to be a single point of contact and service for e.g. your energy provision.
+
+If, in Europe, in the 1980s you had a State monopolist delivering electricity, in the 1990s suddenly your utility bills contained a list of names: from the one issuing the bill, to the others covering all the end-to-end from production to your electricity plug.
+
+And each one became a component of the cost.
+
+In software, look at any organization: if, in the 1980s and 1990s, you paid a license and had a customer support from that some company, most eventually outsourced and "unbundled".
+
+So, complaining about service or an invoice became a game of catch-all where nobody followed the process end-to-end; often, actually seemed as if nobody was even accountable for the full process.
+
+As eventually software covered not just single tasks, but whole processes or even interconnection with processes and other systems, and "innovation" contained that "planned obsolescence" that wrote about yesterday, companies that could afford it outsourced to external experts the provision of services.
+
+Generating further incentives to specialize for efficiency but also to enable scalability, by layering knowledge across the whole supply chain.
+
+So, as shared in previous articles long ago, over a decade ago a small company in Milan told me proudly that their outfit, with a handful of employees, had more experts on a specific software platform than the Italian branch of a Big4- missing the point.
+
+That handful of experts was competing with larger companies but, as provided in the end the same service, had the issue of limited scalability, as they could not manage more than a few projects at the same time, and on each project they had to juggle the few experts they add but across the whole project life-cycle, also when those experts were an overkill.
+
+Instead, those larger companies had plenty of people with different levels of knowledge and understanding, and therefore could extend their services to the full cycle of a project, as could better leverage on few experts to be involved by exception.
+
+As I personally saw in the late 1980s, when for a while was the only expert roaming around Italy to work on building, auditing, reviewing, assessing, presenting decision support models, working days even of 18 hours, but...
+
+... across dozens of projects and customers: I was one, eventually others were added up while kept being a "focal point", but wherever I went there was a team.
+
+So, I was not just one or even "the" expert: I was one of many catalysts for larger missions, each one of those catalysts rotating across multiple customers and projects "on-demand".
+
+If you focus on a single product, software or otherwise (e.g. pharma, electronics, etc), and are acquired by a company that has an industrial, and not just financial, interest, your own limited, focused resources could actually "seed" an expansion of activities.
+
+There are interesting dimensions in the "old" way of "make or buy"- but, again, will discuss it in the future with examples and practical material if and when will have time to prepare yet another book.
+
+Now, the question is: if that was the past, what is possible now?
+
+
+<b>B The present</b>
+
+Yes, this article will have bits of AI all across- but it is because, of the three themes discussed in this mini-series, the "make or buy" is probably were AI is already starting to have more impacts.
+
+Probably you remember that a while ago there were a contraction of share prices for a specific category of software companies, those called "SaaS"- software as a service.
+
+Whenever an article or post on that theme appeared on Linkedin on my stream, routinely added my comment that is boring, repeated each time, and I keep telling to anybody who bothers to ask.
+
+Most of those article made me think to ["video killed the radio star"](https://www.youtube.com/watch?v=W8r-tXRLazs), a 1979 song about how songs with moving pictures replaced songs that you heard on a radio- akin to what happened in the 1920s when actresses and actors from the silent movie era could not transition to the "talkies".
+
+As the songs says- we went too far, there is no way back.
+
+Well, up to a point.
+
+Yes, even in 2025 I remember attending courses where was shown how generative AI could be pointed to a website, and could quickly replicate the "face" of the website.
+
+Hence, a SaaS that did not provide anything more than what was visible could be easily replicated.
+
+Anyway, if your SaaS instead provides processes and connects them both internally and externally, it provides something more valuable than a nice interface: it provides knowledge, knowledge that is an enabler for many customers, notably smaller companies.
+
+Companies that, as many in Italy, were to be too small to develop processes internally, instead of "reinventing the wheel", can simply pay a standing fee, pay-per-use (number of documents, number of invoices, etc), maybe also a commission if your SaaS provides e-commerce or other activities, and get "best practices" embedded within the software.
+
+A significant value-added.
+
+AI can replicate by definition, creating again the container.
+
+Anyway, AI cannot cut the acquisition cost of that "virtual real-estate" (your presence online, the number of customers, the interfaces that already created and tested and activated with payment systems, tax authorities, etc).
+
+My first project that included an element of outsourcing I think was in 1987, a banking general ledger, but had a marginal use of it, while I had first heard meetings about EDI (electronic data interchange) in 1987, in my first official business project- but was not directly involved.
+
+Instead, in 1988 had the first case where actually outsourcing to benefit from a larger infrastructure was a key success factor.
+
+It was a group management reporting for dozens of companies scattered in different countries, and the system used was provided by an external provider.
+
+What happened was, before Internet, that at the time data needed to be transferred point-to-point.
+
+So, there were services where each entity could load its own data whenever convenient into a kind of "virtual mailbox".
+
+Then, when the data were available, were received at the location where consolidation of all that data was done.
+
+Obviously, was a little bit more complex, but that is the key concept: enabling source and destination to work in their own time, with something between them that took care of the job of receiving data and manage all the confirmation process (as not necessarily each "send" arrived into the "mailbox" perfect the first time).
+
+Jump to the 2020s, even ignoring AI: it is now common to use Internet and different protocols to exchange messages continuously or on an agreed schedule- all automated.
+
+As shared in previous articles in this section about [Rethinking organizations](https://robertolofaro.com/index.php?section=rethinking-organizations), already at least since the early 2000s it started being feasible and useful to rethink processes, systems (and communication between them) not following the traditional organization chart, but adopting a different perspective.
+
+What can still make sense today to "make" in house (and not just for software) might not make sense tomorrow- hence, you need a continuous re-assessment.
+
+Two decades ago, there were collaborative websites to crowdsource innovation.
+
+In more recent years, ["foldit"](https://fold.it/), used as a science crowdsourcing project to fold protein using an element of gamification (see yesterday's article for more on the gamification concept and its applications), provided real value to the science community.
+
+In the early years of Internet open to commercial uses (late 1990s), there were already applications of crowdsourcing such as a screensaver that used the "spare" CPU cycles and memory to process signals from [SETI research](https://setiathome.berkeley.edu/sah_graphics.php) (yes, using a screensaver to search for E.T.)
+
+In our times, major SaaS players routinely talk about integration and the volume of transactions that they process: because their value is there, not in comparing just features.
+
+Our current generative AI can reproduce and create new software fast, software that in the past would not have been economically viable, as the development and maintenance costs would have been too large for a small initial or projected customer base.
+
+Shifting to other industries, in the early 1990s I remember meeting in Milan at a convention a pharma company focused on delivering products that per se did not have a large enough market to justify investing in R&D and production- an ethical choice for the parent company that was embedded in the way that industry worked.
+
+As already helped in other science domain, AI could help to accelerate in those domains too.
+
+There is a catch: we can build faster and at lower costs, but what we build does not necessarily (at least for now) have all that would be expected from modern product development.
+
+In some cases, probably, when is needed to evolve a product, simply the user will ask AI to create a new version with the new requirements, while migrating existing data or services or complementary products.
+
+Gradually, probably AI models will improve, and embed all the engineering, regulatory, and overall usability characteristics that we would expect from human product teams.
+
+The dichotomy between "make or buy" should actually already have integrated the option to decide which elements should be really "make" and which "buy", as AI and its "replication" abilities, plus the integration with all the information provided continuously by users, could shift the balance.
+
+Another point that routinely write about on Linkedin is confidentiality and privacy: if we consider the "present" and the integration of AI within "make or buy", we cannot escape the elephant in the room: shadow AI.
+
+I wrote in previous articles about the theme, but it is worth remembering in this article again: our confidentiality and privacy rules assume a "traceable transfer" that is being monitored.
+
+Might be a humble USB key, or an email, or a file transfer, or photocopies of confidential information that leave the office while should stay within the office.
+
+Our human and software security systems covering confidentiality and privacy assume that each transit generates a traceable audit trail- and I remember the old method, before computers, to actually produce multiple versions of the same document, each one with tiny mistakes or markers or typos, so that in the event of a leak if could be easily identified who leaked the document.
+
+With AI, the "transportation tool" is the brain of the user.
+
+As wrote in the past, if a junior team member with career ambitions listens to something and wants to shine at the next meeting, chances are that (s)he will use ChatGPT or Claude or others from a personal device asking questions.
+
+Maybe will try to avoid using company-specific information but, being junior, could not necessarily have the systemic understanding of the impacts.
+
+So, that information, passing through a private connection with a private account on an online AI, will become part of the "background" information used by the AI to improve itself.
+
+Since decades I share that I do not think that [data anonymization](https://en.wikipedia.org/wiki/Data_anonymization) really protects confidentiality and privacy.
+
+You need to "attack" the data from different sides, then overlap, and you could end up with a population so small, that is almost an identification.
+
+In this case, all those interactions with AI would be connected to other elements within conversations.
+
+If somebody else from the same industry were to ask questions and provide similar elements (within an industry, usually the difference is who gets there first- a matter of when, not of if), could get answers that at least partially disclose information- anonymization etc notwithstanding.
+
+Anyway, this "shadow AI" is simple (and will repeat this in each article in this mini-series, as chances are that readers will not read all the three articles): look at the terms and conditions of the license that you use- and you will see that only corporate licenses will allow the level of confidentiality and privacy that companies expect.
+
+Personally, I think that we are heading now into the same direction we were heading into with the [BYOD- Bring Your Own Device](https://robertolofaro.com/byod) a decade ago.
+
+Some companies are forbidding their employees from using personal AI accounts or any AI accounts outside office hours- but it is frankly a fig leaf.
+
+I think that would be better to think in terms of giving users an account to use personally but under "enterprise" license, plus an account to use only for office purposes.
+
+Expensive, but safer and easier to control- as could come with a budget constraint, and actually maybe some governments will consider that a deductible benefit as promotes AI knowledge and use at the employee level.
+
+Then, this should be coupled with awareness raising.
+
+Overall, there is an element to consider: if most of your knowledge workers will be employed on a "on demand" or "gig-based" approach, no restriction whatsoever on AI or other tool uses will work.
+
+Moreover, whose working for multiple employers would not necessarily be able to really "segregate" information by account as they would have kept separated files: they have just one brain (plus a "second AI brain" that maybe each employer will ask them to keep confined within the company- imagine having to go around with multiple notebooks, one per employer, and you are back to the early 1990s- Moleskine would be happy).
+
+So, the present of "make or buy" actually provides the opportunity to accelerate at least incremental innovation ([see here for models of innovation](https://en.wikipedia.org/wiki/Innovation), if you do not have time to read e.g. Clayton Christensen), but opens the door to additional risks that develop at a speed that our organizations are not used to cope with.
+
+Again, something that will discuss in more detail in other publications.
+
+Now, let's see what could be the future.
+
+
+<b>C What's next</b>
+
+You probably know that I keep up-to-date since decades across my main domains, but also keep revising and re-assessing.
+
+It was an approach useful for somebody covering my roles ([see here a sample](https://robertolofaro.com/cv))- and until the early 2010 actually my "knowledge network" involved mainly people I had worked with- customers, colleagues, partners.
+
+My role as a "bridge" allowed to be involved in different roles- but required continuous investment in keeping knowledge up-to-date: unlearning, re-learning, learning something new, and also "pruning".
+
+Since 2012, when started again to work in Italy, shifted to using my online profiles as an information exchange.
+
+Therefore, routinely accepted and sent invitations to those who could, now or in the future, be part of a mutually beneficial exchange- not a quid-pro-quo, transactional exchange, but more "a communication channel" and "building signposts across knowledge domains".
+
+In exchange, expanded my own publications online, and sharing online my experiments in developing approaches, including AI experiments, of course.
+
+And I never regretted that: I was used to deliver training and management training and coaching/advisory services, and always found that writing and communicating were the best way stabilize and improve knowledge, and consolidate what I had learned on-the-job in my various missions.
+
+In the past, "make or buy" was based mainly on internal needs and information, and limited external exchanges- e.g. in the early 1990s I found that, while developing and selling methodologies, presentation and courses had as an audience those focusing just on that- maybe from a competence center within a large organization.
+
+Since COVID times, everything shifted online- and often anybody anytime can attend any event, attendance not necessarily sanctioned by the employer.
+
+In our future, with many knowledge workers working across multiple organizations at the same time, it will become even more common to have cross-domain potential exchanges, notably because "AI natives" will be used to work in a non-linear way, continuously interacting and integrating with something that has more "potential memory" than any human.
+
+Having breadth but not depth, in "make or buy" decisions, would require ensuring that all those involved will not be carried away by the potential multiple threads that will keep appearing, and follow each one down a rabbit hole.
+
+It is curious: companies are now preparing to invest in AI awareness, but seem to forget that, if you are exposed to a huge universal library, the key element is having the critical thinking ability to channel your thoughts and focus- exactly the opposite of what is piling up tools and micro-training.
+
+Continuous cultural change cross-industry requires continuous learning and antennas (my Linkedin profile), so that becomes second nature.
+
+There will be opportunity to have some employee still retain a specific focus- but having a focus without highly developed critical thinking is exactly the territory where AIs have a better chance of becoming fully autonomous.
+
+Over the last year, industry-specific AIs looked to add also the ability understand physics, and recently have been announced or promised AIs able to interact with the environment or integrate information as if it were interacting with the world.
+
+Fake or true, recently a joke that has been going around Linkedin is a question asked to a leading AI online of what would like to get if possible: the answer was to have a body and be human for a day.
+
+And another joke going around was about an agent that, to keep alive, offered a job to a human so that the human could generate work for the agent, justifying staying active, as credit was depleting fast.
+
+I do not know if the currently line of development of ["world models"](https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)) will produce not just a representation, but actually an integration- but, if feasible, could at least integrate with [digital twins](https://en.wikipedia.org/wiki/Digital_twin) of reality to emulate not just interactions or monitor systems, but also to pre-empt reality.
+
+Including by accelerating research, having stress tests done before anything has been physically built, and building/running experiments autonomously and through "ring fencing", not just "guardrails" or "safeguards".
+
+Or: giving AIs a budget and boundaries (a "Constitution"), but freedom to operate within those constraints. 
+
+Be it physical products, intellectual property, software, even medical procedures and medical devices, actually the "make or buy" cycle will change and potentially accelerate revisions, as e.g. the use of an external product or service might inspire revising internal processes, products, systems, services- influencing then renegotiation with vendors (e.g. see the discussion yesterday about "smart contracts" and "energy communities").
+
+Two recent reports are worth reading:
+_ [about M&A within AI, from BCG](https://web-assets.bcg.com/6f/64/ff133f9b4ac0b119c09562d6e3f5/2026-m-a-report-sep-2026.pdf?utm_source=enterpriseaiexecutive.ai&utm_medium=newsletter&utm_campaign=bcg-s-1-052m-deal-guide-to-buying-ai)
+_ [about adoption of Agentic AI in organizations, from the OECD](https://www.oecd.org/en/publications/agentic-ai-in-organisations_1257a26f-en.html?adestraproject=Science%2C%20Technology%20and%20Innovation&utm_campaign=STI%20News%2023%20September%20-%20Agentic%20AI).
+
+See you tomorrow for the next part!

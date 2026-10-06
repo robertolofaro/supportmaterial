@@ -1,0 +1,73 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/10/20261001_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/rethinking-organizations) section.
+
+You probably saw the previous articles of this series about "The Future of Europe" ([you can see here the first of the series, each article links to the next and the previous](https://robertolofaro.com/index.php?page=666)).
+
+As previously shared, it actually started as a single article, but eventually saw that it was the right time to carry out a kind of variation of the theme of the [#EP2024](https://robertolofaro.com/ep2024) article series.
+
+Hence, in the multi-part list the description is "An article series looking at the European Union from a cultural and organizational change perspective- a conceptual follow up to #EP2024 (a 17-parts article series that was released in 2024 and 2025)".
+
+This article will be short and released before 10am CET, Brussels time.
+
+The title gives away its purpose: over the last few days, [my daily Morning Brief](https://github.com/robertolofaro/supportmaterial/tree/master/MorningNewsAgentTest), both with Claude and Grok, each day reports on the recent announcement from the European institutions on defense- yes, I keep using "defense" instead of the British "defence".
+
+Actually, my British colleagues probably know that the title comes from a book on their own security institutions.
+
+And this is the purpose of this short article.
+
+I will close it with a list of reading material, but let's start with a comment that posted yesterday evening, after reading fact sheets and the announces and documents released on September 28th and 29th:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/10/20261001_01_post.png)</center>
+
+This is the latest summary about EU affairs in my Morning News:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/10/20261001_02_news.png)</center>
+
+As you can see, a mixed bag.
+
+Probably, the best way to summarize the focus of this article is to share how Reuters announced:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/10/20261001_03_reuters-20260928.png)</center>
+
+As I wrote in yesterday's post, while, as Reuters remembered, the latest release was set in motion in July 2026, meanwhile our main ally now routinely calling us "adversarial" just announced that yet another bit of international treaties and consensus since at least decades applies only to others- and announced vaguely the first space deployment.
+
+If you read the announces earlier this week, and even just read the fact sheets, you will notice one point: a different map for each "line" of the initiative.
+
+Which makes sense from a deployment perspective but, from the routine approach to initiatives within the European Union, still requires remembering to all Member States that it is a Union, not a "union &agrave; la carte", as heard in Brussels at a book presentation by a UK diplomat decades ago- with a different majority consensus on each initiative, and, as he presented, UK being the one holding the balance in each.
+
+[Divide et impera](https://en.wikipedia.org/wiki/Divide_and_conquer) is a game that in Europe, even after the Treaty of Rome, has been routinely played: do you remember when the [Common Agricultural Policy](https://en.wikipedia.org/wiki/Common_Agricultural_Policy) was the largest item on the budget, for political reasons?
+
+It is still relatively supersized, if looking at the actual economic reality of agriculture as part of the European Union economy.
+
+The "defence of the realm" requires a consensus on what is the realm: not a variable geometry, shape-shifting majority- leave that to fighter planes and drones swarms.
+
+In that post yesterday, my note about "vicious papercuts" was not a joke- was a simple representation of reality seen from outside: we issue edicts, announces, etc- but when it turns operational, we hear of French planes, Italian ships, etc.
+
+The USA announces the deployment of weapons in space, credible enough to raise complaints from other countries? 
+
+We present the usual piling up of internal communication channels, hierarchies, overlapping of actors- and what is presented as an operational strategy reads more as a traffic cop in Brussels, having to navigate the traffic priority between all the institutions when there is a traffic jam nearby rond-point Schuman.
+
+A traffic cop trying to ensure that nobody will file a complaint for having been let through in the wrong order- while instead the role of the traffic cop was supposed to be making the traffic flow.
+
+Almost nobody was left out from that long list, but still sounds as a long journey starting with the usual bureaucratic acknowledgment of presence of all the actors.
+
+Today, in one of the new items I read earlier this morning as usual well before breakfast, was actually shared that there will be a meeting at 10am CET followed by a press conference at 12.
+
+If you read those fact sheets, and read since January at least the back-and-forth about the European Commission trying to assert control on defense procurement, and the Member States rebuffing, you can be excused to wonder how all those bullet lists will blend-and-mix, and how many different "&agrave; la carte" majorities will exist within the overall strategic posture.
+
+Again, I do not think that this current Commission showed enough respect of the separation of powers, and therefore probably something or somebody different would be needed to lead.
+
+Still, probably the "entity" representing the Governments of the Member States could generate something more operational, with a clear mandate, and with clear boundaries on who what where- instead of having Member States to play catch up with the latest "ballon d'essai" launched by the President of the Commision, who seems fond to inject integration of Ukraine within any initiative to force an integration with the European Union as a "fait accompli".
+
+Membership in the European Union should be a path of convergence earned, not bestowed "a priori".
+
+So, we will see either today or maybe across few announced meetings over the next few weeks how much we will stay on the old "papermill" (as, while lived in Brussels two decades ago, some called the European Parliament) and more recent "announce-driven" approach, or integration will happen in a domain where integration to achieve operational efficiency and efficacy is a minimum.
+
+And now, the list of links:
+_ <a href="https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-defence-industry-council-identifies-the-first-five-projects-of-common-interest/
+">"European defence industry: Council identifies the first five projects of common interest"</a>
+_ [for the list of factsheets](https://defence-industry-space.ec.europa.eu/commission-proposes-five-joint-defence-projects-strengthen-europes-industrial-capabilities-2026-07-03_en)
+_ ["Council strengthens EU space threat response architecture"](https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/council-strengthens-eu-space-threat-response-architecture/)
+_ [ the 2026-09-28 Council Decision 2026/2195 "on the European Union Space Threat Response Architecture (STRA) and repealing Decision (CFSP)"](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602195)
+_ last but not least, ["US confirms for first time it has deployed space weapons"](https://www.bbc.com/news/articles/ck790xg41ygro)

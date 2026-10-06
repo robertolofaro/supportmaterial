@@ -1,0 +1,385 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260921_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/rethinking-organizations) section.
+
+You probably saw the previous articles of this series about "The Future of Europe" ([you can see here the first of the series, each article links to the next and the previous](https://robertolofaro.com/index.php?page=666)), the latest addition to my [list of multi-part article](https://robertolofaro.com/index.php?page=621).
+
+As I shared in the previous article, it actually started as a single article, but eventually saw that it was the right time to carry out a kind of variation of the theme of the [#EP2024](https://robertolofaro.com/ep2024) article series.
+
+Hence, in the multi-part list the description is "An article series looking at the European Union from a cultural and organizational change perspective- a conceptual follow up to #EP2024 (a 17-parts article series that was released in 2024 and 2025)".
+
+I already wrote previously about [jurisdiction & startups](https://robertolofaro.com/search.php?tag=jurisdiction_startup), but in this article will not focus on the whole concept that I first heard about from the President of the European Commission in Turin in late September 2025, i.e. on creating a new regulatory framework to ease startups access to markets, mobility, and, hopefully EU-wide scalability (and beyond, why not).
+
+It is a work in progress with a roadmap set by the European Commission through interactions with the other European Union institutions, notably the European Parliament.
+
+Using the information provided by the European Commission itself, these key figures represent quite well the complexity of the initiative once it shifted from an announce to an interaction and started its journey toward something implemented:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260921_00_key-figures.png)</center>
+
+The change discussed in this article has the potential of being more structural, also if the concept had been lingering around for a while- well before that presentation in late September 2025, and, frankly, even before the two reports coordinated by the former Presidents of the Italian Council of Ministers, Enrico Letta and Mario Draghi.
+
+This article will be focused specifically on consideration derived from the material produced in February 2026 as part of the [Feasibility of a 28th tax regime and its potential to support EU competitiveness](https://www.europarl.europa.eu/committees/en/feasibility-of-a-28th-tax-regime-and-its/product-details/20260211CHE13682) (link to the European Parliament website)</a>.
+
+Why this choice?
+
+Taxation is something quite significant in any modern economy.
+
+And has impacts both on organizational design, organizational development, and, of course, organizational culture- not just a matter of financial flows- despite what often seems to be the focus when discussing the internal structure of the European Union and its evolution.
+
+My focus, as usual, is the cultural and organizational change and associated impact analysis- as seen from a practitioner that in the past supported companies and startups on business and marketing planning, multinational activities and negotiations, and more than once had to see what national regulation defined as a reference cultural framework, i.e. the "organizational behavior patterns" considered as "normal".
+
+For example, two decades ago was asked to make an organizational proposal (structure + process) on integrating SOX governance concepts but for an Italian company whose shareholders were other organizations.
+
+At the time, the European Union did not have the regulatory framework that we are used to in 2026 (and forthcoming between now and 2030).
+
+Anyway, was an interesting intellectual exercise- an exercise that had to deliver further benefits a decade later while in the USA for a customer, as there was a discussion about SOX where actually was able to get an approval from the internal SOX reference because I had had time before to study SOX not from the evolving technicalities point of view, but from the conceptual framework.
+
+Or: "start with 'why'", echoing the title of a book.
+
+The difference from "why" and "what" is not minimal- [and last week shared on Linkedin an example](https://lnkd.in/p/d6RUeVwD) that is also the narrative of an application and architecture that used as an exercise to test the capabilities of an AI platform (yes, within that post explain also when will be released).
+
+Because if you define the "why", then the "what" can actually evolve- in an organic way.
+
+Otherwise, you just keep piling up the "what" that is trendy at the time, without considering the consistency with and impacts on the original "why".
+
+Fourth part of a series:
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/08/20260809_00_series.png)</center>
+
+That link from the discussion and material released in February is interesting from a cultural change perspective, as, being "a controlled environment", allows to turn that into a case study.
+
+Will try to keep this article short, and therefore will just start with a short section (to be developed in early October elsewhere) on my associated background.
+
+Then, will try to "summarize" in as neutral as possible way the material from that February 2026 event.
+
+Finally, will share my considerations- within "The end of the beginning" (yes, quoting somebody else), as this is where we are.
+
+There will be time later to expand as things do progress and, eventually, to create a mini-webapp as others that released in the past dissecting Italian Government decrees.
+
+The table of contents:
+_ A_Being there- a ghost around Europe
+_ B_Dissecting a feasibility case study
+_ C_The end of the beginning
+
+
+<b>_ A_Being there- a ghost around Europe</b>
+
+The reason why I started working around Europe already in the late 1980s, when I was in my early 20s, was accidental.
+
+Basically, I had no university degree, no formal training in English.
+
+In middle and high school, on the language side, I had just Latin, French, Italian, plus an experiment on adding English for 20 hours at 14 and 20 hours at 15 for a second language, with a mother tongue speaker (she was a teacher from Bristol).
+
+Anyway, I had interests that required expanding my language skills- such as an experiment with computer punched card programming in Fortran IV at the University via a classmate and his friend- and the book that I found at the local library was only available in English.
+
+It helped that my mother had been "au pair" in London in the early 1960s, hence we had at home also books and dictionaries.
+
+Also, another of my hobbies was studying cultures- and, notably, comparing their "cultural framework"- and started from comparing Constitutions- which implied digging into political philosophy and the "spirit of the laws" concepts.
+
+So, again English was useful.
+
+Plus, in the early 1980s, at 17, that background made me curious about an association that distributed leaflets in front of my high-school.
+
+It was the youth component of the European Federalist Movement, a European integration advocacy that communicated with all the political parties that were within those who had helped define, post-WWII, the Italian Constitution- what we called "arco costituzionale"- from the Italian Communist party (the leftmost side of that "arco"), to the Italian Liberal Party (the rightmost side).
+
+There were other political parties on the left and on the right, but that was the "scope".
+
+Through that association, learned the workings of evidence-based politics, communication and timely press-releases, continuous communication and how to be ready to communicate on cue and on time whenever new events required that- but leveraging on a "war chest" of material that allowed to release something structured yet "in style" and timely.
+
+Through them, also learned the "beauty" of negotiating for hours about... a single comma, or a singular or a plural within a document,
+
+At the time European Parliament Members had a budget to promote the idea of Europe, and some actually were gracious enough to use that to subsidize "discover institutions" trips, ditto the research arm of a local main bank, Sanpaolo.
+
+Hence, ended up being able to join and afford travels to Nice, Strasbourg, Paris, Brussels, and nearby the border, as well as other locations.
+
+Meeting people from a different background and discussing on a common lingo and shared "why", but from different perspectives, and in French and (my then severely limited) English was a significant learning experience.
+
+The funny part was that the language experiment with English in high school was actually the third one that had the chance to be part of.
+
+In elementary school, our class was chosen to study what we called "insiemistica" (basically- a simplified form of set theory).
+
+So, for somebody who started reading by self-teaching, extracting books, and pestering adults to understand, that conceptual framework helped to observe reality as a set of converging interests that sometimes overlapped, but were not necessarily so.
+
+Blending my interest in cultures with that was really useful for later: political activity, service in the Army, other activities ranging from limited ghost writing to sales, and then business activities.
+
+And the third element? Well, our middle school what the last one learning Latin- halted at the second year, and the we resumed in the first year of high school, but also was nice to have on the art side a painter as professor, as was presenting what we were supposed to do from a perception perspective, not from a technical one (at least, so seemed to me).
+
+I had chosen a company that had a huge library.
+
+And in each project from the first one, was given a chance to use my prior experience- from being asked to prepare the budget for a large fixed price project (over 3,000 m/d), to then being assigned to deliver business analysis along with software development in the first project, to having my first PMO/QA/QC/Release Management and customer interface role in the second one, to working on countless decision support projects in different industries and locations, interfacing with senior management.
+
+So, I was also sent in London to train simply because I jumped at opportunities to learn- and I liked to listen, learn patterns, integrate them in my patterns, and then sharing and communicating.
+
+Those first late 1980s activities around Europe evolved then naturally in the 1990s, when I wanted just to settle somewhere and start a family and become a specialist in an industry.
+
+I liked (and still do) blending cultural and organizational change, a bridge between business and experts, and business number crunching, as it was a way to learn more about multiple domains from domain experts- and then connect the dots.
+
+For example: moved to London simply because was called from Paris by a foreign sales and country manager I had previously worked with.
+
+The purpose? To help improve sales processes for the EMEA branch of an American company based in Paris, and they wanted a company, not a freelance.
+
+So, other English former colleagues offered to help me settle- from office and introduction to an accountant, to helping in other "settlement" activities.
+
+And while in Paris, due to some results, was introduced to a German Swiss distributor, to help on some key accounts- and, of course, accepted the chance to work in German Switzerland.
+
+And through that, as I had done also while spending two summers at the London School of Economics in preparation of other training, met on the customer side people, including some that I am still in touch with- and some who became friends.
+
+To close this long section to qualify my interest: yes, from the 1990s, also to retain my skills learned in my first job plus in prior political activities, invested a lot in self-training and also in experimental projects, including by supporting startups on business and marketing planning, or business development.
+
+As I had at the time significant income from my management consulting side, frankly money was not the real motivator- helping to build something larger than myself and to keep alive and expand skills and knowledge and network were the real motivators.
+
+It is interesting how I saw e.g. the evolution of something as simple (conceptually) as an annual report evolve between the 1980s and 2020s.
+
+And how, through all that, learned about what made sense and look at in numbers in each industry- from those who worked in each.
+
+Now, time to discuss the feasibility study.
+
+
+<b>_ B_Dissecting a feasibility case study</b>
+
+If you read the long previous section, you know where I am coming from.
+
+Also negotiation and coordination activities, as well as management consulting, often required to work dissecting, along with experts, contracts, regulations, agreements, government decrees, etc.
+
+Curiously, as reminded last week while summarizing some concepts for others, doing that professionally was possible simply because first worked for companies, then at the time when delivered management consulting on change the market in Italy was still young, and finally, from the late 1990s, was based in UK.
+
+If I had been an Italian based in Italy, even if I had had a university degree on a specific subject, somebody like me working as a "bridge" and facilitator across domains, requiring not just "T-shaped" but "M-shaped" attitude and knowledge would not have been possible.
+
+If you wonder what I mean- it was described in previous articles, but you can find a summary within [the linkedin post with attached presentation that shared above](https://lnkd.in/p/d6RUeVwD).
+
+Italy has since centuries a concept of "guilds" that might have had a value in the past.
+
+Since the 1980s, I saw way too often new "business tribes" trying to develop a new guild with requirements that would not have allowed even future "clones" of the founders to enter.
+
+Digital transformation and various deployments of business and technology- and I do expect soon some Italians to try to create an AI experts guild.
+
+As I saw in the early 1980s the logic programming user group I had been joining due to my interest in PROLOG grow up (the Gulp- as was called- had its own magazine) expand, up to the point of attracting corporate sponsors, and, suddenly, a new AI association de facto took over but introduced requirements so that academics could have a control on everything that... they had done exactly little to develop.
+
+A typical Italian approach- and, as it usually happens, trying to turn a grassroot organization of enthusiasts and foot-on-the-ground operators into a sinecure did not exactly promote adoption. 
+
+There was a politicians that is routinely celebrated as a libertarian who pushed for introducing divorce and abortion laws and other civil rights but also advocated for cleaning up the table from guilds: if there is a free market, ensure public safety standards, but do not let self-regulation become a barrier to entry to the market that, anyway, does not protect the receiving end of what the market offers.
+
+And, of course, the Italian Parliament, where many Members of the Parliament belong to professions (and guilds), instead was happily expanding guilds reach, or bestowing to some guild members, while delivering their serices, the same protection afforded to security officers.
+
+Some guilds routinely try to expand their market via regulation- e.g. trying few times to impose that each website had a journalist member of the guild on staff, as if it were a publication, or adding some special grants for using psychologists (that would not cover the full treatment, but just its inception).
+
+Frankly, one of the reasons why Italy lacks competitiveness: if you have market regulation and access managed by those who have a vested interest in controlling access to market, innovation and restructuring happen only if you create yet another "tribe", and the old tribes start losing membership.
+
+Our times instead would require building purpose-oriented temporary teams structured around the domain expertise needed, a team where leadership and revenue recognition are linked directly to market feasibility and business choices, not to guild regulations.
+
+In many of my missions since the mid-1980s for my employers first, and then for customers, sometimes I had to lead, sometimes to orchestrate, sometimes to contribute or audit, and sometime to be a member of a team taking over an evolving role- or even multiple roles.
+
+And yes, it happened that my coordination role for my employers in Italy, 1986-1992, included people who belonged to guilds, ditto while supporting partners as management consultant.
+
+If you look e.g. the video associated with that February event ([see here](https://multimedia.europarl.europa.eu/en/webstreaming/fisc-committee-meeting_20260224-1430-COMMITTEE-FISC)), it might sound cryptic for many.
+
+But if you worked in orchestration or facilitation of change in multinational environments (two different things, in my view, but let's skip that part for now), you are used to have to "bridge" multiple domains, and that implies accepting that, if something is alien to you, before attending (in person or virtually) an event, you actually cross-check who should be involved.
+
+You might be an expert in e.g. interviewing to extract requirements ("business analyst")- but if you have a degree in social sciences that helped you to develop that expertise, and understand zilch of the specific domain you are interviewing about, you will probably miss a significant chunk of the underlying "cribs" that could lead to conveying the expertise presented by those in front of you- formal and informal.
+
+I wrote about that in the past- but in more than one project since the 1980s I was called in the aftermath to "recover" something where the key weakness was that lack of orchestration and facilitation.
+
+Introducing a 28th regime: what does this imply?
+
+I think that, if you are really interested, [following this independent website](https://the28thregime.eu/) could be useful.
+
+It is still a work in progress- but interesting how the initial announce that heard in Turin in late September 2025 from the voice of the President of the Commission, when meeting reality, started collecting confirmations that frankly should have been there upfront- nobody wants another case such as the Bolkenstein Directive, moreover not due to a Member State playing "beggar thy neighbor", but by creating de facto a new "virtual Member State".
+
+Would be quite puzzling otherwise to have this sign of modernization turn into a kind of "zona franca" within the European Union rights and duties that we take for granted.
+
+Anyway, we will have to wait at least end 2026:
+<em>"Latest status
+
+Last updated: 10 September 2026
+
+On 7 September, JURI took up the 1,418 tabled amendments, and the Irish Presidency used the same sitting to give the file its first public timetable: a second Council compromise text expected in the coming days, a Council negotiating mandate wanted as soon as possible, trilogue negotiations in November, and political agreement by the end of 2026. Those are Presidency targets stated to a committee, not scheduled stages. The Commission also offered to move its assurance that the regulation does not touch labour law, social security or taxation out of recital 83 and into the binding articles. No compromise amendments exist yet, and no committee vote has been scheduled. No official readout, minutes or press release has been published; our account is transcribed from the webstream. 
+"</em> (downloaded 2026-09-17).
+
+The Commission work programme 2026:  
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260921_00_key-figures.png)</center>
+
+You can actually [read all the material from the 2026-02-24 feasibility session](https://www.europarl.europa.eu/committees/en/feasibility-of-a-28th-tax-regime-and-its/product-details/20260211CHE13682)
+
+Anyway, will save you some time.
+
+The summary ([from EPRS_BRI(2025)779233_EN](https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779233/EPRS_BRI(2025)779233_EN.pdf)):
+<em>"Although it is a long-standing concept, the 28th regime was emphasised by Enrico Letta's report in 2024 as a major recommendation to reinforce the single market and remove internal barriers. 
+
+The International Monetary Fund estimates that the persistent barriers to the EU single market still represented the equivalent of a 110 % tariff on services.
+
+The 28th regime, which has yet to be defined, would possibly be a specific legal framework that would govern various aspects of businesses that opt into the scheme from 'birth to death', such as establishment, organisation, operations, and disputes.
+
+The Commission made the 28th regime a key element of its competitiveness compass, under the 'necessity' of closing the innovation gap; the legislative proposal is scheduled for the first quarter of 2026. The start-up and scale-up strategy published in June 2025 will encompass the 28th regime, which will be aimed at young and small innovative companies. The scope would thus be narrowed substantially compared with Letta's recommendations.
+
+The European Parliament is currently engaged in preparatory work on the 28th regime.
+"</em>
+
+And will share more excerpts in the next section, while sharing my considerations.
+
+
+<b>_ C_The End of the Beginning</b>
+
+The 28th regime? Some propose to actually have a regulation, not a directive- i.e. immediately effective instead of requiring national legislation in each Member State, but with opt-in (allowing each Member State to decide if the 28th is available or not).
+
+Be it a directive or a regulation such as it was GDPR, often those preparing new regulation still forget the life-cycle and capabilities of target entities, two elements that are structural constraints for startups, innovative or otherwise.
+
+A SME can stay small forever- or scale-up, e.g. through M&A or "pivoting" after the introduction of innovations.
+
+Startups, except those created as a joint-venture with an industrial partner, e.g. to focus on an innovation while avoiding all the internal bureaucracy, or those created by those who aspire to be acquired (I met many) would require something different.
+
+As they start small, fail often, usually also fail early (except in countries where they turn into a lifestyle, not a business), and gradually grow or even scale-up into unicorns and beyond.
+
+So, for each phase in their life, they have different organizational structures and, often, a continuously evolving organizational culture.
+
+You want to kill a startup before it scales up? Drop in too early management extracted from larger companies, and you will see most of your talent run for the door.
+
+Therefore, also the 28th regime, even if, as many say, for now were to be focused just on startups that are innovative, cannot be a "one size fits all", but should be a layering aligned with the life-cycle stage of the company.
+
+Ditto for support structures, that often are stuffed with people seconded from State or supranational bureaucracies, or people that until recently were used to work in much larger structures- and usually never worked in innovative startups: and, again, trying to reconcile startups with the organizational cultures that they are familiar with- either directly, or by imposing processes and procedures that were "logical" in a completely different culture.
+
+In my view, the first starting point, the first value-added, before building castles in the sky, would be to consider that life-cycle element, and streamlining the initial steps plus regulatory reporting bureaucracy, e.g. by having an information hub able to interact with and filter communication with national authorities.
+
+Of course: if we really want to have innovative startups that are created if where when and with the best people for their purpose...
+
+... in any Member State.
+
+A basic element would be to have a single communication language: decades ago, when traveling across the USA with American friends, they told me how one of the business opportunities was actually to trace back people who moved across the country due to employment needs- and offer to manage their property or selling their property that they left behind.
+
+At the time, was told that around 10% of the USA population in some "tax brackets" moved across: one main (also if not official) language, federal taxes and statutes, plus local ones, made easier to relocate.
+
+In Europe, we have not just different languages, also different "approaches".
+
+Decades ago, an Italian partner asked me, while visiting Spain for other business activities, if I could check if could make sense to settle in Barcelona, as he had been offered by another Italian company to acquire their branch based there.
+
+I asked to a British colleague how did he managed, after I met with the economic development office of Barcelona that proudly announced that they had posted online the 600 most important procedures to set up a new company- in Catalan.
+
+He told me: I found a lawyer who does interact with all the other locals and local offices.
+
+It was decades ago, so maybe now there are information offices and less procedures- still, at the time, even before looking to set up a data room, advised my partner again acquiring an unknown in an unknown market where he had nobody who could help him navigate.
+
+Having real mobility across the European Union for innovative startups might imply that actually they will start their life where the founders are, maybe nearby their own "Alma Mater" university.
+
+Then, before expanding, would relocate the "band of brothers" (or sisters) in another location where is available an ecosystem that could help them to move to the next level.
+
+And so on, and so forth: you do not necessarily open up branches, if what you need is to focus on some specific activities and processes and technologies that change as the "maturity" of your own startup increases.
+
+If each time you have to deal with an "exit tax" plus completely different regulations (not just the percentage of taxes or payroll costs, but different regulations), it is doubtful that you will move around where you can get optimal impact.
+
+Some, as Bruegel, prefer to call it "zero", not "28"- as they say that eventually there will be a 28th, 29th, 30th Member State of the European Union- and that could generate further confusion.
+
+It is really better to say "regime zero"- notably if you want this streamlining to eventually become a potential default choice.
+
+I prefer to say "jurisdiction" instead of "regime"- as I worked on the side of cross-border businesses, including my own, and therefore saw first hand how under current regulatory frameworks is a "fair weather" affair.
+
+Moving into a 28th regime (let's stick to the official name for now), the obvious issue that from a business (not just regulatory or legal perspective- from an operational perspective) is how to manage resources, obligations, rights, flows, and, yes, litigation as well as applicable legal frameworks.
+
+Overall- risks and resources and lifecycle.
+
+The Letta report was highlighting the concept as a shared common, while gradually it is becoming more selective (i.e. restricting the scope) and potentially elective (i.e. a kind of opt-in)- not just from the February feasibility, but also from community commentary.
+
+An element that was indicated was the potential of actually becoming something that creates a parallel regime in each Member State that is weaker on local "status quo" due to the need to harmonize
+
+Or: a Bolkenstein on steroids.
+
+Yes, there are statements in that document such as <em>"the regime should exclude labour, insolvency, and tax matters, determining applicable law by place of registration, and allow company transfers across Member States without dissolution"</em>- which could rule out such an evolution: but, within the European Union, we are used to "Monnet Moments".
+
+Or: you do not have consensus on something? Find a way to open a bit to the potential, a "foot in the door", and then push it through- consensus will follow.
+
+Which reminds what I saw resettling more than once as a citizen around the EU: it was anything but simple.
+
+For example: try to get a banking account in Germany without being resident there, and you might be asked (as I was) a phone number in Germany- which, in turn, could be put on hold indefinitely- so, also if you regulate banks, there is always a way to accelerate or procrastinate using entities not subject to that regulation.
+
+As an Italian citizen, frankly the easiest move since the late 1990s was moving to UK- as shifting to Belgium and then re-registering in Italy were quite cumbersome.
+
+To say nothing for the story of my Italian driving license (now theoretical) after moving to UK, and having it stolen in Belgium before I had had time to convert it into a UK one that shared in the past (at last, few years ago that part was theoretically streamlined).
+
+Yes, those exclusions are actually useful to avoid yet another Bolkenstein "regulatory shopping"- but also it is yet to be seen, beyond forming companies, how would simplify operations and even shifting location within the European Union.
+
+Frankly, everything considered, if each Member State were required under the new regime just to provide, for startups, innovative, and SME companies, the possibility of filing all the information required by local laws in a shared language (e.g. English), this would achieve most of the practical results without requiring any change in existing tax, labour, insolvency- as, anyway, for now it seems that "harmonization" is not anymore on the table.
+
+As [stated within the statement presented by Mr. Michael Schick, Head of Office, European Tax Adviser Federation (ETAF)](https://www.europarl.europa.eu/telastatic/cmsdata/303156/Michael%20Schick%20-%20Statement.pdf):
+
+<em>"The decisive test is whether the new regime would result in a genuine substitution of fragmented national rules, or whether it would simply add another option on top. If it operates alongside existing systems, companies, tax advisers, and tax administrations will have to navigate two sets of rules, thereby increasing complexity rather than reducing it.
+Moreover, feasibility must be assessed in light of the broader legislative landscape, where corporate tax coordination initiatives are already advancing.
+
+<omissis>
+
+A key question of feasibility is whether a new regime would align with existing efforts towards tax harmonisation. Several legislative initiatives are already under discussion, including the Business in Europe: Framework for Income Taxation (BEFIT) proposal. ETAF contributed to the European Commission's first consultation phase on the initiative and subsequently responded to the public consultation on the proposal. Another example is the Head Office Tax system (HOT) proposal, for which ETAF submitted feedback in the Commission's public consultation.
+
+If well designed, these initiatives could already tackle many of the issues identified. Adding parallel tax measures through a new 28th regime risks duplication, inconsistency and
+unnecessary complexity.
+
+<omissis>
+
+Any perception that tax harmonisation is being pursued on an alternative legal basis, thereby circumventing the unanimity requirement under certain Treaty provisions, could lead to
+competence disputes and legal challenges before the Court of Justice. Such disputes would not only delay implementation but also create uncertainty for businesses that rely on the stability of the legal framework.
+
+For this reason, any tax-related elements under the 28th regime must stay within the limits of the chosen legal basis and should not lead, in practice, to tax harmonisation by other means.
+
+<omissis>
+
+<b>The 28th regime could reinforce the Single Market in tax matters only if it delivers concrete simplification</b>."</em> (NDR: my emphasis).
+
+Personally, I consider at least part of the The Bruegel proposal ([Regime 0: Europe-wide incorporation for startups to kickstart innovative growth](https://www.europarl.europa.eu/telastatic/cmsdata/303154/Reinhilde%20Veugelers%20-%20Bruegel%20Policy%20Brief.pdf)) more reasonable- i.e. pragmatic, albeit still afflicted from the "by the experts, for the experts" approach that undermines many proposals, as smooths over the banality of everyday complexity:
+
+<em>"These entrepreneurs face a combination of obstacles in the EU, but most prominent are 'difficulties in understanding the different business environment, including due to language issues', 'access to information on rules and requirements', 'taxation issues' and 'business authorisations' (Eurobarometer, 2025)."</em>
+
+Most useful (and practical) proposal:
+<em>"Admission to and operation of Regime 0 will be run through a fully digitalised EU-level online one-stop-shop: Hub0. This will serve as the competent authority and will be legally empowered to register. Regime 0 corporations. It will maintain a register of all approved Regime 0 companies and their owners. Hub0 will be highly transparent, making available all information that legally should be public knowledge. Section 3.4 describes the functioning of Hub0."</em>
+
+Actually,  registration and verification could follow the same approach use for VAT registration: you register in a Member State, then you have to express your choice to operate also in other Member States (and beyond), and, from that moment on, you subscribe a list of obligations whenever you make purchases from suppliers or sell to customers in another Member State (a little more convoluted than that, but you get the point).
+
+Another point is the taxation of equity at the point of sale: of the startups and SMEs that supported in Italy, I was supposed to receive equity- but never received it (even when survived the two years of "deferred equity") and therefore never had the issue.
+
+Still, startups, notably innovative startups, have a relatively high failure rate- hence, receiving equity that is taxed upfront is not the same as taxing actual income.
+
+Without shared rules, becomes a negative incentive, as when, at a time I was due to receive equity, was told that I could either not receive it, or be part of a restructuring that had decided for past issues preceding my actual involvement.
+
+So, both with startups and SMEs learned that in Italy is better to avoid deferred-income and deferred-equity: as you know how much you are not billing (hence, the "deferred-") but, also if you generate value, litigation is the local approach- which is fine only if you have your own tribal allegiance and support to countermand the other party, not if you are an outsider providing services.
+
+And I was told by foreign colleagues that actually they had the same issue also when acquiring SMEs/startups- what they had agreed to buy piled up new commitments and saw cashflow siphoned off during the ownership transition, e.g. by getting contracts that was cheaper to keep than to cancel also if useless.
+
+Anyway, would phase-in the approach across the lifecycle: and I think that keeping just the registry could be feasible, keeping also a constantly updated knowledgebase would not.
+
+Just creating a unified, harmonized, continuously updated comparison engine for all the taxation, labour, insolvency matters would be a major hurdle.
+
+Moreover: such a database would represent the "status", not the "trend"- while, in country such as Italy, at least two of those three components (and some more) are continuously in a state of flux.
+
+Hence, while laudable to aim to help also to choose "where"- I think that it would be better to leave that to those who advise on taxation and cross-border taxation, maybe with a grant or funding pool at the EU level to provide a kind of outsourced service that polls from existing experts in providing a kind of "induction service".
+
+This would enable not just to provide information about the "status quo" but also, considering the development plans of each startup, which "trends" could actually impact and where.
+
+If a regulation were to require Member States to provide information about the status quo, we already saw what happened in the past: e.g. look at the history of "Doing Business", or some "creative national statistics"- while instead professionals could give the unvarnished truth about trends, not potential scenarios presented by States to attract startups without committing any resources.
+
+The digital-only could be in the creation and reporting in English, and then putting in touch the regulatory entities of the "leaving" and "moving to" countries, to have a package for relocation created, and avoid double taxation and exit-tax if still staying within the EU.
+
+Instead, all the operations would be still as usual, but gradually introducing cross-border alternative dispute resolution recognized by Member States.
+
+Assume that the new 28th regime will be considered perfect by all the parties involved in generating new innovative organizations.
+
+Still, as discussed above, there would be different life-cycle phases to consider.
+
+Example: in UK, a company registration agent could provide in the past either an off-the-shelf (generally, to show that the new company actually had been on the market for a while), or a brand new one (my choice).
+
+Anyway, your type of business identified the regulatory and resources framework.
+
+Say that maybe you want to name your company with a product name that includes a location- but, in that way, you actually can have customers associate you with a product from a specific location that has specific requirements- say, "Formaggi il Parmigiano"- requirements that you cannot satisfy.
+
+In my case, when I started wanted to use "International" within my company name- I had to accept "Internationale" until I had proved that I had customers in other countries (i.e. after the first invoices).
+
+Sounds a joke, but these are the typical details where creating a 28th could end up colloding with individual Member States, e.g. by defining or limiting the actual businesses you can deal with or what you can present.
+
+Now, this was just about the feasibility and potential issues- will be interesting, considering the title of this series, to see how it will evolve.
+
+To summarize again, I will not share here other documents, but if you want to keep aligned, I suggest two sources that collect all the documents, and (the second one) also feed-back from those that would be impacted:
+_ [the "legislative train" for "The 28th Regime - a new legal framework for innovative companies"](https://www.europarl.europa.eu/legislative-train/theme-a-new-plan-for-europe-s-sustainable-prosperity-and-competitiveness/file-28th-regime-for-innovative-companies)
+_ [The 28th Regime (EU) - Updates, resources, and templates for Europe's planned optional company framework for innovative firms](https://the28thregime.eu/).
+
+Of course, you can also access those two links and then follow linked documents that often looks like matrioskas (open one link, find many nested ones inside) turned into a [M&ouml;bius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip) (as many links return to the starting point)- albeit, within the scope of European Union reforms, often decision-making seems to follow a [Universal Turing Machine](https://en.wikipedia.org/wiki/Universal_Turing_machine): few "moves", but an infinitely long tape moving back and forth.
+
+Anyway, that is the point of a legislative development in something that could be easy to announce, difficult to implement, as there are many overlapping country-by-country issues, plus a long history of corporate regulatory and taxation and intellectual property rights etc development- centuries, in Europe.
+
+It has been anyway evolving- as cases such as COVID and the invasion of Ukraine showed that actually when needed in the European Union decision-making can find ways to move forward and fast. 
+
+See you at the next article.

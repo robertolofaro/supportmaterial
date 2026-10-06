@@ -1,0 +1,240 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260928_article.png)</center>
+
+This article is within [BooksBlog- Books in progress](https://robertolofaro.com/index.php?section=books-blog).
+
+As befits for articles in this section, I will keep it relatively short- as more information will appear as further material will be published.
+
+And, actually, will share a conceptual list of books- part of those that I am planning to reread or read to refresh and support some other activities. 
+
+The aim of this article is to connect past, present, and future- albeit the latter is already partially... started few years ago.
+
+Frankly I have to admit that, if my 2017-2018 AI update had gone ahead as planned, I would have wasted resources.
+
+Already in 2020, during COVID lockdowns, had the chance to expand use of [my Kaggle profile](https://kaggle.com/robertolofaro), both on training and hands-on activities, and without having to procure first the hardware: I could use the only CPUs and GPUs (more recently, also TPUs) provided by Kaggle, for my tests and experiments.
+
+Then, few missions more than once interrupted some of my projects.
+
+Acceptable, as, when I had other more interesting but short-term alternatives abroad, instead routinely suddenly surfaced some local opportunities that was presented as temp-to-perm and with a development path, each time I was called in Turin or by Turin since the late 1990s, when first moved abroad.
+
+Hence, decided to keep using the skills, e.g. by curating datasets built from scratch or from open data that published online, publishing few more mini-books on change, and articles, while looking if, at last, one of the missions delivered- never did and, frankly, I doubt will ever will.
+
+From 2022, when I had again time and started by annual reports projects that wrote about in the past ([see here the rationale](https://www.kaggle.com/datasets/robertolofaro/borsa-italiana-listino-as-of-20221119)), my initial purpose was to improve past skills in that domain, and then start working on analytics and machine learning applied to what I had seen in financial controlling and management reporting activities since the late 1980s.
+
+Was lucky again because, beside ChatGPT, started an accelerated innovation journey within AI- making possible at limited costs (or even for free- just your time) something that in the past had required significant investment, and significantly leveraging on my past business experience across multiple industries and domains.
+
+Sometimes, it feels as a movie that saw in German in November 2012 while visiting Berlin, ["Cloud Atlas"](https://www.imdb.com/title/tt1371111): it all converged.
+
+Granted- with AI, if you want to develop a service that is profitable, you need to to optimize and manage costs, and build up capabilities.
+
+You can start by using API, i.e. building a "front" on one or many cloud-based AIs (I shared routinely my doubts about that practice and if it is viable in a corporate environment), but, eventually, you need to invest, hopefully once you have a customer base and revenue streams that are steady enough to justify increasing margins by doing investments.
+
+Then, you have to go (on a significantly smaller scale) toward the path followed by e.g. [Harvey.ai](https://www.harvey.ai/), a legaltech startup that [reached a 15.5bln USD valuation in early September](https://www.reuters.com/legal/government/legal-ai-startup-harvey-reaches-155-billion-valuation-new-funding-round-2026-09-09/).
+
+Or: [in June 2026 announced the development of legal-specific model](https://www.law.com/legaltechnews/2026/06/18/harvey-announces-development-of-custom-legal-specific-ai-models-/), following a trend that is implicit within the "collaborative" side of AI.
+
+While confirming that is anyway "multi-model by definition"- as customers have their own prior investment, preferences, and integration with their own customers and their favorite models (even Microsoft offers a palette, not just "in house" models).
+
+If you read my previous posts, you saw that, within the scope of business number crunching, I am using other (smaller!) models tailored to finance and other industries or domains.
+
+Anyway, I am not building services, for now: just developing and expanding my local toolset to support my own publications- including gradually (as did since May 2026) sharing online models relying on my content or, as did since late 2025, also models to allow others to generate content based on content that I develop also visually (I shared few experimental image-generation models on Turin and Lyon on [Civitai.com](https://civitai.com/user/robertolofaro)).
+
+Personally, for more advanced uses, not just for budget constraints but also because I prefer the flexibility to use hardware tailored to each project, as I have no confidentiality and privacy constraints for the time being, I also used only both Kaggle and, for real heavy-duty tasks, [RunPod](https://runpod.com)- eventually, will share on my [GitHub](https://github.com/robertolofaro) profile not just content and documents, but also scripts in my toolbox.
+
+Anyway, in my Linkedin stream, beside other themes, the impacts and potential and risks of LegalTech, specifically AI use, is starting to become a daily constant.
+
+Just look at GDPR (privacy), the AI Act, and all the other compliance paraphernalia, plus, at last, the recognition that Europe cannot rely on a payment system that cannot control ([look at how judges of the ICC live under US-based sanctions just because they do their work](https://www.theguardian.com/law/2026/feb/18/international-criminal-court-icc-judges-trump-sanctions)).
+
+So, this summer, as shared before ended up sidelining Thucydides and his storytelling of the Peloponnesian war(s), and instead expanded my business number crunching from the typical financial controlling and internal audit activities or management reporting and KPIs, to more structured elements of analysis- forensic accounting.
+
+Forensic accounting is something that frankly was asked across my career to do more than once, e.g. in my first two official projects in 1986-1987 and 1987-1988 to build lineage of number, or trace back discrepancies and misleading numbers, but also when asked by customers to review asset depreciation and reconcile contracts and invoices with deliveries, or ensure that a series of specific data flows was depleted according to a schedule (yes, not really what you would expect from a project/program/change manager and PMO, but, as it was within my toolset since the 1980s, even in the 2020s was still useful and asked to do so).
+
+The "going forensic" within the title of this article is simply stating the obvious: if dubious numbers start being generated not by just "accountants and CFOs going creative", but also by AIs with limited adult supervision (i.e. humans who do not just rubber-stamp, but question the rationale), gear up for an exponential growth of activities.
+
+Activities to check.
+
+And activities to ensure compliance.
+
+To say nothing about activities to deal with the aftermath of the wrong numbers leaving for the wrong destination at the wrong time.
+
+Before the invasion of Ukraine and Gaza, and the attacks on Iran, many said that the late 2020s would be the M&A era.
+
+Well, for now, between compliance and agentic, it seems that we are heading into "accelerated litigation era"- hence, also my recent renewed interest in alternative dispute resolution- something that had been part of my business activities for partners and customers since the 1990s (but will share more in the first section).
+
+Actually, within the "analytics" side, including to benchmark listed companies and pre-empt issues, "forensic accounting" already has some interesting open source platforms- but will share as results will appear.
+
+So, the second part of the title, "collaborative AI", is already in place- it was pre-ChatGPT to dig into numbers at a deeper level (e.g. machine learning, but also just embeddings and other classification and retrieval methods), it was even more so now that, if used properly, AIs can relentlessly dig year after year into larger and larger volumes that we call annual reports- and should be sometimes called "numbers & their obfuscation": as was already told in the 1980s, written in such a way that an analyst assigned to a company will be unable to see the changes after few years, as his brain would shut off what looks more of the same.
+
+With AIs and LLMs, instead, you can make every single element count and be vetted. Forever.
+
+Now that I set the perimeter, time to go for the sections of this article:
+_ A_The past, i.e. what I learned and how
+_ B_The present and future
+
+As I said above: a short article...
+
+
+<b>A_The past, i.e. what I learned and how</b>
+
+As shared in the past, after the first official business role in 1986 (mainframe developer- but from day 1 first was asked to do planning, and then, few months later, also business analysis for other more senior developers, before moving into other activities as well), each new role and mission were by "word-of-mouth".
+
+First within my first employer and, from 1988, also the Anglo-American partner Comshare, then from 1990 across Europe.
+
+If you [look at my CV page](https://robertolofaro.com/cv), and look at the sample customers at the bottom, you can end up with what a friend, when I asked her to review my CV as I had been asked by an American company in Moscow to provide a project-by-project outline, told me when I was 43 (imagine now): you are really 143, claiming to be 43 because you want to look younger.
+
+It was a business joke- because she said that it sounded impossible that I had been worked in all that.
+
+My current CV is streamlined- many boast and expand, I used a CV as a "pro forma" since 1990 (as I worked through word of mouth), and eventually decided that giving a sample of potential as expressed through activities delivered could be easier than adding a laundry list as the one that I was asked by that American company in Moscow decades ago.
+
+Probably my attitude to work across domain was innate or linked to my interest in cultural anthropology, Constitutional law, science, technology, geopolitical affairs.
+
+And probably was further develop by living in different cultures (as Italy in the 1970s was still not really a unified nation- born in Turin, moving to Calabria as a kid for a couple of years sounded like a different planet, ditto when returned to Turin in 1972).
+
+And even more so by the "evidence-based" side of political science that learned at 17 through a European advocacy I joined (the only political organization I ever have been a card-carrying member of in my life), where I was each week to browse through yet another batch of documents and data from Brussels.
+
+So, when started in my first official projects in automotive procurement and business controlling / finance, and then banking general ledger and release planning, I was already a number cruncher.
+
+Adding in the latter also auditing activities (QA/QC/"gate-keeping") and then, for employers partners customers, auditing contracts, activities, projects, deliverables, suppliers.
+
+Each time, learning the lingo in different domains, notably learning to work with technical and non-technical people.
+
+And, when it was time for contracts and proposal, working with legal and lawyers for both sides, and reading the fine-print in contracts with customers.
+
+Routinely my employers, customers, partners asked to support on recruitment, evaluation, assessment, negotiations, structuring- and dissecting their own offers and contracts.
+
+So much, that eventually people were surprised when, given a RFP, could assess in seconds or minutes the way it was delivered (e.g. sent by fax as last minute- implying: they needed more suppliers to formally vet for compliance reasons but probably had already selected), or its structure (e.g. when contained requirements that sounded as lifted from the brochures of a specific supplier- and, also in the early 1990s, without Internet, could pinpoint which one), or its content/constraints/clauses (e.g. open-ended postponement of payments until somebody approved under subjective assessment, not shared criteria- a recipe for a never-ending unpaid "adjustment"- and re-negotiated many that had been signed "as is").
+
+Just because a request states that the budget is 100mln EUR, does not imply that the distribution of activities makes sense, as said over 20 years ago when presented a request to send a proposal for the new tourism portal for Italy: 90mln EUR on the platform, and 10mln EUR (1mln/year) to... create and manage the content for all the towns (over 8,000) in Italy.
+
+A business joke, not something feasible (you can read online the story of that website- it is worth a book or a Netflix business mini-series).
+
+In the end, I had often multiple partners in my network asking me to join the qualification of prospects- and eventually started turning down the requests, as it was always plenty of work and "success-fee based": you take 100% of the risk, do the work (and travel expenses) for free, and we will share the proceeds.
+
+Generating an obvious moral hazard: many partners started getting whatever they could get their hands on, without really building a pipeline to "vet" potential, as they had zilch risk, and, for sales people, could show that their "funnel" was always active.
+
+Eventually, more than once was offered to work on preparing, coordination, and qualifying RFPs and tenders- including to introduce new systems to support those activities.
+
+More than twice ended up discussing the opportunity to work for a competence center focused only on that- pity that apparently people liked the results, but would like somebody else to take the risks and those activities were considered "cost centers" instead of "profit centers", i.e. minimal budget.
+
+Curious: as, without a structured organization in that area, that qualifies and structures, you risk getting and signing contracts (notably in consulting) that are blatantly under-budgeted, under-staffed, and with constraints that are insane.
+
+In some cases was anyway actually, before receiving that offer, asked to provide as a consulting service coordination of a remote and distributed team of experts: remember once doing one from London, at the beginning of this century, as the actual provider was to be an Italian company, but using eventually services from an American provider that, due to some compliance limitations, could not directly make the offer.
+
+I was paid, it was sent, but eventually the recipient turned it down because it was really not feasible under those conditions (it was a national e-commerce portal).
+
+Funny when, few years later, was asked to work on preparing and coordinating a tender for a large initiative- but as my investment, and in exchange, if they won, would have received few days as part-time project manager (as usual).
+
+When it rains, it pours- so, for over a decade, received more than one those "tremendous opportunities"- and usually took minutes or a single meeting to assess reality.
+
+Obviously, in various cases turned down the tremendous opportunities, and in one said that I was sorry- but I was not going to invest 40k EUR for somebody else.
+
+I got also other offers to manage all the portfolio of customers, but, again, with similar terms: no commitment from their side, hence I would assume 100% of the risk for... 2% of the potential benefits.
+
+This is the Italy I saw, frankly, since I moved first to UK really in 1997, but formally in 1998.
+
+In Italy as well as abroad, my role was often invisible, in those document preparation activities- acting as a safety net and helping pre-empt and, in Italy as abroad, covering also the role of "Devil's Advocate".
+
+It is an interesting role as, if done properly, requires learning a lot each time- both pre-emptive, as part of the qualification process, or before/after taking on a role- to build a set of KPIs and risks to monitor.
+
+My political activities as a teenager in evidence-based political activities was useful also in negotiations decades later, e.g. to revise what some startups proposed (suggestion: please, do not assume that the recipient will read all your deck in the sequence you set- and always, always verify that sums and numbers are aligned).
+
+Or when I had to explain why a comma or a qualifier in a contract made sense from a legal perspective to "hedge", but made impossible to execute the contract, if anybody were to call the letter of the contract, eventually.
+
+Sometimes, compliance is more a matter of rationale than details: e.g. when in the past had to be involved in data privacy or issues related to SOX or ISO9000.
+
+You can easily get lost into details, if you do not have a reference framework on the "why" of the regulation or policy- and that approach helps also when trying to solve business issues between different parties.
+
+It is normal that 
+
+And, frankly, when somebody starts calling clauses within a contract, that is account litigation, not management- hence, in those cases, I tried (generally successfully) to help both sides move forward and sort out differences looking at the purpose, not at the 
+
+As when received a frantic phone call because a customer was going to sue us for more than the turnover, due to a ISO9000 issue, which was then instead solved after a negotiation by absorbing from our side a small cost to fix, while supporting the customer in answering to the issue (a management consultant, not an account manager, activity), and then moving forward: resulting eventually, I was told, in 8x the original turnover on the account.
+
+So, I shared now a bit of the cultural background and business experience relevant to this article- the "forensic" part, we can now move again to the "collaborative AI" part.
+
+
+<b>B_The present and future</b>
+
+I did my first experiments in AI using PROLOG in the early 1980s (and continuing until the 1990s).
+
+Then, in business, from the late 1980s until the late 1990s, it was decision support systems.
+
+The difference? The former was mainly focusing on "expert systems", the latter on "goal seeking", "what if", and "scenario planning"- what we now call "planning futures".
+
+Anyway, planning futures based on an evidence-based rationale, identification of pivotal factors / degrees of freedoms / weak links, and then assessing the potential and probability of each alternative.
+
+What had those in common? Mainly relying on internal business data and "signals converted into data" (e.g. qualitative converted into quantitative), plus macro-economic or industry-specific common data and trends.
+
+The idea? Not to document, but to pre-empt.
+
+And the expert system element? To support in decision-making using a rationale that had been already identified, sanctioned, etc.
+
+A lot of preliminary work.
+
+Jump to the late 2010s, and use LLMs and other simpler yet powerful neural networks- and you can try to bypass most of the "expert system" preparation, and, in decision support, have actually the data provide the models, trends, scenarios, etc- and continuously evolve on that.
+
+Courtesy of the competition, and using my past experience on what to disclose and what to retain in-house, in the mid-2020s of course I have been an intensive user of offline, local model: not perfect, maybe slower than online systems- but nothing leaves the premises, and you can actually "tune" a model so that uses the "services" of the model that somebody else developed, and integrate it in your own processes, activities, and rationale.
+
+Jumping back to 2018, when I said that was blessing in disguise to have to postpone my activities: yes, it was, as one of my interests back then was to have local processing of signals where signals are generated.
+
+Explanation: if you worked long enough in business number crunching (say, from the 1980s), you know first hand that businesses generate more data that makes sense to shuttle around.
+
+I have never been a big fan of "data lakes"- I called some often "data dumpsters": apples and pears and pineapples and oranges all piled up and in different state of decay, and all contributing, if misused, to decision-making.
+
+I prefer instead to have the operational level to have the accountability of what reports, and ensure that the "data elevator" toward decision-makers work.
+
+Granted: in many organizations, the higher you go, the less they have contact with operational reality- or even want to listen to anything that is not aligned with what they have already assumed reality to be.
+
+So, my interest in Edge AI and Edge computing can be summarized as follows (you can find on this website plenty of articles where discussed "edge"- be it computing or AI):
+_ distribute ability to interact with the environment ("compute")
+_ distribute the communication logic to have data filtered and promoted to the next level
+_ enable management by exception everywhere and anytime (i.e. if it works fine, have something monitor it, while focus human critical thinking on what matters).
+
+In 2017-2018, this implied purchasing a small device called "Movidius" to have my own neural-network-on-chip via USB.
+
+The original use was for image recognition etc- but, frankly, used it for something else: again, number crunching.
+
+Also used online websites to test concepts using my smartphone as a "sensors platform" and move forward.
+
+Moving forward, will continue on those management concept about "collaborative AI integrated with management practices": redesigning organizations was done for ERPs, so why not for AI and Edge AI?
+
+If every unit of your physical products gets some "intelligence", why not integrate it?
+
+I keep learning- and yesterday (Sunday) I had at last a couple of hours of silence and time to focus and test- [using a new course from DeepLearning.ai](https://learn.deeplearning.ai/courses/building-ai-assistants-with-on-device-memory):
+
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260928_20260927_linkedin.jpeg)</center>
+
+The future is built on the past- and while from October will start formally the curriculum that defined with AIs to have modern Forensic Accounting skills updates (including continuous updates), already started this summer to re-read books on specific cases.
+
+I wrote at the beginning that was about to provide a list of books.
+
+Anyway, I decided that it is better to release book reviews.
+
+Just a hint: will be books about past business cases of M&A, private equity, creative accounting, fraud casebooks, and will include also some crime stories (e.g. "The Vulture Fund" and some of the usual writers about legal crimes: from Grisham, whose "The Firm" read right after leaving the Andersen environment, to others- including books that are actually more "forensic accounting", but presented as crime stories).
+
+Of course, looking forward in 2027 to update on IFRS and IFRS S, as for my annual reports project 2019 vs 2021 is enough the model I currently use (covers IFRS until 2024), but for other purposes would like a continuity- and add 2025 2026 2027.
+
+You can follow the tide, of have a direction and purpose.
+
+Floating is easier, but implies that others set the direction.
+
+Embedding AI in your business, at the Edge or centrally, is a double-edged sword, which requires a different type of governance, as discussed in previous articles.
+
+You have to focus on frameworking first, then defining and implementing- albeit many do the other way around- and get into a "Sisyphean mode", as keep updating and implementing whenever a new toy (i.e. model) appears to lead the table.
+
+My suggestion: framework, build your pipelines, use them- and keep separate from experimenting with the new.
+
+Some pipelines eventually might be retired or streamlined- but if you focus on purpose, you will start working as with Lego (tm) bricks: replace but provide the same function, and, maybe, add few more- but do not spread around the impacts of your testing the shiny new toy, as otherwise you will never achieve a return on investment, and actually you will create entropy, not value.
+
+This is even stronger a need if you rely on third-parties to provide your access to AI.
+
+Personally, for most of my uses within processes, I prefer to use local models, complemented in the definition and analysis phases by online models but if and only if is that is consistent with constraints such as confidentiality, privacy, etc.
+
+The price? You have to design your activities around sub-optimal AIs, but also augmenting your own internal critical thinking capabilities, as discussed in previous articles.
+
+And this might imply as described within the [AI2AI LANGUAGE experiment](https://github.com/robertolofaro/supportmaterial/tree/master/AI2AI_language_experiment) that started almost one year ago: introducing an escalation approach, DoA (delegation of authority), Segregation of Duties- between humans and AIs, but also between AIs. 
+
+Key element? Evolving your systemic thinking.
+
+And now... 
+
+... have a nice week!

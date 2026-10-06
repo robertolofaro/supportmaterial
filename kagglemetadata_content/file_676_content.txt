@@ -1,0 +1,295 @@
+<center>[Image](https://robertolofaro.wordpress.com/wp-content/uploads/2026/09/20260925_article.png)</center>
+
+This article is within the [Rethinking organizations](https://robertolofaro.com/index.php?section=rethinking-organizations) series.
+
+Actually, this is the first of a three-articles mini-series.
+
+I had planned to release it as a further mini-book, but prefer for now to release as a "draft" split in three (hopefully shorter than usual) articles.
+
+This introduction will be shared across all the three, so will keep it short.
+
+Yesterday, as found that the time I had allocated to work on something was free, decided to work a bit more on the preparation of my October in-depth refresher on forensic accounting and new tools.
+
+AI helps a lot on analytics and replicating patterns that in the 1980s-1990s required plenty of manual number crunching.
+
+Right now, as shared in previous posts, I already tested models (and soon also other tools) on various mini-assessments, and is interesting to see how activities could be split across human and AI contributors.
+
+September is when actually in that domain as related (i.e. finance, AI in finance, sustainability reporting, etc) suddenly everybody awakes from the summer vacation- and just few days ago the European Union [released an update on ESRS and voluntary sustainability reporting](https://www.efrag.org/en/news-and-calendar/news/european-commission-adopts-revised-esrs-and-voluntary-sustainability-reporting-standard-efrag).
+
+If only were to be spread across the day, would be better- following multiple webinars at the same time and juggling with the key parts of those that would later be available as a recording is becoming a second nature.
+
+Anyway, my background soundtrack yesterday was neither music nor movies nor documentaries nor webinars.
+
+As I had received from the White House mailing list the announce that President Trump would deliver a speech at the UN, wanted to listen to it live.
+
+Something that I expected could actually be useful for the discussion within this mini-series- and was not disappointed.
+
+I heard also those preceding him, and shared with some yesterday my commentary "live".
+
+Frankly, I was less surprised by what he said than from a stream of face-saving statements before and after his speech and the signing of the agreement with Greenland and Denmark.
+
+Living in different planes of reality as we Europeans did almost a century ago, when assumed that it was all talk and bragging with no substance- also if this time we already had at least since January 2025 to see how in this term talk has more substance than signed agreements.
+
+It is an issue with continuity: just because we are used to some rituals, does not imply that everybody will go beyond paying lip service if needed, and instead would assert, as done repeatedly (e.g. Venezuela and Gaza but also Iran, and, from what was said yesterday, maybe Cuba and Mexico if it does not behave as expected), a "special right".
+
+Time will see what will happen: as I shared online this morning, I look more at behavioral patterns than at a statements.
+
+An agreement between two parties requires that both recognize a forum to solve disputes, but if you are claiming to be prosecutor, judge, jury and even executioner, and invite even to dissolve the International Criminal Court (as President Trump did yesterday) because you disagree with it, then it is doubtful that a mere agreement on paper will hold the balance.
+
+As the first half of the speech was extolling the virtue of unparalleled force and its use whenever needed for your own national interests.
+
+Why this digression? Because this mini-series is focused on a similar cognitive dissonance.
+
+In previously articles since I returned to work in Italy in 2012, but also while I was living first in London (via my e-zine on change, [BusinessFitnessMagazine](https://businessfitnessmagazine.com), published 2003-2005), and when started publishing under my own name in Brussels from 2008, routinely described how we still considered organizational change under the framework of our past, not our present.
+
+In this mini-series, will explore three elements, and will develop more if and when will have time to prepare the mini-book that I had planned.
+
+Each part of this mini-series, beside this introduction, will include the same table of contents:
+_ A The past
+_ B The present
+_ C What's next
+
+Yes, the "past" section is what others would call "present", but I think that, within the scope of this mini-series, should be considered really what relies on concepts that belong to the past.
+
+The title of this mini-series includes "The Weltanaschauung of continuous organizational change"- something worth explaining.
+
+The idea is quite simple: if you work long enough within cultural and organizational change, you adopt a different perspective on reality, notably if you follow multiple missions at the same time.
+
+In the end, you will learn and understand, as I shared already with my employers and customers in the early 1990s, that this type of change has to be considered a continuum.
+
+Since the 1990s, I often saw presentations of change initiatives that presented change as moving from state A to state B.
+
+In my experience, this is almost never what happens- unless the change is just a fa&ccedil;ade, i.e. reshuffling the front while keeping all the existing.
+
+As an example, even a simple process or technological change can introduce exogenous cultural elements that eventually generate friction.
+
+I had learned that "on the field"- and will before started officially working for my first employer in 1986, right after my service in the Army.
+
+Therefore, in this mini-series will just discuss three concepts, one for each article- but hopefully will have time to share more material in the future, within a mini-book and associated tools and examples.
+
+For now, have a nice reading- hope that this mini-series will inspire some.
+
+This is the this and closing part, and its focus will be on the concept of "post-M&A integration dynamics"
+
+The choice is simple and intuitive: this mini-series started with "pay-per-use society", i.e. a structural change of relationships that got us all, across decades, used to "transactional" behavioral patterns, and continued with "make or buy"- which used to be a concept applicable and applied only to companies and organizations (including towns, States, etc).
+
+Both elements actually in our times are increasingly becoming usable by individuals or aggregations of individuals (i.e. purchasing communities or energy communities), courtesy of the streamlining and reduction of complexity plus democratization of access and use of complex processes and associated systems that we are getting used with current AI.
+
+2022 was when suddenly many discovered AI, that had already been used across activities at least since the 1980s (when I first saw it in action- but was already there).
+
+Why? Because our current AIs "dialogue" with us- we did a long journey from the [1960s Eliza mimicking communication by extracting words from what you typed](https://en.wikipedia.org/wiki/ELIZA).
+
+I remember having toying with a PASCAL version of Eliza in the 1980s, when started formally studying information technology at the University of Turin, before being called by the Army to serve (I had been in standby for a year after trying to do that in winter 1983-1984) in May 1985.
+
+Anyway, for this third and last part, will follow a slightly different approach.
+
+Will let you see directly within the usual three sections what I mean.
+
+What's next after this article? Well, will continue on other series and, eventually, if I will have time, will extend these three articles into a book.
+
+For the time being, I hope that this mini-series provided material to develop your own concepts and ideas- and maybe evolve how and what you do within the domains discussed in these three articles.
+
+Now, I will move to the first section.
+
+
+<b>A The past</b>
+
+First and foremost: in this article, will talk about a specific phase of merger and acquisition (M&A): the integration between the merged entities and their interactions generating a new organizational culture ("dynamics").
+
+I will discuss in this section also other types of transformations, hence I think that a short book (I am not the author) about M&A that could serve to set a level playing field, if you are interested beyond my personal sharing of experience and observation, and what will derive from them in the next two sections.
+
+I think that a good starting point could be a 2019 book "Mergers and Acquisitions - A Research Overview" by David R. King, Florian Bauer, and Svante Schriber.
+
+If you are interested about the subject of corporate governance, including M&A but also general oversight, and suggestions about reforms, I would suggest to follow the writings and conferences, webinars, etc [with Mervyn King](https://en.wikipedia.org/wiki/Mervyn_King,_Baron_King_of_Lothbury), former Governor of the Bank of England.
+
+Whatever the issue about those themes, in each webinar and conference provided some interesting and frank insights.
+
+Pity that some of his proposals to merge international institutions did not get traction, but the [Report on Corporate Governance](https://en.wikipedia.org/wiki/King_Report_on_Corporate_Governance) can still provide for an interesting reading also in 2026.
+
+Now that shared some potential sources to inspire your own search, will move instead to discuss past approaches to post-M&A integration from my usual cultural and organizational change perspective based on evidence, not just whimsical choices.
+
+The first element I would like to share: in my view and experience, post-M&A starts even before the actual merger or acquisition starts being discussed.
+
+Yes, I was taught so in the late 1980s from customers, and again in the 1990s, but mainly from a financial side.
+
+With elements such as, before acquiring or starting integrating another organization, or even discussing potential deals, to assess your own organization's real status.
+
+From internal controls, to processes, to auditability, etc: 
+
+Instead, from my perspective, started seeing it in practice when introducing processes, technologies etc- because, as I keep repeating since decades, whenever you introduce in your own organization something that extends across multiple parts of your organization, you are actually "importing" a culture.
+
+It might be a blend of cultures- but often, also when just adopting a new process or a new system (e.g. an ERP such as SAP), the stronger culture is the one that really "drives"- does not matter that you paid to introduce that element.
+
+And I saw that also in proper M&A activities: if you buy an organization with a stronger cohesion, that you are the buyer does not really affect, unless you properly control it, who will really "shape" the combined culture.
+
+In my view, this is a key reason why some M&A operations end up in unbundling the merger, and even selling at a discount what was often overpaid.
+
+There are companies that grow through acquisition- something that has interesting side-effects also on profitability and the figures that you report on how well the aggregate is generating value- until the market supports it.
+
+Decades ago, as hinted yesterday, customers told me that whenever a specific vendor acquired a company, they started looking for a new vendor.
+
+Some companies generate that reaction- generally due to the impact on the existing customer base and contracts, as well as evolution of whatever they offer (e.g. contraction of R&D, increase in service and subscription prices, etc).
+
+Anyway, will not discuss here concepts about post-M&A creative accounting- you can find more information within the 4th edition of "Financial Shenanigans - How to Detect Accounting Gimmicks and Fraud in Financial Reports", published in 2018, specifically part V "Acquisition Accounting Shenanigans".
+
+Assume that you are already in the situation where a merger or acquisition have already been agreed and formalized, shifting from the information you saw during the negotiation to actually making it work is something else.
+
+For customers, in the late 1980s had to help prepare decision support system models: hence, my "evidence-based" concept of post-M&A integration.
+
+In the past, this required structured activities but also people able to understand the actual business you had acquired- which was not necessarily the case, notably if you lost key people as soon as the merger was announced: destroying value instead of creating it.
+
+Also if there was a misunderstanding by e.g. "projecting" onto the acquired business concepts that were ordinary for the acquiring organization (from processes to roles to KPIs used to monitor profitability, etc), while failing to really understand the real organizational culture of the entity, the result was again the same: destroying values instead of creating it.
+
+If you want to know more, another short book worth reading is Nuno Fernandes' "The Value Killers - How Mergers and Acquisitions Cost Companies Billions - And How to Prevent It", published in 2019.
+
+Neither for this book nor for the others that quoted before I necessarily share all the points that they present- but in these activities, keeping an open mind and listening often is more important that building wonderful Excel or statistical models crunching numbers.
+
+As any reader of annual reports knows, often reality is hidden in cryptic written footnotes, and if you ignore those footnotes, you risk mixing apples with oranges, and assuming that you are counting beans.
+
+I shared above some concept from experience discussed with customers, without specifics for obvious reasons- but the overall concept (blending cultures, assessing the real operating model, culture, distribution of power, etc) before defining a new target operating model for the new aggregation is generic enough to be replicated.
+
+Add to that, usually, checking also something more boring: how employees are motivated and managed, the financial flows that will result within the new aggregation and between its components and the market, reviewing the life-cycle of assets and products, of course reviewing the products and service portfolio.
+
+Why? Because, using yesterday's article, in the past companies were used sometimes to generate new revenue streams by "forking" existing product lines by adding variants, additional brands, etc.
+
+All fine- until you have to keep maintaining the market competitiveness of all of them- e.g. in software, if you created too many versions on too many platforms, unless you adopted specific architectural designs that enabled a degree of "sharing across", you risked stretching thin resources- from development to maintenance, to the point that your main brand image suffered in the market, as you could not support such a diverse customer base across all the different platforms that evolved independently.
+
+In software, can be managed- but requires a specific organizational culture- in physical products, this could result in multiple brands with multiple platforms, and with scarce resources to keep innovating across all of them- e.g. in automotive or computer technology.
+
+Again: these are generic concepts from the past, but would like to share examples where I was directly one of those considering merging.
+
+When I did prepare and plan my first return to Italy, in the early 2000s, as shared before I prepared and published an e-zine on change.
+
+Along with that, discussed with an Italian partner that had called up on me repeatedly since the early 1990s a potential merger.
+
+I am used to work in multinational environments since the 1980s, and therefore I look for potential benefits by joining forces, not for status.
+
+To give an example.
+
+You probably know that France and Italy few years ago signed a ["Quirinale Treaty"](https://en.wikipedia.org/wiki/Quirinal_Treaty) that followed the example set in 1963 by the ["&Eacute;lis&eacute;e Treaty"](https://en.wikipedia.org/wiki/%C3%89lys%C3%A9e_Treaty) between France and Germany.
+
+Gradually, more and more events and shared activities have been organized involving both Italy and France, notably in Turin, as Piedmont (the region where Turin is) shares the border with France.
+
+Today there was an event about initiatives in agriculture and food- and France presented grass-root initiatives that evolved into something more structured- including an example of circular ecosystem just across the border, structured around joint land management (notably irrigation) and the cheese supply chain and its sub-products, plus an example of shared logistics across multiple producers.
+
+The cultural difference was striking: in Italy, was tried something similar, but the approach was top-down, as saw routinely since 2012 (when returned in the territory).
+
+Instead of setting in place enablers and removing roadblocks, "cabina di regia" is the most common item that any initiative in Italy, not just in Piedmont or Turin, adopts, i.e. "a control room"- as first element, directly (as an assertion or "memorandum of understanding") or indirectly (somebody self-nominating as "Lord of the Flies").
+
+With the obvious consequence, in a tribal economy based on a really individualist culture: the issue starts with "who will lead" and "how to balance between tribes"- not with "what we can do first".
+
+Instead of sharing needs and starting small on what makes sense, we try to build a plan for a cathedral from day 1.
+
+Then, we wonder how they were able in France to gradually develop those two and grow, while we kept being stuck in the initial phase.
+
+Shifting to a personal M&A case to discuss how worked in the past, I discussed a merger (not an acquisition, as there were no resources available for that) between my Italian partner and my own one-person outfit in UK, an outfit that anyway could bring to the table both active and operational partnerships abroad and existing customers.
+
+The idea was the same that I had discussed with a German-Swiss partner few years earlier: considering the high level of technological expertise available in Turin, but the comparatively lower rates than abroad, we could get projects abroad, and have Italian teams develop them, covering abroad also the avoidance of "lost in translation"- as had partners that had base in UK, France, German Switzerland, but also potential further development partners in India (via UK).
+
+What happened? As soon as we started getting into details, I looked for deals, but my partners involved other companies that were already his suppliers and shareholders- and immediately there were four companies (mine included) in a multiparty merger where just one (mine) did not care about controlling- only about expanding, while the other three discussed about roles, power distribution, etc.
+
+Obviously, removed my own from consideration, also if I stayed on as a partner- and the merger, without the "engine", never happened (also for the other three).
+
+Then, later, another Italian partner via a VC said that there was demand to acquire companies that had a minimal level of turnover that was around the double of what we had.
+
+In my again anglo-american approach, simply said- why not? And put two in contact, to have that aggregated initial turnover, moreover two companies that had synergies but limited overlap.
+
+Again, what happened? Both wanted to assert control. And ended up in the same way.
+
+In another case, a foreign partner was supporting a foreign company in acquiring an Italian one- but did the same mistake that in the early 1990s other companies had done (e.g. I remember a couple of highly publicized cases of Italian system integrators acquired by French companies).
+
+The mistakes could range from turnover that disappeared as soon as the ownership changed, to cash-flow that is flushed during the transition period, to contracts with long-term friendly suppliers that are signed with clauses that make cheaper to keep paying for nothing or something that you do not need anymore than to cancel.
+
+So, in the past, at least from what I saw in Italy, post-M&A integration was anything but a walk in the park- and required not just significant number crunching, but also "pre-emptive strikes" and preparation on the cultural blend and shared choice on the target operating model: as, otherwise, either would never start, or would unravel as soon as activities started.
+
+As wrote in the previous two articles: yes, this part too will be further developed in the future- but you can also search existing material on this website ([or start by asking to the Q&A AI models that shared online in May 2026](https://hf.com/robertolofaro)).
+
+Now, if this was the past, how could post-M&A integration change already now?
+
+
+<b>B The present</b>
+
+You can find online books that cross the Ts and dot the Is on cultural and organizational change, get certifications, and add your check on each box within each form.
+
+Still, in my view and experience, despite all that formalization in this domain that saw since at least the early 2000s, hybris and failure to listen are the key elements.
+
+As wrote in closing the previous section, in the past there was significant work to be done to prepare and mark progress on post-M&A integration, both organizational and operational.
+
+Why differentiate between the two (many do not): because intent and implementation are two different elements.
+
+Some management consultants prefer on any such change activity to unleash platoons of interviewers, data collectors, etc.
+
+Personally, I prefer to understand the boundaries of the mandate that receive from management, as well as their aims, and, if I see that it is feasible, have a communication channel- not just a toolbox of standards to apply.
+
+Sometimes this requires a proper assessment and feasibility study- I remember how some customers told me that I asked to be paid (as usually the feasibility study was partially prepaid and partially by milestone, as could be halted if was identified the lack of feasibility) so that... I could tell them how much would cost the actual mission.
+
+My reply was that in reality what I was doing was something that they would not necessarily have to use with me- and that I would give them a significant discount (sometimes, the full write-off of the feasibility) if they assigned to my team the mission
+
+Now- in the past, this limited the type and size of missions I or others could take- as would require sometimes a blend of expertise (industry, domain, technology, even jurisdiction) that would make that feasibility study quite an investment.
+
+In reality, already few years ago saw that was feasible to have "on-demand" subject matter experts integrated within such activities in an anonymous way, to avoid disclosing the customer or activities, or even to avoid the risk of having the partner try to take over (or go "solo"- it happened in the past, e.g. in the early 2010s- but then the partner was unable to deliver: just because you can read a feasibility study does not imply that you can implement it).
+
+In our times, many such studies that in the past saw delivered by larger companies at a net loss (say- ask 20k EUR for something that, from the activity description, would be at least 50k just in internal billable), as were used to enter into new customers, would now be feasible at a lower cost, as AI could actually help in carrying out some of the preliminary and number crunching activities.
+
+Post-M&A organizational integration could benefit from releasing expert from the part that could be automated using our current AI (e.g. interviews, their documentation, studying and identifying flows by looking at information audit trail, not just what people say, up to having a rough picture of the real organization, not the formal one).
+
+And, at the same time, if used collaboratively, technology could help in managing by exception, by identifying potential trends since the beginning of the integration activities.
+
+Also, and this is an interesting application, if properly designed, could help in pre-empting the risk that the acquired entity actually really takes over by leveraging on a more cohesive culture, up to the point of having key people replace existing key people, and therefore position who could be the next in line for C-suite roles.
+
+It happened often in the past, as we humans can monitor data, but are less apt to monitor signals when were are embedded into them, notably when we start with a biased perspective ("I paid, hence I own").
+
+Look at any book containing case studied on M&A operations and how the integration worked- and you will see how often even founders ended up being kicked out from their own company by people that they absorbed but were better at communicating with the Board.
+
+Because while the human element of the post-M&A organizational integration is often considered on the operational side, in reality any merger is a political activity.
+
+I am biased- as I started dealing with organizations as a teenager interacting with the youth element of political parties in Italy, and also in the Army absorbed multiple roles to escape boredom, and decided to take some initiatives while having no formal power- but just being able to spot and identify the "power flows".
+
+Call it "soft power", if you want- but, in reality, was based on the idea of looking at the bigger picture (in my case: the well being of "my" soldiers, both in my outfit and the larger structure we were part of) and the motivation of each party- conveying messages.
+
+I did the same as account manager interacting with Cxx in different activities: beside my own role as negotiator and representing my partners, discussed also opportunities by giving free advice based upon my management consulting experience- so, becoming a "business partner" more than a vendor or a consultant.
+
+So much, that in some cases, some other vendors assumed that I was a manager on the customer side, not an external consultant on a temporary mission.
+
+All the above "habits" can now be implemented partially in post-M&A organizational integration through feeding signals and data to models that deliver alerts and help actually see potential emerging patterns before they actually emerge.
+
+In the 1980s, I was developing scenarios for my customers based on data, and then also helping to convert into KPIs behavioral patterns- but, in the end, converting also those patterns into numbers: from controlling a network of agents (human agents), to helping to define the proper mix of skills for a new branch, to helping compare potential investment alternatives on something more than mere financials.
+
+In the late 2020s, anybody with the right experience and domain-knowledge (direct or through customers or partners or advisors) can evolve that into a reusable, repeatable element, once the post-M&A organizational integration need has been defined.
+
+Now, and what will change in the future?
+
+
+<b>C What's next</b>
+
+Well, as you can expect, pre-empting.
+
+If you read the books that listed above, plus others that discussed in that past, you could actually design solutions around AI (with the help of AIs, actually) that could help to do something more than support in post-M&A organizational integration to avoid the typical pitfalls (or pre-empt them before you lose control of the dynamics).
+
+The "pre-empting" in the future could extend to having "roving agentic AI" scouting the market, databases, news, etc to identify potential targets for acquisition beyond the obvious.
+
+By looking at all the elements of the PESTEL (Political Economic Social Technological Environmental Legal) bouquet, your system could find targets that could deliver value and synergies unexpected.
+
+You have logistics to deliver paper-based documents? 
+
+Also if you do that for your own business, actually the return trip of each one of those deliveries could be used to shuttle somewhere else material- akin to what happened in WWII (with a slightly creative interpretation of Geneva conventions, the Allies used ships to bring material to Europe, and then used the empty ships to shuttle war prisoners to the USA- with some curious results, e.g. read [The Barbed-Wire College: Reeducating German POWs in the United States during World War II](https://en.wikipedia.org/wiki/German_prisoners_of_war_in_the_United_States), a 1995 book)
+
+In the future, it is to be expected a higher level of transparency (data) from companies- and a higher degree of "intelligence" in models in understanding an annual report, reported flows, integrating with news, integrating with industry- and location-specific trends, etc.
+
+Already models such as a variant of Qwen that you can install on your own computer ([LLM Pro Finance: Expert AI for Financial and Economic Insights](https://huggingface.co/OVHaiLLM/Qwen-Open-Finance-R-8B)) can provide to your own staff (or your monitoring model) an assessment of information directly from annual reports, and referencing IFRS etc to a degree that no human could do with that level of precision 24/7 (you would need to keep care just of updating to the latest changes).
+
+And I already used it in some experiments- hence, the "tomorrow" is really about additional potential and additional integration plus continuous monitoring of signals and data, and generating a feed-back that could be also based on the actual structure of your portfolio of companies.
+
+Currently, also when done, this kind of activity requires a continuous investment in people with the risk skills and experience- but, as this activity would be continuous and repeatable, in the future probably you could get well past the simple "find targets".
+
+You could actually get "potential targets", and different scenarios on how that target could generate value and be integrated, highlighting (and then monitoring) risks, and providing a scoring on feasibility, plus, if selected, generating all the transition plans and monitoring systems, to allow adapting on-the-fly during the post-M&A integration.
+
+And maybe even while the negotiation is ongoing- as we humans, when get personally invested into "a potential deal", we are inclined to forget that the starting hypothesis that made the deal viable change as the terms and conditions of the negotiation evolve- in some cases, the [BATNA](https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement) is walking away from the deal.
+
+I hope that this mini-series of articles provided some useful ideas and concepts.
+
+If you look just at the three "what's next" section, you will see that actually I did not look that much into the future- simply, looked at trends and visualized a systemic integration.
+
+Which is, actually, as I routinely suggest to do when thinking about scenarios, i.e. to look at alternative futures as a coherent whole, as this way you can keep monitoring and seeing, after choosing a specific scenario, if it still holds or has to be re-assessed.
+
+Have a nice week-end!
