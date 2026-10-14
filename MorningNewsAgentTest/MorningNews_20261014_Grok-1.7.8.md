@@ -5,7 +5,6 @@ Morning Brief v1.7.8 for **14 October 2026** has been generated and saved.
 
 **10 stories published** across Conflict, Business, EU Affairs, Technology and Trends. Dominant signals: Houthi–Saudi escalation (Aramco Dhahran strike), Trump’s Russian diesel deal / energy-ceasefire claims, IMF World Economic Outlook warnings for developing countries, and World Bank crisis-aid discussions.
 
-File: `artifacts/Morning_Brief_2026-10-14.md`
 
 ```yaml
 ---
