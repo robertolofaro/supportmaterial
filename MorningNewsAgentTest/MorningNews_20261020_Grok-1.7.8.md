@@ -1,16 +1,3 @@
-Morning Brief v1.7.8 for 20 October 2026 has been generated.
-
-**Phase 0:** Date confirmed 20 October 2026 (05:04 CET). Phase 1B rotation start index 13 → subset: European Parliament, Reuters, Bloomberg, The Guardian, Le Monde, El País, FAZ, Euronews.
-
-**Phase 1 (mandatory fetch):** All six attempted — Kommersant ✅, Xinhua ✅, Al Jazeera ✅, NPR ✅, FAO ✅ (September FFPI carried), European Council ✅.
-
-**Phase 1B checklist:**  
-European Parliament ✅ · Reuters ✅ · Bloomberg ✅ · The Guardian ✅ · Le Monde ✅ · El País ✅ · FAZ 〜 · Euronews ✅  
-
-Gate satisfied. 10 stories published after editorial filter (below 12–15 target; source mix and recency limited the pool).
-
-Output file: `artifacts/Morning_Brief_2026-10-20.md`
-
 ```yaml
 ---
 brief_date: 2026-10-20
@@ -90,6 +77,8 @@ expansion_queue: []
 **Summary:** Prime Minister Sébastien Lecornu requested localised overnight curfews in several cities, including parts of central Paris (Place de la République and Les Halles), Lyon, Nice, Lille and surrounding communes, after cost-of-living and education protests on 17 October spilled into widespread looting, arson and clashes. Interior Minister Laurent Nuñez admitted police “lost control” in places and offered his resignation, which President Emmanuel Macron declined. More than 2,300 people were arrested and nearly 1,000 police and gendarmes injured; one demonstrator lost a hand to a crowd-control grenade. Yellow Vest organisers have called for further action on 24 October.
 **Frontline/Status:** Order partially restored under curfews; government reserves state-of-emergency option. Over half a million participated in the original demonstrations.
 **Sources:** [Al Jazeera — France announces curfews in aftermath of violent protests](https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests) · 19 October 2026  
+[Euronews — France launches ‘massive’ law enforcement operation after weekend looting, PM says](https://www.euronews.com/2026/10/19/france-launches-massive-law-enforcement-operation-after-weekend-looting-pm-says) · 19 October 2026  
+[Reuters — French Prime Minister calls for partial curfews after weekend riots](https://www.reuters.com/world/french-prime-minister-calls-partial-curfews-after-weekend-riots-2026-10-19/) · 19 October 2026  
 [Xinhua — 法国多城实施局部宵禁防止骚乱重演](https://www.news.cn/world/20261020/82043bab7d364688bae2dd32dded1c9d/c.html) · 20 October 2026
 **Trend:** ↗ Escalating
 **Tags:** #France #protests #public-order #MULTI-SOURCE
