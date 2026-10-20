@@ -90,7 +90,6 @@ expansion_queue: []
 **Summary:** Prime Minister Sébastien Lecornu requested localised overnight curfews in several cities, including parts of central Paris (Place de la République and Les Halles), Lyon, Nice, Lille and surrounding communes, after cost-of-living and education protests on 17 October spilled into widespread looting, arson and clashes. Interior Minister Laurent Nuñez admitted police “lost control” in places and offered his resignation, which President Emmanuel Macron declined. More than 2,300 people were arrested and nearly 1,000 police and gendarmes injured; one demonstrator lost a hand to a crowd-control grenade. Yellow Vest organisers have called for further action on 24 October.
 **Frontline/Status:** Order partially restored under curfews; government reserves state-of-emergency option. Over half a million participated in the original demonstrations.
 **Sources:** [Al Jazeera — France announces curfews in aftermath of violent protests](https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests) · 19 October 2026  
-[Euronews — France announces partial curfews after weekend of violence](https://www.euronews.com/2026/10/19/france-announces-partial-curfews-after-weekend-of-violence) · 19 October 2026  
 [Xinhua — 法国多城实施局部宵禁防止骚乱重演](https://www.news.cn/world/20261020/82043bab7d364688bae2dd32dded1c9d/c.html) · 20 October 2026
 **Trend:** ↗ Escalating
 **Tags:** #France #protests #public-order #MULTI-SOURCE
