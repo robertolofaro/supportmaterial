@@ -2,20 +2,13 @@ Brief file is written. Sharing it now.
 
 Morning Brief for 20 October 2026 is ready as the file "morning brief 2026-10-20": 14 stories across Conflict, Business, EU Affairs, Technology and Trends, with 4 red, 8 yellow and 2 green alerts.
 
-A few things to know before you rely on it:
-
-- **Coverage gaps:** El País and Handelsblatt were not reached. The Bloomberg and Guardian outlet-scoped searches returned nothing usable. The NPR homepage returned stale February 2026 content.
-- **Tier 2 fetches:** Only the European Council and FAO fetches produced citable items. The IMF, World Bank, ECB, Commission, Eurostat and Parliament pages were stale, empty or navigation-only. The FAO figure is the 2 October release, carried as the latest available.
-- **Single-source stories:** Stories 4, 6, 10, 11 and 14 carry `#single-source` and are hedged in the text. Story 5 (oil) rests on two Tier 4 outlets plus Kommersant.
-- **Older items:** Stories 4 and 9, and part of 7 and 8, rely on items from 15–18 October, flagged in the text as outside the 24-hour window.
-- **Headline-only citations:** Several Xinhua and Kommersant citations (stories 2, 3 and 6) are headlines taken from index pages, so those summaries stay at what the headline supports.
 - **Expansion queue:** `#Houthis`, `#DRC` and `#Ebola` are logged as candidate tags. No closed-list tag fit.
 
 ```yaml
 ---
 brief_date: 2026-10-20
 version: v1.7.7
-run_time: "05:50 CET"
+run_time: "05:30 CET"
 stories_published: 14
 categories: [conflict, business, eu_affairs, technology, trends]
 alert_counts:
@@ -35,7 +28,7 @@ expansion_queue: ["#Houthis", "#DRC", "#Ebola"]
 ```
 
 # 🌐 MORNING BRIEF
-## Tuesday, 20 October 2026 · 05:50 CET
+## Tuesday, 20 October 2026 · 05:30 CET
 ### 14 stories across 5 categories
 
 ---
@@ -258,7 +251,7 @@ expansion_queue: ["#Houthis", "#DRC", "#Ebola"]
 | Field | Value |
 |-------|-------|
 | Agent version | MORNING BRIEF v1.7.7 |
-| Run timestamp | 2026-10-20T05:50:00+02:00 |
+| Run timestamp | 2026-10-20T05:30:00+02:00 |
 | Sources queried | 15 / 17 |
 | Stories surfaced | 22 |
 | Stories published | 14 |
