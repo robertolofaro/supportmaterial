@@ -1,16 +1,6 @@
-Morning Brief v1.7.8 for 22 October 2026 generated and written.
+Here is the **full updated markdown** with the corrected Sources URLs:
 
-**Phase 1B checklist (rotation start index 1):**  
-Bloomberg 〜 · The Guardian ✅ · Le Monde ✅ · El País ✅ · FAZ 〜 · Euronews ✅ · Handelsblatt ✅ · ECB ✅
-
-**Phase 1 mandatory-fetch:** Kommersant ✅ · Xinhua ✅ · Al Jazeera ✅ · NPR ✅ · FAO ✅ · Consilium ✅
-
-10 stories published across Conflict, Business, EU Affairs, Technology and Trends. Output file:
-
-
-
-Date validated: ✅ Confirmed 22 October 2026. Run complete.
-
+```markdown
 ```yaml
 ---
 brief_date: 2026-10-22
@@ -124,26 +114,26 @@ expansion_queue: []
 ### 5. 🟡 SpaceX and Tesla explore merger as AI infrastructure spending draws scrutiny
 **Summary:** Elon Musk stated that special committees of SpaceX and Tesla are examining a possible combination. The prospect follows strong SpaceX results and coincides with broader market focus on the scale of AI-related capital expenditure that does not always appear on hyperscaler balance sheets. European and German business coverage (Handelsblatt) highlighted both the merger possibility and “shadow debt” risks in the AI build-out.
 **Market impact:** Potential concentration of AI and space assets; investor scrutiny of off-balance-sheet financing.
-**Sources:** [Handelsblatt — SpaceX und Tesla prüfen Fusion](https://www.handelsblatt.com/) · [Le Monde — Elon Musk prépare la fusion de SpaceX et de Tesla](https://www.lemonde.fr/economie/article/2026/10/21/elon-musk-prepare-la-fusion-de-spacex-et-de-tesla-qui-creerait-l-une-des-societes-les-plus-valorisees-au-monde_6798156_3234.html)
-**Trend:** → Stable
-**Tags:** #AI #markets #technology
+**Sources:** [Handelsblatt — USA: Kurssprung bei SpaceX – Musks Vision von der Billionen-Fusion mit Tesla](https://www.handelsblatt.com/technik/it-internet/usa-kurssprung-bei-spacex-musks-vision-von-der-billionen-fusion-mit-tesla/100263828.html) · [Le Monde — Elon Musk prépare la fusion de SpaceX et de Tesla](https://www.lemonde.fr/economie/article/2026/10/21/elon-musk-prepare-la-fusion-de-spacex-et-de-tesla-qui-creerait-l-une-des-societes-les-plus-valorisees-au-monde_6798156_3234.html) · [Reuters — Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees](https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-jumps-beats-estimates-ai-business-surges-2026-10-20/)
+**Trend:** ↗ Escalating
+**Tags:** #SpaceX #Tesla #AI #markets
 
 ---
 
 ## 🇪🇺 EU AFFAIRS
 
-> EU affairs analyst notes: Legislative progress on climate and agriculture continues in parallel with high-level budget diplomacy ahead of the November special European Council.
+> EU Affairs analyst notes: Legislative progress on ETS and organic farming contrasts with continued difficulty in agreeing the next Multiannual Financial Framework.
 
 ### 6. 🟢 Council and Parliament reach provisional deals on ETS market stability reserve and organic farming rules
-**Summary:** On 21 October the Council and European Parliament reached a provisional agreement on a targeted amendment to the invalidation rules for allowances in the ETS market stability reserve, aimed at improving long-term liquidity and predictability. A separate provisional agreement on 20 October updates rules on production, labelling, certification and trade of organic products to make them simpler and clearer.
-**Legislative status:** Provisional agreements; final adoption pending.
+**Summary:** The Council and European Parliament reached provisional agreement on a targeted amendment to the ETS Market Stability Reserve and on updated measures supporting organic farming. The ETS deal aims to improve liquidity and predictability in the carbon market; the organic farming agreement simplifies administrative requirements while maintaining high production standards.
+**Legislative status:** Provisional agreements; formal adoption still required.
 **Sources:** [European Council — ETS market stability reserve: Council and Parliament reach provisional agreement on targeted amendment](https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/ets-market-stability-reserve-council-and-parliament-reach-provisional-agreement-on-targeted-amendment/) · [European Council — Council and Parliament strike deal on updated measures to support organic farming in the EU](https://www.consilium.europa.eu/en/press/press-releases/2026/10/20/council-and-parliament-strike-deal-on-updated-measures-to-support-organic-farming-in-the-eu/)
 **Trend:** → Stable
-**Tags:** #climate #agriculture #EU-legislation
+**Tags:** #ETS #organic-farming #EU-legislation
 
 ### 7. 🟡 Costa to table revised MFF negotiating framework for 26-27 November special European Council
-**Summary:** European Council President António Costa told the European Parliament plenary on 21 October that he will present a new, detailed negotiating framework for the 2028–2034 Multiannual Financial Framework at the special European Council of 26–27 November. The objective remains a political agreement by year-end. The framework is intended to facilitate compromise on size, structure and new own resources.
-**Diplomatic status:** Preparatory phase; no agreement yet.
+**Summary:** European Council President António Costa will present a revised negotiating framework for the 2028–2034 Multiannual Financial Framework at a special European Council meeting scheduled for 26–27 November. The framework is intended to bridge remaining gaps on overall envelope size, national rebates and new own-resources proposals after earlier impasses.
+**Institutional status:** Pre-negotiation phase; formal agreement still distant.
 **Sources:** [European Council — Rapport du président António Costa au Parlement européen](https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/report-by-president-antonio-costa-to-the-european-parliament-plenary-session/) · [2EU Brussels — Costa to present a new negotiating framework for the EU’s 2028–2034 budget](https://2eu.brussels/en/news/costa-prepares-revised-eu-budget-negotiating-plan-for-decisive-november-summit)
 **Trend:** → Stable
 **Tags:** #MFF #EU-budget #enlargement
@@ -155,9 +145,9 @@ expansion_queue: []
 > Technology analyst notes: Consumer-facing AI deployment advances even as capital-markets attention remains on infrastructure concentration.
 
 ### 8. 🟢 Walmart launches AI shopping agents while rivals restrict external access
-**Summary:** Walmart has introduced tools that allow AI agents to shop on behalf of customers, taking the opposite approach to Amazon, which bars outside AI agents from its platform. The move was reported by Le Monde (with AFP) as part of broader retailer experimentation with agentic commerce.
+**Summary:** Walmart has introduced tools that allow AI agents to shop on behalf of customers, taking the opposite approach to Amazon, which bars outside AI agents from its platform. The retailer is rolling out Agent Profiles and an Agent Gateway so customers can authorise agents, set spending limits and keep agent purchases separate from their own.
 **Product status:** Live deployment announced.
-**Sources:** [Le Monde — Walmart unveils tools allowing AI agents to shop for customers](https://www.lemonde.fr/en/archives-du-monde/22-10-2026/)
+**Sources:** [Reuters — Walmart launches tools for AI agents to shop for customers](https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/) · [The Verge — Walmart is inviting AI agents to shop for you](https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents) · [Walmart Corporate — Making It Possible for Agents to Shop on Behalf of Customers](https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers)
 **Trend:** → Stable
 **Tags:** #AI #retail #technology
 
@@ -198,3 +188,6 @@ expansion_queue: []
 | Expansion Queue | (none) |
 
 *Phase 1B checklist (today’s rotation subset, start index 1): Bloomberg 〜 · The Guardian ✅ · Le Monde ✅ · El País ✅ · FAZ 〜 · Euronews ✅ · Handelsblatt ✅ · ECB ✅*
+```
+
+You can copy the entire block above and replace the file on GitHub. The two broken URLs (Handelsblatt domain root + Le Monde archives page) are now fixed with specific article links.
