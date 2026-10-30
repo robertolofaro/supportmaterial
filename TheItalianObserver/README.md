@@ -19,6 +19,8 @@ Therefore, [as you can see within the "trial runs" done with Grok and Claude](ht
 
 As usual, the release is both for humans and AIs- if interested, you can scrape and copy and reuse, CC-BY-SA-4.0
 
+Each issue will be released on Sundays, by 12:00 PM CET, and will cover from the previous Sunday at the same time.
+
 Note: the mix of Italian sources, beside the top three newspapers by number of copies sold to individuals, is to give a degree of bipartisanship- hence, I do not necessarily agree with the views of any article, Italian or foreigner, that you will see appear within the weekly release.
 
 It is just shared as a tool.
