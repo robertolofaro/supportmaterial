@@ -1,65 +1,97 @@
 # THE ITALIAN OBSERVER — STATE 2026-10-25
 
 ```yaml
-# TRIAL STATE FILE — produced with the trial issue of 30 October 2026. Store under _test/.
 schema: observer_state/1
 issue_date: 2026-10-25
 issue_number: null
 window_end: "2026-10-25T10:00:00+01:00"
 stories:
-  - id: "decreto-sicurezza-minori"
+  - id: "stabilicum-in-force"
     first_seen: 2026-10-25
     last_seen: 2026-10-25
     absent_issues: 0
     section: politics_week
-    headline: "Security decree extends preventive detention to minors"
-    alert: red
-    trend: "↗ Escalating"
-    tags: ["#sicurezza", "#governo", "#MULTI-SOURCE"]
-    urls: ["https://www.ilfattoquotidiano.it/2026/10/20/decreto-sicurezza-ok-del-cdm-meloni-nasce-il-reato-di-partecipazione-violenta-a-una-manifestazione-saltano-i-poteri-di-polizia-giudiziaria-ai-militari/8544791/", "https://www.ansa.it/sito/notizie/politica/2026/10/20/via-libera-al-decreto-sicurezza-nasce-il-reato-di-partecipazione-violenta-a-una-manifestazione._b5702cd2-a73e-4734-8495-07184704c255.html", "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests", "https://www.internazionale.it/magazine/inigo-dominguez/2026/10/22/in-italia-il-decreto-sicurezza-colpisce-i-minorenni"]
+    headline: "Stabilicum electoral law enters into force"
+    alert: yellow
+    trend: "→ Stable"
+    tags: ["#riforma-elettorale", "#MULTI-SOURCE", "#camera", "#senato"]
+    urls: ["https://www.ilsole24ore.com/art/in-vigore-nuova-legge-elettorale-premio-maggioranza-preferenze-e-candidato-premier-quello-che-c-e-sapere-AJPzLztB"]
     status: active
-  - id: "stipendi-magistrati-dpcm"
+  - id: "manovra-negotiations"
     first_seen: 2026-10-25
     last_seen: 2026-10-25
     absent_issues: 0
     section: politics_week
-    headline: "Meloni refuses to sign magistrates' pay decree"
+    headline: "Government majority holds final talks on 2027 Budget ahead of EU flexibility decision"
     alert: yellow
     trend: "↗ Escalating"
-    tags: ["#magistratura", "#palazzo-chigi", "#MULTI-SOURCE"]
-    urls: ["https://www.ansa.it/sito/notizie/politica/2026/10/18/fonti-chigi-meloni-non-firma-il-dpcm-per-aumenti-da-1-miliardo-ai-magistrati_91f8da6f-3aa1-4323-bfcd-b3c42aac4a2c.html", "https://www.ilfattoquotidiano.it/2026/10/18/giorgia-meloni-non-restituira-gli-stipendi-arretrati-ai-magistrati-non-posso-firmare-la-replica-faremo-valere-i-nostri-diritti/8542443/"]
+    tags: ["#legge-di-bilancio", "#governo", "#Italia-UE", "#MULTI-SOURCE"]
+    urls: ["https://www.ilsole24ore.com/art/manovra-palazzo-chigi-riunione-meloni-giorgetti-e-leader-maggioranza-AJtzEqrB"]
     status: active
-  - id: "legge-bilancio-2027"
+  - id: "early-election-signalling"
     first_seen: 2026-10-25
     last_seen: 2026-10-25
     absent_issues: 0
     section: politics_week
-    headline: "Budget 2027: majority summits without a final deal"
+    headline: "Coalition discusses readiness for early elections pending Constitutional Court ruling"
+    alert: yellow
+    trend: "↗ Escalating"
+    tags: ["#elezioni-politiche", "#consulta", "#centrodestra", "#single-source"]
+    urls: []
+    status: active
+  - id: "schlein-campo-largo"
+    first_seen: 2026-10-25
+    last_seen: 2026-10-25
+    absent_issues: 0
+    section: politicians_said
+    headline: "Schlein: centre-left to close programme quickly"
+    alert: yellow
+    trend: "→ Stable"
+    tags: ["#interview", "#PD", "#centrosinistra", "#elezioni-politiche"]
+    urls: ["https://www.corriere.it/politica/26_ottobre_25/schlein-con-gli-alleati-faremo-in-fretta-manca-l-ultimo-miglio-la-destra-porta-caos-guerra-e-recessione-5647f6c2-ad50-4f67-adb8-93ff1106axlk.shtml"]
+    status: active
+  - id: "tajani-manovra"
+    first_seen: 2026-10-25
+    last_seen: 2026-10-25
+    absent_issues: 0
+    section: politicians_said
+    headline: "Tajani defends Budget measures and FI priorities"
     alert: green
     trend: "→ Stable"
-    tags: ["#legge-di-bilancio", "#centrodestra", "#single-source"]
-    urls: ["https://www.ansa.it/sito/notizie/politica/2026/10/22/a-palazzo-chigi-vertice-per-fare-il-punto-sulla-manovra-obiettivo-lok_468db24b-c104-4e84-a24b-7e27d5c8969a.html"]
+    tags: ["#interview", "#FI", "#legge-di-bilancio", "#single-source"]
+    urls: []
     status: active
-  - id: "campo-largo-primarie"
+  - id: "stabilicum-tracking"
     first_seen: 2026-10-25
     last_seen: 2026-10-25
     absent_issues: 0
-    section: politics_week
-    headline: "Centre-left still split on primaries"
+    section: trends
+    headline: "New electoral law (Stabilicum) becomes operational"
     alert: yellow
     trend: "→ Stable"
-    tags: ["#centrosinistra", "#PD", "#M5S", "#MULTI-SOURCE"]
-    urls: ["https://www.quotidiano.net/politica/campo-largo-primarie-schlein-conte-duello-wu5qbbul", "https://www.ansa.it/sito/notizie/politica/2026/10/23/il-correntone-dem-lancia-i-comitati-schlein-conte-divisi-sulle-primarie_7e5132d3-fd9b-47fe-a53d-9191a77f92f8.html"]
+    tags: ["#week-1", "#riforma-elettorale", "#consulta"]
+    urls: ["https://www.ilsole24ore.com/art/in-vigore-nuova-legge-elettorale-premio-maggioranza-preferenze-e-candidato-premier-quello-che-c-e-sapere-AJPzLztB"]
     status: active
-  - id: "regia-esterna-disordini"
+  - id: "foreign-electoral-law"
     first_seen: 2026-10-25
     last_seen: 2026-10-25
     absent_issues: 0
-    section: politics_week
-    headline: "Crosetto's 'hybrid war' remark divides the majority"
-    alert: yellow
-    trend: "↗ Escalating"
-    tags: ["#sicurezza", "#centrodestra", "#MULTI-SOURCE"]
-    urls: ["https://askanews.it/2026/10/21/tajani-come-crosetto-non-escludo-una-regia-esterna-nei-disordini/", "https://www.lacapitalenews.it/top-news/scontri-a-milano-crosetto-evoca-la-guerra-ibrida-e-le-interferenze-straniere-salvini-lo-smentisce-sui-russi-ho-letto-cose-strambe/"]
+    section: foreign_view
+    headline: "Foreign coverage of Italy’s new electoral rules"
+    alert: green
+    trend: "→ Stable"
+    tags: ["#foreign-view", "#frame-rule-of-law", "#riforma-elettorale", "#single-source"]
+    urls: ["https://en.ilsole24ore.com/art/new-electoral-law-in-force-majority-bonus-preferential-votes-and-the-prime-ministerial-candidate-what-you-need-to-know-AJPzLztB"]
+    status: active
+  - id: "foreign-manovra"
+    first_seen: 2026-10-25
+    last_seen: 2026-10-25
+    absent_issues: 0
+    section: foreign_view
+    headline: "Budget talks and EU flexibility noted in foreign reporting"
+    alert: green
+    trend: "→ Stable"
+    tags: ["#foreign-view", "#frame-economy", "#legge-di-bilancio", "#single-source"]
+    urls: []
     status: active
 ```
