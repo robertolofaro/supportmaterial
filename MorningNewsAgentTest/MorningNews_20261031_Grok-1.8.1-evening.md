@@ -120,7 +120,7 @@ expansion_queue: []
 **Market signal:** Neutral to mildly bearish for the euro — policy continuity is maintained but leadership transition introduces medium-term uncertainty.
 **Sources:**
 - [ECB — Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)](https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html) · 30 October 2026
-- [The Guardian — Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’](https://www.theguardian.com/business/2026/oct/30/europes-central-bank-chief-christine-lagarde-steps-down-for-freedom-of-speech) · 30 October 2026
+- [The Guardian — Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’](https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early) · 29 October 2026
 **Trend:** → Stable
 **Tags:** #ECB #interest-rates #MULTI-SOURCE
 
@@ -146,10 +146,10 @@ expansion_queue: []
 
 ### 8. Canada and EU announce new alliance open to like-minded countries 🟡
 **Alert:** 🟡
-**Summary:** The Guardian reported that Canada and the EU have announced a new alliance open to like-minded countries. Euronews bulletins described Canada aiming to become an “associate member” by June 2027 and the sealing of a broader, deeper alliance. Kommersant also carried the announcement.
+**Summary:** Kommersant reported that the European Union and Canada have announced the creation of an alliance. Euronews bulletins described Canada aiming for a closer association arrangement by mid-2027 and the sealing of a broader partnership open to like-minded countries.
 **Legislative/policy stage:** Political announcement; detailed association arrangements under negotiation.
 **Sources:**
-- [The Guardian — Canada and EU announce new alliance open to like-minded countries](https://www.theguardian.com/world/europe-news+world) · 30 October 2026
+- [Kommersant — Евросоюз и Канада объявили о создании альянса](https://www.kommersant.ru/doc/9078108) · 31 October 2026
 **Trend:** ↗ Escalating
 **Tags:** #EU-US-relations #single-source
 
@@ -189,7 +189,7 @@ expansion_queue: []
 **Summary:** The Guardian reported that cost-of-living protests are set to spread to Germany and reignite in France over the Halloween weekend. Activists are calling for demonstrations over poor public services, education and housing. Euronews noted related protest activity in several European countries.
 **Horizon:** Short (days–weeks) — localised demonstrations may broaden if energy and food-price pressures persist into winter.
 **Sources:**
-- [The Guardian — Cost of living protests to spread to Germany and reignite in France on Halloween](https://www.theguardian.com/world/europe-news+world) · 31 October 2026
+- [The Guardian — Cost of living protests to spread to Germany and reignite in France on Halloween](https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween) · 30 October 2026
 **Trend:** ↗ Escalating
 **Tags:** #inflation #single-source
 
@@ -212,5 +212,7 @@ expansion_queue: []
 ---
 
 MORNING BRIEF is an AI-assisted digest. All summaries are paraphrased from original sources.
+Verify time-sensitive information at the linked URLs before acting.
+Output language: British English.ed from original sources.
 Verify time-sensitive information at the linked URLs before acting.
 Output language: British English.
