@@ -1,7 +1,7 @@
 ```yaml
 ---
 issue_date: 2026-11-01
-issue_number: null
+issue_number: 2026-01
 version: v0.3
 run_time: "10:05 Europe/Rome"
 window_start: "2026-10-25T10:00:00+01:00"
@@ -48,7 +48,7 @@ story_index:
 ```
 
 # 🇮🇹 THE ITALIAN OBSERVER
-## Sunday, 01 November 2026 · Issue n/a
+## Sunday, 01 November 2026 · Issue 2026-01
 ### Week from 25 October to 01 November 2026 (Sunday 10:00 Rome) · 12 stories across 4 sections
 
 ## DIGEST SUMMARY
@@ -72,6 +72,7 @@ story_index:
 
 ## 🚨 SIGNAL BOARD
 
+---
 🟡 **The centre-left Campo largo has locked a timetable: programme by the end of November, primaries in February, ahead of possible early elections.**
 ---
 🟡 **The 2027 Budget law has been transmitted to the Chamber; opposition and unions criticise cuts to school places and health funding.**
