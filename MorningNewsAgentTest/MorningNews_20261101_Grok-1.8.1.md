@@ -62,7 +62,6 @@ expansion_queue: []
 
 ## 🚨 SIGNAL BOARD
 
----
 🔴 **Poland court standoff escalates with presidential intervention**
 ---
 🟡 **European Gen Z protests draw hundreds of thousands across multiple countries**
@@ -94,7 +93,7 @@ expansion_queue: []
 **Sources:**
 - [Kommersant — Премьер Польши обратился к народу после событий в Конституционном трибунале](https://www.kommersant.ru/doc/9078351) · 01 November 2026
 - [Al Jazeera — Polish president holds crisis talks in court standoff](https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff) · 01 November 2026
-- [Le Monde — Poland's president holds crisis talks after dramatic showdown at the constitutional court](https://www.lemonde.fr/en/archives-du-monde/01-11-2026/) · 01 November 2026
+- [Le Monde — Poland's president holds crisis talks after dramatic showdown at the constitutional court](https://www.lemonde.fr/en/international/article/2026/11/01/poland-s-president-holds-crisis-talks-after-a-dramatic-showdown-at-the-constitutional-court_6768412_4.html) · 01 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #Poland #rule-of-law #EU-US-relations #institutional-crisis
 
@@ -131,7 +130,7 @@ expansion_queue: []
 **Significance:** Prolonged deadlock could delay Polish access to recovery funds and complicate EU decision-making on security and enlargement.
 **Sources:**
 - [Al Jazeera — Polish president holds crisis talks in court standoff](https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff) · 01 November 2026
-- [Le Monde — Poland's president holds crisis talks after dramatic showdown at the constitutional court](https://www.lemonde.fr/en/archives-du-monde/01-11-2026/) · 01 November 2026
+- [Le Monde — Poland's president holds crisis talks after dramatic showdown at the constitutional court](https://www.lemonde.fr/en/international/article/2026/11/01/poland-s-president-holds-crisis-talks-after-a-dramatic-showdown-at-the-constitutional-court_6768412_4.html) · 01 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #Poland #rule-of-law #EU-institutions #judicial-independence
 
