@@ -150,7 +150,7 @@ expansion_queue: []
 **Significance:** Accelerates the process of selecting a successor ahead of the French presidential election and amid ongoing inflation pressures.
 **Sources:**
 - [Reuters — ECB's Lagarde steps down, saying she can't remain neutral on world events](https://www.reuters.com/business/finance/ecb-hold-rates-investors-focus-french-bonds-lagardes-future-2026-10-28/) · 29 October 2026
-- [Consilium — Statement by President António Costa on the forthcoming departure of Christine Lagarde from the European Central Bank](https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/statement-by-president-antonio-costa-on-the-forthcoming-departure-of-the-president-of-the-european-central-bank-christine-lagarde-to-step-down-on-7-february-2027/) · 29 October 2026
+- [Consilium — Statement by President António Costa on the forthcoming departure of Christine Lagarde from the European Central Bank](https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/statement-by-president-antonio-costa-on-the-forthcoming-departure-of-christine-lagarde-from-the-european-central-bank/) · 29 October 2026
 **Trend:** ⚡ Reversal
 **Tags:** #ECB #monetary-policy #EU-leadership
 
