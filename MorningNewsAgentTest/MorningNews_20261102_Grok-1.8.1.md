@@ -3,9 +3,9 @@
 brief_date: 2026-11-02
 version: v1.8.1
 run_time: "05:18 CET"
-stories_published: 10
+stories_published: 9
 categories: [conflict, business, eu_affairs, technology, trends]
-alert_counts: {red: 2, yellow: 4, green: 4}
+alert_counts: {red: 2, yellow: 3, green: 4}
 ongoing_situations:
   - {name: "US-Iran conflict / Hormuz crisis", real_world_start: "2026-02-01", day: 275}
   - {name: "Russia-Ukraine war", real_world_start: "2022-02-24", day: 1713}
@@ -31,7 +31,7 @@ expansion_queue: []
 
 # 🌐 MORNING BRIEF
 ## Monday, 02 November 2026 · 05:18 CET
-### 10 stories across 5 categories
+### 9 stories across 5 categories
 
 ## DIGEST SUMMARY
 
@@ -46,7 +46,6 @@ expansion_queue: []
 | 7 | 🇪🇺 EU Affairs | Council adopts €20 million EPF measure for Mauritania | 🟢 |
 | 8 | 🤖 Technology | Blockchain firms link North Korea to $6.3bn Binance hack | 🔴 |
 | 9 | 📈 Trends | Youth-led protests sweep France with 320,000 participants | 🟡 |
-| 10 | 📈 Trends | Early voting advances in US midterms with more than 50 million ballots | 🟡 |
 
 > Alert Level key: 🔴 High significance · 🟡 Developing · 🟢 Stable/Routine
 
@@ -158,7 +157,7 @@ expansion_queue: []
 
 ## 📈 TRENDS
 
-> 📈 **TRENDS ANALYST** · 2 updates today
+> 📈 **TRENDS ANALYST** · 1 update today
 
 ### 9. French protests 🟡
 **Alert:** 🟡
@@ -170,15 +169,6 @@ expansion_queue: []
 **Trend:** ↗ Escalating
 **Tags:** #inflation #EU-institutions
 
-### 10. US midterm early voting 🟡
-**Alert:** 🟡
-**Summary:** More than 50 million Americans had cast ballots in early voting with three days remaining before the midterm elections. Campaign activity remained intense in key states.
-**Significance:** High early turnout sets the stage for contested results in a closely watched cycle.
-**Sources:**
-- [The Guardian — Three key takeaways from early voting in midterm elections](https://www.theguardian.com/us-news/us-politics+us-news) · 02 November 2026
-**Trend:** → Stable
-**Tags:** #EU-US-relations
-
 ## ⚙️ AGENT METADATA
 
 | Field | Value |
@@ -189,7 +179,7 @@ expansion_queue: []
 | Sources queried | 13 / 20 |
 | Tool calls used | 22 (search 12 · fetch 6) |
 | Stories surfaced | 18 (ledger candidates before editorial filter) |
-| Stories published | 10 |
+| Stories published | 9 |
 | Languages processed | EN, RU, ZH, FR, ES, DE |
 | Output language | English (British) |
 | Date validated | ✅ Confirmed 02 November 2026 |
