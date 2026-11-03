@@ -1,22 +1,11 @@
-The Morning Brief for 3 November 2026 has been generated and saved.
-
-
-
-**Summary of this run**
-- Rotation half **B** (Bloomberg, Le Monde, FAZ, Handelsblatt, IMF, Eurostat, European Parliament).
-- Phase 1: Kommersant ✅, Xinhua ✅, Al Jazeera ✅, NPR ✅, FAO ✅ (September index), Consilium ❌.
-- 12 stories published across the five categories.
-- Key signals: oil drop on US-Iran talks optimism, Nasdaq correction, midterms opening today, Ukraine talks scheduled for 10–11 November.
-
 ```yaml
-
 ---
 brief_date: 2026-11-03
 version: v1.8.1
 run_time: "05:10 CET"
-stories_published: 12
+stories_published: 11
 categories: [conflict, business, eu_affairs, technology, trends]
-alert_counts: {red: 3, yellow: 6, green: 3}
+alert_counts: {red: 2, yellow: 6, green: 3}
 ongoing_situations:
   - {name: "US-Iran conflict", real_world_start: "2026-02-28", day: 249}
   - {name: "Russia-Ukraine war", real_world_start: "2022-02-24", day: 1714}
@@ -42,7 +31,7 @@ expansion_queue: []
 
 # 🌐 MORNING BRIEF
 ## Tuesday, 03 November 2026 · 05:10 CET
-### 12 stories across 5 categories
+### 11 stories across 5 categories
 
 ## DIGEST SUMMARY
 
@@ -59,7 +48,6 @@ expansion_queue: []
 | 9 | 📈 Trends | US midterms open today after record early voting | 🟡 |
 | 10 | 📈 Trends | France protests continue amid living-cost unrest | 🟡 |
 | 11 | ⚔️ Conflict | Bulgaria elects pro-Russia leaning president | 🟢 |
-| 12 | 📈 Trends | Super El Niño intensifies, Bolivia declares emergency | 🔴 |
 
 > Alert Level key: 🔴 High significance · 🟡 Developing · 🟢 Stable/Routine
 
@@ -173,7 +161,7 @@ expansion_queue: []
 **Trend:** ↗ Escalating
 **Tags:** #AI #Nasdaq #digital-regulation
 
-## 📈 TRENDS ANALYST · 3 updates today
+## 📈 TRENDS ANALYST · 2 updates today
 
 ### 10. US midterms open 🟡
 **Alert:** 🟡
@@ -183,26 +171,16 @@ expansion_queue: []
 - [Bloomberg — When Will We Know Who’s Won the Midterm Elections?](https://www.bloomberg.com/news/articles/2026-11-02/when-will-we-know-who-s-won-the-midterm-elections) · 02 November 2026
 - [Handelsblatt — Midterms: Die Zwischenwahlen in den USA im Überblick](https://www.handelsblatt.com/politik/international/midterms-die-zwischenwahlen-in-den-usa-im-ueberblick/100266607.html) · 02 November 2026
 **Trend:** → Stable
-**Tags:** #EU-US-relations #single-source
+**Tags:** #EU-US-relations #MULTI-SOURCE
 
 ### 11. France living-cost protests 🟡
 **Alert:** 🟡
-**Summary:** Large-scale, youth-led demonstrations against rising living costs continued in France and elsewhere in Europe. Interior Minister Laurent Nuñez had earlier warned of a very high risk of disorder; some 320,000 people took part in nationwide actions in late October. Separate reports noted petrol-bomb attacks on police during Saturday protests, prompting an attempted-murder investigation.
+**Summary:** Large-scale, youth-led demonstrations against rising living costs continued in France and elsewhere in Europe. Interior Minister Laurent Nuñez had earlier warned of a very high risk of disorder; some 320,000 people took part in nationwide actions in late October.
 **Horizon:** Medium (months–1 yr) — persistent cost-of-living pressure continues to mobilise protest capacity across Western Europe.
 **Sources:**
 - [NPR — France seethes again as youth-led protests sweep Europe](https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe) · 31 October 2026
-- [Al Jazeera — France opens ‘attempted murder’ probe into petrol bomb attacks on police](https://www.aljazeera.com/news/2026/11/2/france-opens-attempted-murder-probe-into-petrol-bomb-attacks-on-police) · 02 November 2026
 **Trend:** → Stable
-**Tags:** #humanitarian #EU-migration
-
-### 12. Super El Niño intensifies 🔴
-**Alert:** 🔴
-**Summary:** The Super El Niño event continued to strengthen, with indicators showing it has already reached unprecedented levels and its peak still ahead. Bolivia’s president declared a state of emergency. The phenomenon is driving a cascade of extreme weather events across multiple regions.
-**Horizon:** Medium (months–1 yr) — further intensification is expected before any decline, elevating climate-related risks to agriculture and infrastructure.
-**Sources:**
-- [Le Monde — 'Super El Niño' continues to intensify: 'It has already reached unprecedented levels'](https://www.lemonde.fr/en/archives-du-monde/03-11-2026/) · 03 November 2026
-**Trend:** ↗ Escalating
-**Tags:** #climate-policy #food-prices #single-source
+**Tags:** #humanitarian #single-source
 
 ## ⚙️ AGENT METADATA
 
@@ -214,7 +192,7 @@ expansion_queue: []
 | Sources queried | 11 / 20 |
 | Tool calls used | 28 (search 8 · fetch 8) |
 | Stories surfaced | 22 (ledger candidates before editorial filter) |
-| Stories published | 12 |
+| Stories published | 11 |
 | Languages processed | EN, FR, DE, ZH, RU |
 | Output language | English (British) |
 | Date validated | ✅ Confirmed 03 November 2026 |
