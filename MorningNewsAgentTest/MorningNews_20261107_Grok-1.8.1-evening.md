@@ -90,7 +90,7 @@ expansion_queue: []
 **Frontline status:** Domestic political transition complete; financial disruption ongoing.
 **Sources:**
 - [Al Jazeera — Paraguay’s Santiago Peña under arrest, new president Pedro Alliana sworn in](https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in) · 7 November 2026
-- [Le Monde — Paraguay’s impeached president Peña put under house arrest](https://www.lemonde.fr/en/archives-du-monde/07-11-2026/) · 7 November 2026
+- [Le Monde — Paraguay’s impeached president Peña put under house arrest](https://www.lemonde.fr/en/international/article/2026/11/07/paraguay-s-impeached-president-pena-put-under-house-arrest_6773857_4.html) · 7 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #politics #Latin-America #finance #crisis
 
