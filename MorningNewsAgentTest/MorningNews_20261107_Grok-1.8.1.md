@@ -82,7 +82,7 @@ expansion_queue: []
 **Significance:** The crisis combines political instability with a systemic financial shock in a South American economy.
 **Sources:**
 - [Al Jazeera — Paraguay’s Santiago Peña under arrest, new president Pedro Alliana sworn in](https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in) · 7 November 2026
-- [Le Monde — Paraguay's impeached president Peña put under house arrest](https://www.lemonde.fr/en/archives-du-monde/07-11-2026/) · 7 November 2026
+- [Le Monde — Paraguay's impeached president Peña put under house arrest](https://www.lemonde.fr/international/article/2026/11/07/paraguay-le-vice-president-pedro-alliana-investi-president-apres-la-destitution-de-santiago-pena-par-le-senat_6807901_3210.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default)) · 7 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #politics #latin-america #finance #crisis
 
