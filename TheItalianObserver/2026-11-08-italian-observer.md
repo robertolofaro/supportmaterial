@@ -203,7 +203,7 @@ story_index:
 | Agent version | THE ITALIAN OBSERVER v0.3 |
 | Run timestamp | 2026-11-08T10:15:00+01:00 |
 | Window | 2026-11-01T10:00:00+01:00 → 2026-11-08T10:00:00+01:00 (Europe/Rome) |
-| Issue | n/a (2026-11-08-italian-observer.md) |
+| Issue | 2026-02 (2026-11-08-italian-observer.md) |
 | State files read | 1 / 2 (2026-11-01_observer_state.md) |
 | Sources queried | 8 / 16 |
 | Foreign sources reached | 2 / 15 |
