@@ -124,7 +124,7 @@ expansion_queue: []
 **Summary:** At the 30th accession conference the EU and Montenegro provisionally closed negotiations on the free movement of goods and on food safety, veterinary and phytosanitary policy. The step continues the country’s steady progress toward membership.
 **Legislative/policy stage:** Provisional closure of chapters; remaining chapters still open.
 **Sources:**
-- [Consilium — Enlargement: Montenegro provisionally closes two more chapters](https://www.consilium.europa.eu/en/) · 06 November 2026
+- [Consilium — Enlargement: Montenegro provisionally closes two more chapters](https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/enlargement-eu-and-montenegro-close-accession-negotiations-on-free-movement-of-goods-and-food-safety/) · 06 November 2026
 **Trend:** → Stable
 **Tags:** #EU-enlargement #EU-institutions
 
@@ -133,7 +133,7 @@ expansion_queue: []
 **Summary:** The Council adopted its position on measures to simplify energy and tyre labelling rules, aiming to reduce administrative burdens while maintaining consumer information standards.
 **Legislative/policy stage:** Council position agreed; next steps in ordinary legislative procedure.
 **Sources:**
-- [Consilium — Council position on simplifying energy and tyre labelling](https://www.consilium.europa.eu/en/) · 06 November 2026
+- [Consilium — Council position on simplifying energy and tyre labelling](https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/simplification-council-agrees-position-to-simplify-energy-and-tyre-labelling/) · 06 November 2026
 **Trend:** → Stable
 **Tags:** #energy-policy #EU-institutions #climate-policy
 
