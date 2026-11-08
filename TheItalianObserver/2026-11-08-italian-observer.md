@@ -1,7 +1,7 @@
 ```yaml
 ---
 issue_date: 2026-11-08
-issue_number: null
+issue_number: 2026-02
 version: v0.3
 run_time: "10:15 Europe/Rome"
 window_start: "2026-11-01T10:00:00+01:00"
@@ -47,7 +47,7 @@ story_index:
 ```
 
 # 🇮🇹 THE ITALIAN OBSERVER
-## Sunday, 08 November 2026 · Issue n/a
+## Sunday, 08 November 2026 · Issue 2026-02
 ### Week from 01 November to 08 November 2026 (Sunday 10:00 Rome) · 11 stories across 4 sections
 
 ## DIGEST SUMMARY
