@@ -142,7 +142,7 @@ expansion_queue: []
 **Summary:** The European Commission preliminarily found that TikTok’s “For You” recommender system breaches the Digital Services Act by creating harmful “rabbit holes.” The finding concerns algorithmic amplification of certain content.
 **Legislative/policy stage:** Preliminary findings; formal enforcement steps may follow.
 **Sources:**
-- [European Commission — Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act](https://digital-strategy.ec.europa.eu/en/news) · 06 November 2026
+- [European Commission — Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes) · 06 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #digital-regulation #EU-institutions #single-source
 
@@ -151,8 +151,8 @@ expansion_queue: []
 **Summary:** The EU and Montenegro provisionally closed accession negotiations on free movement of goods and food safety. Separately, the Commission opened negotiations to extend the “Roam Like at Home” regime to the Western Balkans.
 **Legislative/policy stage:** Chapter closure (provisional); exploratory negotiations on roaming.
 **Sources:**
-- [European Commission — Enlargement: EU and Montenegro close accession negotiations](https://enlargement.ec.europa.eu/news_en) · 06 November 2026
-- [European Commission — Commission opens negotiations to extend ‘Roam Like at Home’](https://digital-strategy.ec.europa.eu/en/news) · 06 November 2026
+- [European Commission — Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety](https://enlargement.ec.europa.eu/news/enlargement-eu-and-montenegro-close-accession-negotiations-free-movement-goods-and-food-safety-2026-11-06_en) · 06 November 2026
+- [European Commission — Commission opens negotiations to extend ‘Roam Like at Home’ to the Western Balkans](https://digital-strategy.ec.europa.eu/en/news/commission-opens-negotiations-extend-roam-home-western-balkans) · 06 November 2026
 **Trend:** → Stable
 **Tags:** #EU-enlargement #EU-institutions #MULTI-SOURCE
 
@@ -161,7 +161,7 @@ expansion_queue: []
 **Summary:** The Commission disbursed €4.36 billion to Ukraine under the €90 billion Ukraine Support Loan. The payment covers macro-financial assistance and a defence component.
 **Legislative/policy stage:** Disbursement under existing instrument.
 **Sources:**
-- [European Commission — Commission disburses €4.36 billion to Ukraine under the €90 billion Ukraine Support Loan](https://enlargement.ec.europa.eu/news_en) · 05 November 2026
+- [European Commission — Commission disburses €4.36 billion to Ukraine under the €90 billion Ukraine Support Loan](https://ec.europa.eu/newsroom/ecfin/redirection/item/964448) · 05 November 2026
 **Trend:** → Stable
 **Tags:** #Ukraine-aid #EU-funds #single-source
 
@@ -172,7 +172,7 @@ expansion_queue: []
 **Summary:** The Commission’s preliminary DSA findings on TikTok centre on the design of its algorithmic feed and the risk of excessive exposure to certain categories of content. The case forms part of broader enforcement of the Digital Services Act against large platforms.
 **Analyst note:** Sustained regulatory pressure on recommender systems is likely to shape product design and compliance costs across major social platforms over the next 12–24 months.
 **Sources:**
-- [European Commission — Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act](https://digital-strategy.ec.europa.eu/en/news) · 06 November 2026
+- [European Commission — Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes) · 06 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #digital-regulation #EU-institutions #single-source
 
