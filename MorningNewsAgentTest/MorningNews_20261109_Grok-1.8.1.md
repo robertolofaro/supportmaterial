@@ -129,7 +129,7 @@ expansion_queue: []
 **Summary:** At the 30th accession conference, the EU and Montenegro provisionally closed negotiations on two chapters covering free movement of goods and food safety, veterinary and phytosanitary policy. The step was highlighted by the Council on 6 November.
 **Significance:** The closures mark continued technical progress in Montenegro’s accession path.
 **Sources:**
-- [Consilium — Enlargement: Montenegro provisionally closes two more chapters](https://www.consilium.europa.eu/en/) · 6 November 2026
+- [Consilium — Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety](https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/enlargement-eu-and-montenegro-close-accession-negotiations-on-free-movement-of-goods-and-food-safety/) · 6 November 2026
 **Trend:** → Stable
 **Tags:** #EU-enlargement #EU-institutions
 
@@ -141,7 +141,7 @@ expansion_queue: []
 **Significance:** The probe introduces personal and geopolitical risk to the leadership of the firm most critical to the AI supply chain.
 **Sources:**
 - [Al Jazeera — US chipmaker Nvidia investigates CEO Jensen Huang over affair](https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair) · 8 November 2026
-- [Le Monde — Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin](https://www.lemonde.fr/archives-du-monde/09-11-2026/) · 9 November 2026
+- [Le Monde — Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin](https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html) · 9 November 2026
 **Trend:** ⚡ Reversal
 **Tags:** #digital-regulation #supply-shock
 
