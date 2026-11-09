@@ -1,3 +1,4 @@
+```yaml
 ---
 brief_date: 2026-11-09
 version: v1.8.1
@@ -25,6 +26,8 @@ fetch_status:
   european_parliament: "✅"
 expansion_queue: []
 ---
+```
+
 # 🌐 MORNING BRIEF
 ## Monday, 9 November 2026 · 18:19 CET
 ### 12 stories across 5 categories
