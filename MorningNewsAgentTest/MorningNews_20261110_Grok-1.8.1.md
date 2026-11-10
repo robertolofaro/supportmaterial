@@ -94,7 +94,7 @@ expansion_queue: []
 **Summary:** Israel’s president has formally tasked opposition leader Gadi Eisenkot with forming a new government after neither side secured a majority in the election. Eisenkot has indicated openness to including Netanyahu’s party under certain conditions. Netanyahu remains the main rival.
 **Significance:** A potential shift in Israeli leadership could alter the regional posture toward the Iran conflict and Palestinian issues.
 **Sources:**
-- [Al Jazeera — Eisenkot open to Netanyahu joining Israel’s next government](https://www.aljazeera.com/news/2026/11/9/eisenkot-open-to-netanyahu-joining-israels-next-government) · 09 November 2026
+- [Al Jazeera — Eisenkot open to Netanyahu joining Israel’s next government](https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government) · 09 November 2026
 - [Xinhua — 以色列总统正式授权埃森科特组建新政府](https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/c.html) · 09 November 2026
 **Trend:** → Stable
 **Tags:** #MULTI-SOURCE #Israel #Middle-East
