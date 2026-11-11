@@ -1,3 +1,4 @@
+```yaml
 ---
 brief_date: 2026-11-11
 version: v1.8.1
@@ -25,6 +26,7 @@ fetch_status:
   european_parliament: "✅"
 expansion_queue: []
 ---
+```
 
 # 🌐 MORNING BRIEF
 ## Wednesday, 11 November 2026 · 18:25 CET
