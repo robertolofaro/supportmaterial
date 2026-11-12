@@ -166,7 +166,7 @@ expansion_queue: []
 **Summary:** Following widespread cyberattacks that disabled supermarket refrigeration systems across Europe, EU cyber officials warned that household appliances could be the next target. European Parliament debates on cyber resilience of critical infrastructure were scheduled for 12 November.
 **Analyst note:** The incidents highlight the expanding attack surface of IoT devices and will accelerate enforcement of the Cyber Resilience Act over the next 18 months.
 **Sources:**
-- [Euronews video bulletin — Home appliances could be next after fridge hacks](https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-midday) · 11 November 2026
+- [Euronews video bulletin — Home appliances could be next after fridge hacks](https://www.euronews.com/2026/11/10/ai-is-industrialising-cyberattacks-and-shrinking-the-time-for-exploitation-says-eu-cyberse) · 11 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #cyber #digital-regulation #single-source
 
