@@ -152,18 +152,26 @@ expansion_queue: []
 ### 1. Indonesia vice-presidential resignation 🟡
 **Alert:** 🟡
 **Summary:** Indonesian Vice-President Gibran Rakabuming Raka submitted his resignation on 12 November after the Constitutional Court and Supreme Court ruled that documents relating to his overseas education failed to meet election requirements. Raka is the son of former President Joko Widodo. The move removes a key figure from the current administration amid ongoing eligibility disputes.
+**Sources:**
+- [NPR — Indonesia's VP resigns as his eligibility and academic credentials are questioned](https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned) · 12 November 2026
+- [Al Jazeera — Indonesia vice president resigns amid dispute over eligibility](https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility) · 12 November 2026
 **Trend:** ⚡ Reversal
-**Tags:** #single-source
+**Tags:** #MULTI-SOURCE
 
 ### 2. Brooklyn building collapse 🟡
 **Alert:** 🟡
 **Summary:** A three-storey apartment building in Brooklyn collapsed on 11 November into an adjacent construction excavation, killing at least eight people and injuring more than a dozen. Firefighters continued searching the rubble under hazardous conditions on 12 November. New York mayor Zohran Mamdani described the site as extremely dangerous.
+**Sources:**
+- [Reuters — Building collapse in Brooklyn kills at least one, injures 10](https://www.reuters.com/world/building-collapse-brooklyn-kills-least-one-injures-10-2026-11-12/) · 12 November 2026
+- [The Guardian — Brooklyn building collapse kills at least two people and traps others in wreckage](https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse) · 12 November 2026
 **Trend:** → Stable
-**Tags:** #humanitarian #single-source
+**Tags:** #humanitarian #MULTI-SOURCE
 
 ### 3. Yemen fighting 🟡
 **Alert:** 🟡
 **Summary:** Fighting intensified in Yemen as the Houthis denied claims they had targeted Mecca. Saudi-led coalition statements and Houthi media offered conflicting accounts of recent strikes. The escalation occurs against a backdrop of stalled peace efforts and continued regional spillover risks.
+**Sources:**
+- [Al Jazeera — Fighting intensifies in Yemen as Houthis deny targeting Mecca](https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca) · 12 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #Yemen #single-source
 
