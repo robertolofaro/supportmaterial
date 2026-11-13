@@ -83,7 +83,7 @@ expansion_queue: []
 **Significance:** The shuttle diplomacy keeps a channel open but underscores the gap on core territorial issues; European involvement is expected in the next round.
 **Sources:**
 - [NPR — U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi](https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks) · 12 November 2026
-- [Al Jazeera — US envoys and Putin agree to continue Russia-Ukraine peace talks](https://www.aljazeera.com/news/) · 13 November 2026
+- [Al Jazeera — US envoys and Putin agree to continue Russia-Ukraine peace talks](https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin) · 12 November 2026
 - [Consilium — Joint statement by President Costa and President von der Leyen following their meeting with President Zelenskyy in Dublin](https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/) · 12 November 2026
 **Trend:** → Stable
 **Tags:** #Ukraine #Russia #peace-talks #MULTI-SOURCE
@@ -115,7 +115,7 @@ expansion_queue: []
 **Market signal:** Bearish short-term for Nvidia and the broader AI complex until succession clarity emerges.
 **Sources:**
 - [NPR — Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader](https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen) · 13 November 2026
-- [Al Jazeera — Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?](https://www.aljazeera.com/news/) · 13 November 2026
+- [Al Jazeera — Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?](https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress) · 12 November 2026
 **Trend:** ⚡ Reversal
 **Tags:** #earnings #M&A #MULTI-SOURCE
 
@@ -166,7 +166,7 @@ expansion_queue: []
 **Analyst note:** Recurrent cloud outages of this scale reinforce the case for multi-vendor resilience strategies over the next 12-24 months.
 **Sources:**
 - [Bloomberg — Microsoft Outage Puts Software Stocks in Spotlight as US Futures Rise](https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus) · 13 November 2026
-- [Al Jazeera — Microsoft outage hits tens of thousands of users](https://www.aljazeera.com/news/) · 13 November 2026
+- [Al Jazeera — Microsoft hit by global outages: What happened and why?](https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why) · 13 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #digital-regulation #MULTI-SOURCE
 
@@ -186,7 +186,7 @@ expansion_queue: []
 **Summary:** Spain experienced its first general strike in 14 years, driven by a housing crisis and declining purchasing power despite solid macroeconomic performance. Parliament subsequently approved housing reforms limiting evictions, though their duration depends on the outcome of the upcoming snap election. More than 50 people were arrested and transport was disrupted in multiple cities.
 **Horizon:** Short (days–weeks) — the strike highlights the political cost of the housing gap ahead of the election.
 **Sources:**
-- [Al Jazeera — Spain approves housing reforms after nationwide strike over costs](https://www.aljazeera.com/news/) · 13 November 2026
+- [Al Jazeera — Spain approves housing reforms after nationwide strike over costs](https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs) · 12 November 2026
 - [Xinhua — 西班牙发生全国性罢工 超50人被捕多地交通受阻](https://www.news.cn/world/20261112/e335ebeb42ef4317b53e3dc7ec443d15/c.html) · 12 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #EU-migration #single-source
@@ -208,6 +208,10 @@ expansion_queue: []
 | Expansion Queue | None |
 
 ---
+
+MORNING BRIEF is an AI-assisted digest. All summaries are paraphrased from original sources.
+Verify time-sensitive information at the linked URLs before acting.
+Output language: British English.
 
 MORNING BRIEF is an AI-assisted digest. All summaries are paraphrased from original sources.
 Verify time-sensitive information at the linked URLs before acting.
