@@ -1,3 +1,4 @@
+```yaml
 ---
 issue_date: 2026-11-15
 issue_number: null
@@ -30,6 +31,7 @@ story_index:
   - {id: "ucraina-formato", section: foreign_view, n: 1, headline: "Italy confirmed in European format for Ukraine talks", alert: yellow, trend: "→ Stable", tags: ["#governo", "#politica-estera"]}
   - {id: "meta-privacy", section: foreign_view, n: 2, headline: "Italy fines Meta €805 million over Android gallery access", alert: yellow, trend: "→ Stable", tags: ["#sicurezza"]}
 ---
+```
 
 # 🇮🇹 THE ITALIAN OBSERVER
 ## Sunday, 15 November 2026 · Issue n/a
