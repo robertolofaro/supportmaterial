@@ -26,6 +26,7 @@ fetch_status:
   european_commission: "〜"
 expansion_queue: []
 ---
+```
 
 # 🌐 MORNING BRIEF
 ## Monday, 16 November 2026 · 18:17 CET
