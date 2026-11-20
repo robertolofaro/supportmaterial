@@ -70,7 +70,7 @@ expansion_queue: []
 **Sources:**
 - [Reuters — Trump, Xi and Putin release 'peace declaration' from unprecedented summit](https://www.reuters.com/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/) · 19 November 2026
 - [Euronews — European leaders reject 'Yalta 2.0' for Ukraine after Trump meets Putin and Xi](https://www.euronews.com/2026/11/19/european-leaders-reject-yalta-20-deal-for-ukraine-after-trump-meets-putin-and-xi) · 19 November 2026
-- [The Guardian — China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars](https://www.theguardian.com/world/2026/nov/19/china-russia-and-us-agree-peace-declaration-with-no-mention-of-ukraine-and-iran-wars) · 19 November 2026
+- [The Guardian — China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars](https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars) · 19 November 2026
 **Trend:** ↗ Escalating
 **Tags:** #Russia #Ukraine #nuclear #EU-US-relations
 
