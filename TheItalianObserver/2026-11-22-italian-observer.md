@@ -1,3 +1,4 @@
+```yaml
 ---
 issue_date: 2026-11-22
 issue_number: null
@@ -42,6 +43,7 @@ story_index:
   - {id: "foreign-vannacci", section: foreign_view, n: 1, headline: "Vannacci seeks leverage in any Meloni second term", alert: yellow, trend: "→ Stable", tags: ["#foreign-view", "#elezioni-politiche", "#destra"]}
   - {id: "foreign-protests", section: foreign_view, n: 2, headline: "Foreign outlets cover nationwide protests against Meloni budget", alert: yellow, trend: "→ Stable", tags: ["#foreign-view", "#sciopero", "#legge-di-bilancio"]}
 ---
+```
 
 # 🇮🇹 THE ITALIAN OBSERVER
 ## Sunday, 22 November 2026 · Issue n/a
