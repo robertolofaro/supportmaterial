@@ -1,7 +1,7 @@
 ```yaml
 ---
 issue_date: 2026-11-22
-issue_number: null
+issue_number: 2026-04
 version: v0.3
 run_time: "10:06 Europe/Rome"
 window_start: "2026-11-15T10:00:00+01:00"
@@ -46,7 +46,7 @@ story_index:
 ```
 
 # 🇮🇹 THE ITALIAN OBSERVER
-## Sunday, 22 November 2026 · Issue n/a
+## Sunday, 22 November 2026 · Issue 2026-04
 ### Week from 15 November to 22 November 2026 (Sunday 10:00 Rome) · 10 stories across 4 sections
 
 ## DIGEST SUMMARY
@@ -199,7 +199,7 @@ story_index:
 | Agent version | THE ITALIAN OBSERVER v0.3 |
 | Run timestamp | 2026-11-22T10:06:00+01:00 |
 | Window | 2026-11-15T10:00:00+01:00 → 2026-11-22T10:00:00+01:00 (Europe/Rome) |
-| Issue | n/a (2026-11-22-italian-observer.md) |
+| Issue | 2026-04 (2026-11-22-italian-observer.md) |
 | State files read | 2 / 2 (2026-11-15_observer_state.md, 2026-11-08_observer_state.md) |
 | Sources queried | 8 / 16 |
 | Foreign sources reached | 5 / 15 |
