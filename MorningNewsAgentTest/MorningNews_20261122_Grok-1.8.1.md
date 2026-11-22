@@ -162,7 +162,7 @@ expansion_queue: []
 **Analyst note:** The two-year extension delays any regulatory constraint on lethal autonomous systems through at least 2028.
 **Sources:**
 - [NPR — Killer robots: U.N. talks fall short of hopes for legally binding rules](https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones) · 21 November 2026
-- [Al Jazeera — Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028](https://www.aljazeera.com/news/2026/11/21/nations-agree-to-elaborate-on-rules-for-ai-run-killer-robots-by-2028) · 21 November 2026
+- [Al Jazeera — Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028](https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit) · 21 November 2026
 **Trend:** → Stable
 **Tags:** #digital-regulation #drone-warfare #AI
 
