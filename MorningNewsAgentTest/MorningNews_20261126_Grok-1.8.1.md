@@ -1,4 +1,5 @@
 ```yaml
+
 ---
 brief_date: 2026-11-26
 version: v1.8.1
@@ -115,10 +116,11 @@ expansion_queue: []
 
 ### 6. ECB payments survey and Sweden T2 accession 🟢
 **Alert:** 🟢
-**Summary:** The ECB published findings that card payments now account for 45% of euro-area store transactions, with cash at 44% and mobile payments rising. Separately, the ECB and Sveriges Riksbank concluded an agreement for Sweden to join the T2 real-time gross settlement system.
-**Market signal:** Neutral; reinforces gradual shift to digital payments.
+**Summary:** The ECB published findings that card payments now account for 45% of euro-area store transactions, with cash at 44% and mobile payments rising. Separately, the ECB and Sveriges Riksbank concluded an agreement for Sweden to join the T2 real-time gross settlement system, with migration targeted for February 2030.
+**Market signal:** Neutral; reinforces gradual shift to digital payments and shared European infrastructure.
 **Sources:**
-- [ECB — ECB and Sveriges Riksbank conclude agreement for Sweden to join T2](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125.en.html) · 25 November 2026
+- [ECB — Card payments edge past cash in shops; euro area consumers want both](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html) · 25 November 2026
+- [ECB — ECB and Sveriges Riksbank conclude agreement for Sweden to join T2](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html) · 25 November 2026
 **Trend:** → Stable
 **Tags:** #ECB #eurozone #FX
 
