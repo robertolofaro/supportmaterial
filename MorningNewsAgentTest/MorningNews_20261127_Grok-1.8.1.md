@@ -122,7 +122,7 @@ expansion_queue: []
 **Summary:** Leaders meet for a Special European Council on the Multiannual Financial Framework 2028-2034 and Ukraine financing needs. Consilium published the invitation and remarks; Al Jazeera notes struggles to agree on the budget and a $49bn Ukraine loan. European Parliament press kit outlines priorities.
 **Sources:**
 - [Consilium — Special European Council of 26-27 November 2026 - Invitation letter](https://www.consilium.europa.eu/en/press/press-releases/2026/11/24/special-european-council-of-26-27-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/) · 24 November 2026
-- [Al Jazeera — EU leaders struggle to agree on long-term budget, $49bn Ukraine loan](https://www.aljazeera.com/news/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-49bn-ukraine-loan) · 26 November 2026
+- [Al Jazeera — EU leaders struggle to agree on long-term budget, $49bn Ukraine loan](https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine) · 26 November 2026
 **Trend:** → Stable
 **Tags:** #eu-affairs #budget #ukraine #MULTI-SOURCE
 
